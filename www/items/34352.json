@@ -1,0 +1,35 @@
+{
+  "ItemID": "34352",
+  "FullTitle": "Transactions of the Kansas Academy of Science.  ",
+  "VolumeInfo": "4",
+  "articles": [
+    {
+      "reference_id": "70756",
+      "genre": "article",
+      "title": "Rocky Mountain Locust (Caloptenus spretus Uhler)",
+      "secondary_title": "Trans. Kansas Acad. Sci",
+      "volume": "4",
+      "spage": "26",
+      "epage": "28",
+      "year": "1875",
+      "date": "1875-00-00",
+      "issn": "0022-8443",
+      "PageID": "8323017",
+      "created": "2011-06-03 06:55:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46655",
+          "lastname": "",
+          "forename": "Snow"
+        }
+      ],
+      "bhl_pages": [
+        8323017,
+        8323018,
+        8323019
+      ]
+    }
+  ]
+}

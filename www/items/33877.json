@@ -1,0 +1,82 @@
+{
+  "ItemID": "33877",
+  "FullTitle": "Bulletin of the Essex Institute.",
+  "VolumeInfo": "24",
+  "articles": [
+    {
+      "reference_id": "49215",
+      "genre": "article",
+      "title": "The reptiles of the Galapagos Islands. From the collections of Dr. Geo. Baur",
+      "secondary_title": "Bull. Essex Inst.",
+      "volume": "24",
+      "spage": "73",
+      "epage": "87",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "8112122",
+      "created": "2010-03-21 12:10:45",
+      "updated": "2012-05-11 13:16:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        8112122,
+        8112123,
+        8112124,
+        8112125,
+        8112126,
+        8112127,
+        8112128,
+        8112129,
+        8112130,
+        8112131,
+        8112132,
+        8112133,
+        8112134,
+        8112135,
+        8112136
+      ]
+    },
+    {
+      "reference_id": "71357",
+      "genre": "article",
+      "title": "On reptiles collected by Dr. Geo. Baur. near Guayaquil, Ecuador",
+      "secondary_title": "Bull. Essex Inst",
+      "volume": "24",
+      "spage": "88",
+      "epage": "95",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "8112137",
+      "created": "2011-06-03 19:32:41",
+      "updated": "2012-05-11 13:16:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        8112137,
+        8112138,
+        8112139,
+        8112140,
+        8112141,
+        8112142,
+        8112143,
+        8112144
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ItemID": "30167",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 60, bd. 1 (1894)",
+  "articles": [
+    {
+      "reference_id": "61443",
+      "genre": "article",
+      "title": "Bericht \u00fcber die von Herrn Dr Sander gesammelten Tunicaten",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "60",
+      "spage": "10",
+      "epage": "14",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1481990",
+      "PageID": "6415103",
+      "created": "2011-01-10 20:25:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43023",
+          "lastname": "Traustedt",
+          "forename": "M P A"
+        },
+        {
+          "id": "43024",
+          "lastname": "Weltner",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        6415103,
+        6415102,
+        6415101,
+        6415100,
+        6415099
+      ]
+    }
+  ]
+}

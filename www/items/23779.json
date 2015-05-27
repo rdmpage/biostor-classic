@@ -1,0 +1,84 @@
+{
+  "ItemID": "23779",
+  "FullTitle": "The Ohio journal of science.",
+  "VolumeInfo": "v. 20 (1919-1920)",
+  "articles": [
+    {
+      "reference_id": "57510",
+      "genre": "article",
+      "title": "Notes on the generic affinities of certain Cicadellidae (Homoptera). With descriptions of a new genus and two new species",
+      "secondary_title": "Ohio Journal of Science",
+      "volume": "20",
+      "spage": "153",
+      "epage": "166",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0030-0950",
+      "PageID": "3736095",
+      "created": "2010-11-20 13:25:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42061",
+          "lastname": "Osborn",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        3736095,
+        3736096,
+        3736097,
+        3736098,
+        3736099,
+        3736100,
+        3736101,
+        3736102,
+        3736103,
+        3736104,
+        3736105,
+        3736106,
+        3736107,
+        3736108
+      ]
+    },
+    {
+      "reference_id": "67238",
+      "genre": "article",
+      "title": "The Crane-Flies (Tipulidae, Diptera)",
+      "secondary_title": "The Ohio Journal of Science",
+      "volume": "20",
+      "issue": "6",
+      "spage": "193",
+      "epage": "203",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0030-0950",
+      "hdl": "1811\/2088",
+      "PageID": "3736135",
+      "created": "2011-05-23 16:40:07",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10073",
+          "lastname": "Alexander",
+          "forename": "Charles P"
+        }
+      ],
+      "bhl_pages": [
+        3736135,
+        3736136,
+        3736137,
+        3736138,
+        3736139,
+        3736140,
+        3736141,
+        3736142,
+        3736143,
+        3736144,
+        3736145
+      ]
+    }
+  ]
+}

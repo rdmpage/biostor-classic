@@ -1,0 +1,69 @@
+{
+  "ItemID": "36515",
+  "FullTitle": "Journal of the New York Entomological Society.",
+  "VolumeInfo": "v. 25 1917",
+  "articles": [
+    {
+      "reference_id": "72249",
+      "genre": "article",
+      "title": "Synopsis of the Anthophilax of North America (Col.)",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "25",
+      "spage": "38",
+      "epage": "44",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0028-7199",
+      "PageID": "9282006",
+      "created": "2011-06-04 00:57:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46991",
+          "lastname": "Nicolay",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9282006,
+        9282007,
+        9282008,
+        9282009,
+        9282010,
+        9282011,
+        9282012
+      ]
+    },
+    {
+      "reference_id": "72265",
+      "genre": "article",
+      "title": "On Merium and some blue Callidium (Col.)",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "25",
+      "spage": "183",
+      "epage": "187",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0028-7199",
+      "PageID": "9282181",
+      "created": "2011-06-04 00:59:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46680",
+          "lastname": "Schaeffer",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9282181,
+        9282182,
+        9282183,
+        9282184,
+        9282185
+      ]
+    }
+  ]
+}

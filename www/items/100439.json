@@ -1,0 +1,40 @@
+{
+  "ItemID": "100439",
+  "FullTitle": "Bolet\u00edn del Museo Nacional de Chile.  ",
+  "VolumeInfo": "t. 10 1917",
+  "articles": [
+    {
+      "reference_id": "101975",
+      "genre": "article",
+      "title": "Dos nuevos sim\u00falidos de Chile",
+      "secondary_title": "Bolet\u00edn del Museo Nacional de Chile",
+      "volume": "10",
+      "spage": "28",
+      "epage": "35",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0716-2545",
+      "PageID": "32210991",
+      "created": "2012-03-25 10:56:57",
+      "updated": "2012-03-25 10:59:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53562",
+          "lastname": "Figueroa",
+          "forename": "C\u00e1rlos Silva"
+        }
+      ],
+      "bhl_pages": [
+        32210991,
+        32210990,
+        32210989,
+        32210988,
+        32210987,
+        32210986,
+        32210985,
+        32210984
+      ]
+    }
+  ]
+}

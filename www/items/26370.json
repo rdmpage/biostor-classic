@@ -1,0 +1,41 @@
+{
+  "ItemID": "26370",
+  "FullTitle": "Occasional papers of the California Academy of Sciences.",
+  "VolumeInfo": "no. 26 (1961)",
+  "articles": [
+    {
+      "reference_id": "69981",
+      "genre": "article",
+      "title": "Description of a new species of snake of the colubrid genus Gyalopion from the state of Zacatecas, Mexico",
+      "secondary_title": "Occasional Papers of the California Academy of Sciences",
+      "volume": "26",
+      "spage": "1",
+      "epage": "4",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0068-5461",
+      "PageID": "4611911",
+      "created": "2011-06-02 08:51:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "496",
+          "lastname": "Leviton",
+          "forename": "Alan E"
+        },
+        {
+          "id": "46440",
+          "lastname": "Banta",
+          "forename": "Benjamin H"
+        }
+      ],
+      "bhl_pages": [
+        4611911,
+        4611916,
+        4611914,
+        4611913
+      ]
+    }
+  ]
+}

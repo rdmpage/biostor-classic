@@ -1,0 +1,39 @@
+{
+  "ItemID": "37094",
+  "FullTitle": "The Journal of the Department of Agriculture, Victoria.  ",
+  "VolumeInfo": "v.16 1918",
+  "articles": [
+    {
+      "reference_id": "59032",
+      "genre": "article",
+      "title": "Diseases of fruit trees and their treatment",
+      "secondary_title": "Journal of the Department of Agriculture, Victoria",
+      "volume": "16",
+      "spage": "101",
+      "epage": "107",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1769082",
+      "PageID": "9516046",
+      "created": "2010-11-20 23:32:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42330",
+          "lastname": "Davey",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        9516046,
+        9516047,
+        9516048,
+        9516049,
+        9516050,
+        9516051,
+        9516052
+      ]
+    }
+  ]
+}

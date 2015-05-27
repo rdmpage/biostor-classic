@@ -1,0 +1,141 @@
+{
+  "ItemID": "95288",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 6 1883",
+  "articles": [
+    {
+      "reference_id": "69960",
+      "genre": "article",
+      "title": "Trichoplax adhaerens, nov. gen., nov. spec",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "6",
+      "spage": "92",
+      "epage": "97",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0044-5231",
+      "PageID": "30141689",
+      "created": "2011-06-02 07:58:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46433",
+          "lastname": "Schulze",
+          "forename": "Franz Eilhard"
+        }
+      ],
+      "bhl_pages": [
+        30141689,
+        30141690,
+        30141691,
+        30141692,
+        30141693,
+        30141694
+      ]
+    },
+    {
+      "reference_id": "98424",
+      "genre": "article",
+      "title": "Drymonema an der Kuste von Brasilien",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "6",
+      "spage": "220",
+      "epage": "222",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0044-5231",
+      "PageID": "30141817",
+      "created": "2011-11-30 14:05:41",
+      "updated": "2011-11-30 14:05:41",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30141817,
+        30141818,
+        30141819
+      ]
+    },
+    {
+      "reference_id": "98458",
+      "genre": "article",
+      "title": "Ueber ein Sporozoon beim Pferde",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "6",
+      "spage": "396",
+      "epage": "397",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0044-5231",
+      "PageID": "30141993",
+      "created": "2011-11-30 14:18:52",
+      "updated": "2011-11-30 14:18:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30141993,
+        30141994
+      ]
+    },
+    {
+      "reference_id": "67280",
+      "genre": "article",
+      "title": "Intorno a due nuovi pesci dal golfo di Napoli",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "6",
+      "spage": "397",
+      "epage": "400",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0044-5231",
+      "PageID": "30141994",
+      "created": "2011-05-25 08:15:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45494",
+          "lastname": "Giglioli",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        30141994,
+        30141995,
+        30141996,
+        30141997
+      ]
+    },
+    {
+      "reference_id": "102301",
+      "genre": "article",
+      "title": "Studien zur Kenntnis der pelagischen Fauna der Schweizerseen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "6",
+      "spage": "466",
+      "epage": "471",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0044-5231",
+      "PageID": "30142063",
+      "created": "2012-04-02 21:22:20",
+      "updated": "2012-04-02 21:22:20",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30142063,
+        30142064,
+        30142065,
+        30142066,
+        30142067,
+        30142068
+      ]
+    }
+  ]
+}

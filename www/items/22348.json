@@ -1,0 +1,82 @@
+{
+  "ItemID": "22348",
+  "FullTitle": "Occasional papers of the California Academy of Sciences.",
+  "VolumeInfo": "no. 84 (1970)",
+  "articles": [
+    {
+      "reference_id": "51982",
+      "genre": "article",
+      "title": "A new species of the genus Platymantis (Ranidae) with a list of amphibians known from South Gigante Island, Philippines",
+      "secondary_title": "Occasional Papers of the California Academy of Sciences",
+      "volume": "84",
+      "spage": "1",
+      "epage": "8",
+      "year": "1970",
+      "date": "1970-09-17",
+      "issn": "0068-5461",
+      "PageID": "3147752",
+      "created": "2010-06-27 13:14:58",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2173",
+          "lastname": "Brown",
+          "forename": "Walter C"
+        },
+        {
+          "id": "2174",
+          "lastname": "Alcala",
+          "forename": "Angel C"
+        }
+      ],
+      "bhl_pages": [
+        3147752,
+        3147753,
+        3147739,
+        3147740,
+        3147737,
+        3147754,
+        3147741,
+        3147755
+      ]
+    },
+    {
+      "reference_id": "98017",
+      "genre": "article",
+      "title": "A new species of the genus Platymantls (Ranidae) with a list of amphibians known from South Gigante lsland, Philippines",
+      "secondary_title": "Occasional Papers of the California Academy of Sciences",
+      "volume": "84",
+      "spage": "1",
+      "epage": "7",
+      "year": "1970",
+      "date": "1970-09-17",
+      "issn": "0068-5461",
+      "PageID": "3147752",
+      "created": "2011-11-10 08:27:53",
+      "updated": "2011-11-10 08:30:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2173",
+          "lastname": "Brown",
+          "forename": "Walter C"
+        },
+        {
+          "id": "53326",
+          "lastname": "Akala",
+          "forename": "Angel C"
+        }
+      ],
+      "bhl_pages": [
+        3147752,
+        3147753,
+        3147739,
+        3147740,
+        3147737,
+        3147754,
+        3147741
+      ]
+    }
+  ]
+}

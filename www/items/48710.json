@@ -1,0 +1,35 @@
+{
+  "ItemID": "48710",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 9 (1857)",
+  "articles": [
+    {
+      "reference_id": "61480",
+      "genre": "article",
+      "title": "Note carcinologique sur la famille des Thalassides et sur celle des Astacides",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e. Paris",
+      "volume": "9",
+      "spage": "99",
+      "epage": "102",
+      "year": "1857",
+      "date": "1857-00-00",
+      "PageID": "13712235",
+      "created": "2011-01-10 20:52:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43034",
+          "lastname": "Saussure",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13712235,
+        13712236,
+        13712237,
+        13712238
+      ]
+    }
+  ]
+}

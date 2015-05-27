@@ -1,0 +1,105 @@
+{
+  "ItemID": "36411",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Verein in Berlin.",
+  "VolumeInfo": "v. 55 1910",
+  "articles": [
+    {
+      "reference_id": "70972",
+      "genre": "article",
+      "title": "Uber Trichius fasciatus L",
+      "secondary_title": "Berliner Entomologische Zeitschrift. Berlin",
+      "volume": "55",
+      "spage": "1",
+      "epage": "8",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0323-6145",
+      "PageID": "9216633",
+      "created": "2011-06-03 17:04:24",
+      "updated": "2011-11-21 12:48:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46702",
+          "lastname": "Schulze",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9216633,
+        9216634,
+        9216635,
+        9216636,
+        9216637,
+        9216638,
+        9216639,
+        9216640
+      ]
+    },
+    {
+      "reference_id": "65530",
+      "genre": "article",
+      "title": "Bemerkungen uber Coleopteren aus dem baltischen Bernstein",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "55",
+      "spage": "181",
+      "epage": "192",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0323-6145",
+      "PageID": "9216817",
+      "created": "2011-04-09 23:58:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44889",
+          "lastname": "Quiel",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9216817,
+        9216818,
+        9216819,
+        9216820,
+        9216821,
+        9216822,
+        9216823,
+        9216824,
+        9216825,
+        9216826,
+        9216827,
+        9216828
+      ]
+    },
+    {
+      "reference_id": "58389",
+      "genre": "article",
+      "title": "Camptolynx, a new ichneumonid genus in the Royal Berlin Zoological Museum",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "55",
+      "spage": "252",
+      "epage": "254",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0323-6145",
+      "PageID": "9216888",
+      "created": "2010-11-20 20:57:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9216888,
+        9216889,
+        9216890
+      ]
+    }
+  ]
+}

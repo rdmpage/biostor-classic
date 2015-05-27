@@ -1,0 +1,65 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    },
+    {
+      "firstname": "Rainer",
+      "lastname": "Schulte",
+      "name": "Rainer Schulte"
+    }
+  ],
+  "type": "article",
+  "title": "New species of centrolenid frogs from northern Peru",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "155",
+    "pages": "1--33",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1993",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/220"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4469367"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 220
+    },
+    {
+      "type": "bhl",
+      "id": 4469367
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -77.533333333333,
+        -5.7333333333333
+      ],
+      [
+        -76.8,
+        -6.45
+      ],
+      [
+        -76.333333333333,
+        -6.5
+      ]
+    ]
+  }
+}

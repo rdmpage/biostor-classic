@@ -1,0 +1,163 @@
+{
+  "ItemID": "41609",
+  "FullTitle": "Revue zoologique africaine.",
+  "VolumeInfo": "v.10, 1922",
+  "articles": [
+    {
+      "reference_id": "99564",
+      "genre": "article",
+      "title": "Myodaires sup\u00e9rieurs du Soudan",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "10",
+      "spage": "62",
+      "epage": "65",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0771-0488",
+      "PageID": "11085096",
+      "created": "2011-12-17 21:03:21",
+      "updated": "2011-12-17 21:04:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39857",
+          "lastname": "Villeneuve",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11085096,
+        11085097,
+        11085098,
+        11085099
+      ]
+    },
+    {
+      "reference_id": "49196",
+      "genre": "article",
+      "title": "Description de reptiles nouveaux du Congo Belge",
+      "secondary_title": "Rev. Zool. Africaine",
+      "volume": "10",
+      "spage": "66",
+      "epage": "71",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0251-074X",
+      "PageID": "11085100",
+      "created": "2010-03-21 12:00:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39402",
+          "lastname": "De Witte",
+          "forename": "G F"
+        }
+      ],
+      "bhl_pages": [
+        11085100,
+        11085101,
+        11085102,
+        11085103,
+        11085104,
+        11085105
+      ]
+    },
+    {
+      "reference_id": "20670",
+      "genre": "article",
+      "title": "Poissons nouveaux ou rares du mus\u00e9e du Congo",
+      "secondary_title": "Revue de Zoologie Africaine",
+      "volume": "10",
+      "spage": "272",
+      "epage": "280",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0251-074X",
+      "PageID": "11085310",
+      "created": "2010-02-09 18:25:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11085310,
+        11085311,
+        11085312,
+        11085313,
+        11085314,
+        11085315,
+        11085316,
+        11085317,
+        11085318
+      ]
+    },
+    {
+      "reference_id": "67126",
+      "genre": "article",
+      "title": "Poissons nouveaux ou rares du mus\u00e9e du Congo",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "10",
+      "spage": "272",
+      "epage": "280",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0771-0488",
+      "PageID": "11085310",
+      "created": "2011-05-14 08:10:50",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11085310,
+        11085311,
+        11085312,
+        11085313,
+        11085314,
+        11085315,
+        11085316,
+        11085317,
+        11085318
+      ]
+    },
+    {
+      "reference_id": "50133",
+      "genre": "article",
+      "title": "Description dun batracien nouveau r\u00e9colt\u00e9 au Mayumbe par le Dr. Schouteden",
+      "secondary_title": "Revue Zoologique Africaine. Bruxelles",
+      "volume": "10",
+      "spage": "320",
+      "epage": "322",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0771-0488",
+      "PageID": "11085358",
+      "created": "2010-04-10 18:32:11",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "21",
+          "lastname": "De Witte",
+          "forename": "Gaston-Fr"
+        }
+      ],
+      "bhl_pages": [
+        11085358,
+        11085359,
+        11085360
+      ]
+    }
+  ]
+}

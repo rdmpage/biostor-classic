@@ -1,0 +1,36 @@
+{
+  "ItemID": "33594",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 18 1937",
+  "articles": [
+    {
+      "reference_id": "61959",
+      "genre": "article",
+      "title": "The Chinese species described in Meyen's \"Observationes Botanicae\" (Beitr\u00e4ge zur Botanik)",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "18",
+      "spage": "54",
+      "epage": "57",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0004-2625",
+      "PageID": "8103232",
+      "created": "2011-01-26 19:12:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42947",
+          "lastname": "Merrill",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        8103232,
+        8103233,
+        8103234,
+        8103235
+      ]
+    }
+  ]
+}

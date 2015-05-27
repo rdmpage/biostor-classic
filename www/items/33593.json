@@ -1,0 +1,96 @@
+{
+  "ItemID": "33593",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 17 1936",
+  "articles": [
+    {
+      "reference_id": "61931",
+      "genre": "article",
+      "title": "Burretiodendron, a new genus of Tiliaceae",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "17",
+      "spage": "47",
+      "epage": "49",
+      "year": "1936",
+      "date": "1936-00-00",
+      "issn": "0004-2625",
+      "PageID": "8102306",
+      "created": "2011-01-26 19:09:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43223",
+          "lastname": "Rehder",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8102306,
+        8102307,
+        8102308
+      ]
+    },
+    {
+      "reference_id": "61743",
+      "genre": "article",
+      "title": "The genus Cestrum in Guatemala",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "17",
+      "spage": "341",
+      "epage": "349",
+      "year": "1936",
+      "date": "1936-00-00",
+      "issn": "0004-2625",
+      "PageID": "8102630",
+      "created": "2011-01-26 17:55:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43128",
+          "lastname": "#morton",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        8102630,
+        8102631,
+        8102632,
+        8102633,
+        8102634,
+        8102635,
+        8102636,
+        8102637,
+        8102638
+      ]
+    },
+    {
+      "reference_id": "61995",
+      "genre": "article",
+      "title": "A new species of Acer from Guatemala",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "17",
+      "spage": "350",
+      "epage": "351",
+      "year": "1936",
+      "date": "1936-00-00",
+      "issn": "0004-2625",
+      "PageID": "8102639",
+      "created": "2011-01-26 19:18:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43223",
+          "lastname": "Rehder",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8102639,
+        8102640
+      ]
+    }
+  ]
+}

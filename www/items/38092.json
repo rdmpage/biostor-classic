@@ -1,0 +1,92 @@
+{
+  "ItemID": "38092",
+  "FullTitle": "Entomologische Rundschau.  ",
+  "VolumeInfo": "jahrg. 29 1912",
+  "articles": [
+    {
+      "reference_id": "80011",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der afrikanischen Chermiden- (Psylliden-) Fauna. I",
+      "secondary_title": "Entomologische Rundschau",
+      "volume": "29",
+      "issue": "2",
+      "spage": "10",
+      "epage": "12",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "27025673",
+      "PageID": "9947778",
+      "created": "2011-07-04 17:05:13",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50020",
+          "lastname": "Aulmann",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9947778,
+        9947779,
+        9947780
+      ]
+    },
+    {
+      "reference_id": "80010",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der Psylliden Fauna von Neu-Guinea",
+      "secondary_title": "Entomologische Rundschau",
+      "volume": "29",
+      "spage": "117",
+      "epage": "118",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "27025673",
+      "PageID": "9947908",
+      "created": "2011-07-04 17:03:16",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50020",
+          "lastname": "Aulmann",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9947908,
+        9947909
+      ]
+    },
+    {
+      "reference_id": "80009",
+      "genre": "article",
+      "title": "Einige weitere Tubuliferen aus dem tropischen Afrika",
+      "secondary_title": "Entomologische Rundschau",
+      "volume": "29",
+      "spage": "130",
+      "epage": "133",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "27025673",
+      "PageID": "9947921",
+      "created": "2011-07-04 16:59:49",
+      "updated": "2011-07-04 16:59:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39920",
+          "lastname": "Karny",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9947921,
+        9947922,
+        9947923,
+        9947924
+      ]
+    }
+  ]
+}

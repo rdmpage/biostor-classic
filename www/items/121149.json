@@ -1,0 +1,38 @@
+{
+  "ItemID": "121149",
+  "FullTitle": "Annali del Museo civico di storia naturale di Genova.",
+  "VolumeInfo": "v. 37 ser. 2 v. 17 (1896-97)",
+  "articles": [
+    {
+      "reference_id": "105579",
+      "genre": "article",
+      "title": "Viaggio di Lamberto Loria nella Papuasia orientale. XVII. Additions to our knowledge of the Cicadidae of New Guinea",
+      "secondary_title": "Annali Del Museo Civico Di Storia Naturale Genova",
+      "volume": "17",
+      "series": "2",
+      "spage": "378",
+      "epage": "383",
+      "year": "1897",
+      "date": "1897-00-00",
+      "PageID": "39201798",
+      "created": "2012-08-01 16:56:04",
+      "updated": "2012-08-01 17:23:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        39201798,
+        39201799,
+        39201800,
+        39201801,
+        39201802,
+        39201803
+      ]
+    }
+  ]
+}

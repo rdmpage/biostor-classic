@@ -1,0 +1,34 @@
+{
+  "ItemID": "26772",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.131 (1900)",
+  "articles": [
+    {
+      "reference_id": "104912",
+      "genre": "article",
+      "title": "Observations sur le d\u00e9veloppement des Onychophores",
+      "secondary_title": "Comptes Rendus De L'acad\u00e9mie Des Sciences De Paris",
+      "volume": "131",
+      "spage": "652",
+      "epage": "654",
+      "year": "1900",
+      "date": "1900-00-00",
+      "PageID": "4803384",
+      "created": "2012-06-29 09:56:28",
+      "updated": "2012-06-29 09:56:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        4803384,
+        4803385,
+        4803386
+      ]
+    }
+  ]
+}

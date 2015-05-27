@@ -1,0 +1,35 @@
+{
+  "ItemID": "52674",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 11 (1863)",
+  "articles": [
+    {
+      "reference_id": "59776",
+      "genre": "article",
+      "title": "Description d'un Helix d'Australie",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "11",
+      "spage": "273",
+      "epage": "275",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "1605690",
+      "PageID": "15338323",
+      "created": "2010-11-22 15:53:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42687",
+          "lastname": "Crosse",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        15338323,
+        15338324,
+        15338325
+      ]
+    }
+  ]
+}

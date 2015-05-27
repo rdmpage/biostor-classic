@@ -1,0 +1,34 @@
+{
+  "ItemID": "36045",
+  "FullTitle": "The Entomologist's record and journal of variation.",
+  "VolumeInfo": "v. 23 1911",
+  "articles": [
+    {
+      "reference_id": "58453",
+      "genre": "article",
+      "title": "The latest in nomenclature",
+      "secondary_title": "Entomologist's Record and Journal of Variation",
+      "volume": "23",
+      "spage": "241",
+      "epage": "242",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "1568053",
+      "PageID": "9021764",
+      "created": "2010-11-20 21:09:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42347",
+          "lastname": "Shelford",
+          "forename": "R W C"
+        }
+      ],
+      "bhl_pages": [
+        9021764,
+        9021765
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "Jos\u00e9 M",
+      "lastname": "Cei",
+      "name": "Jos\u00e9 M Cei"
+    }
+  ],
+  "type": "article",
+  "title": "A new species of Tropidurus (Sauria, Iguanidae) from the arid Chacoan and western regions of Argentina",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "97",
+    "pages": "1--10",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1982",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/198"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4467823"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 198
+    },
+    {
+      "type": "bhl",
+      "id": 4467823
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -65.083333333333,
+        -31.75
+      ]
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "ItemID": "53440",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 14 (1866)",
+  "articles": [
+    {
+      "reference_id": "61672",
+      "genre": "article",
+      "title": "Description d'esp\u00e8ces nouvelles provenant d'Australie et des \u00eeles Solomon et Norfolk",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "14",
+      "spage": "45",
+      "epage": "48",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "1605690",
+      "PageID": "15667264",
+      "created": "2011-01-10 23:33:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40858",
+          "lastname": "Cox",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        15667264,
+        15667265,
+        15667266,
+        15667267
+      ]
+    },
+    {
+      "reference_id": "59787",
+      "genre": "article",
+      "title": "Catalogue of the specimens of the Australian land shells in the collection of (Catalogue des coquilles terrestres d'Australie, qui se trouvent dans la collection de) J.C. Cox",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "14",
+      "spage": "195",
+      "epage": "197",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "1605690",
+      "PageID": "15667433",
+      "created": "2010-11-22 15:54:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42687",
+          "lastname": "Crosse",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        15667433,
+        15667434,
+        15667435
+      ]
+    },
+    {
+      "reference_id": "61472",
+      "genre": "article",
+      "title": "Descriptions d'esp\u00e8ces nouvelles de l'Archipel Cal\u00e9donien",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "14",
+      "spage": "248",
+      "epage": "261",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "1605690",
+      "PageID": "15667486",
+      "created": "2011-01-10 20:46:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43030",
+          "lastname": "Souverbie",
+          "forename": "M <I>In<\/i> Souverbie"
+        },
+        {
+          "id": "43031",
+          "lastname": "Montrouzier",
+          "forename": "R P"
+        }
+      ],
+      "bhl_pages": [
+        15667486,
+        15667487,
+        15667488,
+        15667489,
+        15667490,
+        15667491,
+        15667492,
+        15667493,
+        15667494,
+        15667495,
+        15667496,
+        15667497,
+        15667498,
+        15667499
+      ]
+    }
+  ]
+}

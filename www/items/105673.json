@@ -1,0 +1,92 @@
+{
+  "ItemID": "105673",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "t. 11 1842",
+  "articles": [
+    {
+      "reference_id": "73403",
+      "genre": "article",
+      "title": "Description d'un nouveau genre d'Insectes Dipteres",
+      "secondary_title": "Ann. Soc. ent. France",
+      "volume": "11",
+      "spage": "41",
+      "epage": "44",
+      "year": "1842",
+      "date": "1842-00-00",
+      "issn": "0037-9271",
+      "PageID": "33882913",
+      "created": "2011-06-04 08:30:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47192",
+          "lastname": "Macquart",
+          "forename": "P J M"
+        }
+      ],
+      "bhl_pages": [
+        33882913,
+        33882914,
+        33882915,
+        33882916
+      ]
+    },
+    {
+      "reference_id": "69559",
+      "genre": "article",
+      "title": "Notice sur un Insecte de la Famille des Longicornes",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de France, Paris",
+      "volume": "11",
+      "spage": "49",
+      "epage": "51",
+      "year": "1842",
+      "date": "1842-00-00",
+      "oclc": "1765810",
+      "PageID": "33882921",
+      "created": "2011-06-01 10:35:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        33882921,
+        33882922,
+        33882923
+      ]
+    },
+    {
+      "reference_id": "71087",
+      "genre": "article",
+      "title": "Description de deux L\u00e9pidopt\u00e8res nouveaux recueillis en Barbarie par le Capitaine Charlon",
+      "secondary_title": "Annls Soc. ent. Fr. [1]",
+      "volume": "11",
+      "spage": "197",
+      "epage": "199",
+      "year": "1842",
+      "date": "1842-00-00",
+      "oclc": "1765810",
+      "PageID": "33883109",
+      "created": "2011-06-03 17:39:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46740",
+          "lastname": "Donzel",
+          "forename": "Hugo Fleury"
+        }
+      ],
+      "bhl_pages": [
+        33883109,
+        33883110,
+        33883111
+      ]
+    }
+  ]
+}

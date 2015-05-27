@@ -1,0 +1,177 @@
+{
+  "ItemID": "38260",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 45 1912",
+  "articles": [
+    {
+      "reference_id": "73198",
+      "genre": "article",
+      "title": "Three new Culicidae from the Transvaal",
+      "secondary_title": "Entomologist",
+      "volume": "45",
+      "spage": "92",
+      "epage": "93",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022229",
+      "created": "2011-06-04 08:00:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10022",
+          "lastname": "Theobald",
+          "forename": "F V"
+        }
+      ],
+      "bhl_pages": [
+        10022229,
+        10022230
+      ]
+    },
+    {
+      "reference_id": "60953",
+      "genre": "article",
+      "title": "Some bees of the genus Nomia from Australia",
+      "secondary_title": "Entomologist",
+      "volume": "45",
+      "spage": "119",
+      "epage": "122",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022264",
+      "created": "2010-11-26 19:26:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        10022264,
+        10022265,
+        10022266,
+        10022267
+      ]
+    },
+    {
+      "reference_id": "70880",
+      "genre": "article",
+      "title": "British Odonata in 1911 (Concluded)",
+      "secondary_title": "Entomologist",
+      "volume": "45",
+      "spage": "171",
+      "epage": "173",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022324",
+      "created": "2011-06-03 16:44:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45452",
+          "lastname": "Lucas",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        10022324,
+        10022325,
+        10022326
+      ]
+    },
+    {
+      "reference_id": "60937",
+      "genre": "article",
+      "title": "New and little-known bees",
+      "secondary_title": "Entomologist",
+      "volume": "45",
+      "spage": "175",
+      "epage": "178",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022328",
+      "created": "2010-11-26 19:25:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        10022328,
+        10022329,
+        10022330,
+        10022331
+      ]
+    },
+    {
+      "reference_id": "73657",
+      "genre": "article",
+      "title": "Notes on the British mosquitoes (Culicinae)",
+      "secondary_title": "Entomologist",
+      "volume": "45",
+      "spage": "191",
+      "epage": "195",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022348",
+      "created": "2011-06-04 09:32:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        10022348,
+        10022349,
+        10022350,
+        10022351,
+        10022352
+      ]
+    },
+    {
+      "reference_id": "72980",
+      "genre": "article",
+      "title": "Description of a new species of Anomalon (Ichneumonidae) from Hongkong",
+      "secondary_title": "Entomologist",
+      "volume": "45",
+      "spage": "195",
+      "epage": "196",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022352",
+      "created": "2011-06-04 04:49:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        10022352,
+        10022353
+      ]
+    }
+  ]
+}

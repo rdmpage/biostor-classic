@@ -1,0 +1,1561 @@
+{
+  "ItemID": "17197",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 130 (1966)",
+  "articles": [
+    {
+      "reference_id": "8613",
+      "genre": "article",
+      "title": "DAILY AND TIDAL PATTERNS OF ACTIVITY IN INDIVIDUAL FIDDLER CRAB (GENUS UCA) FROM THE WOODS HOLE REGION",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "1",
+      "epage": "17",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539948",
+      "PageID": "1504220",
+      "created": "2010-01-06 23:11:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4580",
+          "lastname": "Barnwell",
+          "forename": "Franklin H"
+        }
+      ],
+      "bhl_pages": [
+        1504220,
+        1504221,
+        1504222,
+        1504223,
+        1504224,
+        1504225,
+        1504226,
+        1504227,
+        1504228,
+        1504229,
+        1504230,
+        1504231,
+        1504232,
+        1504233,
+        1504234,
+        1504235,
+        1504236
+      ]
+    },
+    {
+      "reference_id": "8614",
+      "genre": "article",
+      "title": "CHEMICAL ANATOMY OF THE PERICARDIAL AND PERIVISCERAL FLUIDS OF THE STINGRAY, DASYATIS AMERICANA",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "18",
+      "epage": "27",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539949",
+      "PageID": "1504237",
+      "created": "2010-01-06 23:11:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4706",
+          "lastname": "Bernard",
+          "forename": "George R"
+        },
+        {
+          "id": "4707",
+          "lastname": "Wynn",
+          "forename": "Robert A"
+        },
+        {
+          "id": "4708",
+          "lastname": "Wynn",
+          "forename": "Gail G"
+        }
+      ],
+      "bhl_pages": [
+        1504237,
+        1504238,
+        1504239,
+        1504240,
+        1504241,
+        1504242,
+        1504243,
+        1504244,
+        1504245,
+        1504246
+      ]
+    },
+    {
+      "reference_id": "8615",
+      "genre": "article",
+      "title": "A NEW APPROACH TO THE PROBLEM OF AGGREGATION IN THE CELLULAR SLIME MOLDS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "28",
+      "epage": "42",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539950",
+      "PageID": "1504247",
+      "created": "2010-01-06 23:11:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3832",
+          "lastname": "Bonner",
+          "forename": "John Tyler"
+        },
+        {
+          "id": "4709",
+          "lastname": "Kelso",
+          "forename": "Anne P"
+        },
+        {
+          "id": "4710",
+          "lastname": "Gillmor",
+          "forename": "Rogene G"
+        }
+      ],
+      "bhl_pages": [
+        1504247,
+        1504248,
+        1504249,
+        1504250,
+        1504251,
+        1504252,
+        1504253,
+        1504254,
+        1504255,
+        1504256,
+        1504257,
+        1504258,
+        1504259,
+        1504260,
+        1504261
+      ]
+    },
+    {
+      "reference_id": "8616",
+      "genre": "article",
+      "title": "NEUROCHEMICAL CONTROL OF GAMETE RELEASE IN STARFISH",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "43",
+      "epage": "58",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539951",
+      "PageID": "1504262",
+      "created": "2010-01-06 23:11:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4018",
+          "lastname": "Chaet",
+          "forename": "Alfred B"
+        }
+      ],
+      "bhl_pages": [
+        1504262,
+        1504263,
+        1504264,
+        1504265,
+        1504266,
+        1504267,
+        1504268,
+        1504269,
+        1504270,
+        1504271,
+        1504272,
+        1504273,
+        1504274,
+        1504275,
+        1504276,
+        1504277
+      ]
+    },
+    {
+      "reference_id": "8617",
+      "genre": "article",
+      "title": "THE INTERRELATIONS AMONG THREE HORMONAL-CONTROLLED CHARACTERS IN THE ADULT FEMALE SHORE CRAB, CARCINUS MAENAS (L.)",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "59",
+      "epage": "66",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539952",
+      "PageID": "1504278",
+      "created": "2010-01-06 23:11:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4711",
+          "lastname": "Cheung",
+          "forename": "T S"
+        }
+      ],
+      "bhl_pages": [
+        1504278,
+        1504279,
+        1504280,
+        1504281,
+        1504282,
+        1504283,
+        1504284,
+        1504285
+      ]
+    },
+    {
+      "reference_id": "8618",
+      "genre": "article",
+      "title": "A QUANTITATIVE EXAMINATION OF OVARIAN GROWTH IN THE WHITE-CROWNED SPARROW",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "67",
+      "epage": "75",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539953",
+      "PageID": "1504286",
+      "created": "2010-01-06 23:11:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4003",
+          "lastname": "Farner",
+          "forename": "Donald S"
+        },
+        {
+          "id": "4712",
+          "lastname": "Follett",
+          "forename": "Brian K"
+        },
+        {
+          "id": "4713",
+          "lastname": "King",
+          "forename": "James R"
+        },
+        {
+          "id": "4714",
+          "lastname": "Morton",
+          "forename": "Martin L"
+        }
+      ],
+      "bhl_pages": [
+        1504286,
+        1504287,
+        1504288,
+        1504289,
+        1504290,
+        1504291,
+        1504292,
+        1504293,
+        1504294
+      ]
+    },
+    {
+      "reference_id": "8619",
+      "genre": "article",
+      "title": "REPRODUCTION AND EARLY DEVELOPMENT OF THE SPIONID POLYCHAETE, SCOLECOLEPIDES VIRIDIS (VERRILL)",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "76",
+      "epage": "93",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539954",
+      "PageID": "1504295",
+      "created": "2010-01-06 23:11:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "84",
+          "lastname": "George",
+          "forename": "J David"
+        }
+      ],
+      "bhl_pages": [
+        1504295,
+        1504296,
+        1504297,
+        1504298,
+        1504299,
+        1504300,
+        1504301,
+        1504302,
+        1504303,
+        1504304,
+        1504305,
+        1504306,
+        1504307,
+        1504308,
+        1504309,
+        1504310,
+        1504311,
+        1504312
+      ]
+    },
+    {
+      "reference_id": "8620",
+      "genre": "article",
+      "title": "TRACHEAL GAS DYNAMICS IN PUPAE OF THE CECROPIA SILKWORM",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "96",
+      "epage": "105",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539956",
+      "PageID": "1504315",
+      "created": "2010-01-06 23:11:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4715",
+          "lastname": "Kanwisher",
+          "forename": "John W"
+        }
+      ],
+      "bhl_pages": [
+        1504315,
+        1504316,
+        1504317,
+        1504318,
+        1504319,
+        1504320,
+        1504321,
+        1504322,
+        1504323,
+        1504324
+      ]
+    },
+    {
+      "reference_id": "8621",
+      "genre": "article",
+      "title": "A COMPARATIVE STUDY ON THE CILIARY FEEDING MECHANISMS OF ANADARA SPECIES FROM DIFFERENT HABITATS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "106",
+      "epage": "117",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539957",
+      "PageID": "1504325",
+      "created": "2010-01-06 23:11:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4716",
+          "lastname": "Lim",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        1504325,
+        1504326,
+        1504327,
+        1504328,
+        1504329,
+        1504330,
+        1504331,
+        1504332,
+        1504333,
+        1504334,
+        1504335,
+        1504336
+      ]
+    },
+    {
+      "reference_id": "8622",
+      "genre": "article",
+      "title": "TEMPERATURE EFFECTS IN REPRODUCTION OF THE BAY SCALLOP, AEQUIPECTEN IRRADIANS LAMARCK",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "118",
+      "epage": "134",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539958",
+      "PageID": "1504337",
+      "created": "2010-01-06 23:11:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4518",
+          "lastname": "Sastry",
+          "forename": "A N"
+        }
+      ],
+      "bhl_pages": [
+        1504337,
+        1504338,
+        1504339,
+        1504340,
+        1504341,
+        1504342,
+        1504343,
+        1504344,
+        1504345,
+        1504346,
+        1504347,
+        1504348,
+        1504349,
+        1504350,
+        1504351,
+        1504352,
+        1504353
+      ]
+    },
+    {
+      "reference_id": "8623",
+      "genre": "article",
+      "title": "A STUDY OF THE TERMINAL INNERVATION OF A FAST-ACTING FISH MUSCLE",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "135",
+      "epage": "140",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539959",
+      "PageID": "1504354",
+      "created": "2010-01-06 23:11:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4717",
+          "lastname": "Shenk",
+          "forename": "Wilbur D"
+        },
+        {
+          "id": "4718",
+          "lastname": "Davidson",
+          "forename": "Michael"
+        }
+      ],
+      "bhl_pages": [
+        1504354,
+        1504355,
+        1504356,
+        1504357,
+        1504358,
+        1504359
+      ]
+    },
+    {
+      "reference_id": "8624",
+      "genre": "article",
+      "title": "PHYSIOLOGICAL AND ECOLOGICAL STUDIES ON THE BIVALVE MOLLUSK ARTHRITICA BIFURCA (WEBSTER, 1908) LIVING COMMENSALLY WITH THE TUBICOLOUS POLYCHAETE PECTINARIA AUSTRALIS EHLERS, 1905",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "141",
+      "epage": "149",
+      "year": "1966",
+      "date": "1966-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539960",
+      "PageID": "1504360",
+      "created": "2010-01-06 23:11:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4719",
+          "lastname": "Wear",
+          "forename": "Robert G"
+        }
+      ],
+      "bhl_pages": [
+        1504360,
+        1504361,
+        1504362,
+        1504363,
+        1504364,
+        1504365,
+        1504366,
+        1504367,
+        1504368
+      ]
+    },
+    {
+      "reference_id": "8625",
+      "genre": "article",
+      "title": "THE INFLUENCE OF PUPAL AGE ON SENSITIVITY TO RADIATION",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "151",
+      "epage": "156",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539693",
+      "PageID": "1504370",
+      "created": "2010-01-06 23:11:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4720",
+          "lastname": "Ducoff",
+          "forename": "H S"
+        },
+        {
+          "id": "4721",
+          "lastname": "Bosma",
+          "forename": "Gayle C"
+        }
+      ],
+      "bhl_pages": [
+        1504370,
+        1504371,
+        1504372,
+        1504373,
+        1504374,
+        1504375
+      ]
+    },
+    {
+      "reference_id": "8626",
+      "genre": "article",
+      "title": "EFFECTS OF DIMETHYLSULFOXIDE ON PRODUCTIVITY OF X-IRRADIATED FLOUR BEETLES",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "157",
+      "epage": "169",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539694",
+      "PageID": "1504376",
+      "created": "2010-01-06 23:11:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4086",
+          "lastname": "Erdman",
+          "forename": "Howard E"
+        }
+      ],
+      "bhl_pages": [
+        1504376,
+        1504377,
+        1504378,
+        1504379,
+        1504380,
+        1504381,
+        1504382,
+        1504383,
+        1504384,
+        1504385,
+        1504386,
+        1504387,
+        1504388
+      ]
+    },
+    {
+      "reference_id": "8627",
+      "genre": "article",
+      "title": "FACTORS AFFECTING ACTIVITY AND BURROWING HABITS OF THE PINK SHRIMP, PENAEUS DUORARUM BURKENROAD",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "170",
+      "epage": "191",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539695",
+      "PageID": "1504389",
+      "created": "2010-01-06 23:11:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4722",
+          "lastname": "Fuss",
+          "forename": "Charles M"
+        },
+        {
+          "id": "4723",
+          "lastname": "Ogren",
+          "forename": "Larry H"
+        }
+      ],
+      "bhl_pages": [
+        1504389,
+        1504390,
+        1504391,
+        1504392,
+        1504393,
+        1504394,
+        1504395,
+        1504396,
+        1504397,
+        1504398,
+        1504399,
+        1504400,
+        1504401,
+        1504402,
+        1504403,
+        1504404,
+        1504405,
+        1504406,
+        1504407,
+        1504408,
+        1504409,
+        1504410
+      ]
+    },
+    {
+      "reference_id": "8628",
+      "genre": "article",
+      "title": "RESPIRATION DURING THE REPRODUCTIVE CYCLE IN THE SEA URCHIN, STRONGYLOCENTROTUS PURPURATUS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "192",
+      "epage": "201",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539696",
+      "PageID": "1504411",
+      "created": "2010-01-06 23:11:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3924",
+          "lastname": "Giese",
+          "forename": "A C"
+        },
+        {
+          "id": "4290",
+          "lastname": "Farmanfarmaian",
+          "forename": "A"
+        },
+        {
+          "id": "4724",
+          "lastname": "Hilden",
+          "forename": "S"
+        },
+        {
+          "id": "4725",
+          "lastname": "Doezema",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        1504411,
+        1504412,
+        1504413,
+        1504414,
+        1504415,
+        1504416,
+        1504417,
+        1504418,
+        1504419,
+        1504420
+      ]
+    },
+    {
+      "reference_id": "8629",
+      "genre": "article",
+      "title": "PHALACROCLEPTES VERRUCIFORMIS GEN. NOV., SP. NOV., AN UNCILIATED CILIATE FROM THE SABELLID POLYCHAETE SCHIZOBRANCHIA INSIGNIS BUSH",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "202",
+      "epage": "210",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539697",
+      "PageID": "1504421",
+      "created": "2010-01-06 23:11:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4087",
+          "lastname": "Kozloff",
+          "forename": "Eugene N"
+        }
+      ],
+      "bhl_pages": [
+        1504421,
+        1504422,
+        1504423,
+        1504424,
+        1504425,
+        1504426,
+        1504427,
+        1504428,
+        1504429
+      ]
+    },
+    {
+      "reference_id": "8630",
+      "genre": "article",
+      "title": "TIME AND INTENSITY OF SETTING OF THE OYSTER, CRASSOSTREA VIRGINICA, IN LONG ISLAND SOUND",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "211",
+      "epage": "227",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539698",
+      "PageID": "1504430",
+      "created": "2010-01-06 23:11:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3459",
+          "lastname": "Loosanoff",
+          "forename": "Victor L"
+        }
+      ],
+      "bhl_pages": [
+        1504430,
+        1504431,
+        1504432,
+        1504433,
+        1504434,
+        1504435,
+        1504436,
+        1504437,
+        1504438,
+        1504439,
+        1504440,
+        1504441,
+        1504442,
+        1504443,
+        1504444,
+        1504445,
+        1504446
+      ]
+    },
+    {
+      "reference_id": "8631",
+      "genre": "article",
+      "title": "AET AND RADIATION-INDUCED CROSSING-OVER IN MALE DROSOPHILA MELANOGASTER",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "228",
+      "epage": "234",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539699",
+      "PageID": "1504447",
+      "created": "2010-01-06 23:12:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3758",
+          "lastname": "Mittler",
+          "forename": "Sidney"
+        }
+      ],
+      "bhl_pages": [
+        1504447,
+        1504448,
+        1504449,
+        1504450,
+        1504451,
+        1504452,
+        1504453
+      ]
+    },
+    {
+      "reference_id": "8632",
+      "genre": "article",
+      "title": "THE JUVENILE HORMONE. V. THE SENSITIVITY OF THE BUG, PYRRHOCORIS APTERUS, TO A HORMONALLY ACTIVE FACTOR IN AMERICAN PAPER-PULP",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "235",
+      "epage": "246",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539700",
+      "PageID": "1504454",
+      "created": "2010-01-06 23:12:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4726",
+          "lastname": "Slama",
+          "forename": "Karel"
+        },
+        {
+          "id": "3639",
+          "lastname": "Williams",
+          "forename": "Carroll M"
+        }
+      ],
+      "bhl_pages": [
+        1504454,
+        1504455,
+        1504456,
+        1504457,
+        1504458,
+        1504459,
+        1504460,
+        1504461,
+        1504462,
+        1504463,
+        1504464,
+        1504465
+      ]
+    },
+    {
+      "reference_id": "8633",
+      "genre": "article",
+      "title": "THE JUVENILE HORMONE. VI. EFFECTS OF THE \"PAPER FACTOR\" ON THE GROWTH AND METAMORPHOSIS OF THE BUG, PYRRHOCORIS APTERUS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "247",
+      "epage": "253",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539701",
+      "PageID": "1504466",
+      "created": "2010-01-06 23:12:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3639",
+          "lastname": "Williams",
+          "forename": "Carroll M"
+        },
+        {
+          "id": "4726",
+          "lastname": "Slama",
+          "forename": "Karel"
+        }
+      ],
+      "bhl_pages": [
+        1504466,
+        1504467,
+        1504468,
+        1504469,
+        1504470,
+        1504471,
+        1504472
+      ]
+    },
+    {
+      "reference_id": "8634",
+      "genre": "article",
+      "title": "CONTROL OF A SEX-LIMITED HAEMOLYMPH PROTEIN BY CORPORA ALLATA DURING OVARIAN DEVELOPMENT IN PERIPLANETA AMERICANA (L.)",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "254",
+      "epage": "264",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539702",
+      "PageID": "1504473",
+      "created": "2010-01-06 23:12:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4727",
+          "lastname": "Thomas",
+          "forename": "K K"
+        },
+        {
+          "id": "4728",
+          "lastname": "Nation",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        1504473,
+        1504474,
+        1504475,
+        1504476,
+        1504477,
+        1504478,
+        1504479,
+        1504480,
+        1504481,
+        1504482,
+        1504483
+      ]
+    },
+    {
+      "reference_id": "8635",
+      "genre": "article",
+      "title": "AERIAL RESPIRATION IN THE LONGJAW MUDSUCKER GILLICHTHYS MIRABILIS (TELEOSTEI: GOBIIDAE)",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "265",
+      "epage": "288",
+      "year": "1966",
+      "date": "1966-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539703",
+      "PageID": "1504484",
+      "created": "2010-01-06 23:12:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4729",
+          "lastname": "Todd",
+          "forename": "Eric S"
+        },
+        {
+          "id": "4730",
+          "lastname": "Ebeling",
+          "forename": "Alfred W"
+        }
+      ],
+      "bhl_pages": [
+        1504484,
+        1504485,
+        1504486,
+        1504487,
+        1504488,
+        1504489,
+        1504490,
+        1504491,
+        1504492,
+        1504493,
+        1504494,
+        1504495,
+        1504496,
+        1504497,
+        1504498,
+        1504499,
+        1504500,
+        1504501,
+        1504502,
+        1504503,
+        1504504,
+        1504505,
+        1504506,
+        1504507
+      ]
+    },
+    {
+      "reference_id": "8636",
+      "genre": "article",
+      "title": "A CONTRIBUTION TO THE SYSTEMATICS OF THE MARINE TUBIFICIDAE (ANNELIDA, OLIGOCHAETA)",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "297",
+      "epage": "303",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539737",
+      "PageID": "1504516",
+      "created": "2010-01-06 23:12:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4731",
+          "lastname": "Brinkhurst",
+          "forename": "R O"
+        }
+      ],
+      "bhl_pages": [
+        1504516,
+        1504517,
+        1504518,
+        1504519,
+        1504520,
+        1504521,
+        1504522
+      ]
+    },
+    {
+      "reference_id": "8637",
+      "genre": "article",
+      "title": "BROODING BEHAVIOR OF A SIX-RAYED STARFISH, LEPTASTERIAS HEXACTIS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "304",
+      "epage": "315",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539738",
+      "PageID": "1504523",
+      "created": "2010-01-06 23:12:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4732",
+          "lastname": "Chia",
+          "forename": "Fu-Shiang"
+        }
+      ],
+      "bhl_pages": [
+        1504523,
+        1504524,
+        1504525,
+        1504526,
+        1504527,
+        1504528,
+        1504529,
+        1504530,
+        1504531,
+        1504532,
+        1504533,
+        1504534
+      ]
+    },
+    {
+      "reference_id": "8638",
+      "genre": "article",
+      "title": "LIFE-HISTORY OF BOCCARDIA HAMATA (WEBSTER) ON THE EAST AND WEST COASTS OF NORTH AMERICA",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "316",
+      "epage": "330",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539739",
+      "PageID": "1504535",
+      "created": "2010-01-06 23:12:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4544",
+          "lastname": "Dean",
+          "forename": "David"
+        },
+        {
+          "id": "4733",
+          "lastname": "Blake",
+          "forename": "James A"
+        }
+      ],
+      "bhl_pages": [
+        1504535,
+        1504536,
+        1504537,
+        1504538,
+        1504539,
+        1504540,
+        1504541,
+        1504542,
+        1504543,
+        1504544,
+        1504545,
+        1504546,
+        1504547,
+        1504548,
+        1504549
+      ]
+    },
+    {
+      "reference_id": "8639",
+      "genre": "article",
+      "title": "SODIUM, POTASSIUM, AND CHLORIDE TRANSPORT AND MEMBRANE POTENTIALS IN VALONIA VENTRICOSA",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "331",
+      "epage": "344",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539740",
+      "PageID": "1504550",
+      "created": "2010-01-06 23:12:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4702",
+          "lastname": "Gutknecht",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        1504550,
+        1504551,
+        1504552,
+        1504553,
+        1504554,
+        1504555,
+        1504556,
+        1504557,
+        1504558,
+        1504559,
+        1504560,
+        1504561,
+        1504562,
+        1504563
+      ]
+    },
+    {
+      "reference_id": "8640",
+      "genre": "article",
+      "title": "REPRODUCTIVE AND MOLTING CYCLES IN CAVE CRAYFISH",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "345",
+      "epage": "358",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539741",
+      "PageID": "1504564",
+      "created": "2010-01-06 23:12:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4734",
+          "lastname": "Jegla",
+          "forename": "Thomas C"
+        }
+      ],
+      "bhl_pages": [
+        1504564,
+        1504565,
+        1504566,
+        1504567,
+        1504568,
+        1504569,
+        1504570,
+        1504571,
+        1504572,
+        1504573,
+        1504574,
+        1504575,
+        1504576,
+        1504577
+      ]
+    },
+    {
+      "reference_id": "8641",
+      "genre": "article",
+      "title": "STUDIES ON THE ELASMOBRANCH KIDNEY. IV. THE SECRETION OF PHENOL RED BY THE SMOOTH DOGFISH, MUSTELUS CANIS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "359",
+      "epage": "368",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539742",
+      "PageID": "1504578",
+      "created": "2010-01-06 23:12:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3941",
+          "lastname": "Kempton",
+          "forename": "Rudolf T"
+        }
+      ],
+      "bhl_pages": [
+        1504578,
+        1504579,
+        1504580,
+        1504581,
+        1504582,
+        1504583,
+        1504584,
+        1504585,
+        1504586,
+        1504587
+      ]
+    },
+    {
+      "reference_id": "8642",
+      "genre": "article",
+      "title": "EXCYSTMENT OF CRYPTOCOTYLE LINGUA METACERCARIAE",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "369",
+      "epage": "377",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539743",
+      "PageID": "1504588",
+      "created": "2010-01-06 23:12:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4735",
+          "lastname": "Mcdaniel",
+          "forename": "James S"
+        }
+      ],
+      "bhl_pages": [
+        1504588,
+        1504589,
+        1504590,
+        1504591,
+        1504592,
+        1504593,
+        1504594,
+        1504595,
+        1504596
+      ]
+    },
+    {
+      "reference_id": "8643",
+      "genre": "article",
+      "title": "CONTRACTILE PROTEINS OF MARINE INVERTEBRATE SPERMATOZOA",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "378",
+      "epage": "386",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539744",
+      "PageID": "1504597",
+      "created": "2010-01-06 23:12:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4336",
+          "lastname": "Nelson",
+          "forename": "Leonard"
+        }
+      ],
+      "bhl_pages": [
+        1504597,
+        1504598,
+        1504599,
+        1504600,
+        1504601,
+        1504602,
+        1504603,
+        1504604,
+        1504605
+      ]
+    },
+    {
+      "reference_id": "8644",
+      "genre": "article",
+      "title": "FOOD, REPRODUCTION AND ORGANIC CONSTITUTION OF THE COMMON ANTARCTIC ECHINOID STERECHINUS NEUMAYERI (MEISSNER)",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "387",
+      "epage": "401",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539745",
+      "PageID": "1504606",
+      "created": "2010-01-06 23:12:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4736",
+          "lastname": "Pearse",
+          "forename": "J S"
+        },
+        {
+          "id": "3924",
+          "lastname": "Giese",
+          "forename": "A C"
+        }
+      ],
+      "bhl_pages": [
+        1504606,
+        1504607,
+        1504608,
+        1504609,
+        1504610,
+        1504611,
+        1504612,
+        1504613,
+        1504614,
+        1504615,
+        1504616,
+        1504617,
+        1504618,
+        1504619,
+        1504620
+      ]
+    },
+    {
+      "reference_id": "8645",
+      "genre": "article",
+      "title": "GENE DEPENDENCY OF VEGETALIZATION IN SEA URCHIN EMBRYOS TREATED WITH LITHIUM",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "402",
+      "epage": "414",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539746",
+      "PageID": "1504621",
+      "created": "2010-01-06 23:12:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3422",
+          "lastname": "Runnstrom",
+          "forename": "John"
+        },
+        {
+          "id": "4737",
+          "lastname": "Markman",
+          "forename": "Borje"
+        }
+      ],
+      "bhl_pages": [
+        1504621,
+        1504622,
+        1504623,
+        1504624,
+        1504625,
+        1504626,
+        1504627,
+        1504628,
+        1504629,
+        1504630,
+        1504631,
+        1504632,
+        1504633
+      ]
+    },
+    {
+      "reference_id": "8646",
+      "genre": "article",
+      "title": "HYBRIDIZATION EXPERIMENTS WITH AN ALL-FEMALE FISH OF THE GENUS POECILIOPSIS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "415",
+      "epage": "429",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539747",
+      "PageID": "1504634",
+      "created": "2010-01-06 23:12:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4738",
+          "lastname": "Schultz",
+          "forename": "R Jack"
+        }
+      ],
+      "bhl_pages": [
+        1504634,
+        1504635,
+        1504636,
+        1504637,
+        1504638,
+        1504639,
+        1504640,
+        1504641,
+        1504642,
+        1504643,
+        1504644,
+        1504645,
+        1504646,
+        1504647,
+        1504648
+      ]
+    },
+    {
+      "reference_id": "8647",
+      "genre": "article",
+      "title": "EFFECT OF HYPOPHYSECTOMY ON THE FUNCTION OF THE KIDNEY OF THE EURYHALINE TELEOST, FUNDULUS KANSAE",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "430",
+      "epage": "441",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539748",
+      "PageID": "1504649",
+      "created": "2010-01-06 23:12:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4739",
+          "lastname": "Stanley",
+          "forename": "Jon G"
+        },
+        {
+          "id": "4740",
+          "lastname": "Fleming",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        1504649,
+        1504650,
+        1504651,
+        1504652,
+        1504653,
+        1504654,
+        1504655,
+        1504656,
+        1504657,
+        1504658,
+        1504659,
+        1504660
+      ]
+    },
+    {
+      "reference_id": "8648",
+      "genre": "article",
+      "title": "RNA, PROTEIN AND URIC ACID CONTENT OF BODY TISSUES OF PERIPLANETA AMERICANA (L.) AS INFLUENCED BY CORPORA ALLATA DURING OVARIAN DEVELOPMENT",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "442",
+      "epage": "449",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539749",
+      "PageID": "1504661",
+      "created": "2010-01-06 23:12:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4727",
+          "lastname": "Thomas",
+          "forename": "K K"
+        },
+        {
+          "id": "4728",
+          "lastname": "Nation",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        1504661,
+        1504662,
+        1504663,
+        1504664,
+        1504665,
+        1504666,
+        1504667,
+        1504668
+      ]
+    },
+    {
+      "reference_id": "8649",
+      "genre": "article",
+      "title": "INCORPORATION OF AMINO ACIDS INTO PROTEIN BY ARTIFICIALLY ACTIVATED NON-NUCLEATE FRAGMENTS OF SEA URCHIN EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "450",
+      "epage": "461",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539750",
+      "PageID": "1504669",
+      "created": "2010-01-06 23:12:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3319",
+          "lastname": "Tyler",
+          "forename": "Albert"
+        }
+      ],
+      "bhl_pages": [
+        1504669,
+        1504670,
+        1504671,
+        1504672,
+        1504673,
+        1504674,
+        1504675,
+        1504676,
+        1504677,
+        1504678,
+        1504679,
+        1504680
+      ]
+    },
+    {
+      "reference_id": "8650",
+      "genre": "article",
+      "title": "MATING BEHAVIOR AND SPERMATOPHORE MORPHOLOGY IN THE PSEUDOSCORPION DINOCHEIRUS TUMIDUS BANKS (CHELIFERINEA, CHERNETIDAE)",
+      "secondary_title": "Biol Bull",
+      "volume": "130",
+      "spage": "462",
+      "epage": "467",
+      "year": "1966",
+      "date": "1966-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1539751",
+      "PageID": "1504681",
+      "created": "2010-01-06 23:12:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4741",
+          "lastname": "Weygoldt",
+          "forename": "Peter"
+        }
+      ],
+      "bhl_pages": [
+        1504681,
+        1504682,
+        1504683,
+        1504684,
+        1504685,
+        1504686
+      ]
+    }
+  ]
+}

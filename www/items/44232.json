@@ -1,0 +1,66 @@
+{
+  "ItemID": "44232",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 53 1920",
+  "articles": [
+    {
+      "reference_id": "61192",
+      "genre": "article",
+      "title": "A chalcid parasite of Endomychus coccineus, Linn.",
+      "secondary_title": "Entomologist",
+      "volume": "53",
+      "spage": "98",
+      "epage": "101",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0013-8878",
+      "PageID": "12119583",
+      "created": "2010-12-08 09:18:11",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42936",
+          "lastname": "Gimingham",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        12119583,
+        12119584,
+        12119585,
+        12119586
+      ]
+    },
+    {
+      "reference_id": "72813",
+      "genre": "article",
+      "title": "Contributions to our knowledge of the British Braconidae",
+      "secondary_title": "Entomologist",
+      "volume": "53",
+      "spage": "99",
+      "epage": "103",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0013-8878",
+      "PageID": "12119732",
+      "created": "2011-06-04 04:20:01",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42501",
+          "lastname": "Lyle",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        12119732,
+        12119733,
+        12119734,
+        12119735,
+        12119736
+      ]
+    }
+  ]
+}

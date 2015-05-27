@@ -1,0 +1,42 @@
+{
+  "ItemID": "90111",
+  "FullTitle": "Transactions of the Linnean Society of London.",
+  "VolumeInfo": "ser. 2 v. 1 (1875-1879)",
+  "articles": [
+    {
+      "reference_id": "103935",
+      "genre": "article",
+      "title": "On two new forms of deep-sea Ascidians, obtained during the voyage of H.M.S. \"Challenger\"",
+      "secondary_title": "Transactions of the Linnean Society",
+      "volume": "1",
+      "spage": "287",
+      "epage": "294",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1877.tb00443.x",
+      "PageID": "28379457",
+      "created": "2012-06-06 13:18:45",
+      "updated": "2012-06-06 13:19:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52372",
+          "lastname": "Moseley",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        28379457,
+        28379458,
+        28379459,
+        28379460,
+        28379461,
+        28379462,
+        28379463,
+        28379464,
+        28379465
+      ]
+    }
+  ]
+}

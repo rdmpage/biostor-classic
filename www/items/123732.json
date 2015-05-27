@@ -1,0 +1,86 @@
+{
+  "ItemID": "123732",
+  "FullTitle": "Memoirs of the Queensland Museum. ",
+  "VolumeInfo": "36 - pt1",
+  "articles": [
+    {
+      "reference_id": "105009",
+      "genre": "article",
+      "title": "Oribatids \u2014 a mite biodiverse (Acarina)",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "36",
+      "issue": "1",
+      "spage": "107",
+      "epage": "114",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0079-8835",
+      "PageID": "40034983",
+      "created": "2012-07-01 10:35:53",
+      "updated": "2012-07-01 10:37:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "16686",
+          "lastname": "Hunt",
+          "forename": "Glenn S"
+        }
+      ],
+      "bhl_pages": [
+        40034983,
+        40034984,
+        40034985,
+        40034986,
+        40034987,
+        40034988,
+        40034989,
+        40034990
+      ]
+    },
+    {
+      "reference_id": "105531",
+      "genre": "article",
+      "title": "Tardigrades of the Australian Antarctic Territories: assessing diversity within a sample",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "36",
+      "issue": "1",
+      "spage": "137",
+      "epage": "145",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0079-8835",
+      "PageID": "40035013",
+      "created": "2012-07-28 13:24:00",
+      "updated": "2012-07-28 14:00:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "11709",
+          "lastname": "Miller",
+          "forename": "W R"
+        },
+        {
+          "id": "54040",
+          "lastname": "Miller",
+          "forename": "J D"
+        },
+        {
+          "id": "54041",
+          "lastname": "Heatwole",
+          "forename": "H F"
+        }
+      ],
+      "bhl_pages": [
+        40035013,
+        40035014,
+        40035015,
+        40035016,
+        40035017,
+        40035018,
+        40035019,
+        40035020,
+        40035021
+      ]
+    }
+  ]
+}

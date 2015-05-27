@@ -1,0 +1,34 @@
+{
+  "ItemID": "19515",
+  "FullTitle": "Revue Zoologique par La Soci\u00e9t\u00e9 Cuvierienne",
+  "VolumeInfo": "1839",
+  "articles": [
+    {
+      "reference_id": "102618",
+      "genre": "article",
+      "title": "Nouveau genre de crustac\u00e9 macroure, \u00e9tablissant le passage entre deux families, les thalassiniens et les astaciens",
+      "secondary_title": "Revue Zoologique par la Soci\u00e9t\u00e9 Cuvierienne",
+      "volume": "2",
+      "spage": "108",
+      "epage": "109",
+      "year": "1839",
+      "date": "1839-00-00",
+      "oclc": "563129168",
+      "PageID": "2299080",
+      "created": "2012-04-30 15:24:07",
+      "updated": "2012-04-30 15:26:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43007",
+          "lastname": "Gu\u00e9rin-M\u00e9neville",
+          "forename": "F \u00c9"
+        }
+      ],
+      "bhl_pages": [
+        2299080,
+        2299079
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "ItemID": "28115",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 32 (1880)",
+  "articles": [
+    {
+      "reference_id": "4031",
+      "genre": "article",
+      "title": "Carcinological Notes. No. IV. Synopsis of the Grapsidae.",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "32",
+      "spage": "187",
+      "epage": "224",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0097-3157",
+      "PageID": "5511079",
+      "created": "2009-12-26 20:12:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2396",
+          "lastname": "Kinglsey",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        5511079,
+        5511080,
+        5511081,
+        5511082,
+        5511083,
+        5511084,
+        5511085,
+        5511239,
+        5511170,
+        5511171,
+        5511172,
+        5511173,
+        5511174,
+        5511175,
+        5511176,
+        5511177,
+        5511178,
+        5511179,
+        5510994,
+        5510976,
+        5510977,
+        5510978,
+        5510979,
+        5510980,
+        5510981,
+        5510982,
+        5510983,
+        5510984,
+        5510985,
+        5511052,
+        5511031,
+        5511032,
+        5511033,
+        5511034,
+        5511035,
+        5511036,
+        5511037,
+        5511038
+      ]
+    },
+    {
+      "reference_id": "67136",
+      "genre": "article",
+      "title": "Description of a new species of Catostomus (C. cypho) from the Colorado river",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "32",
+      "spage": "237",
+      "epage": "240",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0097-3157",
+      "PageID": "5511096",
+      "created": "2011-05-18 19:55:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        5511096,
+        5511162,
+        5511163,
+        5511164
+      ]
+    }
+  ]
+}

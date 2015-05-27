@@ -1,0 +1,855 @@
+{
+  "ItemID": "20206",
+  "FullTitle": "Entomological news, and proceedings of the Entomological Section of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 29 (1918)",
+  "articles": [
+    {
+      "reference_id": "84561",
+      "genre": "article",
+      "title": "Description of a new species of the family Cercopidae from Wisconsin",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "3",
+      "epage": "4",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570321",
+      "created": "2011-08-10 22:49:55",
+      "updated": "2011-08-10 22:49:55",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570321,
+        2570322
+      ]
+    },
+    {
+      "reference_id": "84529",
+      "genre": "article",
+      "title": "anew genus of Cyrtidae from South America",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "61",
+      "epage": "63",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570514",
+      "created": "2011-08-10 22:48:03",
+      "updated": "2011-08-10 22:48:03",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570514,
+        2570513,
+        2570512
+      ]
+    },
+    {
+      "reference_id": "66517",
+      "genre": "article",
+      "title": "The North American species of Cerchysius, females (Hym. Chalcid.)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "65",
+      "epage": "66",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570510",
+      "created": "2011-05-07 17:32:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        2570510,
+        2570509
+      ]
+    },
+    {
+      "reference_id": "95635",
+      "genre": "article",
+      "title": "Argynnis apacheana, a New Name (Lepid.)",
+      "secondary_title": "Ent. News",
+      "volume": "29",
+      "issue": "2",
+      "spage": "67",
+      "epage": "68",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570508",
+      "created": "2011-10-05 23:53:09",
+      "updated": "2011-10-05 23:54:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2304",
+          "lastname": "Skinner",
+          "forename": "Henry"
+        }
+      ],
+      "bhl_pages": [
+        2570508,
+        2570507
+      ]
+    },
+    {
+      "reference_id": "84787",
+      "genre": "article",
+      "title": "The Beetle-Mite Fauna of Mary's Peak, Coast Range, Oregon (Acarina)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "81",
+      "epage": "90",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570488",
+      "created": "2011-08-10 23:06:52",
+      "updated": "2011-08-10 23:06:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570488,
+        2570487,
+        2570486,
+        2570485,
+        2570484,
+        2570483,
+        2570482,
+        2570464,
+        2570463,
+        2570462
+      ]
+    },
+    {
+      "reference_id": "59053",
+      "genre": "article",
+      "title": "Some genera of bees",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "91",
+      "epage": "92",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570461",
+      "created": "2010-11-20 23:38:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42480",
+          "lastname": "Robertson",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        2570461,
+        2570460
+      ]
+    },
+    {
+      "reference_id": "84482",
+      "genre": "article",
+      "title": "A new species of the genus Nemobius from California",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "102",
+      "epage": "104",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570450",
+      "created": "2011-08-10 22:44:59",
+      "updated": "2011-08-10 22:44:59",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570450,
+        2570449,
+        2570448
+      ]
+    },
+    {
+      "reference_id": "84688",
+      "genre": "article",
+      "title": "Notes on and descriptions of the nearctic wood-wasps of the genus Xiphydria Latreille",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "105",
+      "epage": "111",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570441",
+      "created": "2011-08-10 22:59:26",
+      "updated": "2011-08-10 22:59:26",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570441,
+        2570440,
+        2570439,
+        2570438,
+        2570437,
+        2570436,
+        2570435
+      ]
+    },
+    {
+      "reference_id": "3749",
+      "genre": "article",
+      "title": "New and old West Indian and North-American chalcid-flies.",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "125",
+      "epage": "131",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570415",
+      "created": "2009-12-26 19:13:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2291",
+          "lastname": "Girault",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        2570415,
+        2570414,
+        2570413,
+        2570412,
+        2570411,
+        2570410,
+        2570409
+      ]
+    },
+    {
+      "reference_id": "3715",
+      "genre": "article",
+      "title": "A new Species of Eupogonius (Coleoptera, Cerambycidae) from Pennsylvania.",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "29",
+      "issue": "4",
+      "spage": "132",
+      "epage": "133",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570408",
+      "created": "2009-12-26 19:11:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2274",
+          "lastname": "Knull",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        2570408,
+        2570407
+      ]
+    },
+    {
+      "reference_id": "73180",
+      "genre": "article",
+      "title": "New North American Diptera (Scathophagidae)",
+      "secondary_title": "Ent. News",
+      "volume": "29",
+      "spage": "133",
+      "epage": "137",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570407",
+      "created": "2011-06-04 07:57:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18299",
+          "lastname": "Cresson",
+          "forename": "E T"
+        }
+      ],
+      "bhl_pages": [
+        2570407,
+        2570406,
+        2570405,
+        2570404,
+        2570403
+      ]
+    },
+    {
+      "reference_id": "12167",
+      "genre": "article",
+      "title": "A second Mycetophila with dung-bearing larva",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "138",
+      "epage": "142",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570402",
+      "created": "2010-01-08 16:26:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2420",
+          "lastname": "Knab",
+          "forename": "Frederick"
+        },
+        {
+          "id": "9087",
+          "lastname": "Van Zwaluwenberg",
+          "forename": "R H"
+        }
+      ],
+      "bhl_pages": [
+        2570402,
+        2570401,
+        2570400,
+        2570399,
+        2570534
+      ]
+    },
+    {
+      "reference_id": "73664",
+      "genre": "article",
+      "title": "A new muscoid genus from the Chiricahua Mountains, Arizona (Dip.)",
+      "secondary_title": "Ent. News",
+      "volume": "29",
+      "spage": "177",
+      "epage": "178",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570546",
+      "created": "2011-06-04 09:34:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42351",
+          "lastname": "Townsend",
+          "forename": "C H T"
+        }
+      ],
+      "bhl_pages": [
+        2570546,
+        2570547
+      ]
+    },
+    {
+      "reference_id": "84783",
+      "genre": "article",
+      "title": "The anthomyiid genus Pogonomyia",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "179",
+      "epage": "184",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570548",
+      "created": "2011-08-10 23:06:39",
+      "updated": "2011-08-10 23:06:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570548,
+        2570549,
+        2570550,
+        2570551,
+        2570552,
+        2570553
+      ]
+    },
+    {
+      "reference_id": "98330",
+      "genre": "article",
+      "title": "A new membracid on Cypress (Homop.)",
+      "secondary_title": "Ent. News",
+      "volume": "29",
+      "spage": "185",
+      "epage": "187",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570556",
+      "created": "2011-11-24 08:29:13",
+      "updated": "2011-11-24 08:39:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39494",
+          "lastname": "Funkhouser",
+          "forename": "W D"
+        }
+      ],
+      "bhl_pages": [
+        2570556,
+        2570557,
+        2570558
+      ]
+    },
+    {
+      "reference_id": "53126",
+      "genre": "article",
+      "title": "A new interpretation of the wing-venation of the pediciine crane-flies (Tipulidae, Diptera)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "201",
+      "epage": "205",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570626",
+      "created": "2010-10-26 16:37:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2570626,
+        2570627,
+        2570628,
+        2570629,
+        2570630
+      ]
+    },
+    {
+      "reference_id": "70627",
+      "genre": "article",
+      "title": "Psyllidae of the vicinity of Washington DC with description of a new species of Aphalara (Hom.)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "220",
+      "epage": "224",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570647",
+      "created": "2011-06-03 06:44:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46611",
+          "lastname": "L.",
+          "forename": "Mcatee W"
+        }
+      ],
+      "bhl_pages": [
+        2570647,
+        2570648,
+        2570649,
+        2570650,
+        2570465
+      ]
+    },
+    {
+      "reference_id": "73755",
+      "genre": "article",
+      "title": "A new species of Johannsenomyia (Ceratopogonidae, Diptera)",
+      "secondary_title": "Ent. News",
+      "volume": "29",
+      "spage": "229",
+      "epage": "230",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570470",
+      "created": "2011-06-04 09:44:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        2570470,
+        2570471
+      ]
+    },
+    {
+      "reference_id": "70584",
+      "genre": "article",
+      "title": "A new species of Macrosiphum (Aphididae, Hom.)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "230",
+      "epage": "231",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570471",
+      "created": "2011-06-03 06:43:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45326",
+          "lastname": "",
+          "forename": "Wilson"
+        }
+      ],
+      "bhl_pages": [
+        2570471,
+        2570472
+      ]
+    },
+    {
+      "reference_id": "84625",
+      "genre": "article",
+      "title": "New genera and species of Lyonetiidae (Microlepidoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "245",
+      "epage": "251",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570663",
+      "created": "2011-08-10 22:54:52",
+      "updated": "2011-08-10 22:54:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570663,
+        2570664,
+        2570665,
+        2570666,
+        2570667,
+        2570668,
+        2570669
+      ]
+    },
+    {
+      "reference_id": "84526",
+      "genre": "article",
+      "title": "An interesting new species of Eleodea (Coleoptera, Tenebrionidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "255",
+      "epage": "257",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570673",
+      "created": "2011-08-10 22:47:53",
+      "updated": "2011-08-10 22:47:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570673,
+        2570674,
+        2570675
+      ]
+    },
+    {
+      "reference_id": "3861",
+      "genre": "article",
+      "title": "Regarding Diapheromera veliei Walsh and Manomera blatchleyi Caudell (Orth.: Phasmidae)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "258",
+      "epage": "260",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570676",
+      "created": "2009-12-26 19:18:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2327",
+          "lastname": "Caudell",
+          "forename": "A N"
+        }
+      ],
+      "bhl_pages": [
+        2570676,
+        2570677,
+        2570678
+      ]
+    },
+    {
+      "reference_id": "53128",
+      "genre": "article",
+      "title": "New species of crane-flies from California (Dip.)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "285",
+      "epage": "288",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570590",
+      "created": "2010-10-26 16:38:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2570590,
+        2570591,
+        2570592,
+        2570593
+      ]
+    },
+    {
+      "reference_id": "84630",
+      "genre": "article",
+      "title": "New intertidal rock-dwelling Coleoptera from California",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "29",
+      "spage": "303",
+      "epage": "308",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570610",
+      "created": "2011-08-10 22:55:13",
+      "updated": "2011-08-10 22:55:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2570610,
+        2570611,
+        2570612,
+        2570613,
+        2570614,
+        2570615
+      ]
+    },
+    {
+      "reference_id": "73380",
+      "genre": "article",
+      "title": "Samuel Wendell Williston",
+      "secondary_title": "Ent. News",
+      "volume": "29",
+      "spage": "322",
+      "epage": "327",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570771",
+      "created": "2011-06-04 08:26:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8951",
+          "lastname": "Aldrich",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        2570771,
+        2570772,
+        2570773,
+        2570774,
+        2570775,
+        2570776
+      ]
+    },
+    {
+      "reference_id": "3681",
+      "genre": "article",
+      "title": "An annotated list of Gainesville, Florida, Coleoptera",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "29",
+      "issue": "9",
+      "spage": "331",
+      "epage": "335",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570780",
+      "created": "2009-12-26 19:10:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2254",
+          "lastname": "Dozier",
+          "forename": "Herbert"
+        }
+      ],
+      "bhl_pages": [
+        2570780,
+        2570781,
+        2570782,
+        2570783,
+        2570784
+      ]
+    },
+    {
+      "reference_id": "70514",
+      "genre": "article",
+      "title": "A new genus and two new species of Tettigids, with a note on Nomotettix borealis Walker",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "343",
+      "epage": "347",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570811",
+      "created": "2011-06-03 06:40:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39939",
+          "lastname": "Hancock",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        2570811,
+        2570812,
+        2570813,
+        2570814,
+        2570815
+      ]
+    },
+    {
+      "reference_id": "70515",
+      "genre": "article",
+      "title": "On a long-winged or caudate phase of Neotettix proavus Rehn and Hebard",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "347",
+      "epage": "349",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570817",
+      "created": "2011-06-03 06:40:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46573",
+          "lastname": "",
+          "forename": "Fox"
+        }
+      ],
+      "bhl_pages": [
+        2570817,
+        2570818,
+        2570819
+      ]
+    },
+    {
+      "reference_id": "66525",
+      "genre": "article",
+      "title": "Miscellaneous studies in the family Aphididae (Hem., Homop.)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "361",
+      "epage": "369",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570728",
+      "created": "2011-05-07 17:34:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45269",
+          "lastname": "Swain",
+          "forename": "Albert F"
+        }
+      ],
+      "bhl_pages": [
+        2570728,
+        2570729,
+        2570730,
+        2570731,
+        2570732,
+        2570733,
+        2570734,
+        2570735,
+        2570736
+      ]
+    },
+    {
+      "reference_id": "3867",
+      "genre": "article",
+      "title": "Vaporous discharge by Anisomorpha buprestoides (Orthoptera: Phasmidae)",
+      "secondary_title": "Entomological News",
+      "volume": "29",
+      "spage": "388",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-872X",
+      "PageID": "2570792",
+      "created": "2009-12-26 19:18:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2411",
+          "lastname": "Mcatee",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        2570792
+      ]
+    }
+  ]
+}

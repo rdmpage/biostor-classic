@@ -1,0 +1,52 @@
+{
+  "author": [
+    
+  ],
+  "type": "article",
+  "title": "A new species of Auratonota (Lepidoptera: Tortricidae: Chlidanotinae) formerly confused with A. hydrogramma (Meyrick)",
+  "journal": {
+    "name": "Journal of The Lepidopterists' Society",
+    "volume": "60",
+    "pages": "143--148",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0024-0966"
+      }
+    ]
+  },
+  "year": "2006",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/113849"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/41005728"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 113849
+    },
+    {
+      "type": "bhl",
+      "id": 41005728
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -52.7,
+        5.0833333333333
+      ]
+    ]
+  }
+}

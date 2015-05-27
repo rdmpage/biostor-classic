@@ -1,0 +1,122 @@
+{
+  "ItemID": "42367",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 43 1910",
+  "articles": [
+    {
+      "reference_id": "71805",
+      "genre": "article",
+      "title": "On a new species of phytophagous |Eurytoma| (Chalcididae) from New Zealand",
+      "secondary_title": "Entomologist",
+      "volume": "43",
+      "spage": "114",
+      "epage": "115",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8878",
+      "PageID": "11412462",
+      "created": "2011-06-03 23:13:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11412462,
+        11412463
+      ]
+    },
+    {
+      "reference_id": "60921",
+      "genre": "article",
+      "title": "The Culicidae of Fiji, including two new species",
+      "secondary_title": "Entomologist",
+      "volume": "43",
+      "spage": "155",
+      "epage": "159",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8878",
+      "PageID": "11412511",
+      "created": "2010-11-26 19:24:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10022",
+          "lastname": "Theobald",
+          "forename": "F V"
+        }
+      ],
+      "bhl_pages": [
+        11412511,
+        11412512,
+        11412513,
+        11412514,
+        11412515
+      ]
+    },
+    {
+      "reference_id": "60922",
+      "genre": "article",
+      "title": "Some bees of the genus Crocisa from Asia and Australia",
+      "secondary_title": "Entomologist",
+      "volume": "43",
+      "spage": "216",
+      "epage": "220",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8878",
+      "PageID": "11412582",
+      "created": "2010-11-26 19:24:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        11412582,
+        11412583,
+        11412584,
+        11412585,
+        11412586
+      ]
+    },
+    {
+      "reference_id": "65314",
+      "genre": "article",
+      "title": "Some very small Australian bees",
+      "secondary_title": "Entomologist",
+      "volume": "43",
+      "spage": "262",
+      "epage": "264",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8878",
+      "PageID": "11412636",
+      "created": "2011-02-18 18:15:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        11412636,
+        11412637,
+        11412638
+      ]
+    }
+  ]
+}

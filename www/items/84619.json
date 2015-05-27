@@ -1,0 +1,77 @@
+{
+  "ItemID": "84619",
+  "FullTitle": "Proceedings of the Royal Physical Society of Edinburgh",
+  "VolumeInfo": "v.12 (1892-1894)",
+  "articles": [
+    {
+      "reference_id": "80341",
+      "genre": "article",
+      "title": "Some new or little known Oligochaeta",
+      "secondary_title": "Proceedings of The Royal Physical Society of Edinburgh",
+      "volume": "12",
+      "spage": "30",
+      "epage": "45",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "5418511",
+      "PageID": "26239036",
+      "created": "2011-07-06 16:19:32",
+      "updated": "2011-07-06 16:19:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2627",
+          "lastname": "Beddard",
+          "forename": "F E"
+        }
+      ],
+      "bhl_pages": [
+        26239036,
+        26239037,
+        26239038,
+        26239039,
+        26239040,
+        26239041,
+        26239042,
+        26239043,
+        26239044,
+        26239045,
+        26239046,
+        26239047,
+        26239048,
+        26239068,
+        26239069,
+        26239070
+      ]
+    },
+    {
+      "reference_id": "80340",
+      "genre": "article",
+      "title": "Some new or little known earthworms",
+      "secondary_title": "Proceedings of The Royal Physical Society of Edinburgh",
+      "volume": "12",
+      "spage": "33",
+      "epage": "36",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "5418511",
+      "PageID": "26239039",
+      "created": "2011-07-06 16:11:32",
+      "updated": "2011-07-06 16:11:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2627",
+          "lastname": "Beddard",
+          "forename": "F E"
+        }
+      ],
+      "bhl_pages": [
+        26239039,
+        26239040,
+        26239041,
+        26239042
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "ItemID": "90421",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1867 (incomplete)",
+  "articles": [
+    {
+      "reference_id": "69317",
+      "genre": "article",
+      "title": "Description of Halcrosia afzelii, a new crocodile from Sierra Leone, West Africa",
+      "secondary_title": "Proc. zool. Soc. London",
+      "volume": "1867",
+      "spage": "715",
+      "epage": "718",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0370-2774",
+      "PageID": "28503726",
+      "created": "2011-06-01 08:47:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46243",
+          "lastname": "",
+          "forename": "Lilljeborg"
+        }
+      ],
+      "bhl_pages": [
+        28503726,
+        28503727,
+        28503728,
+        28503729
+      ]
+    },
+    {
+      "reference_id": "69267",
+      "genre": "article",
+      "title": "Notes on the myology of Iguana tuberculata",
+      "secondary_title": "Proc. Zool. Soc. Lond",
+      "volume": "1867",
+      "spage": "766",
+      "epage": "797",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0370-2774",
+      "PageID": "28503779",
+      "created": "2011-06-01 08:44:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46236",
+          "lastname": "Mivart",
+          "forename": "St G"
+        }
+      ],
+      "bhl_pages": [
+        28503779,
+        28503780,
+        28503781,
+        28503782,
+        28503783,
+        28503784,
+        28503785,
+        28503786,
+        28503787,
+        28503788,
+        28503789,
+        28503790,
+        28503791,
+        28503792,
+        28503793,
+        28503794,
+        28503795,
+        28503796,
+        28503797,
+        28503798,
+        28503799,
+        28503800,
+        28503801,
+        28503802,
+        28503803,
+        28503804,
+        28503805,
+        28503806,
+        28503807,
+        28503808,
+        28503809,
+        28503810
+      ]
+    }
+  ]
+}

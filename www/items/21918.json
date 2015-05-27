@@ -1,0 +1,143 @@
+{
+  "ItemID": "21918",
+  "FullTitle": "University of Kansas publications, Museum of Natural History.",
+  "VolumeInfo": "v.11 (1958-1960)",
+  "articles": [
+    {
+      "reference_id": "100161",
+      "genre": "article",
+      "title": "Systematic status of the colubrid snake, Leptodeira discolor G\u00fcnther",
+      "secondary_title": "Publications of the Museum of Natural History University of Kansas",
+      "volume": "11",
+      "issue": "1",
+      "spage": "1",
+      "epage": "9",
+      "year": "1958",
+      "date": "1958-07-14",
+      "issn": "0075-5036",
+      "PageID": "2966597",
+      "created": "2012-01-02 08:56:11",
+      "updated": "2012-01-02 08:58:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "5",
+          "lastname": "Duellman",
+          "forename": "William E"
+        }
+      ],
+      "bhl_pages": [
+        2966597,
+        2966598,
+        2966599,
+        2966600,
+        2966601,
+        2966602,
+        2966603,
+        2966604,
+        2966605
+      ]
+    },
+    {
+      "reference_id": "73788",
+      "genre": "article",
+      "title": "A new snake of the genus Geophis, from Chihuahua, Mexico",
+      "secondary_title": "University of Kansas Publications, Museum of Natural History",
+      "volume": "11",
+      "spage": "327",
+      "epage": "334",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0075-5036",
+      "PageID": "2966939",
+      "created": "2011-06-04 09:47:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "861",
+          "lastname": "Legler",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        2966939,
+        2966940,
+        2966941,
+        2966942,
+        2966943,
+        2966944,
+        2966945,
+        2966946
+      ]
+    },
+    {
+      "reference_id": "49135",
+      "genre": "article",
+      "title": "A new tortoise, genus Gopherus, from north-central Mexico",
+      "secondary_title": "University of Kansas Publications. Museum of Natural History. Lawrence.",
+      "volume": "11",
+      "spage": "335",
+      "epage": "343",
+      "year": "1959",
+      "date": "1959-00-00",
+      "oclc": "1327412",
+      "PageID": "2966947",
+      "created": "2010-03-21 11:37:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "861",
+          "lastname": "Legler",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        2966947,
+        2966948,
+        2966949,
+        2966950,
+        2966951,
+        2966952,
+        2966953,
+        2966954,
+        2966955
+      ]
+    },
+    {
+      "reference_id": "73821",
+      "genre": "article",
+      "title": "Description of a new softshell turtle from the southeastern United States",
+      "secondary_title": "Univ. Kansas Publ. Mus. Nat. Hist",
+      "volume": "11",
+      "spage": "517",
+      "epage": "525",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0075-5036",
+      "PageID": "2967153",
+      "created": "2011-06-04 09:56:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "855",
+          "lastname": "Webb",
+          "forename": "R G"
+        }
+      ],
+      "bhl_pages": [
+        2967153,
+        2967154,
+        2967155,
+        2967156,
+        2967157,
+        2967158,
+        2967159,
+        2967160,
+        2967161
+      ]
+    }
+  ]
+}

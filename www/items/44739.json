@@ -1,0 +1,97 @@
+{
+  "ItemID": "44739",
+  "FullTitle": "Journal of entomology and zoology.",
+  "VolumeInfo": "v.6 1914",
+  "articles": [
+    {
+      "reference_id": "53242",
+      "genre": "article",
+      "title": "The biology of the North American crane-flies (Tipulidae, Diptera). I. The genus Eriocera Macquart",
+      "secondary_title": "Journal of Entomology and Zoology",
+      "volume": "6",
+      "spage": "12",
+      "epage": "34",
+      "year": "1914",
+      "date": "1914-00-00",
+      "PageID": "12316807",
+      "created": "2010-10-26 17:20:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        },
+        {
+          "id": "40797",
+          "lastname": "Lloyd",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        12316807,
+        12316808,
+        12316809,
+        12316810,
+        12316811,
+        12316812,
+        12316813,
+        12316814,
+        12316815,
+        12316816,
+        12316817,
+        12316818,
+        12316819,
+        12316820,
+        12316821,
+        12316822,
+        12316823,
+        12316824,
+        12316825,
+        12316826,
+        12316827,
+        12316828,
+        12316829
+      ]
+    },
+    {
+      "reference_id": "53237",
+      "genre": "article",
+      "title": "Biology of the North American crane flies (Tipulidae, Diptera). II. Liogma nodicornis Osten Sacken",
+      "secondary_title": "Journal of Entomology and Zoology",
+      "volume": "6",
+      "spage": "105",
+      "epage": "118",
+      "year": "1914",
+      "date": "1914-00-00",
+      "PageID": "12316900",
+      "created": "2010-10-26 17:19:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        12316900,
+        12316901,
+        12316902,
+        12316903,
+        12316904,
+        12316905,
+        12316906,
+        12316907,
+        12316908,
+        12316909,
+        12316910,
+        12316911,
+        12316912,
+        12316913
+      ]
+    }
+  ]
+}

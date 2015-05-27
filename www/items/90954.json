@@ -1,0 +1,690 @@
+{
+  "ItemID": "90954",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1866",
+  "articles": [
+    {
+      "reference_id": "60007",
+      "genre": "article",
+      "title": "A revision of the genera of pteropine bats (Pteropidae), and the descriptions of some apparently undescribed species",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "62",
+      "epage": "67",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627498",
+      "created": "2010-11-22 17:33:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        28627498,
+        28627499,
+        28627500,
+        28627501,
+        28627502,
+        28627503
+      ]
+    },
+    {
+      "reference_id": "60004",
+      "genre": "article",
+      "title": "A revision of the genera of Rhinolophidae, or horseshoe bats",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "81",
+      "epage": "83",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627523",
+      "created": "2010-11-22 17:32:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        28627523,
+        28627524,
+        28627525
+      ]
+    },
+    {
+      "reference_id": "99948",
+      "genre": "article",
+      "title": "Description of a new species of Monoecious Worm, belonging to the Class Turbellaria and genus Serpentaria",
+      "secondary_title": "Proceedings of The Zoological Society",
+      "volume": "1866",
+      "spage": "101",
+      "epage": "102",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627547",
+      "created": "2011-12-19 12:47:33",
+      "updated": "2011-12-19 12:47:33",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        28627547,
+        28627548
+      ]
+    },
+    {
+      "reference_id": "60058",
+      "genre": "article",
+      "title": "Descriptions of two new species of phyllopodous crustaceans",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "122",
+      "epage": "123",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627570",
+      "created": "2010-11-22 18:05:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42741",
+          "lastname": "Baird",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28627570,
+        28627571
+      ]
+    },
+    {
+      "reference_id": "105346",
+      "genre": "article",
+      "title": "Descriptions of a New Genus and a New Species of Mollusks",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "150",
+      "epage": "151",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627602",
+      "created": "2012-07-18 21:03:00",
+      "updated": "2012-07-18 21:12:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42662",
+          "lastname": "Adams",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        28627602,
+        28627605
+      ]
+    },
+    {
+      "reference_id": "59993",
+      "genre": "article",
+      "title": "Notes on the skulls of dolphins, or bottlenose whales, in the British Museum",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "211",
+      "epage": "216",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627683",
+      "created": "2010-11-22 17:29:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        28627683,
+        28627684,
+        28627685,
+        28627686,
+        28627687,
+        28627688
+      ]
+    },
+    {
+      "reference_id": "59933",
+      "genre": "article",
+      "title": "Additions to the List of the Avifauna of Australia, with descriptions of three new species",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "217",
+      "epage": "218",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627689",
+      "created": "2010-11-22 17:05:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        28627689,
+        28627690
+      ]
+    },
+    {
+      "reference_id": "59977",
+      "genre": "article",
+      "title": "Notes on some Mammalia from Port Albany (Cape York Peninsula), North Australia, with the descriptions of some new species",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "219",
+      "epage": "221",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627693",
+      "created": "2010-11-22 17:23:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        28627693,
+        28627694,
+        28627695
+      ]
+    },
+    {
+      "reference_id": "60681",
+      "genre": "article",
+      "title": "A monograph of the diurnal Lepidoptera belonging to the genus Euploea, with descriptions of many new species; founded principally on the specimens in the collection of the British Museum",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "268",
+      "epage": "302",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627748",
+      "created": "2010-11-23 03:40:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        28627748,
+        28627749,
+        28627750,
+        28627751,
+        28627752,
+        28627753,
+        28627754,
+        28627755,
+        28627756,
+        28627757,
+        28627758,
+        28627759,
+        28627760,
+        28627761,
+        28627762,
+        28627763,
+        28627764,
+        28627765,
+        28627766,
+        28627767,
+        28627768,
+        28627769,
+        28627770,
+        28627771,
+        28627772,
+        28627773,
+        28627774,
+        28627775,
+        28627776,
+        28627777,
+        28627778,
+        28627779,
+        28627780,
+        28627781,
+        28627782
+      ]
+    },
+    {
+      "reference_id": "69266",
+      "genre": "article",
+      "title": "Notes on some young specimens of tortoises (Testudo)",
+      "secondary_title": "Proc. Zool. Soc. Lond",
+      "volume": "1866",
+      "spage": "305",
+      "epage": "306",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627789",
+      "created": "2011-06-01 08:44:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        28627789,
+        28627790
+      ]
+    },
+    {
+      "reference_id": "59842",
+      "genre": "article",
+      "title": "Description of Trachichthys darwinii, a new species of berycoid fish from Madeira",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "311",
+      "epage": "315",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627799",
+      "created": "2010-11-22 16:16:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42696",
+          "lastname": "Johnson",
+          "forename": "J Y"
+        }
+      ],
+      "bhl_pages": [
+        28627799,
+        28627800,
+        28627801,
+        28627802,
+        28627803
+      ]
+    },
+    {
+      "reference_id": "99945",
+      "genre": "article",
+      "title": "Description of fifteen New Species of Land-and Freshwater Shells from Formosa, collected by Robert Swinhoe, Esq., Consul at Taiwan in that island",
+      "secondary_title": "Proceedings of The Zoological Society",
+      "volume": "1866",
+      "spage": "316",
+      "epage": "319",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627804",
+      "created": "2011-12-19 12:47:22",
+      "updated": "2012-07-18 21:19:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52169",
+          "lastname": "Adams",
+          "forename": "Henry"
+        }
+      ],
+      "bhl_pages": [
+        28627804,
+        28627807,
+        28627808,
+        28627809,
+        28627805
+      ]
+    },
+    {
+      "reference_id": "105349",
+      "genre": "article",
+      "title": "On a Collection of Coleoptera from Formosa, sent home by R. Swinhoe, Esq., H.B.M. Consul, Formosa",
+      "secondary_title": "Proceedings Zoological Society",
+      "volume": "1866",
+      "spage": "339",
+      "epage": "355",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627831",
+      "created": "2012-07-18 22:20:20",
+      "updated": "2012-07-18 22:20:20",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        28627831,
+        28627832,
+        28627833,
+        28627834,
+        28627835,
+        28627836,
+        28627837,
+        28627838,
+        28627839,
+        28627840,
+        28627841,
+        28627842,
+        28627843,
+        28627844,
+        28627845,
+        28627846,
+        28627847
+      ]
+    },
+    {
+      "reference_id": "60655",
+      "genre": "article",
+      "title": "List of lepidopterous insects collected at Takow, Formosa, by Mr. Robert Swinhoe",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "355",
+      "epage": "365",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627847",
+      "created": "2010-11-23 03:28:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42849",
+          "lastname": "Wallace",
+          "forename": "A R <I>In<\/i> Wallace"
+        },
+        {
+          "id": "40124",
+          "lastname": "Moore",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        28627847,
+        28627848,
+        28627849,
+        28627850,
+        28627851,
+        28627852,
+        28627853,
+        28627854,
+        28627855,
+        28627856,
+        28627857
+      ]
+    },
+    {
+      "reference_id": "59903",
+      "genre": "article",
+      "title": "Descriptions of three species of snakes of the genus Hoplocephalus",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "370",
+      "epage": "371",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627862",
+      "created": "2010-11-22 16:55:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42699",
+          "lastname": "Krefft",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        28627862,
+        28627863
+      ]
+    },
+    {
+      "reference_id": "59728",
+      "genre": "article",
+      "title": "Characters of six new Australian land shells",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "373",
+      "epage": "375",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627865",
+      "created": "2010-11-22 15:41:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40858",
+          "lastname": "Cox",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        28627865,
+        28627866,
+        28627867
+      ]
+    },
+    {
+      "reference_id": "59957",
+      "genre": "article",
+      "title": "On the classification of the small Dasyuridae of Australia, with descriptions of two new genera and one new species",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "431",
+      "epage": "435",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627927",
+      "created": "2010-11-22 17:12:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42699",
+          "lastname": "Krefft",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        28627927,
+        28627928,
+        28627929,
+        28627930,
+        28627931
+      ]
+    },
+    {
+      "reference_id": "105353",
+      "genre": "article",
+      "title": "List of Land and Freshwater Shells collected by Mr. E. Bartlett on the Upper Amazon and on the River Ucayali, Eastern Peru, with Descriptions of [7] New Species",
+      "secondary_title": "Proceedings Zoological Society",
+      "volume": "1866",
+      "spage": "440",
+      "epage": "445",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28627938",
+      "created": "2012-07-18 22:43:38",
+      "updated": "2012-07-18 22:49:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52169",
+          "lastname": "Adams",
+          "forename": "Henry"
+        }
+      ],
+      "bhl_pages": [
+        28627938,
+        28627941,
+        28627942,
+        28627943,
+        28627944,
+        28627945,
+        28627939
+      ]
+    },
+    {
+      "reference_id": "104511",
+      "genre": "article",
+      "title": "Catalogue of Longicorn Coleoptera, collected in the Island of Penang by James Lamb, Esq. (Part II)",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "504",
+      "epage": "536",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28628008",
+      "created": "2012-06-22 10:12:24",
+      "updated": "2012-06-22 10:15:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40090",
+          "lastname": "Pascoe",
+          "forename": "Francis P"
+        }
+      ],
+      "bhl_pages": [
+        28628008,
+        28628015,
+        28628016,
+        28628017,
+        28628018,
+        28628019,
+        28628020,
+        28628021,
+        28628022,
+        28628023,
+        28628024,
+        28628025,
+        28628026,
+        28628027,
+        28628028,
+        28628029,
+        28628030,
+        28628031,
+        28628032,
+        28628033,
+        28628034,
+        28628035,
+        28628036,
+        28628037,
+        28628038,
+        28628039,
+        28628040,
+        28628041,
+        28628042,
+        28628043,
+        28628044,
+        28628045,
+        28628046,
+        28628009,
+        28628011,
+        28628013
+      ]
+    },
+    {
+      "reference_id": "70286",
+      "genre": "article",
+      "title": "Description of two new species of the genus Bacillus, Latr",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "577",
+      "epage": "578",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0370-2774",
+      "PageID": "28628087",
+      "created": "2011-06-02 15:54:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46535",
+          "lastname": "",
+          "forename": "Kaup"
+        }
+      ],
+      "bhl_pages": [
+        28628087,
+        28628088
+      ]
+    },
+    {
+      "reference_id": "61293",
+      "genre": "article",
+      "title": "On the fishes of the states of Central America, founded upon specimens collected in fresh and marine waters of various parts of that country by Messrs. Salvin and Godman and Capt. J. M. Dow",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1866",
+      "spage": "600",
+      "epage": "604",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0370-2774",
+      "PageID": "28628116",
+      "created": "2011-01-10 16:52:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        28628116,
+        28628117,
+        28628118,
+        28628119,
+        28628120
+      ]
+    }
+  ]
+}

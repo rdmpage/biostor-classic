@@ -1,0 +1,142 @@
+{
+  "ItemID": "47510",
+  "FullTitle": "Archiv fu\u0308r Naturgeschichte.",
+  "VolumeInfo": "v.78 Heft 1-4 1912",
+  "articles": [
+    {
+      "reference_id": "95700",
+      "genre": "article",
+      "title": "Ein neueres Werk \u00fcber afrikanische Bienen kritisch besprochen",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "78",
+      "spage": "126",
+      "epage": "144",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1481989",
+      "PageID": "13207072",
+      "created": "2011-10-08 15:00:50",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39784",
+          "lastname": "Strand",
+          "forename": "Embrik"
+        }
+      ],
+      "bhl_pages": [
+        13207072,
+        13207073,
+        13207074,
+        13207075,
+        13207076,
+        13207077,
+        13207078,
+        13207079,
+        13207080,
+        13207081,
+        13207082,
+        13207083,
+        13207084,
+        13207085,
+        13207086,
+        13207087,
+        13207088,
+        13207089,
+        13207090
+      ]
+    },
+    {
+      "reference_id": "72802",
+      "genre": "article",
+      "title": "Zur Kenntnis der Spathiinen und einiger verwandter Gruppen",
+      "secondary_title": "Archiv fur Naturgeschichte",
+      "volume": "78",
+      "spage": "1",
+      "epage": "37",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0365-6136",
+      "PageID": "13207093",
+      "created": "2011-06-04 04:16:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        13207093,
+        13207094,
+        13207095,
+        13207096,
+        13207097,
+        13207098,
+        13207099,
+        13207100,
+        13207101,
+        13207102,
+        13207103,
+        13207104,
+        13207105,
+        13207106,
+        13207107,
+        13207108,
+        13207109,
+        13207110,
+        13207111,
+        13207112,
+        13207113,
+        13207114,
+        13207115,
+        13207116,
+        13207117,
+        13207118,
+        13207119,
+        13207120,
+        13207121,
+        13207122,
+        13207123,
+        13207124,
+        13207125,
+        13207126,
+        13207127,
+        13207128,
+        13207129
+      ]
+    },
+    {
+      "reference_id": "72818",
+      "genre": "article",
+      "title": "Neue Gattungen und Arten aussereuropaischer Braconiden",
+      "secondary_title": "Archiv fur Naturgeschichte",
+      "volume": "78",
+      "spage": "38",
+      "epage": "41",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0365-6136",
+      "PageID": "13207130",
+      "created": "2011-06-04 04:20:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        13207130,
+        13207131,
+        13207132,
+        13207133
+      ]
+    }
+  ]
+}

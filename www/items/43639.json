@@ -1,0 +1,515 @@
+{
+  "ItemID": "43639",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 18-19 1892-93",
+  "articles": [
+    {
+      "reference_id": "60505",
+      "genre": "article",
+      "title": "Neue Histeriden (Coleoptera)",
+      "secondary_title": "Entomologische Nachrichten. Dresden",
+      "volume": "18",
+      "spage": "17",
+      "epage": "30",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "5844710",
+      "PageID": "11922434",
+      "created": "2010-11-23 01:11:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42832",
+          "lastname": "Schmidt",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11922434,
+        11922435,
+        11922436,
+        11922437,
+        11922438,
+        11922439,
+        11922440,
+        11922441,
+        11922442,
+        11922443,
+        11922444,
+        11922445,
+        11922446,
+        11922447
+      ]
+    },
+    {
+      "reference_id": "72969",
+      "genre": "article",
+      "title": "Tryphoniden-Studien",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "40",
+      "epage": "43",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922457",
+      "created": "2011-06-04 04:48:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11922457,
+        11922458,
+        11922459,
+        11922483
+      ]
+    },
+    {
+      "reference_id": "70934",
+      "genre": "article",
+      "title": "Verzeichniss der um Nienghali in S\u00fcdchina gesammelten Lucanoiden, Scarabaeiden, Buprestiden, und Cerambyciden, nebst Beschreibung neuer Arten",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "81",
+      "epage": "95",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922521",
+      "created": "2011-06-03 16:56:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46693",
+          "lastname": "Nonfried",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11922521,
+        11922522,
+        11922523,
+        11922524,
+        11922525,
+        11922526,
+        11922527,
+        11922528,
+        11922529,
+        11922530,
+        11922531,
+        11922532,
+        11922533,
+        11922534,
+        11922535
+      ]
+    },
+    {
+      "reference_id": "71013",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Coleopterenfauna von Africa und Madagascar",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "105",
+      "epage": "111",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922545",
+      "created": "2011-06-03 17:18:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46693",
+          "lastname": "Nonfried",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11922545,
+        11922546,
+        11922547,
+        11922548,
+        11922549,
+        11922550,
+        11922551
+      ]
+    },
+    {
+      "reference_id": "70933",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Coleopteren-fauna von Afrika und Madagascar",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "117",
+      "epage": "127",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922557",
+      "created": "2011-06-03 16:56:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46693",
+          "lastname": "Nonfried",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11922557,
+        11922558,
+        11922559,
+        11922560,
+        11922561,
+        11922562,
+        11922563,
+        11922564,
+        11922565,
+        11922566,
+        11922567
+      ]
+    },
+    {
+      "reference_id": "71218",
+      "genre": "article",
+      "title": "Ueber einige neue Gattungen und Arten der Melolonthiden",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "151",
+      "epage": "159",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922591",
+      "created": "2011-06-03 18:10:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46717",
+          "lastname": "Brenske",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11922591,
+        11922592,
+        11922593,
+        11922594,
+        11922595,
+        11922596,
+        11922597,
+        11922598,
+        11922599
+      ]
+    },
+    {
+      "reference_id": "72042",
+      "genre": "article",
+      "title": "Ueber eine Collection durch Herrn Hans Fruhstorfer auf Java gefangener Aeschniden",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "249",
+      "epage": "255",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922689",
+      "created": "2011-06-04 00:16:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11922689,
+        11922690,
+        11922691,
+        11922692,
+        11922693,
+        11922694,
+        11922695
+      ]
+    },
+    {
+      "reference_id": "72914",
+      "genre": "article",
+      "title": "Cryptiden-Studien",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "362",
+      "epage": "365",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922802",
+      "created": "2011-06-04 04:41:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11922802,
+        11922803,
+        11922804,
+        11922805
+      ]
+    },
+    {
+      "reference_id": "72901",
+      "genre": "article",
+      "title": "Cryptiden-Studien",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "18",
+      "spage": "370",
+      "epage": "373",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922810",
+      "created": "2011-06-04 04:40:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11922810,
+        11922811,
+        11922812,
+        11922813
+      ]
+    },
+    {
+      "reference_id": "72899",
+      "genre": "article",
+      "title": "Cryptiden-Studien",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "19",
+      "spage": "54",
+      "epage": "60",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922886",
+      "created": "2011-06-04 04:40:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11922886,
+        11922887,
+        11922888,
+        11922889,
+        11922890,
+        11922891,
+        11922892
+      ]
+    },
+    {
+      "reference_id": "73630",
+      "genre": "article",
+      "title": "Vorlaufige Beschreibung neuer Cecidomyiden",
+      "secondary_title": "Ent. Nachr",
+      "volume": "19",
+      "spage": "161",
+      "epage": "166",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0232-5535",
+      "PageID": "11922993",
+      "created": "2011-06-04 09:28:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42323",
+          "lastname": "R\u00fcbsaamen",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        11922993,
+        11922994,
+        11922995,
+        11922996,
+        11922997,
+        11922998
+      ]
+    },
+    {
+      "reference_id": "72506",
+      "genre": "article",
+      "title": "Ein neuer Rhizotrogus Italiens aus der Gruppe des vicinus und \u00dcbersichtstabelle der Arten dieser Gruppe",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "19",
+      "spage": "188",
+      "epage": "191",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "5844710",
+      "PageID": "11923020",
+      "created": "2011-06-04 02:17:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46717",
+          "lastname": "Brenske",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11923020,
+        11923021,
+        11923022,
+        11923023
+      ]
+    },
+    {
+      "reference_id": "71332",
+      "genre": "article",
+      "title": "Locustodeen von Victoria in Kamerun, gesammelt von Herrn Dr. Paul  Preuss",
+      "secondary_title": "Entomologische Nachrichten Berlin",
+      "volume": "19",
+      "spage": "195",
+      "epage": "199",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "5844710",
+      "PageID": "11923027",
+      "created": "2011-06-03 19:25:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46791",
+          "lastname": "",
+          "forename": "Karsch"
+        }
+      ],
+      "bhl_pages": [
+        11923027,
+        11923028,
+        11923029,
+        11923030,
+        11923031
+      ]
+    },
+    {
+      "reference_id": "71333",
+      "genre": "article",
+      "title": "Verzeichnis der von Dr. Karl Preuss in Kamerun gesammelten Grillen",
+      "secondary_title": "Entomologische Nachrichten Berlin",
+      "volume": "19",
+      "spage": "199",
+      "epage": "204",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "5844710",
+      "PageID": "11923031",
+      "created": "2011-06-03 19:25:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46791",
+          "lastname": "",
+          "forename": "Karsch"
+        }
+      ],
+      "bhl_pages": [
+        11923031,
+        11923032,
+        11923033,
+        11923034,
+        11923035,
+        11923036
+      ]
+    },
+    {
+      "reference_id": "71074",
+      "genre": "article",
+      "title": "Ein neuer Papilio aus Java",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "19",
+      "spage": "225",
+      "epage": "226",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0232-5535",
+      "PageID": "11923057",
+      "created": "2011-06-03 17:38:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11923057,
+        11923058
+      ]
+    },
+    {
+      "reference_id": "60675",
+      "genre": "article",
+      "title": "Ein hervorragender neuer Tagfalter aus Kaiser-Wilhelmsland",
+      "secondary_title": "Entomologische Nachrichten. Dresden",
+      "volume": "19",
+      "spage": "317",
+      "epage": "319",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "5844710",
+      "PageID": "11923149",
+      "created": "2010-11-23 03:39:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11923149,
+        11923150,
+        11923151
+      ]
+    }
+  ]
+}

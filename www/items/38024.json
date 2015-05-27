@@ -1,0 +1,256 @@
+{
+  "ItemID": "38024",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd.17 1894",
+  "articles": [
+    {
+      "reference_id": "102303",
+      "genre": "article",
+      "title": "\u00dcber zwei baltische Variet\u00e4ten der Gattung Anurea",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "17",
+      "spage": "17",
+      "epage": "20",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920448",
+      "created": "2012-04-02 21:22:43",
+      "updated": "2012-04-02 21:22:43",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9920448,
+        9920449,
+        9920450,
+        9920451
+      ]
+    },
+    {
+      "reference_id": "71536",
+      "genre": "article",
+      "title": "Reptilien und Batrachier aus Bolivia",
+      "secondary_title": "Zool. Anz",
+      "volume": "17",
+      "spage": "118",
+      "epage": "119",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920549",
+      "created": "2011-06-03 20:20:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9920549,
+        9920550
+      ]
+    },
+    {
+      "reference_id": "5010",
+      "genre": "article",
+      "title": "Eine neue Antilope des Somalilandes",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "17",
+      "spage": "130",
+      "epage": "131",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920561",
+      "created": "2010-01-05 13:35:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2653",
+          "lastname": "Menges",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9920561,
+        9920562
+      ]
+    },
+    {
+      "reference_id": "49211",
+      "genre": "article",
+      "title": "Diagnosen eines Geckos und eines Chamaeleons aus S\u00fcd-Madagascar",
+      "secondary_title": "Zool. Anz.",
+      "volume": "17",
+      "spage": "137",
+      "epage": "140",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920568",
+      "created": "2010-03-21 12:07:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9920568,
+        9920569,
+        9920570,
+        9920571
+      ]
+    },
+    {
+      "reference_id": "49008",
+      "genre": "article",
+      "title": "\u00dcber einige Novit\u00e4ten der herpetologischen Sammlung des Wiener zoolog. vergl. anatom. Instituts",
+      "secondary_title": "Zool. Anz.",
+      "volume": "17",
+      "spage": "155",
+      "epage": "157",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920586",
+      "created": "2010-03-21 10:43:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2620",
+          "lastname": "Werner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9920586,
+        9920587,
+        9920588
+      ]
+    },
+    {
+      "reference_id": "49041",
+      "genre": "article",
+      "title": "Eine neue Brookesia (Chamaeleontidae) aus Nossib\u00e9",
+      "secondary_title": "Zool. Anz.",
+      "volume": "17",
+      "spage": "182",
+      "epage": "185",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920613",
+      "created": "2010-03-21 11:03:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9920613,
+        9920614,
+        9920615,
+        9920616
+      ]
+    },
+    {
+      "reference_id": "5011",
+      "genre": "article",
+      "title": "\u00dcber die neue von Herrn J. Menges beschriebene Antilope des Somalilandes",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "17",
+      "spage": "202",
+      "epage": "204",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920633",
+      "created": "2010-01-05 13:35:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2654",
+          "lastname": "Noack",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        9920633,
+        9920634,
+        9920635
+      ]
+    },
+    {
+      "reference_id": "98443",
+      "genre": "article",
+      "title": "Liste uber im Finnischen Meerbusen in der Umgebung von Helsingfors beobachteten Protozoen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "17",
+      "spage": "209",
+      "epage": "212",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920640",
+      "created": "2011-11-30 14:12:44",
+      "updated": "2011-11-30 14:12:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9920640,
+        9920641,
+        9920642,
+        9920643
+      ]
+    },
+    {
+      "reference_id": "49159",
+      "genre": "article",
+      "title": "Herpetologische nova",
+      "secondary_title": "Zool. Anz.",
+      "volume": "17",
+      "spage": "410",
+      "epage": "415",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9920847",
+      "created": "2010-03-21 11:43:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2620",
+          "lastname": "Werner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9920847,
+        9920848,
+        9920849,
+        9920850,
+        9920851,
+        9920852
+      ]
+    }
+  ]
+}

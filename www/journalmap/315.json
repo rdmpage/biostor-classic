@@ -1,0 +1,61 @@
+{
+  "author": [
+    {
+      "firstname": "David R",
+      "lastname": "Smith",
+      "name": "David R Smith"
+    },
+    {
+      "firstname": "Daniel H",
+      "lastname": "Janzen",
+      "name": "Daniel H Janzen"
+    }
+  ],
+  "type": "article",
+  "title": "Food Plants and Life Histories of Sawflies of the Families Tenthredinidae and Pergidae (Hymenoptera) in Costa Rica, with Descriptions of Four New Species",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "12",
+    "pages": "312--332",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2003",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/315"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2839595"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 315
+    },
+    {
+      "type": "bhl",
+      "id": 2839595
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -85.35,
+        10.35
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ]
+    ]
+  }
+}

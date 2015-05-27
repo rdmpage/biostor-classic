@@ -1,0 +1,234 @@
+{
+  "ItemID": "37005",
+  "FullTitle": "Annals of the Carnegie Museum.  ",
+  "VolumeInfo": "v. 11 (1917)",
+  "articles": [
+    {
+      "reference_id": "71059",
+      "genre": "article",
+      "title": "Two new West African Rhopalocera",
+      "secondary_title": "Annals of the Carnegie Museum",
+      "volume": "11",
+      "spage": "14",
+      "epage": "18",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0097-4463",
+      "PageID": "9479337",
+      "created": "2011-06-03 17:37:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46731",
+          "lastname": "Holland",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        9479337,
+        9479338,
+        9479339,
+        9479340,
+        9479341
+      ]
+    },
+    {
+      "reference_id": "20462",
+      "genre": "article",
+      "title": "Some species of Farlowella",
+      "secondary_title": "Annals of the Carnegie Museum",
+      "volume": "11",
+      "spage": "297",
+      "epage": "303",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1261514",
+      "PageID": "9479693",
+      "created": "2010-02-09 17:25:10",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10214",
+          "lastname": "Eigenmann",
+          "forename": "C H"
+        },
+        {
+          "id": "18476",
+          "lastname": "Vance",
+          "forename": "Lola"
+        }
+      ],
+      "bhl_pages": [
+        9479693,
+        9479694,
+        9479695,
+        9479696,
+        9479697,
+        9479698,
+        9479699
+      ]
+    },
+    {
+      "reference_id": "49131",
+      "genre": "article",
+      "title": "A list of the South American lizards of the Carnegie Museum, with descriptions of four new species",
+      "secondary_title": "Ann. Carnegie Mus.",
+      "volume": "11",
+      "spage": "304",
+      "epage": "320",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0097-4463",
+      "PageID": "9479706",
+      "created": "2010-03-21 11:37:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39388",
+          "lastname": "Griffin",
+          "forename": "L E"
+        }
+      ],
+      "bhl_pages": [
+        9479706,
+        9479707,
+        9479708,
+        9479709,
+        9479710,
+        9479711,
+        9479712,
+        9479713,
+        9479714,
+        9479715,
+        9479716,
+        9479717,
+        9479718,
+        9479719,
+        9479720,
+        9479721,
+        9479722
+      ]
+    },
+    {
+      "reference_id": "71957",
+      "genre": "article",
+      "title": "In W. J. Holland. List of the Coleoptera collected on the Isle of Pines by Gustav A. Link Sr., 1912-1913",
+      "secondary_title": "Annals of the Carnegie Museum, Pittsburgh",
+      "volume": "11",
+      "spage": "333",
+      "epage": "345",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1261514",
+      "PageID": "9479743",
+      "created": "2011-06-03 23:48:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42295",
+          "lastname": "Schwarz",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9479743,
+        9479744,
+        9479745,
+        9479746,
+        9479747,
+        9479748,
+        9479749,
+        9479750,
+        9479751,
+        9479752,
+        9479753,
+        9479754,
+        9479755
+      ]
+    },
+    {
+      "reference_id": "20455",
+      "genre": "article",
+      "title": "New and rare species of South American Siluridae in the Carnegie Museum",
+      "secondary_title": "Annals of the Carnegie Museum",
+      "volume": "11",
+      "spage": "398",
+      "epage": "404",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1261514",
+      "PageID": "9479814",
+      "created": "2010-02-09 17:24:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10214",
+          "lastname": "Eigenmann",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        9479814,
+        9479815,
+        9479816,
+        9479817,
+        9479818,
+        9479819,
+        9479820
+      ]
+    },
+    {
+      "reference_id": "20476",
+      "genre": "article",
+      "title": "A list of the Hypophthalmidae, the Diplomystidae and of some unrecorded species of Siluridae in the collections of the Carnegie Museum",
+      "secondary_title": "Annals of the Carnegie Museum",
+      "volume": "11",
+      "spage": "405",
+      "epage": "427",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1261514",
+      "PageID": "9479827",
+      "created": "2010-02-09 17:27:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17806",
+          "lastname": "Fisher",
+          "forename": "H G"
+        }
+      ],
+      "bhl_pages": [
+        9479827,
+        9479828,
+        9479829,
+        9479830,
+        9479831,
+        9479832,
+        9479833,
+        9479834,
+        9479835,
+        9479836,
+        9479837,
+        9479838,
+        9479839,
+        9479840,
+        9479841,
+        9479842,
+        9479843,
+        9479844,
+        9479845,
+        9479846,
+        9479847,
+        9479848,
+        9479849
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "ItemID": "22189",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 20 (1895)",
+  "articles": [
+    {
+      "reference_id": "61494",
+      "genre": "article",
+      "title": "Description d'un nouveau Cladoc\u00e8re Bosminopsis deitersi, n. g. n. sp",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "20",
+      "spage": "96",
+      "epage": "98",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0037-962X",
+      "PageID": "3083790",
+      "created": "2011-01-10 21:08:57",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42991",
+          "lastname": "Richard",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3083790,
+        3083622,
+        3083842
+      ]
+    },
+    {
+      "reference_id": "103342",
+      "genre": "article",
+      "title": "Description d'une nouvelle espece de Gordien de la Chine",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "20",
+      "spage": "99",
+      "epage": "100",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0037-962X",
+      "PageID": "3083634",
+      "created": "2012-05-21 13:20:09",
+      "updated": "2012-05-21 13:20:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3083634,
+        3083689
+      ]
+    },
+    {
+      "reference_id": "103359",
+      "genre": "article",
+      "title": "Sur une Filaire (Filaria dahomensis, n. sp.) du Python de Natal, voisine de la Filaire de Medine",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "20",
+      "spage": "123",
+      "epage": "127",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0037-962X",
+      "PageID": "3083716",
+      "created": "2012-05-21 13:21:30",
+      "updated": "2012-05-21 13:21:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3083716,
+        3083693,
+        3083847,
+        3083794,
+        3083694
+      ]
+    },
+    {
+      "reference_id": "57427",
+      "genre": "article",
+      "title": "Descriptions de quelques arachnides de Base-Californie faisant partie des collections du Dr Geo. Marx",
+      "secondary_title": "Bull. Soc. zool. France",
+      "volume": "20",
+      "spage": "134",
+      "epage": "137",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1715809",
+      "PageID": "3083601",
+      "created": "2010-11-18 14:23:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3083601,
+        3083798,
+        3083695,
+        3083637
+      ]
+    },
+    {
+      "reference_id": "103358",
+      "genre": "article",
+      "title": "Sur un Amphipode, Pseudotriton bouvieri, n. g. et sp., de la famille Syrrhoidae",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "20",
+      "spage": "165",
+      "epage": "170",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0037-962X",
+      "PageID": "3083807",
+      "created": "2012-05-21 13:21:25",
+      "updated": "2012-05-21 13:21:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3083807,
+        3083701,
+        3083702,
+        3083856,
+        3083599,
+        3083642
+      ]
+    }
+  ]
+}

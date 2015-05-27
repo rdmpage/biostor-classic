@@ -1,0 +1,180 @@
+{
+  "ItemID": "37031",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "2",
+  "articles": [
+    {
+      "reference_id": "67151",
+      "genre": "article",
+      "title": "[Description of a new species of Leptocephalus]",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "2",
+      "spage": "76",
+      "epage": "76",
+      "year": "1847",
+      "date": "1847-00-00",
+      "issn": "0270-2444",
+      "PageID": "9490760",
+      "created": "2011-05-19 08:33:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45469",
+          "lastname": "Storer",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        9490760
+      ]
+    },
+    {
+      "reference_id": "59671",
+      "genre": "article",
+      "title": "On the shells collected by the United States Exploring Expedition, commanded by Charles Wilkes, U.S.N",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "2",
+      "spage": "141",
+      "epage": "145",
+      "year": "1846",
+      "date": "1846-00-00",
+      "issn": "0270-2444",
+      "PageID": "9490825",
+      "created": "2010-11-22 15:16:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42664",
+          "lastname": "Gould",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        9490825,
+        9490826,
+        9490827,
+        9490828,
+        9490829
+      ]
+    },
+    {
+      "reference_id": "59783",
+      "genre": "article",
+      "title": "New species of Helix from the shells of the Exploring Expedition",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "2",
+      "spage": "165",
+      "epage": "167",
+      "year": "1846",
+      "date": "1846-00-00",
+      "issn": "0270-2444",
+      "PageID": "9490849",
+      "created": "2010-11-22 15:53:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42689",
+          "lastname": "Gould",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9490849,
+        9490850,
+        9490851
+      ]
+    },
+    {
+      "reference_id": "59766",
+      "genre": "article",
+      "title": "Descriptions of shells of the Exploring Expedition",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "2",
+      "spage": "177",
+      "epage": "184",
+      "year": "1846",
+      "date": "1846-00-00",
+      "issn": "0270-2444",
+      "PageID": "9490861",
+      "created": "2010-11-22 15:51:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42689",
+          "lastname": "Gould",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9490861,
+        9490862,
+        9490863,
+        9490864,
+        9490865,
+        9490866,
+        9490867,
+        9490868
+      ]
+    },
+    {
+      "reference_id": "59751",
+      "genre": "article",
+      "title": "Descriptions of the following species of Physa, from the collection of the Exploring Expedition",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "2",
+      "spage": "214",
+      "epage": "215",
+      "year": "1846",
+      "date": "1846-00-00",
+      "issn": "0270-2444",
+      "PageID": "9490898",
+      "created": "2010-11-22 15:48:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42689",
+          "lastname": "Gould",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9490898,
+        9490899
+      ]
+    },
+    {
+      "reference_id": "59732",
+      "genre": "article",
+      "title": "Descriptions of species of Melania, from the collection of the Exploring Expedition",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "2",
+      "spage": "222",
+      "epage": "225",
+      "year": "1847",
+      "date": "1847-00-00",
+      "issn": "0270-2444",
+      "PageID": "9490906",
+      "created": "2010-11-22 15:42:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42664",
+          "lastname": "Gould",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        9490906,
+        9490907,
+        9490908,
+        9490909
+      ]
+    }
+  ]
+}

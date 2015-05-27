@@ -1,0 +1,89 @@
+{
+  "ItemID": "28086",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.141 (1905)",
+  "articles": [
+    {
+      "reference_id": "104598",
+      "genre": "article",
+      "title": "Sur les macroures nageurs (abstraction faite des Carides) recueillis par les exp\u00e8ditions am\u00e9ricaines du \"Hassler\" et du \"Blake",
+      "secondary_title": "Compte Rendu de l'Academie des Sciences Paris",
+      "volume": "141",
+      "spage": "746",
+      "epage": "749",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0001-4036",
+      "PageID": "5493775",
+      "created": "2012-06-26 09:45:39",
+      "updated": "2012-06-26 09:47:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        5493775,
+        5493774,
+        5493773,
+        5493772
+      ]
+    },
+    {
+      "reference_id": "104600",
+      "genre": "article",
+      "title": "Sur les Thalassinid\u00e9s recueillis par le \"Blake\" dans la mer des Antilles et le golfe du Mexique",
+      "secondary_title": "CR Ac Sci",
+      "volume": "141",
+      "spage": "802",
+      "epage": "806",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0001-4036",
+      "PageID": "5493826",
+      "created": "2012-06-26 09:52:37",
+      "updated": "2012-06-26 09:53:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        5493826,
+        5493827,
+        5493828,
+        5493829,
+        5493830
+      ]
+    },
+    {
+      "reference_id": "104677",
+      "genre": "article",
+      "title": "Sur la decouverte d'amphibiens dans le terrain houiller de Commentry",
+      "secondary_title": "Cr Ac Sci",
+      "volume": "141",
+      "spage": "1268",
+      "epage": "1269",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0001-4036",
+      "PageID": "5494844",
+      "created": "2012-06-26 10:30:42",
+      "updated": "2012-06-26 10:30:42",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5494844,
+        5494845
+      ]
+    }
+  ]
+}

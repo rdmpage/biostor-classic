@@ -1,0 +1,95 @@
+{
+  "ItemID": "111306",
+  "FullTitle": "Proceedings of the Linnean Society of New South Wales.",
+  "VolumeInfo": "v. 124-126 (2003-2005)",
+  "articles": [
+    {
+      "reference_id": "104779",
+      "genre": "article",
+      "title": "Cyst shell morphology of the fairy shrimps (Crustacea: Anostraca) of Australia",
+      "secondary_title": "Proceedings of the Linnean Society of New South Wales",
+      "volume": "125",
+      "spage": "73",
+      "epage": "95",
+      "year": "2004",
+      "date": "2004-00-00",
+      "issn": "0370-047X",
+      "PageID": "36109664",
+      "created": "2012-06-28 17:42:27",
+      "updated": "2012-06-28 17:53:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14104",
+          "lastname": "Timms",
+          "forename": "Brian V"
+        },
+        {
+          "id": "35479",
+          "lastname": "Shepard",
+          "forename": "William D"
+        },
+        {
+          "id": "53915",
+          "lastname": "Hill",
+          "forename": "Richard E"
+        }
+      ],
+      "bhl_pages": [
+        36109664,
+        36109665,
+        36109666,
+        36109667,
+        36109668,
+        36109669,
+        36109670,
+        36109671,
+        36109672,
+        36109673,
+        36109674,
+        36109675,
+        36109676,
+        36109677,
+        36109678,
+        36109679,
+        36109680,
+        36109681,
+        36109682,
+        36109683,
+        36109684,
+        36109685,
+        36109686
+      ]
+    },
+    {
+      "reference_id": "102733",
+      "genre": "article",
+      "title": "A Recent Expansion of its Queensland Range by Eupristina verticillata, Waterston (Hymenoptera, Agaonidae, Agaoninae), the Pollinator of Ficus microcarpa l. f. (Moraceae)",
+      "secondary_title": "Proceedings of the Linnean Society of New South Wales",
+      "volume": "126",
+      "spage": "197",
+      "epage": "201",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "0370-047X",
+      "PageID": "36110134",
+      "created": "2012-05-04 00:16:20",
+      "updated": "2012-05-04 00:23:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53698",
+          "lastname": "Mcpherson",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        36110134,
+        36110135,
+        36110136,
+        36110137,
+        36110138
+      ]
+    }
+  ]
+}

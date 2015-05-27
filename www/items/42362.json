@@ -1,0 +1,74 @@
+{
+  "ItemID": "42362",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 51 1918",
+  "articles": [
+    {
+      "reference_id": "72871",
+      "genre": "article",
+      "title": "Contributions to our knowledge of the British Braconidae",
+      "secondary_title": "Entomologist",
+      "volume": "51",
+      "spage": "104",
+      "epage": "111",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-8878",
+      "PageID": "11410022",
+      "created": "2011-06-04 04:28:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42501",
+          "lastname": "Lyle",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        11410022,
+        11410023,
+        11410024,
+        11410025,
+        11410026,
+        11410027,
+        11410028,
+        11410029
+      ]
+    },
+    {
+      "reference_id": "72832",
+      "genre": "article",
+      "title": "Contributions to our knowledge of the British Braconidae. No. 3. Microgasterinae",
+      "secondary_title": "Entomologist",
+      "volume": "51",
+      "spage": "129",
+      "epage": "137",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0013-8878",
+      "PageID": "11410051",
+      "created": "2011-06-04 04:23:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42501",
+          "lastname": "Lyle",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        11410051,
+        11410052,
+        11410053,
+        11410054,
+        11410055,
+        11410056,
+        11410057,
+        11410058,
+        11410059
+      ]
+    }
+  ]
+}

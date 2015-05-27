@@ -1,0 +1,36 @@
+{
+  "ItemID": "30598",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 25, Bd. 1 (1859)",
+  "articles": [
+    {
+      "reference_id": "61394",
+      "genre": "article",
+      "title": "\u00dcber das vorkommen eines saugnapfartigen Haftapparates bei den Daphniden und verwandten Kresbsen",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "25",
+      "spage": "262",
+      "epage": "265",
+      "year": "1859",
+      "date": "1859-00-00",
+      "oclc": "1481990",
+      "PageID": "6667565",
+      "created": "2011-01-10 19:43:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43009",
+          "lastname": "Leuckart",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        6667565,
+        6667566,
+        6667567,
+        6667568
+      ]
+    }
+  ]
+}

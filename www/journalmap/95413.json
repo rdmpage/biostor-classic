@@ -1,0 +1,61 @@
+{
+  "author": [
+    {
+      "firstname": "Andrew M R",
+      "lastname": "Bennett",
+      "name": "Andrew M R Bennett"
+    }
+  ],
+  "type": "article",
+  "title": "A new genus and five new species of Neotropical Tryphoninae (Hymenoptera: Ichneumonidae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "12",
+    "issue": "2",
+    "pages": "209--219",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2003",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/95413"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2839492"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 95413
+    },
+    {
+      "type": "bhl",
+      "id": 2839492
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -55.616666666667,
+        -12.516666666667
+      ],
+      [
+        -71.633333333333,
+        -4.55
+      ],
+      [
+        -52.383333333333,
+        -27.183333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "ItemID": "36026",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 33 1897",
+  "articles": [
+    {
+      "reference_id": "72339",
+      "genre": "article",
+      "title": "Thaumatoneura inopinata, a new genus and species of Calopteryginae",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "33",
+      "spage": "130",
+      "epage": "131",
+      "year": "1897",
+      "date": "1897-00-00",
+      "oclc": "1568052",
+      "PageID": "9013939",
+      "created": "2011-06-04 01:27:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9013939,
+        9013940
+      ]
+    },
+    {
+      "reference_id": "67104",
+      "genre": "article",
+      "title": "Chrysopa flava, Scop., in South Australia",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "33",
+      "spage": "157",
+      "year": "1897",
+      "date": "1897-00-00",
+      "oclc": "1568052",
+      "PageID": "9013966",
+      "created": "2011-05-12 13:21:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9013966
+      ]
+    },
+    {
+      "reference_id": "60355",
+      "genre": "article",
+      "title": "On a collection of Coccidae, principally from China and Japan",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "33",
+      "spage": "239",
+      "epage": "244",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9014048",
+      "created": "2010-11-22 23:29:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40966",
+          "lastname": "Maskell",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        9014048,
+        9014049,
+        9014050,
+        9014051,
+        9014052,
+        9014053
+      ]
+    },
+    {
+      "reference_id": "67109",
+      "genre": "article",
+      "title": "Neuroptera observed in 1897, chiefly in the new forest and in the fens",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "33",
+      "spage": "275",
+      "epage": "278",
+      "year": "1897",
+      "date": "1897-00-00",
+      "oclc": "1568052",
+      "PageID": "9014084",
+      "created": "2011-05-12 13:22:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45455",
+          "lastname": "Morton",
+          "forename": "K J"
+        }
+      ],
+      "bhl_pages": [
+        9014084,
+        9014085,
+        9014086,
+        9014087
+      ]
+    }
+  ]
+}

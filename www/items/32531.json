@@ -1,0 +1,36 @@
+{
+  "ItemID": "32531",
+  "FullTitle": "Le Naturaliste canadien.",
+  "VolumeInfo": "v. 11 1879",
+  "articles": [
+    {
+      "reference_id": "72993",
+      "genre": "article",
+      "title": "Un nouvel insecte",
+      "secondary_title": "Naturaliste Canadien",
+      "volume": "11",
+      "spage": "125",
+      "epage": "128",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1605564",
+      "PageID": "7586952",
+      "created": "2011-06-04 04:51:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47119",
+          "lastname": "Burque",
+          "forename": "F X"
+        }
+      ],
+      "bhl_pages": [
+        7586952,
+        7586861,
+        7586852,
+        7586853
+      ]
+    }
+  ]
+}

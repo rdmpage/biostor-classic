@@ -1,0 +1,78 @@
+{
+  "ItemID": "35633",
+  "FullTitle": "Smithsonian miscellaneous collections.",
+  "VolumeInfo": "v. 47 1905",
+  "articles": [
+    {
+      "reference_id": "57873",
+      "genre": "article",
+      "title": "Recent results on the morphology and development of coral polyps",
+      "secondary_title": "Smithsonian Miscellaneous Collections",
+      "volume": "47",
+      "spage": "93",
+      "epage": "111",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1376204",
+      "PageID": "8811775",
+      "created": "2010-11-20 15:16:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2979",
+          "lastname": "Duerden",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        8811775,
+        8811776,
+        8811777,
+        8811778,
+        8811779,
+        8811780,
+        8811781,
+        8811782,
+        8811783,
+        8811784,
+        8811785,
+        8811786,
+        8811787,
+        8811788,
+        8811789,
+        8811790,
+        8811791,
+        8811792,
+        8811793
+      ]
+    },
+    {
+      "reference_id": "100843",
+      "genre": "article",
+      "title": "A new species of lizard from the Riukiu Archipelago, Japan",
+      "secondary_title": "Smithsonian miscellaneous collections",
+      "volume": "47",
+      "spage": "294",
+      "epage": "295",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1376204",
+      "PageID": "8812060",
+      "created": "2012-03-07 20:34:03",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "485",
+          "lastname": "Stejneger",
+          "forename": "Leonhard"
+        }
+      ],
+      "bhl_pages": [
+        8812060,
+        8812061
+      ]
+    }
+  ]
+}

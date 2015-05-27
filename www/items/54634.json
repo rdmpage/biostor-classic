@@ -1,0 +1,36 @@
+{
+  "ItemID": "54634",
+  "FullTitle": "Proceedings of the Royal Physical Society of Edinburgh",
+  "VolumeInfo": "v.7 (1881-1883)",
+  "articles": [
+    {
+      "reference_id": "80339",
+      "genre": "article",
+      "title": "On a new species of Octopus (O. maculosus)",
+      "secondary_title": "Proceedings of The Royal Physical Society of Edinburgh",
+      "volume": "7",
+      "spage": "319",
+      "epage": "322",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "5418511",
+      "PageID": "16121499",
+      "created": "2011-07-06 16:08:40",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42672",
+          "lastname": "Hoyle",
+          "forename": "W E"
+        }
+      ],
+      "bhl_pages": [
+        16121499,
+        16121500,
+        16121501,
+        16121502
+      ]
+    }
+  ]
+}

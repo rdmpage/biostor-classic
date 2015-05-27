@@ -1,0 +1,37 @@
+{
+  "ItemID": "20941",
+  "FullTitle": "Reptiles and amphibians of the Mandel Venezuelan expedition,  by Karl P. Schmidt.",
+  "VolumeInfo": "v.18:no.7(1932)",
+  "articles": [
+    {
+      "reference_id": "49002",
+      "genre": "article",
+      "title": "Reptiles and amphibians of the Mandel Venezuelan Expedition",
+      "secondary_title": "Field Mus. Nat. Hist., Zool. Ser.",
+      "volume": "18",
+      "spage": "159",
+      "epage": "163",
+      "year": "1932",
+      "date": "1932-00-00",
+      "oclc": "145379517",
+      "PageID": "2769488",
+      "created": "2010-03-21 10:42:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1081",
+          "lastname": "Schmidt",
+          "forename": "K P"
+        }
+      ],
+      "bhl_pages": [
+        2769488,
+        2769489,
+        2769490,
+        2769491,
+        2769492
+      ]
+    }
+  ]
+}

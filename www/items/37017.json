@@ -1,0 +1,103 @@
+{
+  "ItemID": "37017",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "ser. 2, t. 6 1848",
+  "articles": [
+    {
+      "reference_id": "69605",
+      "genre": "article",
+      "title": "Observations entomologiques sur divers Insectes recueillis \u00e0 Madagascar",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 entomologique de France. Paris",
+      "volume": "6",
+      "spage": "275",
+      "epage": "284",
+      "year": "1848",
+      "date": "1848-00-00",
+      "oclc": "1765810",
+      "PageID": "9485695",
+      "created": "2011-06-01 10:41:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46296",
+          "lastname": "C.",
+          "forename": "Coquerel"
+        }
+      ],
+      "bhl_pages": [
+        9485695,
+        9485696,
+        9485697,
+        9485698,
+        9485699,
+        9485700,
+        9485701,
+        9485702,
+        9485703,
+        9485704
+      ]
+    },
+    {
+      "reference_id": "69501",
+      "genre": "article",
+      "title": "Catalogue des Acridides qui se trouvent aux environs de Paris",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de France (Ann. Soc. ent. Fr.)",
+      "volume": "6",
+      "series": "2",
+      "spage": "411",
+      "epage": "445",
+      "year": "1848",
+      "date": "1848-00-00",
+      "oclc": "1765810",
+      "PageID": "9485831",
+      "created": "2011-06-01 09:39:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46299",
+          "lastname": "De Barneville",
+          "forename": "Brisout"
+        }
+      ],
+      "bhl_pages": [
+        9485831,
+        9485832,
+        9485833,
+        9485834,
+        9485835,
+        9485836,
+        9485837,
+        9485838,
+        9485839,
+        9485840,
+        9485841,
+        9485842,
+        9485843,
+        9485844,
+        9485845,
+        9485846,
+        9485847,
+        9485848,
+        9485849,
+        9485850,
+        9485851,
+        9485852,
+        9485853,
+        9485854,
+        9485855,
+        9485856,
+        9485857,
+        9485858,
+        9485859,
+        9485860,
+        9485861,
+        9485862,
+        9485863,
+        9485864,
+        9485865
+      ]
+    }
+  ]
+}

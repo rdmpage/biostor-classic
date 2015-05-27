@@ -1,0 +1,37 @@
+{
+  "ItemID": "39454",
+  "FullTitle": "Mitteilungen aus dem Naturhistorischen Museum in Hamburg.",
+  "VolumeInfo": "34, 1916",
+  "articles": [
+    {
+      "reference_id": "51671",
+      "genre": "article",
+      "title": "\u00dcber einige neue Reptilien und einen neuen Frosch des Zoologischen Museum in Hamburg",
+      "secondary_title": "Mitteilungen aus dem Naturhistorischen Museum in Hamburg",
+      "volume": "34",
+      "spage": "31",
+      "epage": "36",
+      "year": "1917",
+      "date": "1917-00-00",
+      "PageID": "10277370",
+      "created": "2010-06-27 02:12:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2620",
+          "lastname": "Werner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10277370,
+        10277371,
+        10277372,
+        10277373,
+        10277374,
+        10277375
+      ]
+    }
+  ]
+}

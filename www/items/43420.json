@@ -1,0 +1,42 @@
+{
+  "ItemID": "43420",
+  "FullTitle": "Annuario del Museo Zoologico della Universit\u00e0 di Napoli.  ",
+  "VolumeInfo": "anno 4 (1864)",
+  "articles": [
+    {
+      "reference_id": "61314",
+      "genre": "article",
+      "title": "Saggio della collezione de' Crostacei del Mediterraneo del Museo Zoologico della Universita di Napoli spedito alla Esposizione di Parigi del 1867",
+      "secondary_title": "Annuario dell'Istituto e Museo di Zoologia dell'Universit\u00e0 di Napoli",
+      "volume": "4",
+      "series": "1864",
+      "spage": "38",
+      "epage": "46",
+      "year": "1867",
+      "date": "1867-00-00",
+      "oclc": "1758997",
+      "PageID": "11823452",
+      "created": "2011-01-10 17:07:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42956",
+          "lastname": "Costa",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11823452,
+        11823453,
+        11823454,
+        11823455,
+        11823456,
+        11823457,
+        11823458,
+        11823459,
+        11823460
+      ]
+    }
+  ]
+}

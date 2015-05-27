@@ -1,0 +1,41 @@
+{
+  "ItemID": "22387",
+  "FullTitle": "Occasional papers of the California Academy of Sciences.",
+  "VolumeInfo": "no. 32 (1961)",
+  "articles": [
+    {
+      "reference_id": "71597",
+      "genre": "article",
+      "title": "A new sphenomorpid lizard from Palawan Island, Philippines",
+      "secondary_title": "Occ. Pap. California Acad. Sci. No",
+      "volume": "32",
+      "spage": "1",
+      "epage": "4",
+      "year": "1961",
+      "date": "1961-00-00",
+      "oclc": "1359099",
+      "PageID": "3158650",
+      "created": "2011-06-03 22:09:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "761",
+          "lastname": "Brown",
+          "forename": "W C"
+        },
+        {
+          "id": "2082",
+          "lastname": "Alcala",
+          "forename": "A C"
+        }
+      ],
+      "bhl_pages": [
+        3158650,
+        3158646,
+        3158648,
+        3158649
+      ]
+    }
+  ]
+}

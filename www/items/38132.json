@@ -1,0 +1,36 @@
+{
+  "ItemID": "38132",
+  "FullTitle": "Annals of the Carnegie Museum.  ",
+  "VolumeInfo": "v. 5 (1908-1909)",
+  "articles": [
+    {
+      "reference_id": "65078",
+      "genre": "article",
+      "title": "Notes on Costa Rican Formicariidae",
+      "secondary_title": "Annals Carnegie Museum",
+      "volume": "5",
+      "spage": "8",
+      "epage": "10",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0097-4463",
+      "PageID": "9966689",
+      "created": "2011-01-31 13:52:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44737",
+          "lastname": "Carriker",
+          "forename": "Melbourne Armstrong",
+          "suffix": "Jr."
+        }
+      ],
+      "bhl_pages": [
+        9966689,
+        9966690,
+        9966691
+      ]
+    }
+  ]
+}

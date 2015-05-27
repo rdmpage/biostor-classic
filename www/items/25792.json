@@ -1,0 +1,43 @@
+{
+  "ItemID": "25792",
+  "FullTitle": "Occasional papers of the Museum of Natural History, the University of Kansas.",
+  "VolumeInfo": "no.26 (1974)",
+  "articles": [
+    {
+      "reference_id": "51879",
+      "genre": "article",
+      "title": "Description of a new species of microhylid frog, Chiasmocleis, from Ecuador",
+      "secondary_title": "Occasional Papers of the Museum of Natural History, University of Kansas",
+      "volume": "26",
+      "spage": "1",
+      "epage": "6",
+      "year": "1974",
+      "date": "1974-00-00",
+      "issn": "0091-7958",
+      "PageID": "4393436",
+      "created": "2010-06-27 09:23:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40227",
+          "lastname": "Walker",
+          "forename": "C F"
+        },
+        {
+          "id": "40278",
+          "lastname": "Duellman",
+          "forename": "And W E"
+        }
+      ],
+      "bhl_pages": [
+        4393436,
+        4393447,
+        4393443,
+        4393442,
+        4393441,
+        4393440
+      ]
+    }
+  ]
+}

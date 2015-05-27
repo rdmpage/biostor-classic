@@ -1,0 +1,90 @@
+{
+  "ItemID": "34582",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "t. 6 1837",
+  "articles": [
+    {
+      "reference_id": "71871",
+      "genre": "article",
+      "title": "M\u00e9moire. Sur une galle de la bruy\u00e8re a balais et sur les insectes qui l'habitent",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "6",
+      "spage": "83",
+      "epage": "91",
+      "year": "1837",
+      "date": "1837-00-00",
+      "issn": "0037-9271",
+      "PageID": "8430590",
+      "created": "2011-06-03 23:27:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42021",
+          "lastname": "Dufour",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        8430590,
+        8430591,
+        8430592,
+        8430593,
+        8430594,
+        8430595,
+        8430596,
+        8430597,
+        8430598
+      ]
+    },
+    {
+      "reference_id": "57242",
+      "genre": "article",
+      "title": "Observations sur les araneides du genre Pachyloscelis, et synonymie de ce genre",
+      "secondary_title": "Ann. Soc. ent. Fr.",
+      "volume": "6",
+      "spage": "369",
+      "epage": "392",
+      "year": "1837",
+      "date": "1837-00-00",
+      "issn": "0037-9271",
+      "PageID": "8430876",
+      "created": "2010-11-18 13:17:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41988",
+          "lastname": "Lucas",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8430876,
+        8430877,
+        8430878,
+        8430879,
+        8430880,
+        8430881,
+        8430882,
+        8430883,
+        8430884,
+        8430885,
+        8430886,
+        8430887,
+        8430888,
+        8430889,
+        8430890,
+        8430891,
+        8430892,
+        8430893,
+        8430894,
+        8430895,
+        8430896,
+        8430897,
+        8430898,
+        8430899
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "ItemID": "107120",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 55 1922",
+  "articles": [
+    {
+      "reference_id": "67093",
+      "genre": "article",
+      "title": "Notes on British Neuroptera in 1921",
+      "secondary_title": "Entomologist",
+      "volume": "55",
+      "spage": "57",
+      "epage": "58",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8878",
+      "PageID": "34408830",
+      "created": "2011-05-12 13:20:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45452",
+          "lastname": "Lucas",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        34408830,
+        34408831
+      ]
+    },
+    {
+      "reference_id": "67092",
+      "genre": "article",
+      "title": "The order Neuroptera",
+      "secondary_title": "Entomologist",
+      "volume": "55",
+      "spage": "61",
+      "epage": "62",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8878",
+      "PageID": "34408834",
+      "created": "2011-05-12 13:20:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45450",
+          "lastname": "Hudson",
+          "forename": "G V ["
+        },
+        {
+          "id": "45451",
+          "lastname": "Lucas",
+          "forename": "W J ]"
+        }
+      ],
+      "bhl_pages": [
+        34408834,
+        34408835
+      ]
+    },
+    {
+      "reference_id": "67090",
+      "genre": "article",
+      "title": "An entomological holiday in S. France",
+      "secondary_title": "Entomologist",
+      "volume": "55",
+      "spage": "147",
+      "epage": "151",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8878",
+      "PageID": "34408936",
+      "created": "2011-05-12 13:19:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39861",
+          "lastname": "Blair",
+          "forename": "K G"
+        }
+      ],
+      "bhl_pages": [
+        34408936,
+        34408937,
+        34408938,
+        34408939,
+        34408940
+      ]
+    },
+    {
+      "reference_id": "67095",
+      "genre": "article",
+      "title": "Chrysopa dorsalis, Burm., at Oxshott, Surrey",
+      "secondary_title": "Entomologist",
+      "volume": "55",
+      "spage": "165",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8878",
+      "PageID": "34408954",
+      "created": "2011-05-12 13:20:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45427",
+          "lastname": "Withycombe",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        34408954
+      ]
+    },
+    {
+      "reference_id": "71826",
+      "genre": "article",
+      "title": "A new mymarid from north Wales",
+      "secondary_title": "Entomologist",
+      "volume": "55",
+      "spage": "204",
+      "epage": "205",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8878",
+      "PageID": "34409003",
+      "created": "2011-06-03 23:17:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46888",
+          "lastname": "Ryland",
+          "forename": "A W"
+        }
+      ],
+      "bhl_pages": [
+        34409003,
+        34409004
+      ]
+    }
+  ]
+}

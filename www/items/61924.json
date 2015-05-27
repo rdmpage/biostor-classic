@@ -1,0 +1,2096 @@
+{
+  "ItemID": "61924",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 5 (1850)",
+  "articles": [
+    {
+      "reference_id": "89669",
+      "genre": "article",
+      "title": "IV.\u2014Contributions to the botany of South America",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "29",
+      "epage": "35",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494878",
+      "PageID": "18687032",
+      "created": "2011-09-27 13:08:13",
+      "updated": "2011-09-27 13:08:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2779",
+          "lastname": "Miers",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687032,
+        18687033,
+        18687034,
+        18687035,
+        18687036,
+        18687037,
+        18687038
+      ]
+    },
+    {
+      "reference_id": "89677",
+      "genre": "article",
+      "title": "VI.\u2014On the occurrence of Charadrius virginiacus, Borkh., at Malta",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "40",
+      "epage": "42",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494880",
+      "PageID": "18687062",
+      "created": "2011-09-27 13:08:58",
+      "updated": "2011-09-27 13:08:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42715",
+          "lastname": "Strickland",
+          "forename": "H E"
+        }
+      ],
+      "bhl_pages": [
+        18687062,
+        18687063,
+        18687064
+      ]
+    },
+    {
+      "reference_id": "89664",
+      "genre": "article",
+      "title": "VII.\u2014Notice of a new genus of cestoid worm. Communicated by J.T. Arlidge, A.B., M.B., (Lond.)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "42",
+      "epage": "46",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494881",
+      "PageID": "18687064",
+      "created": "2011-09-27 13:07:16",
+      "updated": "2011-09-27 13:07:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51937",
+          "lastname": "Van Beneden",
+          "forename": "M P J"
+        }
+      ],
+      "bhl_pages": [
+        18687064,
+        18687065,
+        18687066,
+        18687067,
+        18687068
+      ]
+    },
+    {
+      "reference_id": "89654",
+      "genre": "article",
+      "title": "VIII.\u2014Description of a new species of Veronica",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "47",
+      "epage": "48",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494882",
+      "PageID": "18687069",
+      "created": "2011-09-27 13:06:09",
+      "updated": "2011-09-27 13:06:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51911",
+          "lastname": "Ball",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687069,
+        18687070
+      ]
+    },
+    {
+      "reference_id": "89647",
+      "genre": "article",
+      "title": "Ipswich museum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "67",
+      "epage": "69",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494884",
+      "PageID": "18687089",
+      "created": "2011-09-27 13:05:20",
+      "updated": "2011-09-27 13:05:20",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687089,
+        18687090,
+        18687091
+      ]
+    },
+    {
+      "reference_id": "89631",
+      "genre": "article",
+      "title": "Echinorhinus spinosus",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "71",
+      "epage": "71",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494886",
+      "PageID": "18687093",
+      "created": "2011-09-27 13:03:52",
+      "updated": "2011-09-27 13:03:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687093
+      ]
+    },
+    {
+      "reference_id": "89651",
+      "genre": "article",
+      "title": "Description of a new species of parrot",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "77",
+      "epage": "77",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494888",
+      "PageID": "18687099",
+      "created": "2011-09-27 13:05:50",
+      "updated": "2011-09-27 13:05:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39342",
+          "lastname": "Gray",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        18687099
+      ]
+    },
+    {
+      "reference_id": "89653",
+      "genre": "article",
+      "title": "Presidency of the Linn\u00e6an Society",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "78",
+      "epage": "79",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494890",
+      "PageID": "18687100",
+      "created": "2011-09-27 13:06:02",
+      "updated": "2011-09-27 13:06:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687100,
+        18687101
+      ]
+    },
+    {
+      "reference_id": "89633",
+      "genre": "article",
+      "title": "Meteorological observations for Nov. 1849",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "79",
+      "epage": "79",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494891",
+      "PageID": "18687101",
+      "created": "2011-09-27 13:04:07",
+      "updated": "2011-09-27 13:04:07",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687101
+      ]
+    },
+    {
+      "reference_id": "89678",
+      "genre": "article",
+      "title": "X.\u2014Observations on the species of Termitid\u00e6 of West Africa, described by Smeathman as Termes bellicosus, and by linn\u00e6us as T. fatalis",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "92",
+      "epage": "104",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494895",
+      "PageID": "18687114",
+      "created": "2011-09-27 13:09:13",
+      "updated": "2011-09-27 13:09:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51938",
+          "lastname": "Savage",
+          "forename": "T S"
+        }
+      ],
+      "bhl_pages": [
+        18687114,
+        18687115,
+        18687116,
+        18687117,
+        18687118,
+        18687119,
+        18687120,
+        18687121,
+        18687122,
+        18687123,
+        18687124,
+        18687125,
+        18687126
+      ]
+    },
+    {
+      "reference_id": "89646",
+      "genre": "article",
+      "title": "XI.\u2014On a supposed new species of Glyceria",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "104",
+      "epage": "108",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494896",
+      "PageID": "18687126",
+      "created": "2011-09-27 13:05:13",
+      "updated": "2011-09-27 13:05:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51931",
+          "lastname": "Townsend",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        18687126,
+        18687127,
+        18687128,
+        18687129,
+        18687130
+      ]
+    },
+    {
+      "reference_id": "89661",
+      "genre": "article",
+      "title": "XIII.\u2014Notes upon the smaller British Moths, with descriptions of some nondescript or imperfectly characterized species",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "110",
+      "epage": "121",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494898",
+      "PageID": "18687132",
+      "created": "2011-09-27 13:06:58",
+      "updated": "2011-09-27 13:06:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2686",
+          "lastname": "Curtis",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687132,
+        18687133,
+        18687134,
+        18687135,
+        18687136,
+        18687137,
+        18687138,
+        18687139,
+        18687140,
+        18687141,
+        18687142,
+        18687143
+      ]
+    },
+    {
+      "reference_id": "89618",
+      "genre": "article",
+      "title": "XIV.\u2014On deposits of diatomaceous earth, found on the shores of Lough Mourne, county antrim, with a record of species living in the waters of the lake",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "121",
+      "epage": "125",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494899",
+      "PageID": "18687143",
+      "created": "2011-09-27 13:02:24",
+      "updated": "2011-09-27 13:02:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51924",
+          "lastname": "Smith",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        18687143,
+        18687144,
+        18687145,
+        18687146,
+        18687147
+      ]
+    },
+    {
+      "reference_id": "71467",
+      "genre": "article",
+      "title": "Notes on Chalcidites, and descriptions of various new species",
+      "secondary_title": "Annals and Magazine of Natural History (2)",
+      "volume": "5",
+      "spage": "125",
+      "epage": "133",
+      "year": "1850",
+      "date": "1850-00-00",
+      "PageID": "18687147",
+      "created": "2011-06-03 20:02:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17711",
+          "lastname": "Walker",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        18687147,
+        18687148,
+        18687149,
+        18687150,
+        18687151,
+        18687152,
+        18687153,
+        18687154,
+        18687155
+      ]
+    },
+    {
+      "reference_id": "89616",
+      "genre": "article",
+      "title": "Zoological Society",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "133",
+      "epage": "147",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494901",
+      "PageID": "18687155",
+      "created": "2011-09-27 13:02:12",
+      "updated": "2011-09-27 13:02:12",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687155,
+        18687156,
+        18687157,
+        18687158,
+        18687159,
+        18687160,
+        18687161,
+        18687162,
+        18687163,
+        18687164,
+        18687165,
+        18687166,
+        18687167,
+        18687168,
+        18687169
+      ]
+    },
+    {
+      "reference_id": "89649",
+      "genre": "article",
+      "title": "Ipswich Museum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "147",
+      "epage": "152",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494902",
+      "PageID": "18687169",
+      "created": "2011-09-27 13:05:35",
+      "updated": "2011-09-27 13:05:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687169,
+        18687170,
+        18687171,
+        18687172,
+        18687173,
+        18687174
+      ]
+    },
+    {
+      "reference_id": "89622",
+      "genre": "article",
+      "title": "Notice of specimens of the wheat midge from Nova Scotia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "152",
+      "epage": "154",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494903",
+      "PageID": "18687174",
+      "created": "2011-09-27 13:02:55",
+      "updated": "2011-09-27 13:02:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51926",
+          "lastname": "Dawson",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        18687174,
+        18687175,
+        18687176
+      ]
+    },
+    {
+      "reference_id": "89614",
+      "genre": "article",
+      "title": "On the characters and intimate structure of the odoriferous glands of the invertebrata",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "154",
+      "epage": "156",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494904",
+      "PageID": "18687176",
+      "created": "2011-09-27 13:02:01",
+      "updated": "2011-09-27 13:02:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51912",
+          "lastname": "",
+          "forename": "Leidy"
+        }
+      ],
+      "bhl_pages": [
+        18687176,
+        18687177,
+        18687178
+      ]
+    },
+    {
+      "reference_id": "89660",
+      "genre": "article",
+      "title": "Journey to explore the natural history of South America",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "156",
+      "epage": "157",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494905",
+      "PageID": "18687178",
+      "created": "2011-09-27 13:06:45",
+      "updated": "2011-09-27 13:06:45",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687178,
+        18687179
+      ]
+    },
+    {
+      "reference_id": "89637",
+      "genre": "article",
+      "title": "Meteorological observations for Dec. 1849",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "159",
+      "epage": "159",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494908",
+      "PageID": "18687181",
+      "created": "2011-09-27 13:04:27",
+      "updated": "2011-09-27 13:04:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687181
+      ]
+    },
+    {
+      "reference_id": "89630",
+      "genre": "article",
+      "title": "XVI.\u2014On the recent Foraminifera",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "161",
+      "epage": "171",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494911",
+      "PageID": "18687183",
+      "created": "2011-09-27 13:03:48",
+      "updated": "2011-09-27 13:03:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51902",
+          "lastname": "Clark",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        18687183,
+        18687184,
+        18687185,
+        18687186,
+        18687187,
+        18687188,
+        18687189,
+        18687190,
+        18687191,
+        18687192,
+        18687193
+      ]
+    },
+    {
+      "reference_id": "89655",
+      "genre": "article",
+      "title": "XVIII.\u2014On the anatomy of the freshwater Bryozoa, with descriptions of three new species",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "173",
+      "epage": "204",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494913",
+      "PageID": "18687195",
+      "created": "2011-09-27 13:06:18",
+      "updated": "2011-09-27 13:06:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51766",
+          "lastname": "Hancock",
+          "forename": "Albany"
+        }
+      ],
+      "bhl_pages": [
+        18687195,
+        18687196,
+        18687197,
+        18687198,
+        18687199,
+        18687200,
+        18687201,
+        18687202,
+        18687203,
+        18687204,
+        18687205,
+        18687206,
+        18687207,
+        18687208,
+        18687209,
+        18687210,
+        18687211,
+        18687212,
+        18687213,
+        18687214,
+        18687215,
+        18687216,
+        18687217,
+        18687218,
+        18687219,
+        18687220,
+        18687221,
+        18687222,
+        18687223,
+        18687224,
+        18687225,
+        18687226
+      ]
+    },
+    {
+      "reference_id": "89673",
+      "genre": "article",
+      "title": "XIX.\u2014Contributions to the botany of South America",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "204",
+      "epage": "210",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494914",
+      "PageID": "18687226",
+      "created": "2011-09-27 13:08:33",
+      "updated": "2011-09-27 13:08:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2779",
+          "lastname": "Miers",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687226,
+        18687227,
+        18687228,
+        18687229,
+        18687230,
+        18687231,
+        18687232
+      ]
+    },
+    {
+      "reference_id": "89626",
+      "genre": "article",
+      "title": "XX.\u2014Notes on Montacuta ferruginosa",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "210",
+      "epage": "213",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494915",
+      "PageID": "18687232",
+      "created": "2011-09-27 13:03:23",
+      "updated": "2011-09-27 13:03:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51864",
+          "lastname": "Alder",
+          "forename": "Joshua"
+        }
+      ],
+      "bhl_pages": [
+        18687232,
+        18687233,
+        18687234,
+        18687235
+      ]
+    },
+    {
+      "reference_id": "89643",
+      "genre": "article",
+      "title": "XXI.\u2014Characters of several new East Indian and South African Helices, with remarks on some other species of the Genus occurring at the Cape of Good Hope",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "213",
+      "epage": "217",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494916",
+      "PageID": "18687235",
+      "created": "2011-09-27 13:04:52",
+      "updated": "2011-09-27 13:04:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42677",
+          "lastname": "Benson",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        18687235,
+        18687236,
+        18687237,
+        18687238,
+        18687239
+      ]
+    },
+    {
+      "reference_id": "89642",
+      "genre": "article",
+      "title": "Bibliographical notices",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "218",
+      "epage": "223",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494917",
+      "PageID": "18687240",
+      "created": "2011-09-27 13:04:49",
+      "updated": "2011-09-27 13:04:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687240,
+        18687241,
+        18687242,
+        18687243,
+        18687244,
+        18687245
+      ]
+    },
+    {
+      "reference_id": "89615",
+      "genre": "article",
+      "title": "Proceedings of Learned Societies",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "224",
+      "epage": "233",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494918",
+      "PageID": "18687246",
+      "created": "2011-09-27 13:02:05",
+      "updated": "2011-09-27 13:02:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687246,
+        18687247,
+        18687248,
+        18687249,
+        18687250,
+        18687251,
+        18687252,
+        18687253,
+        18687254,
+        18687255
+      ]
+    },
+    {
+      "reference_id": "89662",
+      "genre": "article",
+      "title": "On the employment of tar to preserve wheat from the attack of the weevil",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "236",
+      "epage": "239",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494920",
+      "PageID": "18687258",
+      "created": "2011-09-27 13:07:02",
+      "updated": "2011-09-27 13:07:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51935",
+          "lastname": "Caillat",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        18687258,
+        18687259,
+        18687260,
+        18687261
+      ]
+    },
+    {
+      "reference_id": "89624",
+      "genre": "article",
+      "title": "Meteorological observations for Jan. 1850",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "239",
+      "epage": "239",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494921",
+      "PageID": "18687261",
+      "created": "2011-09-27 13:03:06",
+      "updated": "2011-09-27 13:03:06",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687261
+      ]
+    },
+    {
+      "reference_id": "89652",
+      "genre": "article",
+      "title": "XXII.\u2014Notes on the Salmon and bull-trout",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "241",
+      "epage": "246",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496170",
+      "PageID": "18687263",
+      "created": "2011-09-27 13:05:55",
+      "updated": "2011-09-27 13:05:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2766",
+          "lastname": "Blackwall",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687263,
+        18687264,
+        18687265,
+        18687266,
+        18687267,
+        18687268
+      ]
+    },
+    {
+      "reference_id": "89679",
+      "genre": "article",
+      "title": "XXIII.\u2014Contributions to the botany of South America",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "247",
+      "epage": "255",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496171",
+      "PageID": "18687269",
+      "created": "2011-09-27 13:09:18",
+      "updated": "2011-09-27 13:09:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2779",
+          "lastname": "Miers",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687269,
+        18687270,
+        18687271,
+        18687272,
+        18687273,
+        18687274,
+        18687275,
+        18687276,
+        18687277
+      ]
+    },
+    {
+      "reference_id": "89628",
+      "genre": "article",
+      "title": "XXIV.\u2014Heights of some points of the Cotswold Hills, with some experiments with the aneroid barometer",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "255",
+      "epage": "259",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496172",
+      "PageID": "18687277",
+      "created": "2011-09-27 13:03:34",
+      "updated": "2011-09-27 13:03:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51927",
+          "lastname": "Hyett",
+          "forename": "W Henry"
+        }
+      ],
+      "bhl_pages": [
+        18687277,
+        18687278,
+        18687279,
+        18687280,
+        18687281
+      ]
+    },
+    {
+      "reference_id": "89613",
+      "genre": "article",
+      "title": "XXV.\u2014On the embryogeny of Hippuris vulgaris",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "259",
+      "epage": "265",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496173",
+      "PageID": "18687281",
+      "created": "2011-09-27 13:01:50",
+      "updated": "2011-09-27 13:01:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51923",
+          "lastname": "Sanderson",
+          "forename": "John Scott"
+        }
+      ],
+      "bhl_pages": [
+        18687281,
+        18687282,
+        18687283,
+        18687284,
+        18687285,
+        18687286,
+        18687287
+      ]
+    },
+    {
+      "reference_id": "89650",
+      "genre": "article",
+      "title": "XXVI.\u2014Notice of some of the rarer plants observed in Orkney during the summer of 1849",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "266",
+      "epage": "269",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496174",
+      "PageID": "18687288",
+      "created": "2011-09-27 13:05:43",
+      "updated": "2011-09-27 13:05:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51932",
+          "lastname": "Syme",
+          "forename": "John T"
+        }
+      ],
+      "bhl_pages": [
+        18687288,
+        18687289,
+        18687290,
+        18687291
+      ]
+    },
+    {
+      "reference_id": "89636",
+      "genre": "article",
+      "title": "XXVIII.\u2014Notes on a species of Hydra found in the Northumberland Lakes",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "281",
+      "epage": "289",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496176",
+      "PageID": "18687303",
+      "created": "2011-09-27 13:04:24",
+      "updated": "2011-09-27 13:04:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51766",
+          "lastname": "Hancock",
+          "forename": "Albany"
+        }
+      ],
+      "bhl_pages": [
+        18687303,
+        18687304,
+        18687305,
+        18687306,
+        18687307,
+        18687308,
+        18687309,
+        18687310,
+        18687311
+      ]
+    },
+    {
+      "reference_id": "89668",
+      "genre": "article",
+      "title": "Zoological Society",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "290",
+      "epage": "306",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496177",
+      "PageID": "18687312",
+      "created": "2011-09-27 13:07:55",
+      "updated": "2011-09-27 13:07:55",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687312,
+        18687313,
+        18687314,
+        18687315,
+        18687316,
+        18687317,
+        18687318,
+        18687319,
+        18687320,
+        18687321,
+        18687322,
+        18687323,
+        18687324,
+        18687325,
+        18687326,
+        18687327,
+        18687328
+      ]
+    },
+    {
+      "reference_id": "89635",
+      "genre": "article",
+      "title": "Botanical Society of Edinburgh",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "307",
+      "epage": "309",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496178",
+      "PageID": "18687329",
+      "created": "2011-09-27 13:04:18",
+      "updated": "2011-09-27 13:04:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687329,
+        18687330,
+        18687331
+      ]
+    },
+    {
+      "reference_id": "89665",
+      "genre": "article",
+      "title": "Descriptions of new species of birds of the family Caprimulgid\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "310",
+      "epage": "313",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496179",
+      "PageID": "18687332",
+      "created": "2011-09-27 13:07:24",
+      "updated": "2011-09-27 13:07:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51898",
+          "lastname": "Cassin",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687332,
+        18687333,
+        18687334,
+        18687335
+      ]
+    },
+    {
+      "reference_id": "89639",
+      "genre": "article",
+      "title": "Former existence of gigantic bears in Ireland",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "313",
+      "epage": "314",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496180",
+      "PageID": "18687335",
+      "created": "2011-09-27 13:04:36",
+      "updated": "2011-09-27 13:04:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51829",
+          "lastname": "Denny",
+          "forename": "Henry"
+        }
+      ],
+      "bhl_pages": [
+        18687335,
+        18687336
+      ]
+    },
+    {
+      "reference_id": "89656",
+      "genre": "article",
+      "title": "On some new genera and species of Entozoa",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "314",
+      "epage": "317",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496181",
+      "PageID": "18687336",
+      "created": "2011-09-27 13:06:25",
+      "updated": "2011-09-27 13:06:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687336,
+        18687337,
+        18687338,
+        18687339
+      ]
+    },
+    {
+      "reference_id": "89619",
+      "genre": "article",
+      "title": "Meteorological observations for Feb. 1850",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "319",
+      "epage": "319",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009496183",
+      "PageID": "18687341",
+      "created": "2011-09-27 13:02:37",
+      "updated": "2011-09-27 13:02:37",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687341
+      ]
+    },
+    {
+      "reference_id": "89644",
+      "genre": "article",
+      "title": "XXX.\u2014On Trichites, a fossil genus of Bivalve Mollusks",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "343",
+      "epage": "347",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494925",
+      "PageID": "18687365",
+      "created": "2011-09-27 13:05:02",
+      "updated": "2011-09-27 13:05:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51795",
+          "lastname": "Lycett",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        18687365,
+        18687366,
+        18687367,
+        18687368,
+        18687369
+      ]
+    },
+    {
+      "reference_id": "89648",
+      "genre": "article",
+      "title": "XXXI.\u2014Characters of nine new or imperfectly described species of Planorbis inhabiting India and China",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "348",
+      "epage": "352",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494926",
+      "PageID": "18687370",
+      "created": "2011-09-27 13:05:25",
+      "updated": "2011-09-27 13:05:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42677",
+          "lastname": "Benson",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        18687370,
+        18687371,
+        18687372,
+        18687373,
+        18687374
+      ]
+    },
+    {
+      "reference_id": "89675",
+      "genre": "article",
+      "title": "XXXIII.\u2014Notices of British fungi",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "365",
+      "epage": "380",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494928",
+      "PageID": "18687387",
+      "created": "2011-09-27 13:08:44",
+      "updated": "2011-09-27 13:08:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2698",
+          "lastname": "Berkeley",
+          "forename": "M J"
+        },
+        {
+          "id": "51892",
+          "lastname": "Broome",
+          "forename": "C E"
+        }
+      ],
+      "bhl_pages": [
+        18687387,
+        18687388,
+        18687389,
+        18687390,
+        18687391,
+        18687392,
+        18687393,
+        18687394,
+        18687395,
+        18687396,
+        18687397,
+        18687398,
+        18687399,
+        18687400,
+        18687401,
+        18687402
+      ]
+    },
+    {
+      "reference_id": "89666",
+      "genre": "article",
+      "title": "XXXIV.\u2014On the species of Cercolabes confounded under the name of C. prehensilis",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "380",
+      "epage": "381",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494929",
+      "PageID": "18687402",
+      "created": "2011-09-27 13:07:34",
+      "updated": "2011-09-27 13:07:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        18687402,
+        18687403
+      ]
+    },
+    {
+      "reference_id": "89663",
+      "genre": "article",
+      "title": "XXXV.\u2014On the characteristic fossils of the chalk formation Communicated by Prof. J. Nicol",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "381",
+      "epage": "387",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494930",
+      "PageID": "18687403",
+      "created": "2011-09-27 13:07:10",
+      "updated": "2011-09-27 13:07:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51936",
+          "lastname": "Von Buch",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        18687403,
+        18687404,
+        18687405,
+        18687406,
+        18687407,
+        18687408,
+        18687409
+      ]
+    },
+    {
+      "reference_id": "89680",
+      "genre": "article",
+      "title": "XXXVI.\u2014Descriptions of British Aphides",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "388",
+      "epage": "395",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494931",
+      "PageID": "18687410",
+      "created": "2011-09-27 13:09:22",
+      "updated": "2011-09-27 13:09:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2760",
+          "lastname": "Walker",
+          "forename": "Francis"
+        }
+      ],
+      "bhl_pages": [
+        18687410,
+        18687411,
+        18687412,
+        18687413,
+        18687414,
+        18687415,
+        18687416,
+        18687417
+      ]
+    },
+    {
+      "reference_id": "89667",
+      "genre": "article",
+      "title": "Zoological Society",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "395",
+      "epage": "411",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494932",
+      "PageID": "18687417",
+      "created": "2011-09-27 13:07:43",
+      "updated": "2011-09-27 13:07:43",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687417,
+        18687418,
+        18687419,
+        18687420,
+        18687421,
+        18687422,
+        18687423,
+        18687424,
+        18687425,
+        18687426,
+        18687427,
+        18687428,
+        18687429,
+        18687430,
+        18687431,
+        18687432,
+        18687433
+      ]
+    },
+    {
+      "reference_id": "89625",
+      "genre": "article",
+      "title": "On the pathology of the silk-worm (Bombyx Mori, L.). Examination of the blood",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "424",
+      "epage": "426",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494935",
+      "PageID": "18687446",
+      "created": "2011-09-27 13:03:14",
+      "updated": "2011-09-27 13:03:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43007",
+          "lastname": "Gu\u00e9rin-M\u00e9neville",
+          "forename": "F \u00c9"
+        }
+      ],
+      "bhl_pages": [
+        18687446,
+        18687447,
+        18687448
+      ]
+    },
+    {
+      "reference_id": "89640",
+      "genre": "article",
+      "title": "British Museum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "426",
+      "epage": "427",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494936",
+      "PageID": "18687448",
+      "created": "2011-09-27 13:04:40",
+      "updated": "2011-09-27 13:04:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51930",
+          "lastname": "S.",
+          "forename": "F R"
+        }
+      ],
+      "bhl_pages": [
+        18687448,
+        18687449
+      ]
+    },
+    {
+      "reference_id": "89629",
+      "genre": "article",
+      "title": "Echinocactus Eyriesii",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "427",
+      "epage": "428",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494937",
+      "PageID": "18687449",
+      "created": "2011-09-27 13:03:44",
+      "updated": "2011-09-27 13:03:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687449,
+        18687450
+      ]
+    },
+    {
+      "reference_id": "89670",
+      "genre": "article",
+      "title": "Cause of the potato disease",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "428",
+      "epage": "429",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494938",
+      "PageID": "18687450",
+      "created": "2011-09-27 13:08:16",
+      "updated": "2011-09-27 13:08:16",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687450,
+        18687451
+      ]
+    },
+    {
+      "reference_id": "89645",
+      "genre": "article",
+      "title": "Way in which toads shed their skins",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "430",
+      "epage": "431",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494940",
+      "PageID": "18687452",
+      "created": "2011-09-27 13:05:05",
+      "updated": "2011-09-27 13:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687452,
+        18687453
+      ]
+    },
+    {
+      "reference_id": "89623",
+      "genre": "article",
+      "title": "Meteorological observations for March 1850",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "431",
+      "epage": "431",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494941",
+      "PageID": "18687453",
+      "created": "2011-09-27 13:03:01",
+      "updated": "2011-09-27 13:03:01",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687453
+      ]
+    },
+    {
+      "reference_id": "89634",
+      "genre": "article",
+      "title": "XXXVII.\u2014Notes on an examination of Lamarck's species of fossil Terebratul\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "433",
+      "epage": "449",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494944",
+      "PageID": "18687455",
+      "created": "2011-09-27 13:04:11",
+      "updated": "2011-09-27 13:04:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51929",
+          "lastname": "Davidson",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        18687455,
+        18687456,
+        18687457,
+        18687458,
+        18687459,
+        18687460,
+        18687461,
+        18687462,
+        18687463,
+        18687464,
+        18687465,
+        18687466,
+        18687467,
+        18687468,
+        18687469,
+        18687470,
+        18687471
+      ]
+    },
+    {
+      "reference_id": "89632",
+      "genre": "article",
+      "title": "XXXIX.\u2014On some inhabitants of the freshwater muscles",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "450",
+      "epage": "454",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494946",
+      "PageID": "18687472",
+      "created": "2011-09-27 13:03:58",
+      "updated": "2011-09-27 13:03:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51928",
+          "lastname": "Vogt",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        18687472,
+        18687473,
+        18687474,
+        18687475,
+        18687476
+      ]
+    },
+    {
+      "reference_id": "89671",
+      "genre": "article",
+      "title": "XL.\u2014Notices of British fungi",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "455",
+      "epage": "466",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494947",
+      "PageID": "18687477",
+      "created": "2011-09-27 13:08:22",
+      "updated": "2011-09-27 13:08:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2698",
+          "lastname": "Berkeley",
+          "forename": "M J"
+        },
+        {
+          "id": "51892",
+          "lastname": "Broome",
+          "forename": "C E"
+        }
+      ],
+      "bhl_pages": [
+        18687477,
+        18687478,
+        18687479,
+        18687480,
+        18687481,
+        18687482,
+        18687483,
+        18687484,
+        18687485,
+        18687486,
+        18687487,
+        18687488
+      ]
+    },
+    {
+      "reference_id": "89641",
+      "genre": "article",
+      "title": "XLII.\u2014On the genus Waltonia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "474",
+      "epage": "476",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494949",
+      "PageID": "18687496",
+      "created": "2011-09-27 13:04:46",
+      "updated": "2011-09-27 13:04:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51929",
+          "lastname": "Davidson",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        18687496,
+        18687497,
+        18687498
+      ]
+    },
+    {
+      "reference_id": "89611",
+      "genre": "article",
+      "title": "XLIII.\u2014On the operculum of Gasteropodous Mollusca, and an attempt to prove that it is homologous or identical with the second valve of Conchifera",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "476",
+      "epage": "483",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494950",
+      "PageID": "18687498",
+      "created": "2011-09-27 13:01:38",
+      "updated": "2011-09-27 13:01:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        18687498,
+        18687499,
+        18687500,
+        18687501,
+        18687502,
+        18687503,
+        18687504,
+        18687505
+      ]
+    },
+    {
+      "reference_id": "89657",
+      "genre": "article",
+      "title": "XLIV.\u2014On Cannabis indica, Indian Hemp",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "483",
+      "epage": "493",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494951",
+      "PageID": "18687505",
+      "created": "2011-09-27 13:06:28",
+      "updated": "2011-09-27 13:06:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51933",
+          "lastname": "Christison",
+          "forename": "Alexander"
+        }
+      ],
+      "bhl_pages": [
+        18687505,
+        18687506,
+        18687507,
+        18687508,
+        18687509,
+        18687510,
+        18687511,
+        18687512,
+        18687513,
+        18687514,
+        18687515
+      ]
+    },
+    {
+      "reference_id": "89627",
+      "genre": "article",
+      "title": "Zoological Society",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "501",
+      "epage": "507",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494953",
+      "PageID": "18687523",
+      "created": "2011-09-27 13:03:27",
+      "updated": "2011-09-27 13:03:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687523,
+        18687524,
+        18687525,
+        18687526,
+        18687527,
+        18687528,
+        18687529
+      ]
+    },
+    {
+      "reference_id": "89676",
+      "genre": "article",
+      "title": "Botanical Society of Edinburgh",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "508",
+      "epage": "509",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494954",
+      "PageID": "18687530",
+      "created": "2011-09-27 13:08:49",
+      "updated": "2011-09-27 13:08:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687530,
+        18687531
+      ]
+    },
+    {
+      "reference_id": "89621",
+      "genre": "article",
+      "title": "On Scolicia prisca, a fossil annelide of the chalk",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "509",
+      "epage": "510",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494955",
+      "PageID": "18687531",
+      "created": "2011-09-27 13:02:49",
+      "updated": "2011-09-27 13:02:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51925",
+          "lastname": "De Quatrefages",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        18687531,
+        18687532
+      ]
+    },
+    {
+      "reference_id": "89612",
+      "genre": "article",
+      "title": "Description of a new species of Gorgonia from Australia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "510",
+      "epage": "511",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494956",
+      "PageID": "18687532",
+      "created": "2011-09-27 13:01:44",
+      "updated": "2011-09-27 13:01:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        18687532,
+        18687533
+      ]
+    },
+    {
+      "reference_id": "89620",
+      "genre": "article",
+      "title": "The hippopotamus at the zoological gardens",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "515",
+      "epage": "518",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494960",
+      "PageID": "18687537",
+      "created": "2011-09-27 13:02:43",
+      "updated": "2011-09-27 13:02:43",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687537,
+        18687538,
+        18687539,
+        18687540
+      ]
+    },
+    {
+      "reference_id": "89659",
+      "genre": "article",
+      "title": "Meteorological observations for April 1850",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "518",
+      "epage": "518",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494961",
+      "PageID": "18687540",
+      "created": "2011-09-27 13:06:41",
+      "updated": "2011-09-27 13:06:41",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18687540
+      ]
+    }
+  ]
+}

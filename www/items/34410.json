@@ -1,0 +1,71 @@
+{
+  "ItemID": "34410",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Verein in Berlin.",
+  "VolumeInfo": "v. 54 1909",
+  "articles": [
+    {
+      "reference_id": "71008",
+      "genre": "article",
+      "title": "Die termitophilen Coleopteren aus der Unterfamilie der coprophagen Lamellicornier",
+      "secondary_title": "Berliner entomologische Zeitschrift. Berlin",
+      "volume": "54",
+      "spage": "53",
+      "epage": "63",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0323-6145",
+      "PageID": "8346107",
+      "created": "2011-06-03 17:15:05",
+      "updated": "2011-11-21 12:48:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39450",
+          "lastname": "Kolbe",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8346107,
+        8346108,
+        8346109,
+        8346110,
+        8346111,
+        8346112,
+        8346113,
+        8346114,
+        8346115,
+        8346116,
+        8346117
+      ]
+    },
+    {
+      "reference_id": "58306",
+      "genre": "article",
+      "title": "Zwei neue Sphingiden-formen",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "54",
+      "spage": "224",
+      "epage": "226",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0323-6145",
+      "PageID": "8346280",
+      "created": "2010-11-20 20:35:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42303",
+          "lastname": "Closs",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        8346280,
+        8346281,
+        8346282
+      ]
+    }
+  ]
+}

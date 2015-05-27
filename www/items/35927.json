@@ -1,0 +1,35 @@
+{
+  "ItemID": "35927",
+  "FullTitle": "Entomologische berichten.",
+  "VolumeInfo": "d. 2 1905-09",
+  "articles": [
+    {
+      "reference_id": "104204",
+      "genre": "article",
+      "title": "Homopteren aus Semerang (Java) gesammelt von Herrn Edw. Jacobson",
+      "secondary_title": "Entomologische Berichten",
+      "volume": "2",
+      "spage": "161",
+      "epage": "163",
+      "year": "1907",
+      "date": "1907-03-01",
+      "issn": "0013-8827",
+      "PageID": "8982825",
+      "created": "2012-06-11 12:00:24",
+      "updated": "2012-06-11 12:05:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53833",
+          "lastname": "Bierman",
+          "forename": "C J H"
+        }
+      ],
+      "bhl_pages": [
+        8982825,
+        8982826,
+        8982827
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ItemID": "46812",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.80 no.1 1996",
+  "articles": [
+    {
+      "reference_id": "62088",
+      "genre": "article",
+      "title": "Phyllostachys aurea Riv. (Gramineae: Bambuseaea) in Texas",
+      "secondary_title": "Phytologia",
+      "volume": "80",
+      "spage": "30",
+      "epage": "34",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "12983072",
+      "created": "2011-01-26 20:09:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43283",
+          "lastname": "Borowski",
+          "forename": "M"
+        },
+        {
+          "id": "43284",
+          "lastname": "Holmes",
+          "forename": "W C"
+        }
+      ],
+      "bhl_pages": [
+        12983072,
+        12983073,
+        12983074,
+        12983075,
+        12983076
+      ]
+    },
+    {
+      "reference_id": "63548",
+      "genre": "article",
+      "title": "Nomenclatural combinations in Schizachyrium (Poaceae): Andropogoneae)",
+      "secondary_title": "Phytologia",
+      "volume": "80",
+      "spage": "35",
+      "epage": "39",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "12983077",
+      "created": "2011-01-26 22:03:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43480",
+          "lastname": "Wipff",
+          "forename": "J K"
+        }
+      ],
+      "bhl_pages": [
+        12983077,
+        12983078,
+        12983079,
+        12983080,
+        12983081
+      ]
+    }
+  ]
+}

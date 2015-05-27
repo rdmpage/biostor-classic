@@ -1,0 +1,100 @@
+{
+  "author": [
+    {
+      "firstname": "M",
+      "lastname": "Baehr",
+      "name": "M Baehr"
+    }
+  ],
+  "type": "article",
+  "title": "Revision of the Australian Zuphiinae 4. The genus Parazuphium Jeannel (Insecta, Coleoptera, Carabidae)",
+  "journal": {
+    "name": "Spixiana",
+    "volume": "8",
+    "pages": "295--321",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0341-8391"
+      }
+    ]
+  },
+  "year": "1985",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/52382"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/28240469"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 52382
+    },
+    {
+      "type": "bhl",
+      "id": 28240469
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        126.95,
+        -14.65
+      ],
+      [
+        132.85,
+        -12.816666666667
+      ],
+      [
+        146.26666666667,
+        -18.968055555556
+      ],
+      [
+        132.93333333333,
+        -12.384722222222
+      ],
+      [
+        132.9,
+        -12.666666666667
+      ],
+      [
+        132.7,
+        -12.8
+      ],
+      [
+        132.83333333333,
+        -12.866666666667
+      ],
+      [
+        133.11666666667,
+        -15.083333333333
+      ],
+      [
+        143.56666666667,
+        -34.633333333333
+      ],
+      [
+        133.33333333333,
+        -12.283333333333
+      ],
+      [
+        132.65,
+        -12.766666666667
+      ],
+      [
+        141.63333333333,
+        -8.7166666666667
+      ],
+      [
+        132.25,
+        -14.5
+      ]
+    ]
+  }
+}

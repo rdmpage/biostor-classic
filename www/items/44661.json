@@ -1,0 +1,68 @@
+{
+  "ItemID": "44661",
+  "FullTitle": "Entomologiske meddelelser.  ",
+  "VolumeInfo": "Bd. 13 1919-21",
+  "articles": [
+    {
+      "reference_id": "53108",
+      "genre": "article",
+      "title": "Description of a new species of Nematocera Polyneura from Denmark with notes concerning some other species",
+      "secondary_title": "Entomologiske Meddelelser",
+      "volume": "13",
+      "spage": "12",
+      "epage": "16",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-8851",
+      "PageID": "12291474",
+      "created": "2010-10-26 16:33:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40761",
+          "lastname": "Nielsen",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        12291474,
+        12291475,
+        12291476,
+        12291477,
+        12291478
+      ]
+    },
+    {
+      "reference_id": "71796",
+      "genre": "article",
+      "title": "Further investigations upon the European Trichogramminae",
+      "secondary_title": "Entomologiske Meddelelser",
+      "volume": "13",
+      "spage": "183",
+      "epage": "188",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0013-8851",
+      "PageID": "12291686",
+      "created": "2011-06-03 23:11:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42506",
+          "lastname": "Kryger",
+          "forename": "J P"
+        }
+      ],
+      "bhl_pages": [
+        12291686,
+        12291687,
+        12291688,
+        12291689,
+        12291690,
+        12291691
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ItemID": "110352",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "t. 9 1884",
+  "articles": [
+    {
+      "reference_id": "103337",
+      "genre": "article",
+      "title": "Notice sur une Collection de Reptiles et de Poissons recueillie a Majumba, Congo",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "9",
+      "spage": "199",
+      "epage": "208",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0037-962X",
+      "PageID": "35675672",
+      "created": "2012-05-21 13:19:39",
+      "updated": "2012-05-21 13:19:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        35675672,
+        35675673,
+        35675674,
+        35675675,
+        35675676,
+        35675677,
+        35675678,
+        35675679,
+        35675680,
+        35675681
+      ]
+    },
+    {
+      "reference_id": "100973",
+      "genre": "article",
+      "title": "Arachnides nouveaux d'Alg\u00e9rie",
+      "secondary_title": "Bull. Soc. zool. France",
+      "volume": "9",
+      "spage": "321",
+      "epage": "327",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0037-962X",
+      "PageID": "35675794",
+      "created": "2012-03-11 10:04:34",
+      "updated": "2012-03-11 10:17:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2638",
+          "lastname": "Simon",
+          "forename": "Eug\u00e8ne"
+        }
+      ],
+      "bhl_pages": [
+        35675794,
+        35675795,
+        35675796,
+        35675797,
+        35675798,
+        35675799,
+        35675800
+      ]
+    }
+  ]
+}

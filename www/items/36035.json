@@ -1,0 +1,109 @@
+{
+  "ItemID": "36035",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 57 = 3rd ser. v.7 1921",
+  "articles": [
+    {
+      "reference_id": "53085",
+      "genre": "article",
+      "title": "Resting positions of some nematocerous Diptera",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "57",
+      "spage": "22",
+      "epage": "26",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9017295",
+      "created": "2010-10-26 10:31:56",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        9017295,
+        9017296,
+        9017297,
+        9017298,
+        9017299
+      ]
+    },
+    {
+      "reference_id": "57537",
+      "genre": "article",
+      "title": "Observations on British Coccidae with descriptions of new species. No. VI",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "57",
+      "spage": "146",
+      "epage": "152",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9017445",
+      "created": "2010-11-20 13:43:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9017445,
+        9017446,
+        9017447,
+        9017448,
+        9017449,
+        9017450,
+        9017451
+      ]
+    },
+    {
+      "reference_id": "72700",
+      "genre": "article",
+      "title": "Neuroptera, Mecoptera, and Odonata from Mesopotamia and Persia",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "57",
+      "spage": "213",
+      "epage": "225",
+      "year": "1921",
+      "date": "1921-00-00",
+      "oclc": "1568052",
+      "PageID": "9017520",
+      "created": "2011-06-04 03:15:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45455",
+          "lastname": "Morton",
+          "forename": "K J"
+        }
+      ],
+      "bhl_pages": [
+        9017520,
+        9017521,
+        9017522,
+        9017523,
+        9017524,
+        9017525,
+        9017526,
+        9017527,
+        9017528,
+        9017529,
+        9017530,
+        9017531,
+        9017532
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "ItemID": "33893",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.30 (1970)",
+  "articles": [
+    {
+      "reference_id": "100222",
+      "genre": "article",
+      "title": "A new Ambrysus from Venezuela (Hemiptera, Naucoridae)",
+      "secondary_title": "Gt Basin Nat.",
+      "volume": "30",
+      "spage": "1",
+      "epage": "4",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116249",
+      "created": "2012-01-17 11:36:11",
+      "updated": "2012-01-17 11:37:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53421",
+          "lastname": "La Rivers",
+          "forename": "Ira"
+        }
+      ],
+      "bhl_pages": [
+        8116249,
+        8116250,
+        8116251,
+        8116252
+      ]
+    },
+    {
+      "reference_id": "1222",
+      "genre": "article",
+      "title": "Notes on the herpetology of Grant County, Oregon",
+      "secondary_title": "The Great Basin Naturalist",
+      "volume": "30",
+      "spage": "9",
+      "epage": "12",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116257",
+      "created": "2009-12-23 10:26:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "934",
+          "lastname": "Black",
+          "forename": "J H"
+        },
+        {
+          "id": "959",
+          "lastname": "Storm",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        8116257,
+        8116258,
+        8116259,
+        8116260
+      ]
+    },
+    {
+      "reference_id": "1218",
+      "genre": "article",
+      "title": "A taxonomic comparison of Uta stansburiana of the Great Basin and the upper Colorado River basin in Utah, with a description of a new subspecies",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "30",
+      "spage": "71",
+      "epage": "90",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116325",
+      "created": "2009-12-23 10:26:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "956",
+          "lastname": "Pack",
+          "forename": "L E"
+        },
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8116325,
+        8116326,
+        8116327,
+        8116328,
+        8116329,
+        8116330,
+        8116331,
+        8116332,
+        8116333,
+        8116334,
+        8116335,
+        8116336,
+        8116337,
+        8116338,
+        8116339,
+        8116340,
+        8116341,
+        8116342,
+        8116343,
+        8116344
+      ]
+    },
+    {
+      "reference_id": "1220",
+      "genre": "article",
+      "title": "Leptotyphlops humilis in Death Valley, California",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "30",
+      "spage": "91",
+      "epage": "93",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116345",
+      "created": "2009-12-23 10:26:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "957",
+          "lastname": "Kay",
+          "forename": "F R"
+        }
+      ],
+      "bhl_pages": [
+        8116345,
+        8116346,
+        8116347
+      ]
+    },
+    {
+      "reference_id": "1219",
+      "genre": "article",
+      "title": "Environmental responses of active lizards at Saratoga Springs, Death Valley, California",
+      "secondary_title": "The Great Basin Naturalist",
+      "volume": "30",
+      "spage": "146",
+      "epage": "165",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116406",
+      "created": "2009-12-23 10:26:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "957",
+          "lastname": "Kay",
+          "forename": "F R"
+        }
+      ],
+      "bhl_pages": [
+        8116406,
+        8116407,
+        8116408,
+        8116409,
+        8116410,
+        8116411,
+        8116412,
+        8116413,
+        8116414,
+        8116415,
+        8116416,
+        8116417,
+        8116418,
+        8116419,
+        8116420,
+        8116421,
+        8116422,
+        8116423,
+        8116424,
+        8116425
+      ]
+    },
+    {
+      "reference_id": "1223",
+      "genre": "article",
+      "title": "Speciation in the Fijian and Tongan iguana Brachylophus (Sauria, Iguanidae) with the description of a new species",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "30",
+      "spage": "166",
+      "epage": "172",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116426",
+      "created": "2009-12-23 10:26:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "921",
+          "lastname": "Avery",
+          "forename": "D F"
+        },
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8116426,
+        8116427,
+        8116428,
+        8116429,
+        8116430,
+        8116431,
+        8116432
+      ]
+    },
+    {
+      "reference_id": "70806",
+      "genre": "article",
+      "title": "Studies in Nearctic Desert Sand Dune Orthoptera Part XII",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "30",
+      "spage": "173",
+      "epage": "179",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116433",
+      "created": "2011-06-03 07:12:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46661",
+          "lastname": "",
+          "forename": "Tinkham"
+        }
+      ],
+      "bhl_pages": [
+        8116433,
+        8116434,
+        8116435,
+        8116436,
+        8116437,
+        8116438,
+        8116439
+      ]
+    },
+    {
+      "reference_id": "1221",
+      "genre": "article",
+      "title": "Vasco M. Tanner",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "30",
+      "spage": "181",
+      "epage": "189",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116445",
+      "created": "2009-12-23 10:26:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "958",
+          "lastname": "Hayward",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        8116445,
+        8116446,
+        8116447,
+        8116448,
+        8116449,
+        8116450,
+        8116451,
+        8116452,
+        8116453
+      ]
+    },
+    {
+      "reference_id": "100221",
+      "genre": "article",
+      "title": "Tannerocoris new genus, and new species of Miridae (Hemiptera) from the western United States",
+      "secondary_title": "Gt Basin Nat.",
+      "volume": "30",
+      "spage": "227",
+      "epage": "231",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116491",
+      "created": "2012-01-17 11:31:53",
+      "updated": "2012-01-17 11:33:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53420",
+          "lastname": "Knight",
+          "forename": "Harry H"
+        }
+      ],
+      "bhl_pages": [
+        8116491,
+        8116492,
+        8116493,
+        8116494,
+        8116495
+      ]
+    },
+    {
+      "reference_id": "53356",
+      "genre": "article",
+      "title": "New or little-known Tipulidae from Middle America (Diptera). I",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "30",
+      "spage": "232",
+      "epage": "241",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116496",
+      "created": "2010-10-26 22:12:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        8116496,
+        8116497,
+        8116498,
+        8116499,
+        8116500,
+        8116501,
+        8116502,
+        8116503,
+        8116504,
+        8116505
+      ]
+    },
+    {
+      "reference_id": "70807",
+      "genre": "article",
+      "title": "Studies in Nearctic Desert Sand Dune Orthoptera Part XIII",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "30",
+      "spage": "242",
+      "epage": "249",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116506",
+      "created": "2011-06-03 07:12:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46661",
+          "lastname": "",
+          "forename": "Tinkham"
+        }
+      ],
+      "bhl_pages": [
+        8116506,
+        8116507,
+        8116508,
+        8116509,
+        8116510,
+        8116511,
+        8116512,
+        8116513
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "ItemID": "36505",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 31 1895",
+  "articles": [
+    {
+      "reference_id": "99998",
+      "genre": "article",
+      "title": "Preoccupied names and genera in the Micro-Lepidoptera",
+      "secondary_title": "The Entomologist's Monthly Magazine",
+      "volume": "31",
+      "spage": "40",
+      "epage": "43",
+      "year": "1895",
+      "date": "1895-02-00",
+      "oclc": "1568052",
+      "PageID": "9276990",
+      "created": "2011-12-21 11:14:02",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40045",
+          "lastname": "Walsingham",
+          "forename": "Lord"
+        }
+      ],
+      "bhl_pages": [
+        9276990,
+        9276991,
+        9276992,
+        9276993
+      ]
+    },
+    {
+      "reference_id": "53324",
+      "genre": "article",
+      "title": "Rare Diptera captured in 1894",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "31",
+      "spage": "51",
+      "epage": "52",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9277001",
+      "created": "2010-10-26 20:14:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40767",
+          "lastname": "Bradley",
+          "forename": "R C"
+        }
+      ],
+      "bhl_pages": [
+        9277001,
+        9277002
+      ]
+    },
+    {
+      "reference_id": "67110",
+      "genre": "article",
+      "title": "Nothochrysa fulviceps and N. capitata in Lincolnshire",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "31",
+      "spage": "101",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1568052",
+      "PageID": "9277051",
+      "created": "2011-05-12 13:22:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45456",
+          "lastname": "Porritt",
+          "forename": "G T ["
+        },
+        {
+          "id": "45457",
+          "lastname": "Mclachlan",
+          "forename": "R ]"
+        }
+      ],
+      "bhl_pages": [
+        9277051
+      ]
+    },
+    {
+      "reference_id": "67106",
+      "genre": "article",
+      "title": "The New Forest in May",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "31",
+      "spage": "192",
+      "epage": "194",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1568052",
+      "PageID": "9277142",
+      "created": "2011-05-12 13:21:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42891",
+          "lastname": "Morley",
+          "forename": "C"
+        },
+        {
+          "id": "45454",
+          "lastname": "Elliott",
+          "forename": "E [A ]"
+        }
+      ],
+      "bhl_pages": [
+        9277142,
+        9277143,
+        9277144
+      ]
+    },
+    {
+      "reference_id": "60361",
+      "genre": "article",
+      "title": "Notes on coccids from Kent",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "31",
+      "spage": "229",
+      "epage": "233",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9277179",
+      "created": "2010-11-22 23:31:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9277179,
+        9277180,
+        9277181,
+        9277182,
+        9277183
+      ]
+    },
+    {
+      "reference_id": "67108",
+      "genre": "article",
+      "title": "Neuroptera observed in Glen Lochay",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "31",
+      "spage": "260",
+      "epage": "263",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1568052",
+      "PageID": "9277210",
+      "created": "2011-05-12 13:22:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45455",
+          "lastname": "Morton",
+          "forename": "K J"
+        }
+      ],
+      "bhl_pages": [
+        9277210,
+        9277211,
+        9277212,
+        9277213
+      ]
+    }
+  ]
+}

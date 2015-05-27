@@ -1,0 +1,34 @@
+{
+  "ItemID": "43417",
+  "FullTitle": "Annuario del Museo Zoologico della Universit\u00e0 di Napoli.  ",
+  "VolumeInfo": "anno 5 (1865)",
+  "articles": [
+    {
+      "reference_id": "61634",
+      "genre": "article",
+      "title": "Descrizione di una nuova Formica Italiana Annuar",
+      "secondary_title": "Rendiconti del Museo Zoologie della R. Universit\u00e0 di Napoli",
+      "volume": "5",
+      "spage": "117",
+      "epage": "118",
+      "year": "1869",
+      "date": "1869-00-00",
+      "oclc": "1758997",
+      "PageID": "11823073",
+      "created": "2011-01-10 22:56:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18307",
+          "lastname": "Emery",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11823073,
+        11823074
+      ]
+    }
+  ]
+}

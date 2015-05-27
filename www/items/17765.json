@@ -1,0 +1,34 @@
+{
+  "ItemID": "17765",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 35 (1921-1922)",
+  "articles": [
+    {
+      "reference_id": "104508",
+      "genre": "article",
+      "title": "On the genetic position of Ancylus fluviatilis Muller",
+      "secondary_title": "The Nautilis",
+      "volume": "35",
+      "spage": "57",
+      "epage": "58",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0028-1344",
+      "PageID": "1712077",
+      "created": "2012-06-21 18:34:11",
+      "updated": "2012-06-21 18:34:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53877",
+          "lastname": "Walker",
+          "forename": "Bryant"
+        }
+      ],
+      "bhl_pages": [
+        1712077,
+        1712023
+      ]
+    }
+  ]
+}

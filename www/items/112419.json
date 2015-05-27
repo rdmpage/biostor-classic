@@ -1,0 +1,43 @@
+{
+  "ItemID": "112419",
+  "FullTitle": "Monatsberichte der Ko\u0308niglichen Preussische Akademie des Wissenschaften zu Berlin.",
+  "VolumeInfo": "1867",
+  "articles": [
+    {
+      "reference_id": "100824",
+      "genre": "article",
+      "title": "\u00dcber Flederthiere und Amphibien",
+      "secondary_title": "Monatsberichte der K\u00f6niglichen Preussische Akademie des Wissenschaften zu Berlin",
+      "volume": "1867",
+      "spage": "703",
+      "epage": "712",
+      "year": "1867",
+      "date": "1867-00-00",
+      "oclc": "8356354",
+      "PageID": "36510982",
+      "created": "2012-03-06 13:53:19",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17898",
+          "lastname": "Peters",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        36510982,
+        36510983,
+        36510984,
+        36510985,
+        36510986,
+        36510987,
+        36510990,
+        36510991,
+        36510992,
+        36510993,
+        36510988
+      ]
+    }
+  ]
+}

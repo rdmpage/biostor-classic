@@ -1,0 +1,102 @@
+{
+  "ItemID": "34991",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Verein in Berlin.",
+  "VolumeInfo": "v. 29 1885",
+  "articles": [
+    {
+      "reference_id": "61662",
+      "genre": "article",
+      "title": "Ueber die Dipteren-Gattungen Agapophytus  Gu\u00e9rin und Phycus  Walk",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "29",
+      "spage": "137",
+      "epage": "141",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0323-6145",
+      "PageID": "8567065",
+      "created": "2011-01-10 23:21:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43091",
+          "lastname": "R\u00f6der",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        8567065,
+        8567066,
+        8567067,
+        8567068,
+        8567069
+      ]
+    },
+    {
+      "reference_id": "72056",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Pseudoneuroptera Algeriens und der Ostpyren\u00e4en",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "29",
+      "spage": "151",
+      "epage": "157",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0323-6145",
+      "PageID": "8567079",
+      "created": "2011-06-04 00:18:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42311",
+          "lastname": "Kolbe",
+          "forename": "H J"
+        }
+      ],
+      "bhl_pages": [
+        8567079,
+        8567080,
+        8567081,
+        8567082,
+        8567083,
+        8567084,
+        8567085
+      ]
+    },
+    {
+      "reference_id": "61627",
+      "genre": "article",
+      "title": "Neue Hesperiden des Indischen Archipels und Ost-Africa's aus der Collection des Herrn H. Ribbe in Blasewitz-Dresden, gesammelt von den Herren: C. Ribbe auf Celebes, Java und den Aru-Inseln; K\u00fcnstler auf Malacca (Perak); K\u00fchn auf West-Guinea (Jekar); Menger auf Ceylon",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "29",
+      "spage": "225",
+      "epage": "232",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0323-6145",
+      "PageID": "8567155",
+      "created": "2011-01-10 22:47:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43080",
+          "lastname": "Pl\u00f6tz",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8567155,
+        8567156,
+        8567157,
+        8567158,
+        8567159,
+        8567160,
+        8567161,
+        8567162
+      ]
+    }
+  ]
+}

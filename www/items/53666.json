@@ -1,0 +1,46 @@
+{
+  "ItemID": "53666",
+  "FullTitle": "Bulletins de l'Acad\u00e9mie royale des sciences, des lettres et des beaux-arts de Belgique.",
+  "VolumeInfo": "t.16:pt.1 (1849)",
+  "articles": [
+    {
+      "reference_id": "102324",
+      "genre": "article",
+      "title": "Notice sur un nouveau genre d'Heminte cesto\u00efde",
+      "secondary_title": "Bulletins de l'Acad\u00e9mie royale des sciences, des lettres et des beaux-arts de Belgique",
+      "volume": "16",
+      "issue": "1",
+      "spage": "182",
+      "epage": "193",
+      "year": "1849",
+      "date": "1849-00-00",
+      "oclc": "1589466",
+      "PageID": "15748670",
+      "created": "2012-04-03 22:09:04",
+      "updated": "2012-04-03 22:10:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53637",
+          "lastname": "Van Beneden",
+          "forename": "P-J"
+        }
+      ],
+      "bhl_pages": [
+        15748670,
+        15748671,
+        15748672,
+        15748673,
+        15748674,
+        15748675,
+        15748676,
+        15748677,
+        15748678,
+        15748679,
+        15748680,
+        15748683,
+        15748682
+      ]
+    }
+  ]
+}

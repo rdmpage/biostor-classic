@@ -1,0 +1,38 @@
+{
+  "ItemID": "14460",
+  "FullTitle": "Zoe:a biological journal.",
+  "VolumeInfo": "v.3:no.4 (1893:Jan.)",
+  "articles": [
+    {
+      "reference_id": "57454",
+      "genre": "article",
+      "title": "A new jumping spider",
+      "secondary_title": "Zoe",
+      "volume": "3",
+      "spage": "332",
+      "epage": "337",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1770643",
+      "PageID": "574453",
+      "created": "2010-11-18 14:32:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42035",
+          "lastname": "Curtis",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        574453,
+        574454,
+        574455,
+        574456,
+        574457,
+        574458
+      ]
+    }
+  ]
+}

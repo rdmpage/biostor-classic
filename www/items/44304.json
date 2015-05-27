@@ -1,0 +1,2683 @@
+{
+  "ItemID": "44304",
+  "FullTitle": "The Bulletin of zoological nomenclature.",
+  "VolumeInfo": "Vol 6",
+  "articles": [
+    {
+      "reference_id": "52099",
+      "genre": "article",
+      "title": "Notes prescribed by the international congress of zoology",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "1",
+      "epage": "2",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165027",
+      "created": "2010-09-22 11:24:42",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40367",
+          "lastname": "Francis",
+          "forename": "Hemming"
+        }
+      ],
+      "bhl_pages": [
+        12165027,
+        12165028
+      ]
+    },
+    {
+      "reference_id": "52100",
+      "genre": "article",
+      "title": "On the question of the correct scientific name for the echinoderm fossil from the Limburg Cretaceous (Maestrichtian) commonly known as the \"Spatangue de Maestricht\" (class Echinoidea, order Spatangoidea)",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "issue": "1",
+      "spage": "3",
+      "epage": "6",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165029",
+      "created": "2010-09-22 11:29:15",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1524",
+          "lastname": "Engel",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12165029,
+        12165030,
+        12165031,
+        12165032
+      ]
+    },
+    {
+      "reference_id": "52101",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to validate the trivial names of two nominal species of the class Anthozoa and of eight nominal species of the class Brachiopoda, published by William Martin in 1809 in the work entitled \"Petrificata Derbiensia\" and matters incidental thereto",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "7",
+      "epage": "17",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165033",
+      "created": "2010-09-22 11:34:45",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40381",
+          "lastname": "Muir-Wood",
+          "forename": "Helen M"
+        },
+        {
+          "id": "1452",
+          "lastname": "Stubblefield",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        12165033,
+        12165034,
+        12165035,
+        12165036,
+        12165037,
+        12165038,
+        12165039,
+        12165040,
+        12165041,
+        12165042,
+        12165043
+      ]
+    },
+    {
+      "reference_id": "52102",
+      "genre": "article",
+      "title": "Proposed addition to the \"Official list of specific trivial names in zoology\" of the trivial names of two species of the class Cephalopoda and of twelve species of the class Brachiopoda hithero attributed to Martin, 1809, and matters incidental thereto",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "issue": "1",
+      "spage": "18",
+      "epage": "30",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165044",
+      "created": "2010-09-22 11:42:33",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40381",
+          "lastname": "Muir-Wood",
+          "forename": "Helen M"
+        },
+        {
+          "id": "1452",
+          "lastname": "Stubblefield",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        12165044,
+        12165045,
+        12165046,
+        12165047,
+        12165048,
+        12165049,
+        12165050,
+        12165051,
+        12165052,
+        12165053,
+        12165054,
+        12165055,
+        12165056
+      ]
+    },
+    {
+      "reference_id": "52103",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus \"martinia\" McCoy, 1844 (class brachiopoda) in harmony with current nomenclatorial usage",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "30",
+      "epage": "32",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165056",
+      "created": "2010-09-22 11:49:45",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40371",
+          "lastname": "Helen",
+          "forename": "Muir-Wood"
+        }
+      ],
+      "bhl_pages": [
+        12165056,
+        12165057,
+        12165058
+      ]
+    },
+    {
+      "reference_id": "52104",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus \"Fulgora\" Linnaeus 1767, and to suppress the generic name \"Laternaria\" Linnaeus 1764 (class insecta, order Hemiptera)",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "34",
+      "epage": "37",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165064",
+      "created": "2010-09-22 11:53:07",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40372",
+          "lastname": "G.",
+          "forename": "Fennah R"
+        }
+      ],
+      "bhl_pages": [
+        12165064,
+        12165065,
+        12165066,
+        12165067
+      ]
+    },
+    {
+      "reference_id": "52105",
+      "genre": "article",
+      "title": "Report on the proposal that the generic name \" fulgora\" Linnaeus, 1767 (class insecta, order Hemiptera) should be validated under the plenary powers",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "37",
+      "epage": "44",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165067",
+      "created": "2010-09-22 11:56:43",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40367",
+          "lastname": "Francis",
+          "forename": "Hemming"
+        }
+      ],
+      "bhl_pages": [
+        12165067,
+        12165068,
+        12165069,
+        12165070,
+        12165071,
+        12165072,
+        12165073,
+        12165074
+      ]
+    },
+    {
+      "reference_id": "2545",
+      "genre": "article",
+      "title": "Suggested adoption of a \"Declaration\" clarifying the meaning of Rule (f) in Article 30 (Rule relating to the type species of a nominal genus established to replace an earlier nominal genus.)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "45",
+      "epage": "48",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165075",
+      "created": "2009-12-23 18:25:53",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165075,
+        12165076,
+        12165077,
+        12165078
+      ]
+    },
+    {
+      "reference_id": "52106",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus \"Geotrupes\" Latreille, 1796 (class Insecta, order Coleoptera) in harmony with current nomenclatorial usage",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "issue": "2",
+      "spage": "49",
+      "epage": "51",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165079",
+      "created": "2010-09-22 12:03:23",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40382",
+          "lastname": "Potts",
+          "forename": "Robert W L"
+        }
+      ],
+      "bhl_pages": [
+        12165079,
+        12165080,
+        12165081
+      ]
+    },
+    {
+      "reference_id": "52107",
+      "genre": "article",
+      "title": "Proposed amendment of the \"regles\" to provide that spelled-out letters or numerals are not to be accepted as available trivial names, when those letters or numerals were originally employed as ordinals for the enumeration of the sspecies, sub-species or intrasubspecific forms concerned",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "52",
+      "epage": "53",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165082",
+      "created": "2010-09-22 12:14:25",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40374",
+          "lastname": "E.",
+          "forename": "Hopkins C H"
+        }
+      ],
+      "bhl_pages": [
+        12165082,
+        12165083
+      ]
+    },
+    {
+      "reference_id": "52108",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to deignate type species for the genera \"Lipeuris\" Nitzsch, 1818, \"Colpocephalium\" Nitzsch, 1818, and \"Gyropus\" Nitzsch, 1818 (class Insecta, order Mallophaga) in harmony with the generally accepted use of those names",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "issue": "2",
+      "spage": "54",
+      "epage": "60",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165084",
+      "created": "2010-09-22 12:19:43",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1041",
+          "lastname": "Hopkins",
+          "forename": "G H E"
+        }
+      ],
+      "bhl_pages": [
+        12165084,
+        12165085,
+        12165086,
+        12165087,
+        12165088,
+        12165089,
+        12165090
+      ]
+    },
+    {
+      "reference_id": "52109",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus \"Eureum\" Nitzsch 1818 (class Insecta, Order Mallophaga) in harmony with current nomenclatorial practice",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "61",
+      "epage": "64",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165091",
+      "created": "2010-09-22 12:25:44",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1041",
+          "lastname": "Hopkins",
+          "forename": "G H E"
+        }
+      ],
+      "bhl_pages": [
+        12165091,
+        12165092,
+        12165093,
+        12165094
+      ]
+    },
+    {
+      "reference_id": "52110",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to validate the generic name \"Modiolus\" Lamarck, 1799, by supressing the generic name \"Volsella\" Scopoli, 1777 (Class Pelecypoda) and matters incidental thereto",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "issue": "3",
+      "spage": "67",
+      "epage": "71",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165101",
+      "created": "2010-09-22 12:30:06",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40380",
+          "lastname": "Baily",
+          "forename": "Joshua L"
+        }
+      ],
+      "bhl_pages": [
+        12165101,
+        12165102,
+        12165103,
+        12165104,
+        12165105
+      ]
+    },
+    {
+      "reference_id": "52111",
+      "genre": "article",
+      "title": "Support for Mr Joshua L. Baily's proposal that the plenary powers should be used to suppress the generic name \"Volsella\" Scopoli, 1777, for the purpose of validating the generic name \"Modiolus\" Lamarck, 1799 (class Pelecypoda)",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "71",
+      "epage": "72",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165105",
+      "created": "2010-09-22 13:36:54",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1343",
+          "lastname": "Cox",
+          "forename": "L R"
+        }
+      ],
+      "bhl_pages": [
+        12165105,
+        12165106
+      ]
+    },
+    {
+      "reference_id": "2523",
+      "genre": "article",
+      "title": "Support for the proposals relating to the generic names Crangon Fabricius, 1798, Carcinus Leach, 1814, and Scyllarides Gill,1898(Class Crustacea) submitted by Dr. L. B. Holthuis",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "72",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165106",
+      "created": "2009-12-23 18:25:25",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1543",
+          "lastname": "Zariquiey",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12165106
+      ]
+    },
+    {
+      "reference_id": "2521",
+      "genre": "article",
+      "title": "Application for the stabilisation of the name for the genus of the class Rotifera formerly known as Pedalion Hudson, 1871, or Pedalia Barrois, 1878, including a request for the use of the plenary powers to vary the type species of the genus Hexarthra Sch",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "73",
+      "epage": "78",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165107",
+      "created": "2009-12-23 18:25:23",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1542",
+          "lastname": "Neal",
+          "forename": "G M"
+        }
+      ],
+      "bhl_pages": [
+        12165107,
+        12165108,
+        12165109,
+        12165110,
+        12165111,
+        12165112
+      ]
+    },
+    {
+      "reference_id": "52112",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus \"Trigonia\" Brugui\u00e8re, 1789 (Class Pelecypoda Order Eulamellibranchiata)",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "6",
+      "spage": "79",
+      "epage": "84",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165113",
+      "created": "2010-09-22 13:47:28",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1343",
+          "lastname": "Cox",
+          "forename": "L R"
+        }
+      ],
+      "bhl_pages": [
+        12165113,
+        12165114,
+        12165115,
+        12165116,
+        12165117,
+        12165118
+      ]
+    },
+    {
+      "reference_id": "2544",
+      "genre": "article",
+      "title": "Suggested adoption of a \" Declaration\" relative) to the nominal species to be regarded as eligible for selection as tho type species of a genus established without cited nominal species, in cases where a subsequent author without citing such a species,gi",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "85",
+      "epage": "88",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165119",
+      "created": "2009-12-23 18:25:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165119,
+        12165120,
+        12165121,
+        12165122
+      ]
+    },
+    {
+      "reference_id": "2548",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to suppress the trivial name \"caesius\" Cloquet, 1818 (as published in the binominal combination \"Coluber caesius\") (Class Reptilia Order Squamata)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "88",
+      "epage": "89",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165122",
+      "created": "2009-12-23 18:25:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "538",
+          "lastname": "Loveridge",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        12165122,
+        12165123
+      ]
+    },
+    {
+      "reference_id": "2539",
+      "genre": "article",
+      "title": "On the question whether any two generic names or trivial names, each based upon the same surname of a person, whose name is nprmally written in some alphabet other than the latin alphabet, and each having the same termination, but differing from one anot",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "90",
+      "epage": "92",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165124",
+      "created": "2009-12-23 18:25:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1549",
+          "lastname": "Muir-Wood",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12165124,
+        12165125,
+        12165126
+      ]
+    },
+    {
+      "reference_id": "2416",
+      "genre": "article",
+      "title": "Request for a ruling on the question whether any two names, each based upon a modern patronymic, are to be regarded as homonyms of one another, when the patronymics in question are identical in spelling but differ through the presence or absence of an um",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "92",
+      "epage": "94",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165126",
+      "created": "2009-12-23 18:23:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1513",
+          "lastname": "Muir-Wood",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        12165126,
+        12165127,
+        12165128
+      ]
+    },
+    {
+      "reference_id": "2543",
+      "genre": "article",
+      "title": "On an ambiguity in article 20 of the \"Regies\" brought to light by Dr. Helen Muir-Wood's application for a ruling on the question of whether names based on words containing letters having a diacritic mark are to be regarded as homonyms when one membe",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "94",
+      "epage": "96",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165128",
+      "created": "2009-12-23 18:25:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165128,
+        12165129,
+        12165130
+      ]
+    },
+    {
+      "reference_id": "2547",
+      "genre": "article",
+      "title": "On the correct name for the Yellow Rattlesnake from the Colorado River Basin",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "99",
+      "epage": "100",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165137",
+      "created": "2009-12-23 18:25:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1550",
+          "lastname": "Woodbury",
+          "forename": "A M"
+        },
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        12165137,
+        12165138
+      ]
+    },
+    {
+      "reference_id": "2542",
+      "genre": "article",
+      "title": "Suggested adoption by the International Commisison on Zoological Nomenclature of a \"Declaration\" clarifying the question of the availability of a trivial name having as its only \"Indication\" a qualified reference to a previously published trivial name",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "103",
+      "epage": "105",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165141",
+      "created": "2009-12-23 18:25:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165141,
+        12165142,
+        12165143
+      ]
+    },
+    {
+      "reference_id": "2538",
+      "genre": "article",
+      "title": "On the proposal submitted by Dr. Helen Muir-Wood that a \" Declaration \" should be rendered ruling that any two names differing from one another only by the presence in the case of one name and the absence in the other of a diacritic mark over one of the",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "114",
+      "epage": "115",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165152",
+      "created": "2009-12-23 18:25:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1452",
+          "lastname": "Stubblefield",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        12165152,
+        12165153
+      ]
+    },
+    {
+      "reference_id": "2535",
+      "genre": "article",
+      "title": "On the status for the purposes of zoological nomenclature of the work entitled \" The natural his-tory of Cornwall \" by William Borlase published in 1758, with special reference to the availability of the generic name Astacus Borlase, 1758 (Class Crustace",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "115",
+      "epage": "118",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165153",
+      "created": "2009-12-23 18:25:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165153,
+        12165154,
+        12165155,
+        12165156
+      ]
+    },
+    {
+      "reference_id": "2529",
+      "genre": "article",
+      "title": "Support for the proposal submitted by Mr. Francis Hemming that a ruling should be given that the work entitled \"The natural history of Cornwall\" by William Borlase, published in 1758, does not satisfy the requirements of Article 25 of the \"R\u00e8gles\"",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "119",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165157",
+      "created": "2009-12-23 18:25:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165157
+      ]
+    },
+    {
+      "reference_id": "2541",
+      "genre": "article",
+      "title": "On the question whether it is desirable that words should be added to the \"Regies\" expressly providing that for the purposes of establishing a condition of secondary homonymy between two specific names it is not necessary that an author should expressly",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "120",
+      "epage": "122",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165158",
+      "created": "2009-12-23 18:25:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165158,
+        12165159,
+        12165160
+      ]
+    },
+    {
+      "reference_id": "2540",
+      "genre": "article",
+      "title": "On the nomenclatorial status of names published in 1777 in the \"Introductio ad historiam naturalem\" of Giovanni Antonio Scopoli",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "122",
+      "epage": "125",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165160",
+      "created": "2009-12-23 18:25:47",
+      "updated": "2011-10-19 17:44:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165160,
+        12165161,
+        12165162,
+        12165163
+      ]
+    },
+    {
+      "reference_id": "2522",
+      "genre": "article",
+      "title": "On the question whether it is desirable that the name Anguina Scopoli, 1777 (Class Nematoda) should be placed on the \" Official List of Generic Names in Zoology \"in preference to such names as Anguillulina Gervais & Beneden, 1859, or \" Tylenchus\" Bas",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "125",
+      "epage": "128",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165163",
+      "created": "2009-12-23 18:25:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165163,
+        12165164,
+        12165165,
+        12165166
+      ]
+    },
+    {
+      "reference_id": "2528",
+      "genre": "article",
+      "title": "On the objec-tion, from the carcinological point of view, of accepting the name Tylos Meigen, 1800 (Class Insecta, Order Diptera) and the consequent rejection of the name Tylos (Latreille M.S.) Audouin, 1826 (Class Crustacea, Order Isopoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "128",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165166",
+      "created": "2009-12-23 18:25:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165166
+      ]
+    },
+    {
+      "reference_id": "2511",
+      "genre": "article",
+      "title": "Supplementary request submitted in connection with the application laid before the International Commission on Zoological Nomenclature in regard to the trivial name sirtalis Linnaeus, 1758",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "146",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165188",
+      "created": "2009-12-23 18:25:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1539",
+          "lastname": "Schmidt",
+          "forename": "K B"
+        },
+        {
+          "id": "1133",
+          "lastname": "Conant",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12165188
+      ]
+    },
+    {
+      "reference_id": "2454",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to suppress the generic name Lysippe Kinahnn, 1858 (Class Crustacea, Order Decapoda) and to validate the generic name Lysippe Malmgren, 1865 (Class Polychacta)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "148",
+      "epage": "149",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165190",
+      "created": "2009-12-23 18:24:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165190,
+        12165191
+      ]
+    },
+    {
+      "reference_id": "2415",
+      "genre": "article",
+      "title": "Proposal to suppress the generic name Polytomurus Hawle and Corda, 1847, and to place the generic name Dionide Barrande, 1847 (Class Trilobita) on the Official List of Generic Names in Zoology",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "157",
+      "epage": "158",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165201",
+      "created": "2009-12-23 18:23:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "654",
+          "lastname": "Whittington",
+          "forename": "H B"
+        }
+      ],
+      "bhl_pages": [
+        12165201,
+        12165202
+      ]
+    },
+    {
+      "reference_id": "2441",
+      "genre": "article",
+      "title": "Report on the nomenclatorial status of the generic name Manatus Brunnich, 1771 (Class Mammalia)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "159",
+      "epage": "160",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165203",
+      "created": "2009-12-23 18:23:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165203,
+        12165204
+      ]
+    },
+    {
+      "reference_id": "2444",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate as the type species of the genus Mortonella Pomel, 1883 (Class Echinoidea) a genus based upon a misidentified type species, the species intended as such by the original author",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "168",
+      "epage": "169",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165216",
+      "created": "2009-12-23 18:23:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1525",
+          "lastname": "Durham",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        12165216,
+        12165217
+      ]
+    },
+    {
+      "reference_id": "2423",
+      "genre": "article",
+      "title": "Support for Professor H. E. Vokes' proposal relating to the name Mytilus Linnaeus, 1758 (Class Pelecypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "171",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165219",
+      "created": "2009-12-23 18:23:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1515",
+          "lastname": "Ranson",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        12165219
+      ]
+    },
+    {
+      "reference_id": "2455",
+      "genre": "article",
+      "title": "Support for the proposal that the generic name Tylos Latreille, 1826 (Class Crustacea, Order Isopoda) should be preserved as against Tylos Meigen, 1800 (Class Insecta, Order Diptera)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "173",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165221",
+      "created": "2009-12-23 18:24:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1531",
+          "lastname": "Herold",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        12165221
+      ]
+    },
+    {
+      "reference_id": "2445",
+      "genre": "article",
+      "title": "Proposition en faveur du maintien du nom de Tylos (Latreille M.S.) Audouin 1825 (Crustacea; Isopoda terrestria)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "174",
+      "epage": "176",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165222",
+      "created": "2009-12-23 18:23:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1526",
+          "lastname": "Vandel",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        12165222,
+        12165223,
+        12165224
+      ]
+    },
+    {
+      "reference_id": "2459",
+      "genre": "article",
+      "title": "On the authorship and date of publication of the generic name Tylos (Class Crustacea, Order Isopoda.)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "177",
+      "epage": "178",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165225",
+      "created": "2009-12-23 18:24:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165225,
+        12165226
+      ]
+    },
+    {
+      "reference_id": "2447",
+      "genre": "article",
+      "title": "Support for the proposal for the retention of the name Ligia Fabricius, 1798 (Class Crustacea, Order Decapoda) submitted by the late Miss A. M. Buitendijk and Dr. L. B. Holthuis",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "180",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165228",
+      "created": "2009-12-23 18:23:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1528",
+          "lastname": "Strouhal",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12165228
+      ]
+    },
+    {
+      "reference_id": "2460",
+      "genre": "article",
+      "title": "Objection to Dr. L. B. Holthuis' proposals relating to the names \"Crangon\" Fabricius, 1798, and \"Alphaeus\" Fabricius, 1798 (Class Crustacea, Order Decapoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "181",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165229",
+      "created": "2009-12-23 18:24:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1532",
+          "lastname": "Hale",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        12165229
+      ]
+    },
+    {
+      "reference_id": "2461",
+      "genre": "article",
+      "title": "Support for applications submitted by Dr. L. B. Holthuis in regard to the names of five genera of the class Crustacea",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "183",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165231",
+      "created": "2009-12-23 18:24:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "993",
+          "lastname": "Gordon",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        12165231
+      ]
+    },
+    {
+      "reference_id": "2448",
+      "genre": "article",
+      "title": "Objection to the proposal that the plenary powers should be used to validate the names Crangon Fabricius, 1798, and Alpheus Fabricius, 1798 (Class Crustacea, Order Decapoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "184",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165232",
+      "created": "2009-12-23 18:23:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1529",
+          "lastname": "Stevens",
+          "forename": "B A"
+        }
+      ],
+      "bhl_pages": [
+        12165232
+      ]
+    },
+    {
+      "reference_id": "2419",
+      "genre": "article",
+      "title": "Objection to M. Gilbert Ranson's proposal relating to the name Gryphaea Lamarck, 1801 (Class Pelecypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "185",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165233",
+      "created": "2009-12-23 18:23:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1458",
+          "lastname": "Sylvester-Bradley",
+          "forename": "P C"
+        }
+      ],
+      "bhl_pages": [
+        12165233
+      ]
+    },
+    {
+      "reference_id": "2429",
+      "genre": "article",
+      "title": "Support for M. Gilbert Ranson's proposal relating to the generic name Gryphaea Lamarck, 1819 (Class Pelecypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "187",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165235",
+      "created": "2009-12-23 18:23:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1520",
+          "lastname": "Lecointre",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        12165235
+      ]
+    },
+    {
+      "reference_id": "2420",
+      "genre": "article",
+      "title": "Support for M. Ranson's proposal relating to the name Gryphaea Lamarck, 1819 (Class Pelecypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "188",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165236",
+      "created": "2009-12-23 18:23:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1514",
+          "lastname": "Roger",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12165236
+      ]
+    },
+    {
+      "reference_id": "2426",
+      "genre": "article",
+      "title": "On M. Gilbert Ranson's proposal relating to the generic name Gryphaea Lamarck, 1801 (Class Pele- cypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "191",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165239",
+      "created": "2009-12-23 18:23:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1517",
+          "lastname": "Mermod",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        12165239
+      ]
+    },
+    {
+      "reference_id": "2436",
+      "genre": "article",
+      "title": "Support for M. Gilbert Ranson's proposal relating to the generic name Gryphaea Lamarck, 1819 (Class Pelecypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "192",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165240",
+      "created": "2009-12-23 18:23:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1523",
+          "lastname": "Cole",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        12165240
+      ]
+    },
+    {
+      "reference_id": "2453",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to validate the generic name Acanthephyra A. Milne Edwards, 1881 (Class Crustacea, Order Decapoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "195",
+      "epage": "197",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165249",
+      "created": "2009-12-23 18:24:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165249,
+        12165250,
+        12165251
+      ]
+    },
+    {
+      "reference_id": "2418",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to validate the trivial name knorri Voltz, 1828 (as published in the combination Ostrea knorrii (Class Pelecypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "201",
+      "epage": "202",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165255",
+      "created": "2009-12-23 18:23:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1458",
+          "lastname": "Sylvester-Bradley",
+          "forename": "P C"
+        }
+      ],
+      "bhl_pages": [
+        12165255,
+        12165256
+      ]
+    },
+    {
+      "reference_id": "2427",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to preserve the use of the name Antalis Herrmannsen, 1846 (Class Scaphopoda) in its accustomed sense",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "203",
+      "epage": "204",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165257",
+      "created": "2009-12-23 18:23:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1518",
+          "lastname": "Ludbrook",
+          "forename": "N H"
+        },
+        {
+          "id": "1519",
+          "lastname": "Emerson",
+          "forename": "W K"
+        }
+      ],
+      "bhl_pages": [
+        12165257,
+        12165258
+      ]
+    },
+    {
+      "reference_id": "2422",
+      "genre": "article",
+      "title": "Observations sur la question de l'esp\u00e8ce type du genre \"Gryphaea\" Lamarck, 1801",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "205",
+      "epage": "206",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165259",
+      "created": "2009-12-23 18:23:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2195",
+          "lastname": "Ranson",
+          "forename": "Gilbert"
+        }
+      ],
+      "bhl_pages": [
+        12165259,
+        12165260
+      ]
+    },
+    {
+      "reference_id": "2479",
+      "genre": "article",
+      "title": "On Mr. G. H. E. Hopkins' proposal relating to the status to be accorded to spelled-out letters or numerals when used as names",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "209",
+      "epage": "210",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165263",
+      "created": "2009-12-23 18:24:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1345",
+          "lastname": "Baily",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        12165263,
+        12165264
+      ]
+    },
+    {
+      "reference_id": "2428",
+      "genre": "article",
+      "title": "Support for Dr. Henning Lemche's proposals relat-ing to the generic name Scaphander Montfort, 1810 (Class Gastropoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "211",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165265",
+      "created": "2009-12-23 18:23:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1518",
+          "lastname": "Ludbrook",
+          "forename": "N H"
+        }
+      ],
+      "bhl_pages": [
+        12165265
+      ]
+    },
+    {
+      "reference_id": "2434",
+      "genre": "article",
+      "title": "Support for Dr. W. J. Arkell's proposals relating to the trivial names virgula Deshayes, 1831 (as published in the combination Gryphaea virgula) and asper Lamarck, 1819 (as published in the combination Pecten asper) (Class Pelecypoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "212",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165266",
+      "created": "2009-12-23 18:23:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1502",
+          "lastname": "Dollfus",
+          "forename": "R P"
+        }
+      ],
+      "bhl_pages": [
+        12165266
+      ]
+    },
+    {
+      "reference_id": "2465",
+      "genre": "article",
+      "title": "Unterdr\u00fcckung einiger Namen f\u00fcr fossile Tiere in Linnaeus, 1768, und in sp\u00e4teren Ausgaben Linnaeus' scher Werke",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "213",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165267",
+      "created": "2009-12-23 18:24:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1535",
+          "lastname": "Richter",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12165267
+      ]
+    },
+    {
+      "reference_id": "2514",
+      "genre": "article",
+      "title": "Support for the Schmidt-Conant proposals relating to the trivial name sirtalis Linnaeus, 1758 (as published in the combination Coluber sirtalis (Class Reptilia)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "214",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165268",
+      "created": "2009-12-23 18:25:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1224",
+          "lastname": "Mertens",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12165268
+      ]
+    },
+    {
+      "reference_id": "2509",
+      "genre": "article",
+      "title": "Support for the proposal relating to the trivial name sirtalis Linnaeus, 1758 (as published in the combination Coluber sirtalis) (Class Reptilia) submitted by Dr. Herndon G. Dowling",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "215",
+      "epage": "216",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165269",
+      "created": "2009-12-23 18:25:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        12165269,
+        12165270
+      ]
+    },
+    {
+      "reference_id": "2518",
+      "genre": "article",
+      "title": "Renewed support for the proposal relating to the trivial name sirtalis Linnaeus, 1758 (as published in the combination Coluber sirtalis) (Class Reptilia) submitted by Dr. Karl P. Schmidt and Mr. Roger Conant",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "216",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165270",
+      "created": "2009-12-23 18:25:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "742",
+          "lastname": "Goin",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        12165270
+      ]
+    },
+    {
+      "reference_id": "2517",
+      "genre": "article",
+      "title": "On the scope of the plenary powers bestowed upon the International Commission on Zoological Nomenclature by the International Congress of Zoology, with special reference to the problem presented by the trivial name sirtalis Linnaeus, 1758 (as published i",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "217",
+      "epage": "218",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165271",
+      "created": "2009-12-23 18:25:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165271,
+        12165272
+      ]
+    },
+    {
+      "reference_id": "2463",
+      "genre": "article",
+      "title": "Support for the proposals relating to the generic names \"Lysiosquilla\" Dana, 1852, and \"Odontodactylus\" Bigolow, 1893 (Class Crustacea, Order Stomatopoda) submitted by Dr. L. B. Holthuis",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "220",
+      "epage": "221",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165274",
+      "created": "2009-12-23 18:24:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1533",
+          "lastname": "Bigelow",
+          "forename": "R P"
+        }
+      ],
+      "bhl_pages": [
+        12165274,
+        12165275
+      ]
+    },
+    {
+      "reference_id": "2466",
+      "genre": "article",
+      "title": "Mikrokopie soll nicht als veroffentlichung im Sinne von Artikel 25 der Regeln angesehen werden",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "223",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165277",
+      "created": "2009-12-23 18:24:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1224",
+          "lastname": "Mertens",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12165277
+      ]
+    },
+    {
+      "reference_id": "2513",
+      "genre": "article",
+      "title": "Support for the proposed use of the plenary powers to suppress the trivial name caesius Cloquet, 1818 (as published in the binominal combination Coluber caesius) (Class Reptilia, Order Squamata)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "224",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165278",
+      "created": "2009-12-23 18:25:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1224",
+          "lastname": "Mertens",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12165278
+      ]
+    },
+    {
+      "reference_id": "2431",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus Ancylus Muller, 1774 (Class Gastropoda) in harmony with established nomenclatorial practice",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "227",
+      "epage": "230",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165285",
+      "created": "2009-12-23 18:23:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1365",
+          "lastname": "Hubendick",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        12165285,
+        12165286,
+        12165287,
+        12165288
+      ]
+    },
+    {
+      "reference_id": "2430",
+      "genre": "article",
+      "title": "Proposed addition of the name Ancylastrum Bourguignat, 1853 (Class Gastropoda) to the \" Official List of Generic Names in Zoology.\"",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "230",
+      "epage": "233",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165288",
+      "created": "2009-12-23 18:23:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1365",
+          "lastname": "Hubendick",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        12165288,
+        12165289,
+        12165290,
+        12165291
+      ]
+    },
+    {
+      "reference_id": "2516",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to preserve for the Western Diamond Rattlesnake the trivial name \"atrox\" Baird & Girard, 1853 (as published in the combination \"Crotalus atrox\") by suppressing the trivial name \"cinereous\"",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "234",
+      "epage": "236",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165292",
+      "created": "2009-12-23 18:25:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1303",
+          "lastname": "Klauber",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        12165292,
+        12165293,
+        12165294
+      ]
+    },
+    {
+      "reference_id": "2515",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to preserve the trivial name \"polysticta\" Cope, 1865 (as published in the combination \"Caudisona polysticta\" for the Mexican Lance-headed Rattlesnake, by suppressing the trivial name \"multimacul",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "236",
+      "epage": "238",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165294",
+      "created": "2009-12-23 18:25:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1303",
+          "lastname": "Klauber",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        12165294,
+        12165295,
+        12165296
+      ]
+    },
+    {
+      "reference_id": "2437",
+      "genre": "article",
+      "title": "Support for the proposal submitted by Mr. C. W. Wright in regard to the nominal genus Hoplites Neumayr,1875(Class Cephalopoda, Order Ammonoidea) and to the designation of its type species",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "241",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165299",
+      "created": "2009-12-23 18:23:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1427",
+          "lastname": "Casey",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12165299
+      ]
+    },
+    {
+      "reference_id": "2432",
+      "genre": "article",
+      "title": "Comment on Mr. Francis Hemming's note on an issue raised in the proposals submitted by Dr. W. J. Arkell regarding the names Arieticeras Sequenza, 1885, and Seguenziceras Levi, 1896. (Class Cephalopoda, Order Ammonoidea.)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "245",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165303",
+      "created": "2009-12-23 18:23:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1521",
+          "lastname": "Holder",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12165303
+      ]
+    },
+    {
+      "reference_id": "2438",
+      "genre": "article",
+      "title": "On the proposal submitted by Dr. W. J. Arkell in relation to the generic name \"Arieticeras\" Quenstedt,1883(Class Cephalopoda, Order Ammonoidea)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "246",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165304",
+      "created": "2009-12-23 18:23:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1345",
+          "lastname": "Baily",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        12165304
+      ]
+    },
+    {
+      "reference_id": "2476",
+      "genre": "article",
+      "title": "Further considerations on the question whether it should be an essential condition to the availability of a name that the author by whom it was published intended that the name in question should be used as a scientific name in zoology",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "247",
+      "epage": "248",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165305",
+      "created": "2009-12-23 18:24:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165305,
+        12165306
+      ]
+    },
+    {
+      "reference_id": "2467",
+      "genre": "article",
+      "title": "Comments on Dr. Muir-Wood's two proposals for an extension of the grounds upon which names differing in their orthography should be regarded as identical for the purposes of the law of homonymy",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "250",
+      "epage": "251",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165308",
+      "created": "2009-12-23 18:24:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1266",
+          "lastname": "Key",
+          "forename": "K H L"
+        }
+      ],
+      "bhl_pages": [
+        12165308,
+        12165309
+      ]
+    },
+    {
+      "reference_id": "2468",
+      "genre": "article",
+      "title": "On the question raised by Dr. Helen Muir-Wood whether two names differing from one another only by the presence or absence respectively of a diacritic mark should be regarded as homonyms of one another",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "252",
+      "epage": "253",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165310",
+      "created": "2009-12-23 18:24:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1536",
+          "lastname": "Hering",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        12165310,
+        12165311
+      ]
+    },
+    {
+      "reference_id": "2464",
+      "genre": "article",
+      "title": "On the significance to be attached for the purpose of the law of homonymy to the presence or absence of a diacribic mark",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "253",
+      "epage": "254",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165311",
+      "created": "2009-12-23 18:24:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1534",
+          "lastname": "Stormor",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12165311,
+        12165312
+      ]
+    },
+    {
+      "reference_id": "2478",
+      "genre": "article",
+      "title": "On the use of diacritic marks over letters in words used as zoological names",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "254",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165312",
+      "created": "2009-12-23 18:24:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1345",
+          "lastname": "Baily",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        12165312
+      ]
+    },
+    {
+      "reference_id": "2439",
+      "genre": "article",
+      "title": "On the problem of the status of names published by Scopoli in 1777 in his Introductio ad Historiam naturalem",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "255",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165313",
+      "created": "2009-12-23 18:23:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1140",
+          "lastname": "Myers",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        12165313
+      ]
+    },
+    {
+      "reference_id": "2508",
+      "genre": "article",
+      "title": "Support for the proposals submitted by Dr. Laurence M. Klauber regarding the trivial names atrox Baird & Girard 1853 (as published in the combination Crotalus atrox and polysticta Cope, 1865 (as published in the combination Caudisona polysticta) resp",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "256",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165314",
+      "created": "2009-12-23 18:25:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        12165314
+      ]
+    },
+    {
+      "reference_id": "2440",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus HeterandriaAgassiz, 1853 (Class Osteichthyes, Order Cyprinodontida) in harmony with current usage",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "263",
+      "epage": "265",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165327",
+      "created": "2009-12-23 18:23:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1471",
+          "lastname": "Bailey",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        12165327,
+        12165328,
+        12165329
+      ]
+    },
+    {
+      "reference_id": "2512",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to suppress the trivial name \"tereticauda\" Eschscholtz, 1833 (as published in the combination \"Triton tereticauda\") thus rendering available the trivial name \"lugubris\" Hollowell, 1849 (as published in th",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "267",
+      "epage": "268",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165331",
+      "created": "2009-12-23 18:25:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1081",
+          "lastname": "Schmidt",
+          "forename": "K P"
+        }
+      ],
+      "bhl_pages": [
+        12165331,
+        12165332
+      ]
+    },
+    {
+      "reference_id": "2452",
+      "genre": "article",
+      "title": "Proposed validation under the plenary powers of the generic name Euryrhynchus Miers 1877 (Class Crustacea, Order Decapoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "269",
+      "epage": "270",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165333",
+      "created": "2009-12-23 18:24:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165333,
+        12165334
+      ]
+    },
+    {
+      "reference_id": "2451",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate \"Palaemon pinnophylax\" Otto, 1821, as the type species of the genus \"Pontonia\" Latreille, 1829 (Class Crustacea, Order Decapoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "271",
+      "epage": "272",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165335",
+      "created": "2009-12-23 18:24:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165335,
+        12165336
+      ]
+    },
+    {
+      "reference_id": "2435",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to conserve specific trivial names of New Zealand mollusca published in Thomas Martyn's \"Universal Conchologist\" (1784:)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "273",
+      "epage": "277",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165337",
+      "created": "2009-12-23 18:23:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1180",
+          "lastname": "Dell",
+          "forename": "R K"
+        },
+        {
+          "id": "1181",
+          "lastname": "Fleming",
+          "forename": "C A"
+        },
+        {
+          "id": "1522",
+          "lastname": "Laws",
+          "forename": "C R"
+        },
+        {
+          "id": "1182",
+          "lastname": "Marwick",
+          "forename": "J"
+        },
+        {
+          "id": "1185",
+          "lastname": "Powell",
+          "forename": "A W B"
+        }
+      ],
+      "bhl_pages": [
+        12165337,
+        12165338,
+        12165339,
+        12165340,
+        12165341
+      ]
+    },
+    {
+      "reference_id": "2417",
+      "genre": "article",
+      "title": "Comment on Dr Bengt Hubendick's proposal relating to the type species of the genus Ancylus Muller (O.F.), 1774 (Class Gastropoda)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "286",
+      "epage": "288",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165350",
+      "created": "2009-12-23 18:23:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1477",
+          "lastname": "Watson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12165350,
+        12165351,
+        12165352
+      ]
+    },
+    {
+      "reference_id": "2433",
+      "genre": "article",
+      "title": "Supplementary note on the proposal that the generic name Ancylus Muller (O.F.), 1774, and .Acroloxus Beck, 1837 (Class Gastropoda) should be added to the \"Official list of generic names in Zoology\" support for Dr. Bengt Hubendick's recomme",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "288",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165352",
+      "created": "2009-12-23 18:23:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1346",
+          "lastname": "Ellis",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        12165352
+      ]
+    },
+    {
+      "reference_id": "2477",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to suppress for nomenclatorial purposes the catalogue of the collection of animals formed by Martinus Houttuyn prepared under the title \"Animalium Musaei Houttuiniani Index\" in connection with the sale of the collection which took place in 1787",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "292",
+      "epage": "303",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165360",
+      "created": "2009-12-23 18:24:29",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1524",
+          "lastname": "Engel",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12165360,
+        12165361,
+        12165362,
+        12165363,
+        12165364,
+        12165365,
+        12165366,
+        12165367,
+        12165368,
+        12165369,
+        12165370,
+        12165371
+      ]
+    },
+    {
+      "reference_id": "2458",
+      "genre": "article",
+      "title": "Proposed correction of an erroneous entry on the \"Official List of Generic Names in Zoology\" relating to the name Penaeus Weber, 1795 (Class Crustacea, Order Decapoda) (correction of an entry in \"Opinion\" 104)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "318",
+      "epage": "319",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165386",
+      "created": "2009-12-23 18:24:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1476",
+          "lastname": "Hemming",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12165386,
+        12165387
+      ]
+    },
+    {
+      "reference_id": "2450",
+      "genre": "article",
+      "title": "Support for Mr. Francis Hemming's proposal for the correction in the \"Official List of Generic Names in Zoology\" of the erroneous entry in \"Opinion\" 104 relating to the name Penaeus Fabricius, 1798 (Class Crustacea, Order Decapod",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "320",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165388",
+      "created": "2009-12-23 18:23:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165388
+      ]
+    },
+    {
+      "reference_id": "59408",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to designate a type species for the genus \"Hymenocera\" Latreille, 1819 (class Crustacea, order Decapoda) in harmony with current usage",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "6",
+      "spage": "343",
+      "epage": "345",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165415",
+      "created": "2010-11-21 05:34:56",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12165415,
+        12165416,
+        12165417
+      ]
+    },
+    {
+      "reference_id": "2421",
+      "genre": "article",
+      "title": "On the generic names Plotia Roeding, 1798 and Pyramidella Lamarck, 1799, and the proposed validation under plenary powers of the generic name Pyramidella Lamarck, 1799 (Class Gastropoda, sub-class Prosobranchia)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "346",
+      "epage": "347",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165418",
+      "created": "2009-12-23 18:23:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1151",
+          "lastname": "Rehder",
+          "forename": "H A"
+        },
+        {
+          "id": "1478",
+          "lastname": "Forcart",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12165418,
+        12165419
+      ]
+    },
+    {
+      "reference_id": "103743",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to suppress the generic name \"Trichopsylla\" Kolenati, 1863 (class Insecta, order Siphonaptera) for the purposes of Article 25 but not for those of Article 34",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "6",
+      "spage": "349",
+      "epage": "352",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165421",
+      "created": "2012-05-25 20:36:10",
+      "updated": "2012-05-25 20:36:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1041",
+          "lastname": "Hopkins",
+          "forename": "G H E"
+        }
+      ],
+      "bhl_pages": [
+        12165421,
+        12165422,
+        12165423,
+        12165424
+      ]
+    },
+    {
+      "reference_id": "2519",
+      "genre": "article",
+      "title": "Proposed determination under the plenary powers of the species to which the trivial name simus Linnaeus, 1767 (As published in the binominal combination Coluber simus) (Class Reptilia) is to be applied",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "354",
+      "epage": "355",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165426",
+      "created": "2009-12-23 18:25:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1540",
+          "lastname": "Edgren",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        12165426,
+        12165427
+      ]
+    },
+    {
+      "reference_id": "2425",
+      "genre": "article",
+      "title": "Proposed addition to the \"Official List of Generic Names in Zoology \" of the name Munsteroceras Hyatt, 1884 (Class Cephalopoda, Order Ammonoidea), a corrected form of the name Munstroceras",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "356",
+      "epage": "357",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165428",
+      "created": "2009-12-23 18:23:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1516",
+          "lastname": "Miller",
+          "forename": "A K"
+        }
+      ],
+      "bhl_pages": [
+        12165428,
+        12165429
+      ]
+    },
+    {
+      "reference_id": "2424",
+      "genre": "article",
+      "title": "Proposed acceptance of the emendation to Sandbergeroceras of the generic name Sandbergeoceras Hyatt1884(Class Cephalopoda, Order Ammonoidea); and the establishment of Goniatites tuberculosocostatus G. and P. Sandberger, 1850, as its type species",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "357",
+      "epage": "358",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165429",
+      "created": "2009-12-23 18:23:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1516",
+          "lastname": "Miller",
+          "forename": "A K"
+        }
+      ],
+      "bhl_pages": [
+        12165429,
+        12165430
+      ]
+    },
+    {
+      "reference_id": "2443",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to validate the generic name Mellita as from Agassiz, 1841 (Class Echinoidea) for use in its accustomed sense",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "359",
+      "epage": "360",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165431",
+      "created": "2009-12-23 18:23:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1525",
+          "lastname": "Durham",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        12165431,
+        12165432
+      ]
+    },
+    {
+      "reference_id": "2520",
+      "genre": "article",
+      "title": "Support for the proposals submitted by Dr. Laurence M. Klauber regarding the trivial names \"atrox\" Baird & Girard, 1853 (as published in the combination \"Crotalus atrox\") and \"polysticta\" Cope, 1865 (as published in the",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "6",
+      "spage": "360",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0007-5167",
+      "PageID": "12165432",
+      "created": "2009-12-23 18:25:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1541",
+          "lastname": "Bogert",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        12165432
+      ]
+    }
+  ]
+}

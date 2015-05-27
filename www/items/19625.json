@@ -1,0 +1,33 @@
+{
+  "ItemID": "19625",
+  "FullTitle": "Magazine of natural history and journal of zoology, botany, mineralogy, geology and meteorology  ",
+  "VolumeInfo": "7",
+  "articles": [
+    {
+      "reference_id": "71160",
+      "genre": "article",
+      "title": "Cordulia Curtisii Dale, a species hitherto undescribed, characterised",
+      "secondary_title": "Magazine Natural History and Journal Zoology, Botany [...]",
+      "volume": "7",
+      "spage": "60",
+      "epage": "61",
+      "year": "1834",
+      "date": "1834-00-00",
+      "PageID": "2351547",
+      "created": "2011-06-03 18:00:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40805",
+          "lastname": "Dale",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        2351547,
+        2351546
+      ]
+    }
+  ]
+}

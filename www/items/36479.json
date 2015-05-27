@@ -1,0 +1,132 @@
+{
+  "ItemID": "36479",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 55 = 3rd ser. v.5 1919",
+  "articles": [
+    {
+      "reference_id": "73658",
+      "genre": "article",
+      "title": "A new British heteropezine fly",
+      "secondary_title": "Ent. mon. Mag",
+      "volume": "55",
+      "spage": "103",
+      "epage": "105",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-8908",
+      "PageID": "9263807",
+      "created": "2011-06-04 09:32:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        9263807,
+        9263808,
+        9263809
+      ]
+    },
+    {
+      "reference_id": "72330",
+      "genre": "article",
+      "title": "Odonata from Mesopotamia [Part 1]",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "55",
+      "spage": "143",
+      "epage": "151",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1568052",
+      "PageID": "9263851",
+      "created": "2011-06-04 01:25:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45455",
+          "lastname": "Morton",
+          "forename": "K J"
+        }
+      ],
+      "bhl_pages": [
+        9263851,
+        9263852,
+        9263853,
+        9263854,
+        9263855,
+        9263856,
+        9263857,
+        9263858,
+        9263859
+      ]
+    },
+    {
+      "reference_id": "71965",
+      "genre": "article",
+      "title": "Notes on the Coleoptera of British Guiana",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "55",
+      "spage": "264",
+      "epage": "272",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1568052",
+      "PageID": "9264010",
+      "created": "2011-06-03 23:52:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46918",
+          "lastname": "Bodkin",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9264010,
+        9264011,
+        9264012,
+        9264013,
+        9264014,
+        9264015,
+        9264016,
+        9264017,
+        9264018
+      ]
+    },
+    {
+      "reference_id": "71872",
+      "genre": "article",
+      "title": "A new sycophagine (Agaonidae-Chalcidoidea) genus and species from the Gold Coast",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "55",
+      "spage": "274",
+      "epage": "277",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1568052",
+      "PageID": "9264026",
+      "created": "2011-06-03 23:27:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17708",
+          "lastname": "Waterston",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9264026,
+        9264027,
+        9264028,
+        9264029
+      ]
+    }
+  ]
+}

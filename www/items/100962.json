@@ -1,0 +1,55 @@
+{
+  "ItemID": "100962",
+  "FullTitle": "Bulletin of the British Ornithologists' Club.",
+  "VolumeInfo": "v. 35-37 1914-17",
+  "articles": [
+    {
+      "reference_id": "105041",
+      "genre": "article",
+      "title": "Notes on the genus Sula",
+      "secondary_title": "Bulletin of The British Ornithologists' Club",
+      "volume": "35",
+      "spage": "41",
+      "epage": "45",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0007-1595",
+      "PageID": "32439489",
+      "created": "2012-07-01 16:11:30",
+      "updated": "2012-07-01 16:11:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        32439489,
+        32439490,
+        32439491,
+        32439492,
+        32439493
+      ]
+    },
+    {
+      "reference_id": "105065",
+      "genre": "article",
+      "title": "Alaemon alaudipes boavistae subsp. n",
+      "secondary_title": "Bulletin of The British Ornithologists' Club",
+      "volume": "37",
+      "spage": "56",
+      "epage": "56",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0007-1595",
+      "PageID": "32439798",
+      "created": "2012-07-01 16:16:12",
+      "updated": "2012-07-01 16:16:12",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        32439798
+      ]
+    }
+  ]
+}

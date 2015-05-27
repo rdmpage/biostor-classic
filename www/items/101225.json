@@ -1,0 +1,105 @@
+{
+  "ItemID": "101225",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "t.3 (1834)",
+  "articles": [
+    {
+      "reference_id": "69517",
+      "genre": "article",
+      "title": "Notice sur les genres d'Hymenopt\u00e8res Lithurgus et Phylloxera",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "3",
+      "spage": "219",
+      "epage": "224",
+      "year": "1834",
+      "date": "1834-00-00",
+      "issn": "0037-9271",
+      "PageID": "32515362",
+      "created": "2011-06-01 10:32:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46309",
+          "lastname": "De Fonscolombe",
+          "forename": "Boyer"
+        }
+      ],
+      "bhl_pages": [
+        32515362,
+        32515363,
+        32515364,
+        32515365,
+        32515366,
+        32515367
+      ]
+    },
+    {
+      "reference_id": "69442",
+      "genre": "article",
+      "title": "Observations sur divers parasites",
+      "secondary_title": "Annales de la Societe Entomologique de France",
+      "volume": "3",
+      "spage": "327",
+      "epage": "336",
+      "year": "1834",
+      "date": "1834-00-00",
+      "issn": "0037-9271",
+      "PageID": "32515474",
+      "created": "2011-06-01 08:58:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46279",
+          "lastname": "Boudier",
+          "forename": "H P"
+        }
+      ],
+      "bhl_pages": [
+        32515474,
+        32515475,
+        32515476,
+        32515477,
+        32515478,
+        32515479,
+        32515480,
+        32515481,
+        32515482,
+        32515483
+      ]
+    },
+    {
+      "reference_id": "72521",
+      "genre": "article",
+      "title": "M\u00e9moire sur un nouveau genre d'araneide de l'ordre des Pulmonaires",
+      "secondary_title": "Ann. Soc. ent. Fr",
+      "volume": "3",
+      "spage": "359",
+      "epage": "365",
+      "year": "1834",
+      "date": "1834-00-00",
+      "issn": "0037-9271",
+      "PageID": "32515506",
+      "created": "2011-06-04 02:20:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41988",
+          "lastname": "Lucas",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        32515506,
+        32515507,
+        32515508,
+        32515509,
+        32515510,
+        32515511,
+        32515512
+      ]
+    }
+  ]
+}

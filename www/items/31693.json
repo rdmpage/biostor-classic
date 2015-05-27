@@ -1,0 +1,68 @@
+{
+  "ItemID": "31693",
+  "FullTitle": "The Journal of the Quekett Microscopical Club.",
+  "VolumeInfo": "v. 6, Index v. 1-6 (1879-1881)",
+  "articles": [
+    {
+      "reference_id": "71428",
+      "genre": "article",
+      "title": "On an undescribed British sponge of the genus Rhaphiodesma Bwk (R. minima)",
+      "secondary_title": "Journal of the Quekett Microscopical Club",
+      "volume": "6",
+      "spage": "97",
+      "epage": "104",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "1763306",
+      "PageID": "7255752",
+      "created": "2011-06-03 19:51:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46831",
+          "lastname": "Waller",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        7255752,
+        7255751,
+        7255750,
+        7255749,
+        7255748,
+        7255747,
+        7255746,
+        7255745
+      ]
+    },
+    {
+      "reference_id": "72099",
+      "genre": "article",
+      "title": "On an undescribed sponge of the genus Polymastia from Honduras",
+      "secondary_title": "Journal of the Quekett Microscopical Club",
+      "volume": "6",
+      "spage": "302",
+      "epage": "304",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "1763306",
+      "PageID": "7255913",
+      "created": "2011-06-04 00:30:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46951",
+          "lastname": "Priest",
+          "forename": "B W"
+        }
+      ],
+      "bhl_pages": [
+        7255913,
+        7255914,
+        7255915
+      ]
+    }
+  ]
+}

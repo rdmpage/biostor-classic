@@ -1,0 +1,909 @@
+{
+  "ItemID": "46777",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.32 1975-1976",
+  "articles": [
+    {
+      "reference_id": "63261",
+      "genre": "article",
+      "title": "Panicum in Nicaragua",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "1",
+      "epage": "30",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971280",
+      "created": "2011-01-26 21:51:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43461",
+          "lastname": "Seymour",
+          "forename": "F C"
+        }
+      ],
+      "bhl_pages": [
+        12971280,
+        12971279,
+        12971278,
+        12971277,
+        12971276,
+        12971275,
+        12971274,
+        12971273,
+        12971272,
+        12971271,
+        12971270,
+        12971269,
+        12971268,
+        12971267,
+        12971266,
+        12971233,
+        12971234,
+        12971235,
+        12971236,
+        12971237,
+        12971238,
+        12971239,
+        12971240,
+        12971241,
+        12971242,
+        12971243,
+        12971244,
+        12971245,
+        12971246,
+        12971247
+      ]
+    },
+    {
+      "reference_id": "62917",
+      "genre": "article",
+      "title": "Emilia fosbergii, a new species",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "33",
+      "epage": "34",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971250",
+      "created": "2011-01-26 21:36:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43570",
+          "lastname": "Nicolson",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        12971250,
+        12971251
+      ]
+    },
+    {
+      "reference_id": "62390",
+      "genre": "article",
+      "title": "A revision of the genus Archibaccharis Heering (Compositae--Astereae)",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "81",
+      "epage": "194.",
+      "issn": "0031-9430",
+      "PageID": "12971323",
+      "created": "2011-01-26 21:00:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43485",
+          "lastname": "Jackson",
+          "forename": "J D"
+        }
+      ],
+      "bhl_pages": [
+        12971323,
+        12971324,
+        12971325,
+        12971326,
+        12971327,
+        12971328,
+        12971329,
+        12971330,
+        12971331,
+        12971332,
+        12971333,
+        12971334,
+        12971335,
+        12971336,
+        12971337,
+        12971338,
+        12971339,
+        12971340,
+        12971341,
+        12971342,
+        12971343,
+        12971344,
+        12971345,
+        12971346,
+        12971347,
+        12971348,
+        12971349,
+        12971350,
+        12971351,
+        12971352,
+        12971353,
+        12971354,
+        12971355,
+        12971356,
+        12971357,
+        12971358,
+        12971359,
+        12971360,
+        12971361,
+        12971362,
+        12971363,
+        12971364,
+        12971365,
+        12971366,
+        12971367,
+        12971368,
+        12971369,
+        12971370,
+        12971371,
+        12971372,
+        12971373,
+        12971374,
+        12971375,
+        12971376,
+        12971377,
+        12971378,
+        12971379,
+        12971380,
+        12971381,
+        12971382,
+        12971383,
+        12971384,
+        12971385,
+        12971386,
+        12971387,
+        12971388,
+        12971389,
+        12971390,
+        12971391,
+        12971392,
+        12971393,
+        12971394,
+        12971395,
+        12971396,
+        12971397,
+        12971398,
+        12971399,
+        12971400,
+        12971401,
+        12971402,
+        12971403,
+        12971404,
+        12971405,
+        12971406,
+        12971407,
+        12971408,
+        12971409,
+        12971410,
+        12971411,
+        12971412,
+        12971413,
+        12971414,
+        12971415,
+        12971416,
+        12971417,
+        12971418,
+        12971419,
+        12971420,
+        12971421,
+        12971422,
+        12971423,
+        12971424,
+        12971425,
+        12971426,
+        12971427,
+        12971428,
+        12971429,
+        12971430,
+        12971431,
+        12971432,
+        12971433,
+        12971434,
+        12971435,
+        12971436
+      ]
+    },
+    {
+      "reference_id": "62279",
+      "genre": "article",
+      "title": "Bark characters of some Bahama trees and shrubs",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "201",
+      "epage": "213",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971445",
+      "created": "2011-01-26 20:27:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43165",
+          "lastname": "Gillis",
+          "forename": "W T"
+        },
+        {
+          "id": "43186",
+          "lastname": "Proctor",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        12971445,
+        12971446,
+        12971447,
+        12971448,
+        12971449,
+        12971450,
+        12971451,
+        12971452,
+        12971453,
+        12971454,
+        12971455,
+        12971456,
+        12971457
+      ]
+    },
+    {
+      "reference_id": "63348",
+      "genre": "article",
+      "title": "Cytogeography of Dicentra eximia",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "214",
+      "epage": "217",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971458",
+      "created": "2011-01-26 21:55:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43664",
+          "lastname": "Stern",
+          "forename": "K R"
+        }
+      ],
+      "bhl_pages": [
+        12971458,
+        12971459,
+        12971460,
+        12971461
+      ]
+    },
+    {
+      "reference_id": "62749",
+      "genre": "article",
+      "title": "Additional notes on the genus Citharexylum. XI",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "218",
+      "epage": "227",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971462",
+      "created": "2011-01-26 21:28:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        12971462,
+        12971463,
+        12971464,
+        12971465,
+        12971466,
+        12971467,
+        12971468,
+        12971469,
+        12971470,
+        12971471
+      ]
+    },
+    {
+      "reference_id": "62704",
+      "genre": "article",
+      "title": "Additional notes on the genus Pitraea. III",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "227",
+      "epage": "232",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971471",
+      "created": "2011-01-26 21:24:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        12971471,
+        12971472,
+        12971473,
+        12971474,
+        12971475,
+        12971476
+      ]
+    },
+    {
+      "reference_id": "62750",
+      "genre": "article",
+      "title": "Additional notes on the genus Cornutia. III",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "232",
+      "epage": "245",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971476",
+      "created": "2011-01-26 21:28:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        12971476,
+        12971477,
+        12971478,
+        12971479,
+        12971480,
+        12971481,
+        12971482,
+        12971483,
+        12971484,
+        12971485,
+        12971486,
+        12971487,
+        12971488,
+        12971489
+      ]
+    },
+    {
+      "reference_id": "62480",
+      "genre": "article",
+      "title": "Studies in the Eupatorieae (Asteraceae)---CL. Limits of the genus Koanophyllon",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "252",
+      "epage": "267",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971496",
+      "created": "2011-01-26 21:06:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43490",
+          "lastname": "King",
+          "forename": "R M"
+        },
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12971496,
+        12971497,
+        12971498,
+        12971499,
+        12971500,
+        12971501,
+        12971502,
+        12971503,
+        12971504,
+        12971505,
+        12971506,
+        12971507,
+        12971508,
+        12971509,
+        12971510,
+        12971511
+      ]
+    },
+    {
+      "reference_id": "62520",
+      "genre": "article",
+      "title": "Studies in the Eupatorieae (Asteraceae)---CLVI. Various new combinations",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "283",
+      "epage": "285",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971527",
+      "created": "2011-01-26 21:09:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43490",
+          "lastname": "King",
+          "forename": "R M"
+        },
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12971527,
+        12971528,
+        12971529
+      ]
+    },
+    {
+      "reference_id": "63622",
+      "genre": "article",
+      "title": "A new Costa Rican Clidemia",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "286",
+      "epage": "287",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971530",
+      "created": "2011-01-26 22:06:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9237",
+          "lastname": "Williams",
+          "forename": "L O"
+        }
+      ],
+      "bhl_pages": [
+        12971530,
+        12971531
+      ]
+    },
+    {
+      "reference_id": "62254",
+      "genre": "article",
+      "title": "Parasicyos maculatus, a new genus and species of Cucurbitaceae from Guatemala",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "289",
+      "epage": "290",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971535",
+      "created": "2011-01-26 20:25:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43400",
+          "lastname": "Dieterle",
+          "forename": "J V A"
+        }
+      ],
+      "bhl_pages": [
+        12971535,
+        12971536
+      ]
+    },
+    {
+      "reference_id": "62616",
+      "genre": "article",
+      "title": "New combinations in the Coreopsidinae",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "291",
+      "epage": "298",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971537",
+      "created": "2011-01-26 21:16:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43522",
+          "lastname": "Melchert",
+          "forename": "T E"
+        }
+      ],
+      "bhl_pages": [
+        12971537,
+        12971538,
+        12971539,
+        12971540,
+        12971541,
+        12971542,
+        12971543,
+        12971544
+      ]
+    },
+    {
+      "reference_id": "63041",
+      "genre": "article",
+      "title": "Betula uber (Ashe) Fernald rediscoverd in VIrginia",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "305",
+      "epage": "311",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971551",
+      "created": "2011-01-26 21:40:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43592",
+          "lastname": "Reed",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        12971551,
+        12971552,
+        12971553,
+        12971554,
+        12971555,
+        12971556,
+        12971557
+      ]
+    },
+    {
+      "reference_id": "62202",
+      "genre": "article",
+      "title": "Miscellaneous notes on neotropical flora, VIII",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "312",
+      "epage": "326",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971558",
+      "created": "2011-01-26 20:18:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8879",
+          "lastname": "Cuatrecasas",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12971558,
+        12971559,
+        12971560,
+        12971561,
+        12971562,
+        12971563,
+        12971564,
+        12971565,
+        12971566,
+        12971567,
+        12971568,
+        12971569,
+        12971570,
+        12971571,
+        12971572
+      ]
+    },
+    {
+      "reference_id": "63129",
+      "genre": "article",
+      "title": "Studies in the Senecioneae (Asteraceae). VII. Additions to the genus Roldana",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "331",
+      "epage": "332",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971577",
+      "created": "2011-01-26 21:44:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12971577,
+        12971578
+      ]
+    },
+    {
+      "reference_id": "63345",
+      "genre": "article",
+      "title": "The Variability of the Hawaiin Maile (Alyxia olivaeformis), Apocynaceae",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "377",
+      "epage": "386",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971625",
+      "created": "2011-01-26 21:55:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43652",
+          "lastname": "St. John",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12971625,
+        12971626,
+        12971627,
+        12971628,
+        12971629,
+        12971630,
+        12971631,
+        12971632,
+        12971633,
+        12971634
+      ]
+    },
+    {
+      "reference_id": "63352",
+      "genre": "article",
+      "title": "Notes on the genus Matelea (Apocynaceae s.l.)",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "387",
+      "epage": "406",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971635",
+      "created": "2011-01-26 21:55:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43651",
+          "lastname": "Stevens",
+          "forename": "W D"
+        }
+      ],
+      "bhl_pages": [
+        12971635,
+        12971636,
+        12971637,
+        12971638,
+        12971639,
+        12971640,
+        12971641,
+        12971642,
+        12971643,
+        12971644,
+        12971645,
+        12971646,
+        12971647,
+        12971648,
+        12971649,
+        12971650,
+        12971651,
+        12971652,
+        12971653,
+        12971654
+      ]
+    },
+    {
+      "reference_id": "63123",
+      "genre": "article",
+      "title": "A new species of Barnadesia from Ecuador",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "414",
+      "epage": "417",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971662",
+      "created": "2011-01-26 21:44:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12971662,
+        12971663,
+        12971664,
+        12971665
+      ]
+    },
+    {
+      "reference_id": "63124",
+      "genre": "article",
+      "title": "Studies in the Heliantheae (Asteraceae). VI. Additions to the genus, Calea",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "426",
+      "epage": "429",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971674",
+      "created": "2011-01-26 21:44:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12971674,
+        12971675,
+        12971676,
+        12971677
+      ]
+    },
+    {
+      "reference_id": "63142",
+      "genre": "article",
+      "title": "A new name for the moss genus, Thyridium",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "432",
+      "epage": "435",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971680",
+      "created": "2011-01-26 21:44:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12971680,
+        12971681,
+        12971682,
+        12971683
+      ]
+    },
+    {
+      "reference_id": "62954",
+      "genre": "article",
+      "title": "A new species of Funifera (Thymelaeaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "480",
+      "epage": "482",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971730",
+      "created": "2011-01-26 21:37:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43229",
+          "lastname": "Nevling",
+          "forename": "Jr",
+          "suffix": "Lorin"
+        }
+      ],
+      "bhl_pages": [
+        12971730,
+        12971731,
+        12971732
+      ]
+    },
+    {
+      "reference_id": "62752",
+      "genre": "article",
+      "title": "Additional notes on the Eriocaulaceae. LVIII",
+      "secondary_title": "Phytologia",
+      "volume": "32",
+      "spage": "487",
+      "epage": "506",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0031-9430",
+      "PageID": "12971737",
+      "created": "2011-01-26 21:28:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        12971737,
+        12971738,
+        12971739,
+        12971740,
+        12971741,
+        12971742,
+        12971743,
+        12971744,
+        12971745,
+        12971746,
+        12971747,
+        12971748,
+        12971749,
+        12971750,
+        12971751,
+        12971752,
+        12971753,
+        12971754,
+        12971755,
+        12971756
+      ]
+    }
+  ]
+}

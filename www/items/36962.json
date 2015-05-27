@@ -1,0 +1,173 @@
+{
+  "ItemID": "36962",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 3 1880",
+  "articles": [
+    {
+      "reference_id": "69924",
+      "genre": "article",
+      "title": "Zwei neue mitteleurop\u00e4ische Arten der Gattung Lithobius Leach",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "3",
+      "spage": "225",
+      "epage": "226",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0044-5231",
+      "PageID": "9456505",
+      "created": "2011-06-02 07:56:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46420",
+          "lastname": "R.",
+          "forename": "Latzel"
+        }
+      ],
+      "bhl_pages": [
+        9456505,
+        9456506
+      ]
+    },
+    {
+      "reference_id": "49040",
+      "genre": "article",
+      "title": "Diagnoses reptilium et batrachiorum novorum a Carolo Ebenau in insula Nossi-B\u00e9 Madagascariensi lectorum",
+      "secondary_title": "Zool. Anz.",
+      "volume": "3",
+      "spage": "279",
+      "epage": "283",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0044-5231",
+      "PageID": "9456559",
+      "created": "2010-03-21 11:03:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9456559,
+        9456560,
+        9456561,
+        9456562,
+        9456563
+      ]
+    },
+    {
+      "reference_id": "98460",
+      "genre": "article",
+      "title": "Ein neuer Hydroid-Polyp, mit einer neuen Art der Fortpflanzung",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "3",
+      "spage": "352",
+      "epage": "358",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0044-5231",
+      "PageID": "9456632",
+      "created": "2011-11-30 14:19:04",
+      "updated": "2011-11-30 14:19:04",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9456632,
+        9456633,
+        9456634,
+        9456635,
+        9456636,
+        9456637,
+        9456638
+      ]
+    },
+    {
+      "reference_id": "51791",
+      "genre": "article",
+      "title": "Diagnoses Batrachiorum novorum insulae Madagascar",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "3",
+      "spage": "567",
+      "epage": "568",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0044-5231",
+      "PageID": "9456847",
+      "created": "2010-06-27 05:50:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9456847,
+        9456848
+      ]
+    },
+    {
+      "reference_id": "69925",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Myriopoden Ungarns. I. Die Chilopoden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "3",
+      "spage": "617",
+      "epage": "619",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0044-5231",
+      "PageID": "9456897",
+      "created": "2011-06-02 07:57:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9456897,
+        9456898,
+        9456899
+      ]
+    },
+    {
+      "reference_id": "98462",
+      "genre": "article",
+      "title": "Die Gattung Pseudomarginella",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "3",
+      "spage": "637",
+      "epage": "641",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0044-5231",
+      "PageID": "9456917",
+      "created": "2011-11-30 14:19:16",
+      "updated": "2011-11-30 14:19:16",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9456917,
+        9456918,
+        9456919,
+        9456920,
+        9456921
+      ]
+    }
+  ]
+}

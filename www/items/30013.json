@@ -1,0 +1,229 @@
+{
+  "ItemID": "30013",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 9 (1857)",
+  "articles": [
+    {
+      "reference_id": "49129",
+      "genre": "article",
+      "title": "Notes of a collection of reptiles from the Gaboon country, West Africa, recently presented to the Academy of Natural Sciences of Philadelphia, by Dr. Herny A. Ford",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "9",
+      "spage": "48",
+      "epage": "72",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0097-3157",
+      "PageID": "6330312",
+      "created": "2010-03-21 11:36:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        6330312,
+        6330313,
+        6330314,
+        6330315,
+        6330316,
+        6330317,
+        6330318,
+        6330319,
+        6330320,
+        6330321,
+        6330322,
+        6330323,
+        6330324,
+        6330325,
+        6330326,
+        6330327,
+        6330328,
+        6330329,
+        6330330,
+        6330331,
+        6330332,
+        6330333,
+        6330334,
+        6330335,
+        6330336
+      ]
+    },
+    {
+      "reference_id": "69336",
+      "genre": "article",
+      "title": "Contributions to the Neuropterology of the United States. No. 1",
+      "secondary_title": "Proceedings Academy Natural Sciences Philadelphia",
+      "volume": "1857",
+      "spage": "87",
+      "epage": "88",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0097-3157",
+      "PageID": "6330351",
+      "created": "2011-06-01 08:48:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42806",
+          "lastname": "Uhler",
+          "forename": "P R"
+        }
+      ],
+      "bhl_pages": [
+        6330351,
+        6330352
+      ]
+    },
+    {
+      "reference_id": "60876",
+      "genre": "article",
+      "title": "Prodromus descriptionis animalium evertebratum, quae in Expeditione ad Oceanum Pacificum Septentrionalem, a Republica Federata missa, Cadwaladaro Ringgold et Johanne Rodgers Ducibus, observavit et descripsit. Pars II. Turbellarieorum Nemertineorum",
+      "secondary_title": "Proceedings of the National Academy of Sciences of Philadelphia",
+      "volume": "1857",
+      "spage": "159",
+      "epage": "165",
+      "year": "1857",
+      "date": "1857-00-00",
+      "oclc": "1382862",
+      "PageID": "6330425",
+      "created": "2010-11-23 04:55:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41025",
+          "lastname": "Stimpson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        6330425,
+        6330426,
+        6330427,
+        6330428,
+        6330429,
+        6330430,
+        6330431
+      ]
+    },
+    {
+      "reference_id": "49049",
+      "genre": "article",
+      "title": "Descriptions of some new Reptiles, collected by the US. Exploring Expedition under the command of Capt. Charles Wilkes, U.S.N. Third Part",
+      "secondary_title": "Proc. Acad. nat. Sci. Philad.",
+      "volume": "9",
+      "spage": "181",
+      "epage": "182",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0097-3157",
+      "PageID": "6330447",
+      "created": "2010-03-21 11:05:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39356",
+          "lastname": "Girard",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        6330447,
+        6330448
+      ]
+    },
+    {
+      "reference_id": "48944",
+      "genre": "article",
+      "title": "Descriptions of some new Reptiles, collected by the US. Exploring Expedition under the command of Capt. Charles Wilkes, U.S.N. Fourth Part",
+      "secondary_title": "Proc. Acad. Nat. Sci Philadelphia",
+      "volume": "1857",
+      "spage": "195",
+      "epage": "199",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0097-3157",
+      "PageID": "6330461",
+      "created": "2010-03-15 13:47:51",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39321",
+          "lastname": "Girard",
+          "forename": "Charles"
+        }
+      ],
+      "bhl_pages": [
+        6330461,
+        6330462,
+        6330463,
+        6330464,
+        6330465
+      ]
+    },
+    {
+      "reference_id": "49124",
+      "genre": "article",
+      "title": "Description of several new North American Reptiles",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "9",
+      "spage": "215",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0097-3157",
+      "PageID": "6330481",
+      "created": "2010-03-21 11:34:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        6330481
+      ]
+    },
+    {
+      "reference_id": "60149",
+      "genre": "article",
+      "title": "Prodromus descriptionis animalium evertebratorum, quae in Expenditione ad Oceanum Pacificum Sententrionalem, a Republica Federata missa, Cadwaladaro Ringgold et Johanne Rodgers Ducibus, observavit et descripsit. Pars III. Crustacea Maioidea",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "9",
+      "spage": "216",
+      "epage": "221",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0097-3157",
+      "PageID": "6330482",
+      "created": "2010-11-22 19:52:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41025",
+          "lastname": "Stimpson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        6330482,
+        6330483,
+        6330484,
+        6330485,
+        6330486,
+        6330487
+      ]
+    }
+  ]
+}

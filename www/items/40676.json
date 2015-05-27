@@ -1,0 +1,35 @@
+{
+  "ItemID": "40676",
+  "FullTitle": "Bulletin biologique de la France et de la Belgique.  ",
+  "VolumeInfo": "t. 23 (1891)",
+  "articles": [
+    {
+      "reference_id": "104506",
+      "genre": "article",
+      "title": "Un mot de r\u00e9ponse a M. L\u00f6nnberg",
+      "secondary_title": "Bulletin Scientifique De La France Et De La Belgique",
+      "volume": "23",
+      "spage": "355",
+      "epage": "357",
+      "year": "1891",
+      "date": "1891-00-00",
+      "oclc": "1537693",
+      "PageID": "10717385",
+      "created": "2012-06-21 14:52:22",
+      "updated": "2012-06-21 14:52:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53874",
+          "lastname": "Monticelli",
+          "forename": "F S"
+        }
+      ],
+      "bhl_pages": [
+        10717385,
+        10717386,
+        10717387
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "author": [
+    {
+      "firstname": "Linda M",
+      "lastname": "Pitkin",
+      "name": "Linda M Pitkin"
+    }
+  ],
+  "type": "article",
+  "title": "A revision of the Pacific species of Conocephalus Thunberg (Orthoptera: Tettigoniidae)",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Entomology",
+    "volume": "41",
+    "issue": "5",
+    "pages": "315--355",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1980",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/183"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2291355"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 183
+    },
+    {
+      "type": "bhl",
+      "id": 2291355
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        155.11666666667,
+        -5.6666666666667
+      ],
+      [
+        155.25,
+        -5.8833333333333
+      ],
+      [
+        136.83333333333,
+        -12.283333333333
+      ],
+      [
+        147.23333333333,
+        -9.2
+      ],
+      [
+        147.08333333333,
+        -9.4833333333333
+      ],
+      [
+        147.43333333333,
+        -9.45
+      ],
+      [
+        143.2,
+        -9.0833333333333
+      ],
+      [
+        141.63333333333,
+        -8.7333333333333
+      ],
+      [
+        141.63333333333,
+        -8.65
+      ],
+      [
+        141.63333333333,
+        -8.7166666666667
+      ]
+    ]
+  }
+}

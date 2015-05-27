@@ -1,0 +1,1009 @@
+{
+  "ItemID": "44096",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 11 1892",
+  "articles": [
+    {
+      "reference_id": "96320",
+      "genre": "article",
+      "title": "Ueber den angeblichen Umsturz in der Entomologie der Gegenwart",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "1",
+      "epage": "10",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12078945",
+      "created": "2011-10-11 16:06:24",
+      "updated": "2011-10-11 16:06:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12078945,
+        12078912,
+        12078913,
+        12078914,
+        12078915,
+        12078916,
+        12078917,
+        12078918,
+        12078919,
+        12078920
+      ]
+    },
+    {
+      "reference_id": "96321",
+      "genre": "article",
+      "title": "Analytische Uebersicht der europ\u00e4ischen Arten der Tenthridiniden-Gattung Schizocera LATR",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "11",
+      "epage": "22",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12078921",
+      "created": "2011-10-11 16:06:27",
+      "updated": "2011-10-11 16:06:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53100",
+          "lastname": "Konow",
+          "forename": "Friedrich Wilhelm"
+        }
+      ],
+      "bhl_pages": [
+        12078921,
+        12078922,
+        12078923,
+        12078924,
+        12078925,
+        12078926,
+        12078927,
+        12078928,
+        12078929,
+        12078930,
+        12078931,
+        12078932
+      ]
+    },
+    {
+      "reference_id": "96322",
+      "genre": "article",
+      "title": "Eine neue Leptis aus der Schweiz. Ein dipterologischer Beitrag",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "23",
+      "epage": "25",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12078933",
+      "created": "2011-10-11 16:06:31",
+      "updated": "2011-10-11 16:06:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53119",
+          "lastname": "Becker",
+          "forename": "Theodor"
+        }
+      ],
+      "bhl_pages": [
+        12078933,
+        12078934,
+        12078935
+      ]
+    },
+    {
+      "reference_id": "96323",
+      "genre": "article",
+      "title": "Coleopterologische Notizen. XLIII",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "25",
+      "epage": "27",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12078935",
+      "created": "2011-10-11 16:06:37",
+      "updated": "2011-10-11 16:06:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12078935,
+        12078936,
+        12078937
+      ]
+    },
+    {
+      "reference_id": "96324",
+      "genre": "article",
+      "title": "Die europ\u00e4ischen Arten der Dipterengattung Lispa LATR",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "33",
+      "epage": "54",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12078943",
+      "created": "2011-10-11 16:06:41",
+      "updated": "2011-10-11 16:06:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53077",
+          "lastname": "Kowarz",
+          "forename": "Ferdinand"
+        }
+      ],
+      "bhl_pages": [
+        12078943,
+        12078944,
+        12078968,
+        12078969,
+        12078970,
+        12078971,
+        12078972,
+        12078973,
+        12078974,
+        12078975,
+        12078976,
+        12078977,
+        12078978,
+        12078979,
+        12078980,
+        12078981,
+        12078982,
+        12078983,
+        12078984,
+        12078985,
+        12078986,
+        12078987
+      ]
+    },
+    {
+      "reference_id": "72796",
+      "genre": "article",
+      "title": "F\u00fcnfter Beitrag zur Coleopteren-Fauna des russischen Reiches",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "11",
+      "spage": "59",
+      "epage": "68",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1769860",
+      "PageID": "12078992",
+      "created": "2011-06-04 04:09:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12078992,
+        12078993,
+        12078994,
+        12078995,
+        12078996,
+        12078997,
+        12078998,
+        12078999,
+        12079000,
+        12079001
+      ]
+    },
+    {
+      "reference_id": "96325",
+      "genre": "article",
+      "title": "Drei neue merkw\u00fcrdige Homalomyia-Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "69",
+      "epage": "77",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079002",
+      "created": "2011-10-11 16:06:46",
+      "updated": "2011-10-11 16:06:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53123",
+          "lastname": "Stein",
+          "forename": "Paul"
+        }
+      ],
+      "bhl_pages": [
+        12079002,
+        12079003,
+        12079004,
+        12079005,
+        12079006,
+        12079007,
+        12079008,
+        12079009,
+        12079010
+      ]
+    },
+    {
+      "reference_id": "96326",
+      "genre": "article",
+      "title": "Ueber die Arten der Coleopteren-Gattung Leptodes SOL",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "93",
+      "epage": "96",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079026",
+      "created": "2011-10-11 16:06:51",
+      "updated": "2011-10-11 16:06:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12079026,
+        12079027,
+        12079028,
+        12079029
+      ]
+    },
+    {
+      "reference_id": "96327",
+      "genre": "article",
+      "title": "Berichtigung zu meinem dipterologischen Beitrage im Heft IX, 1891 der \"Wiener Entomologischen Zeitung\": \"Neues aus S\u00fcd-Tirol und Steiermark\"",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "125",
+      "epage": "126",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079058",
+      "created": "2011-10-11 16:06:59",
+      "updated": "2011-10-11 16:06:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53119",
+          "lastname": "Becker",
+          "forename": "Theodor"
+        }
+      ],
+      "bhl_pages": [
+        12079058,
+        12079059
+      ]
+    },
+    {
+      "reference_id": "96328",
+      "genre": "article",
+      "title": "Beitrag zu einer Monographie der Gattung Plusiotis BURM",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "127",
+      "epage": "130",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079060",
+      "created": "2011-10-11 16:07:06",
+      "updated": "2011-10-11 16:07:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53140",
+          "lastname": "Nonfried",
+          "forename": "Anton Franz"
+        }
+      ],
+      "bhl_pages": [
+        12079060,
+        12079061,
+        12079062,
+        12079063
+      ]
+    },
+    {
+      "reference_id": "96329",
+      "genre": "article",
+      "title": "Spheniscosmus, eine neue, bisher verkannte Elateriden-Gattung",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "132",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079065",
+      "created": "2011-10-11 16:07:11",
+      "updated": "2011-10-11 16:07:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53141",
+          "lastname": "Schwarz",
+          "forename": "Otto Carl Ernst"
+        }
+      ],
+      "bhl_pages": [
+        12079065
+      ]
+    },
+    {
+      "reference_id": "70902",
+      "genre": "article",
+      "title": "Sechster Beitrag zur Coleopteren-Fauna des russischen Reiches",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "11",
+      "spage": "133",
+      "epage": "136",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1769860",
+      "PageID": "12079066",
+      "created": "2011-06-03 16:49:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12079066,
+        12079067,
+        12079068,
+        12079069
+      ]
+    },
+    {
+      "reference_id": "96330",
+      "genre": "article",
+      "title": "Coleopterologische Notizen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "136",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079069",
+      "created": "2011-10-11 16:07:15",
+      "updated": "2011-10-11 16:07:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12079069
+      ]
+    },
+    {
+      "reference_id": "96331",
+      "genre": "article",
+      "title": "Notizen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "139",
+      "epage": "140",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079072",
+      "created": "2011-10-11 16:07:29",
+      "updated": "2011-10-11 16:07:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12079072,
+        12079073
+      ]
+    },
+    {
+      "reference_id": "96332",
+      "genre": "article",
+      "title": "Eine neue Chrysomela-Variet\u00e4t",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "141",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079074",
+      "created": "2011-10-11 16:07:34",
+      "updated": "2011-10-11 16:07:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12079074
+      ]
+    },
+    {
+      "reference_id": "71568",
+      "genre": "article",
+      "title": "Dermapteren und Orthopteren aus Tunis. Gesammelt von Dr. A. K\u00f6nig",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "143",
+      "epage": "150",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1769860",
+      "PageID": "12079076",
+      "created": "2011-06-03 20:58:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46409",
+          "lastname": "",
+          "forename": "Krauss"
+        }
+      ],
+      "bhl_pages": [
+        12079076,
+        12079077,
+        12079078,
+        12079079,
+        12079080,
+        12079081,
+        12079082,
+        12079083
+      ]
+    },
+    {
+      "reference_id": "70973",
+      "genre": "article",
+      "title": "Siebender Beitrag zur Coleopteren-Fauna des russischen Reiches",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "151",
+      "epage": "154",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1769860",
+      "PageID": "12079084",
+      "created": "2011-06-03 17:04:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12079084,
+        12079085,
+        12079086,
+        12079087
+      ]
+    },
+    {
+      "reference_id": "96333",
+      "genre": "article",
+      "title": "Zwei alpine Sapromyzen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "155",
+      "epage": "157",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079088",
+      "created": "2011-10-11 16:07:39",
+      "updated": "2011-10-11 16:07:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53142",
+          "lastname": "Strobl",
+          "forename": "Gabriel"
+        }
+      ],
+      "bhl_pages": [
+        12079088,
+        12079089,
+        12079090
+      ]
+    },
+    {
+      "reference_id": "96334",
+      "genre": "article",
+      "title": "Nova Genera Dipterorum",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "161",
+      "epage": "162",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079094",
+      "created": "2011-10-11 16:07:42",
+      "updated": "2011-10-11 16:07:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53097",
+          "lastname": "Bigot",
+          "forename": "Jacques Marie Frangile"
+        }
+      ],
+      "bhl_pages": [
+        12079094,
+        12079095
+      ]
+    },
+    {
+      "reference_id": "96335",
+      "genre": "article",
+      "title": "Ueber Dialysis disparilis BERGR",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "162",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079095",
+      "created": "2011-10-11 16:07:46",
+      "updated": "2011-10-11 16:07:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53105",
+          "lastname": "Bergroth",
+          "forename": "Ernst Ewald"
+        }
+      ],
+      "bhl_pages": [
+        12079095
+      ]
+    },
+    {
+      "reference_id": "96336",
+      "genre": "article",
+      "title": "Einige Worte zur Nomenclatur",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "166",
+      "epage": "169",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079099",
+      "created": "2011-10-11 16:07:52",
+      "updated": "2011-10-11 16:07:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12079099,
+        12079100,
+        12079101,
+        12079102
+      ]
+    },
+    {
+      "reference_id": "96337",
+      "genre": "article",
+      "title": "Ueber Hemidiptera Haeckeli L\u00c9ON",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "169",
+      "epage": "170",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079102",
+      "created": "2011-10-11 16:07:59",
+      "updated": "2011-10-11 16:07:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53105",
+          "lastname": "Bergroth",
+          "forename": "Ernst Ewald"
+        }
+      ],
+      "bhl_pages": [
+        12079102,
+        12079103
+      ]
+    },
+    {
+      "reference_id": "96338",
+      "genre": "article",
+      "title": "Ueber Opomyza punctella FALL",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "177",
+      "epage": "180",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079110",
+      "created": "2011-10-11 16:08:08",
+      "updated": "2011-10-11 16:08:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53130",
+          "lastname": "Sintenis",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        12079110,
+        12079111,
+        12079112,
+        12079113
+      ]
+    },
+    {
+      "reference_id": "96339",
+      "genre": "article",
+      "title": "Zur Biologie einiger Coleopteren",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "209",
+      "epage": "211",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079142",
+      "created": "2011-10-11 16:08:15",
+      "updated": "2011-10-11 16:08:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12079142,
+        12079143,
+        12079144
+      ]
+    },
+    {
+      "reference_id": "61289",
+      "genre": "article",
+      "title": "Beobachtungen \u00fcber Gallm\u00fccken mit Beschreibung einiger neuen Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "212",
+      "epage": "224",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1769860",
+      "PageID": "12079145",
+      "created": "2011-01-10 16:51:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42058",
+          "lastname": "Kieffer",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        12079145,
+        12079146,
+        12079147,
+        12079148,
+        12079149,
+        12079150,
+        12079151,
+        12079152,
+        12079153,
+        12079154,
+        12079155,
+        12079156,
+        12079157
+      ]
+    },
+    {
+      "reference_id": "96340",
+      "genre": "article",
+      "title": "Einige Bemerkungen zu Bolbodimyia bicolor BIG",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "237",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079170",
+      "created": "2011-10-11 16:08:23",
+      "updated": "2011-10-11 16:08:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53076",
+          "lastname": "R\u00f6der",
+          "forename": "Victor Eduard V"
+        }
+      ],
+      "bhl_pages": [
+        12079170
+      ]
+    },
+    {
+      "reference_id": "96341",
+      "genre": "article",
+      "title": "Coleopterologische Notizen. XLVI",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "239",
+      "epage": "240",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079172",
+      "created": "2011-10-11 16:08:28",
+      "updated": "2011-10-11 16:08:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12079172,
+        12079173
+      ]
+    },
+    {
+      "reference_id": "96342",
+      "genre": "article",
+      "title": "Uebersicht der Arten der Coleopterengattung Gnorimus SERV. aus Europa und den angrenzenden L\u00e4ndern",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "241",
+      "epage": "243",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079174",
+      "created": "2011-10-11 16:08:31",
+      "updated": "2011-10-11 16:08:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53143",
+          "lastname": "Zoufal",
+          "forename": "Vladimir"
+        }
+      ],
+      "bhl_pages": [
+        12079174,
+        12079175,
+        12079176
+      ]
+    },
+    {
+      "reference_id": "96343",
+      "genre": "article",
+      "title": "Ueber Trichodes sipylus LIN",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "243",
+      "epage": "244",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079176",
+      "created": "2011-10-11 16:08:39",
+      "updated": "2011-10-11 16:08:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53124",
+          "lastname": "Escherich",
+          "forename": "Karl Leopold"
+        }
+      ],
+      "bhl_pages": [
+        12079176,
+        12079177
+      ]
+    },
+    {
+      "reference_id": "96344",
+      "genre": "article",
+      "title": "Noch Einiges \u00fcber die Dipterengattung Pachystylum",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "245",
+      "epage": "248",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079178",
+      "created": "2011-10-11 16:08:43",
+      "updated": "2011-10-11 16:08:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12079178,
+        12079179,
+        12079180,
+        12079181
+      ]
+    },
+    {
+      "reference_id": "96345",
+      "genre": "article",
+      "title": "Ueber einen neuen Beitrag zur Systematik der Geotrupini",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "272",
+      "epage": "278",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079207",
+      "created": "2011-10-11 16:08:51",
+      "updated": "2011-10-11 16:08:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12079207,
+        12079208,
+        12079209,
+        12079210,
+        12079211,
+        12079212,
+        12079213
+      ]
+    },
+    {
+      "reference_id": "96346",
+      "genre": "article",
+      "title": "Ein neues Bembidium aus den Alpes maritimes",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "314",
+      "epage": "315",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079249",
+      "created": "2011-10-11 16:09:07",
+      "updated": "2011-10-11 16:09:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53052",
+          "lastname": "Ganglbauer",
+          "forename": "Ludwig"
+        }
+      ],
+      "bhl_pages": [
+        12079249,
+        12079250
+      ]
+    },
+    {
+      "reference_id": "96347",
+      "genre": "article",
+      "title": "Einiges \u00fcber springende Ameisen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "316",
+      "epage": "317",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079251",
+      "created": "2011-10-11 16:09:13",
+      "updated": "2011-10-11 16:09:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53132",
+          "lastname": "Wasmann",
+          "forename": "Erich P S J"
+        }
+      ],
+      "bhl_pages": [
+        12079251,
+        12079252
+      ]
+    },
+    {
+      "reference_id": "96348",
+      "genre": "article",
+      "title": "Bemerkung zu Nr. XXIV der hymenopterologischen Notizen von Prof. Dr. v. DALLA-TORRE",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "11",
+      "spage": "318",
+      "epage": "319",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "1562-0891",
+      "PageID": "12079253",
+      "created": "2011-10-11 16:09:17",
+      "updated": "2011-10-11 16:09:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53144",
+          "lastname": "Beckers",
+          "forename": "Gustav"
+        }
+      ],
+      "bhl_pages": [
+        12079253,
+        12079254
+      ]
+    }
+  ]
+}

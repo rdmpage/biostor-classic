@@ -1,0 +1,36 @@
+{
+  "ItemID": "88827",
+  "FullTitle": "Anzeiger \/  Kaiserliche Akademie der Wissenschaften in Wien. Mathematisch-Naturwissenschaftliche Klasse.",
+  "VolumeInfo": "jahrg. 52-53 1915-16",
+  "articles": [
+    {
+      "reference_id": "102838",
+      "genre": "article",
+      "title": "Neue Gerbillinae aus Nordostafrika",
+      "secondary_title": "Anz. k. Akad. Wiss., Wien",
+      "volume": "53",
+      "spage": "151",
+      "epage": "154",
+      "year": "1916",
+      "date": "1916-00-00",
+      "oclc": "8742082",
+      "PageID": "27919329",
+      "created": "2012-05-14 22:55:43",
+      "updated": "2012-05-14 23:04:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53740",
+          "lastname": "Von Wettstein",
+          "forename": "Otto"
+        }
+      ],
+      "bhl_pages": [
+        27919329,
+        27919330,
+        27919331,
+        27919332
+      ]
+    }
+  ]
+}

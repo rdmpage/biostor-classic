@@ -1,0 +1,102 @@
+{
+  "ItemID": "33892",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.4 (1943)",
+  "articles": [
+    {
+      "reference_id": "85305",
+      "genre": "article",
+      "title": "Four new species of Collembola",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "4",
+      "spage": "39",
+      "epage": "48",
+      "year": "1943",
+      "date": "1943-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116153",
+      "created": "2011-08-12 09:19:38",
+      "updated": "2011-08-12 09:19:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8116153,
+        8116154,
+        8116155,
+        8116156,
+        8116157,
+        8116158,
+        8116159,
+        8116160,
+        8116161,
+        8116162
+      ]
+    },
+    {
+      "reference_id": "1254",
+      "genre": "article",
+      "title": "Two new species of Hypsiglena from western North America",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "4",
+      "spage": "49",
+      "epage": "54",
+      "year": "1943",
+      "date": "1943-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116163",
+      "created": "2009-12-23 10:27:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8116163,
+        8116164,
+        8116165,
+        8116166,
+        8116167,
+        8116168
+      ]
+    },
+    {
+      "reference_id": "1253",
+      "genre": "article",
+      "title": "Notes on the life history of Eumeces skiltonianus skiltonianus",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "4",
+      "spage": "81",
+      "epage": "88",
+      "year": "1943",
+      "date": "1943-00-00",
+      "issn": "0017-3614",
+      "PageID": "8116199",
+      "created": "2009-12-23 10:27:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8116199,
+        8116200,
+        8116201,
+        8116202,
+        8116203,
+        8116204,
+        8116205,
+        8116206
+      ]
+    }
+  ]
+}

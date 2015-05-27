@@ -1,0 +1,36 @@
+{
+  "ItemID": "30045",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 38 (1901)",
+  "articles": [
+    {
+      "reference_id": "70007",
+      "genre": "article",
+      "title": "Beschreibung einer neuen Schildkr\u00f6tengattung aus der Familie Chelydidae aus Australien: Pseudemydura",
+      "secondary_title": "Anzeiger Der Akademie Der Wissenschaften In Wien",
+      "volume": "38",
+      "spage": "248",
+      "epage": "251",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "9782210",
+      "PageID": "6345264",
+      "created": "2011-06-02 12:19:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46450",
+          "lastname": "Siebenrock",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6345264,
+        6345265,
+        6345266,
+        6345267
+      ]
+    }
+  ]
+}

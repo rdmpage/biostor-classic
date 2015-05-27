@@ -1,0 +1,117 @@
+{
+  "ItemID": "34161",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "ser. 4, t. 4 1864",
+  "articles": [
+    {
+      "reference_id": "61642",
+      "genre": "article",
+      "title": "Hemiptera nonnulla nova vel minus cognita",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "4",
+      "series": "4",
+      "spage": "47",
+      "epage": "68",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0037-9271",
+      "PageID": "8254090",
+      "created": "2011-01-10 23:06:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42907",
+          "lastname": "St\u00e5l",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8254090,
+        8254091,
+        8254092,
+        8254093,
+        8254117,
+        8254118,
+        8254119,
+        8254120,
+        8254121,
+        8254122,
+        8254123,
+        8254124,
+        8254125,
+        8254126,
+        8254127,
+        8254128,
+        8254129,
+        8254130,
+        8254131,
+        8254132,
+        8254133,
+        8254134
+      ]
+    },
+    {
+      "reference_id": "85833",
+      "genre": "article",
+      "title": "H\u00e9mipt\u00e8res Nouveaux",
+      "secondary_title": "Ann. Soc. Entom. Fr.",
+      "volume": "4",
+      "series": "4",
+      "spage": "141",
+      "epage": "142",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0037-9271",
+      "PageID": "8254207",
+      "created": "2011-09-11 19:57:58",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51178",
+          "lastname": "De Vuillefroy",
+          "forename": "F\u00e9lix"
+        }
+      ],
+      "bhl_pages": [
+        8254207,
+        8254208
+      ]
+    },
+    {
+      "reference_id": "97375",
+      "genre": "article",
+      "title": "R\u00e9vision des crustac\u00e9s macroures de la famille des Atyoid\u00e9es",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 entomologique de France",
+      "volume": "4",
+      "series": "4",
+      "spage": "145",
+      "epage": "152",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0037-9271",
+      "PageID": "8254211",
+      "created": "2011-10-14 20:50:21",
+      "updated": "2011-10-14 20:50:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52782",
+          "lastname": "Milne-Edwards",
+          "forename": "Alphonse"
+        }
+      ],
+      "bhl_pages": [
+        8254211,
+        8254212,
+        8254213,
+        8254214,
+        8254215,
+        8254216,
+        8254217,
+        8254218
+      ]
+    }
+  ]
+}

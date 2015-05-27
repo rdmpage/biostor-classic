@@ -1,0 +1,118 @@
+{
+  "ItemID": "42146",
+  "FullTitle": "Proceedings of the New England Zoo\u0308logical Club.",
+  "VolumeInfo": "v.4 (1903-1914)",
+  "articles": [
+    {
+      "reference_id": "49169",
+      "genre": "article",
+      "title": "Some new South American cold-blooded vertebrates",
+      "secondary_title": "Proc. New England zool. Club",
+      "volume": "4",
+      "spage": "47",
+      "epage": "52",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0749-8934",
+      "PageID": "11304339",
+      "created": "2010-03-21 11:49:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "537",
+          "lastname": "Barbour",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        11304339,
+        11304340,
+        11304341,
+        11304342,
+        11304343,
+        11304344
+      ]
+    },
+    {
+      "reference_id": "70197",
+      "genre": "article",
+      "title": "Notes on Amphibia and Reptilia from Eastern Asia",
+      "secondary_title": "Proceedings of the New England Zoological Club",
+      "volume": "4",
+      "spage": "53",
+      "epage": "78",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0749-8934",
+      "PageID": "11304349",
+      "created": "2011-06-02 15:46:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "7",
+          "lastname": "Barbour",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        11304349,
+        11304350,
+        11304351,
+        11304352,
+        11304353,
+        11304354,
+        11304355,
+        11304356,
+        11304357,
+        11304358,
+        11304359,
+        11304360,
+        11304361,
+        11304362,
+        11304363,
+        11304364,
+        11304365,
+        11304366,
+        11304367,
+        11304368,
+        11304369,
+        11304370,
+        11304371,
+        11304372,
+        11304373,
+        11304374
+      ]
+    },
+    {
+      "reference_id": "48982",
+      "genre": "article",
+      "title": "Some new reptiles",
+      "secondary_title": "Proc. New Engl. Zool. Club",
+      "volume": "4",
+      "spage": "95",
+      "epage": "98",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0749-8934",
+      "PageID": "11304399",
+      "created": "2010-03-21 10:22:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "537",
+          "lastname": "Barbour",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        11304399,
+        11304400,
+        11304401,
+        11304402
+      ]
+    }
+  ]
+}

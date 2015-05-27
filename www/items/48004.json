@@ -1,0 +1,38 @@
+{
+  "ItemID": "48004",
+  "FullTitle": "Bulletin of the Torrey Botanical Club.",
+  "VolumeInfo": "v.32 (1905)",
+  "articles": [
+    {
+      "reference_id": "11298",
+      "genre": "article",
+      "title": "Studies on the flora of southern California",
+      "secondary_title": "Bulletin of the Torrey Botanical Club",
+      "volume": "32",
+      "spage": "537",
+      "epage": "541",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0040-9618",
+      "doi": "10.2307\/2478529",
+      "PageID": "13413948",
+      "created": "2010-01-08 10:48:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8523",
+          "lastname": "Abrams",
+          "forename": "Leroy"
+        }
+      ],
+      "bhl_pages": [
+        13413948,
+        13413949,
+        13413950,
+        13413951,
+        13413952
+      ]
+    }
+  ]
+}

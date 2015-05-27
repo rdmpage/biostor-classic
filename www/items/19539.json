@@ -1,0 +1,109 @@
+{
+  "ItemID": "19539",
+  "FullTitle": "Zoological Journal.  ",
+  "VolumeInfo": "4",
+  "articles": [
+    {
+      "reference_id": "67185",
+      "genre": "article",
+      "title": "On the supposed identity of whitebait and shad",
+      "secondary_title": "Zoological Journal",
+      "volume": "4",
+      "spage": "137",
+      "epage": "144",
+      "year": "1829",
+      "date": "1829-00-00",
+      "issn": "0024-4082",
+      "PageID": "2310551",
+      "created": "2011-05-19 10:08:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45440",
+          "lastname": "Yarrell",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2310551,
+        2310552,
+        2310553,
+        2310554,
+        2310555,
+        2310556,
+        2310557,
+        2310558
+      ]
+    },
+    {
+      "reference_id": "71387",
+      "genre": "article",
+      "title": "Observations upon the Genus Scaphura, K. with Descriptions of two new Species",
+      "secondary_title": "Zoological Journal",
+      "volume": "4",
+      "spage": "225",
+      "epage": "231",
+      "year": "1828",
+      "date": "1828-00-00",
+      "issn": "0024-4082",
+      "PageID": "2310636",
+      "created": "2011-06-03 19:38:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46388",
+          "lastname": "",
+          "forename": "Westwood"
+        }
+      ],
+      "bhl_pages": [
+        2310636,
+        2310637,
+        2310638,
+        2310639,
+        2310640,
+        2310641,
+        2310642
+      ]
+    },
+    {
+      "reference_id": "49109",
+      "genre": "article",
+      "title": "Contributions to the natural history of South Africa",
+      "secondary_title": "Zool. Journ.",
+      "volume": "4",
+      "spage": "433",
+      "epage": "444",
+      "year": "1828",
+      "date": "1828-00-00",
+      "issn": "0024-4082",
+      "PageID": "2310842",
+      "created": "2010-03-21 11:18:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "26526",
+          "lastname": "Smith",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        2310842,
+        2310843,
+        2310844,
+        2310845,
+        2310846,
+        2310847,
+        2310848,
+        2310849,
+        2310850,
+        2310851,
+        2310852,
+        2310853
+      ]
+    }
+  ]
+}

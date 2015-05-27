@@ -1,0 +1,182 @@
+{
+  "ItemID": "39845",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 9-11 1883-85",
+  "articles": [
+    {
+      "reference_id": "72921",
+      "genre": "article",
+      "title": "Einige neue Hymenoptera",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "9",
+      "spage": "57",
+      "epage": "64",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0232-5535",
+      "PageID": "10434883",
+      "created": "2011-06-04 04:41:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47102",
+          "lastname": "Rudow",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10434883,
+        10434884,
+        10434885,
+        10434886,
+        10434887,
+        10434888,
+        10434889,
+        10434890
+      ]
+    },
+    {
+      "reference_id": "60304",
+      "genre": "article",
+      "title": "Ueber das Genus Myopsocus und dessen species",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "9",
+      "spage": "141",
+      "epage": "146",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "5844710",
+      "PageID": "10434967",
+      "created": "2010-11-22 22:13:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42311",
+          "lastname": "Kolbe",
+          "forename": "H J"
+        }
+      ],
+      "bhl_pages": [
+        10434967,
+        10434968,
+        10434969,
+        10434970,
+        10434971,
+        10434972
+      ]
+    },
+    {
+      "reference_id": "73511",
+      "genre": "article",
+      "title": "Ueber von Herrn Dr. Schmiedeknecht in Spanien, bei Eiche, Ibiza und aus Mallorca gesammelte Dipteren",
+      "secondary_title": "Ent. Nachr",
+      "volume": "10",
+      "spage": "253",
+      "epage": "257",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0232-5535",
+      "PageID": "10435351",
+      "created": "2011-06-04 08:52:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47169",
+          "lastname": "Roder",
+          "forename": "V Von"
+        }
+      ],
+      "bhl_pages": [
+        10435351,
+        10435352,
+        10435353,
+        10435354,
+        10435355
+      ]
+    },
+    {
+      "reference_id": "71083",
+      "genre": "article",
+      "title": "Deilephia euphorbiae L. var. Grentzenbergi Stgr., und eine neue Anthocharis",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "11",
+      "spage": "10",
+      "epage": "11",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0232-5535",
+      "PageID": "10435498",
+      "created": "2011-06-03 17:39:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46724",
+          "lastname": "Staudinger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        10435498,
+        10435499
+      ]
+    },
+    {
+      "reference_id": "71062",
+      "genre": "article",
+      "title": "Papilio Cypraeafila Butl. var. nov. Mechowiana Dwtz.",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "11",
+      "spage": "305",
+      "epage": "306",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0232-5535",
+      "PageID": "10435793",
+      "created": "2011-06-03 17:37:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46732",
+          "lastname": "Dewitz",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        10435793,
+        10435794
+      ]
+    },
+    {
+      "reference_id": "60297",
+      "genre": "article",
+      "title": "Pygidicrana finschi nov. spec., eine neue Forficulidae Nordaustraliens",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "11",
+      "spage": "322",
+      "epage": "323",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "5844710",
+      "PageID": "10435810",
+      "created": "2010-11-22 22:07:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10435810,
+        10435811
+      ]
+    }
+  ]
+}

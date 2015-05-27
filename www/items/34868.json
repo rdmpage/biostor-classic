@@ -1,0 +1,35 @@
+{
+  "ItemID": "34868",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 41 (1927-1928)",
+  "articles": [
+    {
+      "reference_id": "59672",
+      "genre": "article",
+      "title": "Book review - A Monograph of Australian Loricates (Chitons)",
+      "secondary_title": "The Nautilus",
+      "volume": "41",
+      "spage": "104",
+      "epage": "106",
+      "year": "1928",
+      "date": "1928-00-00",
+      "issn": "0028-1344",
+      "PageID": "8519835",
+      "created": "2010-11-22 15:16:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42094",
+          "lastname": "Pilsbry",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        8519835,
+        8519836,
+        8519837
+      ]
+    }
+  ]
+}

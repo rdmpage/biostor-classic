@@ -1,0 +1,84 @@
+{
+  "author": [
+    {
+      "firstname": "C V",
+      "lastname": "Achterberg",
+      "name": "C V Achterberg"
+    }
+  ],
+  "type": "article",
+  "title": "A revision of the subfamily Zelinae auct. (Hymenoptera, Braconidae)",
+  "journal": {
+    "name": "Tijdschrift Voor Entomologie",
+    "volume": "122",
+    "pages": "241--479",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0040-7496"
+      }
+    ]
+  },
+  "year": "1979",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/49897"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/28227449"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 49897
+    },
+    {
+      "type": "bhl",
+      "id": 28227449
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -52.383333333333,
+        -27.183333333333
+      ],
+      [
+        -82.25,
+        8.7333333333333
+      ],
+      [
+        -55.616666666667,
+        -12.516666666667
+      ],
+      [
+        85,
+        27.966666666667
+      ],
+      [
+        6.25,
+        44.1
+      ],
+      [
+        85,
+        28
+      ],
+      [
+        85,
+        27.933333333333
+      ],
+      [
+        82.25,
+        8.7333333333333
+      ],
+      [
+        95.75,
+        3.75
+      ]
+    ]
+  }
+}

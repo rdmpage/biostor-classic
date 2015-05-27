@@ -1,0 +1,101 @@
+{
+  "ItemID": "31156",
+  "FullTitle": "The Journal of the College of Science, Imperial University of  Tokyo, Japan = Tokyo Teikoku Daigaku kiyo.  Rika.",
+  "VolumeInfo": "v. 12 (1898-1900)",
+  "articles": [
+    {
+      "reference_id": "49120",
+      "genre": "article",
+      "title": "On a collection of batrachians and reptiles from Formosa and Adjacent Islands",
+      "secondary_title": "J. Coll. Sci. Univ. Tokyo",
+      "volume": "12",
+      "spage": "215",
+      "epage": "225",
+      "year": "1898",
+      "date": "1898-00-00",
+      "oclc": "1641681",
+      "PageID": "6947391",
+      "created": "2010-03-21 11:33:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "498",
+          "lastname": "Stejneger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        6947391,
+        6947392,
+        6947393,
+        6947394,
+        6947395,
+        6947396,
+        6947397,
+        6947398,
+        6947399,
+        6947400,
+        6947422
+      ]
+    },
+    {
+      "reference_id": "57564",
+      "genre": "article",
+      "title": "Notes on some exotic species of ectoparasitic trematodes",
+      "secondary_title": "Journal of the College of Science, Imperial University of Tokyo",
+      "volume": "12",
+      "spage": "263",
+      "epage": "295",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "1641681",
+      "PageID": "6947492",
+      "created": "2010-11-20 13:57:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42082",
+          "lastname": "Goto",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        6947492,
+        6947493,
+        6947494,
+        6947495,
+        6947496,
+        6947497,
+        6947498,
+        6947499,
+        6947500,
+        6947501,
+        6947502,
+        6947503,
+        6947504,
+        6947505,
+        6947520,
+        6947521,
+        6947522,
+        6947523,
+        6947524,
+        6947525,
+        6947526,
+        6947527,
+        6947528,
+        6947529,
+        6947530,
+        6947531,
+        6947532,
+        6947533,
+        6947534,
+        6947535,
+        6947536,
+        6947537,
+        6947538
+      ]
+    }
+  ]
+}

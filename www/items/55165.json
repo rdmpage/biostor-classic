@@ -1,0 +1,2431 @@
+{
+  "ItemID": "55165",
+  "FullTitle": "Entomological news.",
+  "VolumeInfo": "v. 86\/87 1975\/76",
+  "articles": [
+    {
+      "reference_id": "77467",
+      "genre": "article",
+      "title": "A Key To The New world Genera Of The Beetle Family Limnichidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "1",
+      "epage": "4",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343949",
+      "created": "2011-06-10 18:33:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49182",
+          "lastname": "Wooldridge",
+          "forename": "D P"
+        }
+      ],
+      "bhl_pages": [
+        16343949,
+        16343948,
+        16343947,
+        16343946
+      ]
+    },
+    {
+      "reference_id": "77447",
+      "genre": "article",
+      "title": "A Review Of The Nearctic Genera Of Oligotrophidi With Piercing Ovipositors Diptera Cecidomyiidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "5",
+      "epage": "12",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343945",
+      "created": "2011-06-10 18:32:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1252",
+          "lastname": "Gagne",
+          "forename": "R J"
+        }
+      ],
+      "bhl_pages": [
+        16343945,
+        16343944,
+        16343943,
+        16343942,
+        16343941,
+        16343940,
+        16343939,
+        16343906
+      ]
+    },
+    {
+      "reference_id": "77448",
+      "genre": "article",
+      "title": "Notes On Types Of Toxomerus Diptera Syrphidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "13",
+      "epage": "22",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343907",
+      "created": "2011-06-10 18:32:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49083",
+          "lastname": "Gerdes",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        16343907,
+        16343908,
+        16343909,
+        16343910,
+        16343911,
+        16343912,
+        16343913,
+        16343914,
+        16343915,
+        16343916
+      ]
+    },
+    {
+      "reference_id": "77450",
+      "genre": "article",
+      "title": "Comparative Evaluation Of Methods For Sampling Of Mite Tetranychus cucurbitae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "33",
+      "epage": "36",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343927",
+      "created": "2011-06-10 18:32:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39165",
+          "lastname": "Gupta",
+          "forename": "S K"
+        },
+        {
+          "id": "49167",
+          "lastname": "Dhooria",
+          "forename": "M S"
+        },
+        {
+          "id": "49168",
+          "lastname": "Sidhu",
+          "forename": "A S"
+        }
+      ],
+      "bhl_pages": [
+        16343927,
+        16343928,
+        16343929,
+        16343930
+      ]
+    },
+    {
+      "reference_id": "77466",
+      "genre": "article",
+      "title": "Insect Associates Of Ginkgo biloba",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "37",
+      "epage": "44",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343931",
+      "created": "2011-06-10 18:33:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49181",
+          "lastname": "Wheeler",
+          "forename": "A G Jr"
+        }
+      ],
+      "bhl_pages": [
+        16343931,
+        16343932,
+        16343933,
+        16343934,
+        16343935,
+        16343936,
+        16343937,
+        16343938
+      ]
+    },
+    {
+      "reference_id": "77456",
+      "genre": "article",
+      "title": "Gynandromorphism In The Red Imported Fire Ant Solenopsis invicta Hymenoptera Formicidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "45",
+      "epage": "46",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343962",
+      "created": "2011-06-10 18:33:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41451",
+          "lastname": "Hung",
+          "forename": "A C F"
+        },
+        {
+          "id": "49175",
+          "lastname": "Norton",
+          "forename": "W N"
+        },
+        {
+          "id": "428",
+          "lastname": "Vinson",
+          "forename": "S B"
+        }
+      ],
+      "bhl_pages": [
+        16343962,
+        16343963
+      ]
+    },
+    {
+      "reference_id": "77457",
+      "genre": "article",
+      "title": "Studies Of The Byron Bog In Southwestern Ontario Canada Part 50 Additional Observations On Insects In The Bog",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "51",
+      "epage": "56",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343968",
+      "created": "2011-06-10 18:33:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49089",
+          "lastname": "Judd",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        16343968,
+        16343969,
+        16343970,
+        16343971,
+        16343972,
+        16343973
+      ]
+    },
+    {
+      "reference_id": "77442",
+      "genre": "article",
+      "title": "Nomenclatural Changes In North American Anthonomus Coleoptera Curculionidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "57",
+      "epage": "62",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343974",
+      "created": "2011-06-10 18:31:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41581",
+          "lastname": "Burke",
+          "forename": "H R"
+        }
+      ],
+      "bhl_pages": [
+        16343974,
+        16343975,
+        16343976,
+        16343977,
+        16343978,
+        16343979
+      ]
+    },
+    {
+      "reference_id": "77455",
+      "genre": "article",
+      "title": "Notes On The Odonata Of Blackhawk County Iowa Usa",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "63",
+      "epage": "64",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343980",
+      "created": "2011-06-10 18:33:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49173",
+          "lastname": "Hummel",
+          "forename": "S"
+        },
+        {
+          "id": "49174",
+          "lastname": "Haman",
+          "forename": "A C"
+        }
+      ],
+      "bhl_pages": [
+        16343980,
+        16343981
+      ]
+    },
+    {
+      "reference_id": "77441",
+      "genre": "article",
+      "title": "The 3Rd Edition Of Thaddeus William Harris Treatise On Some Of The Insects Injurious To Vegetation 1862",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "65",
+      "epage": "68",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343982",
+      "created": "2011-06-10 18:31:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1203",
+          "lastname": "Brown",
+          "forename": "F M"
+        }
+      ],
+      "bhl_pages": [
+        16343982,
+        16343983,
+        16343984,
+        16343985
+      ]
+    },
+    {
+      "reference_id": "84623",
+      "genre": "article",
+      "title": "New exotic crane-flies (Tipulidae: Diptera). Part 25",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "73",
+      "epage": "79",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343990",
+      "created": "2011-08-10 22:54:46",
+      "updated": "2011-08-10 22:54:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16343990,
+        16343991,
+        16343992,
+        16343993,
+        16343994,
+        16343995,
+        16343996
+      ]
+    },
+    {
+      "reference_id": "77465",
+      "genre": "article",
+      "title": "New Species Of Hilarimorpha Diptera Hilarimorphidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "80",
+      "epage": "84",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16343997",
+      "created": "2011-06-10 18:33:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10768",
+          "lastname": "Webb",
+          "forename": "D W"
+        }
+      ],
+      "bhl_pages": [
+        16343997,
+        16343998,
+        16343999,
+        16344000,
+        16344001
+      ]
+    },
+    {
+      "reference_id": "84460",
+      "genre": "article",
+      "title": "A new species of Mayetiola (Diptera: Cecidomyiidae) on American beachgrass in New Jersey",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "85",
+      "epage": "87",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344006",
+      "created": "2011-08-10 22:43:14",
+      "updated": "2011-08-10 22:43:14",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344006,
+        16344007,
+        16344008
+      ]
+    },
+    {
+      "reference_id": "77461",
+      "genre": "article",
+      "title": "On The Identity Of Belfrage",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "88",
+      "epage": "90",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344009",
+      "created": "2011-06-10 18:33:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49178",
+          "lastname": "Norwell",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        16344009,
+        16344010,
+        16344011
+      ]
+    },
+    {
+      "reference_id": "77460",
+      "genre": "article",
+      "title": "Nocturnal Staphylinidae Of The Southern California Usa Sea Beaches",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "91",
+      "epage": "93",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344012",
+      "created": "2011-06-10 18:33:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3903",
+          "lastname": "Moore",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        16344012,
+        16344013,
+        16344014
+      ]
+    },
+    {
+      "reference_id": "77452",
+      "genre": "article",
+      "title": "Crepuscular And Nocturnal Activities Of Paraponera clavata Hymenoptera Formicidae Ponerinae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "94",
+      "epage": "98",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344015",
+      "created": "2011-06-10 18:32:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49169",
+          "lastname": "Hermann",
+          "forename": "H R"
+        }
+      ],
+      "bhl_pages": [
+        16344015,
+        16344016,
+        16344017,
+        16344018,
+        16344019
+      ]
+    },
+    {
+      "reference_id": "77454",
+      "genre": "article",
+      "title": "Nonhexagonal Ommatidia Arrangement In The Compound Eye Of Eyeless Drosophila melanogaster",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "99",
+      "epage": "101",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344020",
+      "created": "2011-06-10 18:33:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49172",
+          "lastname": "Hester",
+          "forename": "R D"
+        }
+      ],
+      "bhl_pages": [
+        16344020,
+        16344021,
+        16344022
+      ]
+    },
+    {
+      "reference_id": "77463",
+      "genre": "article",
+      "title": "The Nymph Of Utaperla sopladora Plecoptera Choloroperlidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "102",
+      "epage": "106",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344023",
+      "created": "2011-06-10 18:33:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41422",
+          "lastname": "Surdick",
+          "forename": "R F"
+        },
+        {
+          "id": "49179",
+          "lastname": "Cather",
+          "forename": "M R"
+        }
+      ],
+      "bhl_pages": [
+        16344023,
+        16344024,
+        16344025,
+        16344026,
+        16344027
+      ]
+    },
+    {
+      "reference_id": "84652",
+      "genre": "article",
+      "title": "New southwestern Bombyliidae (Diptera)",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "107",
+      "epage": "113",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344028",
+      "created": "2011-08-10 22:56:49",
+      "updated": "2011-08-10 22:56:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344028,
+        16344029,
+        16344030,
+        16344031,
+        16344032,
+        16344033,
+        16344034
+      ]
+    },
+    {
+      "reference_id": "77444",
+      "genre": "article",
+      "title": "The Biology Of Hoplitis robusta Hymenoptera Megachilidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "115",
+      "epage": "120",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344036",
+      "created": "2011-06-10 18:31:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41607",
+          "lastname": "Clement",
+          "forename": "S L"
+        },
+        {
+          "id": "46645",
+          "lastname": "Rust",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        16344036,
+        16344037,
+        16344038,
+        16344039,
+        16344040,
+        16344041
+      ]
+    },
+    {
+      "reference_id": "77451",
+      "genre": "article",
+      "title": "Occurrence In Florida Of Rhyacionia busckana New record Lepidoptera Tortricidae Olethreutinae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "121",
+      "epage": "122",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344042",
+      "created": "2011-06-10 18:32:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1768",
+          "lastname": "Heppner",
+          "forename": "J B"
+        }
+      ],
+      "bhl_pages": [
+        16344042,
+        16344043
+      ]
+    },
+    {
+      "reference_id": "70744",
+      "genre": "article",
+      "title": "The parasitic Hymenoptera with the longest ovipositors, with descriptions of two new Ichneumonidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "123",
+      "epage": "127",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344044",
+      "created": "2011-06-03 06:50:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41688",
+          "lastname": "Townes",
+          "forename": "H K"
+        }
+      ],
+      "bhl_pages": [
+        16344044,
+        16344045,
+        16344046,
+        16344047,
+        16344048
+      ]
+    },
+    {
+      "reference_id": "70543",
+      "genre": "article",
+      "title": "Two new katydids of the genus Melanonotus from Costa Rica with comments on their life history strategies",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "129",
+      "epage": "140",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344054",
+      "created": "2011-06-03 06:41:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14670",
+          "lastname": "Rentz",
+          "forename": "D C F"
+        }
+      ],
+      "bhl_pages": [
+        16344054,
+        16344055,
+        16344056,
+        16344057,
+        16344058,
+        16344059,
+        16344060,
+        16344061,
+        16344062,
+        16344063,
+        16344064,
+        16344065
+      ]
+    },
+    {
+      "reference_id": "77445",
+      "genre": "article",
+      "title": "Gyponana secunda New species Of Leafhopper From Panama And Grand Cayman Island Homoptera Cicadellidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "141",
+      "epage": "143",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344066",
+      "created": "2011-06-10 18:32:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41456",
+          "lastname": "Freytag",
+          "forename": "P H"
+        },
+        {
+          "id": "38957",
+          "lastname": "Delong",
+          "forename": "D M"
+        }
+      ],
+      "bhl_pages": [
+        16344066,
+        16344067,
+        16344068
+      ]
+    },
+    {
+      "reference_id": "77458",
+      "genre": "article",
+      "title": "Notes On A Collection Of Mammal Fleas From New hampshire Usa",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "145",
+      "epage": "149",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344070",
+      "created": "2011-06-10 18:33:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49176",
+          "lastname": "Lovejoy",
+          "forename": "D A"
+        },
+        {
+          "id": "49177",
+          "lastname": "Gaughan",
+          "forename": "P J"
+        }
+      ],
+      "bhl_pages": [
+        16344070,
+        16344071,
+        16344072,
+        16344073,
+        16344074
+      ]
+    },
+    {
+      "reference_id": "84732",
+      "genre": "article",
+      "title": "Phloeoxena newtoni new species and notes on P. nigricollis Ball and P. geniculata Chaudoir from Mexico (Coleoptera: Carabidae: Lebiini)",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "151",
+      "epage": "156",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344076",
+      "created": "2011-08-10 23:02:34",
+      "updated": "2011-08-10 23:02:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344076,
+        16344077,
+        16344078,
+        16344079,
+        16344080,
+        16344081
+      ]
+    },
+    {
+      "reference_id": "77449",
+      "genre": "article",
+      "title": "Sexual Behavior Of Hemitaxonous dubitatus Hymenoptera Tenthredinidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "161",
+      "epage": "166",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344086",
+      "created": "2011-06-10 18:32:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39190",
+          "lastname": "Gordh",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        16344086,
+        16344087,
+        16344088,
+        16344089,
+        16344090,
+        16344091
+      ]
+    },
+    {
+      "reference_id": "77443",
+      "genre": "article",
+      "title": "A Species Of Smicraulax piercei New species From Mexico With Key To Species Of The Genus Coleoptera Curculionidae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "167",
+      "epage": "171",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344092",
+      "created": "2011-06-10 18:31:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41581",
+          "lastname": "Burke",
+          "forename": "H R"
+        }
+      ],
+      "bhl_pages": [
+        16344092,
+        16344093,
+        16344094,
+        16344095,
+        16344096
+      ]
+    },
+    {
+      "reference_id": "77453",
+      "genre": "article",
+      "title": "Spring Behavior Of Polistes exclamans Hymenoptera Vespidae Polistinae",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "173",
+      "epage": "178",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344102",
+      "created": "2011-06-10 18:32:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49169",
+          "lastname": "Hermann",
+          "forename": "H R"
+        },
+        {
+          "id": "49170",
+          "lastname": "Barron",
+          "forename": "R"
+        },
+        {
+          "id": "49171",
+          "lastname": "Dalton",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        16344102,
+        16344103,
+        16344104,
+        16344105,
+        16344106,
+        16344107
+      ]
+    },
+    {
+      "reference_id": "77464",
+      "genre": "article",
+      "title": "Seasonal Distribution Of Protura In 3 Delaware Usa Forests",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "187",
+      "epage": "198",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344116",
+      "created": "2011-06-10 18:33:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49180",
+          "lastname": "Walker",
+          "forename": "G L"
+        },
+        {
+          "id": "46645",
+          "lastname": "Rust",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        16344116,
+        16344117,
+        16344118,
+        16344119,
+        16344120,
+        16344121,
+        16344122,
+        16344123,
+        16344124,
+        16344125,
+        16344126,
+        16344127
+      ]
+    },
+    {
+      "reference_id": "77462",
+      "genre": "article",
+      "title": "A Preliminary Report On The Syrphidae Diptera Of Belize With The Description Of A New Species",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "199",
+      "epage": "206",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344128",
+      "created": "2011-06-10 18:33:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47184",
+          "lastname": "Sedman",
+          "forename": "Y S"
+        }
+      ],
+      "bhl_pages": [
+        16344128,
+        16344129,
+        16344130,
+        16344131,
+        16344132,
+        16344133,
+        16344134,
+        16344135
+      ]
+    },
+    {
+      "reference_id": "77440",
+      "genre": "article",
+      "title": "A Study Of Grasshopper Species Composition In Primary And Secondary Growth In Costa rica",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "207",
+      "epage": "211",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344136",
+      "created": "2011-06-10 18:31:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49166",
+          "lastname": "Brodey",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        16344136,
+        16344137,
+        16344138,
+        16344139,
+        16344140
+      ]
+    },
+    {
+      "reference_id": "77459",
+      "genre": "article",
+      "title": "On A Collection Of Odonata From Manipur India",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "213",
+      "epage": "216",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344142",
+      "created": "2011-06-10 18:33:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49157",
+          "lastname": "Mitra",
+          "forename": "T R"
+        }
+      ],
+      "bhl_pages": [
+        16344142,
+        16344143,
+        16344144,
+        16344145
+      ]
+    },
+    {
+      "reference_id": "77446",
+      "genre": "article",
+      "title": "An Index To The Insects And Spiders Featured On Audubons Bird Plates",
+      "secondary_title": "Entomological News",
+      "volume": "86",
+      "spage": "217",
+      "epage": "226",
+      "year": "1975",
+      "date": "1975-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344146",
+      "created": "2011-06-10 18:32:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45372",
+          "lastname": "Frost",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        16344146,
+        16344147,
+        16344148,
+        16344149,
+        16344150,
+        16344151,
+        16344152,
+        16344153,
+        16344154,
+        16344155
+      ]
+    },
+    {
+      "reference_id": "84624",
+      "genre": "article",
+      "title": "New exotic crane-flies (Tipulidae: Diptera). Part 26",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "1",
+      "epage": "10",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344168",
+      "created": "2011-08-10 22:54:49",
+      "updated": "2011-08-10 22:54:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344168,
+        16344169,
+        16344170,
+        16344171,
+        16344172,
+        16344173,
+        16344174,
+        16344175,
+        16344176,
+        16344177
+      ]
+    },
+    {
+      "reference_id": "77428",
+      "genre": "article",
+      "title": "A New Subspecies Of Acilius Coleoptera Dytiscidae From The Southeastern Usa",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "11",
+      "epage": "16",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344178",
+      "created": "2011-06-10 18:30:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41563",
+          "lastname": "Matta",
+          "forename": "J F"
+        },
+        {
+          "id": "49162",
+          "lastname": "Michael",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        16344178,
+        16344179,
+        16344180,
+        16344181,
+        16344182,
+        16344183
+      ]
+    },
+    {
+      "reference_id": "77419",
+      "genre": "article",
+      "title": "Distribution Of The Superfamily Nemouroidea In West virginia Usa Insecta Plecoptera",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "17",
+      "epage": "24",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344184",
+      "created": "2011-06-10 18:29:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49152",
+          "lastname": "Farmer",
+          "forename": "R G"
+        },
+        {
+          "id": "45388",
+          "lastname": "Tarter",
+          "forename": "D C"
+        }
+      ],
+      "bhl_pages": [
+        16344184,
+        16344185,
+        16344186,
+        16344187,
+        16344188,
+        16344189,
+        16344190,
+        16344191
+      ]
+    },
+    {
+      "reference_id": "84435",
+      "genre": "article",
+      "title": "A new Saileria from eastern United States. (Hemiptera: Miridae)",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "29",
+      "epage": "31",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344196",
+      "created": "2011-08-10 22:41:29",
+      "updated": "2011-08-10 22:41:29",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344196,
+        16344197,
+        16344198
+      ]
+    },
+    {
+      "reference_id": "66979",
+      "genre": "article",
+      "title": "New record of the alderfly Sialis itasca Ross for West Virginia (Megaloptera: Sialidae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "87",
+      "spage": "32",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344199",
+      "created": "2011-05-11 18:48:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45388",
+          "lastname": "Tarter",
+          "forename": "D C"
+        },
+        {
+          "id": "45390",
+          "lastname": "Ashley",
+          "forename": "D L"
+        },
+        {
+          "id": "45412",
+          "lastname": "Lilly",
+          "forename": "C K"
+        }
+      ],
+      "bhl_pages": [
+        16344199
+      ]
+    },
+    {
+      "reference_id": "77417",
+      "genre": "article",
+      "title": "Nesting Behavior Of Trichogorytes cockerelli Hymenoptera Sphecidae Nyssoninae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "33",
+      "epage": "37",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344200",
+      "created": "2011-06-10 18:29:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "630",
+          "lastname": "Evans",
+          "forename": "H E"
+        }
+      ],
+      "bhl_pages": [
+        16344200,
+        16344201,
+        16344202,
+        16344203,
+        16344204
+      ]
+    },
+    {
+      "reference_id": "77423",
+      "genre": "article",
+      "title": "The Musca sorbens Complex In Kwajalein Atoll Marshall Islands Pacific Ocean",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "39",
+      "epage": "48",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344206",
+      "created": "2011-06-10 18:30:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39762",
+          "lastname": "Legner",
+          "forename": "E F"
+        }
+      ],
+      "bhl_pages": [
+        16344206,
+        16344207,
+        16344208,
+        16344209,
+        16344210,
+        16344211,
+        16344212,
+        16344213,
+        16344214,
+        16344215
+      ]
+    },
+    {
+      "reference_id": "84739",
+      "genre": "article",
+      "title": "Review of Reuteria Puton 1875, with descriptions of two new species (Hemiptera: Miridae)",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "61",
+      "epage": "74",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344232",
+      "created": "2011-08-10 23:03:11",
+      "updated": "2011-08-10 23:03:11",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344232,
+        16344233,
+        16344234,
+        16344235,
+        16344236,
+        16344237,
+        16344238,
+        16344239,
+        16344240,
+        16344241,
+        16344242,
+        16344243,
+        16344244,
+        16344245
+      ]
+    },
+    {
+      "reference_id": "84796",
+      "genre": "article",
+      "title": "The genus Pterella Robineau-Desvoidy (Diptera: Sarcophagidae, Miltogramminae) of the Ethiopian and Madagascan zoogeographical regions",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "87",
+      "epage": "97",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344258",
+      "created": "2011-08-10 23:07:32",
+      "updated": "2011-08-10 23:07:32",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344258,
+        16344259,
+        16344260,
+        16344261,
+        16344262,
+        16344263,
+        16344264,
+        16344265,
+        16344266,
+        16344267,
+        16344268
+      ]
+    },
+    {
+      "reference_id": "77439",
+      "genre": "article",
+      "title": "Aristapedia In A Hymenopteran Parasitoid",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "98",
+      "epage": "100",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344269",
+      "created": "2011-06-10 18:31:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "5294",
+          "lastname": "Waldbauer",
+          "forename": "G P"
+        },
+        {
+          "id": "41773",
+          "lastname": "Price",
+          "forename": "P W"
+        },
+        {
+          "id": "5295",
+          "lastname": "Sternburg",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        16344269,
+        16344270,
+        16344271
+      ]
+    },
+    {
+      "reference_id": "77412",
+      "genre": "article",
+      "title": "Sexual Behavior In Hyposoter fugitivus Hymenoptera Ichneumonidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "101",
+      "epage": "102",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344272",
+      "created": "2011-06-10 18:29:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41278",
+          "lastname": "Barrows",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        16344272,
+        16344273
+      ]
+    },
+    {
+      "reference_id": "77427",
+      "genre": "article",
+      "title": "Immature Stages And Biology Of Orius tantillus Hemiptera Heteroptera Anthocoridae Inhabiting Rice Fields In West Malaysia",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "103",
+      "epage": "109",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344274",
+      "created": "2011-06-10 18:30:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42646",
+          "lastname": "Manley",
+          "forename": "G V"
+        }
+      ],
+      "bhl_pages": [
+        16344274,
+        16344275,
+        16344276,
+        16344277,
+        16344278,
+        16344279,
+        16344280
+      ]
+    },
+    {
+      "reference_id": "77424",
+      "genre": "article",
+      "title": "Tabular Keys And Biological Notes To Common Parasitoids Of Synanthropic Diptera Breeding In Accumulated Animal Wastes",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "113",
+      "epage": "144",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344284",
+      "created": "2011-06-10 18:30:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39762",
+          "lastname": "Legner",
+          "forename": "E F"
+        },
+        {
+          "id": "3903",
+          "lastname": "Moore",
+          "forename": "I"
+        },
+        {
+          "id": "49158",
+          "lastname": "Olton",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        16344284,
+        16344285,
+        16344286,
+        16344287,
+        16344288,
+        16344289,
+        16344290,
+        16344291,
+        16344292,
+        16344293,
+        16344294,
+        16344295,
+        16344296,
+        16344297,
+        16344298,
+        16344299,
+        16344300,
+        16344301,
+        16344302,
+        16344303,
+        16344304,
+        16344305,
+        16344306,
+        16344307,
+        16344308,
+        16344309,
+        16344310,
+        16344311,
+        16344312,
+        16344313,
+        16344314,
+        16344315
+      ]
+    },
+    {
+      "reference_id": "70544",
+      "genre": "article",
+      "title": "Notes on the Distribution of Oregon Shield-backed Katydids with the Description of a New Species of Idiostatus",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "145",
+      "epage": "158",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344320",
+      "created": "2011-06-03 06:41:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14670",
+          "lastname": "Rentz",
+          "forename": "D C F"
+        },
+        {
+          "id": "46588",
+          "lastname": "",
+          "forename": "Lightfoot"
+        }
+      ],
+      "bhl_pages": [
+        16344320,
+        16344321,
+        16344322,
+        16344323,
+        16344324,
+        16344325,
+        16344326,
+        16344327,
+        16344328,
+        16344329,
+        16344330,
+        16344331,
+        16344332,
+        16344333
+      ]
+    },
+    {
+      "reference_id": "77414",
+      "genre": "article",
+      "title": "Rediscovery Of Bembidion rufotinctum With Extreme Range And Distributional Records Of Bembidion And Other Carabidae Coleoptera",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "159",
+      "epage": "166",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344334",
+      "created": "2011-06-10 18:29:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41539",
+          "lastname": "Cooper",
+          "forename": "K W"
+        }
+      ],
+      "bhl_pages": [
+        16344334,
+        16344335,
+        16344336,
+        16344337,
+        16344338,
+        16344339,
+        16344340,
+        16344341
+      ]
+    },
+    {
+      "reference_id": "77429",
+      "genre": "article",
+      "title": "The Status Of Belostomatid Names Published By J N F X Gistel Hemiptera Heteroptera Belostomatidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "167",
+      "epage": "170",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344342",
+      "created": "2011-06-10 18:30:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "246",
+          "lastname": "Menke",
+          "forename": "A S"
+        }
+      ],
+      "bhl_pages": [
+        16344342,
+        16344343,
+        16344344,
+        16344345
+      ]
+    },
+    {
+      "reference_id": "84473",
+      "genre": "article",
+      "title": "A new species of Scaphoideus from Formosa (Homoptera: Cicadellidae)",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "171",
+      "epage": "175",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344346",
+      "created": "2011-08-10 22:44:25",
+      "updated": "2011-08-10 22:44:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16344346,
+        16344347,
+        16344348,
+        16344349,
+        16344350
+      ]
+    },
+    {
+      "reference_id": "77435",
+      "genre": "article",
+      "title": "An Alternative To Pitfall Traps In Carrion Beetle Studies Coleoptera",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "176",
+      "epage": "178",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344351",
+      "created": "2011-06-10 18:31:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "48133",
+          "lastname": "Shubeck",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        16344351,
+        16344352,
+        16344353
+      ]
+    },
+    {
+      "reference_id": "77425",
+      "genre": "article",
+      "title": "A Low Cost Battery Powered Black Light Trap",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "179",
+      "epage": "180",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344354",
+      "created": "2011-06-10 18:30:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49159",
+          "lastname": "Levine",
+          "forename": "E"
+        },
+        {
+          "id": "49160",
+          "lastname": "Chandler",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        16344354,
+        16344355
+      ]
+    },
+    {
+      "reference_id": "77431",
+      "genre": "article",
+      "title": "Aberrant Reproductive Behavior Patterns Of Dragonflies In Human Impacted Habitats Odonata Libellulidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "181",
+      "epage": "183",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344356",
+      "created": "2011-06-10 18:30:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49137",
+          "lastname": "Neck",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        16344356,
+        16344357,
+        16344358
+      ]
+    },
+    {
+      "reference_id": "70545",
+      "genre": "article",
+      "title": "Systematics, behavior & bionomics of Costa Rican katydids of the genus Sphyrometopa",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "189",
+      "epage": "202",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344368",
+      "created": "2011-06-03 06:41:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14670",
+          "lastname": "Rentz",
+          "forename": "D C F"
+        }
+      ],
+      "bhl_pages": [
+        16344368,
+        16344369,
+        16344370,
+        16344371,
+        16344372,
+        16344373,
+        16344374,
+        16344375,
+        16344376,
+        16344377,
+        16344378,
+        16344379,
+        16344380,
+        16344381
+      ]
+    },
+    {
+      "reference_id": "77438",
+      "genre": "article",
+      "title": "A Preliminary List Of The Spiders Araneae Of Delaware Usa",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "203",
+      "epage": "210",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344382",
+      "created": "2011-06-10 18:31:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49165",
+          "lastname": "Uetz",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        16344382,
+        16344383,
+        16344384,
+        16344385,
+        16344386,
+        16344387,
+        16344388,
+        16344389
+      ]
+    },
+    {
+      "reference_id": "77430",
+      "genre": "article",
+      "title": "New Cavernicolous Species Of Kleptochthonius And Recognition Of A New Species Group Within The Genus Pseudoscorpionida Chthoniidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "211",
+      "epage": "217",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344390",
+      "created": "2011-06-10 18:30:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2589",
+          "lastname": "Muchmore",
+          "forename": "W B"
+        }
+      ],
+      "bhl_pages": [
+        16344390,
+        16344391,
+        16344392,
+        16344393,
+        16344394,
+        16344395,
+        16344396
+      ]
+    },
+    {
+      "reference_id": "77426",
+      "genre": "article",
+      "title": "Some Notes On Social Interactions In Polistes exclamans Hymenoptera Vespidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "218",
+      "epage": "222",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344397",
+      "created": "2011-06-10 18:30:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49161",
+          "lastname": "Maher",
+          "forename": "G D"
+        }
+      ],
+      "bhl_pages": [
+        16344397,
+        16344398,
+        16344399,
+        16344400,
+        16344401
+      ]
+    },
+    {
+      "reference_id": "66955",
+      "genre": "article",
+      "title": "New state records of fishflies (Megaloptera: Corydalidae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "87",
+      "spage": "223",
+      "epage": "228",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344402",
+      "created": "2011-05-11 17:54:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45388",
+          "lastname": "Tarter",
+          "forename": "D C"
+        },
+        {
+          "id": "45389",
+          "lastname": "Watkins",
+          "forename": "W D"
+        },
+        {
+          "id": "45392",
+          "lastname": "Little",
+          "forename": "M L"
+        },
+        {
+          "id": "45391",
+          "lastname": "Goodwin",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        16344402,
+        16344403,
+        16344404,
+        16344405,
+        16344406,
+        16344407
+      ]
+    },
+    {
+      "reference_id": "77413",
+      "genre": "article",
+      "title": "Observations On Adult Behavior Of The Lycid Beetle Calopteron terminale Coleoptera Lycidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "229",
+      "epage": "232",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344408",
+      "created": "2011-06-10 18:29:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41581",
+          "lastname": "Burke",
+          "forename": "H R"
+        }
+      ],
+      "bhl_pages": [
+        16344408,
+        16344409,
+        16344410,
+        16344411
+      ]
+    },
+    {
+      "reference_id": "77418",
+      "genre": "article",
+      "title": "Ellipsopus ornatus New genus New species Of Acaridae Acari Phoretic On The Beetle Bolitotherus cornutus",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "233",
+      "epage": "236",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344412",
+      "created": "2011-06-10 18:29:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "101",
+          "lastname": "Fain",
+          "forename": "A"
+        },
+        {
+          "id": "49151",
+          "lastname": "Ide",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        16344412,
+        16344413,
+        16344414,
+        16344415
+      ]
+    },
+    {
+      "reference_id": "77432",
+      "genre": "article",
+      "title": "A Record Of Some Bat Flies Diptera Nycteribiidae From Turkey",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "239",
+      "epage": "242",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344418",
+      "created": "2011-06-10 18:31:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "36469",
+          "lastname": "Peterson",
+          "forename": "B V"
+        },
+        {
+          "id": "49163",
+          "lastname": "Martin",
+          "forename": "R L"
+        },
+        {
+          "id": "49164",
+          "lastname": "Maurer",
+          "forename": "F W Jr"
+        }
+      ],
+      "bhl_pages": [
+        16344418,
+        16344419,
+        16344420,
+        16344421
+      ]
+    },
+    {
+      "reference_id": "77433",
+      "genre": "article",
+      "title": "Note On The Feeding Habits Of Clinotanypus pinguis Diptera Chironomidae Tanypodinae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "243",
+      "epage": "244",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344422",
+      "created": "2011-06-10 18:31:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18071",
+          "lastname": "Roback",
+          "forename": "S S"
+        }
+      ],
+      "bhl_pages": [
+        16344422,
+        16344423
+      ]
+    },
+    {
+      "reference_id": "77415",
+      "genre": "article",
+      "title": "Significance Of The Morphological Characters Used In Higher Level Natural Classification Of Coleopteran Larvae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "249",
+      "epage": "255",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344432",
+      "created": "2011-06-10 18:29:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49148",
+          "lastname": "De",
+          "forename": "Viedma M G"
+        },
+        {
+          "id": "49149",
+          "lastname": "Nelson",
+          "forename": "M L"
+        }
+      ],
+      "bhl_pages": [
+        16344432,
+        16344433,
+        16344434,
+        16344435,
+        16344436,
+        16344437,
+        16344438
+      ]
+    },
+    {
+      "reference_id": "77416",
+      "genre": "article",
+      "title": "Substrate And Moisture Preferences In Common Toad Bug Gelastocoris oculatus Hemiptera Heteroptera Gelastocoridae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "257",
+      "epage": "264",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344440",
+      "created": "2011-06-10 18:29:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41531",
+          "lastname": "Deonier",
+          "forename": "D L"
+        },
+        {
+          "id": "49150",
+          "lastname": "Kincaid",
+          "forename": "S P"
+        },
+        {
+          "id": "45382",
+          "lastname": "Scheiring",
+          "forename": "J F"
+        }
+      ],
+      "bhl_pages": [
+        16344440,
+        16344441,
+        16344442,
+        16344443,
+        16344444,
+        16344445,
+        16344446,
+        16344447
+      ]
+    },
+    {
+      "reference_id": "77436",
+      "genre": "article",
+      "title": "Carrion Beetle Responses To Poikilotherm And Homoiotherm Carrion Coleoptera Silphidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "265",
+      "epage": "269",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344448",
+      "created": "2011-06-10 18:31:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "48133",
+          "lastname": "Shubeck",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        16344448,
+        16344449,
+        16344450,
+        16344451,
+        16344452
+      ]
+    },
+    {
+      "reference_id": "77420",
+      "genre": "article",
+      "title": "Courtship Behavior In Bathyplectes anurus Hymenoptera Ichneumonidae",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "271",
+      "epage": "274",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344454",
+      "created": "2011-06-10 18:29:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39190",
+          "lastname": "Gordh",
+          "forename": "G"
+        },
+        {
+          "id": "46877",
+          "lastname": "Hendrickson",
+          "forename": "R",
+          "suffix": "jr"
+        }
+      ],
+      "bhl_pages": [
+        16344454,
+        16344455,
+        16344456,
+        16344457
+      ]
+    },
+    {
+      "reference_id": "77437",
+      "genre": "article",
+      "title": "Sense Organs On Antennal Flagellum Of Grylloblatta campodeiformis Orthoptera Grylloblattodea",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "275",
+      "epage": "279",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344458",
+      "created": "2011-06-10 18:31:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44736",
+          "lastname": "Slifer",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        16344458,
+        16344459,
+        16344460,
+        16344461,
+        16344462
+      ]
+    },
+    {
+      "reference_id": "66949",
+      "genre": "article",
+      "title": "Notes on the biology of Cinara abieticola (Cholodkovsky) in Maine and descriptions of sexuales (Homoptera: Aphididae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "87",
+      "spage": "280",
+      "epage": "284",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344463",
+      "created": "2011-05-11 17:53:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45384",
+          "lastname": "Struble",
+          "forename": "D B"
+        },
+        {
+          "id": "45385",
+          "lastname": "Osgood",
+          "forename": "E A"
+        },
+        {
+          "id": "45386",
+          "lastname": "Pepper",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        16344463,
+        16344464,
+        16344465,
+        16344466,
+        16344467
+      ]
+    },
+    {
+      "reference_id": "66886",
+      "genre": "article",
+      "title": "Climacia areolaris (Neuroptera: Sisyridae) in Lake Texoma, Texas, Oklahoma",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "87",
+      "spage": "287",
+      "epage": "291",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344470",
+      "created": "2011-05-11 17:03:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45362",
+          "lastname": "White",
+          "forename": "D S"
+        }
+      ],
+      "bhl_pages": [
+        16344470,
+        16344471,
+        16344472,
+        16344473,
+        16344474
+      ]
+    },
+    {
+      "reference_id": "77434",
+      "genre": "article",
+      "title": "New Record Of Acarine Ecto Parasites On The Northern Palm Squirrel Funambulus pennanti From India",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "292",
+      "epage": "294",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344475",
+      "created": "2011-06-10 18:31:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49140",
+          "lastname": "Sandhu",
+          "forename": "P S"
+        },
+        {
+          "id": "49131",
+          "lastname": "Kapoor",
+          "forename": "V C"
+        }
+      ],
+      "bhl_pages": [
+        16344475,
+        16344476,
+        16344477
+      ]
+    },
+    {
+      "reference_id": "77422",
+      "genre": "article",
+      "title": "Notes On Some Damselflies Of Calcutta India Odonata Zygoptera",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "295",
+      "epage": "298",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344478",
+      "created": "2011-06-10 18:30:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49156",
+          "lastname": "Lahiri",
+          "forename": "A R"
+        },
+        {
+          "id": "49157",
+          "lastname": "Mitra",
+          "forename": "T R"
+        }
+      ],
+      "bhl_pages": [
+        16344478,
+        16344479,
+        16344480,
+        16344481
+      ]
+    },
+    {
+      "reference_id": "77421",
+      "genre": "article",
+      "title": "A Study Of Bracon lefroyi Hymenoptera Braconidae From Iran",
+      "secondary_title": "Entomological News",
+      "volume": "87",
+      "spage": "299",
+      "epage": "302",
+      "year": "1976",
+      "date": "1976-00-00",
+      "issn": "0013-872X",
+      "PageID": "16344482",
+      "created": "2011-06-10 18:30:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49153",
+          "lastname": "Hussain",
+          "forename": "M"
+        },
+        {
+          "id": "49154",
+          "lastname": "Askari",
+          "forename": "A"
+        },
+        {
+          "id": "49155",
+          "lastname": "Asadi",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        16344482,
+        16344483,
+        16344484,
+        16344485
+      ]
+    }
+  ]
+}

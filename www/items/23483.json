@@ -1,0 +1,89 @@
+{
+  "ItemID": "23483",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.103 (1886)",
+  "articles": [
+    {
+      "reference_id": "104655",
+      "genre": "article",
+      "title": "Sur un Rhabdocele nouveau parasite et nidulant (Fecampia erythrocephala)",
+      "secondary_title": "Compte Rendu",
+      "volume": "103",
+      "spage": "499",
+      "epage": "501",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0001-4036",
+      "PageID": "3570074",
+      "created": "2012-06-26 10:27:49",
+      "updated": "2012-06-26 10:27:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3570074,
+        3570075,
+        3570076
+      ]
+    },
+    {
+      "reference_id": "102825",
+      "genre": "article",
+      "title": "Sur le genre Entione Kossmann",
+      "secondary_title": "Comptes Rendus Hebdomadaires des S\u00e9ances de l'Acad\u00e9mie des Sciences",
+      "volume": "103",
+      "issue": "15",
+      "spage": "645",
+      "epage": "647",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0001-4036",
+      "PageID": "3570220",
+      "created": "2012-05-14 10:37:50",
+      "updated": "2012-05-14 10:40:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42115",
+          "lastname": "Giard",
+          "forename": "A"
+        },
+        {
+          "id": "42763",
+          "lastname": "Bonnier",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3570220,
+        3570221,
+        3570222
+      ]
+    },
+    {
+      "reference_id": "104656",
+      "genre": "article",
+      "title": "Sur lea Gephyriens de la famille des Priapulides recueillis par la mission du Cap Horn",
+      "secondary_title": "Compte Rendu",
+      "volume": "103",
+      "spage": "760",
+      "epage": "762",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0001-4036",
+      "PageID": "3570335",
+      "created": "2012-06-26 10:27:54",
+      "updated": "2012-06-26 10:27:54",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3570335,
+        3570336,
+        3570337
+      ]
+    }
+  ]
+}

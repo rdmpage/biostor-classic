@@ -1,0 +1,119 @@
+{
+  "ItemID": "121400",
+  "FullTitle": "The Australian zoologist.",
+  "VolumeInfo": "v. 15 1968-70",
+  "articles": [
+    {
+      "reference_id": "102735",
+      "genre": "article",
+      "title": "Observations on some Australian forest insects. 24. Results from a study of the genus Glycaspis (Homoptera: Psyllidae)",
+      "secondary_title": "Aust. Zool.",
+      "volume": "15",
+      "spage": "343",
+      "epage": "376",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0067-2238",
+      "PageID": "39271744",
+      "created": "2012-05-04 13:55:17",
+      "updated": "2012-05-04 13:57:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "28526",
+          "lastname": "Moore",
+          "forename": "K M"
+        }
+      ],
+      "bhl_pages": [
+        39271744,
+        39271745,
+        39271746,
+        39271747,
+        39271748,
+        39271749,
+        39271750,
+        39271751,
+        39271752,
+        39271753,
+        39271754,
+        39271755,
+        39271756,
+        39271757,
+        39271758,
+        39271759,
+        39271760,
+        39271761,
+        39271762,
+        39271763,
+        39271764,
+        39271765,
+        39271766,
+        39271767,
+        39271768,
+        39271769,
+        39271770,
+        39271771,
+        39271772,
+        39271773,
+        39271774,
+        39271775,
+        39271776,
+        39271777
+      ]
+    },
+    {
+      "reference_id": "105188",
+      "genre": "article",
+      "title": "Preliminary description of a new burrowing mud-shrimp from eastern Australia (Crustacea, Macrura Reptantia, Laomediidae)",
+      "secondary_title": "Aust. Zool.",
+      "volume": "15",
+      "spage": "384",
+      "epage": "385",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0067-2238",
+      "PageID": "39271785",
+      "created": "2012-07-08 21:59:51",
+      "updated": "2012-07-08 21:59:51",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        39271785,
+        39271786
+      ]
+    },
+    {
+      "reference_id": "102734",
+      "genre": "article",
+      "title": "On some New Guinea earthworms",
+      "secondary_title": "Aust. Zool.",
+      "volume": "15",
+      "spage": "386",
+      "epage": "390",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0067-2238",
+      "PageID": "39271787",
+      "created": "2012-05-04 13:54:16",
+      "updated": "2012-05-04 13:54:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "703",
+          "lastname": "Gates",
+          "forename": "G E"
+        }
+      ],
+      "bhl_pages": [
+        39271787,
+        39271788,
+        39271789,
+        39271790,
+        39271791
+      ]
+    }
+  ]
+}

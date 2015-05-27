@@ -1,0 +1,902 @@
+{
+  "ItemID": "89750",
+  "FullTitle": "Spixiana.",
+  "VolumeInfo": "Bd.6 (1983)",
+  "articles": [
+    {
+      "reference_id": "52307",
+      "genre": "article",
+      "title": "Nouveaux Diamesinae de la Pal\u00e9arctide m\u00e9ridionale et orientale (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "1",
+      "epage": "26",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257438",
+      "created": "2010-10-21 11:10:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40479",
+          "lastname": "Serra-Tosio",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        28257438,
+        28257439,
+        28257440,
+        28257441,
+        28257442,
+        28257443,
+        28257444,
+        28257445,
+        28257446,
+        28257447,
+        28257448,
+        28257449,
+        28257450,
+        28257451,
+        28257452,
+        28257453,
+        28257454,
+        28257455,
+        28257456,
+        28257457,
+        28257458,
+        28257459,
+        28257460,
+        28257461,
+        28257462,
+        28257463
+      ]
+    },
+    {
+      "reference_id": "52308",
+      "genre": "article",
+      "title": "Bibliography of Phasmida (Insecta) I. 1970-1979",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "27",
+      "epage": "43",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257464",
+      "created": "2010-10-21 11:10:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40480",
+          "lastname": "Carlberg",
+          "forename": "U"
+        }
+      ],
+      "bhl_pages": [
+        28257464,
+        28257465,
+        28257466,
+        28257467,
+        28257468,
+        28257469,
+        28257470,
+        28257471,
+        28257472,
+        28257473,
+        28257474,
+        28257475,
+        28257476,
+        28257477,
+        28257478,
+        28257479,
+        28257480
+      ]
+    },
+    {
+      "reference_id": "52309",
+      "genre": "article",
+      "title": "Revision der Hadena luteago ([Denis & Schifferm\u00fcller] 1775) \u2013 andalusica (Staudinger, 1859) \u2013 Gruppe nebst Beschreibung einer neuen Art der Gattung Hadena Schrank, 1802, aus Sardinien (Lepidoptera, Noctuidae, Hadeninae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "45",
+      "epage": "59",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257482",
+      "created": "2010-10-21 11:11:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40481",
+          "lastname": "De Freina",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        28257482,
+        28257483,
+        28257484,
+        28257485,
+        28257486,
+        28257487,
+        28257488,
+        28257489,
+        28257490,
+        28257491,
+        28257492,
+        28257493,
+        28257494,
+        28257495,
+        28257496
+      ]
+    },
+    {
+      "reference_id": "52310",
+      "genre": "article",
+      "title": "Besiedlungsgeschichte und urspr\u00fcnglich holoz\u00e4ne Verbreitung der europ\u00e4ischen Flu\u00dfkrebse (Decapoda: Astacidae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "61",
+      "epage": "77",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257498",
+      "created": "2010-10-21 11:11:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40482",
+          "lastname": "Albrecht",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        28257498,
+        28257499,
+        28257500,
+        28257501,
+        28257502,
+        28257503,
+        28257504,
+        28257505,
+        28257506,
+        28257507,
+        28257508,
+        28257509,
+        28257510,
+        28257511,
+        28257512,
+        28257513,
+        28257514
+      ]
+    },
+    {
+      "reference_id": "52311",
+      "genre": "article",
+      "title": "Parapsectra mendli n. sp. (Diptera, Chironomidae) aus dem Allg\u00e4u, Bayern",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "79",
+      "epage": "81",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257516",
+      "created": "2010-10-21 11:11:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40420",
+          "lastname": "Reiss",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        28257516,
+        28257517,
+        28257518
+      ]
+    },
+    {
+      "reference_id": "52312",
+      "genre": "article",
+      "title": "Pericompsus striatopunctatus sp. nov. aus dem brasilianischen Amazonasgebiet (Coleoptera, Carabidae, Bembidiinae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "83",
+      "epage": "85",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257520",
+      "created": "2010-10-21 11:11:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "26091",
+          "lastname": "Baehr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        28257520,
+        28257521,
+        28257522
+      ]
+    },
+    {
+      "reference_id": "52313",
+      "genre": "article",
+      "title": "Ophiambix meteoris n. sp. ein neuer Schlangenstern aus der Iberischen Tiefsee (Ophiacanthidae, Ophiuroidea)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "97",
+      "epage": "100",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257538",
+      "created": "2010-10-21 11:12:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10937",
+          "lastname": "Bartsch",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        28257538,
+        28257539,
+        28257540,
+        28257541
+      ]
+    },
+    {
+      "reference_id": "52314",
+      "genre": "article",
+      "title": "Chicoreus kengaluae n. sp",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "101",
+      "epage": "104",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257542",
+      "created": "2010-10-21 11:12:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "38497",
+          "lastname": "Muhlhausser",
+          "forename": "H"
+        },
+        {
+          "id": "40483",
+          "lastname": "Alf",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        28257542,
+        28257543,
+        28257544,
+        28257545
+      ]
+    },
+    {
+      "reference_id": "52315",
+      "genre": "article",
+      "title": "Tingis (Tropidocheila) bucharica sp. nov. aus Usbekistan UdSSR (Insecta, Heteroptera, Tingidae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "105",
+      "epage": "108",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257546",
+      "created": "2010-10-21 11:12:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "26091",
+          "lastname": "Baehr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        28257546,
+        28257547,
+        28257548,
+        28257549
+      ]
+    },
+    {
+      "reference_id": "52316",
+      "genre": "article",
+      "title": "Trichotichnus demarzi sp. nov., eine weitere Trichotichnus-Art neu f\u00fcr Australien (Insecta, Coleoptera, Carabidae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "109",
+      "epage": "112",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257550",
+      "created": "2010-10-21 11:12:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "26091",
+          "lastname": "Baehr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        28257550,
+        28257551,
+        28257552,
+        28257553
+      ]
+    },
+    {
+      "reference_id": "52317",
+      "genre": "article",
+      "title": "Zur Larvalmorphologie der Gattung Philonthus Curtis (Coleoptera, Staphylinidae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "113",
+      "epage": "131",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257554",
+      "created": "2010-10-21 11:13:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40484",
+          "lastname": "Boller",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        28257554,
+        28257555,
+        28257556,
+        28257557,
+        28257558,
+        28257559,
+        28257560,
+        28257561,
+        28257562,
+        28257563,
+        28257564,
+        28257565,
+        28257566,
+        28257567,
+        28257568,
+        28257569,
+        28257570,
+        28257571,
+        28257572
+      ]
+    },
+    {
+      "reference_id": "52318",
+      "genre": "article",
+      "title": "Agabus (Gaurodytes) hozgargantae sp. nov. aus S\u00fcdspanien",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "133",
+      "epage": "139",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257574",
+      "created": "2010-10-21 11:13:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40446",
+          "lastname": "Burmeister",
+          "forename": "E-G"
+        }
+      ],
+      "bhl_pages": [
+        28257574,
+        28257575,
+        28257576,
+        28257577,
+        28257578,
+        28257579,
+        28257580
+      ]
+    },
+    {
+      "reference_id": "52319",
+      "genre": "article",
+      "title": "New species of Noctuidae (Noctuinae) from Nepal and Tibet (Lepidoptera)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "141",
+      "epage": "147",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257582",
+      "created": "2010-10-21 11:13:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40418",
+          "lastname": "Dierl",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28257582,
+        28257583,
+        28257584,
+        28257585,
+        28257586,
+        28257587,
+        28257588
+      ]
+    },
+    {
+      "reference_id": "52320",
+      "genre": "article",
+      "title": "Notodontidae (Lepidoptera) from Kali Gandaki Valley in Central Nepal",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "149",
+      "epage": "151",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257590",
+      "created": "2010-10-21 11:13:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40418",
+          "lastname": "Dierl",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28257590,
+        28257591,
+        28257592
+      ]
+    },
+    {
+      "reference_id": "52321",
+      "genre": "article",
+      "title": "\u00dcber den anatolischen Megabombus (Thoracobombus) pascuorum (Scopoli, 1763) (Hymenoptera, Apidae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "153",
+      "epage": "165",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257594",
+      "created": "2010-10-21 11:13:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40462",
+          "lastname": "Reinig",
+          "forename": "W F"
+        },
+        {
+          "id": "39739",
+          "lastname": "Rasmont",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        28257594,
+        28257595,
+        28257596,
+        28257597,
+        28257598,
+        28257599,
+        28257600,
+        28257601,
+        28257602,
+        28257603,
+        28257604,
+        28257605,
+        28257606
+      ]
+    },
+    {
+      "reference_id": "52322",
+      "genre": "article",
+      "title": "The Neoperla of Sumatra and Java (Indonesia) (Plecoptera: Perlidae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "167",
+      "epage": "204",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257608",
+      "created": "2010-10-21 11:14:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "27357",
+          "lastname": "Zwick",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        28257608,
+        28257609,
+        28257610,
+        28257611,
+        28257612,
+        28257613,
+        28257614,
+        28257615,
+        28257616,
+        28257617,
+        28257618,
+        28257619,
+        28257620,
+        28257621,
+        28257622,
+        28257623,
+        28257624,
+        28257625,
+        28257626,
+        28257627,
+        28257628,
+        28257629,
+        28257630,
+        28257631,
+        28257632,
+        28257633,
+        28257634,
+        28257635,
+        28257636,
+        28257637,
+        28257638,
+        28257639,
+        28257640,
+        28257641,
+        28257642,
+        28257643,
+        28257644,
+        28257645
+      ]
+    },
+    {
+      "reference_id": "52323",
+      "genre": "article",
+      "title": "\u00d6kologie und Verhalten des Muschelkrebses Heterocypris incongruens Claus, 1892 (Ostracoda)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "205",
+      "epage": "210",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257646",
+      "created": "2010-10-21 11:14:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40419",
+          "lastname": "Reichholf",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        28257646,
+        28257647,
+        28257648,
+        28257649,
+        28257650,
+        28257651
+      ]
+    },
+    {
+      "reference_id": "52324",
+      "genre": "article",
+      "title": "Ein Katzenskelett der R\u00f6merzeit aus Quseir (Koser) am Roten Meer",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "issue": "2",
+      "spage": "211",
+      "epage": "218",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257652",
+      "created": "2010-10-21 11:14:30",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51152",
+          "lastname": "Boessneck",
+          "forename": "Joachim"
+        },
+        {
+          "id": "51153",
+          "lastname": "Von Den Driesch",
+          "forename": "Angela"
+        }
+      ],
+      "bhl_pages": [
+        28257652,
+        28257653,
+        28257654,
+        28257655,
+        28257656,
+        28257657,
+        28257658,
+        28257659
+      ]
+    },
+    {
+      "reference_id": "52325",
+      "genre": "article",
+      "title": "Verbreitung, \u00d6kologie und innerartliche Gliederung von Triturus vulgaris in den adriatischen K\u00fcstengebieten (Amphibia, Salamandridae)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "229",
+      "epage": "249",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257674",
+      "created": "2010-10-21 11:14:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40486",
+          "lastname": "Schmidtler",
+          "forename": "J J"
+        },
+        {
+          "id": "40487",
+          "lastname": "Schmidtler",
+          "forename": "J F"
+        }
+      ],
+      "bhl_pages": [
+        28257674,
+        28257675,
+        28257676,
+        28257677,
+        28257678,
+        28257679,
+        28257680,
+        28257681,
+        28257682,
+        28257683,
+        28257684,
+        28257685,
+        28257686,
+        28257687,
+        28257688,
+        28257689,
+        28257690,
+        28257691,
+        28257692,
+        28257693,
+        28257694
+      ]
+    },
+    {
+      "reference_id": "52326",
+      "genre": "article",
+      "title": "Zur Vergesellschaftung der Gamasidenarten Poecilochirus carabi G. u. R. Canestrini 1882 (= P. necrophori Vitzthum 1930), P. austroasiaticus Vitzthum 1930 und P. subterraneus M\u00fcller 1859 mit Aask\u00e4fern aus der Familie der Silphidae",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "251",
+      "epage": "279",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257696",
+      "created": "2010-10-21 11:14:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40475",
+          "lastname": "Korn",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28257696,
+        28257697,
+        28257698,
+        28257699,
+        28257700,
+        28257701,
+        28257702,
+        28257703,
+        28257704,
+        28257705,
+        28257706,
+        28257707,
+        28257708,
+        28257709,
+        28257710,
+        28257711,
+        28257712,
+        28257713,
+        28257714,
+        28257715,
+        28257716,
+        28257717,
+        28257718,
+        28257719,
+        28257720,
+        28257721,
+        28257722,
+        28257723,
+        28257724
+      ]
+    },
+    {
+      "reference_id": "52327",
+      "genre": "article",
+      "title": "Die Ichneumoniden-Sammlung Erich Bauers in der Zoologischen Staatssammlung in M\u00fcnchen (Hymenoptera)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "281",
+      "epage": "290",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257726",
+      "created": "2010-10-21 11:15:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "30671",
+          "lastname": "Horstmann",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        28257726,
+        28257727,
+        28257728,
+        28257729,
+        28257730,
+        28257731,
+        28257732,
+        28257733,
+        28257734,
+        28257735
+      ]
+    },
+    {
+      "reference_id": "52328",
+      "genre": "article",
+      "title": "Zwei Leptastacus-Arten aus dem zentralen Teil von Panam\u00e1 (Copepoda, Harpacticoida)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "291",
+      "epage": "299",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257736",
+      "created": "2010-10-21 11:15:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "38008",
+          "lastname": "Mielke",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28257736,
+        28257737,
+        28257738,
+        28257739,
+        28257740,
+        28257741,
+        28257742,
+        28257743,
+        28257744
+      ]
+    },
+    {
+      "reference_id": "52329",
+      "genre": "article",
+      "title": "Zur Erforschungsgeschichte und Namengebung beim Orang-Utan, Pongo satyrus (Linnaeus, 1758); Synon. Pongo pygmaeus (Hoppius, 1763). (Mit Kurzbibliographie)",
+      "secondary_title": "Spixiana",
+      "volume": "6",
+      "spage": "301",
+      "epage": "332",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0341-8391",
+      "PageID": "28257746",
+      "created": "2010-10-21 11:15:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40477",
+          "lastname": "R\u00f6hrer-Ertl",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        28257746,
+        28257747,
+        28257748,
+        28257749,
+        28257750,
+        28257751,
+        28257752,
+        28257753,
+        28257754,
+        28257755,
+        28257756,
+        28257757,
+        28257758,
+        28257759,
+        28257760,
+        28257761,
+        28257762,
+        28257763,
+        28257764,
+        28257765,
+        28257766,
+        28257767,
+        28257768,
+        28257769,
+        28257770,
+        28257771,
+        28257772,
+        28257773,
+        28257774,
+        28257775,
+        28257776,
+        28257777
+      ]
+    }
+  ]
+}

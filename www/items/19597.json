@@ -1,0 +1,105 @@
+{
+  "ItemID": "19597",
+  "FullTitle": "Zoological Journal.  ",
+  "VolumeInfo": "3",
+  "articles": [
+    {
+      "reference_id": "70946",
+      "genre": "article",
+      "title": "A description of some new genera and species of petalocerous Coleoptera",
+      "secondary_title": "Zoological Journal",
+      "volume": "3",
+      "spage": "145",
+      "epage": "158",
+      "year": "1827",
+      "date": "1827-00-00",
+      "issn": "0024-4082",
+      "PageID": "2339328",
+      "created": "2011-06-03 16:59:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10320",
+          "lastname": "Kirby",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2339328,
+        2339329,
+        2339330,
+        2339331,
+        2339332,
+        2339333,
+        2339334,
+        2339367,
+        2339368,
+        2339369,
+        2339370,
+        2339371,
+        2339372,
+        2339373
+      ]
+    },
+    {
+      "reference_id": "71619",
+      "genre": "article",
+      "title": "Descriptions of three new species of land tortoises",
+      "secondary_title": "Zoological Journal. London",
+      "volume": "3",
+      "spage": "419",
+      "epage": "421",
+      "year": "1828",
+      "date": "1828-00-00",
+      "issn": "0024-4082",
+      "PageID": "2339623",
+      "created": "2011-06-03 22:28:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17660",
+          "lastname": "Bell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        2339623,
+        2339624,
+        2339625
+      ]
+    },
+    {
+      "reference_id": "61385",
+      "genre": "article",
+      "title": "A description of some coleopterous insects in the collection of the Rev. F.W. Hope, F.L.S",
+      "secondary_title": "Zoological Journal London",
+      "volume": "3",
+      "spage": "520",
+      "epage": "525",
+      "year": "1828",
+      "date": "1828-00-00",
+      "issn": "0024-4082",
+      "PageID": "2339597",
+      "created": "2011-01-10 19:32:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10320",
+          "lastname": "Kirby",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2339597,
+        2339598,
+        2339599,
+        2339600,
+        2339601,
+        2339602
+      ]
+    }
+  ]
+}

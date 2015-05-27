@@ -1,0 +1,37 @@
+{
+  "ItemID": "54851",
+  "FullTitle": "Jornal de sciencias mathematicas, physicas e naturaes \/  Academia Real das Sciencias de Lisboa.",
+  "VolumeInfo": "t.9 (1882-1884)",
+  "articles": [
+    {
+      "reference_id": "100203",
+      "genre": "article",
+      "title": "Liste des mammif\u00e8res envoy\u00e9s de Caconda \u00abAngola\u00bb par M. D'Anchieta",
+      "secondary_title": "Jornal de sciencias mathematicas, physicas e naturaes \/ Academia Real das Sciencias de Lisboa",
+      "volume": "9",
+      "spage": "25",
+      "epage": "29",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "181912037",
+      "PageID": "16211308",
+      "created": "2012-01-12 23:01:49",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53413",
+          "lastname": "Bocage",
+          "forename": "J V Barboza Du"
+        }
+      ],
+      "bhl_pages": [
+        16211308,
+        16211309,
+        16211310,
+        16211311,
+        16211312
+      ]
+    }
+  ]
+}

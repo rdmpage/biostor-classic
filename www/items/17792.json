@@ -1,0 +1,97 @@
+{
+  "ItemID": "17792",
+  "FullTitle": "Bolet\u00edn de la Sociedad Espa\u00f1ola de Historia Natural.",
+  "VolumeInfo": "t. 6 (1906)",
+  "articles": [
+    {
+      "reference_id": "72709",
+      "genre": "article",
+      "title": "Notas entomol\u00f3gicas. XIII. Sobre una peque\u00f1a colecci\u00f3n de Neur\u00f3pteros de Italia, reunida por el profesor Felipe Silvestri, de Portici",
+      "secondary_title": "Bolet\u00edn de la [Real] Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "6",
+      "spage": "101",
+      "epage": "102",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "2450616",
+      "PageID": "1726684",
+      "created": "2011-06-04 03:18:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45425",
+          "lastname": "Nav\u00e1s",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        1726684,
+        1726685
+      ]
+    },
+    {
+      "reference_id": "72307",
+      "genre": "article",
+      "title": "Especias nuevas de Coleopteros de Marruecos",
+      "secondary_title": "Boletin de la Real Sociedad Espanola de Historia Natural. Madrid",
+      "volume": "6",
+      "spage": "161",
+      "epage": "163",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "2450616",
+      "PageID": "1726744",
+      "created": "2011-06-04 01:10:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47007",
+          "lastname": "Escalera",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        1726744,
+        1726745,
+        1726746
+      ]
+    },
+    {
+      "reference_id": "71341",
+      "genre": "article",
+      "title": "Rectificaciones y observaciones ortopterol\u00f3gicas",
+      "secondary_title": "Bolet\u00edn de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "6",
+      "spage": "384",
+      "epage": "393",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0583-7499",
+      "PageID": "1726971",
+      "created": "2011-06-03 19:27:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "525",
+          "lastname": "Bolivar",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        1726971,
+        1726972,
+        1726973,
+        1726974,
+        1726975,
+        1726976,
+        1726977,
+        1726978,
+        1726979,
+        1726980
+      ]
+    }
+  ]
+}

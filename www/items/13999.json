@@ -1,0 +1,37 @@
+{
+  "ItemID": "13999",
+  "FullTitle": "Annals of the Missouri Botanical Garden",
+  "VolumeInfo": "v.67 (1980)",
+  "articles": [
+    {
+      "reference_id": "12244",
+      "genre": "article",
+      "title": "Flora of Panama",
+      "secondary_title": "Annals of the Missouri Botanical Garden",
+      "volume": "67",
+      "year": "1980",
+      "date": "1980-00-00",
+      "issn": "0026-6493",
+      "doi": "10.2307\/2398968",
+      "PageID": "537361",
+      "created": "2010-01-08 16:38:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8609",
+          "lastname": "Woodson",
+          "forename": "Robert E"
+        },
+        {
+          "id": "8678",
+          "lastname": "Schery",
+          "forename": "Robert W"
+        }
+      ],
+      "bhl_pages": [
+        537361
+      ]
+    }
+  ]
+}

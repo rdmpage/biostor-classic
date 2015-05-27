@@ -1,0 +1,41 @@
+{
+  "ItemID": "50865",
+  "FullTitle": "Proceedings of the Rochester Academy of Science.  ",
+  "VolumeInfo": "v.1 1889-1891",
+  "articles": [
+    {
+      "reference_id": "59741",
+      "genre": "article",
+      "title": "Descriptions of new species of Muricidae, with remarks on the apices of certain forms",
+      "secondary_title": "Proceeding of the Rochester Academy of Sceince",
+      "volume": "1",
+      "spage": "129",
+      "epage": "137",
+      "year": "1891",
+      "date": "1891-00-00",
+      "oclc": "1379666",
+      "PageID": "14609559",
+      "created": "2010-11-22 15:45:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42686",
+          "lastname": "Baker",
+          "forename": "F C"
+        }
+      ],
+      "bhl_pages": [
+        14609559,
+        14609560,
+        14609561,
+        14609562,
+        14609563,
+        14609564,
+        14609565,
+        14609566,
+        14609567
+      ]
+    }
+  ]
+}

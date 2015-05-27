@@ -1,0 +1,64 @@
+{
+  "ItemID": "17843",
+  "FullTitle": "Bolet\u00edn de la Sociedad Espa\u00f1ola de Historia Natural.",
+  "VolumeInfo": "t. 14 (1914)",
+  "articles": [
+    {
+      "reference_id": "71424",
+      "genre": "article",
+      "title": "Estudios sobre Espongiarios",
+      "secondary_title": "Bolet\u00ednde la Real Sociedad espa\u00f1ola de Historia natural",
+      "volume": "14",
+      "spage": "451",
+      "epage": "455",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "2450616",
+      "PageID": "1754932",
+      "created": "2011-06-03 19:50:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46829",
+          "lastname": "Ferrer Hern\u00e1ndez",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        1754932,
+        1754933,
+        1754934,
+        1754935,
+        1754936
+      ]
+    },
+    {
+      "reference_id": "71329",
+      "genre": "article",
+      "title": "Un nuevo conocefalino de Madagascar (Orth. Phasg.)",
+      "secondary_title": "Bolet\u00edn de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "14",
+      "spage": "494",
+      "epage": "495",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0583-7499",
+      "PageID": "1754975",
+      "created": "2011-06-03 19:24:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46801",
+          "lastname": "Bol\u00edvar",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1754975,
+        1754976
+      ]
+    }
+  ]
+}

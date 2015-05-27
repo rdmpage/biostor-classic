@@ -1,0 +1,44 @@
+{
+  "ItemID": "32563",
+  "FullTitle": "Le Naturaliste canadien.",
+  "VolumeInfo": "v. 9 1877",
+  "articles": [
+    {
+      "reference_id": "72952",
+      "genre": "article",
+      "title": "Additions aux Ichneumonides de Quebec",
+      "secondary_title": "Naturaliste Canadien",
+      "volume": "9",
+      "spage": "5",
+      "epage": "16",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "1605564",
+      "PageID": "7606208",
+      "created": "2011-06-04 04:45:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46760",
+          "lastname": "Provancher",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        7606208,
+        7606207,
+        7606206,
+        7606205,
+        7606204,
+        7606203,
+        7606202,
+        7606201,
+        7606200,
+        7606199,
+        7606198,
+        7606197
+      ]
+    }
+  ]
+}

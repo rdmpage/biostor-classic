@@ -1,0 +1,152 @@
+{
+  "ItemID": "61792",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "3rd ser. v. 4 (1859)",
+  "articles": [
+    {
+      "reference_id": "89169",
+      "genre": "article",
+      "title": "XV.\u2014Notes on the Hydroid zoophytes",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "3",
+      "spage": "137",
+      "epage": "144",
+      "year": "1859",
+      "date": "1859-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935908697098",
+      "PageID": "18638052",
+      "created": "2011-09-27 08:36:36",
+      "updated": "2011-09-27 08:36:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51819",
+          "lastname": "",
+          "forename": "Allman"
+        }
+      ],
+      "bhl_pages": [
+        18638052,
+        18638053,
+        18638054,
+        18638055,
+        18638056,
+        18638057,
+        18638058,
+        18638059
+      ]
+    },
+    {
+      "reference_id": "89187",
+      "genre": "article",
+      "title": "Obituary notice",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "3",
+      "spage": "311",
+      "epage": "312",
+      "year": "1859",
+      "date": "1859-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935908697133",
+      "PageID": "18638226",
+      "created": "2011-09-27 08:37:56",
+      "updated": "2011-09-27 08:37:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2692",
+          "lastname": "Henfrey",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        18638226,
+        18638227
+      ]
+    },
+    {
+      "reference_id": "77736",
+      "genre": "article",
+      "title": "On the nomenclature of the Foraminifera Part II. On the species enumerated by Walker and Montagu",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "4",
+      "series": "3",
+      "spage": "333",
+      "epage": "351",
+      "year": "1859",
+      "date": "1859-00-00",
+      "issn": "0374-5481",
+      "PageID": "18638248",
+      "created": "2011-06-14 05:56:54",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46407",
+          "lastname": "Parker",
+          "forename": "W K"
+        },
+        {
+          "id": "49368",
+          "lastname": "Jones",
+          "forename": "T R"
+        }
+      ],
+      "bhl_pages": [
+        18638248,
+        18638249,
+        18638250,
+        18638251,
+        18638252,
+        18638253,
+        18638254,
+        18638255,
+        18638256,
+        18638257,
+        18638258,
+        18638259,
+        18638260,
+        18638261,
+        18638262,
+        18638263,
+        18638264,
+        18638265,
+        18638266
+      ]
+    },
+    {
+      "reference_id": "89193",
+      "genre": "article",
+      "title": "XXXVIII.\u2014Notes on the hydroid zoophytes",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "3",
+      "spage": "367",
+      "epage": "370",
+      "year": "1859",
+      "date": "1859-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935908697144",
+      "PageID": "18638282",
+      "created": "2011-09-27 08:38:28",
+      "updated": "2011-09-27 08:38:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51819",
+          "lastname": "",
+          "forename": "Allman"
+        }
+      ],
+      "bhl_pages": [
+        18638282,
+        18638283,
+        18638284,
+        18638285
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ItemID": "35746",
+  "FullTitle": "Proceedings of the Washington Academy of Sciences.  ",
+  "VolumeInfo": "v. 3 (1901)",
+  "articles": [
+    {
+      "reference_id": "70320",
+      "genre": "article",
+      "title": "Papers from the Hopkins Stanford Galapagos Expedition, 1898-1899. III. Entomological Results (3): Odonata",
+      "secondary_title": "Proceedings Washington Academy Sciences",
+      "volume": "3",
+      "spage": "381",
+      "epage": "389",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0363-1095",
+      "PageID": "8873267",
+      "created": "2011-06-02 15:57:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45315",
+          "lastname": "Currie",
+          "forename": "R P"
+        }
+      ],
+      "bhl_pages": [
+        8873267,
+        8873268,
+        8873269,
+        8873270,
+        8873271,
+        8873272,
+        8873273,
+        8873274,
+        8873275
+      ]
+    },
+    {
+      "reference_id": "57662",
+      "genre": "article",
+      "title": "Papers from the Hopkins Stanford Galapagos Expedition, 1898\u20131899",
+      "secondary_title": "Proceedings of the Washington Academy of Sciences",
+      "volume": "3",
+      "spage": "565",
+      "epage": "568",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0363-1095",
+      "PageID": "8873497",
+      "created": "2010-11-20 14:28:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42123",
+          "lastname": "Richardson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8873497,
+        8873498,
+        8873499,
+        8873500
+      ]
+    }
+  ]
+}

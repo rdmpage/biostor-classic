@@ -1,0 +1,94 @@
+{
+  "ItemID": "22635",
+  "FullTitle": "Fishery bulletin \/  U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service.",
+  "VolumeInfo": "v. 102, no. 1-4  (2004)",
+  "articles": [
+    {
+      "reference_id": "71309",
+      "genre": "article",
+      "title": "A remarkable new species of Psednos(Teleostei: Liparidae) from the western North Atlantic Ocean",
+      "secondary_title": "Fish. Bull",
+      "volume": "102",
+      "spage": "245",
+      "epage": "250",
+      "year": "2004",
+      "date": "2004-00-00",
+      "issn": "0090-0656",
+      "PageID": "3260946",
+      "created": "2011-06-03 18:31:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "22519",
+          "lastname": "Chernova",
+          "forename": "N V"
+        },
+        {
+          "id": "11494",
+          "lastname": "Stein",
+          "forename": "D L"
+        }
+      ],
+      "bhl_pages": [
+        3260946,
+        3260778,
+        3260779,
+        3260780,
+        3261215,
+        3260781
+      ]
+    },
+    {
+      "reference_id": "67146",
+      "genre": "article",
+      "title": "The dusky rockfishes (Teleostei: Scorpaeniformes) of the North Pacific Ocean: resurrection of Sebastes variabilis (Pallas, 1814) and a redescription of Sebastes ciliatus (Tilesius, 1813)",
+      "secondary_title": "Fishery Bulletin",
+      "volume": "102",
+      "spage": "328",
+      "epage": "348",
+      "year": "2004",
+      "date": "2004-00-00",
+      "issn": "0090-0656",
+      "PageID": "3261245",
+      "created": "2011-05-19 07:46:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20736",
+          "lastname": "Orr",
+          "forename": "James W"
+        },
+        {
+          "id": "45467",
+          "lastname": "Blackburn",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        3261245,
+        3260813,
+        3260814,
+        3260815,
+        3260816,
+        3260817,
+        3261246,
+        3261247,
+        3260818,
+        3261248,
+        3260899,
+        3260671,
+        3261249,
+        3260697,
+        3261250,
+        3260698,
+        3260819,
+        3261251,
+        3261252,
+        3261053,
+        3261054
+      ]
+    }
+  ]
+}

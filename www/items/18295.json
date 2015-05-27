@@ -1,0 +1,64 @@
+{
+  "ItemID": "18295",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 28 (1876)",
+  "articles": [
+    {
+      "reference_id": "57358",
+      "genre": "article",
+      "title": "On webs of new species of spiders",
+      "secondary_title": "Proc. Acad. nat. Sci. Philad.",
+      "volume": "1876",
+      "spage": "200",
+      "epage": "201",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0097-3157",
+      "PageID": "1959026",
+      "created": "2010-11-18 14:02:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42014",
+          "lastname": "Mccook",
+          "forename": "H C"
+        }
+      ],
+      "bhl_pages": [
+        1959026,
+        1959027
+      ]
+    },
+    {
+      "reference_id": "67477",
+      "genre": "article",
+      "title": "Notes on fishes from the Isthmus of Panama, collected by Dr. J. F. Bransford, U.S. N",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "28",
+      "spage": "335",
+      "epage": "339",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0097-3157",
+      "PageID": "1958683",
+      "created": "2011-05-28 09:39:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        1958683,
+        1958684,
+        1958685,
+        1958686,
+        1958687
+      ]
+    }
+  ]
+}

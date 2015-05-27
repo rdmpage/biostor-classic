@@ -1,0 +1,34 @@
+{
+  "ItemID": "52234",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 19 (1871)",
+  "articles": [
+    {
+      "reference_id": "59696",
+      "genre": "article",
+      "title": "Description d'un Unio d'Australie",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "19",
+      "spage": "328",
+      "epage": "329",
+      "year": "1871",
+      "date": "1871-00-00",
+      "oclc": "1605690",
+      "PageID": "15136349",
+      "created": "2010-11-22 15:33:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42668",
+          "lastname": "Villa",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15136349,
+        15136350
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ItemID": "39876",
+  "FullTitle": "Bullettino della Societ\u00e0 entomologica italiana.",
+  "VolumeInfo": "v. 33 1901",
+  "articles": [
+    {
+      "reference_id": "66713",
+      "genre": "article",
+      "title": "Di un nuovo crostaceo isopodo (Caecosphaeroma bericum, n. sp.) delle Grotte dei Colli Berici nel Vicentino",
+      "secondary_title": "Bolletino Societa Entomologica Italiano",
+      "volume": "33",
+      "spage": "169",
+      "epage": "176",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1765746",
+      "PageID": "10449639",
+      "created": "2011-05-09 17:49:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45301",
+          "lastname": "Fabiani",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        10449639,
+        10449640,
+        10449641,
+        10449642,
+        10449643,
+        10449644,
+        10449645,
+        10449646
+      ]
+    }
+  ]
+}

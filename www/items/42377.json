@@ -1,0 +1,192 @@
+{
+  "ItemID": "42377",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 23 1897",
+  "articles": [
+    {
+      "reference_id": "72910",
+      "genre": "article",
+      "title": "Zwei neue Ichneumoniden von Borkum",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "23",
+      "spage": "7",
+      "epage": "10",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0232-5535",
+      "PageID": "11417157",
+      "created": "2011-06-04 04:40:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42410",
+          "lastname": "Krieger",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        11417157,
+        11417158,
+        11417159,
+        11417160
+      ]
+    },
+    {
+      "reference_id": "72883",
+      "genre": "article",
+      "title": "Entomologica varia",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "23",
+      "spage": "43",
+      "epage": "45",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0232-5535",
+      "PageID": "11417201",
+      "created": "2011-06-04 04:38:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11417201,
+        11417202,
+        11417203
+      ]
+    },
+    {
+      "reference_id": "72894",
+      "genre": "article",
+      "title": "Entomologica varia",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "23",
+      "spage": "119",
+      "epage": "124",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0232-5535",
+      "PageID": "11417291",
+      "created": "2011-06-04 04:39:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11417291,
+        11417292,
+        11417293,
+        11417294,
+        11417295,
+        11417296
+      ]
+    },
+    {
+      "reference_id": "72925",
+      "genre": "article",
+      "title": "Entomologica varia",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "23",
+      "spage": "184",
+      "epage": "192",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0232-5535",
+      "PageID": "11417366",
+      "created": "2011-06-04 04:42:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11417366,
+        11417367,
+        11417368,
+        11417369,
+        11417370,
+        11417371,
+        11417372,
+        11417373,
+        11417374
+      ]
+    },
+    {
+      "reference_id": "73765",
+      "genre": "article",
+      "title": "Anthomyiden mit Lispa-ahnlich erweiterten Tastern",
+      "secondary_title": "Ent. Nachr",
+      "volume": "23",
+      "spage": "317",
+      "epage": "323",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0232-5535",
+      "PageID": "11417527",
+      "created": "2011-06-04 09:45:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10017",
+          "lastname": "Stein",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11417527,
+        11417528,
+        11417529,
+        11417530,
+        11417531,
+        11417532,
+        11417533
+      ]
+    },
+    {
+      "reference_id": "72380",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der indo-australischen Odonatenfauna. VI",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "23",
+      "spage": "333",
+      "epage": "338",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0232-5535",
+      "PageID": "11417545",
+      "created": "2011-06-04 01:42:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46677",
+          "lastname": "Foerster",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11417545,
+        11417546,
+        11417547,
+        11417548,
+        11417549,
+        11417550
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "ItemID": "33590",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 14 1933",
+  "articles": [
+    {
+      "reference_id": "62050",
+      "genre": "article",
+      "title": "Chromosome number and relationship in the Magnoliales",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "14",
+      "year": "1933",
+      "date": "1933-00-00",
+      "issn": "0004-2625",
+      "PageID": "8105856",
+      "created": "2011-01-26 19:47:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43265",
+          "lastname": "Whitaker",
+          "forename": "T W"
+        }
+      ],
+      "bhl_pages": [
+        8105856
+      ]
+    },
+    {
+      "reference_id": "61894",
+      "genre": "article",
+      "title": "Taxonomic and cytological relationships of Yucca and Agave",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "14",
+      "spage": "76",
+      "epage": "81",
+      "year": "1933",
+      "date": "1933-00-00",
+      "issn": "0004-2625",
+      "PageID": "8105932",
+      "created": "2011-01-26 19:05:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43215",
+          "lastname": "Mckelvey",
+          "forename": "S D"
+        },
+        {
+          "id": "43149",
+          "lastname": "Sax",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        8105932,
+        8105933,
+        8105934,
+        8105935,
+        8105936,
+        8105937
+      ]
+    },
+    {
+      "reference_id": "61985",
+      "genre": "article",
+      "title": "Chromosome behavior in Calycanthus",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "14",
+      "spage": "279",
+      "epage": "281",
+      "year": "1933",
+      "date": "1933-00-00",
+      "issn": "0004-2625",
+      "PageID": "8106147",
+      "created": "2011-01-26 19:16:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43149",
+          "lastname": "Sax",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        8106147,
+        8106148,
+        8106149
+      ]
+    },
+    {
+      "reference_id": "62039",
+      "genre": "article",
+      "title": "Chromosome number and morphology in the conifers",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "14",
+      "spage": "356",
+      "epage": "375",
+      "year": "1933",
+      "date": "1933-00-00",
+      "issn": "0004-2625",
+      "PageID": "8106236",
+      "created": "2011-01-26 19:44:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43261",
+          "lastname": "Sax",
+          "forename": "H J"
+        },
+        {
+          "id": "43149",
+          "lastname": "Sax",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        8106236,
+        8106237,
+        8106238,
+        8106239,
+        8106240,
+        8106241,
+        8106242,
+        8106243,
+        8106244,
+        8106245,
+        8106246,
+        8106247,
+        8106248,
+        8106249,
+        8106250,
+        8106251,
+        8106252,
+        8106253,
+        8106254,
+        8106255
+      ]
+    }
+  ]
+}

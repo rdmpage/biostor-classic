@@ -1,0 +1,573 @@
+{
+  "ItemID": "42396",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 25 1899",
+  "articles": [
+    {
+      "reference_id": "71311",
+      "genre": "article",
+      "title": "Neue \u00e4thiopische Eurybrachiden (Rhynchota Homoptera)",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "25",
+      "spage": "1",
+      "epage": "10",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "5844710",
+      "PageID": "11423717",
+      "created": "2011-06-03 19:18:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11423717,
+        11423718,
+        11423719,
+        11423720,
+        11423721,
+        11423722,
+        11423723,
+        11423724,
+        11423725,
+        11423726
+      ]
+    },
+    {
+      "reference_id": "72036",
+      "genre": "article",
+      "title": "Eine neue Bockk\u00e4fergattung aus Togo",
+      "secondary_title": "Entomologische Nachrichten, Berlin",
+      "volume": "25",
+      "spage": "11",
+      "epage": "13",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "5844710",
+      "PageID": "11423727",
+      "created": "2011-06-04 00:15:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "37881",
+          "lastname": "Heller",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        11423727,
+        11423728,
+        11423729
+      ]
+    },
+    {
+      "reference_id": "73601",
+      "genre": "article",
+      "title": "Euryomma, eine neue Gattung der Anthomyidengruppe",
+      "secondary_title": "Ent. Nachr",
+      "volume": "25",
+      "spage": "19",
+      "epage": "22",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11423739",
+      "created": "2011-06-04 09:25:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10017",
+          "lastname": "Stein",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11423739,
+        11423740,
+        11423741,
+        11423742
+      ]
+    },
+    {
+      "reference_id": "72299",
+      "genre": "article",
+      "title": "Ueber neue oder wenig bekannte Arten der Melolonthiden-Gattung Apogonia aus Africa",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "25",
+      "spage": "39",
+      "epage": "60",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11423761",
+      "created": "2011-06-04 01:09:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39450",
+          "lastname": "Kolbe",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11423761,
+        11423762,
+        11423763,
+        11423764,
+        11423765,
+        11423766,
+        11423767,
+        11423768,
+        11423769,
+        11423770,
+        11423771,
+        11423772,
+        11423773,
+        11423774,
+        11423775,
+        11423776,
+        11423777,
+        11423778,
+        11423779,
+        11423780,
+        11423781,
+        11423782
+      ]
+    },
+    {
+      "reference_id": "72035",
+      "genre": "article",
+      "title": "Das Weibchen von Neoclosterus curvipes",
+      "secondary_title": "Entomologische Nachrichten, Berlin",
+      "volume": "25",
+      "spage": "81",
+      "epage": "83",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "5844710",
+      "PageID": "11423811",
+      "created": "2011-06-04 00:15:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "37881",
+          "lastname": "Heller",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        11423811,
+        11423812,
+        11423813
+      ]
+    },
+    {
+      "reference_id": "61450",
+      "genre": "article",
+      "title": "\u00dcber Ab\u00e4nderungen einiger Coleopteren-Arten, welche bei Hamburg gefunden wurden",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "25",
+      "spage": "97",
+      "epage": "102",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "5844710",
+      "PageID": "11423831",
+      "created": "2011-01-10 20:28:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43027",
+          "lastname": "Meier",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        11423831,
+        11423832,
+        11423833,
+        11423834,
+        11423835,
+        11423836
+      ]
+    },
+    {
+      "reference_id": "73145",
+      "genre": "article",
+      "title": "Beitrag zur Biologie und Systematik der Musciden",
+      "secondary_title": "Ent. Nachr",
+      "volume": "25",
+      "spage": "177",
+      "epage": "186",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11423929",
+      "created": "2011-06-04 07:53:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47155",
+          "lastname": "Girschner",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11423929,
+        11423930,
+        11423931,
+        11423932,
+        11423933,
+        11423934,
+        11423935,
+        11423936,
+        11423937,
+        11423938
+      ]
+    },
+    {
+      "reference_id": "70896",
+      "genre": "article",
+      "title": "Zur Odonaten-Fauna von Madagascar",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "25",
+      "spage": "186",
+      "epage": "191",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11423938",
+      "created": "2011-06-03 16:46:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46677",
+          "lastname": "Foerster",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11423938,
+        11423939,
+        11423940,
+        11423941,
+        11423942,
+        11423943
+      ]
+    },
+    {
+      "reference_id": "72276",
+      "genre": "article",
+      "title": "Zur Biologie der s\u00fcdamerikanischen Cerambyciden-Gattung Hippopsis",
+      "secondary_title": "Entomologische Nachrichten, Berlin",
+      "volume": "25",
+      "spage": "193",
+      "epage": "195",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "5844710",
+      "PageID": "11423949",
+      "created": "2011-06-04 01:01:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47000",
+          "lastname": "Schulz",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        11423949,
+        11423950,
+        11423951
+      ]
+    },
+    {
+      "reference_id": "71080",
+      "genre": "article",
+      "title": "Papilio orthosilaus n. sp",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "25",
+      "spage": "195",
+      "epage": "198",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11423951",
+      "created": "2011-06-03 17:39:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46737",
+          "lastname": "Weymer",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        11423951,
+        11423952,
+        11423953,
+        11423954
+      ]
+    },
+    {
+      "reference_id": "72347",
+      "genre": "article",
+      "title": "Die von Ceylon bekennten Arten der Melolonthiden-gattung Apogonia",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "25",
+      "spage": "198",
+      "epage": "204",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11423954",
+      "created": "2011-06-04 01:30:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39450",
+          "lastname": "Kolbe",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11423954,
+        11423955,
+        11423956,
+        11423957,
+        11423958,
+        11423959,
+        11423960
+      ]
+    },
+    {
+      "reference_id": "60800",
+      "genre": "article",
+      "title": "Die Bienengattung Exoneura Sm",
+      "secondary_title": "Entomologische Nachrichten. Dresden",
+      "volume": "25",
+      "spage": "209",
+      "epage": "211",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "5844710",
+      "PageID": "11423969",
+      "created": "2010-11-23 04:42:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10030",
+          "lastname": "Friese",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11423969,
+        11423970,
+        11423971
+      ]
+    },
+    {
+      "reference_id": "61594",
+      "genre": "article",
+      "title": "Mitteilungen \u00fcber neue und bekaante Gallen aus Europa, Asien, Africa und Amerika",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "25",
+      "spage": "225",
+      "epage": "282",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "5844710",
+      "PageID": "11423989",
+      "created": "2011-01-10 22:21:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42323",
+          "lastname": "R\u00fcbsaamen",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        11423989,
+        11423990,
+        11423991,
+        11423992,
+        11423993,
+        11423994,
+        11423995,
+        11423996,
+        11423997,
+        11423998,
+        11423999,
+        11424000,
+        11424001,
+        11424002,
+        11424003,
+        11424004,
+        11424005,
+        11424006,
+        11424007,
+        11424008,
+        11424009,
+        11424010,
+        11424011,
+        11424012,
+        11424013,
+        11424014,
+        11424015,
+        11424016,
+        11424017,
+        11424018,
+        11424019,
+        11424020,
+        11424021,
+        11424022,
+        11424023,
+        11424024,
+        11424025,
+        11424026,
+        11424027,
+        11424028,
+        11424029,
+        11424030,
+        11424031,
+        11424032,
+        11424033,
+        11424034,
+        11424035,
+        11424036,
+        11424037,
+        11424038,
+        11424039,
+        11424040,
+        11424041,
+        11424042,
+        11424043,
+        11424044,
+        11424045,
+        11424046
+      ]
+    },
+    {
+      "reference_id": "73849",
+      "genre": "article",
+      "title": "Neue Coleopteren von der Balkan-Halbinsel",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "25",
+      "spage": "289",
+      "epage": "292",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11424061",
+      "created": "2011-06-04 10:03:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47248",
+          "lastname": "Apfelbeck",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        11424061,
+        11424062,
+        11424063,
+        11424064
+      ]
+    },
+    {
+      "reference_id": "72900",
+      "genre": "article",
+      "title": "Ichneumonologica varia. Contin",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "25",
+      "spage": "295",
+      "epage": "303",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11424067",
+      "created": "2011-06-04 04:40:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11424067,
+        11424068,
+        11424069,
+        11424070,
+        11424071,
+        11424072,
+        11424073,
+        11424074,
+        11424075
+      ]
+    },
+    {
+      "reference_id": "70875",
+      "genre": "article",
+      "title": "Neue Odonaten aus Ost- und S\u00fcd-Afrika mit Einschluss des Seengebietes",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "25",
+      "spage": "369",
+      "epage": "382",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0232-5535",
+      "PageID": "11424157",
+      "created": "2011-06-03 16:43:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11424157,
+        11424158,
+        11424159,
+        11424160,
+        11424161,
+        11424162,
+        11424163,
+        11424164,
+        11424165,
+        11424166,
+        11424167,
+        11424168,
+        11424169,
+        11424170
+      ]
+    }
+  ]
+}

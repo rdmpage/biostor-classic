@@ -1,0 +1,64 @@
+{
+  "author": [
+    {
+      "firstname": "John J",
+      "lastname": "Wiens",
+      "name": "John J Wiens"
+    }
+  ],
+  "type": "article",
+  "title": "Systematics of the leptodactylid frog genus Telmatobius in the Andes of northern Peru",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "162",
+    "pages": "1--76",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1993",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/223"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4469321"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 223
+    },
+    {
+      "type": "bhl",
+      "id": 4469321
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -77.85,
+        -7.8
+      ],
+      [
+        -78.316666666667,
+        -5.5666666666667
+      ],
+      [
+        -77.7,
+        -5.7666666666667
+      ],
+      [
+        -77.916666666667,
+        -5.8166666666667
+      ]
+    ]
+  }
+}

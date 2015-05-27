@@ -1,0 +1,80 @@
+{
+  "ItemID": "34901",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 45 (1931-1932)",
+  "articles": [
+    {
+      "reference_id": "101213",
+      "genre": "article",
+      "title": "Description of a new desert helicid snail",
+      "secondary_title": "Nautilus",
+      "volume": "45",
+      "spage": "20",
+      "epage": "21",
+      "year": "1931",
+      "date": "1931-00-00",
+      "issn": "0028-1344",
+      "PageID": "8527843",
+      "created": "2012-03-12 12:03:36",
+      "updated": "2012-03-12 12:03:36",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8527843,
+        8527844
+      ]
+    },
+    {
+      "reference_id": "101210",
+      "genre": "article",
+      "title": "Two new Helicoids from Los Angeles County, California",
+      "secondary_title": "Nautilus",
+      "volume": "45",
+      "spage": "47",
+      "epage": "51",
+      "year": "1931",
+      "date": "1931-00-00",
+      "issn": "0028-1344",
+      "PageID": "8527876",
+      "created": "2012-03-12 12:03:13",
+      "updated": "2012-03-12 12:03:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8527876,
+        8527877,
+        8527878,
+        8527879,
+        8527880
+      ]
+    },
+    {
+      "reference_id": "101142",
+      "genre": "article",
+      "title": "On the name Mitra lineata",
+      "secondary_title": "Nautilus",
+      "volume": "45",
+      "spage": "53",
+      "epage": "55",
+      "year": "1931",
+      "date": "1931-00-00",
+      "issn": "0028-1344",
+      "PageID": "8527884",
+      "created": "2012-03-12 11:54:21",
+      "updated": "2012-03-12 11:54:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8527884,
+        8527885,
+        8527886
+      ]
+    }
+  ]
+}

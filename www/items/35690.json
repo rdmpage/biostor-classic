@@ -1,0 +1,78 @@
+{
+  "ItemID": "35690",
+  "FullTitle": "Anales de la Sociedad Espa\u00f1ola de Historia Natural.  ",
+  "VolumeInfo": "t. 10 (1881)",
+  "articles": [
+    {
+      "reference_id": "57246",
+      "genre": "article",
+      "title": "Arachnides nouveaux ou peu connus des provinces basques",
+      "secondary_title": "Ann. Soc. esp. his. nat.",
+      "volume": "10",
+      "spage": "127",
+      "epage": "132",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "2450615",
+      "PageID": "8847855",
+      "created": "2010-11-18 13:19:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        8847855,
+        8847856,
+        8847857,
+        8847858,
+        8847859,
+        8847860
+      ]
+    },
+    {
+      "reference_id": "71222",
+      "genre": "article",
+      "title": "Notas entomol\u00f3gicas IV. Estudio sobre algunos Ort\u00f3pteros del Museo de Varsovia",
+      "secondary_title": "Anales de la Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "10",
+      "spage": "463",
+      "epage": "477",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "2450615",
+      "PageID": "8848203",
+      "created": "2011-06-03 18:12:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "525",
+          "lastname": "Bolivar",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        8848203,
+        8848204,
+        8848205,
+        8848206,
+        8848207,
+        8848208,
+        8848209,
+        8848210,
+        8848211,
+        8848212,
+        8848213,
+        8848214,
+        8848215,
+        8848216,
+        8848217
+      ]
+    }
+  ]
+}

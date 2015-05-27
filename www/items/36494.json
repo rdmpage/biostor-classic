@@ -1,0 +1,339 @@
+{
+  "ItemID": "36494",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 9\/10 1872\/74",
+  "articles": [
+    {
+      "reference_id": "72055",
+      "genre": "article",
+      "title": "Description of a remarkable new species of Agrionina from Madagascar",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "9",
+      "spage": "1",
+      "epage": "2",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1568052",
+      "PageID": "9270986",
+      "created": "2011-06-04 00:18:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9270986,
+        9270987
+      ]
+    },
+    {
+      "reference_id": "60580",
+      "genre": "article",
+      "title": "Notes on Heteromera, and descriptions of new genera and species No. 1, No. 3",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "9",
+      "spage": "97",
+      "epage": "99",
+      "year": "1872",
+      "date": "1872-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9271105",
+      "created": "2010-11-23 02:14:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42839",
+          "lastname": "Bates",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9271105,
+        9271106,
+        9271107
+      ]
+    },
+    {
+      "reference_id": "72868",
+      "genre": "article",
+      "title": "Description of a new species of Aphidius from Britain",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "9",
+      "spage": "123",
+      "epage": "124",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1568052",
+      "PageID": "9271131",
+      "created": "2011-06-04 04:27:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40022",
+          "lastname": "Marshall",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        9271131,
+        9271132
+      ]
+    },
+    {
+      "reference_id": "61679",
+      "genre": "article",
+      "title": "Notes on two new genera of Psocidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "9",
+      "spage": "145",
+      "epage": "146",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1568052",
+      "PageID": "9271153",
+      "created": "2011-01-10 23:43:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43095",
+          "lastname": "De S\u00e9lys-Longchamps",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9271153,
+        9271154
+      ]
+    },
+    {
+      "reference_id": "60588",
+      "genre": "article",
+      "title": "Notes on Heteromera, and descriptions of new genera and species. No. 5",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "9",
+      "spage": "201",
+      "epage": "204",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9271209",
+      "created": "2010-11-23 02:22:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42839",
+          "lastname": "Bates",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9271209,
+        9271210,
+        9271211,
+        9271212
+      ]
+    },
+    {
+      "reference_id": "71057",
+      "genre": "article",
+      "title": "Descriptions of two new butterflies from the West Coast of Africa",
+      "secondary_title": "The Entomologist's Monthly Magazine",
+      "volume": "9",
+      "spage": "232",
+      "epage": "233",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1568052",
+      "PageID": "9271240",
+      "created": "2011-06-03 17:37:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40146",
+          "lastname": "Hewitson",
+          "forename": "W C"
+        }
+      ],
+      "bhl_pages": [
+        9271240,
+        9271241
+      ]
+    },
+    {
+      "reference_id": "72890",
+      "genre": "article",
+      "title": "Descriptions of two new species of Ichneumonidae (Anomalon and Mesostenus) from Great Britain",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "9",
+      "spage": "240",
+      "epage": "241",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1568052",
+      "PageID": "9271248",
+      "created": "2011-06-04 04:39:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40022",
+          "lastname": "Marshall",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        9271248,
+        9271249
+      ]
+    },
+    {
+      "reference_id": "73342",
+      "genre": "article",
+      "title": "Additions and correction to the list of British Syrphidae",
+      "secondary_title": "Ent. Mon. Mag",
+      "volume": "9",
+      "spage": "251",
+      "epage": "256",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0013-8908",
+      "PageID": "9271259",
+      "created": "2011-06-04 08:19:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39912",
+          "lastname": "Verrall",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        9271259,
+        9271260,
+        9271261,
+        9271262,
+        9271263,
+        9271264
+      ]
+    },
+    {
+      "reference_id": "72670",
+      "genre": "article",
+      "title": "Description of three new Continental and one British species of Liburnia",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "10",
+      "spage": "104",
+      "epage": "107",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1568052",
+      "PageID": "9271430",
+      "created": "2011-06-04 03:07:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42803",
+          "lastname": "Scott",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9271430,
+        9271431,
+        9271432,
+        9271433
+      ]
+    },
+    {
+      "reference_id": "60978",
+      "genre": "article",
+      "title": "Descriptions of new species of exotic Rhopalocera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "10",
+      "spage": "107",
+      "epage": "108",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1568052",
+      "PageID": "9271433",
+      "created": "2010-11-28 10:39:39",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42900",
+          "lastname": "Murray",
+          "forename": "R P"
+        }
+      ],
+      "bhl_pages": [
+        9271433,
+        9271434
+      ]
+    },
+    {
+      "reference_id": "65513",
+      "genre": "article",
+      "title": "Descriptions of three new species of Scarabaeidae from Australia and Japan",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "10",
+      "spage": "175",
+      "epage": "176",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1568052",
+      "PageID": "9271501",
+      "created": "2011-04-05 08:40:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42194",
+          "lastname": "Waterhouse",
+          "forename": "C O"
+        }
+      ],
+      "bhl_pages": [
+        9271501,
+        9271502
+      ]
+    },
+    {
+      "reference_id": "103855",
+      "genre": "article",
+      "title": "Descriptions of a new genus and two new species of European Oxyura",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "10",
+      "spage": "207",
+      "epage": "209",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1568052",
+      "PageID": "9271533",
+      "created": "2012-05-30 13:40:18",
+      "updated": "2012-05-30 13:40:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9271533,
+        9271534,
+        9271535
+      ]
+    }
+  ]
+}

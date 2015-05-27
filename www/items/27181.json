@@ -1,0 +1,292 @@
+{
+  "ItemID": "27181",
+  "FullTitle": "Bulletin du Muse\u0301um national d'histoire naturelle.",
+  "VolumeInfo": "t.9 1903",
+  "articles": [
+    {
+      "reference_id": "104803",
+      "genre": "article",
+      "title": "Description d'une nouvelle espece d'Oiseau, type d'un genre nouveau, provenant de Madagascar",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1903",
+      "spage": "10",
+      "epage": "12",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024585",
+      "created": "2012-06-28 20:35:55",
+      "updated": "2012-06-28 20:35:55",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024585,
+        5024586,
+        5024587
+      ]
+    },
+    {
+      "reference_id": "67246",
+      "genre": "article",
+      "title": "Description de Cichlid\u00e9s nouveax de la collection du Mus\u00e9um",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "9",
+      "spage": "120",
+      "epage": "125",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "5297845",
+      "PageID": "5024699",
+      "created": "2011-05-24 20:52:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5024699,
+        5024700,
+        5024701,
+        5024702,
+        5024703,
+        5024704
+      ]
+    },
+    {
+      "reference_id": "104794",
+      "genre": "article",
+      "title": "Note sur Hemiaster cubicus, Desor, et ses variations",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1903",
+      "spage": "177",
+      "epage": "180",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024756",
+      "created": "2012-06-28 20:34:13",
+      "updated": "2012-06-28 20:34:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024756,
+        5024757,
+        5024758,
+        5024759
+      ]
+    },
+    {
+      "reference_id": "100215",
+      "genre": "article",
+      "title": "Notes herp\u00e9tologiques",
+      "secondary_title": "Bulletin du Museum Paris",
+      "volume": "1903",
+      "spage": "209",
+      "epage": "221",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0027-4070",
+      "PageID": "5024792",
+      "created": "2012-01-15 18:01:24",
+      "updated": "2012-01-15 18:03:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39397",
+          "lastname": "Mocquard",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        5024792,
+        5024793,
+        5024794,
+        5024795,
+        5024796,
+        5024797,
+        5024798,
+        5024799,
+        5024800,
+        5024801,
+        5024802,
+        5024803,
+        5024804
+      ]
+    },
+    {
+      "reference_id": "67243",
+      "genre": "article",
+      "title": "Cichlid\u00e9 nouveau de l'Oubanghi appartenant au genre Lamprologus",
+      "secondary_title": "Bulletin du Museum d'Histoire Naturelle (Paris) .",
+      "volume": "9",
+      "spage": "220",
+      "epage": "221",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "5297845",
+      "PageID": "5024803",
+      "created": "2011-05-24 20:38:19",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5024803,
+        5024804
+      ]
+    },
+    {
+      "reference_id": "104900",
+      "genre": "article",
+      "title": "Sur le Peripatus thalloni. Extrait d'une lettre adress\u00e9e de Ng\u00f4m\u00f4 (Og\u00f4ou\u00e9) par M. le Pasteur Haug \u00e0 M. Le Professeur Bouvier",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "9",
+      "spage": "221",
+      "epage": "222",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "4469175",
+      "PageID": "5024804",
+      "created": "2012-06-29 09:13:14",
+      "updated": "2012-06-29 09:13:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        5024804,
+        5024805
+      ]
+    },
+    {
+      "reference_id": "71342",
+      "genre": "article",
+      "title": "Catalogue des Orthopt\u00e8res Locustides des Collections du Mus\u00e9um",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle",
+      "volume": "9",
+      "spage": "225",
+      "epage": "227",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "5297845",
+      "PageID": "5024808",
+      "created": "2011-06-03 19:27:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46804",
+          "lastname": "",
+          "forename": "Buysson"
+        }
+      ],
+      "bhl_pages": [
+        5024808,
+        5024809,
+        5024810
+      ]
+    },
+    {
+      "reference_id": "67247",
+      "genre": "article",
+      "title": "Poissons r\u00e9colt\u00e9s dans l\u2019Ouell\u00e9 par la Mission du Bourg de Bozas",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "9",
+      "spage": "326",
+      "epage": "328",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "5297845",
+      "PageID": "5024915",
+      "created": "2011-05-24 20:55:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5024915,
+        5024916,
+        5024917
+      ]
+    },
+    {
+      "reference_id": "97974",
+      "genre": "article",
+      "title": "Remarques sur les Necrophages du Museum et description d'especes nouvelles",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "9",
+      "spage": "329",
+      "epage": "336",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0027-4070",
+      "PageID": "5024918",
+      "created": "2011-11-09 09:21:18",
+      "updated": "2011-11-09 09:21:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024918,
+        5024919,
+        5024920,
+        5024921,
+        5024922,
+        5024923,
+        5024924,
+        5024925
+      ]
+    },
+    {
+      "reference_id": "72949",
+      "genre": "article",
+      "title": "Especes nouvelles d'Ichneumonides et de Braconides du Museum d'Histoire Naturelle de Paris",
+      "secondary_title": "Bulletin du Museum National d'Histoire Naturelle. Paris",
+      "volume": "9",
+      "spage": "336",
+      "epage": "338",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "5297845",
+      "PageID": "5024925",
+      "created": "2011-06-04 04:44:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40390",
+          "lastname": "Sz\u00e9pligeti",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        5024925,
+        5024926,
+        5024927
+      ]
+    }
+  ]
+}

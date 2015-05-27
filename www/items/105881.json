@@ -1,0 +1,34 @@
+{
+  "ItemID": "105881",
+  "FullTitle": "Entomologische Bl\u00e4tter : internationale Monatsschrift f\u00fcr die Biologie der K\u00e4fer Europas unter besonderer Ber\u00fccksichtigung der Forstentomologie.",
+  "VolumeInfo": "Jahrg.10-11 1914-1915",
+  "articles": [
+    {
+      "reference_id": "100217",
+      "genre": "article",
+      "title": "Ips fallax nov. spec",
+      "secondary_title": "Entomologische Bl\u00e4tter Berlin",
+      "volume": "11",
+      "spage": "96",
+      "epage": "97",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "19872844",
+      "PageID": "33946038",
+      "created": "2012-01-16 10:33:55",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53190",
+          "lastname": "Eggers",
+          "forename": "Hans"
+        }
+      ],
+      "bhl_pages": [
+        33946038,
+        33946039
+      ]
+    }
+  ]
+}

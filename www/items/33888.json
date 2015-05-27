@@ -1,0 +1,99 @@
+{
+  "ItemID": "33888",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.51 (1991)",
+  "articles": [
+    {
+      "reference_id": "85304",
+      "genre": "article",
+      "title": "Flower mites of Trinidad 2. The genus Proctolaelaps (Acari: Ascidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "51",
+      "spage": "348",
+      "epage": "376",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "0017-3614",
+      "PageID": "8115177",
+      "created": "2011-08-12 09:19:33",
+      "updated": "2012-04-27 17:17:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20105",
+          "lastname": "Oconnor",
+          "forename": "Barry M"
+        },
+        {
+          "id": "38242",
+          "lastname": "Colwell",
+          "forename": "Robert K"
+        },
+        {
+          "id": "39129",
+          "lastname": "Naeem",
+          "forename": "Shahid"
+        }
+      ],
+      "bhl_pages": [
+        8115177,
+        8115178,
+        8115179,
+        8115180,
+        8115181,
+        8115182,
+        8115183,
+        8115184,
+        8115185,
+        8115186,
+        8115187,
+        8115188,
+        8115189,
+        8115190,
+        8115191,
+        8115192,
+        8115193,
+        8115194,
+        8115195,
+        8115196,
+        8115197,
+        8115198,
+        8115199,
+        8115200,
+        8115201,
+        8115202,
+        8115203,
+        8115204,
+        8115205
+      ]
+    },
+    {
+      "reference_id": "70815",
+      "genre": "article",
+      "title": "New species of Sialis from southern California (Megaloptera: Sialidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "51",
+      "spage": "411",
+      "epage": "413",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "0017-3614",
+      "PageID": "8115240",
+      "created": "2011-06-03 07:12:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12150",
+          "lastname": "Whiting",
+          "forename": "M F"
+        }
+      ],
+      "bhl_pages": [
+        8115240,
+        8115241,
+        8115242
+      ]
+    }
+  ]
+}

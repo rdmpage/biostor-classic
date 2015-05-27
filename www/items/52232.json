@@ -1,0 +1,34 @@
+{
+  "ItemID": "52232",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 16 (1868)",
+  "articles": [
+    {
+      "reference_id": "61599",
+      "genre": "article",
+      "title": "Diagnoses de deux Limaciens de la Nouvelle Cal\u00e9donie",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "16",
+      "spage": "145",
+      "epage": "146",
+      "year": "1868",
+      "date": "1868-00-00",
+      "oclc": "1605690",
+      "PageID": "15135340",
+      "created": "2011-01-10 22:24:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40414",
+          "lastname": "Fischer",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        15135340,
+        15135341
+      ]
+    }
+  ]
+}

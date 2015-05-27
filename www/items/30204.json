@@ -1,0 +1,101 @@
+{
+  "ItemID": "30204",
+  "FullTitle": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 42 (1861)",
+  "articles": [
+    {
+      "reference_id": "61484",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntniss der Gobioiden",
+      "secondary_title": "Sitzungsberichte der Akademie der Wissenschaften in Wien",
+      "volume": "42",
+      "spage": "283",
+      "epage": "292",
+      "year": "1861",
+      "date": "1861-00-00",
+      "oclc": "5882578",
+      "PageID": "6438185",
+      "created": "2011-01-10 20:58:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6438185,
+        6438193,
+        6438194,
+        6438195,
+        6438196,
+        6438197,
+        6438198,
+        6438199,
+        6438200,
+        6438201
+      ]
+    },
+    {
+      "reference_id": "51684",
+      "genre": "article",
+      "title": "Die Ausbeute der \u00f6sterreichischen Naturforscher an S\u00e4ugethieren und Reptilien w\u00e4hrend der Weltumsegelung Sr. Majest\u00e4t Fregatte Novara",
+      "secondary_title": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe",
+      "volume": "42",
+      "spage": "383",
+      "epage": "416",
+      "year": "1861",
+      "date": "1861-00-00",
+      "oclc": "5882985",
+      "PageID": "6438309",
+      "created": "2010-06-27 02:40:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40218",
+          "lastname": "Fitzinger",
+          "forename": "L J F J"
+        }
+      ],
+      "bhl_pages": [
+        6438309,
+        6438310,
+        6438311,
+        6438319,
+        6438320,
+        6438321,
+        6438322,
+        6438323,
+        6438324,
+        6438325,
+        6438452,
+        6438453,
+        6438454,
+        6438455,
+        6438456,
+        6438457,
+        6438458,
+        6438459,
+        6438460,
+        6438461,
+        6438462,
+        6438463,
+        6438464,
+        6438465,
+        6438466,
+        6438467,
+        6438468,
+        6438469,
+        6438470,
+        6438471,
+        6438472,
+        6438473,
+        6438474,
+        6438475
+      ]
+    }
+  ]
+}

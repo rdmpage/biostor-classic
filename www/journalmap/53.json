@@ -1,0 +1,53 @@
+{
+  "author": [
+    {
+      "firstname": "Celia J",
+      "lastname": "Ellis",
+      "name": "Celia J Ellis"
+    }
+  ],
+  "type": "article",
+  "title": "The Conchoecia reticulata species-group, with descriptions of C. reticulata Muller (1906), C. caudata (1891), and two new species",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Zoology",
+    "volume": "46",
+    "issue": "4",
+    "pages": "317--343",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0007-1498"
+      }
+    ]
+  },
+  "year": "1984",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/53"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2632666"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 53
+    },
+    {
+      "type": "bhl",
+      "id": 2632666
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -16.983333333333,
+        -23.55
+      ]
+    ]
+  }
+}

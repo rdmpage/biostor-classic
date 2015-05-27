@@ -1,0 +1,150 @@
+{
+  "ItemID": "37038",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "6",
+  "articles": [
+    {
+      "reference_id": "60870",
+      "genre": "article",
+      "title": "Observations on a new genus of taenioids",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "6",
+      "spage": "59",
+      "epage": "63",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0270-2444",
+      "PageID": "9493239",
+      "created": "2010-11-23 04:52:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42878",
+          "lastname": "Weinland",
+          "forename": "D F"
+        }
+      ],
+      "bhl_pages": [
+        9493239,
+        9493240,
+        9493241,
+        9493242,
+        9493243
+      ]
+    },
+    {
+      "reference_id": "60148",
+      "genre": "article",
+      "title": "Notices of new species of Crustacea of western North America",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "6",
+      "spage": "84",
+      "epage": "89",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0270-2444",
+      "PageID": "9493264",
+      "created": "2010-11-22 19:52:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41025",
+          "lastname": "Stimpson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9493264,
+        9493265,
+        9493266,
+        9493267,
+        9493268,
+        9493269
+      ]
+    },
+    {
+      "reference_id": "51761",
+      "genre": "article",
+      "title": "On a supposed new species of Siredon from Lake Superior",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "6",
+      "spage": "152",
+      "epage": "154",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0270-2444",
+      "PageID": "9493332",
+      "created": "2010-06-27 04:55:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40241",
+          "lastname": "Kneeland",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        9493332,
+        9493333,
+        9493334
+      ]
+    },
+    {
+      "reference_id": "67184",
+      "genre": "article",
+      "title": "Description of a new species of Zeus",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "6",
+      "spage": "385",
+      "epage": "386",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0270-2444",
+      "PageID": "9493565",
+      "created": "2011-05-19 10:08:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45469",
+          "lastname": "Storer",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        9493565,
+        9493566
+      ]
+    },
+    {
+      "reference_id": "65225",
+      "genre": "article",
+      "title": "Crustacea",
+      "secondary_title": "Proceedings of The Boston Society of Natural History",
+      "volume": "6",
+      "spage": "412",
+      "epage": "413",
+      "year": "1859",
+      "date": "1859-00-00",
+      "issn": "0270-2444",
+      "PageID": "9493592",
+      "created": "2011-02-04 15:51:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41025",
+          "lastname": "Stimpson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9493592,
+        9493593
+      ]
+    }
+  ]
+}

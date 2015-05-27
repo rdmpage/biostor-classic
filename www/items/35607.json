@@ -1,0 +1,37 @@
+{
+  "ItemID": "35607",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1901",
+  "articles": [
+    {
+      "reference_id": "70842",
+      "genre": "article",
+      "title": "Eine neue Art aus der Familie der Nemopteriden Ostafrikas",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1901",
+      "spage": "65",
+      "epage": "69",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0037-5942",
+      "PageID": "8798471",
+      "created": "2011-06-03 15:36:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42311",
+          "lastname": "Kolbe",
+          "forename": "H J"
+        }
+      ],
+      "bhl_pages": [
+        8798471,
+        8798472,
+        8798473,
+        8798474,
+        8798475
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ItemID": "22569",
+  "FullTitle": "Fishery bulletin \/  U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service.",
+  "VolumeInfo": "v. 75 (1977)",
+  "articles": [
+    {
+      "reference_id": "71112",
+      "genre": "article",
+      "title": "Biology of offshore hake, Merluccius albidus, in the gulf of Mexico",
+      "secondary_title": "Fish. Bull",
+      "volume": "75",
+      "spage": "147",
+      "epage": "158",
+      "year": "1977",
+      "date": "1977-00-00",
+      "issn": "0090-0656",
+      "PageID": "3227443",
+      "created": "2011-06-03 17:51:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46751",
+          "lastname": "Rohr",
+          "forename": "B A"
+        },
+        {
+          "id": "46752",
+          "lastname": "Gutherz",
+          "forename": "E J"
+        }
+      ],
+      "bhl_pages": [
+        3227443,
+        3227444,
+        3226988,
+        3227032,
+        3227445,
+        3227446,
+        3227447,
+        3227448,
+        3227449,
+        3227069,
+        3227450,
+        3227451
+      ]
+    },
+    {
+      "reference_id": "59599",
+      "genre": "article",
+      "title": "The ribbonfish genus Desmodema with the description of a new species (Pisces : Trachipteridae)",
+      "secondary_title": "Fishery Bulletin (U.S.)",
+      "volume": "75",
+      "spage": "843",
+      "epage": "855",
+      "year": "1977",
+      "date": "1977-00-00",
+      "oclc": "1783998",
+      "PageID": "3227327",
+      "created": "2010-11-21 13:01:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "29373",
+          "lastname": "Rosenblatt",
+          "forename": "R H"
+        },
+        {
+          "id": "39122",
+          "lastname": "Butler",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        3227327,
+        3227150,
+        3227328,
+        3227329,
+        3227330,
+        3227331,
+        3227798,
+        3227332,
+        3227333,
+        3227799,
+        3227800,
+        3227801,
+        3227802
+      ]
+    }
+  ]
+}

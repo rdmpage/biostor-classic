@@ -1,0 +1,43 @@
+{
+  "ItemID": "20886",
+  "FullTitle": "New birds from the Philippines  [by] Austin L. Rand and D. S. Rabor.",
+  "VolumeInfo": "v.42:no.2(1957)",
+  "articles": [
+    {
+      "reference_id": "1419",
+      "genre": "article",
+      "title": "New birds from the Philippines",
+      "secondary_title": "Fieldiana Zool.",
+      "volume": "42",
+      "spage": "13",
+      "epage": "18",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0015-0754",
+      "PageID": "2765200",
+      "created": "2009-12-23 16:19:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1057",
+          "lastname": "Rand",
+          "forename": "A L"
+        },
+        {
+          "id": "1058",
+          "lastname": "Rabor",
+          "forename": "D S"
+        }
+      ],
+      "bhl_pages": [
+        2765200,
+        2765201,
+        2765202,
+        2765203,
+        2765204,
+        2765205
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "ItemID": "41824",
+  "FullTitle": "Spolia zeylanica.",
+  "VolumeInfo": "v. 5 (1907-1908)",
+  "articles": [
+    {
+      "reference_id": "72809",
+      "genre": "article",
+      "title": "Description of a new species of Apanteles from Ceylon",
+      "secondary_title": "Spolia Zeylanica",
+      "volume": "5",
+      "spage": "17",
+      "epage": "18",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0081-3745",
+      "PageID": "11165979",
+      "created": "2011-06-04 04:19:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11165979,
+        11165980
+      ]
+    },
+    {
+      "reference_id": "71406",
+      "genre": "article",
+      "title": "Mimicry in insect life, as exemplified by Ceylon insects",
+      "secondary_title": "Spolia Zeylanica",
+      "volume": "5",
+      "spage": "87",
+      "epage": "94",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0081-3745",
+      "PageID": "11166069",
+      "created": "2011-06-03 19:45:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        11166069,
+        11166070,
+        11166071,
+        11166072,
+        11166073,
+        11166074,
+        11166075,
+        11166076
+      ]
+    },
+    {
+      "reference_id": "71313",
+      "genre": "article",
+      "title": "A new Ceylonese Tettigid (Orthoptera) of the genus Eurymorphopus",
+      "secondary_title": "Spolia Zeylanica",
+      "volume": "5",
+      "spage": "113",
+      "epage": "114",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0081-3745",
+      "PageID": "11166107",
+      "created": "2011-06-03 19:19:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39939",
+          "lastname": "Hancock",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        11166107,
+        11166108
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ItemID": "15922",
+  "FullTitle": "Harriman Alaska series.  ",
+  "VolumeInfo": "8",
+  "articles": [
+    {
+      "reference_id": "72673",
+      "genre": "article",
+      "title": "The Homoptera of Alaska",
+      "secondary_title": "Harriman Alaska",
+      "volume": "8",
+      "spage": "129",
+      "epage": "137",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1636744",
+      "PageID": "956683",
+      "created": "2011-06-04 03:08:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47069",
+          "lastname": "Ashmead",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        956683,
+        956684,
+        956805,
+        956685,
+        956686,
+        956806,
+        956687,
+        956807,
+        956688
+      ]
+    }
+  ]
+}

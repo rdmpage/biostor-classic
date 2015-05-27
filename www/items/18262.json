@@ -1,0 +1,86 @@
+{
+  "ItemID": "18262",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 29 (1877)",
+  "articles": [
+    {
+      "reference_id": "20558",
+      "genre": "article",
+      "title": "On the genera of North American freshwater fishes",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences, Philadelphia",
+      "volume": "29",
+      "spage": "83",
+      "epage": "104",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0097-3157",
+      "PageID": "1941680",
+      "created": "2010-02-09 17:57:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "781",
+          "lastname": "Jordan",
+          "forename": "D S"
+        },
+        {
+          "id": "17816",
+          "lastname": "Gilbert",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        1941680,
+        1941681,
+        1941682,
+        1941683,
+        1941686,
+        1941687,
+        1941688,
+        1941689,
+        1941690,
+        1941691,
+        1941692,
+        1941693,
+        1941694,
+        1941695,
+        1941696,
+        1941697,
+        1941698,
+        1941699,
+        1941700,
+        1941701,
+        1941702,
+        1941703
+      ]
+    },
+    {
+      "reference_id": "69201",
+      "genre": "article",
+      "title": "On painted turtles",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1877",
+      "spage": "199",
+      "epage": "200",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0097-3157",
+      "PageID": "1941867",
+      "created": "2011-06-01 08:39:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46215",
+          "lastname": "Monks",
+          "forename": "S P"
+        }
+      ],
+      "bhl_pages": [
+        1941867,
+        1941868
+      ]
+    }
+  ]
+}

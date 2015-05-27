@@ -1,0 +1,93 @@
+{
+  "ItemID": "35649",
+  "FullTitle": "Smithsonian miscellaneous collections.",
+  "VolumeInfo": "v. 98 1940",
+  "articles": [
+    {
+      "reference_id": "60161",
+      "genre": "article",
+      "title": "Decapod and other Crustacea collected on the presidential cruise of 1938",
+      "secondary_title": "Smithsonian Miscellaneous Collections",
+      "volume": "98",
+      "spage": "1",
+      "epage": "29",
+      "year": "1939",
+      "date": "1939-00-00",
+      "oclc": "1376204",
+      "PageID": "8824267",
+      "created": "2010-11-22 20:04:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1545",
+          "lastname": "Schmitt",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        8824267,
+        8824268,
+        8824269,
+        8824270,
+        8824271,
+        8824272,
+        8824273,
+        8824274,
+        8824275,
+        8824276,
+        8824277,
+        8824278,
+        8824279,
+        8824280,
+        8824281,
+        8824282,
+        8824283,
+        8824284,
+        8824285,
+        8824286,
+        8824287,
+        8824288,
+        8824289,
+        8824290,
+        8824291,
+        8824292,
+        8824293,
+        8824294,
+        8824295
+      ]
+    },
+    {
+      "reference_id": "72100",
+      "genre": "article",
+      "title": "Sponges collected on the Presidential cruise of 1938",
+      "secondary_title": "Smithsonian Miscellaneous Collections",
+      "volume": "98",
+      "spage": "1",
+      "epage": "7",
+      "year": "1939",
+      "date": "1939-00-00",
+      "oclc": "1376204",
+      "PageID": "8824515",
+      "created": "2011-06-04 00:30:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46519",
+          "lastname": "Laubenfels",
+          "forename": "M W De"
+        }
+      ],
+      "bhl_pages": [
+        8824515,
+        8824516,
+        8824517,
+        8824518,
+        8824519,
+        8824520,
+        8824521
+      ]
+    }
+  ]
+}

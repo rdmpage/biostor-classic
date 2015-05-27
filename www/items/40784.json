@@ -1,0 +1,38 @@
+{
+  "ItemID": "40784",
+  "FullTitle": "Meeresfauna von Bergen.  Redigiert von Dr. A. Appell\u00f6. Heft 1-2 und 3.",
+  "VolumeInfo": "v.1-3",
+  "articles": [
+    {
+      "reference_id": "72502",
+      "genre": "article",
+      "title": "Calcarea",
+      "secondary_title": "Meeresfauna von Bergen",
+      "volume": "1",
+      "spage": "67",
+      "epage": "72",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "13234095",
+      "PageID": "10777333",
+      "created": "2011-06-04 02:16:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47047",
+          "lastname": "Arnesen",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        10777333,
+        10777334,
+        10777335,
+        10777336,
+        10777337,
+        10777338
+      ]
+    }
+  ]
+}

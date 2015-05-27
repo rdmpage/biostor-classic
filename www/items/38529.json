@@ -1,0 +1,100 @@
+{
+  "ItemID": "38529",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1920",
+  "articles": [
+    {
+      "reference_id": "65485",
+      "genre": "article",
+      "title": "Australian Stratiomyiidae",
+      "secondary_title": "Papers And Proceedings of The Royal Society of Tasmania",
+      "volume": "1920",
+      "spage": "33",
+      "epage": "64",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0080-4703",
+      "PageID": "10108206",
+      "created": "2011-03-27 12:43:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40724",
+          "lastname": "Hardy",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        10108206,
+        10108207,
+        10108208,
+        10108209,
+        10108210,
+        10108211,
+        10108212,
+        10108213,
+        10108214,
+        10108215,
+        10108216,
+        10108217,
+        10108218,
+        10108219,
+        10108220,
+        10108221,
+        10108222,
+        10108223,
+        10108224,
+        10108225,
+        10108226,
+        10108227,
+        10108228,
+        10108229,
+        10108230,
+        10108231,
+        10108232,
+        10108233,
+        10108234,
+        10108235,
+        10108236,
+        10108237
+      ]
+    },
+    {
+      "reference_id": "59145",
+      "genre": "article",
+      "title": "Revised census of the Tasmanian fluviatile Mollusca",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1920",
+      "spage": "65",
+      "epage": "75",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0080-4703",
+      "PageID": "10108240",
+      "created": "2010-11-21 00:19:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40741",
+          "lastname": "May",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        10108240,
+        10108241,
+        10108242,
+        10108243,
+        10108244,
+        10108245,
+        10108246,
+        10108247,
+        10108248,
+        10108249,
+        10108250
+      ]
+    }
+  ]
+}

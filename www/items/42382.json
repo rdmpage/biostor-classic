@@ -1,0 +1,148 @@
+{
+  "ItemID": "42382",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 35 1902",
+  "articles": [
+    {
+      "reference_id": "72975",
+      "genre": "article",
+      "title": "On some new genera and species of Hymenoptera (Ichneumonidae, Chrysididae, Fossores, and Apidae)",
+      "secondary_title": "Entomologist",
+      "volume": "35",
+      "spage": "108",
+      "epage": "111",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8878",
+      "PageID": "11419662",
+      "created": "2011-06-04 04:49:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11419662,
+        11419663,
+        11419664,
+        11419665
+      ]
+    },
+    {
+      "reference_id": "65219",
+      "genre": "article",
+      "title": "Miscellanea Rhynchotalia.--No. 3",
+      "secondary_title": "Entomologist",
+      "volume": "35",
+      "spage": "136",
+      "epage": "138",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8878",
+      "PageID": "11419690",
+      "created": "2011-02-04 15:17:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11419690,
+        11419691,
+        11419692
+      ]
+    },
+    {
+      "reference_id": "60964",
+      "genre": "article",
+      "title": "Additions to the fauna of Mexico (bees and Coccidae)",
+      "secondary_title": "Entomologist",
+      "volume": "35",
+      "spage": "177",
+      "epage": "178",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8878",
+      "PageID": "11419731",
+      "created": "2010-11-26 19:27:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        11419731,
+        11419732
+      ]
+    },
+    {
+      "reference_id": "60966",
+      "genre": "article",
+      "title": "A contribution to the classification of the Coccidae",
+      "secondary_title": "Entomologist",
+      "volume": "35",
+      "spage": "232",
+      "epage": "233",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8878",
+      "PageID": "11419788",
+      "created": "2010-11-26 19:27:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        11419788,
+        11419789
+      ]
+    },
+    {
+      "reference_id": "65220",
+      "genre": "article",
+      "title": "Miscellanea Rhynchotalia.--No. 5",
+      "secondary_title": "Entomologist",
+      "volume": "35",
+      "spage": "280",
+      "epage": "284",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8878",
+      "PageID": "11419838",
+      "created": "2011-02-04 15:20:53",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11419838,
+        11419839,
+        11419840,
+        11419841,
+        11419842
+      ]
+    }
+  ]
+}

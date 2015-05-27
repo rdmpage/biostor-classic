@@ -1,0 +1,40 @@
+{
+  "ItemID": "30132",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 44, bd. 1 (1878)",
+  "articles": [
+    {
+      "reference_id": "61646",
+      "genre": "article",
+      "title": "Kurze Notizen \u00fcber einige neue Crustaceen sowie \u00fcber neue Fundorte einiger bereits beschriebenen",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "44",
+      "spage": "251",
+      "epage": "258",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "1481990",
+      "PageID": "6392427",
+      "created": "2011-01-10 23:10:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43084",
+          "lastname": "Kossmann",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        6392427,
+        6392428,
+        6392429,
+        6392430,
+        6392431,
+        6392432,
+        6392433,
+        6392434
+      ]
+    }
+  ]
+}

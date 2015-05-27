@@ -1,0 +1,101 @@
+{
+  "ItemID": "30027",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 45 (1908)",
+  "articles": [
+    {
+      "reference_id": "20739",
+      "genre": "article",
+      "title": "\u00dcber drei neue Characinen und drei Siluroiden aus dem Stromgebiete des Amazonas innerhalb Brasilien",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "45",
+      "spage": "61",
+      "epage": "69",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "9782210",
+      "PageID": "6337485",
+      "created": "2010-02-09 18:50:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6337485,
+        6337486,
+        6337487,
+        6337488,
+        6337489,
+        6337490,
+        6337491,
+        6337492,
+        6337493
+      ]
+    },
+    {
+      "reference_id": "20740",
+      "genre": "article",
+      "title": "\u00dcber drei neue Arten von S\u00fcsswasserfischen aus dem Amazonasgebiet und aus dem See Candidius auf der Insel Formosa, ferner \u00fcber die vorger\u00fcckte Altersform von Loricaria acuta C. V",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "45",
+      "spage": "82",
+      "epage": "87",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "9782210",
+      "PageID": "6337506",
+      "created": "2010-02-09 18:50:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6337506,
+        6337507,
+        6337508,
+        6337509,
+        6337510,
+        6337511
+      ]
+    },
+    {
+      "reference_id": "20741",
+      "genre": "article",
+      "title": "Ueber eine noch unbekannte Art der Gattung Bergiella Eig. aus dem La Plata",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "45",
+      "spage": "110",
+      "epage": "113",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "9782210",
+      "PageID": "6337534",
+      "created": "2010-02-09 18:50:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6337534,
+        6337535,
+        6337536,
+        6337537
+      ]
+    }
+  ]
+}

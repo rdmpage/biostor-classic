@@ -1,0 +1,74 @@
+{
+  "ItemID": "107006",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "9th ser. v. 11 1923",
+  "articles": [
+    {
+      "reference_id": "87812",
+      "genre": "article",
+      "title": "XXVIII.\u2014A note on two species of the genus Murshidia (Nematode, Strongyloidea) parasitic in the wart-hog",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "series": "9",
+      "spage": "256",
+      "epage": "263",
+      "year": "1923",
+      "date": "1923-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932308632850",
+      "PageID": "34355502",
+      "created": "2011-09-23 12:00:12",
+      "updated": "2011-09-23 12:00:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51504",
+          "lastname": "Daubney",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        34355502,
+        34355503,
+        34355504,
+        34355505,
+        34355506,
+        34355507,
+        34355508,
+        34355509
+      ]
+    },
+    {
+      "reference_id": "87798",
+      "genre": "article",
+      "title": "XLIV.\u2014A new Ascarid from an Otter",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "series": "9",
+      "spage": "459",
+      "epage": "463",
+      "year": "1923",
+      "date": "1923-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932308632870",
+      "PageID": "34355713",
+      "created": "2011-09-23 11:14:36",
+      "updated": "2011-09-23 11:14:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51435",
+          "lastname": "Baylis",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        34355713,
+        34355714,
+        34355715,
+        34355716,
+        34355717
+      ]
+    }
+  ]
+}

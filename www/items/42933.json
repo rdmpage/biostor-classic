@@ -1,0 +1,584 @@
+{
+  "ItemID": "42933",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 14-15 1888-89",
+  "articles": [
+    {
+      "reference_id": "71399",
+      "genre": "article",
+      "title": "Weissenbornia, eine neue Orthopteren- (Phaneropteriden-) Gattung aus Deutsch-Westafrika",
+      "secondary_title": "Entomologische Nachrichten Berlin",
+      "volume": "14",
+      "spage": "65",
+      "epage": "67",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "5844710",
+      "PageID": "11647581",
+      "created": "2011-06-03 19:43:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46791",
+          "lastname": "",
+          "forename": "Karsch"
+        }
+      ],
+      "bhl_pages": [
+        11647581,
+        11647582,
+        11647583
+      ]
+    },
+    {
+      "reference_id": "72888",
+      "genre": "article",
+      "title": "Einige neue Ichneumoniden",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "14",
+      "spage": "83",
+      "epage": "92",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0232-5535",
+      "PageID": "11647599",
+      "created": "2011-06-04 04:38:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47102",
+          "lastname": "Rudow",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11647599,
+        11647600,
+        11647601,
+        11647602,
+        11647603,
+        11647604,
+        11647605,
+        11647606,
+        11647607,
+        11647608
+      ]
+    },
+    {
+      "reference_id": "72897",
+      "genre": "article",
+      "title": "Einige neue Ichneumoniden",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "14",
+      "spage": "120",
+      "epage": "124",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0232-5535",
+      "PageID": "11647638",
+      "created": "2011-06-04 04:39:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47102",
+          "lastname": "Rudow",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11647638,
+        11647639,
+        11647640,
+        11647641,
+        11647642
+      ]
+    },
+    {
+      "reference_id": "72874",
+      "genre": "article",
+      "title": "Einige neue Ichneumoniden",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "14",
+      "spage": "129",
+      "epage": "136",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0232-5535",
+      "PageID": "11647647",
+      "created": "2011-06-04 04:30:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47102",
+          "lastname": "Rudow",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11647647,
+        11647648,
+        11647649,
+        11647650,
+        11647651,
+        11647652,
+        11647653,
+        11647654
+      ]
+    },
+    {
+      "reference_id": "72167",
+      "genre": "article",
+      "title": "Ueber lokale Ab\u00e4nderung weit verbreiteter Thiere",
+      "secondary_title": "Entomologische Nachrichten, Berlin",
+      "volume": "14",
+      "spage": "177",
+      "epage": "186",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "5844710",
+      "PageID": "11647695",
+      "created": "2011-06-04 00:42:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39450",
+          "lastname": "Kolbe",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11647695,
+        11647696,
+        11647697,
+        11647698,
+        11647699,
+        11647700,
+        11647701,
+        11647702,
+        11647703,
+        11647704
+      ]
+    },
+    {
+      "reference_id": "71504",
+      "genre": "article",
+      "title": "Zwei neue africanische Arten der Gattung Pseudotrochalus",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "14",
+      "spage": "194",
+      "epage": "196",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0232-5535",
+      "PageID": "11647712",
+      "created": "2011-06-03 20:08:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46682",
+          "lastname": "Quedenfeldt",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        11647712,
+        11647713,
+        11647714
+      ]
+    },
+    {
+      "reference_id": "72922",
+      "genre": "article",
+      "title": "Zur Kenntniss der Gattung Euceros",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "14",
+      "spage": "197",
+      "epage": "200",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0232-5535",
+      "PageID": "11647715",
+      "created": "2011-06-04 04:41:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11647715,
+        11647716,
+        11647717,
+        11647718
+      ]
+    },
+    {
+      "reference_id": "71315",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zu Bolivar's Monografia de los Pirgomorfinos",
+      "secondary_title": "Entomologische Nachrichten Berlin",
+      "volume": "14",
+      "spage": "328",
+      "epage": "335",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "5844710",
+      "PageID": "11647846",
+      "created": "2011-06-03 19:20:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46791",
+          "lastname": "",
+          "forename": "Karsch"
+        }
+      ],
+      "bhl_pages": [
+        11647846,
+        11647847,
+        11647848,
+        11647849,
+        11647850,
+        11647851,
+        11647852,
+        11647853
+      ]
+    },
+    {
+      "reference_id": "71033",
+      "genre": "article",
+      "title": "Zwei neue Ornithopteren",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "14",
+      "spage": "369",
+      "epage": "370",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0232-5535",
+      "PageID": "11647887",
+      "created": "2011-06-03 17:35:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46721",
+          "lastname": "R\u00f6ber",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11647887,
+        11647888
+      ]
+    },
+    {
+      "reference_id": "71385",
+      "genre": "article",
+      "title": "Orthopterologische Mittheilungen. 3. \u00dcber von Herrn Oskar Sch\u00f6nemann in Chile gesammelten Phaneropteriden",
+      "secondary_title": "Entomologische Nachrichten Berlin",
+      "volume": "15",
+      "spage": "124",
+      "epage": "127",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "5844710",
+      "PageID": "11648034",
+      "created": "2011-06-03 19:38:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46791",
+          "lastname": "",
+          "forename": "Karsch"
+        }
+      ],
+      "bhl_pages": [
+        11648034,
+        11648035,
+        11648036,
+        11648037
+      ]
+    },
+    {
+      "reference_id": "72381",
+      "genre": "article",
+      "title": "Sapho venusta, eine neue afrikanische Libelle aus der Familie der Kalopterygiden",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "15",
+      "spage": "233",
+      "epage": "235",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648147",
+      "created": "2011-06-04 01:42:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11648147,
+        11648148,
+        11648149
+      ]
+    },
+    {
+      "reference_id": "70893",
+      "genre": "article",
+      "title": "Libellula herculea, eine neue s\u00fcdamerikanische Art mit innerem Dreieck der Hinterfl\u00fcgel",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "15",
+      "spage": "235",
+      "epage": "236",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648149",
+      "created": "2011-06-03 16:46:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11648149,
+        11648150
+      ]
+    },
+    {
+      "reference_id": "60282",
+      "genre": "article",
+      "title": "Neue Aeschniden der indo-australischen Region",
+      "secondary_title": "Entomologische Nachrichten. Dresden",
+      "volume": "15",
+      "spage": "236",
+      "epage": "239",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "5844710",
+      "PageID": "11648150",
+      "created": "2010-11-22 21:55:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11648150,
+        11648151,
+        11648152,
+        11648153
+      ]
+    },
+    {
+      "reference_id": "70894",
+      "genre": "article",
+      "title": "Beitrag zur Kenntniss der Libellulinen mit vierseitiger cellula cardinalis (Nannophya Rambur)",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "15",
+      "spage": "245",
+      "epage": "263",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648159",
+      "created": "2011-06-03 16:46:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11648159,
+        11648160,
+        11648161,
+        11648162,
+        11648163,
+        11648164,
+        11648165,
+        11648166,
+        11648167,
+        11648168,
+        11648169,
+        11648170,
+        11648171,
+        11648172,
+        11648173,
+        11648174,
+        11648175,
+        11648176,
+        11648177
+      ]
+    },
+    {
+      "reference_id": "70873",
+      "genre": "article",
+      "title": "Beschreibung einer neuen Libelluline Madagaskar's",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "15",
+      "spage": "276",
+      "epage": "277",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648190",
+      "created": "2011-06-03 16:43:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11648190,
+        11648191
+      ]
+    },
+    {
+      "reference_id": "72965",
+      "genre": "article",
+      "title": "Nova genera et species Pimplidarum",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "15",
+      "spage": "307",
+      "epage": "312",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648221",
+      "created": "2011-06-04 04:46:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11648221,
+        11648222,
+        11648223,
+        11648224,
+        11648225,
+        11648226
+      ]
+    },
+    {
+      "reference_id": "72948",
+      "genre": "article",
+      "title": "Meine diesjahrigen in Tegernsee gemachten Erfahrungen uber den Fang der Rhyssa- und Ephialtes-Arten sowie einiger anderer Holzinsecten",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "15",
+      "spage": "313",
+      "epage": "316",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648227",
+      "created": "2011-06-04 04:44:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11648227,
+        11648228,
+        11648229,
+        11648230
+      ]
+    },
+    {
+      "reference_id": "70897",
+      "genre": "article",
+      "title": "Eine neue Libelluline der Gattung Tetrathemis",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "15",
+      "spage": "321",
+      "epage": "323",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648235",
+      "created": "2011-06-03 16:46:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11648235,
+        11648236,
+        11648237
+      ]
+    },
+    {
+      "reference_id": "73742",
+      "genre": "article",
+      "title": "Eine neue Art der Dipterengattung Psilopa Fall",
+      "secondary_title": "Ent. Nachr",
+      "volume": "15",
+      "spage": "373",
+      "epage": "374",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0232-5535",
+      "PageID": "11648287",
+      "created": "2011-06-04 09:42:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47155",
+          "lastname": "Girschner",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11648287,
+        11648288
+      ]
+    }
+  ]
+}

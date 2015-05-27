@@ -1,0 +1,927 @@
+{
+  "ItemID": "47696",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.41 1978-1979",
+  "articles": [
+    {
+      "reference_id": "63642",
+      "genre": "article",
+      "title": "New combinations in Didymodon (Musci) and a key to the taxa of North America north of Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "11",
+      "epage": "32",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298250",
+      "created": "2011-01-26 22:08:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43712",
+          "lastname": "Zander",
+          "forename": "R H"
+        }
+      ],
+      "bhl_pages": [
+        13298250,
+        13298249,
+        13298248,
+        13298247,
+        13298246,
+        13298213,
+        13298214,
+        13298215,
+        13298216,
+        13298217,
+        13298218,
+        13298219,
+        13298220,
+        13298221,
+        13298222,
+        13298223,
+        13298224,
+        13298225,
+        13298226,
+        13298227,
+        13298228,
+        13298229
+      ]
+    },
+    {
+      "reference_id": "63134",
+      "genre": "article",
+      "title": "Studies in the Heliantheae (Asteraceae)---XV. Various new species and new combinations",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "33",
+      "epage": "38",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298230",
+      "created": "2011-01-26 21:44:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13298230,
+        13298231,
+        13298232,
+        13298233,
+        13298234,
+        13298235
+      ]
+    },
+    {
+      "reference_id": "63202",
+      "genre": "article",
+      "title": "Chemosystematic Notes on the Asteraceae I. New Co rrelations in Subtribes of the Heliantheae",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "50",
+      "epage": "54",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298270",
+      "created": "2011-01-26 21:47:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43625",
+          "lastname": "Bohlmann",
+          "forename": "F"
+        },
+        {
+          "id": "43490",
+          "lastname": "King",
+          "forename": "R M"
+        },
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13298270,
+        13298271,
+        13298272,
+        13298273,
+        13298274
+      ]
+    },
+    {
+      "reference_id": "63629",
+      "genre": "article",
+      "title": "Sporobolus coahuilensis (Gramineae) a new species from Coahuila, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "81",
+      "epage": "84",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298303",
+      "created": "2011-01-26 22:06:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43703",
+          "lastname": "Valdes Reyna",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        13298303,
+        13298304,
+        13298305,
+        13298306
+      ]
+    },
+    {
+      "reference_id": "62789",
+      "genre": "article",
+      "title": "Additional notes on the genus Cornutia. VI",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "123",
+      "epage": "130",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298345",
+      "created": "2011-01-26 21:30:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13298345,
+        13298346,
+        13298347,
+        13298348,
+        13298349,
+        13298350,
+        13298351,
+        13298352
+      ]
+    },
+    {
+      "reference_id": "62790",
+      "genre": "article",
+      "title": "Additional notes on the genus Lippia. XIV",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "131",
+      "epage": "135",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298353",
+      "created": "2011-01-26 21:30:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13298353,
+        13298354,
+        13298355,
+        13298356,
+        13298357
+      ]
+    },
+    {
+      "reference_id": "62791",
+      "genre": "article",
+      "title": "Additional notes on the genus Lippia. XV",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "145",
+      "epage": "151",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298369",
+      "created": "2011-01-26 21:30:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13298369,
+        13298370,
+        13298371,
+        13298372,
+        13298373,
+        13298374,
+        13298375
+      ]
+    },
+    {
+      "reference_id": "62792",
+      "genre": "article",
+      "title": "Additional notes on the genus Verbena. XXVIII",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "151",
+      "epage": "182",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298375",
+      "created": "2011-01-26 21:30:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13298375,
+        13298376,
+        13298377,
+        13298378,
+        13298379,
+        13298380,
+        13298381,
+        13298382,
+        13298383,
+        13298384,
+        13298385,
+        13298386,
+        13298387,
+        13298388,
+        13298389,
+        13298390,
+        13298391,
+        13298392,
+        13298393,
+        13298394,
+        13298395,
+        13298396,
+        13298397,
+        13298398,
+        13298399,
+        13298400,
+        13298401,
+        13298402,
+        13298403,
+        13298404,
+        13298405,
+        13298406
+      ]
+    },
+    {
+      "reference_id": "62360",
+      "genre": "article",
+      "title": "Notes on Mikania (Compositae) - V",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "183",
+      "epage": "197",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298407",
+      "created": "2011-01-26 20:58:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43284",
+          "lastname": "Holmes",
+          "forename": "W C"
+        },
+        {
+          "id": "43204",
+          "lastname": "Mcdaniel",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        13298407,
+        13298408,
+        13298409,
+        13298410,
+        13298411,
+        13298412,
+        13298413,
+        13298414,
+        13298415,
+        13298416,
+        13298417,
+        13298418,
+        13298419,
+        13298420,
+        13298421
+      ]
+    },
+    {
+      "reference_id": "62501",
+      "genre": "article",
+      "title": "Supplementary notes on the American species of Strychnos---XVII",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "201",
+      "epage": "238",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298427",
+      "created": "2011-01-26 21:07:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9043",
+          "lastname": "Krukoff",
+          "forename": "B A"
+        }
+      ],
+      "bhl_pages": [
+        13298427,
+        13298428,
+        13298429,
+        13298430,
+        13298431,
+        13298432,
+        13298433,
+        13298434,
+        13298435,
+        13298436,
+        13298437,
+        13298438,
+        13298439,
+        13298440,
+        13298441,
+        13298442,
+        13298443,
+        13298444,
+        13298445,
+        13298446,
+        13298447,
+        13298448,
+        13298449,
+        13298450,
+        13298451,
+        13298452,
+        13298453,
+        13298454,
+        13298455,
+        13298456,
+        13298457,
+        13298458,
+        13298459,
+        13298460,
+        13298461,
+        13298462,
+        13298463,
+        13298464
+      ]
+    },
+    {
+      "reference_id": "62502",
+      "genre": "article",
+      "title": "Supplementary notes on American Menispermaceae---XIV. Neotropical Triclisieae and Anomospermeae",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "239",
+      "epage": "255",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298465",
+      "created": "2011-01-26 21:08:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9043",
+          "lastname": "Krukoff",
+          "forename": "B A"
+        }
+      ],
+      "bhl_pages": [
+        13298465,
+        13298466,
+        13298467,
+        13298468,
+        13298469,
+        13298470,
+        13298471,
+        13298472,
+        13298473,
+        13298474,
+        13298475,
+        13298476,
+        13298477,
+        13298478,
+        13298479,
+        13298480,
+        13298481
+      ]
+    },
+    {
+      "reference_id": "62458",
+      "genre": "article",
+      "title": "Notes on the species of Erythrina---XIII",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "256",
+      "epage": "300",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298482",
+      "created": "2011-01-26 21:05:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9043",
+          "lastname": "Krukoff",
+          "forename": "B A"
+        }
+      ],
+      "bhl_pages": [
+        13298482,
+        13298483,
+        13298484,
+        13298485,
+        13298486,
+        13298487,
+        13298488,
+        13298489,
+        13298490,
+        13298491,
+        13298492,
+        13298493,
+        13298494,
+        13298495,
+        13298496,
+        13298497,
+        13298498,
+        13298499,
+        13298500,
+        13298501,
+        13298502,
+        13298503,
+        13298504,
+        13298505,
+        13298506,
+        13298507,
+        13298508,
+        13298509,
+        13298510,
+        13298511,
+        13298512,
+        13298513,
+        13298514,
+        13298515,
+        13298516,
+        13298517,
+        13298518,
+        13298519,
+        13298520,
+        13298521,
+        13298522,
+        13298523,
+        13298524,
+        13298525,
+        13298526
+      ]
+    },
+    {
+      "reference_id": "62298",
+      "genre": "article",
+      "title": "Austral Hepaticae XI. Lophocoleaceae: new taxa, new combinations and realignments",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "309",
+      "epage": "312",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298537",
+      "created": "2011-01-26 20:29:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43419",
+          "lastname": "Engel",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        13298537,
+        13298538,
+        13298539,
+        13298540
+      ]
+    },
+    {
+      "reference_id": "63287",
+      "genre": "article",
+      "title": "Notes on Bromeliaceae---XL",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "329",
+      "epage": "345",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298557",
+      "created": "2011-01-26 21:52:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43597",
+          "lastname": "Read",
+          "forename": "R W"
+        },
+        {
+          "id": "43244",
+          "lastname": "Smith",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        13298557,
+        13298558,
+        13298559,
+        13298560,
+        13298561,
+        13298562,
+        13298563,
+        13298564,
+        13298565,
+        13298566,
+        13298567,
+        13298568,
+        13298569,
+        13298570,
+        13298571,
+        13298572,
+        13298573
+      ]
+    },
+    {
+      "reference_id": "62862",
+      "genre": "article",
+      "title": "A new combination in Pithecellobium",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "384",
+      "epage": "386",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298614",
+      "created": "2011-01-26 21:33:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43237",
+          "lastname": "Muller",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        13298614,
+        13298615,
+        13298616
+      ]
+    },
+    {
+      "reference_id": "63203",
+      "genre": "article",
+      "title": "Chemosystematic Notes on the Asteraceae II. Acyclic Sesquiterpenes",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "387",
+      "epage": "395",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298617",
+      "created": "2011-01-26 21:47:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43625",
+          "lastname": "Bohlmann",
+          "forename": "F"
+        },
+        {
+          "id": "43490",
+          "lastname": "King",
+          "forename": "R M"
+        },
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13298617,
+        13298618,
+        13298619,
+        13298620,
+        13298621,
+        13298622,
+        13298623,
+        13298624,
+        13298625
+      ]
+    },
+    {
+      "reference_id": "62793",
+      "genre": "article",
+      "title": "Additional notes on the genus Verbena. XXX",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "399",
+      "epage": "408",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298629",
+      "created": "2011-01-26 21:30:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13298629,
+        13298630,
+        13298631,
+        13298632,
+        13298633,
+        13298634,
+        13298635,
+        13298636,
+        13298637,
+        13298638
+      ]
+    },
+    {
+      "reference_id": "62774",
+      "genre": "article",
+      "title": "Additional notes on the Eriocaulaceae. LXXXI",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "409",
+      "epage": "430",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298639",
+      "created": "2011-01-26 21:29:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13298639,
+        13298640,
+        13298641,
+        13298642,
+        13298643,
+        13298644,
+        13298645,
+        13298646,
+        13298647,
+        13298648,
+        13298649,
+        13298650,
+        13298651,
+        13298652,
+        13298653,
+        13298654,
+        13298655,
+        13298656,
+        13298657,
+        13298658,
+        13298659,
+        13298660
+      ]
+    },
+    {
+      "reference_id": "62596",
+      "genre": "article",
+      "title": "The fern genus Cheilanthes in the continental United States",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "431",
+      "epage": "437",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298661",
+      "created": "2011-01-26 21:15:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43544",
+          "lastname": "Mickel",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        13298661,
+        13298662,
+        13298663,
+        13298664,
+        13298665,
+        13298666,
+        13298667
+      ]
+    },
+    {
+      "reference_id": "63330",
+      "genre": "article",
+      "title": "Plants collected in the Sandwich Islands by Thomas Nuttall. Hawaiian Plant Studies 85",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "441",
+      "epage": "446",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298673",
+      "created": "2011-01-26 21:54:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43652",
+          "lastname": "St. John",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13298673,
+        13298674,
+        13298675,
+        13298676,
+        13298677,
+        13298678
+      ]
+    },
+    {
+      "reference_id": "62794",
+      "genre": "article",
+      "title": "Additional notes on the Eriocaulaceae. LXXXII",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "451",
+      "epage": "485",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298683",
+      "created": "2011-01-26 21:30:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13298683,
+        13298684,
+        13298685,
+        13298686,
+        13298687,
+        13298688,
+        13298689,
+        13298690,
+        13298691,
+        13298692,
+        13298693,
+        13298694,
+        13298695,
+        13298696,
+        13298697,
+        13298698,
+        13298699,
+        13298700,
+        13298701,
+        13298702,
+        13298703,
+        13298704,
+        13298705,
+        13298706,
+        13298707,
+        13298708,
+        13298709,
+        13298710,
+        13298711,
+        13298712,
+        13298713,
+        13298714,
+        13298715,
+        13298716,
+        13298717
+      ]
+    },
+    {
+      "reference_id": "63593",
+      "genre": "article",
+      "title": "Additions to the Flora of Colorado - VI",
+      "secondary_title": "Phytologia",
+      "volume": "41",
+      "spage": "486",
+      "epage": "498",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0031-9430",
+      "PageID": "13298718",
+      "created": "2011-01-26 22:05:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43682",
+          "lastname": "Weber",
+          "forename": "W A"
+        },
+        {
+          "id": "43695",
+          "lastname": "Johnston",
+          "forename": "B C"
+        },
+        {
+          "id": "43696",
+          "lastname": "Wilken",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        13298718,
+        13298719,
+        13298720,
+        13298721,
+        13298722,
+        13298723,
+        13298724,
+        13298725,
+        13298726,
+        13298727,
+        13298728,
+        13298729,
+        13298730
+      ]
+    }
+  ]
+}

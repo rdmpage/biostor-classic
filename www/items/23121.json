@@ -1,0 +1,47 @@
+{
+  "ItemID": "23121",
+  "FullTitle": "Journal of shellfish research.",
+  "VolumeInfo": "v. 12 (1993)",
+  "articles": [
+    {
+      "reference_id": "98992",
+      "genre": "article",
+      "title": "Predation by the pygmy rock crab, Cancer oregonensis (Daha, 1852) inside oyster trays",
+      "secondary_title": "Journal of shellfish research",
+      "volume": "12",
+      "issue": "1",
+      "spage": "89",
+      "epage": "92",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0730-8000",
+      "PageID": "3447139",
+      "created": "2011-12-06 15:24:15",
+      "updated": "2011-12-06 15:25:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53349",
+          "lastname": "Yamada",
+          "forename": "Sylvia Behrens"
+        },
+        {
+          "id": "53350",
+          "lastname": "Metcalf",
+          "forename": "Heidi"
+        },
+        {
+          "id": "53351",
+          "lastname": "Baldwin",
+          "forename": "Bart C"
+        }
+      ],
+      "bhl_pages": [
+        3447139,
+        3447191,
+        3446940,
+        3447231
+      ]
+    }
+  ]
+}

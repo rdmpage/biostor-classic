@@ -1,0 +1,177 @@
+{
+  "ItemID": "20197",
+  "FullTitle": "Entomological news, and proceedings of the Entomological Section of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 1-2 (1890-1891)",
+  "articles": [
+    {
+      "reference_id": "3684",
+      "genre": "article",
+      "title": "Notes from the Northwest.",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "1",
+      "issue": "3",
+      "spage": "33",
+      "epage": "36",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0013-872X",
+      "PageID": "2565737",
+      "created": "2009-12-26 19:10:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2229",
+          "lastname": "Wickham",
+          "forename": "Henry"
+        }
+      ],
+      "bhl_pages": [
+        2565737,
+        2565736,
+        2565735,
+        2565734
+      ]
+    },
+    {
+      "reference_id": "66518",
+      "genre": "article",
+      "title": "The inhabitants of a hickory nut hull",
+      "secondary_title": "Entomological News",
+      "volume": "1",
+      "spage": "49",
+      "epage": "51",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0013-872X",
+      "PageID": "2565721",
+      "created": "2011-05-07 17:33:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2266",
+          "lastname": "Hamilton",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        2565721,
+        2565720,
+        2565719
+      ]
+    },
+    {
+      "reference_id": "13206",
+      "genre": "article",
+      "title": "Notes on some spiders described by Hentz",
+      "secondary_title": "Ent. News",
+      "volume": "2",
+      "spage": "84",
+      "epage": "87",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0013-872X",
+      "PageID": "2565820",
+      "created": "2010-01-11 10:43:49",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2234",
+          "lastname": "Banks",
+          "forename": "Nathan"
+        }
+      ],
+      "bhl_pages": [
+        2565820,
+        2565821,
+        2565822,
+        2565823
+      ]
+    },
+    {
+      "reference_id": "73248",
+      "genre": "article",
+      "title": "A remarkable new Hippoboscid from Mexico",
+      "secondary_title": "Ent. News",
+      "volume": "2",
+      "spage": "105",
+      "epage": "106",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0013-872X",
+      "PageID": "2565794",
+      "created": "2011-06-04 08:06:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42351",
+          "lastname": "Townsend",
+          "forename": "C H T"
+        }
+      ],
+      "bhl_pages": [
+        2565794,
+        2565900
+      ]
+    },
+    {
+      "reference_id": "65428",
+      "genre": "article",
+      "title": "Larva of Polycesta elata LeC",
+      "secondary_title": "Entomological News",
+      "volume": "2",
+      "spage": "106",
+      "epage": "107",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0013-872X",
+      "PageID": "2565900",
+      "created": "2011-03-03 21:47:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44855",
+          "lastname": "Angell",
+          "forename": "G W J"
+        }
+      ],
+      "bhl_pages": [
+        2565900,
+        2565901
+      ]
+    },
+    {
+      "reference_id": "70642",
+      "genre": "article",
+      "title": "Through the Pinal Mountains",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "2",
+      "spage": "130",
+      "epage": "133",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0013-872X",
+      "PageID": "2565960",
+      "created": "2011-06-03 06:45:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46485",
+          "lastname": "Frederick",
+          "forename": "Wickham Henry"
+        }
+      ],
+      "bhl_pages": [
+        2565960,
+        2565961,
+        2565962,
+        2565963
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "author": [
+    {
+      "firstname": "John D",
+      "lastname": "Lynch",
+      "name": "John D Lynch"
+    },
+    {
+      "firstname": "Howard L",
+      "lastname": "Freeman",
+      "name": "Howard L Freeman"
+    }
+  ],
+  "type": "article",
+  "title": "Systematic status of a South American frog, Allophryne ruthveni Gaige",
+  "journal": {
+    "name": "University of Kansas, Museum of Natural History, Miscellaneous Publication",
+    "volume": "17",
+    "issue": "10",
+    "pages": "493--502",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0075-5036"
+      }
+    ]
+  },
+  "year": "1966",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/20843"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4417345"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 20843
+    },
+    {
+      "type": "bhl",
+      "id": 4417345
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -58,
+        2
+      ]
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ItemID": "92048",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1886",
+  "articles": [
+    {
+      "reference_id": "83690",
+      "genre": "article",
+      "title": "On a New Species of Wild Pig from New Guinea",
+      "secondary_title": "Proceedings of the Zoological Society",
+      "volume": "1886",
+      "spage": "217",
+      "epage": "218",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0370-2774",
+      "PageID": "28985252",
+      "created": "2011-08-10 08:03:29",
+      "updated": "2011-10-27 23:31:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42722",
+          "lastname": "Finsch",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        28985252,
+        28985253
+      ]
+    }
+  ]
+}

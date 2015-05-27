@@ -1,0 +1,67 @@
+{
+  "ItemID": "54285",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "3rd ser. v. 16 (1865)",
+  "articles": [
+    {
+      "reference_id": "91190",
+      "genre": "article",
+      "title": "XXXI.\u2014On the occurrence of Orcynus alalonga on the Coast of Devon",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "16",
+      "series": "3",
+      "spage": "268",
+      "epage": "270",
+      "year": "1865",
+      "date": "1865-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936508679422",
+      "PageID": "16003372",
+      "created": "2011-09-28 14:58:18",
+      "updated": "2011-09-28 14:58:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52223",
+          "lastname": "Scott",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        16003372,
+        16003373,
+        16003374
+      ]
+    },
+    {
+      "reference_id": "91103",
+      "genre": "article",
+      "title": "XXXIII.\u2014On the microscopic structure of the shell of Rhynchonella Geinitziana",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "16",
+      "series": "3",
+      "spage": "305",
+      "epage": "307",
+      "year": "1865",
+      "date": "1865-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936508679434",
+      "PageID": "16003409",
+      "created": "2011-09-28 14:47:21",
+      "updated": "2011-09-28 14:47:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2924",
+          "lastname": "Carpenter",
+          "forename": "William B"
+        }
+      ],
+      "bhl_pages": [
+        16003409,
+        16003410,
+        16003411
+      ]
+    }
+  ]
+}

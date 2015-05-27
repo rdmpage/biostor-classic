@@ -1,0 +1,78 @@
+{
+  "ItemID": "25485",
+  "FullTitle": "The University of Kansas science bulletin.",
+  "VolumeInfo": "v.5 (1909-1911)",
+  "articles": [
+    {
+      "reference_id": "72743",
+      "genre": "article",
+      "title": "Orthoptera from the Santa Rita Mountains. Arizona. collected by the University of Kansas expedition",
+      "secondary_title": "Kansas Univ. Sci. Bull",
+      "volume": "5",
+      "spage": "297",
+      "epage": "306",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0022-8850",
+      "PageID": "4331860",
+      "created": "2011-06-04 03:31:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        4331860,
+        4331859,
+        4331858,
+        4331857,
+        4331757,
+        4331756,
+        4331755,
+        4331754,
+        4331753,
+        4331752
+      ]
+    },
+    {
+      "reference_id": "71590",
+      "genre": "article",
+      "title": "Observations on the Gryllidae: III. Notes on the classification and on some habits of certain crickets",
+      "secondary_title": "Kansas University Science Bulletin",
+      "volume": "5",
+      "spage": "309",
+      "epage": "319",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1440932",
+      "PageID": "4331749",
+      "created": "2011-06-03 21:45:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46863",
+          "lastname": "",
+          "forename": "Baumgartner"
+        }
+      ],
+      "bhl_pages": [
+        4331749,
+        4331748,
+        4331747,
+        4332030,
+        4332029,
+        4332028,
+        4332027,
+        4332026,
+        4332025,
+        4332024,
+        4332023
+      ]
+    }
+  ]
+}

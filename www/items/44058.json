@@ -1,0 +1,71 @@
+{
+  "ItemID": "44058",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 5 1909",
+  "articles": [
+    {
+      "reference_id": "72243",
+      "genre": "article",
+      "title": "Blumen und Insekten in Paraguay",
+      "secondary_title": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie",
+      "volume": "5",
+      "spage": "205",
+      "epage": "214",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1770562",
+      "PageID": "12068826",
+      "created": "2011-06-04 00:53:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46838",
+          "lastname": "Schrottky",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        12068826,
+        12068827,
+        12068828,
+        12068829,
+        12068830,
+        12068831,
+        12068832,
+        12068833,
+        12068834,
+        12068835
+      ]
+    },
+    {
+      "reference_id": "72778",
+      "genre": "article",
+      "title": "Oryctes Fabr. ab. Progressiva (ab.n.). Eine neue Dynastidenform und ihre Bedeutung",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "5",
+      "spage": "214",
+      "epage": "217",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1770562",
+      "PageID": "12068835",
+      "created": "2011-06-04 04:04:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47049",
+          "lastname": "Prell",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12068835,
+        12068836,
+        12068837,
+        12068838
+      ]
+    }
+  ]
+}

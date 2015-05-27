@@ -1,0 +1,65 @@
+{
+  "ItemID": "36033",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 47 = 2nd ser. v. 22 1911",
+  "articles": [
+    {
+      "reference_id": "67196",
+      "genre": "article",
+      "title": "Descriptions of three new Scandinavian Thysanoptera (Tubulifera)",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "47",
+      "spage": "60",
+      "epage": "63",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "1568052",
+      "PageID": "9016611",
+      "created": "2011-05-19 12:20:06",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9016611,
+        9016612,
+        9016613,
+        9016614
+      ]
+    },
+    {
+      "reference_id": "73176",
+      "genre": "article",
+      "title": "Two new species of the genus Chilosia Mg",
+      "secondary_title": "Entomologist's mon. Mag",
+      "volume": "47",
+      "spage": "107",
+      "epage": "110",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "1568052",
+      "PageID": "9016666",
+      "created": "2011-06-04 07:56:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47156",
+          "lastname": "Wainwright",
+          "forename": "F E S"
+        }
+      ],
+      "bhl_pages": [
+        9016666,
+        9016667,
+        9016668,
+        9016669
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "ItemID": "22193",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 35 (1903)",
+  "articles": [
+    {
+      "reference_id": "57826",
+      "genre": "article",
+      "title": "New Oriental Aleurodidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "61",
+      "epage": "64",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085599",
+      "created": "2010-11-20 15:03:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42170",
+          "lastname": "Quaintance",
+          "forename": "A L"
+        }
+      ],
+      "bhl_pages": [
+        3085599,
+        3085600,
+        3085437,
+        3085601
+      ]
+    },
+    {
+      "reference_id": "71894",
+      "genre": "article",
+      "title": "Some Aphididae of the genus Nectarophora from New Mexico",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "167",
+      "epage": "171",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085524",
+      "created": "2011-06-03 23:30:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3085524,
+        3085758,
+        3085525,
+        3085449,
+        3085648
+      ]
+    },
+    {
+      "reference_id": "57841",
+      "genre": "article",
+      "title": "A coleopterous conundrum",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "183",
+      "epage": "187",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085656",
+      "created": "2010-11-20 15:06:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40771",
+          "lastname": "Slosson",
+          "forename": "A T"
+        }
+      ],
+      "bhl_pages": [
+        3085656,
+        3085527,
+        3085760,
+        3085657,
+        3085528
+      ]
+    },
+    {
+      "reference_id": "57791",
+      "genre": "article",
+      "title": "A new culicid genus related to Corethra",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "189",
+      "epage": "190",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085452",
+      "created": "2010-11-20 14:53:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8729",
+          "lastname": "Coquillett",
+          "forename": "D W"
+        }
+      ],
+      "bhl_pages": [
+        3085452,
+        3085658
+      ]
+    },
+    {
+      "reference_id": "57807",
+      "genre": "article",
+      "title": "Some new records of coccidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "191",
+      "epage": "197",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085421",
+      "created": "2010-11-20 14:57:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42118",
+          "lastname": "King",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        3085421,
+        3085659,
+        3085453,
+        3085422,
+        3085529,
+        3085660,
+        3085761
+      ]
+    },
+    {
+      "reference_id": "71122",
+      "genre": "article",
+      "title": "Some new North American Homoptera",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "35",
+      "spage": "227",
+      "epage": "232",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085675",
+      "created": "2011-06-03 17:55:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46756",
+          "lastname": "Ball",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3085675,
+        3085676,
+        3085459,
+        3085536,
+        3085677,
+        3085678
+      ]
+    },
+    {
+      "reference_id": "73070",
+      "genre": "article",
+      "title": "Some Diptera from Arizona",
+      "secondary_title": "Can. Ent",
+      "volume": "35",
+      "spage": "244",
+      "epage": "246",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085686",
+      "created": "2011-06-04 07:36:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47141",
+          "lastname": "Hine",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        3085686,
+        3085764,
+        3085687
+      ]
+    },
+    {
+      "reference_id": "71509",
+      "genre": "article",
+      "title": "A list of California Aphididae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "247",
+      "epage": "254",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085688",
+      "created": "2011-06-03 20:08:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46842",
+          "lastname": "",
+          "forename": "Clarke"
+        }
+      ],
+      "bhl_pages": [
+        3085688,
+        3085689,
+        3085539,
+        3085765,
+        3085690,
+        3085424,
+        3085691,
+        3085766
+      ]
+    },
+    {
+      "reference_id": "71593",
+      "genre": "article",
+      "title": "A new Oecanthus from Illinois",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "260",
+      "epage": "261",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085540",
+      "created": "2011-06-03 21:58:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46864",
+          "lastname": "",
+          "forename": "Titus"
+        }
+      ],
+      "bhl_pages": [
+        3085540,
+        3085696
+      ]
+    },
+    {
+      "reference_id": "72991",
+      "genre": "article",
+      "title": "The genus Platylabus Wesmael, with descriptions of two new species",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "275",
+      "epage": "283",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085462",
+      "created": "2011-06-04 04:50:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3",
+          "lastname": "Bradley",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        3085462,
+        3085543,
+        3085705,
+        3085706,
+        3085544,
+        3085426,
+        3085404,
+        3085427,
+        3085545
+      ]
+    },
+    {
+      "reference_id": "73836",
+      "genre": "article",
+      "title": "The genus Podisma in eastern North America",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "295",
+      "epage": "302",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085466",
+      "created": "2011-06-04 10:01:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39836",
+          "lastname": "Walker",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        3085466,
+        3085551,
+        3085552,
+        3085553,
+        3085709,
+        3085710,
+        3085711,
+        3085712
+      ]
+    },
+    {
+      "reference_id": "101870",
+      "genre": "article",
+      "title": "Classification of the fossorial, predaceous and parasitic wasps, or the superfamily Vespoidea",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "35",
+      "spage": "323",
+      "epage": "332",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "doi": "10.4039\/Ent35323-12",
+      "PageID": "3085398",
+      "created": "2012-03-20 09:21:40",
+      "updated": "2012-03-20 09:22:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2293",
+          "lastname": "Ashmead",
+          "forename": "William H"
+        }
+      ],
+      "bhl_pages": [
+        3085398,
+        3085772,
+        3085722,
+        3085557,
+        3085723,
+        3085724,
+        3085725,
+        3085726,
+        3085727,
+        3085773
+      ]
+    },
+    {
+      "reference_id": "71790",
+      "genre": "article",
+      "title": "A new joint worm parasite from Russia",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "35",
+      "spage": "332",
+      "epage": "333",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0008-347X",
+      "PageID": "3085773",
+      "created": "2011-06-03 23:10:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3085773,
+        3085728
+      ]
+    }
+  ]
+}

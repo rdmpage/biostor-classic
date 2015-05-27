@@ -1,0 +1,36 @@
+{
+  "ItemID": "53295",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 9 (1861)",
+  "articles": [
+    {
+      "reference_id": "59742",
+      "genre": "article",
+      "title": "Description de deux Murex nouveaux",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "9",
+      "spage": "351",
+      "epage": "354",
+      "year": "1861",
+      "date": "1861-00-00",
+      "oclc": "1605690",
+      "PageID": "15608456",
+      "created": "2010-11-22 15:45:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42687",
+          "lastname": "Crosse",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        15608456,
+        15608457,
+        15608458,
+        15608459
+      ]
+    }
+  ]
+}

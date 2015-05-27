@@ -1,0 +1,41 @@
+{
+  "ItemID": "38500",
+  "FullTitle": "Me\u0301moires de la Socie\u0301te\u0301 zoologique de France.",
+  "VolumeInfo": "18, 1905",
+  "articles": [
+    {
+      "reference_id": "57939",
+      "genre": "article",
+      "title": "Description de deux el\u00e9dones provenant de l'exp\u00e9dition du Dr Charcot dans l'Antarctique",
+      "secondary_title": "M\u00e9moires de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "18",
+      "spage": "22",
+      "epage": "31",
+      "year": "1905",
+      "date": "1905-00-00",
+      "PageID": "10096068",
+      "created": "2010-11-20 19:12:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42141",
+          "lastname": "Joubin",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        10096068,
+        10096069,
+        10096070,
+        10096071,
+        10096072,
+        10096073,
+        10096074,
+        10096075,
+        10096076,
+        10096077
+      ]
+    }
+  ]
+}

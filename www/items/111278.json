@@ -1,0 +1,41 @@
+{
+  "ItemID": "111278",
+  "FullTitle": "Monatsberichte der Ko\u0308niglichen Preussische Akademie des Wissenschaften zu Berlin.",
+  "VolumeInfo": "1878",
+  "articles": [
+    {
+      "reference_id": "100202",
+      "genre": "article",
+      "title": "\u00dcber die von Hrn. J. M. Hildebrandt w\u00e4hrend seiner letzten ostafrikanischen Reise gesammelten S\u00e4ugethiere und Amphibien",
+      "secondary_title": "Monatsberichte Akademie Berlin",
+      "volume": "1878",
+      "spage": "194",
+      "epage": "201",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "8356354",
+      "PageID": "36096829",
+      "created": "2012-01-12 22:21:18",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17898",
+          "lastname": "Peters",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        36096829,
+        36096830,
+        36096831,
+        36096832,
+        36096833,
+        36096834,
+        36096835,
+        36096836,
+        36096844
+      ]
+    }
+  ]
+}

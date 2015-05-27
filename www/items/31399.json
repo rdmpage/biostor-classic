@@ -1,0 +1,40 @@
+{
+  "ItemID": "31399",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 10, Bd. 1 (1844)",
+  "articles": [
+    {
+      "reference_id": "65510",
+      "genre": "article",
+      "title": "Beschreibung neuer Asteriden",
+      "secondary_title": "Archiv F\u00fcr Naturgeschichte. Berlin",
+      "volume": "10",
+      "spage": "178",
+      "epage": "185",
+      "year": "1844",
+      "date": "1844-00-00",
+      "oclc": "1481989",
+      "PageID": "7088953",
+      "created": "2011-04-04 18:17:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44887",
+          "lastname": "Troschel",
+          "forename": "J M\u00fcller F H"
+        }
+      ],
+      "bhl_pages": [
+        7088953,
+        7088954,
+        7088955,
+        7088956,
+        7088957,
+        7088958,
+        7088959,
+        7088960
+      ]
+    }
+  ]
+}

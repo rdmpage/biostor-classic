@@ -1,0 +1,88 @@
+{
+  "ItemID": "28006",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 4 (1848-1849)",
+  "articles": [
+    {
+      "reference_id": "69212",
+      "genre": "article",
+      "title": "Description of two new species of Onychocephalus, from the western coast of Africa",
+      "secondary_title": "Proc. Acad. nat. Sci., Philadelphia",
+      "volume": "1848",
+      "spage": "59",
+      "epage": "61",
+      "year": "1848",
+      "date": "1848-00-00",
+      "issn": "0097-3157",
+      "PageID": "5445299",
+      "created": "2011-06-01 08:39:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        5445299,
+        5445298,
+        5445297
+      ]
+    },
+    {
+      "reference_id": "52172",
+      "genre": "article",
+      "title": "Description of a species of Eryx, from Madras",
+      "secondary_title": "Proc. Acad. nat. Sci., Philadelphia",
+      "volume": "1848",
+      "spage": "184",
+      "epage": "184",
+      "year": "1848",
+      "date": "1848-00-00",
+      "issn": "0097-3157",
+      "PageID": "5445372",
+      "created": "2010-10-14 15:43:23",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10325",
+          "lastname": "Hallowell",
+          "forename": "Edward"
+        }
+      ],
+      "bhl_pages": [
+        5445372
+      ]
+    },
+    {
+      "reference_id": "69380",
+      "genre": "article",
+      "title": "On several new Hymenoptera of the genera Ampilex, Sigalphus, Chelonus and Dorylus",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "4",
+      "spage": "203",
+      "epage": "204",
+      "year": "1849",
+      "date": "1849-00-00",
+      "issn": "0097-3157",
+      "PageID": "5445452",
+      "created": "2011-06-01 08:51:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18335",
+          "lastname": "Haldeman",
+          "forename": "S S"
+        }
+      ],
+      "bhl_pages": [
+        5445452,
+        5445453
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "ItemID": "35623",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1880",
+  "articles": [
+    {
+      "reference_id": "51955",
+      "genre": "article",
+      "title": "Sch\u00e4del von zwei C\u00e4cilien, Hypogeophis rostratus und H. Seraphini",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1880",
+      "spage": "53",
+      "epage": "55",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0037-5942",
+      "PageID": "8807281",
+      "created": "2010-06-27 12:02:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39404",
+          "lastname": "Peters",
+          "forename": "W C H"
+        }
+      ],
+      "bhl_pages": [
+        8807281,
+        8807282,
+        8807283
+      ]
+    },
+    {
+      "reference_id": "61661",
+      "genre": "article",
+      "title": "Mittheilung \u00fcber die von Herrn Dr. O. Finsch w\u00e4hrend seiner polynesischen Reise gesammelten Myriapoden und Arachniden",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1880",
+      "spage": "77",
+      "epage": "83",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0037-5942",
+      "PageID": "8807305",
+      "created": "2011-01-10 23:20:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        8807305,
+        8807306,
+        8807307,
+        8807308,
+        8807309,
+        8807310,
+        8807311
+      ]
+    },
+    {
+      "reference_id": "49100",
+      "genre": "article",
+      "title": "Bemerkungen \u00fcber die von ihm in Japan gesammelten Schlangen nebst Beschreibungen zweier neuer Schlangenarten",
+      "secondary_title": "Sitzungsber. Ges. Naturf. Fr. Berlin",
+      "volume": "1880",
+      "issue": "8",
+      "spage": "111",
+      "epage": "121",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0037-5942",
+      "PageID": "8807341",
+      "created": "2010-03-21 11:17:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39380",
+          "lastname": "Hilgendorf",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        8807341,
+        8807342,
+        8807343,
+        8807344,
+        8807345,
+        8807346,
+        8807347,
+        8807348,
+        8807349,
+        8807350,
+        8807351
+      ]
+    }
+  ]
+}

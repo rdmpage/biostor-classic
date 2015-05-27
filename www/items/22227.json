@@ -1,0 +1,121 @@
+{
+  "ItemID": "22227",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 5 (1873)",
+  "articles": [
+    {
+      "reference_id": "72858",
+      "genre": "article",
+      "title": "Descriptions of North American Hymenoptera, No. 5",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "5",
+      "spage": "51",
+      "epage": "54",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0008-347X",
+      "PageID": "3100015",
+      "created": "2011-06-04 04:26:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18299",
+          "lastname": "Cresson",
+          "forename": "E T"
+        }
+      ],
+      "bhl_pages": [
+        3100015,
+        3099911,
+        3099984,
+        3099912
+      ]
+    },
+    {
+      "reference_id": "72839",
+      "genre": "article",
+      "title": "Descriptions of North American Hymenoptera, No. 6",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "5",
+      "spage": "66",
+      "epage": "69",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0008-347X",
+      "PageID": "3099916",
+      "created": "2011-06-04 04:24:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18299",
+          "lastname": "Cresson",
+          "forename": "E T"
+        }
+      ],
+      "bhl_pages": [
+        3099916,
+        3099973,
+        3099819,
+        3100019
+      ]
+    },
+    {
+      "reference_id": "72860",
+      "genre": "article",
+      "title": "Descriptions of North American Hymenoptera, No. 7",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "5",
+      "spage": "82",
+      "epage": "85",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0008-347X",
+      "PageID": "3099922",
+      "created": "2011-06-04 04:27:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18299",
+          "lastname": "Cresson",
+          "forename": "E T"
+        }
+      ],
+      "bhl_pages": [
+        3099922,
+        3099856,
+        3099857,
+        3099923
+      ]
+    },
+    {
+      "reference_id": "67047",
+      "genre": "article",
+      "title": "The ant-lion",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "5",
+      "spage": "158",
+      "epage": "159",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0008-347X",
+      "PageID": "3099948",
+      "created": "2011-05-12 07:28:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45431",
+          "lastname": "Birge",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        3099948,
+        3099872
+      ]
+    }
+  ]
+}

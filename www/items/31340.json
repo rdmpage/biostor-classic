@@ -1,0 +1,83 @@
+{
+  "ItemID": "31340",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 27, Bd. 1 (1861)",
+  "articles": [
+    {
+      "reference_id": "61340",
+      "genre": "article",
+      "title": "Eine neue Art des Genus Pegasus Linn",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "27",
+      "spage": "116",
+      "epage": "117",
+      "year": "1861",
+      "date": "1861-00-00",
+      "oclc": "1481990",
+      "PageID": "7055643",
+      "created": "2011-01-10 19:00:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40834",
+          "lastname": "Kaup",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        7055643,
+        7055644
+      ]
+    },
+    {
+      "reference_id": "49223",
+      "genre": "article",
+      "title": "Neue Wirbelthiere von Chile",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "27",
+      "issue": "1",
+      "spage": "289",
+      "epage": "301",
+      "year": "1861",
+      "date": "1861-00-00",
+      "oclc": "1481990",
+      "PageID": "7055816",
+      "created": "2010-03-21 12:14:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39406",
+          "lastname": "Philippi",
+          "forename": "R A"
+        },
+        {
+          "id": "39407",
+          "lastname": "",
+          "forename": "L"
+        },
+        {
+          "id": "39408",
+          "lastname": "Eck",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        7055816,
+        7055817,
+        7055818,
+        7055819,
+        7055820,
+        7055821,
+        7055822,
+        7055823,
+        7055824,
+        7055825,
+        7055826,
+        7055827,
+        7055828
+      ]
+    }
+  ]
+}

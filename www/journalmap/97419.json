@@ -1,0 +1,108 @@
+{
+  "author": [
+    {
+      "firstname": "Ulrich",
+      "lastname": "Irmler",
+      "name": "Ulrich Irmler"
+    }
+  ],
+  "type": "article",
+  "title": "New Neotropical species of the genus Holotrochus (Coleoptera: Staphylinidae: Osoriinae)",
+  "journal": {
+    "name": "Scientific Papers Natural History Museum the University of Kansas",
+    "volume": "36",
+    "pages": "1--18",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1094-0782"
+      }
+    ]
+  },
+  "year": "2005",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/97419"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/10665497"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 97419
+    },
+    {
+      "type": "bhl",
+      "id": 10665497
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -83.541666666667,
+        8.7083333333333
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -65.083333333333,
+        -12.583333333333
+      ],
+      [
+        -52.140555555556,
+        4.5452777777778
+      ],
+      [
+        -72.733333333333,
+        -40.55
+      ],
+      [
+        -73.75,
+        -40.616666666667
+      ],
+      [
+        -82.834444444444,
+        8.9738888888889
+      ],
+      [
+        -82.96,
+        8.7841666666667
+      ],
+      [
+        -86.7,
+        15.1
+      ],
+      [
+        -82.2,
+        8.7666666666667
+      ],
+      [
+        -88.033333333333,
+        14.95
+      ],
+      [
+        -76.115333333333,
+        -2.5943333333333
+      ],
+      [
+        -82.433333333333,
+        8.8
+      ],
+      [
+        -83.705555555556,
+        9.4666666666667
+      ],
+      [
+        -83.7,
+        8.4666666666667
+      ]
+    ]
+  }
+}

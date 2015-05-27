@@ -1,0 +1,94 @@
+{
+  "ItemID": "47756",
+  "FullTitle": "Archiv fu\u0308r Naturgeschichte.",
+  "VolumeInfo": "v.85 Heft 5-8 1919",
+  "articles": [
+    {
+      "reference_id": "104245",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis aussereurop\u00e4ischer Zikaden. (Rhynchota, Homoptera). VI. Amberana pygmaea, eine neue Cercopide von Madagascar",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "85",
+      "spage": "100",
+      "epage": "101",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1481990",
+      "PageID": "13321418",
+      "created": "2012-06-13 08:57:37",
+      "updated": "2012-06-13 09:01:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53712",
+          "lastname": "Schmidt",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        13321418,
+        13321419
+      ]
+    },
+    {
+      "reference_id": "72492",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis aussereurop\u00e4ischer Zikaden. (Rhynchota Homoptera). XII. Hemibandusia baetkei, eine  neue Cercopidengattung und Art von der Insel Fernando Poo",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "85",
+      "spage": "114",
+      "epage": "115",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1481989",
+      "PageID": "13321432",
+      "created": "2011-06-04 02:11:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42272",
+          "lastname": "Schmidt",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        13321432,
+        13321433
+      ]
+    },
+    {
+      "reference_id": "72487",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Zikadenfauna von Canton (China)",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "85",
+      "spage": "121",
+      "epage": "128",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1481989",
+      "PageID": "13321439",
+      "created": "2011-06-04 02:10:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42272",
+          "lastname": "Schmidt",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        13321439,
+        13321440,
+        13321441,
+        13321442,
+        13321443,
+        13321444,
+        13321445,
+        13321446
+      ]
+    }
+  ]
+}

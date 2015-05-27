@@ -1,0 +1,39 @@
+{
+  "ItemID": "93227",
+  "FullTitle": null,
+  "VolumeInfo": "bd. 23-25 (1905-07)",
+  "articles": [
+    {
+      "reference_id": "70015",
+      "genre": "article",
+      "title": "Teuthologische Bemerkungen",
+      "secondary_title": "Mitteilungen aus dem Naturhistorischen Museum Hamburg",
+      "volume": "25",
+      "spage": "289",
+      "epage": "295",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "8466361",
+      "PageID": "29448704",
+      "created": "2011-06-02 13:35:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46452",
+          "lastname": "Pfeffer",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        29448704,
+        29448705,
+        29448706,
+        29448707,
+        29448708,
+        29448709,
+        29448710
+      ]
+    }
+  ]
+}

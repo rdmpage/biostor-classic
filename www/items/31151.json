@@ -1,0 +1,96 @@
+{
+  "ItemID": "31151",
+  "FullTitle": "Memoirs of the National Academy of Sciences.  ",
+  "VolumeInfo": "v. 6 (1893)",
+  "articles": [
+    {
+      "reference_id": "59832",
+      "genre": "article",
+      "title": "A comparison of antipodal faunas",
+      "secondary_title": "Memoirs of the National Academy of Science Washington",
+      "volume": "6",
+      "spage": "91",
+      "epage": "124",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "1759015",
+      "PageID": "6945153",
+      "created": "2010-11-22 16:11:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "42700",
+          "lastname": "Bean",
+          "forename": "T H <I>In <\/i>Gill"
+        }
+      ],
+      "bhl_pages": [
+        6945153,
+        6945154,
+        6945155,
+        6945156,
+        6945157,
+        6945158,
+        6945159,
+        6945160,
+        6945161,
+        6945162,
+        6945163,
+        6945164,
+        6945165,
+        6945166,
+        6945167,
+        6945168,
+        6945169,
+        6945170,
+        6945171,
+        6945172,
+        6945173,
+        6945174,
+        6945175,
+        6945176,
+        6945177,
+        6945178,
+        6945179,
+        6945180,
+        6945181,
+        6945182,
+        6945183,
+        6945184,
+        6945185,
+        6945186
+      ]
+    },
+    {
+      "reference_id": "20520",
+      "genre": "article",
+      "title": "Families and subfamilies of fishes",
+      "secondary_title": "Memoirs of the National Academy of Sciences, Washington",
+      "volume": "6",
+      "spage": "125",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "1759015",
+      "PageID": "6945187",
+      "created": "2010-02-09 17:37:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        6945187
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1937 @@
+{
+  "ItemID": "51639",
+  "FullTitle": "Proceedings of the United States National Museum.",
+  "VolumeInfo": "v. 3 1880",
+  "articles": [
+    {
+      "reference_id": "50363",
+      "genre": "article",
+      "title": "Notes on a collection of fishes from San Diego, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "23",
+      "epage": "34",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917100",
+      "created": "2010-06-09 08:36:40",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917100,
+        14917101,
+        14917102,
+        14917103,
+        14917104,
+        14917105,
+        14917106,
+        14917107,
+        14917108,
+        14917109,
+        14917110,
+        14917111
+      ]
+    },
+    {
+      "reference_id": "14495",
+      "genre": "article",
+      "title": "Description of a new flounder (Xystreurys liolepis), from Santa Catilina island, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "34",
+      "epage": "36",
+      "year": "1880",
+      "date": "1880-05-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:F4D65C91-8A4B-4A74-B2FE-6788E9B892EA",
+      "PageID": "14917111",
+      "created": "2010-01-14 14:58:57",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917111,
+        14917112,
+        14917113
+      ]
+    },
+    {
+      "reference_id": "14482",
+      "genre": "article",
+      "title": "Description of a new ray (Platyrhina triseriata), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "36",
+      "epage": "38",
+      "year": "1880",
+      "date": "1880-05-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:C9619D6B-EEFC-4A41-8E1A-592DDA79689B",
+      "PageID": "14917113",
+      "created": "2010-01-14 14:52:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917113,
+        14917114,
+        14917115
+      ]
+    },
+    {
+      "reference_id": "14483",
+      "genre": "article",
+      "title": "Description of a new species of \u201crock cod\u201d (Sebastichthys serriceps), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "38",
+      "epage": "40",
+      "year": "1880",
+      "date": "1880-05-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:CF8D3F93-A827-4A26-AB35-665FB9508727",
+      "PageID": "14917115",
+      "created": "2010-01-14 14:52:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917115,
+        14917116,
+        14917117
+      ]
+    },
+    {
+      "reference_id": "14470",
+      "genre": "article",
+      "title": "Description of a new flounder (Pleuronichthys verticalis), from the coast of California, with notes on other species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "49",
+      "epage": "51",
+      "year": "1880",
+      "date": "1880-05-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:B18277C3-A26D-46A9-BC13-F13E531F738E",
+      "PageID": "14917145",
+      "created": "2010-01-14 14:41:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917145,
+        14917146,
+        14917147
+      ]
+    },
+    {
+      "reference_id": "67439",
+      "genre": "article",
+      "title": "Notes on sharks from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "51",
+      "epage": "52",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917147",
+      "created": "2011-05-27 15:08:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917147,
+        14917148
+      ]
+    },
+    {
+      "reference_id": "67437",
+      "genre": "article",
+      "title": "Remarks on the species of the genus Chirus found in San Francisco market, including one hitherto undescribed",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "53",
+      "epage": "57",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917149",
+      "created": "2011-05-27 15:06:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        14917149,
+        14917150,
+        14917151,
+        14917152,
+        14917153
+      ]
+    },
+    {
+      "reference_id": "14457",
+      "genre": "article",
+      "title": "Description of a new fish from Alaska (Uranidea microstoma)",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "58",
+      "epage": "59",
+      "year": "1880",
+      "date": "1880-05-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:8FCBAB17-2CE2-4FC2-9D2A-4F8272FC2159",
+      "PageID": "14917154",
+      "created": "2010-01-14 14:32:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        14917154,
+        14917155
+      ]
+    },
+    {
+      "reference_id": "14485",
+      "genre": "article",
+      "title": "Description of a new species of Agonidae (Brachyopsis verrucosus) from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "60",
+      "epage": "63",
+      "year": "1880",
+      "date": "1880-05-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:E58986C4-48E8-4972-8EAB-C0E232B0DC3D",
+      "PageID": "14917156",
+      "created": "2010-01-14 14:54:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        14917156,
+        14917157,
+        14917158,
+        14917159
+      ]
+    },
+    {
+      "reference_id": "14424",
+      "genre": "article",
+      "title": "Description of new genus and some new species of California fishes (Icosteus aenigmaticus and Osmerus attenuatus)",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "63",
+      "epage": "68",
+      "year": "1880",
+      "date": "1880-07-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:216D7B3F-49EF-4606-BC9B-8A65E5B9FC0C",
+      "PageID": "14917159",
+      "created": "2010-01-14 13:49:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        14917159,
+        14917160,
+        14917161,
+        14917162,
+        14917163,
+        14917164
+      ]
+    },
+    {
+      "reference_id": "14444",
+      "genre": "article",
+      "title": "Description of a new hake (Phycis earllii), from South Carolina, and a note on the occurrence of Phycis regius in North Carolina",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "69",
+      "epage": "70",
+      "year": "1880",
+      "date": "1880-07-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:6A5BB884-44C1-4782-8B46-AD7CBF5CE4FB",
+      "PageID": "14917165",
+      "created": "2010-01-14 14:10:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        14917165,
+        14917166
+      ]
+    },
+    {
+      "reference_id": "14493",
+      "genre": "article",
+      "title": "Description of a new species of Sebastichthys (Sebastichthys miniatus), from Monterey Bay, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "70",
+      "epage": "72",
+      "year": "1880",
+      "date": "1880-07-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:F242EAF3-D02A-41C7-9AC7-756F9CA1D220",
+      "PageID": "14917166",
+      "created": "2010-01-14 14:57:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917166,
+        14917167,
+        14917168
+      ]
+    },
+    {
+      "reference_id": "14489",
+      "genre": "article",
+      "title": "Description of a new species of \u201crock-fish\u201d (Sebastichthys carnatus), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "73",
+      "epage": "75",
+      "year": "1880",
+      "date": "1880-07-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:EE497459-9F81-474D-A84A-5AF0F3FCD252",
+      "PageID": "14917169",
+      "created": "2010-01-14 14:55:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917169,
+        14917170,
+        14917171
+      ]
+    },
+    {
+      "reference_id": "14436",
+      "genre": "article",
+      "title": "Check-list of duplicates of North American fishes distributed by the Smithsonian Institution in behalf of the United States National Museum, 1877-1880",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "75",
+      "epage": "116",
+      "year": "1880",
+      "date": "1880-07-10",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:3B97521B-F49A-4A87-B02E-0E5F910C310F",
+      "PageID": "14917171",
+      "created": "2010-01-14 14:01:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        14917171,
+        14917172,
+        14917173,
+        14917174,
+        14917175,
+        14917176,
+        14917177,
+        14917178,
+        14917179,
+        14917180,
+        14917181,
+        14917182,
+        14917183,
+        14917184,
+        14917185,
+        14917186,
+        14917187,
+        14917188,
+        14917189,
+        14917190,
+        14917191,
+        14917192,
+        14917193,
+        14917194,
+        14917195,
+        14917196,
+        14917197,
+        14917198,
+        14917199,
+        14917200,
+        14917201,
+        14917202,
+        14917203,
+        14917204,
+        14917205,
+        14917206,
+        14917207,
+        14917208,
+        14917209,
+        14917210,
+        14917211,
+        14917212
+      ]
+    },
+    {
+      "reference_id": "67440",
+      "genre": "article",
+      "title": "Description of a new species of ray (Raia stellulata) from Monterey, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "133",
+      "epage": "135",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917229",
+      "created": "2011-05-27 15:18:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917229,
+        14917230,
+        14917231
+      ]
+    },
+    {
+      "reference_id": "14449",
+      "genre": "article",
+      "title": "Descriptions of new species of Xiphister and Apodichthys, from Monterey, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "135",
+      "epage": "140",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:776C645C-7D0D-4F58-8AF4-35E152CBC501",
+      "PageID": "14917231",
+      "created": "2010-01-14 14:19:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917231,
+        14917232,
+        14917233,
+        14917234,
+        14917235,
+        14917236
+      ]
+    },
+    {
+      "reference_id": "14434",
+      "genre": "article",
+      "title": "Description of two new species of Sebastichthys (Sebastichthys entomelas and Sebastichthys rhodochloris), from Monterey Bay, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "142",
+      "epage": "146",
+      "year": "1880",
+      "date": "1880-07-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:3FEB2B3C-5650-464B-92B6-BC086FCA7C74",
+      "PageID": "14917240",
+      "created": "2010-01-14 13:59:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917240,
+        14917241,
+        14917242,
+        14917243,
+        14917244
+      ]
+    },
+    {
+      "reference_id": "67430",
+      "genre": "article",
+      "title": "On the occurrence of a species of Cremnobates at San Diego, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "147",
+      "epage": "149",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917245",
+      "created": "2011-05-27 14:29:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "759",
+          "lastname": "Smith",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        14917245,
+        14917246,
+        14917247
+      ]
+    },
+    {
+      "reference_id": "14477",
+      "genre": "article",
+      "title": "Description of a new agonoid fish (Brachyopsis xyosternus), from Monterey Bay, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "152",
+      "epage": "154",
+      "year": "1880",
+      "date": "1880-07-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:C089FB8F-2498-4947-A27E-FF2C10795B81",
+      "PageID": "14917252",
+      "created": "2010-01-14 14:46:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917252,
+        14917253,
+        14917254
+      ]
+    },
+    {
+      "reference_id": "14474",
+      "genre": "article",
+      "title": "Description of a new flounder (Hippoglossoides exilis), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "154",
+      "epage": "156",
+      "year": "1880",
+      "date": "1880-07-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:BA5E6898-A284-4872-A68A-C39502A774D8",
+      "PageID": "14917254",
+      "created": "2010-01-14 14:44:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917254,
+        14917255,
+        14917256
+      ]
+    },
+    {
+      "reference_id": "78443",
+      "genre": "article",
+      "title": "A catalogue of the birds of North America",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "3",
+      "spage": "163",
+      "epage": "246",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917263",
+      "created": "2011-06-30 15:06:08",
+      "updated": "2011-06-30 15:06:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        14917263,
+        14917264,
+        14917265,
+        14917266,
+        14917267,
+        14917268,
+        14917269,
+        14917270,
+        14917271,
+        14917272,
+        14917273,
+        14917274,
+        14917275,
+        14917276,
+        14917277,
+        14917278,
+        14917279,
+        14917280,
+        14917281,
+        14917282,
+        14917283,
+        14917284,
+        14917285,
+        14917286,
+        14917287,
+        14917288,
+        14917289,
+        14917290,
+        14917291,
+        14917292,
+        14917293,
+        14917294,
+        14917295,
+        14917296,
+        14917297,
+        14917298,
+        14917299,
+        14917300,
+        14917301,
+        14917302,
+        14917303,
+        14917304,
+        14917305,
+        14917306,
+        14917307,
+        14917308,
+        14917309,
+        14917310,
+        14917311,
+        14917312,
+        14917313,
+        14917314,
+        14917315,
+        14917316,
+        14917317,
+        14917318,
+        14917319,
+        14917320,
+        14917321,
+        14917322,
+        14917323,
+        14917324,
+        14917325,
+        14917326,
+        14917327,
+        14917328,
+        14917329,
+        14917330,
+        14917331,
+        14917332,
+        14917333,
+        14917334,
+        14917335,
+        14917336,
+        14917337,
+        14917338,
+        14917339,
+        14917340,
+        14917341,
+        14917342,
+        14917343,
+        14917344,
+        14917345,
+        14917346
+      ]
+    },
+    {
+      "reference_id": "14479",
+      "genre": "article",
+      "title": "On the identity of the genus Leurynnis, Lockington, with Lycodopsis, Collett",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "247",
+      "epage": "248",
+      "year": "1880",
+      "date": "1880-09-15",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:C2409EBB-24AA-49CB-B0A8-985CF3143C54",
+      "PageID": "14917347",
+      "created": "2010-01-14 14:47:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        14917347,
+        14917348
+      ]
+    },
+    {
+      "reference_id": "14451",
+      "genre": "article",
+      "title": "Description of a new chiroid fish, Myriolepis zonifer, from Monterey Bay, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "248",
+      "epage": "251",
+      "year": "1880",
+      "date": "1880-09-15",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:7EE628CA-EAA2-4CC4-AC88-5A7BD49D9410",
+      "PageID": "14917348",
+      "created": "2010-01-14 14:26:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        14917348,
+        14917349,
+        14917350,
+        14917351
+      ]
+    },
+    {
+      "reference_id": "14170",
+      "genre": "article",
+      "title": "Description of a new species of ray, Raia rhina, from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "251",
+      "epage": "253",
+      "year": "1880",
+      "date": "1880-09-15",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:2DE607F9-5072-4E1E-AA25-610FF07F876C",
+      "PageID": "14917351",
+      "created": "2010-01-14 12:25:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917351,
+        14917352,
+        14917353
+      ]
+    },
+    {
+      "reference_id": "78444",
+      "genre": "article",
+      "title": "Description of a new species of parrot of the genus Chrysotis, from the Island of Dominica",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "3",
+      "spage": "254",
+      "epage": "257",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917354",
+      "created": "2011-06-30 15:06:12",
+      "updated": "2011-06-30 15:06:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49662",
+          "lastname": "Lawrence",
+          "forename": "George N"
+        }
+      ],
+      "bhl_pages": [
+        14917354,
+        14917355,
+        14917356,
+        14917357
+      ]
+    },
+    {
+      "reference_id": "14119",
+      "genre": "article",
+      "title": "Description of two new species of fishes, Ascelichthys rhodorus and Scytalina cerdale, from Neah Bay, Washington Territory",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "264",
+      "epage": "268",
+      "year": "1880",
+      "date": "1880-09-22",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:024EB1E6-6764-44A2-AD0A-6147520BBF19",
+      "PageID": "14917364",
+      "created": "2010-01-14 11:54:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917364,
+        14917365,
+        14917366,
+        14917367,
+        14917368
+      ]
+    },
+    {
+      "reference_id": "14438",
+      "genre": "article",
+      "title": "Description of two new species of scopeloid fishes, Sudis ringens and Myctophum crenulare, from Santa Barbara Channel, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "273",
+      "epage": "276",
+      "year": "1880",
+      "date": "1880-10-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:5652CBA4-5C55-48EF-BEE2-EC8B8AAC2F4C",
+      "PageID": "14917373",
+      "created": "2010-01-14 14:03:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917373,
+        14917374,
+        14917375,
+        14917376
+      ]
+    },
+    {
+      "reference_id": "14492",
+      "genre": "article",
+      "title": "Description of two new species of flounders (Parophrys ischyrus and Hippoglossoides elassodon), from Puget\u2019s Sound",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "276",
+      "epage": "279",
+      "year": "1880",
+      "date": "1880-10-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:EF9371B4-7C04-41E8-9508-CE648D9900A6",
+      "PageID": "14917376",
+      "created": "2010-01-14 14:57:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917376,
+        14917377,
+        14917378,
+        14917379
+      ]
+    },
+    {
+      "reference_id": "14429",
+      "genre": "article",
+      "title": "Description of a new sparoid fish (Sparus brachysomus) from Lower California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "284",
+      "epage": "286",
+      "year": "1880",
+      "date": "1880-10-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:266C4EDA-2BF7-4B24-B331-09583B341DA6",
+      "PageID": "14917384",
+      "created": "2010-01-14 13:56:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        14917384,
+        14917385,
+        14917386
+      ]
+    },
+    {
+      "reference_id": "14370",
+      "genre": "article",
+      "title": "Description of seven new species of sebastoid fishes, from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "287",
+      "epage": "298",
+      "year": "1880",
+      "date": "1880-10-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:E0325DFF-2358-49EF-BF30-BD0588125D60",
+      "PageID": "14917387",
+      "created": "2010-01-14 13:09:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917387,
+        14917388,
+        14917389,
+        14917390,
+        14917391,
+        14917392,
+        14917393,
+        14917394,
+        14917395,
+        14917396,
+        14917397,
+        14917398
+      ]
+    },
+    {
+      "reference_id": "14445",
+      "genre": "article",
+      "title": "Description of a new embiotocoid (Abeona aurora), from Monterey, California, with notes on a related species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "299",
+      "epage": "301",
+      "year": "1880",
+      "date": "1880-10-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:6F6BA135-0060-4865-95F5-624D80BB8262",
+      "PageID": "14917399",
+      "created": "2010-01-14 14:12:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917399,
+        14917400,
+        14917401
+      ]
+    },
+    {
+      "reference_id": "14494",
+      "genre": "article",
+      "title": "Description of a new flounder (Platysomatichthys stomias), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "301",
+      "epage": "303",
+      "year": "1880",
+      "date": "1880-10-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:EE6C4499-3C9A-45D2-B585-76A1176C0B6C",
+      "PageID": "14917401",
+      "created": "2010-01-14 14:58:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917401,
+        14917402,
+        14917403
+      ]
+    },
+    {
+      "reference_id": "14140",
+      "genre": "article",
+      "title": "Description of a new embiotocoid fish (Cymatogaster rosaceus), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "303",
+      "epage": "305",
+      "year": "1880",
+      "date": "1880-10-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:0D4D1730-F13E-4668-91D3-D162F1F730BE",
+      "PageID": "14917403",
+      "created": "2010-01-14 12:18:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917403,
+        14917404,
+        14917405
+      ]
+    },
+    {
+      "reference_id": "67449",
+      "genre": "article",
+      "title": "Description of a new species of deep-water fish (Icichthys lockingtoni), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "305",
+      "epage": "308",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917405",
+      "created": "2011-05-27 15:34:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917405,
+        14917406,
+        14917407,
+        14917408
+      ]
+    },
+    {
+      "reference_id": "14472",
+      "genre": "article",
+      "title": "Description of a new embiotocoid fish (Ditrema atripes), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "320",
+      "epage": "322",
+      "year": "1880",
+      "date": "1880-11-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:AF59FC21-929E-47A5-9C36-81A0D073A6B1",
+      "PageID": "14917420",
+      "created": "2010-01-14 14:42:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917420,
+        14917421,
+        14917422
+      ]
+    },
+    {
+      "reference_id": "14480",
+      "genre": "article",
+      "title": "Description of a new scorpaenoid fish (Sebastichthys maliger), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "322",
+      "epage": "324",
+      "year": "1880",
+      "date": "1880-11-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:D937E983-0067-4197-81EA-E48654F7E18E",
+      "PageID": "14917422",
+      "created": "2010-01-14 14:50:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917422,
+        14917423,
+        14917424
+      ]
+    },
+    {
+      "reference_id": "14251",
+      "genre": "article",
+      "title": "Note on a forgotten paper of Dr. Ayres and its bearing on the nomenclature of the cyprinoid fishes of the San Francisco markets",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "325",
+      "epage": "327",
+      "year": "1880",
+      "date": "1880-11-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:698BC480-A3A2-4AFC-8044-EFACD8517706",
+      "PageID": "14917425",
+      "created": "2010-01-14 12:58:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        14917425,
+        14917426,
+        14917427
+      ]
+    },
+    {
+      "reference_id": "14435",
+      "genre": "article",
+      "title": "Description of a new scorpaenoid fish (Sebastichthys proriger), from Monterey Bay, California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "327",
+      "epage": "329",
+      "year": "1880",
+      "date": "1880-11-02",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:41BDE207-7AE9-47C9-AF36-CEA642F3E2D9",
+      "PageID": "14917427",
+      "created": "2010-01-14 14:01:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917427,
+        14917428,
+        14917429
+      ]
+    },
+    {
+      "reference_id": "67443",
+      "genre": "article",
+      "title": "Description of a new agonoid (Agonus vulsus), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "330",
+      "epage": "332",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917430",
+      "created": "2011-05-27 15:24:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917430,
+        14917431,
+        14917432
+      ]
+    },
+    {
+      "reference_id": "67405",
+      "genre": "article",
+      "title": "Description of a new species of Hemirhamphus (Hemirhamphus rosae), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "335",
+      "epage": "336",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917435",
+      "created": "2011-05-26 19:50:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917435,
+        14917436
+      ]
+    },
+    {
+      "reference_id": "67406",
+      "genre": "article",
+      "title": "Descriptions of seven new species of fishes from deep soundings on the southern New England coast, with diagnoses of two undescribed genera of flounders and a genus related to Merlucius",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "337",
+      "epage": "350",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917437",
+      "created": "2011-05-26 19:50:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        14917437,
+        14917438,
+        14917439,
+        14917440,
+        14917441,
+        14917442,
+        14917443,
+        14917444,
+        14917445,
+        14917446,
+        14917447,
+        14917448,
+        14917449,
+        14917450
+      ]
+    },
+    {
+      "reference_id": "67441",
+      "genre": "article",
+      "title": "Description of a new species of notidanoid shark (Hexanchus corinus), from the Pacific coast of the United States",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "352",
+      "epage": "355",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917452",
+      "created": "2011-05-27 15:19:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917452,
+        14917453,
+        14917454,
+        14917455
+      ]
+    },
+    {
+      "reference_id": "14279",
+      "genre": "article",
+      "title": "Description of a new species of Nemichthys (Nemichthys avocetta), from Puget Sound",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "409",
+      "epage": "410",
+      "year": "1881",
+      "date": "1881-01-14",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:80286163-3261-4F80-AF98-0D0238669D4A",
+      "PageID": "14917509",
+      "created": "2010-01-14 13:01:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917509,
+        14917510
+      ]
+    },
+    {
+      "reference_id": "67390",
+      "genre": "article",
+      "title": "Description of a new species of Paralepis (Paralepis coruscans), from the Straits of Juan de Fuca",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "411",
+      "epage": "413",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917511",
+      "created": "2011-05-26 17:37:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917511,
+        14917512,
+        14917513
+      ]
+    },
+    {
+      "reference_id": "78446",
+      "genre": "article",
+      "title": "Preliminary notice of the Crustacea dredged, in 64 to 325 fathoms, off the south coast of New England, by the United States Fish Commission in 1880",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "3",
+      "spage": "413",
+      "epage": "452",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917513",
+      "created": "2011-06-30 15:06:46",
+      "updated": "2011-06-30 15:06:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42768",
+          "lastname": "Smith",
+          "forename": "S I"
+        }
+      ],
+      "bhl_pages": [
+        14917513,
+        14917514,
+        14917515,
+        14917516,
+        14917517,
+        14917518,
+        14917519,
+        14917520,
+        14917521,
+        14917522,
+        14917523,
+        14917524,
+        14917525,
+        14917526,
+        14917527,
+        14917528,
+        14917529,
+        14917530,
+        14917531,
+        14917532,
+        14917533,
+        14917534,
+        14917535,
+        14917536,
+        14917537,
+        14917538,
+        14917539,
+        14917540,
+        14917541,
+        14917542,
+        14917543,
+        14917544,
+        14917545,
+        14917546,
+        14917547,
+        14917548,
+        14917549,
+        14917550,
+        14917551,
+        14917552
+      ]
+    },
+    {
+      "reference_id": "67433",
+      "genre": "article",
+      "title": "List of the fishes of the Pacific coast of the United States, with a table showing the distribution of the species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "452",
+      "epage": "458",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0096-3801",
+      "PageID": "14917552",
+      "created": "2011-05-27 15:02:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917552,
+        14917553,
+        14917554,
+        14917555,
+        14917556,
+        14917557,
+        14917558
+      ]
+    },
+    {
+      "reference_id": "14447",
+      "genre": "article",
+      "title": "Notes on a collection of fishes from Utah Lake",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "459",
+      "epage": "465",
+      "year": "1881",
+      "date": "1881-02-25",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:74D5D1AA-4F03-4C80-A78C-1A45F071F8E2",
+      "PageID": "14917559",
+      "created": "2010-01-14 14:17:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917559,
+        14917560,
+        14917561,
+        14917562,
+        14917563,
+        14917564,
+        14917565
+      ]
+    },
+    {
+      "reference_id": "14450",
+      "genre": "article",
+      "title": "Description of a new species of \u201crock-fish\u201d (Sebastichthys chrysomelas), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "465",
+      "epage": "466",
+      "year": "1881",
+      "date": "1881-02-25",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:7B561036-491E-4D82-B844-6BB05629E898",
+      "PageID": "14917565",
+      "created": "2010-01-14 14:20:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10204",
+          "lastname": "Gilbert",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        14917565,
+        14917566
+      ]
+    },
+    {
+      "reference_id": "14478",
+      "genre": "article",
+      "title": "Fishes from the deep water on the south coast of New England obtained by the United States Fish Commission in the summer of 1880",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "467",
+      "epage": "486",
+      "year": "1881",
+      "date": "1881-02-25",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:C8A16E54-8784-4BE6-84B0-03431CDA6413",
+      "PageID": "14917567",
+      "created": "2010-01-14 14:46:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        14917567,
+        14917568,
+        14917569,
+        14917570,
+        14917571,
+        14917572,
+        14917573,
+        14917574,
+        14917575,
+        14917576,
+        14917577,
+        14917578,
+        14917579,
+        14917580,
+        14917581,
+        14917582,
+        14917583,
+        14917584,
+        14917585,
+        14917586
+      ]
+    },
+    {
+      "reference_id": "14468",
+      "genre": "article",
+      "title": "Description of a new species of Caranx (Caranx beani), from Beaufort, North Carolina",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "486",
+      "epage": "488",
+      "year": "1881",
+      "date": "1881-02-23",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:AC52E0E4-48CE-49E1-ADA9-19E4717A2462",
+      "PageID": "14917586",
+      "created": "2010-01-14 14:38:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        14917586,
+        14917587,
+        14917588
+      ]
+    },
+    {
+      "reference_id": "14439",
+      "genre": "article",
+      "title": "On a collection of fishes from eastern Mississippi",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "488",
+      "epage": "515",
+      "year": "1881",
+      "date": "1881-02-23",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:5AE76090-23A4-4663-9519-EA661D980A39",
+      "PageID": "14917588",
+      "created": "2010-01-14 14:03:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10202",
+          "lastname": "Hay",
+          "forename": "O P"
+        }
+      ],
+      "bhl_pages": [
+        14917588,
+        14917589,
+        14917590,
+        14917591,
+        14917592,
+        14917593,
+        14917594,
+        14917595,
+        14917596,
+        14917597,
+        14917598,
+        14917599,
+        14917600,
+        14917601,
+        14917602,
+        14917603,
+        14917604,
+        14917605,
+        14917606,
+        14917607,
+        14917608,
+        14917609,
+        14917610,
+        14917611,
+        14917612,
+        14917613,
+        14917614,
+        14917615
+      ]
+    },
+    {
+      "reference_id": "14437",
+      "genre": "article",
+      "title": "Synopsis and descriptions of the American Rhinobatidae",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "516",
+      "epage": "523",
+      "year": "1881",
+      "date": "1881-02-23",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:495028D1-9599-40BF-8F0E-462CA38CF3CF",
+      "PageID": "14917616",
+      "created": "2010-01-14 14:02:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        14917616,
+        14917617,
+        14917618,
+        14917619,
+        14917620,
+        14917621,
+        14917622,
+        14917623
+      ]
+    },
+    {
+      "reference_id": "14488",
+      "genre": "article",
+      "title": "Description of a new species of Prionotus (Prionotus stephanophrys), from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "529",
+      "epage": "532",
+      "year": "1881",
+      "date": "1881-04-28",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:EAF4C559-31A5-4724-9C87-0D23F000772D",
+      "PageID": "14917629",
+      "created": "2010-01-14 14:55:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        14917629,
+        14917630,
+        14917631,
+        14917632
+      ]
+    },
+    {
+      "reference_id": "14446",
+      "genre": "article",
+      "title": "Notacanthus phasganorus, a new species of Notacanthidae from the Grand Banks of Newfoundland",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "3",
+      "spage": "535",
+      "epage": "537",
+      "year": "1881",
+      "date": "1881-04-28",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:70C1EACC-EEFC-499D-A6C7-4AA05A80704C",
+      "PageID": "14917635",
+      "created": "2010-01-14 14:15:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        14917635,
+        14917636,
+        14917637
+      ]
+    }
+  ]
+}

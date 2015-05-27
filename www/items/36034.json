@@ -1,0 +1,213 @@
+{
+  "ItemID": "36034",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 56 = 3rd ser. v.6 1920",
+  "articles": [
+    {
+      "reference_id": "57478",
+      "genre": "article",
+      "title": "Notes on the Australian Coleopterous genera Palaestra Cast., Tmesidera Westw., and Palaestrida White (Fam. Melo\u00efdae)",
+      "secondary_title": "Entomologist\u2019s Monthly Magazine",
+      "volume": "56",
+      "spage": "28",
+      "epage": "32",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9016945",
+      "created": "2010-11-20 13:06:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39861",
+          "lastname": "Blair",
+          "forename": "K G"
+        }
+      ],
+      "bhl_pages": [
+        9016945,
+        9016946,
+        9016947,
+        9016948,
+        9016949
+      ]
+    },
+    {
+      "reference_id": "104734",
+      "genre": "article",
+      "title": "New or little known species of British Cicadina",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "56",
+      "spage": "53",
+      "epage": "58",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1568052",
+      "PageID": "9016974",
+      "created": "2012-06-27 09:07:01",
+      "updated": "2012-06-27 09:09:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40066",
+          "lastname": "Edwards",
+          "forename": "James"
+        }
+      ],
+      "bhl_pages": [
+        9016974,
+        9016975,
+        9016976,
+        9016977,
+        9016978,
+        9016979
+      ]
+    },
+    {
+      "reference_id": "67202",
+      "genre": "article",
+      "title": "Preliminary notes and descriptions of some European species of Aeolothrips",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "56",
+      "spage": "60",
+      "epage": "62",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1568052",
+      "PageID": "9016981",
+      "created": "2011-05-19 12:29:04",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9016981,
+        9016982,
+        9016983
+      ]
+    },
+    {
+      "reference_id": "73469",
+      "genre": "article",
+      "title": "Dimorphism in the antennae of a male midge",
+      "secondary_title": "Ent. mon. Mag",
+      "volume": "56",
+      "spage": "135",
+      "epage": "136",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0013-8908",
+      "PageID": "9017070",
+      "created": "2011-06-04 08:45:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        9017070,
+        9017071
+      ]
+    },
+    {
+      "reference_id": "71761",
+      "genre": "article",
+      "title": "A new blastophagine genus and species from E. Africa (Hymenoptera - Chalcidoidea)",
+      "secondary_title": "Entomologist's Monthly Magazine (3)",
+      "volume": "56",
+      "spage": "197",
+      "epage": "200",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1568052",
+      "PageID": "9017144",
+      "created": "2011-06-03 23:04:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17708",
+          "lastname": "Waterston",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9017144,
+        9017145,
+        9017146,
+        9017147
+      ]
+    },
+    {
+      "reference_id": "73470",
+      "genre": "article",
+      "title": "Some records of predaceous Ceratopogoninae",
+      "secondary_title": "Ent. mon. Mag",
+      "volume": "56",
+      "spage": "203",
+      "epage": "205",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0013-8908",
+      "PageID": "9017150",
+      "created": "2011-06-04 08:45:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        9017150,
+        9017151,
+        9017152
+      ]
+    },
+    {
+      "reference_id": "73744",
+      "genre": "article",
+      "title": "The British species of the sylvaticus-group of Pipunculus (Diptera)",
+      "secondary_title": "Entomologist's mom. Mag",
+      "volume": "56",
+      "spage": "270",
+      "epage": "276",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1568052",
+      "PageID": "9017229",
+      "created": "2011-06-04 09:43:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39852",
+          "lastname": "Collin",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        9017229,
+        9017230,
+        9017231,
+        9017232,
+        9017233,
+        9017234,
+        9017235
+      ]
+    }
+  ]
+}

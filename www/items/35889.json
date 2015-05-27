@@ -1,0 +1,129 @@
+{
+  "ItemID": "35889",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 40 1904",
+  "articles": [
+    {
+      "reference_id": "100000",
+      "genre": "article",
+      "title": "Spanish and Moorish Micro-Lepidoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "40",
+      "issue": "1",
+      "spage": "7",
+      "epage": "8",
+      "year": "1904",
+      "date": "1904-01-00",
+      "oclc": "1568052",
+      "PageID": "8958181",
+      "created": "2011-12-21 11:33:44",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53383",
+          "lastname": "Walsingham",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        8958181,
+        8958182
+      ]
+    },
+    {
+      "reference_id": "67116",
+      "genre": "article",
+      "title": "A new Australian species of Psychopsis: Ps. illidgei, Froggatt",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "40",
+      "spage": "54",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1568052",
+      "PageID": "8958228",
+      "created": "2011-05-12 13:33:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        8958228
+      ]
+    },
+    {
+      "reference_id": "57884",
+      "genre": "article",
+      "title": "On some Javanese Coccidae: with descriptions of new species",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "40",
+      "spage": "204",
+      "epage": "210",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8958382",
+      "created": "2010-11-20 15:20:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        8958382,
+        8958383,
+        8958384,
+        8958385,
+        8958386,
+        8958387,
+        8958388
+      ]
+    },
+    {
+      "reference_id": "100001",
+      "genre": "article",
+      "title": "Algerian Microlepidoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "40",
+      "issue": "9",
+      "spage": "214",
+      "epage": "223",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1568052",
+      "PageID": "8958392",
+      "created": "2011-12-21 11:36:56",
+      "updated": "2011-12-21 11:36:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53383",
+          "lastname": "Walsingham",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        8958392,
+        8958393,
+        8958394,
+        8958395,
+        8958396,
+        8958397,
+        8958398,
+        8958399,
+        8958400,
+        8958401
+      ]
+    }
+  ]
+}

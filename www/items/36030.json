@@ -1,0 +1,133 @@
+{
+  "ItemID": "36030",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 39 1903",
+  "articles": [
+    {
+      "reference_id": "67114",
+      "genre": "article",
+      "title": "Neuroptera (in the Linnaean sense) collected by the Rev. A. E. Eaton in south Norway in July, 1902, with synonymic and other notes",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "39",
+      "spage": "32",
+      "epage": "35",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1568052",
+      "PageID": "9015331",
+      "created": "2011-05-12 13:27:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9015331,
+        9015332,
+        9015333,
+        9015334
+      ]
+    },
+    {
+      "reference_id": "57833",
+      "genre": "article",
+      "title": "New species of Siphonaptera from Egypt and the Soudan (with two plates)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "39",
+      "spage": "83",
+      "epage": "87",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9015386",
+      "created": "2010-11-20 15:04:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42171",
+          "lastname": "Rothschild",
+          "forename": "N C"
+        }
+      ],
+      "bhl_pages": [
+        9015386,
+        9015387,
+        9015388,
+        9015389,
+        9015390
+      ]
+    },
+    {
+      "reference_id": "71986",
+      "genre": "article",
+      "title": "Some new Coleoptera from the Chatham Islands and New Zealand",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "39",
+      "spage": "105",
+      "epage": "110",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1568052",
+      "PageID": "9015408",
+      "created": "2011-06-03 23:59:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9015408,
+        9015409,
+        9015410,
+        9015411,
+        9015412,
+        9015413
+      ]
+    },
+    {
+      "reference_id": "99999",
+      "genre": "article",
+      "title": "Spanish and Moorish Micro-Lepidoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "39",
+      "issue": "7",
+      "spage": "179",
+      "epage": "187",
+      "year": "1903",
+      "date": "1903-07-00",
+      "oclc": "1568052",
+      "PageID": "9015484",
+      "created": "2011-12-21 11:31:22",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53383",
+          "lastname": "Walsingham",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        9015484,
+        9015485,
+        9015486,
+        9015487,
+        9015488,
+        9015489,
+        9015490,
+        9015491,
+        9015492
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "ItemID": "54680",
+  "FullTitle": "Transactions of the Royal Society of South Australia",
+  "VolumeInfo": "v.21 (1896-1897)",
+  "articles": [
+    {
+      "reference_id": "70757",
+      "genre": "article",
+      "title": "Notes on Australian Typhlopidae",
+      "secondary_title": "Trans. R. Soc. S. Aust",
+      "volume": "21",
+      "spage": "25",
+      "epage": "27",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0372-1426",
+      "PageID": "16140500",
+      "created": "2011-06-03 06:56:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10308",
+          "lastname": "Waite",
+          "forename": "E R"
+        }
+      ],
+      "bhl_pages": [
+        16140500,
+        16140501,
+        16140502
+      ]
+    },
+    {
+      "reference_id": "69853",
+      "genre": "article",
+      "title": "Further notes on Australian Coleoptera, with descriptions of new genera and species. Part XXI",
+      "secondary_title": "Transactions of the Royal Society of South Australia",
+      "volume": "21",
+      "spage": "28",
+      "epage": "39",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0372-1426",
+      "PageID": "16140503",
+      "created": "2011-06-02 07:44:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46391",
+          "lastname": "T.",
+          "forename": "Blackburn"
+        }
+      ],
+      "bhl_pages": [
+        16140503,
+        16140504,
+        16140505,
+        16140506,
+        16140507,
+        16140508,
+        16140509,
+        16140510,
+        16140511,
+        16140512,
+        16140513,
+        16140514
+      ]
+    },
+    {
+      "reference_id": "69854",
+      "genre": "article",
+      "title": "Further notes on Australian Coleoptera with descriptions of new genera and species. Part XXII",
+      "secondary_title": "Transactions of the Royal Society of South Australia",
+      "volume": "21",
+      "spage": "88",
+      "epage": "98",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0372-1426",
+      "PageID": "16140582",
+      "created": "2011-06-02 07:44:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46391",
+          "lastname": "T.",
+          "forename": "Blackburn"
+        }
+      ],
+      "bhl_pages": [
+        16140582,
+        16140583,
+        16140584,
+        16140585,
+        16140586,
+        16140587,
+        16140588,
+        16140589,
+        16140590,
+        16140591,
+        16140592
+      ]
+    }
+  ]
+}

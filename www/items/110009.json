@@ -1,0 +1,34 @@
+{
+  "ItemID": "110009",
+  "FullTitle": "M\u00fcnchner koleopterologische Zeitschrift. ",
+  "VolumeInfo": "Bd.2 (1904-1906)",
+  "articles": [
+    {
+      "reference_id": "104595",
+      "genre": "article",
+      "title": "Zwei neue Kaferarten aus Russisch-Central-Asien",
+      "secondary_title": "Muenchener Koleopterologische Zeitschrift",
+      "volume": "2",
+      "spage": "69",
+      "epage": "70",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1758817",
+      "PageID": "35504401",
+      "created": "2012-06-25 23:01:29",
+      "updated": "2012-06-25 23:11:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53893",
+          "lastname": "Luze",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        35504401,
+        35504402
+      ]
+    }
+  ]
+}

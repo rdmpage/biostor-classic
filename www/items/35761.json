@@ -1,0 +1,410 @@
+{
+  "ItemID": "35761",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.32 (1972)",
+  "articles": [
+    {
+      "reference_id": "1208",
+      "genre": "article",
+      "title": "A new subspecies of Crotalus lepidus from western Mexico",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "16",
+      "epage": "24",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879462",
+      "created": "2009-12-23 10:25:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        },
+        {
+          "id": "947",
+          "lastname": "Dixon",
+          "forename": "J R"
+        },
+        {
+          "id": "948",
+          "lastname": "Harris",
+          "forename": "H S"
+        }
+      ],
+      "bhl_pages": [
+        8879462,
+        8879463,
+        8879464,
+        8879465,
+        8879466,
+        8879467,
+        8879468,
+        8879469,
+        8879470
+      ]
+    },
+    {
+      "reference_id": "1209",
+      "genre": "article",
+      "title": "Two new subspecies of Crotaphytus (Sauria: Iguanidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "25",
+      "epage": "34",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879471",
+      "created": "2009-12-23 10:25:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "940",
+          "lastname": "Smith",
+          "forename": "N M"
+        },
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8879471,
+        8879472,
+        8879473,
+        8879474,
+        8879475,
+        8879476,
+        8879477,
+        8879478,
+        8879479,
+        8879480
+      ]
+    },
+    {
+      "reference_id": "85286",
+      "genre": "article",
+      "title": "A new species of Stenamma (Hymenoptera: Formicidae) from Utah",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "35",
+      "epage": "39",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879481",
+      "created": "2011-08-12 09:17:56",
+      "updated": "2011-08-12 09:17:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8879481,
+        8879482,
+        8879483,
+        8879484,
+        8879485
+      ]
+    },
+    {
+      "reference_id": "1211",
+      "genre": "article",
+      "title": "The contributions of the 1822 works of Jarocki and Fleming to herpetological nomenclature",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "55",
+      "epage": "60",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879501",
+      "created": "2009-12-23 10:25:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "949",
+          "lastname": "Feuer",
+          "forename": "R C"
+        },
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        8879501,
+        8879502,
+        8879503,
+        8879504,
+        8879505,
+        8879506
+      ]
+    },
+    {
+      "reference_id": "85278",
+      "genre": "article",
+      "title": "A new species of Gymnodameus from Colorado (Acarina: Cryptostigmata, Gymnodamaeidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "97",
+      "epage": "103",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879547",
+      "created": "2011-08-12 09:17:21",
+      "updated": "2011-08-12 09:17:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8879547,
+        8879548,
+        8879549,
+        8879550,
+        8879551,
+        8879552,
+        8879553
+      ]
+    },
+    {
+      "reference_id": "1210",
+      "genre": "article",
+      "title": "The sonoran subspecies of the lizard Ctenosaura hemilopha",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "104",
+      "epage": "111",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879554",
+      "created": "2009-12-23 10:25:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        8879554,
+        8879555,
+        8879556,
+        8879557,
+        8879558,
+        8879559,
+        8879560,
+        8879561
+      ]
+    },
+    {
+      "reference_id": "65005",
+      "genre": "article",
+      "title": "On the rodent infesting Anoplura of Panama",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "121",
+      "epage": "136",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879575",
+      "created": "2011-01-31 12:57:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44739",
+          "lastname": "Johnson",
+          "forename": "Phyllis True"
+        }
+      ],
+      "bhl_pages": [
+        8879575,
+        8879576,
+        8879577,
+        8879578,
+        8879579,
+        8879580,
+        8879581,
+        8879582,
+        8879583,
+        8879584,
+        8879585,
+        8879586,
+        8879587,
+        8879588,
+        8879589,
+        8879590
+      ]
+    },
+    {
+      "reference_id": "85348",
+      "genre": "article",
+      "title": "Notes concerning Mexican Saldidae, including the description of two new species (Hemiptera)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "137",
+      "epage": "153",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879591",
+      "created": "2011-08-12 09:26:59",
+      "updated": "2011-08-12 09:26:59",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8879591,
+        8879592,
+        8879593,
+        8879594,
+        8879595,
+        8879596,
+        8879597,
+        8879598,
+        8879599,
+        8879600,
+        8879601,
+        8879602,
+        8879603,
+        8879604,
+        8879605,
+        8879606,
+        8879607
+      ]
+    },
+    {
+      "reference_id": "70808",
+      "genre": "article",
+      "title": "Nearctic Desert Decticidae (Orthop.) Part I. A New Genus from California",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "176",
+      "epage": "179",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879630",
+      "created": "2011-06-03 07:12:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46661",
+          "lastname": "",
+          "forename": "Tinkham"
+        }
+      ],
+      "bhl_pages": [
+        8879630,
+        8879631,
+        8879632,
+        8879633
+      ]
+    },
+    {
+      "reference_id": "85335",
+      "genre": "article",
+      "title": "New synonymy in American bark beetles (Scolytidae: Coleoptera), part 2",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "190",
+      "epage": "201",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879648",
+      "created": "2011-08-12 09:25:49",
+      "updated": "2011-08-12 09:25:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8879648,
+        8879649,
+        8879650,
+        8879651,
+        8879652,
+        8879653,
+        8879654,
+        8879655,
+        8879656,
+        8879657,
+        8879658,
+        8879659
+      ]
+    },
+    {
+      "reference_id": "85283",
+      "genre": "article",
+      "title": "A new species of soil mite from western Colorado (Acari: Cryptostigmata, Pelopidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "208",
+      "epage": "210",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879666",
+      "created": "2011-08-12 09:17:45",
+      "updated": "2011-08-12 09:17:45",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8879666,
+        8879667,
+        8879668
+      ]
+    },
+    {
+      "reference_id": "70809",
+      "genre": "article",
+      "title": "Nearctic Desert Decticidae (Orthop.) Part XIV A New Eremopedes (Dectididae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "32",
+      "spage": "223",
+      "epage": "228",
+      "year": "1972",
+      "date": "1972-00-00",
+      "issn": "0017-3614",
+      "PageID": "8879681",
+      "created": "2011-06-03 07:12:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46661",
+          "lastname": "",
+          "forename": "Tinkham"
+        }
+      ],
+      "bhl_pages": [
+        8879681,
+        8879682,
+        8879683,
+        8879684,
+        8879685,
+        8879686
+      ]
+    }
+  ]
+}

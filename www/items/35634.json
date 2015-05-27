@@ -1,0 +1,111 @@
+{
+  "ItemID": "35634",
+  "FullTitle": "Smithsonian miscellaneous collections.",
+  "VolumeInfo": "v. 52 1910",
+  "articles": [
+    {
+      "reference_id": "58151",
+      "genre": "article",
+      "title": "Necessary changes in the nomenclature of starfishes",
+      "secondary_title": "Smithsonian Miscellaneous Collections",
+      "volume": "52",
+      "spage": "87",
+      "epage": "93",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1376204",
+      "PageID": "8812483",
+      "created": "2010-11-20 20:02:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42244",
+          "lastname": "Fisher",
+          "forename": "W K"
+        }
+      ],
+      "bhl_pages": [
+        8812483,
+        8812484,
+        8812485,
+        8812486,
+        8812487,
+        8812488,
+        8812489
+      ]
+    },
+    {
+      "reference_id": "73680",
+      "genre": "article",
+      "title": "Descriptions of some new species and a new genus of American mosquitoes",
+      "secondary_title": "Smithson. Misc. Collect",
+      "volume": "52",
+      "spage": "253",
+      "epage": "266",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1376204",
+      "PageID": "8812665",
+      "created": "2011-06-04 09:36:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42164",
+          "lastname": "Dyar",
+          "forename": "H G"
+        },
+        {
+          "id": "40794",
+          "lastname": "Knab",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        8812665,
+        8812666,
+        8812667,
+        8812668,
+        8812669,
+        8812670,
+        8812671,
+        8812672,
+        8812673,
+        8812674,
+        8812675,
+        8812676,
+        8812677,
+        8812678
+      ]
+    },
+    {
+      "reference_id": "51912",
+      "genre": "article",
+      "title": "Description of a new frog from the Philippine Islands",
+      "secondary_title": "Smithsonian Miscellaneous Collections",
+      "volume": "52",
+      "spage": "437",
+      "epage": "439",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1376204",
+      "PageID": "8812903",
+      "created": "2010-06-27 10:23:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "498",
+          "lastname": "Stejneger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        8812903,
+        8812904,
+        8812905
+      ]
+    }
+  ]
+}

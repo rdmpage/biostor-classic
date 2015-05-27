@@ -1,0 +1,68 @@
+{
+  "ItemID": "48723",
+  "FullTitle": "Quarterly journal of microscopical science.",
+  "VolumeInfo": "new ser.:v.10 (1870)",
+  "articles": [
+    {
+      "reference_id": "71419",
+      "genre": "article",
+      "title": "Notes on Sponges. 1, On Hyalonema mirabilis,Gray. 2, Aphrocallistes Bocagei sp. nov. 3, On a new Genus and Species of Deep Sea Sponge",
+      "secondary_title": "Quarterly Journal of Microscopical Science",
+      "volume": "10",
+      "spage": "1",
+      "epage": "9",
+      "year": "1870",
+      "date": "1870-00-00",
+      "oclc": "1763236",
+      "PageID": "13719908",
+      "created": "2011-06-03 19:49:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45163",
+          "lastname": "Wright",
+          "forename": "E P"
+        }
+      ],
+      "bhl_pages": [
+        13719908,
+        13719907,
+        13719906,
+        13719905,
+        13719904,
+        13719903,
+        13719902,
+        13719901,
+        13719900
+      ]
+    },
+    {
+      "reference_id": "60853",
+      "genre": "article",
+      "title": "On a new sponge, Tethyopsis columnifer",
+      "secondary_title": "Quarterly Journal of Microscopical Science",
+      "volume": "10",
+      "spage": "281",
+      "epage": "282",
+      "year": "1870",
+      "date": "1870-00-00",
+      "oclc": "1763236",
+      "PageID": "13720145",
+      "created": "2010-11-23 04:49:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42875",
+          "lastname": "Stewart",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        13720145,
+        13720146
+      ]
+    }
+  ]
+}

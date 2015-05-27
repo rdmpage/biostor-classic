@@ -1,0 +1,88 @@
+{
+  "ItemID": "47467",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.83 no.5 1997",
+  "articles": [
+    {
+      "reference_id": "62090",
+      "genre": "article",
+      "title": "Elymus stebbinsii: Taxonomy, nomenclature, and distribution",
+      "secondary_title": "Phytologia",
+      "volume": "83",
+      "spage": "345",
+      "epage": "365",
+      "year": "1997",
+      "date": "1997-00-00",
+      "issn": "0031-9430",
+      "PageID": "13191878",
+      "created": "2011-01-26 20:09:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43286",
+          "lastname": "Barkworth",
+          "forename": "Mary Elizabeth"
+        }
+      ],
+      "bhl_pages": [
+        13191878,
+        13191877,
+        13191876,
+        13191875,
+        13191874,
+        13191873,
+        13191872,
+        13191871,
+        13191870,
+        13191837,
+        13191838,
+        13191839,
+        13191840,
+        13191841,
+        13191842,
+        13191843,
+        13191844,
+        13191845,
+        13191846,
+        13191847,
+        13191848
+      ]
+    },
+    {
+      "reference_id": "62169",
+      "genre": "article",
+      "title": "Chromosome studies and taxonomic considerations in Acilepidopsis (Vernonieae, Asteraceae)",
+      "secondary_title": "Phytologia",
+      "volume": "83",
+      "spage": "366",
+      "epage": "370",
+      "year": "1997",
+      "date": "1997-00-00",
+      "issn": "0031-9430",
+      "PageID": "13191849",
+      "created": "2011-01-26 20:15:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43352",
+          "lastname": "Dematteis",
+          "forename": "M"
+        },
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13191849,
+        13191850,
+        13191851,
+        13191852,
+        13191853
+      ]
+    }
+  ]
+}

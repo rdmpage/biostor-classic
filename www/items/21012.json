@@ -1,0 +1,40 @@
+{
+  "ItemID": "21012",
+  "FullTitle": "Snakes of the genus Tantilla in the United States,  by Frank N. Blanchard.",
+  "VolumeInfo": "v.20:no.28(1938)",
+  "articles": [
+    {
+      "reference_id": "72353",
+      "genre": "article",
+      "title": "Snakes of the genus Tantilla in the United States",
+      "secondary_title": "Zoological Series of Field Museum of Natural History",
+      "volume": "20",
+      "spage": "369",
+      "epage": "376",
+      "year": "1938",
+      "date": "1938-00-00",
+      "oclc": "13897940",
+      "PageID": "2777069",
+      "created": "2011-06-04 01:33:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46447",
+          "lastname": "Blanchard",
+          "forename": "Frank N"
+        }
+      ],
+      "bhl_pages": [
+        2777069,
+        2777070,
+        2777071,
+        2777072,
+        2777073,
+        2777074,
+        2777075,
+        2777076
+      ]
+    }
+  ]
+}

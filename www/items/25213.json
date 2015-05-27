@@ -1,0 +1,40 @@
+{
+  "ItemID": "25213",
+  "FullTitle": "Three new birds from the Philippine Islands  [by] Austin L. Rand and D. S. Rabor.",
+  "VolumeInfo": "v.39:no.26(1959)",
+  "articles": [
+    {
+      "reference_id": "1879",
+      "genre": "article",
+      "title": "Three new birds from the Philippine Islands",
+      "secondary_title": "Fieldiana, Zool.",
+      "volume": "39",
+      "spage": "275",
+      "epage": "277",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0015-0754",
+      "PageID": "4259932",
+      "created": "2009-12-23 18:13:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1057",
+          "lastname": "Rand",
+          "forename": "A L"
+        },
+        {
+          "id": "1058",
+          "lastname": "Rabor",
+          "forename": "D S"
+        }
+      ],
+      "bhl_pages": [
+        4259932,
+        4259931,
+        4259930
+      ]
+    }
+  ]
+}

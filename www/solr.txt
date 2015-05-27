@@ -1,0 +1,22 @@
+Solr
+====
+
+
+Start Solr
+----------
+
+cd /Applications/apache-solr-1.4.0/example
+
+java -jar start.jar
+
+PHP
+---
+
+http://code.google.com/p/solr-php-client/
+
+Place in convenient place
+
+test code in solr.php and solr2.php in biostor/www
+
+See http://www.ibm.com/developerworks/opensource/library/os-php-apachesolr/ for some more examples
+

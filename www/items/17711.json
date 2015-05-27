@@ -1,0 +1,79 @@
+{
+  "ItemID": "17711",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 17 (1865)",
+  "articles": [
+    {
+      "reference_id": "67141",
+      "genre": "article",
+      "title": "On a new genus of Serraninae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "17",
+      "spage": "104",
+      "epage": "106",
+      "year": "1865",
+      "date": "1865-00-00",
+      "issn": "0097-3157",
+      "PageID": "1682201",
+      "created": "2011-05-18 22:25:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        1682201,
+        1682202,
+        1682203
+      ]
+    },
+    {
+      "reference_id": "60495",
+      "genre": "article",
+      "title": "On the species of Galeruca and allied genera inhabiting North America",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "17",
+      "spage": "204",
+      "epage": "222",
+      "year": "1865",
+      "date": "1865-00-00",
+      "issn": "0097-3157",
+      "PageID": "1682301",
+      "created": "2010-11-23 01:08:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42828",
+          "lastname": "Leconte",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        1682301,
+        1682302,
+        1682303,
+        1682304,
+        1682305,
+        1682306,
+        1682307,
+        1682308,
+        1682309,
+        1682310,
+        1682311,
+        1682312,
+        1682313,
+        1682314,
+        1682315,
+        1682316,
+        1682317,
+        1682318,
+        1682319
+      ]
+    }
+  ]
+}

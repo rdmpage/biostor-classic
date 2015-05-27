@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    }
+  ],
+  "type": "article",
+  "title": "New species of hylid frogs from the Andes of Columbia and Venezuela",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "131",
+    "pages": "1--12",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1989",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/210"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/6217627"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 210
+    },
+    {
+      "type": "bhl",
+      "id": 6217627
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -76.583333333333,
+        4
+      ]
+    ]
+  }
+}

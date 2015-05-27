@@ -1,0 +1,84 @@
+{
+  "ItemID": "38542",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1915",
+  "articles": [
+    {
+      "reference_id": "58843",
+      "genre": "article",
+      "title": "Additions to the Tasmanian Mollusca, with descriptions of new species",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1915",
+      "spage": "75",
+      "epage": "99",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0080-4703",
+      "PageID": "10113368",
+      "created": "2010-11-20 22:58:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40741",
+          "lastname": "May",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        10113368,
+        10113369,
+        10113370,
+        10113371,
+        10113372,
+        10113373,
+        10113374,
+        10113375,
+        10113376,
+        10113377,
+        10113378,
+        10113379,
+        10113380,
+        10113381,
+        10113382,
+        10113383,
+        10113384,
+        10113385,
+        10113386,
+        10113387,
+        10113388,
+        10113389,
+        10113390,
+        10113391,
+        10113392
+      ]
+    },
+    {
+      "reference_id": "58825",
+      "genre": "article",
+      "title": "A new gall-making thrips",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1915",
+      "spage": "102",
+      "epage": "103",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0080-4703",
+      "PageID": "10113413",
+      "created": "2010-11-20 22:55:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42435",
+          "lastname": "Hardy",
+          "forename": "G H H"
+        }
+      ],
+      "bhl_pages": [
+        10113413,
+        10113414
+      ]
+    }
+  ]
+}

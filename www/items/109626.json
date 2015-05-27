@@ -1,0 +1,35 @@
+{
+  "ItemID": "109626",
+  "FullTitle": "M\u00fcnchner koleopterologische Zeitschrift. ",
+  "VolumeInfo": "Bd.1 (1902-1903)",
+  "articles": [
+    {
+      "reference_id": "104594",
+      "genre": "article",
+      "title": "Drei neue Melonthiden-Gattungen und -Arten vom Kuku-nor",
+      "secondary_title": "Muenchener Koleopterologische Zeitschrift",
+      "volume": "1",
+      "spage": "333",
+      "epage": "335",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1758817",
+      "PageID": "35324438",
+      "created": "2012-06-25 23:00:08",
+      "updated": "2012-06-25 23:00:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46717",
+          "lastname": "Brenske",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        35324438,
+        35324439,
+        35324440
+      ]
+    }
+  ]
+}

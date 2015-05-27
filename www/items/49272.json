@@ -1,0 +1,47 @@
+{
+  "ItemID": "49272",
+  "FullTitle": "Proceedings of the Royal Society of Queensland.",
+  "VolumeInfo": "v.34 1922",
+  "articles": [
+    {
+      "reference_id": "60608",
+      "genre": "article",
+      "title": "New and known Australian sarcophagid flies",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "34",
+      "spage": "181",
+      "epage": "190",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0080-469X",
+      "PageID": "13903681",
+      "created": "2010-11-23 03:08:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41019",
+          "lastname": "Johnston",
+          "forename": "T H"
+        },
+        {
+          "id": "40725",
+          "lastname": "Tiegs",
+          "forename": "O W"
+        }
+      ],
+      "bhl_pages": [
+        13903681,
+        13903682,
+        13903683,
+        13903684,
+        13903685,
+        13903686,
+        13903687,
+        13903688,
+        13903689,
+        13903690
+      ]
+    }
+  ]
+}

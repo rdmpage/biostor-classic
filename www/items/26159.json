@@ -1,0 +1,49 @@
+{
+  "ItemID": "26159",
+  "FullTitle": "Anales del Museo Nacional de Buenos Aires.",
+  "VolumeInfo": "ser.3:t.13 (1911)",
+  "articles": [
+    {
+      "reference_id": "105312",
+      "genre": "article",
+      "title": "D\u00edpteros nuevos \u00f3 poco conocidos de Sud-Am\u00e9rica",
+      "secondary_title": "Anales del Museo Nacional Buenos Aires",
+      "volume": "13",
+      "series": "3",
+      "spage": "469",
+      "epage": "484",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "6210348",
+      "PageID": "4499359",
+      "created": "2012-07-16 09:16:54",
+      "updated": "2012-07-16 09:21:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53993",
+          "lastname": "Br\u00e8thes",
+          "forename": "Juan"
+        }
+      ],
+      "bhl_pages": [
+        4499359,
+        4499360,
+        4499361,
+        4499362,
+        4499363,
+        4499364,
+        4499365,
+        4499366,
+        4499367,
+        4499368,
+        4499369,
+        4499370,
+        4499371,
+        4499372,
+        4499373,
+        4499374
+      ]
+    }
+  ]
+}

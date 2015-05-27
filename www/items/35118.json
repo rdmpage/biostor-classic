@@ -1,0 +1,131 @@
+{
+  "ItemID": "35118",
+  "FullTitle": "Kansas University quarterly.  ",
+  "VolumeInfo": "3",
+  "articles": [
+    {
+      "reference_id": "73258",
+      "genre": "article",
+      "title": "On the genus Dolichomyia with the description of a new species from Colorado",
+      "secondary_title": "Kans. Univ. Q",
+      "volume": "3",
+      "spage": "41",
+      "epage": "43",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1608205",
+      "PageID": "8605435",
+      "created": "2011-06-04 08:08:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        8605435,
+        8605436,
+        8605437
+      ]
+    },
+    {
+      "reference_id": "73287",
+      "genre": "article",
+      "title": "Cnephalia and its allies",
+      "secondary_title": "Kans. Univ. Q",
+      "volume": "3",
+      "spage": "177",
+      "epage": "186",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1608205",
+      "PageID": "8605571",
+      "created": "2011-06-04 08:13:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47174",
+          "lastname": "Snow",
+          "forename": "W A"
+        }
+      ],
+      "bhl_pages": [
+        8605571,
+        8605572,
+        8605573,
+        8605574,
+        8605575,
+        8605576,
+        8605577,
+        8605578,
+        8605579,
+        8605580
+      ]
+    },
+    {
+      "reference_id": "73412",
+      "genre": "article",
+      "title": "Exotic Tabanidae",
+      "secondary_title": "Kans. Univ. Q",
+      "volume": "3",
+      "spage": "189",
+      "epage": "195",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1608205",
+      "PageID": "8605583",
+      "created": "2011-06-04 08:32:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        8605583,
+        8605584,
+        8605585,
+        8605586,
+        8605587,
+        8605588,
+        8605589
+      ]
+    },
+    {
+      "reference_id": "73305",
+      "genre": "article",
+      "title": "Dialysis and Triptotricha",
+      "secondary_title": "Kans. Univ. Quart",
+      "volume": "3",
+      "spage": "263",
+      "epage": "266",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1608205",
+      "PageID": "8605659",
+      "created": "2011-06-04 08:15:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        8605659,
+        8605660,
+        8605661,
+        8605662
+      ]
+    }
+  ]
+}

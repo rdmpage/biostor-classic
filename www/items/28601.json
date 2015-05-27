@@ -1,0 +1,104 @@
+{
+  "ItemID": "28601",
+  "FullTitle": "Annales de biologie lacustre.  ",
+  "VolumeInfo": "t. 4 (1909-1911)",
+  "articles": [
+    {
+      "reference_id": "53185",
+      "genre": "article",
+      "title": "Metamorphoses du Tipula lunata Lin",
+      "secondary_title": "Annales de Biologie Lacustre",
+      "volume": "4",
+      "spage": "42",
+      "epage": "43",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1481239",
+      "PageID": "5742691",
+      "created": "2010-10-26 17:04:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40788",
+          "lastname": "Brocher",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        5742691,
+        5742690
+      ]
+    },
+    {
+      "reference_id": "71718",
+      "genre": "article",
+      "title": "Neuer Beitrag zur Kenntnis der Wasserimmen",
+      "secondary_title": "Annales de Biologie Lacustre",
+      "volume": "4",
+      "spage": "187",
+      "epage": "193",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1481239",
+      "PageID": "5742462",
+      "created": "2011-06-03 22:53:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42192",
+          "lastname": "Schulz",
+          "forename": "W A"
+        }
+      ],
+      "bhl_pages": [
+        5742462,
+        5742461,
+        5742460,
+        5742459,
+        5742458,
+        5742457,
+        5742456
+      ]
+    },
+    {
+      "reference_id": "103872",
+      "genre": "article",
+      "title": "Suesswasser-Hymenopteren aus dem See von Overmeire",
+      "secondary_title": "Annales De Biologie Lacustre",
+      "volume": "4",
+      "spage": "194",
+      "epage": "210",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1481239",
+      "PageID": "5742455",
+      "created": "2012-05-30 13:51:19",
+      "updated": "2012-05-30 13:51:19",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5742455,
+        5742454,
+        5742453,
+        5742452,
+        5742451,
+        5742450,
+        5742449,
+        5742448,
+        5742447,
+        5742446,
+        5742445,
+        5742443,
+        5742444,
+        5742568,
+        5742569,
+        5742570,
+        5742571
+      ]
+    }
+  ]
+}

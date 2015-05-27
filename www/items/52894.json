@@ -1,0 +1,39 @@
+{
+  "ItemID": "52894",
+  "FullTitle": "Zeitschrift f\u00fcr Pflanzenkrankheiten.  ",
+  "VolumeInfo": "v.15 1905",
+  "articles": [
+    {
+      "reference_id": "57954",
+      "genre": "article",
+      "title": "Pediculoides avenae n. sp. noch eine Milbenkrankheit des Hafers",
+      "secondary_title": "Zeitschrift f\u00fcr Pflanzenkrankheiten",
+      "volume": "15",
+      "spage": "23",
+      "epage": "29",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "15078405",
+      "PageID": "15436187",
+      "created": "2010-11-20 19:16:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9230",
+          "lastname": "Muller",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        15436187,
+        15436188,
+        15436189,
+        15436190,
+        15436191,
+        15436192,
+        15436193
+      ]
+    }
+  ]
+}

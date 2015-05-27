@@ -1,0 +1,915 @@
+{
+  "ItemID": "22201",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 46 (1914)",
+  "articles": [
+    {
+      "reference_id": "72706",
+      "genre": "article",
+      "title": "New American Chrysopidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "24",
+      "epage": "27",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088815",
+      "created": "2011-06-04 03:17:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3088815,
+        3088816,
+        3088987,
+        3088676
+      ]
+    },
+    {
+      "reference_id": "71876",
+      "genre": "article",
+      "title": "New or little known species of Aphididae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "41",
+      "epage": "51",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088821",
+      "created": "2011-06-03 23:28:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41960",
+          "lastname": "",
+          "forename": "Davis",
+          "suffix": "J.r."
+        }
+      ],
+      "bhl_pages": [
+        3088821,
+        3088992,
+        3088822,
+        3088679,
+        3088823,
+        3088993,
+        3088824,
+        3088729,
+        3088825,
+        3088994,
+        3088826
+      ]
+    },
+    {
+      "reference_id": "103760",
+      "genre": "article",
+      "title": "A new genus of Scelionidae from Australia",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "60",
+      "epage": "60",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "doi": "10.4039\/Ent4660-2",
+      "PageID": "3088731",
+      "created": "2012-05-28 14:23:10",
+      "updated": "2012-05-28 14:23:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40003",
+          "lastname": "Dodd",
+          "forename": "Alan P"
+        }
+      ],
+      "bhl_pages": [
+        3088731
+      ]
+    },
+    {
+      "reference_id": "85197",
+      "genre": "article",
+      "title": "New species and histories in Papaipema SM",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "69",
+      "epage": "73",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088833",
+      "created": "2011-08-11 17:55:10",
+      "updated": "2011-08-11 17:55:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3088833,
+        3088733,
+        3089002,
+        3088834,
+        3089003
+      ]
+    },
+    {
+      "reference_id": "72270",
+      "genre": "article",
+      "title": "Notes on the winter and early spring Coleoptera of Florida, with descriptions of new species",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "46",
+      "spage": "88",
+      "epage": "92",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1553087",
+      "PageID": "3088843",
+      "created": "2011-06-04 01:00:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46688",
+          "lastname": "Blatchley",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3088843,
+        3089007,
+        3088844,
+        3088681,
+        3088682
+      ]
+    },
+    {
+      "reference_id": "50364",
+      "genre": "article",
+      "title": "A new species of Orthoptera, forming a new genus and family",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "46",
+      "spage": "93",
+      "epage": "99",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089008",
+      "created": "2010-06-10 11:19:01",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39836",
+          "lastname": "Walker",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        3089008,
+        3088845,
+        3088846,
+        3088683,
+        3089009,
+        3089010,
+        3088737
+      ]
+    },
+    {
+      "reference_id": "73589",
+      "genre": "article",
+      "title": "Three DIptera from the Miocene of Colorado",
+      "secondary_title": "Can. Ent",
+      "volume": "46",
+      "spage": "101",
+      "epage": "102",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088847",
+      "created": "2011-06-04 09:24:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3088847,
+        3088738
+      ]
+    },
+    {
+      "reference_id": "85156",
+      "genre": "article",
+      "title": "A synopsis of the genera in Chloropidae, for North America",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "113",
+      "epage": "120",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088851",
+      "created": "2011-08-11 17:42:46",
+      "updated": "2011-08-11 17:42:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3088851,
+        3088647,
+        3088654,
+        3089014,
+        3088852,
+        3088655,
+        3089015,
+        3088742
+      ]
+    },
+    {
+      "reference_id": "71903",
+      "genre": "article",
+      "title": "New or little known species of Aphididae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "121",
+      "epage": "134",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089016",
+      "created": "2011-06-03 23:31:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41960",
+          "lastname": "",
+          "forename": "Davis",
+          "suffix": "J.r."
+        }
+      ],
+      "bhl_pages": [
+        3089016,
+        3088853,
+        3088854,
+        3088855,
+        3088856,
+        3089017,
+        3088857,
+        3088743,
+        3088685,
+        3088686,
+        3088858,
+        3088648,
+        3088859,
+        3088687
+      ]
+    },
+    {
+      "reference_id": "13789",
+      "genre": "article",
+      "title": "Report on a collection of Japanese crane-flies (Tipulidae, Diptera) [part]",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "157",
+      "epage": "164",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088656",
+      "created": "2010-01-13 11:07:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3088656,
+        3088867,
+        3089026,
+        3089027,
+        3088747,
+        3088748,
+        3088642,
+        3088692
+      ]
+    },
+    {
+      "reference_id": "71909",
+      "genre": "article",
+      "title": "New or little known species of Aphididae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "165",
+      "epage": "173",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088693",
+      "created": "2011-06-03 23:32:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41960",
+          "lastname": "",
+          "forename": "Davis",
+          "suffix": "J.r."
+        }
+      ],
+      "bhl_pages": [
+        3088693,
+        3088868,
+        3089028,
+        3088869,
+        3088749,
+        3088870,
+        3088871,
+        3088750,
+        3089029
+      ]
+    },
+    {
+      "reference_id": "72450",
+      "genre": "article",
+      "title": "An egg-parasite of the tarnished plant bug, |Lygus pratensis|",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "181",
+      "epage": "182",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089032",
+      "created": "2011-06-04 01:55:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2324",
+          "lastname": "Crosby",
+          "forename": "C R"
+        },
+        {
+          "id": "10114",
+          "lastname": "Leonard",
+          "forename": "M D"
+        }
+      ],
+      "bhl_pages": [
+        3089032,
+        3089033
+      ]
+    },
+    {
+      "reference_id": "13790",
+      "genre": "article",
+      "title": "Report on a collection of Japanese crane-flies (Tipulidae, Diptera) [part]",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "205",
+      "epage": "211",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089039",
+      "created": "2010-01-13 11:07:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3089039,
+        3088887,
+        3089040,
+        3088754,
+        3088755,
+        3088756,
+        3089041
+      ]
+    },
+    {
+      "reference_id": "58704",
+      "genre": "article",
+      "title": "New or little known species of Aphididae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "226",
+      "epage": "236",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088890",
+      "created": "2010-11-20 22:33:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42281",
+          "lastname": "Davis",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        3088890,
+        3088891,
+        3088892,
+        3089046,
+        3088893,
+        3088894,
+        3088895,
+        3089047,
+        3088896,
+        3088699,
+        3088897
+      ]
+    },
+    {
+      "reference_id": "13791",
+      "genre": "article",
+      "title": "Report on a collection of Japanese crane-flies (Tipulidae, Diptera) [concl.]",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "236",
+      "epage": "242",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088897",
+      "created": "2010-01-13 11:07:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3088897,
+        3089048,
+        3088898,
+        3088700,
+        3089049,
+        3088899,
+        3089050
+      ]
+    },
+    {
+      "reference_id": "58701",
+      "genre": "article",
+      "title": "A new fossorial wasp from Queensland",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "271",
+      "epage": "272",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088911",
+      "created": "2010-11-20 22:32:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        3088911,
+        3088767
+      ]
+    },
+    {
+      "reference_id": "58719",
+      "genre": "article",
+      "title": "The third genus of the family Elasmidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "285",
+      "epage": "286",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088919",
+      "created": "2010-11-20 22:36:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        3088919,
+        3088770
+      ]
+    },
+    {
+      "reference_id": "85176",
+      "genre": "article",
+      "title": "Geometrid notes-with descriptions of new species and varieties",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "289",
+      "epage": "291",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089062",
+      "created": "2011-08-11 17:49:17",
+      "updated": "2011-08-11 17:49:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3089062,
+        3089063,
+        3088921
+      ]
+    },
+    {
+      "reference_id": "103782",
+      "genre": "article",
+      "title": "Some proctotrypoid egg-parasites of sugar cane insects in Java",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "46",
+      "spage": "293",
+      "epage": "294",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089064",
+      "created": "2012-05-28 15:15:40",
+      "updated": "2012-05-28 15:15:40",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3089064,
+        3089065
+      ]
+    },
+    {
+      "reference_id": "72289",
+      "genre": "article",
+      "title": "Notes on myriapods from Douglas Lake, Michigan",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "301",
+      "epage": "306",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088772",
+      "created": "2011-06-04 01:04:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        3088772,
+        3089066,
+        3089067,
+        3088773,
+        3089068,
+        3088927
+      ]
+    },
+    {
+      "reference_id": "67058",
+      "genre": "article",
+      "title": "Some notes on parasitism of chrysopids in South Carolina",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "306",
+      "epage": "308",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088927",
+      "created": "2011-05-12 07:29:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42460",
+          "lastname": "Mcgregor",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        3088927,
+        3089069,
+        3088928
+      ]
+    },
+    {
+      "reference_id": "72262",
+      "genre": "article",
+      "title": "Synopsis of the North American species of the genus Capitonius Brull\u00e9",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "46",
+      "spage": "316",
+      "epage": "322",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1553087",
+      "PageID": "3088932",
+      "created": "2011-06-04 00:59:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46995",
+          "lastname": "Rohwer",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        3088932,
+        3088702,
+        3088933,
+        3089072,
+        3089073,
+        3088776,
+        3089074
+      ]
+    },
+    {
+      "reference_id": "73763",
+      "genre": "article",
+      "title": "A new mesembrine fly",
+      "secondary_title": "Can. Ent",
+      "volume": "46",
+      "spage": "325",
+      "epage": "326",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089075",
+      "created": "2011-06-04 09:45:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40794",
+          "lastname": "Knab",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3089075,
+        3088934
+      ]
+    },
+    {
+      "reference_id": "73256",
+      "genre": "article",
+      "title": "Descriptions of four new Tabanidae, with remarks upon Chrysops cursim",
+      "secondary_title": "Can. Ent",
+      "volume": "46",
+      "spage": "343",
+      "epage": "346",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088644",
+      "created": "2011-06-04 08:08:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47172",
+          "lastname": "Whitney",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3088644,
+        3088707,
+        3089081,
+        3088940
+      ]
+    },
+    {
+      "reference_id": "71200",
+      "genre": "article",
+      "title": "Three new species of Odonata",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "346",
+      "epage": "348",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088940",
+      "created": "2011-06-03 18:07:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46771",
+          "lastname": "Butler",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        3088940,
+        3088941,
+        3088708
+      ]
+    },
+    {
+      "reference_id": "58769",
+      "genre": "article",
+      "title": "Nomenclatorial and critical notes on Hemiptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "377",
+      "epage": "389",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088791",
+      "created": "2010-11-20 22:47:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42373",
+          "lastname": "Van Duzee",
+          "forename": "E P"
+        }
+      ],
+      "bhl_pages": [
+        3088791,
+        3089087,
+        3088954,
+        3089088,
+        3088955,
+        3089089,
+        3088956,
+        3088957,
+        3089090,
+        3089091,
+        3089092,
+        3089093,
+        3088792
+      ]
+    },
+    {
+      "reference_id": "105114",
+      "genre": "article",
+      "title": "Notes on Sciapus, with descriptions of three new species",
+      "secondary_title": "Can. Ent.",
+      "volume": "46",
+      "spage": "389",
+      "epage": "393",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088792",
+      "created": "2012-07-04 08:05:24",
+      "updated": "2012-07-04 08:05:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9219",
+          "lastname": "Van Duzee",
+          "forename": "M C"
+        }
+      ],
+      "bhl_pages": [
+        3088792,
+        3088793,
+        3089094,
+        3089095,
+        3088958
+      ]
+    },
+    {
+      "reference_id": "73216",
+      "genre": "article",
+      "title": "A new sarcophagid scavenger from Montana",
+      "secondary_title": "Can. Ent",
+      "volume": "46",
+      "spage": "417",
+      "epage": "423",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089102",
+      "created": "2011-06-04 08:02:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1206",
+          "lastname": "Parker",
+          "forename": "R R"
+        }
+      ],
+      "bhl_pages": [
+        3089102,
+        3088799,
+        3088968,
+        3088969,
+        3088800,
+        3088970,
+        3088971
+      ]
+    },
+    {
+      "reference_id": "85254",
+      "genre": "article",
+      "title": "Three new species of Trypetidae from Colorado",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "425",
+      "epage": "429",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3089103",
+      "created": "2011-08-11 18:09:10",
+      "updated": "2011-08-11 18:09:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3089103,
+        3088973,
+        3088974,
+        3088975,
+        3089104
+      ]
+    },
+    {
+      "reference_id": "72456",
+      "genre": "article",
+      "title": "A species of |Megastigmus| reared from larch seeds",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "46",
+      "spage": "435",
+      "epage": "438",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0008-347X",
+      "PageID": "3088714",
+      "created": "2011-06-04 01:56:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46872",
+          "lastname": "Marcovitch",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        3088714,
+        3088715,
+        3088978,
+        3089106
+      ]
+    }
+  ]
+}

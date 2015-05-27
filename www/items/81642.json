@@ -1,0 +1,183 @@
+{
+  "ItemID": "81642",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 42 (1909)",
+  "articles": [
+    {
+      "reference_id": "100819",
+      "genre": "article",
+      "title": "Notes on the five-combed bat-fleas forming the genus Nycteridopsylla Oudemans",
+      "secondary_title": "The Entomologist",
+      "volume": "42",
+      "issue": "549",
+      "spage": "25",
+      "epage": "28",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0013-8878",
+      "PageID": "25338332",
+      "created": "2012-03-03 10:48:57",
+      "updated": "2012-03-03 10:51:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42171",
+          "lastname": "Rothschild",
+          "forename": "N C"
+        }
+      ],
+      "bhl_pages": [
+        25338332,
+        25338333,
+        25338334,
+        25338335,
+        25338331
+      ]
+    },
+    {
+      "reference_id": "73127",
+      "genre": "article",
+      "title": "Four new species of the genus Eretmapodites (Theobald) from Ashanti [part]",
+      "secondary_title": "Entomologist",
+      "volume": "42",
+      "spage": "86",
+      "epage": "89",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0013-8878",
+      "PageID": "25338397",
+      "created": "2011-06-04 07:49:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47154",
+          "lastname": "Graham",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        25338397,
+        25338398,
+        25338399,
+        25338400
+      ]
+    },
+    {
+      "reference_id": "73495",
+      "genre": "article",
+      "title": "Four new species of the genus Eretmapodites (Theobald) from Ashanti [concl",
+      "secondary_title": "]. Entomologist",
+      "volume": "42",
+      "spage": "157",
+      "epage": "159",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "7322611",
+      "PageID": "25338470",
+      "created": "2011-06-04 08:50:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47154",
+          "lastname": "Graham",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        25338470,
+        25338471,
+        25338472
+      ]
+    },
+    {
+      "reference_id": "71816",
+      "genre": "article",
+      "title": "On two new genera (one representing a new tribe) from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "42",
+      "spage": "209",
+      "epage": "211",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0013-8878",
+      "PageID": "25338524",
+      "created": "2011-06-03 23:15:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        25338524,
+        25338525,
+        25338526
+      ]
+    },
+    {
+      "reference_id": "71697",
+      "genre": "article",
+      "title": "On two new genera and seven species of Chalcididae (Eucharinae) from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "42",
+      "spage": "229",
+      "epage": "233",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0013-8878",
+      "PageID": "25338544",
+      "created": "2011-06-03 22:49:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        25338544,
+        25338545,
+        25338546,
+        25338547,
+        25338548
+      ]
+    },
+    {
+      "reference_id": "66759",
+      "genre": "article",
+      "title": "Some European fossil bees",
+      "secondary_title": "Entomologist",
+      "volume": "42",
+      "spage": "313",
+      "epage": "317",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0013-8878",
+      "PageID": "25338632",
+      "created": "2011-05-10 14:25:21",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        25338632,
+        25338633,
+        25338634,
+        25338635,
+        25338636
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ItemID": "22128",
+  "FullTitle": "The Irish naturalist.  ",
+  "VolumeInfo": "v. 31 (1922)",
+  "articles": [
+    {
+      "reference_id": "53276",
+      "genre": "article",
+      "title": "The habits of the long-eared bat",
+      "secondary_title": "Irish Naturalist",
+      "volume": "31",
+      "spage": "105",
+      "epage": "111",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1753950",
+      "PageID": "3057323",
+      "created": "2010-10-26 19:33:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40803",
+          "lastname": "Moffat",
+          "forename": "C B"
+        }
+      ],
+      "bhl_pages": [
+        3057323,
+        3057324,
+        3057325,
+        3057326,
+        3057327,
+        3057328,
+        3057329
+      ]
+    }
+  ]
+}

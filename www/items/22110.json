@@ -1,0 +1,90 @@
+{
+  "ItemID": "22110",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 9 (1877)",
+  "articles": [
+    {
+      "reference_id": "72231",
+      "genre": "article",
+      "title": "Remarks on the synonymy of North American Coleoptera",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "9",
+      "spage": "92",
+      "epage": "94",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "1553087",
+      "PageID": "3049664",
+      "created": "2011-06-04 00:50:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46987",
+          "lastname": "Austin",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3049664,
+        3049665,
+        3049666
+      ]
+    },
+    {
+      "reference_id": "71899",
+      "genre": "article",
+      "title": "A new genus of Aphidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "9",
+      "spage": "102",
+      "epage": "103",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049678",
+      "created": "2011-06-03 23:30:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46904",
+          "lastname": "",
+          "forename": "Monell"
+        }
+      ],
+      "bhl_pages": [
+        3049678,
+        3049679
+      ]
+    },
+    {
+      "reference_id": "72755",
+      "genre": "article",
+      "title": "New species of Orthoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "9",
+      "spage": "111",
+      "epage": "113",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049687",
+      "created": "2011-06-04 03:38:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47077",
+          "lastname": "Dodge",
+          "forename": "G M"
+        }
+      ],
+      "bhl_pages": [
+        3049687,
+        3049688,
+        3049689
+      ]
+    }
+  ]
+}

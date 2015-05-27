@@ -1,0 +1,96 @@
+{
+  "ItemID": "46863",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.78 no.4 1995",
+  "articles": [
+    {
+      "reference_id": "62154",
+      "genre": "article",
+      "title": "New species and varieties of conifers from Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "78",
+      "spage": "217",
+      "epage": "243",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12988387",
+      "created": "2011-01-26 20:14:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43333",
+          "lastname": "Debreczy",
+          "forename": "Z"
+        },
+        {
+          "id": "43334",
+          "lastname": "R\u00e1cz",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        12988387,
+        12988388,
+        12988389,
+        12988390,
+        12988391,
+        12988392,
+        12988393,
+        12988394,
+        12988395,
+        12988396,
+        12988397,
+        12988398,
+        12988399,
+        12988400,
+        12988401,
+        12988402,
+        12988403,
+        12988404,
+        12988405,
+        12988406,
+        12988407,
+        12988408,
+        12988409,
+        12988410,
+        12988411,
+        12988412,
+        12988413
+      ]
+    },
+    {
+      "reference_id": "63546",
+      "genre": "article",
+      "title": "Nomenclatural combination in Poaceae",
+      "secondary_title": "Phytologia",
+      "volume": "78",
+      "spage": "244",
+      "epage": "245",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12988414",
+      "created": "2011-01-26 22:03:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43479",
+          "lastname": "Jones",
+          "forename": "S D"
+        },
+        {
+          "id": "43480",
+          "lastname": "Wipff",
+          "forename": "J K"
+        }
+      ],
+      "bhl_pages": [
+        12988414,
+        12988415
+      ]
+    }
+  ]
+}

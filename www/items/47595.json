@@ -1,0 +1,87 @@
+{
+  "ItemID": "47595",
+  "FullTitle": "Verhandlungen der Kaiserlich-K\u00f6niglichen Zoologisch-Botanischen Gesellschaft in Wien.  ",
+  "VolumeInfo": "Bd. 56 (1906)",
+  "articles": [
+    {
+      "reference_id": "105368",
+      "genre": "article",
+      "title": "Resseliella piceae, die Tannensamen-Gallm\u00fccke",
+      "secondary_title": "Verhandlungen der Kaiserlich-K\u00f6niglichen Zoologisch-Botanischen Gesellschaft in Wien",
+      "volume": "56",
+      "spage": "174",
+      "epage": "186",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "5759771",
+      "PageID": "13251724",
+      "created": "2012-07-19 16:53:34",
+      "updated": "2012-07-19 16:55:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54011",
+          "lastname": "Seitner",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        13251724,
+        13251725,
+        13251726,
+        13251727,
+        13251728,
+        13251729,
+        13251730,
+        13251731,
+        13251732,
+        13251733,
+        13251734,
+        13251735,
+        13251736
+      ]
+    },
+    {
+      "reference_id": "57987",
+      "genre": "article",
+      "title": "Zur Kenntnis der Ploeariinen",
+      "secondary_title": "Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien",
+      "volume": "56",
+      "spage": "305",
+      "epage": "321",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0084-5647",
+      "PageID": "13251857",
+      "created": "2010-11-20 19:29:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10338",
+          "lastname": "Bergroth",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        13251857,
+        13251858,
+        13251859,
+        13251860,
+        13251861,
+        13251862,
+        13251863,
+        13251864,
+        13251865,
+        13251866,
+        13251867,
+        13251868,
+        13251869,
+        13251870,
+        13251871,
+        13251872,
+        13251873
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "ItemID": "14661",
+  "FullTitle": "Novon a journal of botanical nomenclature from the Missouri Botanical Garden.",
+  "VolumeInfo": "v.1 (1991)",
+  "articles": [
+    {
+      "reference_id": "64877",
+      "genre": "article",
+      "title": "Panicum sciurotoides, a new species of Panicum (Poaceae: Paniceae) from America",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "1",
+      "epage": "5",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636574",
+      "created": "2011-01-28 12:08:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43983",
+          "lastname": "Morrone",
+          "forename": "O"
+        },
+        {
+          "id": "43959",
+          "lastname": "Zuloaga",
+          "forename": "F O"
+        }
+      ],
+      "bhl_pages": [
+        636574,
+        636575,
+        636576,
+        636577,
+        636578
+      ]
+    },
+    {
+      "reference_id": "64827",
+      "genre": "article",
+      "title": "A new species of Williamodendron (Lauraceae) from southern Brazil",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "6",
+      "epage": "8",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636579",
+      "created": "2011-01-28 12:05:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44558",
+          "lastname": "Van Der Werff",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        636579,
+        636580,
+        636581
+      ]
+    },
+    {
+      "reference_id": "63750",
+      "genre": "article",
+      "title": "Rorippa beckii (Brassicaceae), a new species from Bolivia",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "9",
+      "epage": "11",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636582",
+      "created": "2011-01-28 10:49:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43111",
+          "lastname": "Al-Shehbaz",
+          "forename": "Ihsan"
+        }
+      ],
+      "bhl_pages": [
+        636582,
+        636583,
+        636584
+      ]
+    },
+    {
+      "reference_id": "64165",
+      "genre": "article",
+      "title": "Chlorospatha kressii (Araceae), a new compound-leaved species from Choc\u00f3 Department, Colombia",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "12",
+      "epage": "14",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636585",
+      "created": "2011-01-28 11:28:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43459",
+          "lastname": "Grayum",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        636585,
+        636586,
+        636587
+      ]
+    },
+    {
+      "reference_id": "64086",
+      "genre": "article",
+      "title": "Herpetacanthus stenophyllus (Acanthaceae), a new species from Costa Rica",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "15",
+      "epage": "16",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636588",
+      "created": "2011-01-28 11:23:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43457",
+          "lastname": "G\u00f3mez-Laurito",
+          "forename": "J"
+        },
+        {
+          "id": "43427",
+          "lastname": "Grayum",
+          "forename": "M H"
+        }
+      ],
+      "bhl_pages": [
+        636588,
+        636589
+      ]
+    },
+    {
+      "reference_id": "64169",
+      "genre": "article",
+      "title": "Hernandia lychnifera (Hernandiaceae), a new species from coastal Ecuador",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "17",
+      "epage": "20",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636590",
+      "created": "2011-01-28 11:28:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43427",
+          "lastname": "Grayum",
+          "forename": "M H"
+        },
+        {
+          "id": "44144",
+          "lastname": "Zamora",
+          "forename": "N A"
+        }
+      ],
+      "bhl_pages": [
+        636590,
+        636591,
+        636592,
+        636593
+      ]
+    },
+    {
+      "reference_id": "64325",
+      "genre": "article",
+      "title": "A new species of Guadua, G. ciliata (Poaceae: Bambusoideae: Bambuseae), from Venezuela and Brazil",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "21",
+      "epage": "26",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636594",
+      "created": "2011-01-28 11:37:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9011",
+          "lastname": "Davidse",
+          "forename": "Gerrit"
+        },
+        {
+          "id": "44267",
+          "lastname": "Londo\u00f1o",
+          "forename": "Ximena"
+        }
+      ],
+      "bhl_pages": [
+        636594,
+        636595,
+        636596,
+        636597,
+        636598,
+        636599
+      ]
+    },
+    {
+      "reference_id": "64324",
+      "genre": "article",
+      "title": "A new species of Guadua, G. calderoniana (Poaceae: Bambuseae), with notes on the genus in Bahia, Brazil",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "27",
+      "epage": "32",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636600",
+      "created": "2011-01-28 11:37:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44203",
+          "lastname": "Judziewicz",
+          "forename": "E J"
+        },
+        {
+          "id": "44235",
+          "lastname": "Londo\u00f1o",
+          "forename": "X"
+        }
+      ],
+      "bhl_pages": [
+        636600,
+        636601,
+        636602,
+        636603,
+        636604,
+        636605
+      ]
+    },
+    {
+      "reference_id": "64879",
+      "genre": "article",
+      "title": "Quiotania: A new genus of Apocynaceae-Apocynoideae from northern Colombia",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "33",
+      "epage": "36",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636606",
+      "created": "2011-01-28 12:08:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44650",
+          "lastname": "Zarucchi",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        636606,
+        636607,
+        636608,
+        636609
+      ]
+    },
+    {
+      "reference_id": "64878",
+      "genre": "article",
+      "title": "A new species of Parahancornia (Apocynaceae: Plumerioideae: Carisseae) with comments on the genus",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "37",
+      "epage": "44",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636610",
+      "created": "2011-01-28 12:08:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44650",
+          "lastname": "Zarucchi",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        636610,
+        636611,
+        636612,
+        636613,
+        636614,
+        636615,
+        636616,
+        636617
+      ]
+    },
+    {
+      "reference_id": "64090",
+      "genre": "article",
+      "title": "Nomenclatural changes and range extension in Leiothrix flavescens (Bong.) Ruhl. (Eriocaulaceae)",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "45",
+      "epage": "49",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636618",
+      "created": "2011-01-28 11:23:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43895",
+          "lastname": "Giulietti",
+          "forename": "A M"
+        },
+        {
+          "id": "43440",
+          "lastname": "Hensold",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        636618,
+        636619,
+        636620,
+        636621,
+        636622
+      ]
+    },
+    {
+      "reference_id": "64823",
+      "genre": "article",
+      "title": "Rudgea monofructus (Rubiaceae), an unusual new species from Costa Rica",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "50",
+      "epage": "51",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636623",
+      "created": "2011-01-28 12:05:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44613",
+          "lastname": "Dwyer",
+          "forename": "J"
+        },
+        {
+          "id": "43457",
+          "lastname": "G\u00f3mez-Laurito",
+          "forename": "J"
+        },
+        {
+          "id": "44241",
+          "lastname": "Taylor",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        636623,
+        636624
+      ]
+    },
+    {
+      "reference_id": "64828",
+      "genre": "article",
+      "title": "A new species of Calomnion (Bryopsida) from Lord Howe Island",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "53",
+      "epage": "55",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636625",
+      "created": "2011-01-28 12:05:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44615",
+          "lastname": "Vitt",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        636625,
+        636626,
+        636627
+      ]
+    },
+    {
+      "reference_id": "63911",
+      "genre": "article",
+      "title": "A new species of Debregeasia (Urticaceae-Boehmerieae) from Asia and a new record of D. wallichiana for China",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "56",
+      "epage": "57",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636628",
+      "created": "2011-01-28 11:02:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43941",
+          "lastname": "Chen",
+          "forename": "C-J"
+        }
+      ],
+      "bhl_pages": [
+        636628,
+        636629
+      ]
+    },
+    {
+      "reference_id": "64250",
+      "genre": "article",
+      "title": "A new species of Hydrophyllum from the Ouachita Mountains of Arkansas",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "60",
+      "epage": "66",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636632",
+      "created": "2011-01-28 11:33:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43122",
+          "lastname": "Bates",
+          "forename": "V"
+        },
+        {
+          "id": "9374",
+          "lastname": "Kral",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        636632,
+        636633,
+        636634,
+        636635,
+        636636,
+        636637,
+        636638
+      ]
+    },
+    {
+      "reference_id": "63749",
+      "genre": "article",
+      "title": "Novelties in Draba (Brassicaceae) from Venezuela, Ecuador, and Peru",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "67",
+      "epage": "70",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636639",
+      "created": "2011-01-28 10:49:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43111",
+          "lastname": "Al-Shehbaz",
+          "forename": "Ihsan"
+        }
+      ],
+      "bhl_pages": [
+        636639,
+        636640,
+        636641,
+        636642
+      ]
+    },
+    {
+      "reference_id": "63751",
+      "genre": "article",
+      "title": "The South American Dictyophragmus (Brassicaceae)",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "71",
+      "epage": "72",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636643",
+      "created": "2011-01-28 10:50:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43111",
+          "lastname": "Al-Shehbaz",
+          "forename": "Ihsan"
+        }
+      ],
+      "bhl_pages": [
+        636643,
+        636644
+      ]
+    },
+    {
+      "reference_id": "63912",
+      "genre": "article",
+      "title": "Orchidaceae Dunstervillorum---I: a new Dryadella from the Venezuelan Guayana",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "73",
+      "epage": "75",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636645",
+      "created": "2011-01-28 11:02:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43859",
+          "lastname": "Carnevali",
+          "forename": "G"
+        },
+        {
+          "id": "43860",
+          "lastname": "Romero",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        636645,
+        636646,
+        636647
+      ]
+    },
+    {
+      "reference_id": "64245",
+      "genre": "article",
+      "title": "Six new bamboos (Poaceae: Bambusoideae) from the Venezuelan Guayana",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "76",
+      "epage": "87",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636648",
+      "created": "2011-01-28 11:33:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43868",
+          "lastname": "Clark",
+          "forename": "L G"
+        },
+        {
+          "id": "44029",
+          "lastname": "Davidse",
+          "forename": "G"
+        },
+        {
+          "id": "44203",
+          "lastname": "Judziewicz",
+          "forename": "E J"
+        }
+      ],
+      "bhl_pages": [
+        636648,
+        636649,
+        636650,
+        636651,
+        636652,
+        636653,
+        636654,
+        636655,
+        636656,
+        636657,
+        636658,
+        636659
+      ]
+    },
+    {
+      "reference_id": "64409",
+      "genre": "article",
+      "title": "Eight new species of tree ferns (Cyathea, Cyatheaceae) from the American tropics and three new combinations",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "88",
+      "epage": "104",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636660",
+      "created": "2011-01-28 11:42:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9496",
+          "lastname": "Moran",
+          "forename": "R C"
+        }
+      ],
+      "bhl_pages": [
+        636660,
+        636661,
+        636662,
+        636663,
+        636664,
+        636665,
+        636666,
+        636667,
+        636668,
+        636669,
+        636670,
+        636671,
+        636672,
+        636673,
+        636674,
+        636675,
+        636676
+      ]
+    },
+    {
+      "reference_id": "64411",
+      "genre": "article",
+      "title": "Oligotrichum denudatum (Polytrichaceae), a new moss species from Minas Gerais Brazil",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "107",
+      "epage": "109",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636678",
+      "created": "2011-01-28 11:42:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43420",
+          "lastname": "Merrill",
+          "forename": "G L S"
+        }
+      ],
+      "bhl_pages": [
+        636678,
+        636679,
+        636680
+      ]
+    },
+    {
+      "reference_id": "64881",
+      "genre": "article",
+      "title": "Novelties in Panicum subg. Dichanthelium sect. Dichanthelium (Poaceae: Panicoideae: Paniceae)",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "111",
+      "epage": "118",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636682",
+      "created": "2011-01-28 12:08:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43983",
+          "lastname": "Morrone",
+          "forename": "O"
+        },
+        {
+          "id": "43959",
+          "lastname": "Zuloaga",
+          "forename": "F O"
+        }
+      ],
+      "bhl_pages": [
+        636682,
+        636683,
+        636684,
+        636685,
+        636686,
+        636687,
+        636688,
+        636689
+      ]
+    },
+    {
+      "reference_id": "64251",
+      "genre": "article",
+      "title": "Nomenclatural conspectus of annual Eriophyllinae (Asteraceae)",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "119",
+      "epage": "124",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636690",
+      "created": "2011-01-28 11:33:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44207",
+          "lastname": "Johnson",
+          "forename": "D E"
+        }
+      ],
+      "bhl_pages": [
+        636690,
+        636691,
+        636692,
+        636693,
+        636694,
+        636695
+      ]
+    },
+    {
+      "reference_id": "64205",
+      "genre": "article",
+      "title": "Solanum tepuiense, a new species of Section Geminata (Solanaceae) from the Venezuelan Guayana",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "125",
+      "epage": "126",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636696",
+      "created": "2011-01-28 11:30:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44151",
+          "lastname": "Knapp",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        636696,
+        636697
+      ]
+    },
+    {
+      "reference_id": "63746",
+      "genre": "article",
+      "title": "The relationships of Solanum cochoae (Solanaceae), a new species from Peru",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "127",
+      "epage": "133",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636698",
+      "created": "2011-01-28 10:49:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43754",
+          "lastname": "Anderson",
+          "forename": "G J"
+        },
+        {
+          "id": "43767",
+          "lastname": "Bernardello",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        636698,
+        636699,
+        636700,
+        636701,
+        636702,
+        636703,
+        636704
+      ]
+    },
+    {
+      "reference_id": "64330",
+      "genre": "article",
+      "title": "New species and combinations in Mexican and Central American Rondeletia (Rubiaceae)",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "135",
+      "epage": "157",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636706",
+      "created": "2011-01-28 11:37:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43904",
+          "lastname": "Lorence",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        636706,
+        636707,
+        636708,
+        636709,
+        636710,
+        636711,
+        636712,
+        636713,
+        636714,
+        636715,
+        636716,
+        636717,
+        636718,
+        636719,
+        636720,
+        636721,
+        636722,
+        636723,
+        636724,
+        636725,
+        636726,
+        636727,
+        636728
+      ]
+    },
+    {
+      "reference_id": "63919",
+      "genre": "article",
+      "title": "Orchidaceae Dunstervillorum---II. Maxillaria cryptobulbon sp. nov. and a note on the Maxillaria brunnea complex",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "159",
+      "epage": "164",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636729",
+      "created": "2011-01-28 11:03:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43946",
+          "lastname": "Atwood",
+          "forename": "J T"
+        },
+        {
+          "id": "43859",
+          "lastname": "Carnevali",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        636729,
+        636730,
+        636731,
+        636732,
+        636733,
+        636734
+      ]
+    },
+    {
+      "reference_id": "64328",
+      "genre": "article",
+      "title": "Eight new species of Masdevallia (Orchidaceae) from South America",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "165",
+      "epage": "176",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636735",
+      "created": "2011-01-28 11:37:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43518",
+          "lastname": "Luer",
+          "forename": "C A"
+        }
+      ],
+      "bhl_pages": [
+        636735,
+        636736,
+        636737,
+        636738,
+        636739,
+        636740,
+        636741,
+        636742,
+        636743,
+        636744,
+        636745,
+        636746
+      ]
+    },
+    {
+      "reference_id": "64246",
+      "genre": "article",
+      "title": "A new species and a new combination in Ichnanthus (Gramineae: Paniceae) from South America",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "177",
+      "epage": "184",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636747",
+      "created": "2011-01-28 11:33:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44204",
+          "lastname": "Killeen",
+          "forename": "T J"
+        },
+        {
+          "id": "44205",
+          "lastname": "Kirpes",
+          "forename": "C C"
+        }
+      ],
+      "bhl_pages": [
+        636747,
+        636748,
+        636749,
+        636750,
+        636751,
+        636752,
+        636753,
+        636754
+      ]
+    },
+    {
+      "reference_id": "64880",
+      "genre": "article",
+      "title": "Panicum aquarum, a new South American species of Panicum (Poaceae: Panicoideae: Paniceae)",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "185",
+      "epage": "190",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636755",
+      "created": "2011-01-28 12:08:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43983",
+          "lastname": "Morrone",
+          "forename": "O"
+        },
+        {
+          "id": "43959",
+          "lastname": "Zuloaga",
+          "forename": "F O"
+        }
+      ],
+      "bhl_pages": [
+        636755,
+        636756,
+        636757,
+        636758,
+        636759,
+        636760
+      ]
+    },
+    {
+      "reference_id": "63989",
+      "genre": "article",
+      "title": "Panicum tepuianum (Poaceae: Paniceae), a new species from Cerro Aracamuni in the Venezuelan Guayana",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "191",
+      "epage": "195",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636761",
+      "created": "2011-01-28 11:15:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9011",
+          "lastname": "Davidse",
+          "forename": "Gerrit"
+        },
+        {
+          "id": "9524",
+          "lastname": "Zuloaga",
+          "forename": "Fernando"
+        }
+      ],
+      "bhl_pages": [
+        636761,
+        636762,
+        636763,
+        636764,
+        636765
+      ]
+    },
+    {
+      "reference_id": "64586",
+      "genre": "article",
+      "title": "Fissidens (sect. Aloma) cylindrothecus (Bryopsida: Fissidentaceae), a new species from Colombia",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "196",
+      "epage": "198",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636766",
+      "created": "2011-01-28 11:53:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44453",
+          "lastname": "C.",
+          "forename": "J Aguirre"
+        },
+        {
+          "id": "44454",
+          "lastname": "Pursell",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        636766,
+        636767,
+        636768
+      ]
+    },
+    {
+      "reference_id": "64884",
+      "genre": "article",
+      "title": "Sclerolobium Vogel (Caesalpiniaceae), un nuevo g\u00e9nero para Am\u00e9rica Central",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "199",
+      "epage": "201",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636769",
+      "created": "2011-01-28 12:09:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44651",
+          "lastname": "Poveda",
+          "forename": "L J"
+        },
+        {
+          "id": "43458",
+          "lastname": "Zamora",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        636769,
+        636770,
+        636771
+      ]
+    },
+    {
+      "reference_id": "64492",
+      "genre": "article",
+      "title": "Stylogyne rodriguesiana (Myrsinaceae): a new androdioecious species from Amazonia",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "202",
+      "epage": "203",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636772",
+      "created": "2011-01-28 11:47:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44321",
+          "lastname": "Pipoly",
+          "forename": "Iii",
+          "suffix": "J. J."
+        }
+      ],
+      "bhl_pages": [
+        636772,
+        636773
+      ]
+    },
+    {
+      "reference_id": "64493",
+      "genre": "article",
+      "title": "Systematic studies in the genus Myrsine L. (Myrsinaceae) in Guayana",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "204",
+      "epage": "210",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636774",
+      "created": "2011-01-28 11:48:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44321",
+          "lastname": "Pipoly",
+          "forename": "Iii",
+          "suffix": "J. J."
+        }
+      ],
+      "bhl_pages": [
+        636774,
+        636775,
+        636776,
+        636777,
+        636778,
+        636779,
+        636780
+      ]
+    },
+    {
+      "reference_id": "64666",
+      "genre": "article",
+      "title": "Novae Gesneriaceae Neotropicarum III. Additional new species from Venezuela",
+      "secondary_title": "Novon",
+      "volume": "1",
+      "spage": "211",
+      "epage": "222",
+      "year": "1991",
+      "date": "1991-00-00",
+      "issn": "1055-3177",
+      "PageID": "636781",
+      "created": "2011-01-28 11:57:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43640",
+          "lastname": "Skog",
+          "forename": "L E"
+        },
+        {
+          "id": "44517",
+          "lastname": "Steyeremark",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        636781,
+        636782,
+        636783,
+        636784,
+        636785,
+        636786,
+        636787,
+        636788,
+        636789,
+        636790,
+        636791,
+        636792
+      ]
+    }
+  ]
+}

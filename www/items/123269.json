@@ -1,0 +1,74 @@
+{
+  "ItemID": "123269",
+  "FullTitle": "Journal of the Washington Academy of Sciences.",
+  "VolumeInfo": "v. 15 1925",
+  "articles": [
+    {
+      "reference_id": "105566",
+      "genre": "article",
+      "title": "New species of Agave from the Republic of Salvador",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "15",
+      "issue": "17",
+      "spage": "393",
+      "epage": "395",
+      "year": "1925",
+      "date": "1925-10-19",
+      "issn": "0043-0439",
+      "PageID": "39897046",
+      "created": "2012-07-31 08:44:03",
+      "updated": "2012-07-31 08:44:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54046",
+          "lastname": "Trelease",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        39897046,
+        39897047,
+        39897048
+      ]
+    },
+    {
+      "reference_id": "105567",
+      "genre": "article",
+      "title": "New termites from the Solomon Islands and Santa Cruz Archipelago",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "15",
+      "spage": "395",
+      "epage": "407",
+      "year": "1925",
+      "date": "1925-00-00",
+      "issn": "0043-0439",
+      "PageID": "39897048",
+      "created": "2012-07-31 08:46:17",
+      "updated": "2012-07-31 08:46:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54045",
+          "lastname": "Synder",
+          "forename": "T E"
+        }
+      ],
+      "bhl_pages": [
+        39897048,
+        39897049,
+        39897050,
+        39897051,
+        39897052,
+        39897053,
+        39897054,
+        39897055,
+        39897056,
+        39897057,
+        39897058,
+        39897059,
+        39897060
+      ]
+    }
+  ]
+}

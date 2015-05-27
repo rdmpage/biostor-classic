@@ -1,0 +1,2173 @@
+{
+  "ItemID": "44467",
+  "FullTitle": "The Bulletin of zoological nomenclature.",
+  "VolumeInfo": "Vol 25",
+  "articles": [
+    {
+      "reference_id": "1776",
+      "genre": "article",
+      "title": "Comment on the proposed validation of Scutelluidae Richter & Richter, 1925 Z.N. (S.) 1789",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "4",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223591",
+      "created": "2009-12-23 18:12:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1273",
+          "lastname": "Temple",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        12223591
+      ]
+    },
+    {
+      "reference_id": "1755",
+      "genre": "article",
+      "title": "Comments on applications concerning the genus Polygnathus Hinde. Z.N. (S.) 1796",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "5",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223592",
+      "created": "2009-12-23 18:11:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1259",
+          "lastname": "Mason",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        12223592
+      ]
+    },
+    {
+      "reference_id": "1780",
+      "genre": "article",
+      "title": "Papilio lintingensis Osbeck, 1765 (Insecta, Lepidoptera): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "6",
+      "epage": "7",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223593",
+      "created": "2009-12-23 18:12:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223593,
+        12223594
+      ]
+    },
+    {
+      "reference_id": "1779",
+      "genre": "article",
+      "title": "Monopsyllus Kolenati, 1857 (Insecta, Siphonaptera): designation of a type-species under the plenary powers and related matters",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "8",
+      "epage": "9",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223595",
+      "created": "2009-12-23 18:12:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223595,
+        12223596
+      ]
+    },
+    {
+      "reference_id": "1778",
+      "genre": "article",
+      "title": "Diodontus Curtis, 1834 (Insecta, Hymenoptera): designation of a type-species under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "10",
+      "epage": "11",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223597",
+      "created": "2009-12-23 18:12:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223597,
+        12223598
+      ]
+    },
+    {
+      "reference_id": "1700",
+      "genre": "article",
+      "title": "Prospaltella Ashmead, 1904 (Insecta, Hymenoptera): designation of a type-species under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "12",
+      "epage": "13",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223599",
+      "created": "2009-12-23 16:29:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223599,
+        12223600
+      ]
+    },
+    {
+      "reference_id": "1674",
+      "genre": "article",
+      "title": "Mullus auriflamma Forsskal, 1775 (Pisces): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "14",
+      "epage": "15",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223601",
+      "created": "2009-12-23 16:29:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223601,
+        12223602
+      ]
+    },
+    {
+      "reference_id": "1699",
+      "genre": "article",
+      "title": "Chaemaemyia Meigen, 1803 (Insecta, Diptera): designation of a type-species under the plenary powers",
+      "secondary_title": "Bull Zool. Nom.",
+      "volume": "25",
+      "spage": "16",
+      "epage": "17",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223603",
+      "created": "2009-12-23 16:29:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223603,
+        12223604
+      ]
+    },
+    {
+      "reference_id": "1698",
+      "genre": "article",
+      "title": "Xyleborus Bowdich, 1825 (Insecta, Coleoptera): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "18",
+      "epage": "19",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223605",
+      "created": "2009-12-23 16:29:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223605,
+        12223606
+      ]
+    },
+    {
+      "reference_id": "1715",
+      "genre": "article",
+      "title": "Opinion 849. Kassina Girard, 1853 (Amphibia): grant under the plenary powers of precedence over Hylambates Dum\u00e9ril, 1853",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "20",
+      "epage": "21",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223607",
+      "created": "2009-12-23 16:29:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1234",
+          "lastname": "China",
+          "forename": "W E"
+        },
+        {
+          "id": "505",
+          "lastname": "Melville",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        12223607,
+        12223608
+      ]
+    },
+    {
+      "reference_id": "4614",
+      "genre": "article",
+      "title": "Opinion 850",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "25",
+      "spage": "22",
+      "epage": "23",
+      "year": "1968",
+      "date": "1968-05-24",
+      "issn": "0007-5167",
+      "PageID": "12223609",
+      "created": "2010-01-02 20:37:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12223609,
+        12223610
+      ]
+    },
+    {
+      "reference_id": "4615",
+      "genre": "article",
+      "title": "Opinion 851",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "25",
+      "spage": "24",
+      "epage": "25",
+      "year": "1968",
+      "date": "1968-05-24",
+      "issn": "0007-5167",
+      "PageID": "12223611",
+      "created": "2010-01-02 20:37:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12223611,
+        12223612
+      ]
+    },
+    {
+      "reference_id": "1692",
+      "genre": "article",
+      "title": "Otiorhynchus versus Brachyrhinus (Insecta, Coleoptera, family Curculionidae). Z.N. (S.) 1819",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "29",
+      "epage": "35",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223616",
+      "created": "2009-12-23 16:29:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1191",
+          "lastname": "Zimmerman",
+          "forename": "E C"
+        }
+      ],
+      "bhl_pages": [
+        12223616,
+        12223617,
+        12223618,
+        12223619,
+        12223620,
+        12223621,
+        12223622
+      ]
+    },
+    {
+      "reference_id": "1688",
+      "genre": "article",
+      "title": "Simla leucophaea F. Cuvier, 1807 (Mammalia): proposed validation under the plenary powers. Z.N.(S) 1820",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "36",
+      "epage": "37",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223623",
+      "created": "2009-12-23 16:29:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1136",
+          "lastname": "Groves",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        12223623,
+        12223624
+      ]
+    },
+    {
+      "reference_id": "1714",
+      "genre": "article",
+      "title": "Julus pallipes Olivier, 1792 (Diplopoda, Polydesmida): proposed suppression under the plenary powers Z.N. (S.) 1823",
+      "secondary_title": "Bull Zool. Nom.",
+      "volume": "25",
+      "spage": "38",
+      "epage": "40",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223625",
+      "created": "2009-12-23 16:29:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1102",
+          "lastname": "Jeekel",
+          "forename": "C A W"
+        }
+      ],
+      "bhl_pages": [
+        12223625,
+        12223626,
+        12223627
+      ]
+    },
+    {
+      "reference_id": "1675",
+      "genre": "article",
+      "title": "Helix hammonis Strom, 1765 (Gastropoda): proposed addition to the official list of specific names. Z.N.(S). 1830",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "41",
+      "epage": "49",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223628",
+      "created": "2009-12-23 16:29:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1222",
+          "lastname": "Walden",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        12223628,
+        12223629,
+        12223630,
+        12223631,
+        12223632,
+        12223633,
+        12223634,
+        12223635,
+        12223636
+      ]
+    },
+    {
+      "reference_id": "1711",
+      "genre": "article",
+      "title": "Anomia pecten Linnaeus, 1758 (Brachiopoda): proposed use of the plenary powers to set aside the ruling given in Opinion 224 on the interpretation of this species. Z.N. (S.) 1832",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "50",
+      "epage": "51",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223637",
+      "created": "2009-12-23 16:29:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1233",
+          "lastname": "Bergstrom",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12223637,
+        12223638
+      ]
+    },
+    {
+      "reference_id": "59511",
+      "genre": "article",
+      "title": "Larius Boddaert, 1783 (Aves): proposed suppression under the Plenary Powers. Z.N. (s.) 1833",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "25",
+      "spage": "52",
+      "epage": "54",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223639",
+      "created": "2010-11-21 10:44:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1277",
+          "lastname": "Mayr",
+          "forename": "E"
+        },
+        {
+          "id": "42593",
+          "lastname": "Condon",
+          "forename": "H T"
+        }
+      ],
+      "bhl_pages": [
+        12223639,
+        12223640,
+        12223641
+      ]
+    },
+    {
+      "reference_id": "1668",
+      "genre": "article",
+      "title": "Proposal to suppress Python timorensis M\u00fcller, 1844, and Python timoriensis M\u00fcller, 1857, and to add Python timoriensis (Peters, 1876) to the official list (Reptilia, Serpentes, Boidae). Z.N.(S.) 1834",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "55",
+      "epage": "59",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223642",
+      "created": "2009-12-23 16:29:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1220",
+          "lastname": "Brongersma",
+          "forename": "L D"
+        }
+      ],
+      "bhl_pages": [
+        12223642,
+        12223643,
+        12223644,
+        12223645,
+        12223646
+      ]
+    },
+    {
+      "reference_id": "563",
+      "genre": "article",
+      "title": "Gelasimus macrodactylus H. Milne-Edwards & Lucas, 1843 (Crustacea, Decapoda): proposed suppression under the plenary powers. Z.N.(S.) 1835",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "25",
+      "spage": "60",
+      "epage": "61",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223647",
+      "created": "2009-12-23 03:21:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "506",
+          "lastname": "Von Hagen",
+          "forename": "Heinrich-Otto"
+        },
+        {
+          "id": "507",
+          "lastname": "Holthius",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12223647,
+        12223648
+      ]
+    },
+    {
+      "reference_id": "1708",
+      "genre": "article",
+      "title": "Cribrilina punctata (Hassall, 1841): application for designation under the plenary powers of a neotype (Polyzoa). Z. N. (S.) 1837",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "62",
+      "epage": "64",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223649",
+      "created": "2009-12-23 16:29:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1214",
+          "lastname": "Ryland",
+          "forename": "J S"
+        },
+        {
+          "id": "1232",
+          "lastname": "Stebbing",
+          "forename": "A R D"
+        }
+      ],
+      "bhl_pages": [
+        12223649,
+        12223650,
+        12223651
+      ]
+    },
+    {
+      "reference_id": "1683",
+      "genre": "article",
+      "title": "A comment on the proposed preservation of the generic name Panthera Oken, 1816 (Mammalia, Carnivora). Z.N.(s.) 482",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "66",
+      "epage": "67",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223657",
+      "created": "2009-12-23 16:29:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1225",
+          "lastname": "Mazak",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        12223657,
+        12223658
+      ]
+    },
+    {
+      "reference_id": "1712",
+      "genre": "article",
+      "title": "Tanagra Linnaeus, 1764 (Aves): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "74",
+      "epage": "79",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223665",
+      "created": "2009-12-23 16:29:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223665,
+        12223666,
+        12223667,
+        12223668,
+        12223669,
+        12223670
+      ]
+    },
+    {
+      "reference_id": "1697",
+      "genre": "article",
+      "title": "Opinion 853. Erbula St\u00e5l, 1873 (Insecta, Hemiptera): designation of a type-species under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "80",
+      "epage": "81",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223671",
+      "created": "2009-12-23 16:29:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223671,
+        12223672
+      ]
+    },
+    {
+      "reference_id": "1707",
+      "genre": "article",
+      "title": "Amplexizaphrentis Vaughan, 1906 (Anthozoa): designation of a type-species under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "82",
+      "epage": "83",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223673",
+      "created": "2009-12-23 16:29:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223673,
+        12223674
+      ]
+    },
+    {
+      "reference_id": "1706",
+      "genre": "article",
+      "title": "Astacus oreganus Randall, 1840 (Crustacea, Decapoda): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "84",
+      "epage": "85",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223675",
+      "created": "2009-12-23 16:29:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223675,
+        12223676
+      ]
+    },
+    {
+      "reference_id": "1679",
+      "genre": "article",
+      "title": "Praeradiolites Douville, 1902 (Bivalvia): validated under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "86",
+      "epage": "87",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223677",
+      "created": "2009-12-23 16:29:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223677,
+        12223678
+      ]
+    },
+    {
+      "reference_id": "1696",
+      "genre": "article",
+      "title": "Podalonia Fernald, 1927 (Insecta, Hymenoptera): validation and designation of a type-species under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "88",
+      "epage": "89",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223679",
+      "created": "2009-12-23 16:29:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223679,
+        12223680
+      ]
+    },
+    {
+      "reference_id": "1678",
+      "genre": "article",
+      "title": "Pachyodon nucleus Brown, 1843 (Pelecypoda): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "90",
+      "epage": "91",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223681",
+      "created": "2009-12-23 16:29:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223681,
+        12223682
+      ]
+    },
+    {
+      "reference_id": "1673",
+      "genre": "article",
+      "title": "Opinion 859. Alosafallax (Lac\u00e9p\u00e8de, 1803): preserved as the name for the twaite shad (Pisces)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "92",
+      "epage": "93",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223683",
+      "created": "2009-12-23 16:29:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223683,
+        12223684
+      ]
+    },
+    {
+      "reference_id": "1672",
+      "genre": "article",
+      "title": "Gobius lenkoranicus Kessler, 1877 (Pisces): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "94",
+      "epage": "95",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223685",
+      "created": "2009-12-23 16:29:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223685,
+        12223686
+      ]
+    },
+    {
+      "reference_id": "1677",
+      "genre": "article",
+      "title": "Collignoniceras Breistroffer, 1947 (Ammonoidea): granted priority under the plenary powers over Selwynoceras Warren &Stelk, 1940",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "96",
+      "epage": "97",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223687",
+      "created": "2009-12-23 16:29:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223687,
+        12223688
+      ]
+    },
+    {
+      "reference_id": "1695",
+      "genre": "article",
+      "title": "Galerita Fabricius, 1801 (Insecta, Coleoptera): validation under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "98",
+      "epage": "99",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223689",
+      "created": "2009-12-23 16:29:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223689,
+        12223690
+      ]
+    },
+    {
+      "reference_id": "1592",
+      "genre": "article",
+      "title": "Pinuca Hupe in Gay, 1854 (Echiuroidea): proposed suppression under the plenary powers Z.N. (S) 1836",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "100",
+      "epage": "102",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223691",
+      "created": "2009-12-23 16:27:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1170",
+          "lastname": "Jones",
+          "forename": "M L"
+        }
+      ],
+      "bhl_pages": [
+        12223691,
+        12223692,
+        12223693
+      ]
+    },
+    {
+      "reference_id": "1649",
+      "genre": "article",
+      "title": "Caligus appendiculatus F. Muller, 1852 (Crustacea: Copepoda): a request for suppression under the plenary powers. Z.N.(S.) 1839",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "105",
+      "epage": "106",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223696",
+      "created": "2009-12-23 16:28:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1206",
+          "lastname": "Parker",
+          "forename": "R R"
+        }
+      ],
+      "bhl_pages": [
+        12223696,
+        12223697
+      ]
+    },
+    {
+      "reference_id": "1667",
+      "genre": "article",
+      "title": "Request for suppression of Amplycephalus Kuhl and Van Hasselt, 1822 (Reptilia: Serpentes). Z.N. (S.) 1840",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "107",
+      "epage": "112",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223698",
+      "created": "2009-12-23 16:29:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        12223698,
+        12223699,
+        12223700,
+        12223701,
+        12223702,
+        12223703
+      ]
+    },
+    {
+      "reference_id": "1682",
+      "genre": "article",
+      "title": "Giraffa camelopardalis reticulata de Winton, 1899 proposed preservation under the plenary powers (Mammalia). Z.N.(S.) 1841",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "113",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223704",
+      "created": "2009-12-23 16:29:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1224",
+          "lastname": "Mertens",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12223704
+      ]
+    },
+    {
+      "reference_id": "1676",
+      "genre": "article",
+      "title": "Buccinum pustulosum [Lightfoot, 1786] (Gastropoda): proposed suppression of the specific name under the plenary powers. Z.N. (S.) 1842",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "114",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223705",
+      "created": "2009-12-23 16:29:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1223",
+          "lastname": "Terry",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        12223705
+      ]
+    },
+    {
+      "reference_id": "73806",
+      "genre": "article",
+      "title": "Aphis gossypii Glover 1877 (Insecta, Hemiptera-Homoptera): Request for validation under the Plenary Powers. Z.N.(S.) 1843",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "25",
+      "spage": "116",
+      "epage": "119",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223707",
+      "created": "2011-06-04 09:54:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46435",
+          "lastname": "",
+          "forename": "Russell"
+        }
+      ],
+      "bhl_pages": [
+        12223707,
+        12223708,
+        12223709,
+        12223710
+      ]
+    },
+    {
+      "reference_id": "1693",
+      "genre": "article",
+      "title": "Anoplius Dufour, 1834 (Insecta, Hymenoptera): proposed designation of a type-species with proposed designation of neotypes under the plenary powers for Sphex nigra Fabricius, 1775 and Sphex nigerrimus Scopoli, 1763. (Z.N.C.S.) 1845",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "120",
+      "epage": "124",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223711",
+      "created": "2009-12-23 16:29:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1230",
+          "lastname": "Van Der Vecht",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12223711,
+        12223712,
+        12223713,
+        12223714,
+        12223715
+      ]
+    },
+    {
+      "reference_id": "1684",
+      "genre": "article",
+      "title": "Sciurus ebii Pel, 1851 (Mammalia): request for suppression under the plenary powers. Z.N. (S.) 1846",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "125",
+      "epage": "127",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223716",
+      "created": "2009-12-23 16:29:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1116",
+          "lastname": "Husson",
+          "forename": "A M"
+        },
+        {
+          "id": "507",
+          "lastname": "Holthius",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12223716,
+        12223717,
+        12223718
+      ]
+    },
+    {
+      "reference_id": "1603",
+      "genre": "article",
+      "title": "Comments on the proposed validation of Diplosoma Macdonald, 1859. Z.N.(S.) 1766",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "131",
+      "epage": "132",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223726",
+      "created": "2009-12-23 16:27:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2625",
+          "lastname": "Mather",
+          "forename": "Patricia"
+        }
+      ],
+      "bhl_pages": [
+        12223726,
+        12223727
+      ]
+    },
+    {
+      "reference_id": "66572",
+      "genre": "article",
+      "title": "Comment on the proposed suppression of Elipesurus spinicauda Schomburgk (Pisces). Z.N.(S.) 1825",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "25",
+      "spage": "133",
+      "epage": "134",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223728",
+      "created": "2011-05-07 19:14:12",
+      "updated": "2011-12-24 15:32:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1638",
+          "lastname": "Bailey",
+          "forename": "Reeve M"
+        }
+      ],
+      "bhl_pages": [
+        12223728,
+        12223729
+      ]
+    },
+    {
+      "reference_id": "1596",
+      "genre": "article",
+      "title": "Comment on the proposal to suppress Python timorensis Muller, 1844 (Reptilia) Z.N.(S.) 1834",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "134",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223729",
+      "created": "2009-12-23 16:27:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        12223729
+      ]
+    },
+    {
+      "reference_id": "1648",
+      "genre": "article",
+      "title": "Anthocoris nigrellus Zetterstedt, 1838, Anthocoris nigricornis Zetterstedt, 1838, and Lygaeus pygmaeus Fallen, 1807 (Insecta, Hemiptera): designation of neotypes under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "135",
+      "epage": "137",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223730",
+      "created": "2009-12-23 16:28:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223730,
+        12223731,
+        12223732
+      ]
+    },
+    {
+      "reference_id": "1651",
+      "genre": "article",
+      "title": "Penaeid generic names (Crustacea, Decapoda): addition of twenty-eight to the official list",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "138",
+      "epage": "147",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223733",
+      "created": "2009-12-23 16:28:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223733,
+        12223734,
+        12223735,
+        12223736,
+        12223737,
+        12223738,
+        12223739,
+        12223740,
+        12223741,
+        12223742
+      ]
+    },
+    {
+      "reference_id": "1647",
+      "genre": "article",
+      "title": "Phlaeothrips Haliday, 1836 (Insecta, Thysanoptera): designation of a type-species under the plenary powers",
+      "secondary_title": "Bull Zool. Nom.",
+      "volume": "25",
+      "spage": "148",
+      "epage": "149",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223743",
+      "created": "2009-12-23 16:28:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223743,
+        12223744
+      ]
+    },
+    {
+      "reference_id": "1646",
+      "genre": "article",
+      "title": "Casmopterix Hubner, 1825 (Insecta, Lepidoptera): designation of a type-species under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "150",
+      "epage": "151",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223745",
+      "created": "2009-12-23 16:28:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223745,
+        12223746
+      ]
+    },
+    {
+      "reference_id": "1645",
+      "genre": "article",
+      "title": "Macrochaeta Macquart, 1851 (Insecta: Diptera): suppressed under the plenary powers",
+      "secondary_title": "Bull, Zool. Nom.",
+      "volume": "25",
+      "spage": "152",
+      "epage": "153",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223747",
+      "created": "2009-12-23 16:28:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223747,
+        12223748
+      ]
+    },
+    {
+      "reference_id": "1644",
+      "genre": "article",
+      "title": "Stenopodinae in Insecta and Stenopodidae in Crustacea: use of the plenary powers to remove homonymy",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "154",
+      "epage": "155",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223749",
+      "created": "2009-12-23 16:28:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223749,
+        12223750
+      ]
+    },
+    {
+      "reference_id": "1652",
+      "genre": "article",
+      "title": "The case for the suppression of R. Ludwig's 'Corallen aus Palaolithischen formationen' (Palaeontographica, 14: 133-244; 1865-1866) for the purposes of zoological nomenclature. Z.N. (S.) 495",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "156",
+      "epage": "161",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223751",
+      "created": "2009-12-23 16:28:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1208",
+          "lastname": "Scrutton",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        12223751,
+        12223752,
+        12223753,
+        12223754,
+        12223755,
+        12223756
+      ]
+    },
+    {
+      "reference_id": "1620",
+      "genre": "article",
+      "title": "Protomomys Teilhard de Chardin, 1927 (Mammalia): proposed suppression under the plenary powers. Z.N. (S.) 1847",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "165",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223760",
+      "created": "2009-12-23 16:28:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "565",
+          "lastname": "Mckenna",
+          "forename": "M C"
+        },
+        {
+          "id": "1186",
+          "lastname": "Russell",
+          "forename": "D E"
+        },
+        {
+          "id": "1187",
+          "lastname": "Savage",
+          "forename": "D E"
+        }
+      ],
+      "bhl_pages": [
+        12223760
+      ]
+    },
+    {
+      "reference_id": "1612",
+      "genre": "article",
+      "title": "Tellina obliqua J. Sowerby, 1817 (Bivalvia) proposed conservation under the plenary powers. Z.N.(S.) 1849",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "166",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223761",
+      "created": "2009-12-23 16:27:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1179",
+          "lastname": "Coan",
+          "forename": "E V"
+        }
+      ],
+      "bhl_pages": [
+        12223761
+      ]
+    },
+    {
+      "reference_id": "1548",
+      "genre": "article",
+      "title": "Proposed use of the plenary powers to place publications by Moore, 1938 (1939) and Yeltysheva, 1956, 1959, 1964, concerning dissociated fossil crinoid remains on the Official Index of Rejected and Invalid Works in Zoological Nomenclature, to suppress 13 generic names based on crinoid stem fragments, and to declare these names available for use in zoological nomenclature as collective groups. Z.N. (S.) 1850",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "167",
+      "epage": "170",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223762",
+      "created": "2009-12-23 16:26:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1163",
+          "lastname": "Moore",
+          "forename": "R C"
+        },
+        {
+          "id": "1164",
+          "lastname": "Jeffords",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        12223762,
+        12223763,
+        12223764,
+        12223765
+      ]
+    },
+    {
+      "reference_id": "1653",
+      "genre": "article",
+      "title": "Pterorrhiza Ehrenberg 1834 (Anthozoa, Rugosa): proposed suppression under the plenary powers. Z.N. (S.) 1851",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "171",
+      "epage": "173",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223766",
+      "created": "2009-12-23 16:28:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1209",
+          "lastname": "Schouppe",
+          "forename": "A V"
+        },
+        {
+          "id": "1210",
+          "lastname": "Cheng",
+          "forename": "Y M"
+        }
+      ],
+      "bhl_pages": [
+        12223766,
+        12223767,
+        12223768
+      ]
+    },
+    {
+      "reference_id": "1631",
+      "genre": "article",
+      "title": "Siphocoryne angelicae del Guercio, 1911 (Homoptera, Aphidoidea): request for suppression under the plenary powers. Z.N(S.)1852",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "174",
+      "epage": "175",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223769",
+      "created": "2009-12-23 16:28:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1198",
+          "lastname": "Stroyan",
+          "forename": "H L G"
+        }
+      ],
+      "bhl_pages": [
+        12223769,
+        12223770
+      ]
+    },
+    {
+      "reference_id": "1626",
+      "genre": "article",
+      "title": "Hyposmocoma Butler, 1881 (Insecta, Lepidoptera): proposed validation of emendation from Hyposmochoma. Z.N. (S.) 1853",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "176",
+      "epage": "177",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223771",
+      "created": "2009-12-23 16:28:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1191",
+          "lastname": "Zimmerman",
+          "forename": "E C"
+        }
+      ],
+      "bhl_pages": [
+        12223771,
+        12223772
+      ]
+    },
+    {
+      "reference_id": "1622",
+      "genre": "article",
+      "title": "Cricetodon minus Lartet, 1851 (Mammalia, Rodentia): request for a decision on interpretation Z.N. (S.) 1854",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "178",
+      "epage": "179",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223773",
+      "created": "2009-12-23 16:28:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1188",
+          "lastname": "Freudenthal",
+          "forename": "M"
+        },
+        {
+          "id": "1189",
+          "lastname": "Fahlhusch",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        12223773,
+        12223774
+      ]
+    },
+    {
+      "reference_id": "1623",
+      "genre": "article",
+      "title": "Proposal officially to recognise Schaub's interpretation of the name Cricetodon minus Lartet, 1851",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "179",
+      "epage": "181",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223774",
+      "created": "2009-12-23 16:28:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1188",
+          "lastname": "Freudenthal",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        12223774,
+        12223775,
+        12223776
+      ]
+    },
+    {
+      "reference_id": "1624",
+      "genre": "article",
+      "title": "Opinion in the question 'What is Cricetodon minor Lartet, 1851?'",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "181",
+      "epage": "183",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223776",
+      "created": "2009-12-23 16:28:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1190",
+          "lastname": "Fahlbusch",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        12223776,
+        12223777,
+        12223778
+      ]
+    },
+    {
+      "reference_id": "1595",
+      "genre": "article",
+      "title": "Agama bibronii Dum\u00e9ril 1851 (Reptilia: Sauria): proposed validation under the plenary powers. Z.N.(S.) 1856",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "186",
+      "epage": "187",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223781",
+      "created": "2009-12-23 16:27:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1253",
+          "lastname": "Stimson",
+          "forename": "Andrew F"
+        }
+      ],
+      "bhl_pages": [
+        12223781,
+        12223782
+      ]
+    },
+    {
+      "reference_id": "1637",
+      "genre": "article",
+      "title": "Thecla viridis Edwards, 1862 (Insecta, Lepidoptera): proposal to place on the official list. Z.N. (S.) 1857",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "188",
+      "epage": "189",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223783",
+      "created": "2009-12-23 16:28:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1203",
+          "lastname": "Brown",
+          "forename": "F M"
+        },
+        {
+          "id": "1204",
+          "lastname": "Clench",
+          "forename": "H K"
+        }
+      ],
+      "bhl_pages": [
+        12223783,
+        12223784
+      ]
+    },
+    {
+      "reference_id": "1607",
+      "genre": "article",
+      "title": "The original publication of Heterotis Hemprich and Ehrenberg, 1828. Z.N. (S.) 1807",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "194",
+      "epage": "195",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223793",
+      "created": "2009-12-23 16:27:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1176",
+          "lastname": "Roellig",
+          "forename": "H F"
+        }
+      ],
+      "bhl_pages": [
+        12223793,
+        12223794
+      ]
+    },
+    {
+      "reference_id": "1606",
+      "genre": "article",
+      "title": "Comment on the proposed validation of Siganus Forsskal, 1775, Z.N. (S.) 1721",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "200",
+      "epage": "201",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223799",
+      "created": "2009-12-23 16:27:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1175",
+          "lastname": "Smith",
+          "forename": "M M"
+        }
+      ],
+      "bhl_pages": [
+        12223799,
+        12223800
+      ]
+    },
+    {
+      "reference_id": "1621",
+      "genre": "article",
+      "title": "Comments on Cynocephalus Boddaert versus Galeopithecus Pallas. Z.N. (S.) 1792",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "202",
+      "epage": "203",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223801",
+      "created": "2009-12-23 16:28:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1068",
+          "lastname": "Hershkovitz",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        12223801,
+        12223802
+      ]
+    },
+    {
+      "reference_id": "1629",
+      "genre": "article",
+      "title": "Comments on Otiorhynchus versus Brachyrhinus (Insecta, Coleoptera, family Curculionidae). Z.N. (S.) 1819. (See volume 25, pages 29-35.)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "204",
+      "epage": "209",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223803",
+      "created": "2009-12-23 16:28:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1195",
+          "lastname": "Warner",
+          "forename": "R E"
+        },
+        {
+          "id": "1196",
+          "lastname": "Spilman",
+          "forename": "T J"
+        }
+      ],
+      "bhl_pages": [
+        12223803,
+        12223804,
+        12223805,
+        12223806,
+        12223807,
+        12223808
+      ]
+    },
+    {
+      "reference_id": "4619",
+      "genre": "article",
+      "title": "Opinion 869",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "25",
+      "spage": "210",
+      "epage": "211",
+      "year": "1969",
+      "date": "1969-02-28",
+      "issn": "0007-5167",
+      "PageID": "12223809",
+      "created": "2010-01-02 20:37:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12223809,
+        12223810
+      ]
+    },
+    {
+      "reference_id": "1598",
+      "genre": "article",
+      "title": "Comment on the proposed suppression of Amphisbaena mildei Peters, 1878. Z.N.(S.) 1746",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "211",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223810",
+      "created": "2009-12-23 16:27:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "505",
+          "lastname": "Melville",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        12223810
+      ]
+    },
+    {
+      "reference_id": "1610",
+      "genre": "article",
+      "title": "Hippocampus erectus Perry (1810) (Pisces): refusal to suppress under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "212",
+      "epage": "213",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223811",
+      "created": "2009-12-23 16:27:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223811,
+        12223812
+      ]
+    },
+    {
+      "reference_id": "1619",
+      "genre": "article",
+      "title": "Tectarius Valenciennes, [1832] (Gastropoda): validated under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "214",
+      "epage": "215",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223813",
+      "created": "2009-12-23 16:28:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223813,
+        12223814
+      ]
+    },
+    {
+      "reference_id": "1618",
+      "genre": "article",
+      "title": "Hippella Moerch, 1861 (Pelecypoda): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "216",
+      "epage": "217",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223815",
+      "created": "2009-12-23 16:28:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223815,
+        12223816
+      ]
+    },
+    {
+      "reference_id": "1602",
+      "genre": "article",
+      "title": "Truncatulina dumblei Applin, 1925 (Foraminifera): suppressed under the plenary powers",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "218",
+      "epage": "219",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223817",
+      "created": "2009-12-23 16:27:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1085",
+          "lastname": "",
+          "forename": "Opinion"
+        }
+      ],
+      "bhl_pages": [
+        12223817,
+        12223818
+      ]
+    },
+    {
+      "reference_id": "1634",
+      "genre": "article",
+      "title": "Schizoneura patchiae Borner & Blunck, 1916, and S. patchi Meunier, 1917, a case of virtual homonymy, and a proposed solution (Insecta, Hemiptera, Aphidoidea). Z.N. (S.) 1859",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "222",
+      "epage": "223",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223821",
+      "created": "2009-12-23 16:28:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1200",
+          "lastname": "Heie",
+          "forename": "O E"
+        }
+      ],
+      "bhl_pages": [
+        12223821,
+        12223822
+      ]
+    },
+    {
+      "reference_id": "1599",
+      "genre": "article",
+      "title": "Tropidogaster blainvillii Dumeril & Bibron, 1837 (Reptilia, Sauria): proposed suppression under the plenary powers. Z.N.(S.) 1860",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "224",
+      "epage": "226",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223823",
+      "created": "2009-12-23 16:27:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "558",
+          "lastname": "Etheridge",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12223823,
+        12223824,
+        12223825
+      ]
+    },
+    {
+      "reference_id": "1657",
+      "genre": "article",
+      "title": "Sertularia fastigiata Linnaeus, 1758 (Polyzoa): proposed suppression under the plenary powers. Z.N. (S.) 1862",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "229",
+      "epage": "231",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223828",
+      "created": "2009-12-23 16:28:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1214",
+          "lastname": "Ryland",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        12223828,
+        12223829,
+        12223830
+      ]
+    },
+    {
+      "reference_id": "1658",
+      "genre": "article",
+      "title": "Proposed suppression, under the plenary powers, of two preliminary papers to S. S. Buckman's 1918 monograph on the Brachiopoda of the Namyau beds, Burma. Z.N. (S.) 1863",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "232",
+      "epage": "233",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223831",
+      "created": "2009-12-23 16:28:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1215",
+          "lastname": "Cocks",
+          "forename": "L R M"
+        }
+      ],
+      "bhl_pages": [
+        12223831,
+        12223832
+      ]
+    },
+    {
+      "reference_id": "1630",
+      "genre": "article",
+      "title": "Cyrtopeltis tennis Reuter,1895 (Insecta, Hemiptera-Heteroptera): proposed validation under the plenary powers. Z.N.(S.) 1864",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "25",
+      "spage": "234",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0007-5167",
+      "PageID": "12223833",
+      "created": "2009-12-23 16:28:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1197",
+          "lastname": "Wagner",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12223833
+      ]
+    }
+  ]
+}

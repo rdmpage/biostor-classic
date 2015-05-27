@@ -1,0 +1,101 @@
+{
+  "ItemID": "96443",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "pt. 19-20 (1851-1852)",
+  "articles": [
+    {
+      "reference_id": "60913",
+      "genre": "article",
+      "title": "A catalogue of the species of Emarguinula, a genus of Gasteropodous Mollusca, belonging to the family Fissurellidae; in the Collection of H. Cuming, Esq",
+      "secondary_title": "Proc. Zool. Soc. Lond.",
+      "volume": "1851",
+      "issue": "19",
+      "spage": "82",
+      "epage": "92",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0370-2774",
+      "PageID": "30680322",
+      "created": "2010-11-25 08:55:27",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10067",
+          "lastname": "Adams",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        30680322,
+        30680323,
+        30680324,
+        30680325,
+        30680326,
+        30680327,
+        30680328,
+        30680329,
+        30680330,
+        30680331,
+        30680332
+      ]
+    },
+    {
+      "reference_id": "102241",
+      "genre": "article",
+      "title": "Remarks on the genus Hapalotis",
+      "secondary_title": "Proceedings of The Zoological Society of London",
+      "volume": "1851",
+      "spage": "126",
+      "epage": "127",
+      "year": "1851",
+      "date": "1851-00-00",
+      "issn": "0370-2774",
+      "doi": "10.1111\/j.1096-3642.1851.tb01146.x",
+      "PageID": "30680372",
+      "created": "2012-03-31 21:30:32",
+      "updated": "2012-03-31 21:33:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51831",
+          "lastname": "Gould",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        30680372,
+        30680373
+      ]
+    },
+    {
+      "reference_id": "71031",
+      "genre": "article",
+      "title": "On the Species of the Genus Sericinus",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1852",
+      "spage": "70",
+      "epage": "73",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0370-2774",
+      "PageID": "30680680",
+      "created": "2011-06-03 17:35:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39342",
+          "lastname": "Gray",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        30680680,
+        30680681,
+        30680682,
+        30680683
+      ]
+    }
+  ]
+}

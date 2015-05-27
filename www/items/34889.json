@@ -1,0 +1,40 @@
+{
+  "ItemID": "34889",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 64 (1950-1951)",
+  "articles": [
+    {
+      "reference_id": "65434",
+      "genre": "article",
+      "title": "New deep-water Olivellas from Florida, with notes on the O. jaspidea-nivea complex",
+      "secondary_title": "Nautilus",
+      "volume": "64",
+      "issue": "4",
+      "spage": "110",
+      "epage": "116",
+      "year": "1951",
+      "date": "0000-00-00",
+      "issn": "0028-1344",
+      "PageID": "8524377",
+      "created": "2011-03-04 11:18:28",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1315",
+          "lastname": "Abbott",
+          "forename": "R T"
+        }
+      ],
+      "bhl_pages": [
+        8524377,
+        8524378,
+        8524379,
+        8524380,
+        8524381,
+        8524382,
+        8524383
+      ]
+    }
+  ]
+}

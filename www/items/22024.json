@@ -1,0 +1,63 @@
+{
+  "ItemID": "22024",
+  "FullTitle": "The Journal of microscopy and natural science.",
+  "VolumeInfo": "v. 12 (ser. 3, v. 3) (1893)",
+  "articles": [
+    {
+      "reference_id": "100860",
+      "genre": "article",
+      "title": "Synchaeta tavina (sp. novo)",
+      "secondary_title": "The Journal of microscopy and natural science",
+      "volume": "12",
+      "spage": "382",
+      "epage": "383",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0368-3974",
+      "PageID": "3012416",
+      "created": "2012-03-09 13:48:12",
+      "updated": "2012-03-09 14:12:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53463",
+          "lastname": "Hood",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        3012416,
+        3012419,
+        3012418
+      ]
+    },
+    {
+      "reference_id": "102293",
+      "genre": "article",
+      "title": "Synchaeta tavina (sp. novo)",
+      "secondary_title": "Journal of Microscopy and Natural Sciences, London",
+      "volume": "12",
+      "spage": "382",
+      "epage": "383",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "9680810",
+      "PageID": "3012416",
+      "created": "2012-04-02 21:13:23",
+      "updated": "2012-04-02 21:14:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53463",
+          "lastname": "Hood",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        3012416,
+        3012419,
+        3012418
+      ]
+    }
+  ]
+}

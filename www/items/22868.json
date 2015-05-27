@@ -1,0 +1,143 @@
+{
+  "ItemID": "22868",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.42 (1909)",
+  "articles": [
+    {
+      "reference_id": "57445",
+      "genre": "article",
+      "title": "Some New Zealand and Tasmanian Arachnidae",
+      "secondary_title": "Trans. New Zeal. Inst.",
+      "volume": "42",
+      "spage": "273",
+      "epage": "283",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1778777",
+      "PageID": "3332674",
+      "created": "2010-11-18 14:27:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41992",
+          "lastname": "Hogg",
+          "forename": "H R"
+        }
+      ],
+      "bhl_pages": [
+        3332674,
+        3332795,
+        3333281,
+        3333143,
+        3333070,
+        3332796,
+        3332806,
+        3332661,
+        3332702,
+        3333508,
+        3333264
+      ]
+    },
+    {
+      "reference_id": "58375",
+      "genre": "article",
+      "title": "A list of the known fishes of Kermadec and Norfolk Islands, and a comparison with those of Lord Howe Island",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "42",
+      "spage": "370",
+      "epage": "383",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1778777",
+      "PageID": "3332716",
+      "created": "2010-11-20 20:53:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10308",
+          "lastname": "Waite",
+          "forename": "E R"
+        }
+      ],
+      "bhl_pages": [
+        3332716,
+        3332709,
+        3332822,
+        3333311,
+        3333312,
+        3332823,
+        3332824,
+        3332825,
+        3333313,
+        3332929,
+        3332938,
+        3333314,
+        3333521,
+        3333315
+      ]
+    },
+    {
+      "reference_id": "58373",
+      "genre": "article",
+      "title": "Notes on New Zealand fishes",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "42",
+      "spage": "384",
+      "epage": "391",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1778777",
+      "PageID": "3332965",
+      "created": "2010-11-20 20:52:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10308",
+          "lastname": "Waite",
+          "forename": "E R"
+        }
+      ],
+      "bhl_pages": [
+        3332965,
+        3332954,
+        3333316,
+        3332972,
+        3332973,
+        3333226,
+        3332974,
+        3332975
+      ]
+    },
+    {
+      "reference_id": "65170",
+      "genre": "article",
+      "title": "Summaries of some papers relating to the New Zealand insect fauna, published outside the dominion (1907-1909), with some new names",
+      "secondary_title": "Transactions And Proceedings of The New Zealand Institute",
+      "volume": "42",
+      "spage": "129",
+      "epage": "131",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1778777",
+      "PageID": "3333445",
+      "created": "2011-01-31 16:31:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44809",
+          "lastname": "Kirkaldy",
+          "forename": "George Willis"
+        }
+      ],
+      "bhl_pages": [
+        3333445,
+        3333537,
+        3333465
+      ]
+    }
+  ]
+}

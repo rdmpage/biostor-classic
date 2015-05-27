@@ -1,0 +1,64 @@
+{
+  "ItemID": "46848",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.72 no.4 1992",
+  "articles": [
+    {
+      "reference_id": "62635",
+      "genre": "article",
+      "title": "A new species of Brachythecium from Latin America (Brachytheciaceae, Musci)",
+      "secondary_title": "Phytologia",
+      "volume": "72",
+      "spage": "253",
+      "epage": "255",
+      "year": "1992",
+      "date": "1992-00-00",
+      "issn": "0031-9430",
+      "PageID": "12986215",
+      "created": "2011-01-26 21:18:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43552",
+          "lastname": "Mcfarland",
+          "forename": "K D"
+        }
+      ],
+      "bhl_pages": [
+        12986215,
+        12986216,
+        12986217
+      ]
+    },
+    {
+      "reference_id": "62636",
+      "genre": "article",
+      "title": "Typification of Brachythecium salebrosum var. polyoicum and nomenclatural changes of two taxa in the Brachytheciaceae (Musci) from Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "72",
+      "spage": "256",
+      "epage": "259",
+      "year": "1992",
+      "date": "1992-00-00",
+      "issn": "0031-9430",
+      "PageID": "12986218",
+      "created": "2011-01-26 21:18:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43552",
+          "lastname": "Mcfarland",
+          "forename": "K D"
+        }
+      ],
+      "bhl_pages": [
+        12986218,
+        12986219,
+        12986220,
+        12986221
+      ]
+    }
+  ]
+}

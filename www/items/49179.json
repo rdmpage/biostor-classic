@@ -1,0 +1,93 @@
+{
+  "ItemID": "49179",
+  "FullTitle": "Proceedings of the Royal Society of Queensland.",
+  "VolumeInfo": "v.2-3 1885-1887",
+  "articles": [
+    {
+      "reference_id": "59878",
+      "genre": "article",
+      "title": "On a lizard and three species of Salarias, &c",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "2",
+      "spage": "56",
+      "epage": "60",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0080-469X",
+      "PageID": "13860519",
+      "created": "2010-11-22 16:39:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10304",
+          "lastname": "De Vis",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13860519,
+        13860520,
+        13860521,
+        13860522,
+        13860523
+      ]
+    },
+    {
+      "reference_id": "59852",
+      "genre": "article",
+      "title": "Notice of a fish apparently undescribed",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "2",
+      "spage": "144",
+      "epage": "145",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0080-469X",
+      "PageID": "13860617",
+      "created": "2010-11-22 16:20:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10304",
+          "lastname": "De Vis",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13860617,
+        13860618
+      ]
+    },
+    {
+      "reference_id": "59966",
+      "genre": "article",
+      "title": "Notice of a probable new species of Dendrolagus",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "3",
+      "spage": "11",
+      "epage": "14",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0080-469X",
+      "PageID": "13860734",
+      "created": "2010-11-22 17:19:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10304",
+          "lastname": "De Vis",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13860734,
+        13860735,
+        13860736,
+        13860737
+      ]
+    }
+  ]
+}

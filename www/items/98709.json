@@ -1,0 +1,40 @@
+{
+  "ItemID": "98709",
+  "FullTitle": "The Journal of the Linnean Society of London. Zoology.",
+  "VolumeInfo": "v. 27 1899\/1900",
+  "articles": [
+    {
+      "reference_id": "72591",
+      "genre": "article",
+      "title": "On some spiders from Chili and Peru collected by Dr. Plate of Berlin",
+      "secondary_title": "Jour. Linn. Soc. London",
+      "volume": "27",
+      "spage": "15",
+      "epage": "22",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0368-2935",
+      "PageID": "31649123",
+      "created": "2011-06-04 02:36:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42015",
+          "lastname": "Cambridge",
+          "forename": "F O P-"
+        }
+      ],
+      "bhl_pages": [
+        31649123,
+        31649122,
+        31649121,
+        31649120,
+        31649119,
+        31649118,
+        31649085,
+        31649086
+      ]
+    }
+  ]
+}

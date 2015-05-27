@@ -1,0 +1,105 @@
+{
+  "ItemID": "42369",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 40-42 1919-21",
+  "articles": [
+    {
+      "reference_id": "59105",
+      "genre": "article",
+      "title": "Preliminary description of a new family and three new genera of Mallophaga",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "40",
+      "spage": "93",
+      "epage": "96",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-886X",
+      "PageID": "11413449",
+      "created": "2010-11-20 23:53:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42316",
+          "lastname": "Mj\u00f6berg",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11413449,
+        11413450,
+        11413451,
+        11413452
+      ]
+    },
+    {
+      "reference_id": "71078",
+      "genre": "article",
+      "title": "Eine neue Papilio-Art",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "40",
+      "spage": "177",
+      "epage": "178",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-886X",
+      "PageID": "11413533",
+      "created": "2011-06-03 17:39:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39440",
+          "lastname": "Aurivillius",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11413533,
+        11413534
+      ]
+    },
+    {
+      "reference_id": "73507",
+      "genre": "article",
+      "title": "Neue skandinavische Dipteren",
+      "secondary_title": "Ent. Tidskr",
+      "volume": "41",
+      "spage": "24",
+      "epage": "40",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0013-886X",
+      "PageID": "11413580",
+      "created": "2011-06-04 08:51:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47206",
+          "lastname": "Ringdahl",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        11413580,
+        11413581,
+        11413582,
+        11413583,
+        11413584,
+        11413585,
+        11413586,
+        11413587,
+        11413588,
+        11413589,
+        11413590,
+        11413591,
+        11413592,
+        11413593,
+        11413594,
+        11413595,
+        11413596
+      ]
+    }
+  ]
+}

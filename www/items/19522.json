@@ -1,0 +1,41 @@
+{
+  "ItemID": "19522",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 8 (1856)",
+  "articles": [
+    {
+      "reference_id": "71541",
+      "genre": "article",
+      "title": "Note sur les reptiles du Gabon",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e, Paris",
+      "volume": "8",
+      "series": "2",
+      "spage": "369",
+      "epage": "377",
+      "year": "1856",
+      "date": "1856-00-00",
+      "PageID": "2303104",
+      "created": "2011-06-03 20:21:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42953",
+          "lastname": "Dum\u00e9ril",
+          "forename": "A H A"
+        }
+      ],
+      "bhl_pages": [
+        2303104,
+        2303103,
+        2303102,
+        2303101,
+        2303100,
+        2303099,
+        2303098,
+        2303097,
+        2303096
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "ItemID": "72307",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 8 (1851)",
+  "articles": [
+    {
+      "reference_id": "89728",
+      "genre": "article",
+      "title": "Terebella medusa",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "series": "2",
+      "spage": "237",
+      "epage": "239",
+      "year": "1851",
+      "date": "1851-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486109496216",
+      "PageID": "22250453",
+      "created": "2011-09-27 13:17:36",
+      "updated": "2011-09-27 13:17:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40334",
+          "lastname": "Bate",
+          "forename": "C Spence"
+        }
+      ],
+      "bhl_pages": [
+        22250453,
+        22250454,
+        22250455
+      ]
+    },
+    {
+      "reference_id": "88275",
+      "genre": "article",
+      "title": "On the development of sponges (Spongilla fluviatilis)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "series": "6",
+      "spage": "331",
+      "epage": "333",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939109460448",
+      "PageID": "22250547",
+      "created": "2011-09-23 13:02:36",
+      "updated": "2011-09-23 13:02:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51623",
+          "lastname": "Delage",
+          "forename": "M Yves"
+        }
+      ],
+      "bhl_pages": [
+        22250547,
+        22250548,
+        22250549
+      ]
+    },
+    {
+      "reference_id": "90687",
+      "genre": "article",
+      "title": "Zoological Society",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "series": "3",
+      "spage": "494",
+      "epage": "503",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936108697454",
+      "PageID": "22250710",
+      "created": "2011-09-28 14:04:25",
+      "updated": "2011-09-28 14:04:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22250710,
+        22250711,
+        22250712,
+        22250713,
+        22250714,
+        22250715,
+        22250716,
+        22250717,
+        22250718,
+        22250719
+      ]
+    }
+  ]
+}

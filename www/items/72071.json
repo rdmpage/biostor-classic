@@ -1,0 +1,72 @@
+{
+  "ItemID": "72071",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "v. 3 (1839)",
+  "articles": [
+    {
+      "reference_id": "67214",
+      "genre": "article",
+      "title": "On an apparently undescribed species of Lepadogaster; and on the Gobius minutus of M\u00fcller, and Cyclopterus minutus Pallas? considered as the young of Cycl. lumpus Linn",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "3",
+      "spage": "34",
+      "epage": "45",
+      "year": "1839",
+      "date": "1839-00-00",
+      "issn": "0374-5481",
+      "PageID": "22160003",
+      "created": "2011-05-20 14:25:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45478",
+          "lastname": "Thompson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        22160003,
+        22160004,
+        22160005,
+        22160006,
+        22160007,
+        22160008,
+        22160009,
+        22160029,
+        22160030,
+        22160031,
+        22160032,
+        22160033
+      ]
+    },
+    {
+      "reference_id": "94110",
+      "genre": "article",
+      "title": "XII.\u2014Some Observations on the Digestive Apparatus of Infusoria",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "3",
+      "spage": "100",
+      "epage": "105",
+      "year": "1839",
+      "date": "1839-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745483909443204",
+      "PageID": "22160088",
+      "created": "2011-09-30 13:12:22",
+      "updated": "2011-09-30 13:12:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22160088,
+        22160089,
+        22160090,
+        22160091,
+        22160092,
+        22160093
+      ]
+    }
+  ]
+}

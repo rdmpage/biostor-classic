@@ -1,0 +1,67 @@
+{
+  "ItemID": "34012",
+  "FullTitle": "Journal of the New York Entomological Society.",
+  "VolumeInfo": "v. 24 1916",
+  "articles": [
+    {
+      "reference_id": "53253",
+      "genre": "article",
+      "title": "New limnophiline crane-flies from the United States and Canada (Tipulidae, Diptera)",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "24",
+      "spage": "118",
+      "epage": "125",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0028-7199",
+      "PageID": "8184617",
+      "created": "2010-10-26 17:27:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        8184617,
+        8184618,
+        8184619,
+        8184620,
+        8184621,
+        8184622,
+        8184623,
+        8184624
+      ]
+    },
+    {
+      "reference_id": "71728",
+      "genre": "article",
+      "title": "A remarkable new genus of Encyrtidae from the West Indies, bearing two ring-joints",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "24",
+      "spage": "232",
+      "epage": "233",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0028-7199",
+      "PageID": "8184741",
+      "created": "2011-06-03 22:57:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        8184741,
+        8184742
+      ]
+    }
+  ]
+}

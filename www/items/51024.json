@@ -1,0 +1,137 @@
+{
+  "ItemID": "51024",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v.25 (1918)",
+  "articles": [
+    {
+      "reference_id": "73554",
+      "genre": "article",
+      "title": "Notes on Diptera",
+      "secondary_title": "Psyche",
+      "volume": "25",
+      "spage": "30",
+      "epage": "35",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0033-2615",
+      "PageID": "14700301",
+      "created": "2011-06-04 09:18:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8951",
+          "lastname": "Aldrich",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        14700301,
+        14700302,
+        14700303,
+        14700304,
+        14700305,
+        14700306
+      ]
+    },
+    {
+      "reference_id": "65067",
+      "genre": "article",
+      "title": "Lipeurus dovei nom. nov",
+      "secondary_title": "Psyche",
+      "volume": "25",
+      "spage": "46",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0033-2615",
+      "PageID": "14700321",
+      "created": "2011-01-31 13:44:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44760",
+          "lastname": "Mcgregor",
+          "forename": "Ernest Alexander"
+        }
+      ],
+      "bhl_pages": [
+        14700321
+      ]
+    },
+    {
+      "reference_id": "59023",
+      "genre": "article",
+      "title": "Synoptic keys to the Lygaeidae (Hemiptera) of the United States. Pt. II",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "25",
+      "spage": "71",
+      "epage": "88",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0033-2615",
+      "PageID": "14700350",
+      "created": "2010-11-20 23:30:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42474",
+          "lastname": "Barber",
+          "forename": "H G"
+        }
+      ],
+      "bhl_pages": [
+        14700350,
+        14700351,
+        14700352,
+        14700353,
+        14700354,
+        14700355,
+        14700356,
+        14700357,
+        14700358,
+        14700359,
+        14700360,
+        14700361,
+        14700362,
+        14700363,
+        14700364,
+        14700365,
+        14700366,
+        14700367
+      ]
+    },
+    {
+      "reference_id": "71889",
+      "genre": "article",
+      "title": "Another Toxoptera feeding on sedge (Homoptera: Aphididae)",
+      "secondary_title": "Psyche",
+      "volume": "25",
+      "spage": "88",
+      "epage": "93",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0033-2615",
+      "PageID": "14700367",
+      "created": "2011-06-03 23:30:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42040",
+          "lastname": "Baker",
+          "forename": "A C"
+        }
+      ],
+      "bhl_pages": [
+        14700367,
+        14700368,
+        14700369,
+        14700370,
+        14700371,
+        14700372
+      ]
+    }
+  ]
+}

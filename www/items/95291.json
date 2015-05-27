@@ -1,0 +1,774 @@
+{
+  "ItemID": "95291",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 39 1912",
+  "articles": [
+    {
+      "reference_id": "65112",
+      "genre": "article",
+      "title": "Diagnosen neuer Anoplura. Nachtrag",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "54",
+      "epage": "56",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143169",
+      "created": "2011-01-31 14:19:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44734",
+          "lastname": "Fahrenholz",
+          "forename": "Heinrich"
+        }
+      ],
+      "bhl_pages": [
+        30143169,
+        30143170,
+        30143171
+      ]
+    },
+    {
+      "reference_id": "84939",
+      "genre": "article",
+      "title": "Cyclosalpa polae n. sp. aus dem ostlichen Mittelmeere",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "66",
+      "epage": "74",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143219",
+      "created": "2011-08-11 14:40:13",
+      "updated": "2011-08-11 14:40:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143219,
+        30143220,
+        30143221,
+        30143222,
+        30143223,
+        30143224,
+        30143225,
+        30143226,
+        30143227
+      ]
+    },
+    {
+      "reference_id": "84957",
+      "genre": "article",
+      "title": "Due nuove specie di Copepodi",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "97",
+      "epage": "111",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143250",
+      "created": "2011-08-11 14:45:06",
+      "updated": "2011-08-11 14:45:06",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143250,
+        30143251,
+        30143252,
+        30143253,
+        30143254,
+        30143255,
+        30143256,
+        30143257,
+        30143258,
+        30143259,
+        30143260,
+        30143261,
+        30143262,
+        30143263,
+        30143264
+      ]
+    },
+    {
+      "reference_id": "58500",
+      "genre": "article",
+      "title": "On some new Gobiidae from Ceram and Waigen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "136",
+      "epage": "143",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143289",
+      "created": "2010-11-20 21:29:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42359",
+          "lastname": "De Beaufort",
+          "forename": "L F"
+        }
+      ],
+      "bhl_pages": [
+        30143289,
+        30143290,
+        30143291,
+        30143292,
+        30143293,
+        30143294,
+        30143295,
+        30143296
+      ]
+    },
+    {
+      "reference_id": "58542",
+      "genre": "article",
+      "title": "Neue Termiten aus der zoologischen Staatssammlung in M\u00fcnchen sowie einigen anderen Sammlungen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "221",
+      "epage": "232",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143374",
+      "created": "2010-11-20 21:41:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42371",
+          "lastname": "Rosen",
+          "forename": "K V"
+        }
+      ],
+      "bhl_pages": [
+        30143374,
+        30143375,
+        30143376,
+        30143377,
+        30143378,
+        30143379,
+        30143380,
+        30143381,
+        30143382,
+        30143383,
+        30143384,
+        30143385
+      ]
+    },
+    {
+      "reference_id": "69968",
+      "genre": "article",
+      "title": "Teuthologische Notizen. 1. Die familien der Myopsiden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "241",
+      "epage": "244",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143394",
+      "created": "2011-06-02 08:19:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42369",
+          "lastname": "Naef",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30143394,
+        30143395,
+        30143396,
+        30143397
+      ]
+    },
+    {
+      "reference_id": "69969",
+      "genre": "article",
+      "title": "Teuthologische Notizen. 2. Die Gattungen der Sepioliden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "244",
+      "epage": "248",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143397",
+      "created": "2011-06-02 08:19:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42369",
+          "lastname": "Naef",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30143397,
+        30143398,
+        30143399,
+        30143400,
+        30143401
+      ]
+    },
+    {
+      "reference_id": "85031",
+      "genre": "article",
+      "title": "Notes on new Sporozoan parasites of fishes",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "259",
+      "epage": "262",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143412",
+      "created": "2011-08-11 15:00:52",
+      "updated": "2011-08-11 15:00:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143412,
+        30143413,
+        30143414,
+        30143415
+      ]
+    },
+    {
+      "reference_id": "69970",
+      "genre": "article",
+      "title": "Teuthologische Notizen. 3. Die Arten du Gattungen Sepiola und Sepietta",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "262",
+      "epage": "271",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143415",
+      "created": "2011-06-02 08:19:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42369",
+          "lastname": "Naef",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30143415,
+        30143416,
+        30143417,
+        30143418,
+        30143419,
+        30143420,
+        30143421,
+        30143422,
+        30143423,
+        30143424
+      ]
+    },
+    {
+      "reference_id": "85011",
+      "genre": "article",
+      "title": "Neue Cumaceen aus dem Kaspischen Meere",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "273",
+      "epage": "284",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143426",
+      "created": "2011-08-11 14:56:35",
+      "updated": "2011-08-11 14:56:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143426,
+        30143427,
+        30143428,
+        30143429,
+        30143430,
+        30143431,
+        30143432,
+        30143433,
+        30143434,
+        30143435,
+        30143436,
+        30143437
+      ]
+    },
+    {
+      "reference_id": "85065",
+      "genre": "article",
+      "title": "Uber die Copula von Sepiola atlantica D'Orb",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "284",
+      "epage": "290",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143437",
+      "created": "2011-08-11 15:12:03",
+      "updated": "2011-08-11 15:12:03",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143437,
+        30143438,
+        30143439,
+        30143440,
+        30143441,
+        30143442,
+        30143443
+      ]
+    },
+    {
+      "reference_id": "84961",
+      "genre": "article",
+      "title": "Ein neuer Amphipode von den Balearen, Porrassia mallorquensis n. gen. n. sp",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "296",
+      "epage": "298",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143449",
+      "created": "2011-08-11 14:45:57",
+      "updated": "2011-08-11 14:45:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143449,
+        30143450,
+        30143451
+      ]
+    },
+    {
+      "reference_id": "84934",
+      "genre": "article",
+      "title": "Caspionema pallasi, eine Meduse des Kaspischen Meeres",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "390",
+      "epage": "396",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143543",
+      "created": "2011-08-11 14:39:07",
+      "updated": "2011-08-11 14:39:07",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143543,
+        30143544,
+        30143545,
+        30143546,
+        30143547,
+        30143548,
+        30143549
+      ]
+    },
+    {
+      "reference_id": "69949",
+      "genre": "article",
+      "title": "Adenomeris und Gervaisia. (\u00dcber Diplopoden, 52. Aufsatz)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "396",
+      "epage": "407",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143549",
+      "created": "2011-06-02 07:58:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46426",
+          "lastname": "Verhoeff",
+          "forename": "Karl Wilhelm"
+        }
+      ],
+      "bhl_pages": [
+        30143549,
+        30143550,
+        30143551,
+        30143552,
+        30143553,
+        30143554,
+        30143555,
+        30143556,
+        30143557,
+        30143558,
+        30143559,
+        30143560
+      ]
+    },
+    {
+      "reference_id": "84964",
+      "genre": "article",
+      "title": "Ein neuer Copepode aus dem Rhatikon",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "513",
+      "epage": "515",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143666",
+      "created": "2011-08-11 14:46:20",
+      "updated": "2011-08-11 14:46:20",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143666,
+        30143667,
+        30143668
+      ]
+    },
+    {
+      "reference_id": "85022",
+      "genre": "article",
+      "title": "Neue Nemertinen der schwedischen Westkuste",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "520",
+      "epage": "523",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143673",
+      "created": "2011-08-11 14:58:40",
+      "updated": "2011-08-11 14:58:40",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143673,
+        30143674,
+        30143675,
+        30143676
+      ]
+    },
+    {
+      "reference_id": "102294",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der S\u00fc\u00dfwassermikrofauna Ostafrikas",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "536",
+      "epage": "550",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143689",
+      "created": "2012-04-02 21:21:00",
+      "updated": "2012-04-02 21:21:01",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143689,
+        30143690,
+        30143691,
+        30143692,
+        30143693,
+        30143694,
+        30143695,
+        30143696,
+        30143697,
+        30143698,
+        30143699,
+        30143700,
+        30143701,
+        30143702,
+        30143703
+      ]
+    },
+    {
+      "reference_id": "85006",
+      "genre": "article",
+      "title": "Nachtrag zu. unserer Mitteilung: Die Hydromedusen des Golfes von Triest",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "556",
+      "epage": "557",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143709",
+      "created": "2011-08-11 14:55:39",
+      "updated": "2011-08-11 14:55:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143709,
+        30143710
+      ]
+    },
+    {
+      "reference_id": "84940",
+      "genre": "article",
+      "title": "Cypris nusbaumi nov. spec., eine neue Ostracodenart aus einer Schwefelquelle",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "585",
+      "epage": "589",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143738",
+      "created": "2011-08-11 14:40:22",
+      "updated": "2011-08-11 14:40:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143738,
+        30143739,
+        30143740,
+        30143741,
+        30143742
+      ]
+    },
+    {
+      "reference_id": "67156",
+      "genre": "article",
+      "title": "\u00dcber einige neue Selachier-Formen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "643",
+      "epage": "648",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143800",
+      "created": "2011-05-19 08:57:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45472",
+          "lastname": "Engelhardt",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        30143800,
+        30143801,
+        30143802,
+        30143803,
+        30143804,
+        30143805
+      ]
+    },
+    {
+      "reference_id": "85093",
+      "genre": "article",
+      "title": "Xylophageuma zschokkei n. sp. und einige neue Craspedosomiden",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "693",
+      "epage": "698",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143850",
+      "created": "2011-08-11 15:18:24",
+      "updated": "2011-08-11 15:18:24",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143850,
+        30143851,
+        30143852,
+        30143853,
+        30143854,
+        30143855
+      ]
+    },
+    {
+      "reference_id": "84972",
+      "genre": "article",
+      "title": "Ein zweites Cyclopidengenus im sussen Wasser",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "725",
+      "epage": "727",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143882",
+      "created": "2011-08-11 14:47:35",
+      "updated": "2011-08-11 14:47:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143882,
+        30143883,
+        30143884
+      ]
+    },
+    {
+      "reference_id": "84936",
+      "genre": "article",
+      "title": "Chonocephalus fletcheri nov. sp. Phoridarum",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "727",
+      "epage": "729",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143884",
+      "created": "2011-08-11 14:39:29",
+      "updated": "2011-08-11 14:39:29",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143884,
+        30143885,
+        30143886
+      ]
+    },
+    {
+      "reference_id": "84983",
+      "genre": "article",
+      "title": "Eine neue Species des Genus Corophium Latr. aus dem Muggelsee bei Berlin",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "729",
+      "epage": "738",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143886",
+      "created": "2011-08-11 14:49:50",
+      "updated": "2011-08-11 14:49:50",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143886,
+        30143887,
+        30143888,
+        30143889,
+        30143890,
+        30143891,
+        30143892,
+        30143893,
+        30143894,
+        30143895
+      ]
+    },
+    {
+      "reference_id": "58532",
+      "genre": "article",
+      "title": "Teuthologische Notizen, 4. Die gattungen der Loliginidae",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "39",
+      "spage": "741",
+      "epage": "749",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143898",
+      "created": "2010-11-20 21:39:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42369",
+          "lastname": "Naef",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30143898,
+        30143899,
+        30143900,
+        30143901,
+        30143902,
+        30143903,
+        30143904,
+        30143905,
+        30143906
+      ]
+    },
+    {
+      "reference_id": "84935",
+      "genre": "article",
+      "title": "Cestoden aus Hyrax",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "39",
+      "spage": "751",
+      "epage": "758",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0044-5231",
+      "PageID": "30143908",
+      "created": "2011-08-11 14:39:18",
+      "updated": "2011-08-11 14:39:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30143908,
+        30143909,
+        30143910,
+        30143911,
+        30143912,
+        30143913,
+        30143914,
+        30143915
+      ]
+    }
+  ]
+}

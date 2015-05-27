@@ -1,0 +1,48 @@
+{
+  "ItemID": "36381",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 30 (1917-1918)",
+  "articles": [
+    {
+      "reference_id": "58976",
+      "genre": "article",
+      "title": "Additions to and alterations in the Catalogue of Marine Shells of Victoria",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "30",
+      "spage": "21",
+      "epage": "31",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0035-9211",
+      "PageID": "9202043",
+      "created": "2010-11-20 23:21:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42096",
+          "lastname": "Gatliff",
+          "forename": "J H"
+        },
+        {
+          "id": "42305",
+          "lastname": "Gabriel",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        9202043,
+        9202044,
+        9202045,
+        9202046,
+        9202047,
+        9202048,
+        9202049,
+        9202050,
+        9202051,
+        9202052,
+        9202053
+      ]
+    }
+  ]
+}

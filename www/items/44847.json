@@ -1,0 +1,68 @@
+{
+  "ItemID": "44847",
+  "FullTitle": "The journal of the Natural History Society of Siam.",
+  "VolumeInfo": "v.1 1914-1916",
+  "articles": [
+    {
+      "reference_id": "103278",
+      "genre": "article",
+      "title": "A new species of bat from Siam (Hipposideros lylei)",
+      "secondary_title": "The journal of the Natural History Society of Siam",
+      "volume": "1",
+      "spage": "49",
+      "epage": "50",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "8168411",
+      "PageID": "12358668",
+      "created": "2012-05-18 10:16:53",
+      "updated": "2012-05-18 10:18:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        12358668,
+        12358669
+      ]
+    },
+    {
+      "reference_id": "49146",
+      "genre": "article",
+      "title": "Descriptions of new reptiles from Siam",
+      "secondary_title": "J. Nat. Hist. Soc. Siam",
+      "volume": "1",
+      "spage": "67",
+      "epage": "76",
+      "year": "1914",
+      "date": "1914-00-00",
+      "PageID": "12358690",
+      "created": "2010-03-21 11:40:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        12358690,
+        12358691,
+        12358692,
+        12358693,
+        12358694,
+        12358695,
+        12358696,
+        12358697,
+        12358698,
+        12358699
+      ]
+    }
+  ]
+}

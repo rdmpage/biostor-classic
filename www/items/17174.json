@@ -1,0 +1,1606 @@
+{
+  "ItemID": "17174",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 204 (2003)",
+  "articles": [
+    {
+      "reference_id": "11139",
+      "genre": "article",
+      "title": "Iron-Dependent Hydrogenases of Entamoeba histolytica and Giardia lamblia: Activity of the Recombinant Entamoebic Enzyme and Evidence for Lateral Gene Transfer",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "1",
+      "epage": "9",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543490",
+      "PageID": "1495822",
+      "created": "2010-01-07 01:55:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8280",
+          "lastname": "Nixon",
+          "forename": "Julie E J"
+        },
+        {
+          "id": "8281",
+          "lastname": "Field",
+          "forename": "Jessica"
+        },
+        {
+          "id": "8282",
+          "lastname": "Mcarthur",
+          "forename": "Andrew G"
+        },
+        {
+          "id": "8283",
+          "lastname": "Sogin",
+          "forename": "Mitchell L"
+        },
+        {
+          "id": "8284",
+          "lastname": "Yarlett",
+          "forename": "Nigel"
+        },
+        {
+          "id": "8285",
+          "lastname": "Loftus",
+          "forename": "Brendan J"
+        },
+        {
+          "id": "8286",
+          "lastname": "Samuelson",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        1495822,
+        1495823,
+        1495824,
+        1495825,
+        1495826,
+        1495827,
+        1495828,
+        1495829,
+        1495830
+      ]
+    },
+    {
+      "reference_id": "11140",
+      "genre": "article",
+      "title": "Molecular Genetic Evidence that Dinoflagellates Belonging to the Genus Symbiodinium Freudenthal Are Haploid",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "10",
+      "epage": "20",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543491",
+      "PageID": "1495831",
+      "created": "2010-01-07 01:55:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8056",
+          "lastname": "Santos",
+          "forename": "Scott R"
+        },
+        {
+          "id": "8057",
+          "lastname": "Coffroth",
+          "forename": "Mary Alice"
+        }
+      ],
+      "bhl_pages": [
+        1495831,
+        1495832,
+        1495833,
+        1495834,
+        1495835,
+        1495836,
+        1495837,
+        1495838,
+        1495839,
+        1495840,
+        1495841
+      ]
+    },
+    {
+      "reference_id": "11141",
+      "genre": "article",
+      "title": "Amebocyte Production Begins at Stage 18 During Embryogenesis in Limulus polyphemus, the American Horseshoe Crab",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "21",
+      "epage": "27",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543492",
+      "PageID": "1495842",
+      "created": "2010-01-07 01:55:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8287",
+          "lastname": "Coursey",
+          "forename": "Yvonne"
+        },
+        {
+          "id": "8288",
+          "lastname": "Ahmad",
+          "forename": "Nina"
+        },
+        {
+          "id": "8289",
+          "lastname": "Mcgee",
+          "forename": "Barbara M"
+        },
+        {
+          "id": "8290",
+          "lastname": "Steimel",
+          "forename": "Nancy"
+        },
+        {
+          "id": "8291",
+          "lastname": "Kimble",
+          "forename": "Mary"
+        }
+      ],
+      "bhl_pages": [
+        1495842,
+        1495843,
+        1495844,
+        1495845,
+        1495846,
+        1495847,
+        1495848
+      ]
+    },
+    {
+      "reference_id": "11142",
+      "genre": "article",
+      "title": "High-Speed Video Analysis of the Escape Responses of the Copepod Acartia tonsa to Shadows",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "28",
+      "epage": "37",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "PageID": "1495849",
+      "created": "2010-01-07 02:05:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "6245",
+          "lastname": "Buskey",
+          "forename": "Edward J"
+        },
+        {
+          "id": "8292",
+          "lastname": "Hartline",
+          "forename": "Daniel K"
+        }
+      ],
+      "bhl_pages": [
+        1495849,
+        1495850,
+        1495851,
+        1495852,
+        1495853,
+        1495854,
+        1495855,
+        1495856,
+        1495857,
+        1495858
+      ]
+    },
+    {
+      "reference_id": "11143",
+      "genre": "article",
+      "title": "Behavioral Thermoregulation in Hemigrapsus nudus, the Amphibious Purple Shore Crab",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "38",
+      "epage": "49",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "PageID": "1495859",
+      "created": "2010-01-07 02:16:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "7456",
+          "lastname": "Mcgaw",
+          "forename": "I J"
+        }
+      ],
+      "bhl_pages": [
+        1495859,
+        1495860,
+        1495861,
+        1495862,
+        1495863,
+        1495864,
+        1495865,
+        1495866,
+        1495867,
+        1495868,
+        1495869,
+        1495870
+      ]
+    },
+    {
+      "reference_id": "11144",
+      "genre": "article",
+      "title": "Synthesis of a High-Density Lipoprotein in the Developing Blue Crab (Callinectes sapidus)",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "50",
+      "epage": "56",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543495",
+      "PageID": "1495871",
+      "created": "2010-01-07 02:16:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8293",
+          "lastname": "Walker",
+          "forename": "Anna"
+        },
+        {
+          "id": "8294",
+          "lastname": "Ando",
+          "forename": "Seichi"
+        },
+        {
+          "id": "5601",
+          "lastname": "Lee",
+          "forename": "Richard F"
+        }
+      ],
+      "bhl_pages": [
+        1495871,
+        1495872,
+        1495873,
+        1495874,
+        1495875,
+        1495876,
+        1495877
+      ]
+    },
+    {
+      "reference_id": "11145",
+      "genre": "article",
+      "title": "Reproductive Biology of Hemiramphus brasiliensis and H. balao (Hemiramphidae): Maturation, Spawning Frequency, and Fecundity",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "57",
+      "epage": "67",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543496",
+      "PageID": "1495878",
+      "created": "2010-01-07 02:16:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8295",
+          "lastname": "Mcbride",
+          "forename": "Richard S"
+        },
+        {
+          "id": "8296",
+          "lastname": "Thurman",
+          "forename": "Paul E"
+        }
+      ],
+      "bhl_pages": [
+        1495878,
+        1495879,
+        1495880,
+        1495881,
+        1495882,
+        1495883,
+        1495884,
+        1495885,
+        1495886,
+        1495887,
+        1495888
+      ]
+    },
+    {
+      "reference_id": "11146",
+      "genre": "article",
+      "title": "Collection and Culture Techniques for Gelatinous Zooplankton",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "68",
+      "epage": "80",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543497",
+      "PageID": "1495889",
+      "created": "2010-01-07 02:16:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8297",
+          "lastname": "Raskoff",
+          "forename": "Kevin A"
+        },
+        {
+          "id": "8298",
+          "lastname": "Sommer",
+          "forename": "Freya A"
+        },
+        {
+          "id": "8299",
+          "lastname": "Hamner",
+          "forename": "William M"
+        },
+        {
+          "id": "8300",
+          "lastname": "Cross",
+          "forename": "Katrina M"
+        }
+      ],
+      "bhl_pages": [
+        1495889,
+        1495890,
+        1495891,
+        1495892,
+        1495893,
+        1495894,
+        1495895,
+        1495896,
+        1495897,
+        1495898,
+        1495899,
+        1495900,
+        1495901
+      ]
+    },
+    {
+      "reference_id": "11147",
+      "genre": "article",
+      "title": "Branchial Musculature of a Venerid Clam: Pharmacology, Distribution, and Innervation",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "81",
+      "epage": "95",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543498",
+      "PageID": "1495902",
+      "created": "2010-01-07 02:16:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "5542",
+          "lastname": "Gainey",
+          "forename": "Louis F"
+        },
+        {
+          "id": "8301",
+          "lastname": "Walton",
+          "forename": "James C"
+        },
+        {
+          "id": "5246",
+          "lastname": "Greenberg",
+          "forename": "Michael J"
+        }
+      ],
+      "bhl_pages": [
+        1495902,
+        1495903,
+        1495904,
+        1495905,
+        1495906,
+        1495907,
+        1495908,
+        1495909,
+        1495910,
+        1495911,
+        1495912,
+        1495913,
+        1495914,
+        1495915,
+        1495916
+      ]
+    },
+    {
+      "reference_id": "11148",
+      "genre": "article",
+      "title": "Salinity Tolerance of Larval Rapana venosa: Implications for Dispersal and Establishment of an Invading Predatory Gastropod on the North American Atlantic Coast",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "96",
+      "epage": "103",
+      "year": "2003",
+      "date": "2003-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543499",
+      "PageID": "1495917",
+      "created": "2010-01-07 02:16:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "6099",
+          "lastname": "Mann",
+          "forename": "Roger"
+        },
+        {
+          "id": "8302",
+          "lastname": "Harding",
+          "forename": "Juliana M"
+        }
+      ],
+      "bhl_pages": [
+        1495917,
+        1495918,
+        1495919,
+        1495920,
+        1495921,
+        1495922,
+        1495923,
+        1495924
+      ]
+    },
+    {
+      "reference_id": "11149",
+      "genre": "article",
+      "title": "Ultraviolet-Light-Absorbing Tunic Cells in Didemnid Ascidians Hosting a Symbiotic Photo-oxygenic Prokaryote, Prochloron",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "109",
+      "epage": "113",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543546",
+      "PageID": "1495946",
+      "created": "2010-01-07 02:17:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8204",
+          "lastname": "Maruyama",
+          "forename": "Tadashi"
+        },
+        {
+          "id": "6600",
+          "lastname": "Hirose",
+          "forename": "Euichi"
+        },
+        {
+          "id": "8303",
+          "lastname": "Ishikura",
+          "forename": "Masaharu"
+        }
+      ],
+      "bhl_pages": [
+        1495946,
+        1495947,
+        1495948,
+        1495949,
+        1495950
+      ]
+    },
+    {
+      "reference_id": "11150",
+      "genre": "article",
+      "title": "Transcription and Translation Inhibitors Permit Metamorphosis up to Radiole Formation in the Serpulid Polychaete Hydroides elegans Haswell",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "114",
+      "epage": "125",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543547",
+      "PageID": "1495951",
+      "created": "2010-01-07 02:17:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8304",
+          "lastname": "Carpizo-Ituarte",
+          "forename": "Eugenio"
+        },
+        {
+          "id": "6344",
+          "lastname": "Hadfield",
+          "forename": "Michael G"
+        }
+      ],
+      "bhl_pages": [
+        1495951,
+        1495952,
+        1495953,
+        1495954,
+        1495955,
+        1495956,
+        1495957,
+        1495958,
+        1495959,
+        1495960,
+        1495961,
+        1495962
+      ]
+    },
+    {
+      "reference_id": "11151",
+      "genre": "article",
+      "title": "Role of Maxilla 2 and Its Setae During Feeding in the Shrimp Palaemon adspersus (Crustacea: Decapoda)",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "126",
+      "epage": "137",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543548",
+      "PageID": "1495963",
+      "created": "2010-01-07 02:17:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8105",
+          "lastname": "Garm",
+          "forename": "A"
+        },
+        {
+          "id": "8305",
+          "lastname": "Hallberg",
+          "forename": "E"
+        },
+        {
+          "id": "8106",
+          "lastname": "Hoeg",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        1495963,
+        1495964,
+        1495965,
+        1495966,
+        1495967,
+        1495968,
+        1495969,
+        1495970,
+        1495971,
+        1495972,
+        1495973,
+        1495974
+      ]
+    },
+    {
+      "reference_id": "11152",
+      "genre": "article",
+      "title": "Variation in Skeletal Microstructure of the Coral Galaxea fascicularis: Effects of an Aquarium Environment and Preparatory Techniques",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "138",
+      "epage": "145",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543549",
+      "PageID": "1495975",
+      "created": "2010-01-07 02:17:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8306",
+          "lastname": "Clode",
+          "forename": "Peta L"
+        },
+        {
+          "id": "8307",
+          "lastname": "Marshall",
+          "forename": "Alan T"
+        }
+      ],
+      "bhl_pages": [
+        1495975,
+        1495976,
+        1495977,
+        1495978,
+        1495979,
+        1495980,
+        1495981,
+        1495982
+      ]
+    },
+    {
+      "reference_id": "11153",
+      "genre": "article",
+      "title": "Skeletal Microstructure of Galaxea fascicularis Exsert Septa: A High-Resolution SEM Study",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "146",
+      "epage": "154",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543550",
+      "PageID": "1495983",
+      "created": "2010-01-07 02:17:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8306",
+          "lastname": "Clode",
+          "forename": "Peta L"
+        },
+        {
+          "id": "8307",
+          "lastname": "Marshall",
+          "forename": "Alan T"
+        }
+      ],
+      "bhl_pages": [
+        1495983,
+        1495984,
+        1495985,
+        1495986,
+        1495987,
+        1495988,
+        1495989,
+        1495990,
+        1495991
+      ]
+    },
+    {
+      "reference_id": "11154",
+      "genre": "article",
+      "title": "Biogeochemistry of Hypersaline Microbial Mats Illustrates the Dynamics of Modern Microbial Ecosystems and the Early Evolution of the Biosphere",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "160",
+      "epage": "167",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543552",
+      "PageID": "1495997",
+      "created": "2010-01-07 02:17:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8308",
+          "lastname": "Des Marais",
+          "forename": "David J"
+        }
+      ],
+      "bhl_pages": [
+        1495997,
+        1495998,
+        1495999,
+        1496000,
+        1496001,
+        1496002,
+        1496003,
+        1496004
+      ]
+    },
+    {
+      "reference_id": "11155",
+      "genre": "article",
+      "title": "Complexity in Natural Microbial Ecosystems: The Guerrero Negro Experience",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "168",
+      "epage": "173",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543553",
+      "PageID": "1496005",
+      "created": "2010-01-07 02:17:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8309",
+          "lastname": "Spear",
+          "forename": "John R"
+        },
+        {
+          "id": "8310",
+          "lastname": "Ley",
+          "forename": "Ruth E"
+        },
+        {
+          "id": "8311",
+          "lastname": "Berger",
+          "forename": "Alicia B"
+        },
+        {
+          "id": "8312",
+          "lastname": "Pace",
+          "forename": "Norman R"
+        }
+      ],
+      "bhl_pages": [
+        1496005,
+        1496006,
+        1496007,
+        1496008,
+        1496009,
+        1496010
+      ]
+    },
+    {
+      "reference_id": "11156",
+      "genre": "article",
+      "title": "Modeling Microbial Consortiums as Distributed Metabolic Networks",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "174",
+      "epage": "179",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543554",
+      "PageID": "1496011",
+      "created": "2010-01-07 02:17:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8313",
+          "lastname": "Vallino",
+          "forename": "Joseph J"
+        }
+      ],
+      "bhl_pages": [
+        1496011,
+        1496012,
+        1496013,
+        1496014,
+        1496015,
+        1496016
+      ]
+    },
+    {
+      "reference_id": "11157",
+      "genre": "article",
+      "title": "Geomicrobiology of the Ocean Crust: A Role for Chemoautotrophic Fe-Bacteria",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "180",
+      "epage": "185",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543555",
+      "PageID": "1496017",
+      "created": "2010-01-07 02:17:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8314",
+          "lastname": "Edwards",
+          "forename": "Katrina J"
+        },
+        {
+          "id": "8315",
+          "lastname": "Bach",
+          "forename": "Wolfgang"
+        },
+        {
+          "id": "8316",
+          "lastname": "Rogers",
+          "forename": "Daniel R"
+        }
+      ],
+      "bhl_pages": [
+        1496017,
+        1496018,
+        1496019,
+        1496020,
+        1496021,
+        1496022
+      ]
+    },
+    {
+      "reference_id": "11158",
+      "genre": "article",
+      "title": "Genomic Markers of Ancient Anaerobic Microbial Pathways: Sulfate Reduction, Methanogenesis, and Methane Oxidation",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "186",
+      "epage": "191",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543556",
+      "PageID": "1496023",
+      "created": "2010-01-07 02:17:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8317",
+          "lastname": "Teske",
+          "forename": "Andreas"
+        },
+        {
+          "id": "8318",
+          "lastname": "Dhillon",
+          "forename": "Ashita"
+        },
+        {
+          "id": "8283",
+          "lastname": "Sogin",
+          "forename": "Mitchell L"
+        }
+      ],
+      "bhl_pages": [
+        1496023,
+        1496024,
+        1496025,
+        1496026,
+        1496027,
+        1496028
+      ]
+    },
+    {
+      "reference_id": "11159",
+      "genre": "article",
+      "title": "Viral Influence on Aquatic Bacterial Communities",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "192",
+      "epage": "195",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543557",
+      "PageID": "1496029",
+      "created": "2010-01-07 02:17:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8319",
+          "lastname": "Fuhrman",
+          "forename": "J A"
+        },
+        {
+          "id": "8320",
+          "lastname": "Schwalbach",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        1496029,
+        1496030,
+        1496031,
+        1496032
+      ]
+    },
+    {
+      "reference_id": "11160",
+      "genre": "article",
+      "title": "A (r)Ray of Hope in Analysis of the Function and Diversity of Microbial Communities",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "196",
+      "epage": "199",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543558",
+      "PageID": "1496033",
+      "created": "2010-01-07 02:17:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8321",
+          "lastname": "Polz",
+          "forename": "Martin F"
+        },
+        {
+          "id": "8322",
+          "lastname": "Bertilsson",
+          "forename": "Stefan"
+        },
+        {
+          "id": "8323",
+          "lastname": "Acinas",
+          "forename": "Silvia G"
+        },
+        {
+          "id": "8324",
+          "lastname": "Hunt",
+          "forename": "Dana"
+        }
+      ],
+      "bhl_pages": [
+        1496033,
+        1496034,
+        1496035,
+        1496036
+      ]
+    },
+    {
+      "reference_id": "11161",
+      "genre": "article",
+      "title": "Human Oral Cavity as a Model for the Study of Genome-Genome Interactions",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "200",
+      "epage": "204",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543559",
+      "PageID": "1496037",
+      "created": "2010-01-07 02:17:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8325",
+          "lastname": "Foster",
+          "forename": "Jamie S"
+        },
+        {
+          "id": "8326",
+          "lastname": "Palmer",
+          "forename": "Robert J"
+        },
+        {
+          "id": "8327",
+          "lastname": "Kolenbrander",
+          "forename": "Paul E"
+        }
+      ],
+      "bhl_pages": [
+        1496037,
+        1496038,
+        1496039,
+        1496040,
+        1496041
+      ]
+    },
+    {
+      "reference_id": "11162",
+      "genre": "article",
+      "title": "From Genes to Genomes: Beyond Biodiversity in Spain's Rio Tinto",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "205",
+      "epage": "209",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543560",
+      "PageID": "1496042",
+      "created": "2010-01-07 02:17:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8328",
+          "lastname": "Amaral Zettler",
+          "forename": "Linda A"
+        },
+        {
+          "id": "8329",
+          "lastname": "Messerli",
+          "forename": "Mark A"
+        },
+        {
+          "id": "8330",
+          "lastname": "Laatsch",
+          "forename": "Abby D"
+        },
+        {
+          "id": "8331",
+          "lastname": "Smith",
+          "forename": "Peter J S"
+        },
+        {
+          "id": "8283",
+          "lastname": "Sogin",
+          "forename": "Mitchell L"
+        }
+      ],
+      "bhl_pages": [
+        1496042,
+        1496043,
+        1496044,
+        1496045,
+        1496046
+      ]
+    },
+    {
+      "reference_id": "11163",
+      "genre": "article",
+      "title": "Isolation of Symbiotically Expressed Genes From the Dinoflagellate Symbiont of the Solitary Radiolarian Thalassicolla nucleata",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "210",
+      "epage": "214",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543561",
+      "PageID": "1496047",
+      "created": "2010-01-07 02:17:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8332",
+          "lastname": "Gast",
+          "forename": "Rebecca J"
+        },
+        {
+          "id": "8333",
+          "lastname": "Beaudoin",
+          "forename": "David J"
+        },
+        {
+          "id": "8334",
+          "lastname": "Caron",
+          "forename": "David A"
+        }
+      ],
+      "bhl_pages": [
+        1496047,
+        1496048,
+        1496049,
+        1496050,
+        1496051
+      ]
+    },
+    {
+      "reference_id": "11164",
+      "genre": "article",
+      "title": "Plants, Mycorrhizal Fungi and Endobacteria: a Dialog Among Cells and Genomes",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "215",
+      "epage": "220",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543562",
+      "PageID": "1496052",
+      "created": "2010-01-07 02:17:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8335",
+          "lastname": "Bonfante",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        1496052,
+        1496053,
+        1496054,
+        1496055,
+        1496056,
+        1496057
+      ]
+    },
+    {
+      "reference_id": "11165",
+      "genre": "article",
+      "title": "Genome Evolution in an Insect Cell: Distinct Features of an Ant-Bacterial Partnership",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "221",
+      "epage": "231",
+      "year": "2003",
+      "date": "2003-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543563",
+      "PageID": "1496058",
+      "created": "2010-01-07 02:17:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8336",
+          "lastname": "Wernegreen",
+          "forename": "Jennifer J"
+        },
+        {
+          "id": "8337",
+          "lastname": "Degnan",
+          "forename": "Patrick H"
+        },
+        {
+          "id": "8338",
+          "lastname": "Lazarus",
+          "forename": "Adam B"
+        },
+        {
+          "id": "8339",
+          "lastname": "Palacios",
+          "forename": "Carmen"
+        },
+        {
+          "id": "8340",
+          "lastname": "Bordenstein",
+          "forename": "Seth R"
+        }
+      ],
+      "bhl_pages": [
+        1496058,
+        1496059,
+        1496060,
+        1496061,
+        1496062,
+        1496063,
+        1496064,
+        1496065,
+        1496066,
+        1496067,
+        1496068
+      ]
+    },
+    {
+      "reference_id": "11166",
+      "genre": "article",
+      "title": "Identification of Asteroid Genera With Species Capable of Larval Cloning",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "246",
+      "epage": "255",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543596",
+      "PageID": "1496099",
+      "created": "2010-01-07 02:17:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8341",
+          "lastname": "Knott",
+          "forename": "K Emily"
+        },
+        {
+          "id": "6383",
+          "lastname": "Balser",
+          "forename": "Elizabeth J"
+        },
+        {
+          "id": "6648",
+          "lastname": "Jaeckle",
+          "forename": "William B"
+        },
+        {
+          "id": "6675",
+          "lastname": "Wray",
+          "forename": "Gregory A"
+        }
+      ],
+      "bhl_pages": [
+        1496099,
+        1496100,
+        1496101,
+        1496102,
+        1496103,
+        1496104,
+        1496105,
+        1496106,
+        1496107,
+        1496108
+      ]
+    },
+    {
+      "reference_id": "11167",
+      "genre": "article",
+      "title": "Larval Behavioral, Morphological Changes, and Nematocyte Dynamics During Settlement of Actinulae of Tubularia mesembryanthemum, Allman 1871 (Hydrozoa: Tubulariidae)",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "256",
+      "epage": "269",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543597",
+      "PageID": "1496109",
+      "created": "2010-01-07 02:17:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8342",
+          "lastname": "Yamashita",
+          "forename": "Keiji"
+        },
+        {
+          "id": "8343",
+          "lastname": "Kawaii",
+          "forename": "Satoru"
+        },
+        {
+          "id": "8344",
+          "lastname": "Nakai",
+          "forename": "Mitsuyo"
+        },
+        {
+          "id": "8345",
+          "lastname": "Fusetani",
+          "forename": "Nobuhiro"
+        }
+      ],
+      "bhl_pages": [
+        1496109,
+        1496110,
+        1496111,
+        1496112,
+        1496113,
+        1496114,
+        1496115,
+        1496116,
+        1496117,
+        1496118,
+        1496119,
+        1496120,
+        1496121,
+        1496122
+      ]
+    },
+    {
+      "reference_id": "11168",
+      "genre": "article",
+      "title": "Energy Metabolism During Larval Development of Green and White Abalone, Haliotis fulgens and H. sorenseni",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "270",
+      "epage": "277",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543598",
+      "PageID": "1496123",
+      "created": "2010-01-07 02:17:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8346",
+          "lastname": "Moran",
+          "forename": "Amy L"
+        },
+        {
+          "id": "5998",
+          "lastname": "Manahan",
+          "forename": "Donal T"
+        }
+      ],
+      "bhl_pages": [
+        1496123,
+        1496124,
+        1496125,
+        1496126,
+        1496127,
+        1496128,
+        1496129,
+        1496130
+      ]
+    },
+    {
+      "reference_id": "11169",
+      "genre": "article",
+      "title": "Localization and Quantification of Carbonic Anhydrase Activity in the Symbiotic Scyphozoan Cassiopea xamachana",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "278",
+      "epage": "289",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543599",
+      "PageID": "1496131",
+      "created": "2010-01-07 02:17:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8347",
+          "lastname": "Estes",
+          "forename": "Anne M"
+        },
+        {
+          "id": "6029",
+          "lastname": "Kempf",
+          "forename": "Stephen C"
+        },
+        {
+          "id": "8348",
+          "lastname": "Henry",
+          "forename": "Raymond P"
+        }
+      ],
+      "bhl_pages": [
+        1496131,
+        1496132,
+        1496133,
+        1496134,
+        1496135,
+        1496136,
+        1496137,
+        1496138,
+        1496139,
+        1496140,
+        1496141,
+        1496142
+      ]
+    },
+    {
+      "reference_id": "11170",
+      "genre": "article",
+      "title": "Reproductive Behavior in the Squid Sepioteuthis australis From South Australia: Ethogram of Reproductive Body Patterns",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "290",
+      "epage": "304",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543600",
+      "PageID": "1496143",
+      "created": "2010-01-07 02:17:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8349",
+          "lastname": "Jantzen",
+          "forename": "Troy M"
+        },
+        {
+          "id": "8350",
+          "lastname": "Havenhand",
+          "forename": "Jon N"
+        }
+      ],
+      "bhl_pages": [
+        1496143,
+        1496144,
+        1496145,
+        1496146,
+        1496147,
+        1496148,
+        1496149,
+        1496150,
+        1496151,
+        1496152,
+        1496153,
+        1496154,
+        1496155,
+        1496156,
+        1496157
+      ]
+    },
+    {
+      "reference_id": "11171",
+      "genre": "article",
+      "title": "Reproductive Behavior in the Squid Sepioteuthis australis From South Australia: Interactions on the Spawning Grounds",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "305",
+      "epage": "317",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543601",
+      "PageID": "1496158",
+      "created": "2010-01-07 02:18:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8349",
+          "lastname": "Jantzen",
+          "forename": "Troy M"
+        },
+        {
+          "id": "8350",
+          "lastname": "Havenhand",
+          "forename": "Jon N"
+        }
+      ],
+      "bhl_pages": [
+        1496158,
+        1496159,
+        1496160,
+        1496161,
+        1496162,
+        1496163,
+        1496164,
+        1496165,
+        1496166,
+        1496167,
+        1496168,
+        1496169,
+        1496170
+      ]
+    },
+    {
+      "reference_id": "11172",
+      "genre": "article",
+      "title": "Genetic Differences Within and Between Species of Deep-Sea Crabs (Chaceon) From the North Atlantic Ocean",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "318",
+      "epage": "326",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543602",
+      "PageID": "1496171",
+      "created": "2010-01-07 02:18:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8351",
+          "lastname": "Weinberg",
+          "forename": "James R"
+        },
+        {
+          "id": "8152",
+          "lastname": "Dahlgren",
+          "forename": "Thomas G"
+        },
+        {
+          "id": "8352",
+          "lastname": "Trowbridge",
+          "forename": "Nan"
+        },
+        {
+          "id": "8132",
+          "lastname": "Halanych",
+          "forename": "Kenneth M"
+        }
+      ],
+      "bhl_pages": [
+        1496171,
+        1496172,
+        1496173,
+        1496174,
+        1496175,
+        1496176,
+        1496177,
+        1496178,
+        1496179
+      ]
+    },
+    {
+      "reference_id": "11173",
+      "genre": "article",
+      "title": "Genetic Linkage Map of the Eastern Oyster Crassostrea virginica Gmelin",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "327",
+      "epage": "338",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543603",
+      "PageID": "1496180",
+      "created": "2010-01-07 02:18:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8353",
+          "lastname": "Yu",
+          "forename": "Ziniu"
+        },
+        {
+          "id": "8354",
+          "lastname": "Guo",
+          "forename": "Ximing"
+        }
+      ],
+      "bhl_pages": [
+        1496180,
+        1496181,
+        1496182,
+        1496183,
+        1496184,
+        1496185,
+        1496186,
+        1496187,
+        1496188,
+        1496189,
+        1496190,
+        1496191
+      ]
+    },
+    {
+      "reference_id": "11174",
+      "genre": "article",
+      "title": "Use of Multivariate Analysis to Assess the Nutritional Condition of Fish Larvae From Nucleic Acids and Protein Content",
+      "secondary_title": "Biol Bull",
+      "volume": "204",
+      "spage": "339",
+      "epage": "349",
+      "year": "2003",
+      "date": "2003-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543604",
+      "PageID": "1496192",
+      "created": "2010-01-07 02:18:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8355",
+          "lastname": "Cunha",
+          "forename": "Isabel"
+        },
+        {
+          "id": "8356",
+          "lastname": "Saborido-Rey",
+          "forename": "Fran"
+        },
+        {
+          "id": "8357",
+          "lastname": "Planas",
+          "forename": "Miquel"
+        }
+      ],
+      "bhl_pages": [
+        1496192,
+        1496193,
+        1496194,
+        1496195,
+        1496196,
+        1496197,
+        1496198,
+        1496199,
+        1496200,
+        1496201,
+        1496202
+      ]
+    }
+  ]
+}

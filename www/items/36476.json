@@ -1,0 +1,196 @@
+{
+  "ItemID": "36476",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 32 1896",
+  "articles": [
+    {
+      "reference_id": "60582",
+      "genre": "article",
+      "title": "Some remarks on the insects belonging to the genus Palorus Muls., with a description of one new species",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "32",
+      "spage": "26",
+      "epage": "30",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9262189",
+      "created": "2010-11-23 02:15:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42407",
+          "lastname": "Champion",
+          "forename": "G C"
+        }
+      ],
+      "bhl_pages": [
+        9262189,
+        9262190,
+        9262191,
+        9262192,
+        9262193
+      ]
+    },
+    {
+      "reference_id": "67111",
+      "genre": "article",
+      "title": "Nothochrysa capitata at Huddersfield",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "32",
+      "spage": "41",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1568052",
+      "PageID": "9262227",
+      "created": "2011-05-12 13:22:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45458",
+          "lastname": "Porritt",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        9262227
+      ]
+    },
+    {
+      "reference_id": "67102",
+      "genre": "article",
+      "title": "Raphidia ratzeburgi, Br., on the Simplon",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "32",
+      "spage": "42",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1568052",
+      "PageID": "9262228",
+      "created": "2011-05-12 13:21:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9262228
+      ]
+    },
+    {
+      "reference_id": "71136",
+      "genre": "article",
+      "title": "Notes on some Hemiptera-Homoptera, with descriptions of four new species from the Vienna Museum",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "32",
+      "spage": "104",
+      "epage": "107",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1568052",
+      "PageID": "9262290",
+      "created": "2011-06-03 17:57:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46763",
+          "lastname": "Fowler",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9262290,
+        9262291,
+        9262292,
+        9262293
+      ]
+    },
+    {
+      "reference_id": "67088",
+      "genre": "article",
+      "title": "Sisyra Dalii near Leatherhead",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "32",
+      "spage": "231",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1568052",
+      "PageID": "9262417",
+      "created": "2011-05-12 13:19:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45449",
+          "lastname": "Briggs",
+          "forename": "C A"
+        }
+      ],
+      "bhl_pages": [
+        9262417
+      ]
+    },
+    {
+      "reference_id": "67103",
+      "genre": "article",
+      "title": "Notes on a few Neuroptera from Tyrol",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "32",
+      "spage": "258",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1568052",
+      "PageID": "9262444",
+      "created": "2011-05-12 13:21:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9262444
+      ]
+    },
+    {
+      "reference_id": "72012",
+      "genre": "article",
+      "title": "On Plagithmysus: A Hawaiian genus of longicorn Coleoptera",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "32",
+      "spage": "271",
+      "epage": "274",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1568052",
+      "PageID": "9262457",
+      "created": "2011-06-04 00:06:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9262457,
+        9262458,
+        9262459,
+        9262460
+      ]
+    }
+  ]
+}

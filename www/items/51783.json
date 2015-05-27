@@ -1,0 +1,57 @@
+{
+  "ItemID": "51783",
+  "FullTitle": "Insect life \/  U.S. Department of Agriculture, Division of Entomology.",
+  "VolumeInfo": "v. 1 1888-89",
+  "articles": [
+    {
+      "reference_id": "103781",
+      "genre": "article",
+      "title": "A parasite of the supposed eggs of the cotton stainer",
+      "secondary_title": "Insect Life",
+      "volume": "1",
+      "spage": "241",
+      "epage": "242",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1753176",
+      "PageID": "14959985",
+      "created": "2012-05-28 15:15:13",
+      "updated": "2012-05-28 15:15:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        14959985,
+        14959986
+      ]
+    },
+    {
+      "reference_id": "73209",
+      "genre": "article",
+      "title": "Leucopis bellula, n",
+      "secondary_title": "sp. Insect Life",
+      "volume": "1",
+      "spage": "258",
+      "epage": "259",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1753176",
+      "PageID": "14960002",
+      "created": "2011-06-04 08:01:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        14960002,
+        14960003
+      ]
+    }
+  ]
+}

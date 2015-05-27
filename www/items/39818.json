@@ -1,0 +1,241 @@
+{
+  "ItemID": "39818",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 34 1901",
+  "articles": [
+    {
+      "reference_id": "60924",
+      "genre": "article",
+      "title": "Miscellanea Rhynchotalia",
+      "secondary_title": "Entomologist",
+      "volume": "34",
+      "spage": "5",
+      "epage": "6",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426548",
+      "created": "2010-11-26 19:24:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        10426548,
+        10426549
+      ]
+    },
+    {
+      "reference_id": "65223",
+      "genre": "article",
+      "title": "Miscellanea Rhynchotalia",
+      "secondary_title": "Entomologist",
+      "volume": "34",
+      "spage": "116",
+      "epage": "117",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426667",
+      "created": "2011-02-04 15:40:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        10426667,
+        10426668
+      ]
+    },
+    {
+      "reference_id": "60931",
+      "genre": "article",
+      "title": "Descriptions of four new species of Disonycha (Coleoptera Phytophaga, fam. Halticidae)",
+      "secondary_title": "Entomologist",
+      "volume": "34",
+      "spage": "146",
+      "epage": "149",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426697",
+      "created": "2010-11-26 19:25:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42166",
+          "lastname": "Jacoby",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        10426697,
+        10426698,
+        10426699,
+        10426700
+      ]
+    },
+    {
+      "reference_id": "73750",
+      "genre": "article",
+      "title": "Six new species of Culicidae from India",
+      "secondary_title": "Entomologist",
+      "volume": "34",
+      "spage": "192",
+      "epage": "197",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426745",
+      "created": "2011-06-04 09:44:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47232",
+          "lastname": "Giles",
+          "forename": "G M"
+        }
+      ],
+      "bhl_pages": [
+        10426745,
+        10426746,
+        10426747,
+        10426748,
+        10426749,
+        10426750
+      ]
+    },
+    {
+      "reference_id": "60917",
+      "genre": "article",
+      "title": "South African Coccidae",
+      "secondary_title": "Entomologist",
+      "volume": "34",
+      "spage": "223",
+      "epage": "227",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426776",
+      "created": "2010-11-26 18:29:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        10426776,
+        10426777,
+        10426778,
+        10426779,
+        10426780
+      ]
+    },
+    {
+      "reference_id": "71850",
+      "genre": "article",
+      "title": "A contribution towards a revision of the British Torymina",
+      "secondary_title": "Entomologist",
+      "volume": "34",
+      "spage": "269",
+      "epage": "276",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426826",
+      "created": "2011-06-03 23:22:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        10426826,
+        10426827,
+        10426828,
+        10426829,
+        10426830,
+        10426831,
+        10426832,
+        10426833
+      ]
+    },
+    {
+      "reference_id": "72927",
+      "genre": "article",
+      "title": "Description of a new species of Crypturus from Spain",
+      "secondary_title": "Entomologist",
+      "volume": "34",
+      "spage": "330",
+      "epage": "331",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426895",
+      "created": "2011-06-04 04:42:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        10426895,
+        10426896
+      ]
+    },
+    {
+      "reference_id": "60919",
+      "genre": "article",
+      "title": "Some systematic work published during the last five years upon North American Auchenorrhynchous Homoptera (Rhynchota)",
+      "secondary_title": "The Entomologist",
+      "volume": "34",
+      "spage": "336",
+      "epage": "340",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8878",
+      "PageID": "10426901",
+      "created": "2010-11-26 19:24:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        10426901,
+        10426902,
+        10426903,
+        10426904,
+        10426905
+      ]
+    }
+  ]
+}

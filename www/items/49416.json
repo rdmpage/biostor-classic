@@ -1,0 +1,95 @@
+{
+  "ItemID": "49416",
+  "FullTitle": "Nouvelles archives du Muse\u0301um d'histoire naturelle.",
+  "VolumeInfo": "v.5 (1869)",
+  "articles": [
+    {
+      "reference_id": "65925",
+      "genre": "article",
+      "title": "R\u00e9vision du genre Thelphuse et description de quelques especes nouvelles faisant partie de la collection du Museum",
+      "secondary_title": "Nouvelles Archives du Museum d\u2019Histoire naturelle, Paris",
+      "volume": "5",
+      "spage": "161",
+      "epage": "191",
+      "year": "1869",
+      "date": "1869-00-00",
+      "oclc": "5711918",
+      "PageID": "13957886",
+      "created": "2011-05-01 18:04:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45097",
+          "lastname": "Milne-Edwards",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        13957886,
+        13955691,
+        13956479,
+        13960316,
+        13958073,
+        13956380,
+        13955269,
+        13957102,
+        13958843,
+        13957178,
+        13959958,
+        13953844,
+        13954133,
+        13958506,
+        13959908,
+        13954026,
+        13954193,
+        13956108,
+        13957780,
+        13956164,
+        13960920,
+        13954771,
+        13955087,
+        13959665,
+        13960849,
+        13955274,
+        13959161,
+        13956844,
+        13955465,
+        13956913,
+        13958635
+      ]
+    },
+    {
+      "reference_id": "61303",
+      "genre": "article",
+      "title": "Notes sur quelques nouvelles esp\u00e8ces du genre Sesarma",
+      "secondary_title": "Nouvelles Archives du Mus\u00e9um d'Histoire Naturelle. Paris",
+      "volume": "5",
+      "spage": "25",
+      "epage": "31",
+      "year": "1869",
+      "date": "1869-00-00",
+      "oclc": "5711918",
+      "PageID": "13955581",
+      "created": "2011-01-10 17:04:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42977",
+          "lastname": "Edwards",
+          "forename": "A Milne"
+        }
+      ],
+      "bhl_pages": [
+        13955581,
+        13958308,
+        13958090,
+        13957212,
+        13959745,
+        13954164,
+        13955757
+      ]
+    }
+  ]
+}

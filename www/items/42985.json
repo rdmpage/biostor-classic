@@ -1,0 +1,36 @@
+{
+  "ItemID": "42985",
+  "FullTitle": "Annuario del Museo Zoologico della Universit\u00e0 di Napoli.  ",
+  "VolumeInfo": "anno 6 (1866)",
+  "articles": [
+    {
+      "reference_id": "61249",
+      "genre": "article",
+      "title": "Specie del genere Pandalus rinvenute nel Golfo di Napoli",
+      "secondary_title": "Annuario dell'Istituto e Museo di Zoologia dell'Universit\u00e0 di Napoli",
+      "volume": "6",
+      "spage": "89",
+      "epage": "92",
+      "year": "1871",
+      "date": "1871-00-00",
+      "oclc": "1758997",
+      "PageID": "11661654",
+      "created": "2011-01-10 16:35:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42956",
+          "lastname": "Costa",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11661654,
+        11661655,
+        11661656,
+        11661657
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "author": [
+    
+  ],
+  "type": "article",
+  "title": "Additions to the genus Calliscarta (Homoptera: Cicadellidae)",
+  "journal": {
+    "name": "Entomological News",
+    "volume": "102",
+    "pages": "195--199",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0013-872X"
+      }
+    ]
+  },
+  "year": "1991",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/97273"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/16252230"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 97273
+    },
+    {
+      "type": "bhl",
+      "id": 16252230
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -82.25,
+        8.7333333333333
+      ],
+      [
+        -51.783333333333,
+        -12.833333333333
+      ]
+    ]
+  }
+}

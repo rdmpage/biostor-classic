@@ -1,0 +1,69 @@
+{
+  "ItemID": "102947",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 4 (1849)",
+  "articles": [
+    {
+      "reference_id": "89940",
+      "genre": "article",
+      "title": "XX.\u2014On the animals of C\u00e6cum trachea and C. Glabrum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "2",
+      "spage": "180",
+      "epage": "184",
+      "year": "1849",
+      "date": "1849-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494811",
+      "PageID": "32952346",
+      "created": "2011-09-28 12:18:22",
+      "updated": "2011-09-28 12:18:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51902",
+          "lastname": "Clark",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        32952346,
+        32952347,
+        32952348,
+        32952349,
+        32952350
+      ]
+    },
+    {
+      "reference_id": "89939",
+      "genre": "article",
+      "title": "XXXVIII.\u2014Observations on Mr. Morris's paper on the excavating sponges",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "2",
+      "spage": "355",
+      "epage": "357",
+      "year": "1849",
+      "date": "1849-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494847",
+      "PageID": "32952529",
+      "created": "2011-09-28 12:18:12",
+      "updated": "2011-09-28 12:18:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51766",
+          "lastname": "Hancock",
+          "forename": "Albany"
+        }
+      ],
+      "bhl_pages": [
+        32952529,
+        32952530,
+        32952531
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ItemID": "1111",
+  "FullTitle": "The Philippine journal of science.",
+  "VolumeInfo": "v.1 pt.2 (1906)",
+  "articles": [
+    {
+      "reference_id": "103801",
+      "genre": "article",
+      "title": "A catalogue of Philippine Hymenoptera, with description of new species",
+      "secondary_title": "Philippine Journal of Science",
+      "volume": "1",
+      "spage": "683",
+      "epage": "695",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0031-7683",
+      "PageID": "691370",
+      "created": "2012-05-29 09:47:29",
+      "updated": "2012-05-29 10:16:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53784",
+          "lastname": "Brown",
+          "forename": "Robert E"
+        }
+      ],
+      "bhl_pages": [
+        691370,
+        691371,
+        691372,
+        691373,
+        691374,
+        691375,
+        691376,
+        691377,
+        691378,
+        691379,
+        691380,
+        691381,
+        691382
+      ]
+    }
+  ]
+}

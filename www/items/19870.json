@@ -1,0 +1,38 @@
+{
+  "ItemID": "19870",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 4: Bd. 1-2 (1838)",
+  "articles": [
+    {
+      "reference_id": "70992",
+      "genre": "article",
+      "title": "Ueber zwei neue Kafergattungen aus Madagaskar",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "4",
+      "spage": "67",
+      "epage": "72",
+      "year": "1838",
+      "date": "1838-00-00",
+      "oclc": "1481989",
+      "PageID": "2432516",
+      "created": "2011-06-03 17:10:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46709",
+          "lastname": "Klug",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        2432516,
+        2432515,
+        2432514,
+        2432513,
+        2432512,
+        2432511
+      ]
+    }
+  ]
+}

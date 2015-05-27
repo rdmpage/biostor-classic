@@ -1,0 +1,34 @@
+{
+  "ItemID": "42355",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 35 1914",
+  "articles": [
+    {
+      "reference_id": "58750",
+      "genre": "article",
+      "title": "Preliminary description of a new representative of the family Termitocoridae Silv",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "1914",
+      "spage": "98",
+      "epage": "99",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0013-886X",
+      "PageID": "11406252",
+      "created": "2010-11-20 22:42:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42316",
+          "lastname": "Mj\u00f6berg",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11406252,
+        11406253
+      ]
+    }
+  ]
+}

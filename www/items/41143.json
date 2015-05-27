@@ -1,0 +1,91 @@
+{
+  "ItemID": "41143",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 27 1894",
+  "articles": [
+    {
+      "reference_id": "60968",
+      "genre": "article",
+      "title": "Remarks on certain genera of Coccidae",
+      "secondary_title": "Entomologist",
+      "volume": "27",
+      "spage": "44",
+      "epage": "46",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0013-8878",
+      "PageID": "10913461",
+      "created": "2010-11-26 19:27:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40966",
+          "lastname": "Maskell",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        10913461,
+        10913462,
+        10913463
+      ]
+    },
+    {
+      "reference_id": "71741",
+      "genre": "article",
+      "title": "A new classification of the genus |Thoracantha| Latr",
+      "secondary_title": "Entomologist",
+      "volume": "27",
+      "spage": "188",
+      "epage": "190",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0013-8878",
+      "PageID": "10913609",
+      "created": "2011-06-03 23:00:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42894",
+          "lastname": "Shipp",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        10913609,
+        10913610,
+        10913611
+      ]
+    },
+    {
+      "reference_id": "60957",
+      "genre": "article",
+      "title": "A new classification of the genus Perga Leach",
+      "secondary_title": "Entomologist",
+      "volume": "27",
+      "spage": "338",
+      "epage": "340",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0013-8878",
+      "PageID": "10913759",
+      "created": "2010-11-26 19:26:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42894",
+          "lastname": "Shipp",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        10913759,
+        10913760,
+        10913761
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "author": [
+    {
+      "firstname": "John S",
+      "lastname": "Noyes",
+      "name": "John S Noyes"
+    },
+    {
+      "firstname": "H",
+      "lastname": "Ren",
+      "name": "H Ren"
+    }
+  ],
+  "type": "article",
+  "title": "Encyrtidae of Costa Rica (Hymenoptera: Chalcidoidea): the genus Aenasius Walker, parasitoids of mealybugs (Homoptera: Pseudococcidae)",
+  "journal": {
+    "name": "Bulletin of The Natural History Museum Entomology Series",
+    "volume": "64",
+    "issue": "2",
+    "pages": "117--163",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0968-0454"
+      }
+    ]
+  },
+  "year": "1995",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/113518"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/40998704"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 113518
+    },
+    {
+      "type": "bhl",
+      "id": 40998704
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -89.15,
+        10.316666666667
+      ],
+      [
+        -89.15,
+        10.316666666667
+      ],
+      [
+        -89.15,
+        10.316666666667
+      ],
+      [
+        -89.15,
+        10.316666666667
+      ],
+      [
+        -89.15,
+        10.316666666667
+      ],
+      [
+        -89.15,
+        10.316666666667
+      ],
+      [
+        -69.333333333333,
+        -12.833333333333
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -83.483333333333,
+        8.7
+      ],
+      [
+        -84.716666666667,
+        10.316666666667
+      ],
+      [
+        -83.416666666667,
+        8.9666666666667
+      ],
+      [
+        -83.416666666667,
+        8.9666666666667
+      ],
+      [
+        -83.416666666667,
+        8.9666666666667
+      ],
+      [
+        -83.416666666667,
+        8.9666666666667
+      ],
+      [
+        -83.416666666667,
+        8.9666666666667
+      ],
+      [
+        -83.416666666667,
+        8.9666666666667
+      ],
+      [
+        -83.416666666667,
+        8.9666666666667
+      ]
+    ]
+  }
+}

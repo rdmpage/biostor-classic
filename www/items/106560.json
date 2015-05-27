@@ -1,0 +1,79 @@
+{
+  "ItemID": "106560",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "ser. 5, t. 2 1872",
+  "articles": [
+    {
+      "reference_id": "72543",
+      "genre": "article",
+      "title": "Notice compl\u00e9mentaire sur les arachnides cavernicoles et hypog\u00e9s",
+      "secondary_title": "Ann. Soc. ent. Fr",
+      "volume": "2",
+      "series": "5",
+      "spage": "473",
+      "epage": "488",
+      "year": "1872",
+      "date": "1872-00-00",
+      "issn": "0037-9271",
+      "PageID": "34164535",
+      "created": "2011-06-04 02:25:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        34164535,
+        34164536,
+        34164537,
+        34164538,
+        34164539,
+        34164540,
+        34164541,
+        34164542,
+        34164543,
+        34164544,
+        34164545,
+        34164546,
+        34164547,
+        34164548,
+        34164549,
+        34164550
+      ]
+    },
+    {
+      "reference_id": "69440",
+      "genre": "article",
+      "title": "Note sur les moeurs de l'Anthomyia spreta Meig",
+      "secondary_title": "Annales de la Societe Entomologique de France",
+      "volume": "2",
+      "series": "5",
+      "spage": "503",
+      "epage": "506",
+      "year": "1872",
+      "date": "1872-00-00",
+      "issn": "0037-9271",
+      "PageID": "34164565",
+      "created": "2011-06-01 08:58:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46277",
+          "lastname": "Giraud",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        34164565,
+        34164566,
+        34164567,
+        34164568
+      ]
+    }
+  ]
+}

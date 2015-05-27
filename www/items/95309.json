@@ -1,0 +1,35 @@
+{
+  "ItemID": "95309",
+  "FullTitle": "The Journal of the Bombay Natural History Society.",
+  "VolumeInfo": "v. 11 (1897-1898)",
+  "articles": [
+    {
+      "reference_id": "71639",
+      "genre": "article",
+      "title": "A new krait from Sind (Bungarus sindanus)",
+      "secondary_title": "J. Bombay Nat. Hist. Soc",
+      "volume": "11",
+      "spage": "73",
+      "epage": "74",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0006-6982",
+      "PageID": "30156772",
+      "created": "2011-06-03 22:34:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        30156772,
+        30156773,
+        30156774
+      ]
+    }
+  ]
+}

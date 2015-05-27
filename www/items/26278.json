@@ -1,0 +1,44 @@
+{
+  "ItemID": "26278",
+  "FullTitle": "Transactions of the Maryland Academy of Science and Literature.  ",
+  "VolumeInfo": "1",
+  "articles": [
+    {
+      "reference_id": "105417",
+      "genre": "article",
+      "title": "New genera and species of american Homoptera",
+      "secondary_title": "Transactions of the Maryland Academy",
+      "volume": "1",
+      "spage": "33",
+      "epage": "44",
+      "year": "1898",
+      "date": "1898-00-00",
+      "oclc": "1372334",
+      "PageID": "4565458",
+      "created": "2012-07-25 11:01:50",
+      "updated": "2012-07-25 11:02:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42806",
+          "lastname": "Uhler",
+          "forename": "P R"
+        }
+      ],
+      "bhl_pages": [
+        4565458,
+        4565457,
+        4565456,
+        4565455,
+        4565454,
+        4565453,
+        4565452,
+        4565451,
+        4565450,
+        4565449,
+        4565448,
+        4565447
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "ItemID": "22203",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 24 (1899)",
+  "articles": [
+    {
+      "reference_id": "103353",
+      "genre": "article",
+      "title": "Liste des Cephalopodes recueillis pendant les dernieres campagnes de la Princesse-Alice (1895-1897)",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "24",
+      "spage": "62",
+      "epage": "74",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0037-962X",
+      "PageID": "3090304",
+      "created": "2012-05-21 13:21:07",
+      "updated": "2012-05-21 13:21:07",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3090304,
+        3090104,
+        3090141,
+        3090207,
+        3090208,
+        3090111,
+        3090209,
+        3090210,
+        3090305,
+        3090211,
+        3090306,
+        3090099,
+        3090307
+      ]
+    },
+    {
+      "reference_id": "85438",
+      "genre": "article",
+      "title": "Sur deux esp\u00e8ces g\u00e9antes d\u2019amphipodes provenant des campagnes du yacht Princesse Alice",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "24",
+      "spage": "152",
+      "epage": "158",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0037-962X",
+      "PageID": "3090153",
+      "created": "2011-08-17 07:03:15",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18122",
+          "lastname": "Chevreux",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3090153,
+        3090237,
+        3090154,
+        3090155,
+        3090156,
+        3090238,
+        3090120
+      ]
+    },
+    {
+      "reference_id": "103354",
+      "genre": "article",
+      "title": "Troisieme note preliminaire sur les holothuries provenant des dragages du yacht Princesse-Alice. Revision de la sous-famille des Elpidiinoe et description de nouvelles especes",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "24",
+      "spage": "170",
+      "epage": "175",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0037-962X",
+      "PageID": "3090242",
+      "created": "2012-05-21 13:21:10",
+      "updated": "2012-05-21 13:21:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3090242,
+        3090160,
+        3090243,
+        3090122,
+        3090342,
+        3090343
+      ]
+    }
+  ]
+}

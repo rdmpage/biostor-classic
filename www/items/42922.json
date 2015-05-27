@@ -1,0 +1,333 @@
+{
+  "ItemID": "42922",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v. 9 (1900-02)",
+  "articles": [
+    {
+      "reference_id": "57556",
+      "genre": "article",
+      "title": "Some Coccidae quarantined at San Francisco",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "9",
+      "spage": "70",
+      "epage": "72",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642222",
+      "created": "2010-11-20 13:53:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        11642222,
+        11642223,
+        11642224
+      ]
+    },
+    {
+      "reference_id": "72934",
+      "genre": "article",
+      "title": "Some insects of the Hudsonian zone in New Mexico II, Hymenoptera parasitica",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "147",
+      "epage": "148",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642299",
+      "created": "2011-06-04 04:42:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        11642299,
+        11642300
+      ]
+    },
+    {
+      "reference_id": "65099",
+      "genre": "article",
+      "title": "Insects and spiders of the Galapagos Islands",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "173",
+      "epage": "175",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642325",
+      "created": "2011-01-31 14:06:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44746",
+          "lastname": "Kellogg",
+          "forename": "Vernon Lyman"
+        }
+      ],
+      "bhl_pages": [
+        11642325,
+        11642326,
+        11642327
+      ]
+    },
+    {
+      "reference_id": "72476",
+      "genre": "article",
+      "title": "The species of Diapheromera (Phasmidae) found in the United States and Canada",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "187",
+      "epage": "189",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642339",
+      "created": "2011-06-04 02:04:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42794",
+          "lastname": "Scudder",
+          "forename": "S H"
+        }
+      ],
+      "bhl_pages": [
+        11642339,
+        11642340,
+        11642341
+      ]
+    },
+    {
+      "reference_id": "53153",
+      "genre": "article",
+      "title": "Studies for students. I. The anatomy of the larva of the giant crane fly (Holorusia rubiginosa)",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "207",
+      "epage": "213",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642361",
+      "created": "2010-10-26 16:49:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10254",
+          "lastname": "Kellogg",
+          "forename": "V L"
+        }
+      ],
+      "bhl_pages": [
+        11642361,
+        11642362,
+        11642363,
+        11642364,
+        11642365,
+        11642366,
+        11642367
+      ]
+    },
+    {
+      "reference_id": "72735",
+      "genre": "article",
+      "title": "A new species of Chrysopa from Texas",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "215",
+      "epage": "216",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642369",
+      "created": "2011-06-04 03:24:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2989",
+          "lastname": "Mcclendon",
+          "forename": "J F"
+        }
+      ],
+      "bhl_pages": [
+        11642369,
+        11642370
+      ]
+    },
+    {
+      "reference_id": "53154",
+      "genre": "article",
+      "title": "Studies for students. II. The histoblasts (imaginal buds) of the wings and legs of the giant crane fly (Holorusia rubiginosa)",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "246",
+      "epage": "250",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642402",
+      "created": "2010-10-26 16:49:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10254",
+          "lastname": "Kellogg",
+          "forename": "V L"
+        }
+      ],
+      "bhl_pages": [
+        11642402,
+        11642403,
+        11642404,
+        11642405,
+        11642406
+      ]
+    },
+    {
+      "reference_id": "72960",
+      "genre": "article",
+      "title": "Two new species of Ophion",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "307",
+      "epage": "308",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642463",
+      "created": "2011-06-04 04:46:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42334",
+          "lastname": "Felt",
+          "forename": "E P"
+        }
+      ],
+      "bhl_pages": [
+        11642463,
+        11642464
+      ]
+    },
+    {
+      "reference_id": "14752",
+      "genre": "article",
+      "title": "Some new genera and species of Attidae from South Africa",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "330",
+      "epage": "335",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0033-2615",
+      "doi": "10.1155\/1902\/13502",
+      "PageID": "11642490",
+      "created": "2010-01-27 07:47:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10335",
+          "lastname": "Peckham",
+          "forename": "George W"
+        },
+        {
+          "id": "10336",
+          "lastname": "Peckham",
+          "forename": "Elizabeth G"
+        }
+      ],
+      "bhl_pages": [
+        11642490,
+        11642491,
+        11642492,
+        11642493,
+        11642494,
+        11642495
+      ]
+    },
+    {
+      "reference_id": "65101",
+      "genre": "article",
+      "title": "Are the Mallophaga degenerate Psocids?",
+      "secondary_title": "Psyche",
+      "volume": "9",
+      "spage": "339",
+      "epage": "343",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642499",
+      "created": "2011-01-31 14:06:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44746",
+          "lastname": "Kellogg",
+          "forename": "Vernon Lyman"
+        }
+      ],
+      "bhl_pages": [
+        11642499,
+        11642500,
+        11642501,
+        11642502,
+        11642503
+      ]
+    },
+    {
+      "reference_id": "21189",
+      "genre": "article",
+      "title": "New agricultural ants from Texas",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "9",
+      "spage": "387",
+      "epage": "393",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0033-2615",
+      "PageID": "11642551",
+      "created": "2010-02-11 17:28:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "788",
+          "lastname": "Wheeler",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        11642551,
+        11642552,
+        11642553,
+        11642554,
+        11642555,
+        11642556,
+        11642557
+      ]
+    }
+  ]
+}

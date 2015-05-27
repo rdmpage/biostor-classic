@@ -1,0 +1,66 @@
+{
+  "ItemID": "8658",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1889 v. 36",
+  "articles": [
+    {
+      "reference_id": "14096",
+      "genre": "article",
+      "title": "Sur l'Absidia coerulea",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "36",
+      "spage": "184",
+      "epage": "186",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0181-1789",
+      "PageID": "311481",
+      "created": "2010-01-14 04:14:15",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10190",
+          "lastname": "Bainier",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        311481,
+        311482,
+        311483
+      ]
+    },
+    {
+      "reference_id": "14115",
+      "genre": "article",
+      "title": "Champignons \u00e0 ajouter a la flore mycologique des environs de Saintes (3-e s\u00e9rie)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "36",
+      "spage": "335",
+      "epage": "340",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0181-1789",
+      "PageID": "311632",
+      "created": "2010-01-14 09:08:36",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10196",
+          "lastname": "Brunaud",
+          "forename": "Paul"
+        }
+      ],
+      "bhl_pages": [
+        311632,
+        311633,
+        311634,
+        311635,
+        311636,
+        311637
+      ]
+    }
+  ]
+}

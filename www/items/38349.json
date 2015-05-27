@@ -1,0 +1,74 @@
+{
+  "ItemID": "38349",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1913",
+  "articles": [
+    {
+      "reference_id": "58569",
+      "genre": "article",
+      "title": "Some Australian Brachiopods",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1913",
+      "spage": "112",
+      "epage": "115",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0080-4703",
+      "PageID": "10049311",
+      "created": "2010-11-20 21:53:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42377",
+          "lastname": "Blochmann",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10049311,
+        10049312,
+        10049313,
+        10049314
+      ]
+    },
+    {
+      "reference_id": "105110",
+      "genre": "article",
+      "title": "New Australian Asilidae (Diptera)",
+      "secondary_title": "Proceedings of The Royal Society of Tasmania",
+      "volume": "1913",
+      "spage": "264",
+      "epage": "280",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0080-4703",
+      "PageID": "10049463",
+      "created": "2012-07-03 08:05:47",
+      "updated": "2012-07-03 08:05:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        10049463,
+        10049464,
+        10049465,
+        10049466,
+        10049467,
+        10049468,
+        10049469,
+        10049470,
+        10049471,
+        10049472,
+        10049473,
+        10049474,
+        10049475,
+        10049476,
+        10049477,
+        10049478,
+        10049479
+      ]
+    }
+  ]
+}

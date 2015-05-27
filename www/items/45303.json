@@ -1,0 +1,882 @@
+{
+  "ItemID": "45303",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 35 1916",
+  "articles": [
+    {
+      "reference_id": "97033",
+      "genre": "article",
+      "title": "Bestimmungstabelle der Arten der Gattung Adesmia FISCH. aus der pal\u00e4arktischen Fauna. (Col. Tenebrionidae.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "1",
+      "epage": "31",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560129",
+      "created": "2011-10-11 17:56:11",
+      "updated": "2011-10-11 17:56:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12560129,
+        12560128,
+        12560127,
+        12560126,
+        12560125,
+        12560124,
+        12560123,
+        12560090,
+        12560091,
+        12560092,
+        12560093,
+        12560094,
+        12560095,
+        12560096,
+        12560097,
+        12560098,
+        12560099,
+        12560100,
+        12560101,
+        12560102,
+        12560103,
+        12560104,
+        12560105,
+        12560106,
+        12560107,
+        12560108,
+        12560109,
+        12560110,
+        12560111,
+        12560112,
+        12560113
+      ]
+    },
+    {
+      "reference_id": "97034",
+      "genre": "article",
+      "title": "Zwei neue R\u00fc\u00dfler aus Tibet",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "32",
+      "epage": "34",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560114",
+      "created": "2011-10-11 17:56:16",
+      "updated": "2011-10-11 17:56:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53157",
+          "lastname": "Form\u00e1nek",
+          "forename": "Romuald"
+        }
+      ],
+      "bhl_pages": [
+        12560114,
+        12560115,
+        12560116
+      ]
+    },
+    {
+      "reference_id": "97035",
+      "genre": "article",
+      "title": "Synoptische \u00dcbersicht der Cyphicerus-Arten aus der pal\u00e4arktischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "35",
+      "epage": "39",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560117",
+      "created": "2011-10-11 17:56:21",
+      "updated": "2011-10-11 17:56:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53157",
+          "lastname": "Form\u00e1nek",
+          "forename": "Romuald"
+        }
+      ],
+      "bhl_pages": [
+        12560117,
+        12560118,
+        12560119,
+        12560120,
+        12560121
+      ]
+    },
+    {
+      "reference_id": "97036",
+      "genre": "article",
+      "title": "Strittige Gattungen in Brenskes \"Serica-Arten der Erde\"",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "40",
+      "epage": "43",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560122",
+      "created": "2011-10-11 17:56:25",
+      "updated": "2011-10-11 17:56:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12560122,
+        12560146,
+        12560147,
+        12560148
+      ]
+    },
+    {
+      "reference_id": "97037",
+      "genre": "article",
+      "title": "Die R\u00fc\u00dflergattung Myllocerops und ihre Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "44",
+      "epage": "56",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560149",
+      "created": "2011-10-11 17:56:28",
+      "updated": "2011-10-11 17:56:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53157",
+          "lastname": "Form\u00e1nek",
+          "forename": "Romuald"
+        }
+      ],
+      "bhl_pages": [
+        12560149,
+        12560150,
+        12560151,
+        12560152,
+        12560153,
+        12560154,
+        12560155,
+        12560156,
+        12560157,
+        12560158,
+        12560159,
+        12560160,
+        12560161
+      ]
+    },
+    {
+      "reference_id": "97038",
+      "genre": "article",
+      "title": "Bemerkungen zur Synonymie und Biologie der Phoriden",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "57",
+      "epage": "58",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560162",
+      "created": "2011-10-11 17:56:33",
+      "updated": "2011-10-11 17:56:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53226",
+          "lastname": "Engel",
+          "forename": "Erich Otto"
+        }
+      ],
+      "bhl_pages": [
+        12560162,
+        12560163
+      ]
+    },
+    {
+      "reference_id": "97039",
+      "genre": "article",
+      "title": "Zur Feier meines 70. Geburtstages",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "58",
+      "epage": "60",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560163",
+      "created": "2011-10-11 17:56:37",
+      "updated": "2011-10-11 17:56:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12560163,
+        12560164,
+        12560165
+      ]
+    },
+    {
+      "reference_id": "97040",
+      "genre": "article",
+      "title": "Die R\u00fc\u00dflergattung Nanophyes und ihre Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "65",
+      "epage": "79",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560174",
+      "created": "2011-10-11 17:56:44",
+      "updated": "2011-10-11 17:56:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53157",
+          "lastname": "Form\u00e1nek",
+          "forename": "Romuald"
+        }
+      ],
+      "bhl_pages": [
+        12560174,
+        12560175,
+        12560176,
+        12560177,
+        12560178,
+        12560179,
+        12560180,
+        12560181,
+        12560182,
+        12560183,
+        12560184,
+        12560185,
+        12560186,
+        12560187,
+        12560188
+      ]
+    },
+    {
+      "reference_id": "97041",
+      "genre": "article",
+      "title": "Ein neuer Anophthalmus aus der Herzegowina",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "80",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560189",
+      "created": "2011-10-11 17:56:48",
+      "updated": "2011-10-11 17:56:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12560189
+      ]
+    },
+    {
+      "reference_id": "97042",
+      "genre": "article",
+      "title": "Bemerkungen \u00fcber einige Chrysochloa-Aberrationen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "100",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560209",
+      "created": "2011-10-11 17:56:52",
+      "updated": "2011-10-11 17:56:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12560209
+      ]
+    },
+    {
+      "reference_id": "97043",
+      "genre": "article",
+      "title": "F\u00fcnf Syrphiden (Dipt.) aus den Alpen und Karpathen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "101",
+      "epage": "107",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560210",
+      "created": "2011-10-11 17:56:59",
+      "updated": "2011-10-11 17:56:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53227",
+          "lastname": "Oldenberg",
+          "forename": "Lorenz"
+        }
+      ],
+      "bhl_pages": [
+        12560210,
+        12560211,
+        12560212,
+        12560213,
+        12560214,
+        12560215,
+        12560216
+      ]
+    },
+    {
+      "reference_id": "97044",
+      "genre": "article",
+      "title": "Zur Kritik der strikten Anwendung des Priorit\u00e4tsprinzips in der Nomenklatur",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "108",
+      "epage": "116",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560217",
+      "created": "2011-10-11 17:57:06",
+      "updated": "2011-10-11 17:57:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53210",
+          "lastname": "Heikertinger",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        12560217,
+        12560218,
+        12560219,
+        12560220,
+        12560221,
+        12560222,
+        12560223,
+        12560224,
+        12560225
+      ]
+    },
+    {
+      "reference_id": "97045",
+      "genre": "article",
+      "title": "Eine neue alpine Helomyzide (Dipt.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "117",
+      "epage": "119",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560226",
+      "created": "2011-10-11 17:57:20",
+      "updated": "2011-10-11 17:57:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53227",
+          "lastname": "Oldenberg",
+          "forename": "Lorenz"
+        }
+      ],
+      "bhl_pages": [
+        12560226,
+        12560227,
+        12560228
+      ]
+    },
+    {
+      "reference_id": "97046",
+      "genre": "article",
+      "title": "Neue Aberration des Glischrochilus quadripustulatus L. aus M\u00e4hren",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "120",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560229",
+      "created": "2011-10-11 17:57:24",
+      "updated": "2011-10-11 17:57:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12560229
+      ]
+    },
+    {
+      "reference_id": "97047",
+      "genre": "article",
+      "title": "\u00dcber Anthracus consputus DUFTSCHM. und Wimmeli REITT. (Col. Carab.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "121",
+      "epage": "122",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560230",
+      "created": "2011-10-11 17:57:33",
+      "updated": "2011-10-11 17:57:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53202",
+          "lastname": "Von Lenzenheim Wanka",
+          "forename": "Theodor"
+        }
+      ],
+      "bhl_pages": [
+        12560230,
+        12560231
+      ]
+    },
+    {
+      "reference_id": "97048",
+      "genre": "article",
+      "title": "\u00dcber den Insektenbesuch bei Vicia faba L",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "123",
+      "epage": "125",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560232",
+      "created": "2011-10-11 17:57:37",
+      "updated": "2011-10-11 17:57:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53174",
+          "lastname": "Hetschko",
+          "forename": "Alfred"
+        }
+      ],
+      "bhl_pages": [
+        12560232,
+        12560233,
+        12560234
+      ]
+    },
+    {
+      "reference_id": "97049",
+      "genre": "article",
+      "title": "Zur Bastardierung der Melolontha-Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "172",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560285",
+      "created": "2011-10-11 17:57:43",
+      "updated": "2011-10-11 17:57:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12560285
+      ]
+    },
+    {
+      "reference_id": "97050",
+      "genre": "article",
+      "title": "Neue Staphyliniden aus S\u00fcdamerika",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "173",
+      "epage": "188",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560286",
+      "created": "2011-10-11 17:57:48",
+      "updated": "2011-10-11 17:57:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53020",
+          "lastname": "Bernhauer",
+          "forename": "Max"
+        }
+      ],
+      "bhl_pages": [
+        12560286,
+        12560287,
+        12560288,
+        12560289,
+        12560290,
+        12560291,
+        12560292,
+        12560293,
+        12560294,
+        12560295,
+        12560296,
+        12560297,
+        12560298,
+        12560299,
+        12560300,
+        12560301
+      ]
+    },
+    {
+      "reference_id": "97051",
+      "genre": "article",
+      "title": "Eine Mi\u00dfbildung von Melolontha pectoralis GERM",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "188",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560301",
+      "created": "2011-10-11 17:57:51",
+      "updated": "2011-10-11 17:57:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12560301
+      ]
+    },
+    {
+      "reference_id": "58884",
+      "genre": "article",
+      "title": "Neue Myodochidae (Hem. Het.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "215",
+      "epage": "221",
+      "year": "1916",
+      "date": "1916-00-00",
+      "oclc": "1769860",
+      "PageID": "12560328",
+      "created": "2010-11-20 23:06:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10338",
+          "lastname": "Bergroth",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12560328,
+        12560329,
+        12560330,
+        12560331,
+        12560332,
+        12560333,
+        12560334
+      ]
+    },
+    {
+      "reference_id": "97052",
+      "genre": "article",
+      "title": "Neue Chrysomeliden aus Japan",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "222",
+      "epage": "223",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560335",
+      "created": "2011-10-11 17:57:57",
+      "updated": "2011-10-11 17:57:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12560335,
+        12560336
+      ]
+    },
+    {
+      "reference_id": "97053",
+      "genre": "article",
+      "title": "Zur Kenntnis einiger Phoridenarten und ihrer Synonyme",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "227",
+      "epage": "234",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560344",
+      "created": "2011-10-11 17:58:03",
+      "updated": "2011-10-11 17:58:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53221",
+          "lastname": "Schmitz",
+          "forename": "Hermann"
+        }
+      ],
+      "bhl_pages": [
+        12560344,
+        12560345,
+        12560346,
+        12560347,
+        12560348,
+        12560349,
+        12560350,
+        12560351
+      ]
+    },
+    {
+      "reference_id": "100176",
+      "genre": "article",
+      "title": "Studien uber pal\u00e4arktische Buprestiden",
+      "secondary_title": "Entomologische Zeitung Wien",
+      "volume": "35",
+      "spage": "235",
+      "epage": "286",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560352",
+      "created": "2012-01-04 09:32:12",
+      "updated": "2012-01-04 09:33:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39441",
+          "lastname": "Obenberger",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12560352,
+        12560353,
+        12560354,
+        12560355,
+        12560356,
+        12560357,
+        12560358,
+        12560359,
+        12560360,
+        12560361,
+        12560362,
+        12560363,
+        12560364,
+        12560365,
+        12560366,
+        12560367,
+        12560368,
+        12560369,
+        12560370,
+        12560371,
+        12560372,
+        12560373,
+        12560374,
+        12560375,
+        12560376,
+        12560377,
+        12560378,
+        12560379,
+        12560380,
+        12560381,
+        12560382,
+        12560383,
+        12560384,
+        12560385,
+        12560386,
+        12560387,
+        12560388,
+        12560389,
+        12560390,
+        12560391,
+        12560392,
+        12560393,
+        12560394,
+        12560395,
+        12560396,
+        12560397,
+        12560398,
+        12560399,
+        12560400,
+        12560401,
+        12560402,
+        12560403
+      ]
+    },
+    {
+      "reference_id": "97054",
+      "genre": "article",
+      "title": "Die Pilzm\u00fccken-Gattungen Phthinia WINN. und Bolitophila MEIG",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "279",
+      "epage": "286",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560396",
+      "created": "2011-10-11 17:58:13",
+      "updated": "2011-10-11 17:58:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53206",
+          "lastname": "Landrock",
+          "forename": "Karl"
+        }
+      ],
+      "bhl_pages": [
+        12560396,
+        12560397,
+        12560398,
+        12560399,
+        12560400,
+        12560401,
+        12560402,
+        12560403
+      ]
+    },
+    {
+      "reference_id": "97055",
+      "genre": "article",
+      "title": "\u00dcber die Behandlung der Tollwut mit Kantharidin",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "287",
+      "epage": "290",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560404",
+      "created": "2011-10-11 17:58:19",
+      "updated": "2011-10-11 17:58:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53198",
+          "lastname": "Netolitzky",
+          "forename": "Fritz"
+        }
+      ],
+      "bhl_pages": [
+        12560404,
+        12560405,
+        12560406,
+        12560407
+      ]
+    },
+    {
+      "reference_id": "97056",
+      "genre": "article",
+      "title": "Coleopterologische Notizen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "294",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560411",
+      "created": "2011-10-11 17:58:26",
+      "updated": "2011-10-11 17:58:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12560411
+      ]
+    },
+    {
+      "reference_id": "97057",
+      "genre": "article",
+      "title": "Beobachtungen \u00fcber den Insektenbesuch bei einigen Papilionaceen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "35",
+      "spage": "295",
+      "epage": "297",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "1562-0891",
+      "PageID": "12560412",
+      "created": "2011-10-11 17:58:31",
+      "updated": "2011-10-11 17:58:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53174",
+          "lastname": "Hetschko",
+          "forename": "Alfred"
+        }
+      ],
+      "bhl_pages": [
+        12560412,
+        12560413,
+        12560414
+      ]
+    }
+  ]
+}

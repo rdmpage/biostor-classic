@@ -1,0 +1,192 @@
+{
+  "ItemID": "44050",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 6 1910",
+  "articles": [
+    {
+      "reference_id": "72295",
+      "genre": "article",
+      "title": "Die sch\u00e4dlichen und n\u00fctzlichen Insekten vom Zuckerrohr Formosas",
+      "secondary_title": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie. Schoneberg-Berlin",
+      "volume": "6",
+      "spage": "101",
+      "epage": "104",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1770562",
+      "PageID": "12064518",
+      "created": "2011-06-04 01:07:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42090",
+          "lastname": "Matsumura",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        12064518,
+        12064519,
+        12064520,
+        12064521
+      ]
+    },
+    {
+      "reference_id": "71392",
+      "genre": "article",
+      "title": "Ueber Vorkommen und lebensweise von Barbitistes constrictus Br. (Orth. Locust.)",
+      "secondary_title": "Zs. wiss. Insekten-Biol. Berlin",
+      "volume": "6",
+      "spage": "104",
+      "epage": "107",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1770562",
+      "PageID": "12064521",
+      "created": "2011-06-03 19:39:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46819",
+          "lastname": "Baume",
+          "forename": "La"
+        }
+      ],
+      "bhl_pages": [
+        12064521,
+        12064522,
+        12064523,
+        12064524
+      ]
+    },
+    {
+      "reference_id": "73038",
+      "genre": "article",
+      "title": "\u00dcber deutsche Gallm\u00fccken und Gallen",
+      "secondary_title": "Zoologischen Wiss InsektenBiologie",
+      "volume": "6",
+      "spage": "125",
+      "epage": "133",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1770562",
+      "PageID": "12064546",
+      "created": "2011-06-04 05:28:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47131",
+          "lastname": "R\u00fcbsaamen",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        12064546,
+        12064547,
+        12064548,
+        12064549,
+        12064550,
+        12064551,
+        12064552,
+        12064553,
+        12064554
+      ]
+    },
+    {
+      "reference_id": "58343",
+      "genre": "article",
+      "title": "Die sch\u00e4dlichen und n\u00fctzlichen Insekten vom Zuckerrohr Formosas",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "6",
+      "spage": "136",
+      "epage": "139",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1770562",
+      "PageID": "12064557",
+      "created": "2010-11-20 20:46:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42090",
+          "lastname": "Matsumura",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        12064557,
+        12064558,
+        12064559,
+        12064560
+      ]
+    },
+    {
+      "reference_id": "58361",
+      "genre": "article",
+      "title": "Ueber deutsche Gallm\u00fccken un Gallen",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "6",
+      "spage": "283",
+      "epage": "289",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1770562",
+      "PageID": "12064716",
+      "created": "2010-11-20 20:48:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42323",
+          "lastname": "R\u00fcbsaamen",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        12064716,
+        12064717,
+        12064718,
+        12064719,
+        12064720,
+        12064721,
+        12064722
+      ]
+    },
+    {
+      "reference_id": "58360",
+      "genre": "article",
+      "title": "Ueber deutsche Gallm\u00fccken und Gallen [in part]",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "6",
+      "spage": "336",
+      "epage": "342",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1770562",
+      "PageID": "12064773",
+      "created": "2010-11-20 20:48:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42323",
+          "lastname": "R\u00fcbsaamen",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        12064773,
+        12064774,
+        12064775,
+        12064776,
+        12064777,
+        12064778,
+        12064779
+      ]
+    }
+  ]
+}

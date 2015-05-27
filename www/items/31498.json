@@ -1,0 +1,84 @@
+{
+  "ItemID": "31498",
+  "FullTitle": "Journal of the Royal Microscopical Society.",
+  "VolumeInfo": "1913",
+  "articles": [
+    {
+      "reference_id": "58638",
+      "genre": "article",
+      "title": "Australasian Rotifera",
+      "secondary_title": "Journal of the Royal Microscopical Society. London",
+      "volume": "1913",
+      "spage": "455",
+      "epage": "461",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1606258",
+      "PageID": "7150500",
+      "created": "2010-11-20 22:17:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42394",
+          "lastname": "Murray",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        7150500,
+        7150501,
+        7150502,
+        7150503,
+        7150504,
+        7150505,
+        7150506
+      ]
+    },
+    {
+      "reference_id": "58637",
+      "genre": "article",
+      "title": "Notes on the family Cathypnidae",
+      "secondary_title": "Journal of the Royal Microscopical Society. London",
+      "volume": "1913",
+      "spage": "545",
+      "epage": "564",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1606258",
+      "PageID": "7150621",
+      "created": "2010-11-20 22:17:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42394",
+          "lastname": "Murray",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        7150621,
+        7150622,
+        7150623,
+        7150624,
+        7150625,
+        7150626,
+        7150627,
+        7150628,
+        7150629,
+        7150533,
+        7150534,
+        7150535,
+        7150536,
+        7150537,
+        7150538,
+        7150539,
+        7150540,
+        7150541,
+        7150542,
+        7150561
+      ]
+    }
+  ]
+}

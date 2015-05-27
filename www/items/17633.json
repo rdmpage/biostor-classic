@@ -1,0 +1,40 @@
+{
+  "ItemID": "17633",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 5 (1850-1851)",
+  "articles": [
+    {
+      "reference_id": "4036",
+      "genre": "article",
+      "title": "Crustacea Grapsoidea, (Cyclometopa, Edwardsii): Conspectus Crustacearum qu\u00e6 in Orbis Terrarum circumnavigatione, Carolo Wilkes e classe Reipublic\u00e6 F\u0153derat\u00e6 Duce, lexit et descriptsit J. D. Dana",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "5",
+      "spage": "247",
+      "epage": "254",
+      "year": "1851",
+      "date": "1851-00-00",
+      "issn": "0097-3157",
+      "PageID": "1642853",
+      "created": "2009-12-26 21:30:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2398",
+          "lastname": "Dana",
+          "forename": "J D"
+        }
+      ],
+      "bhl_pages": [
+        1642853,
+        1642854,
+        1642855,
+        1642856,
+        1642857,
+        1642858,
+        1642859,
+        1642860
+      ]
+    }
+  ]
+}

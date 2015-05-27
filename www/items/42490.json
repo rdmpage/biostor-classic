@@ -1,0 +1,71 @@
+{
+  "ItemID": "42490",
+  "FullTitle": "Entomologica Americana.  ",
+  "VolumeInfo": "v. 2 1886-87",
+  "articles": [
+    {
+      "reference_id": "20904",
+      "genre": "article",
+      "secondary_title": "Entomologica Americana",
+      "volume": "2",
+      "spage": "128",
+      "epage": "137",
+      "year": "1886",
+      "date": "1886-00-00",
+      "oclc": "1568003",
+      "PageID": "11460563",
+      "created": "2010-02-10 17:45:41",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18078",
+          "lastname": "Atkinson",
+          "forename": "G F"
+        }
+      ],
+      "bhl_pages": [
+        11460563,
+        11460564,
+        11460565,
+        11460566,
+        11460567,
+        11460568,
+        11460569,
+        11460570,
+        11460571,
+        11460572
+      ]
+    },
+    {
+      "reference_id": "72091",
+      "genre": "article",
+      "title": "Descriptions of new genera and species of north american Myriapoda (Julidae.)",
+      "secondary_title": "Entomologica Americana",
+      "volume": "2",
+      "spage": "225",
+      "epage": "229",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568003",
+      "PageID": "11460683",
+      "created": "2011-06-04 00:27:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46948",
+          "lastname": "Bollmann",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11460683,
+        11460684,
+        11460685,
+        11460686,
+        11460687
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "ItemID": "35814",
+  "FullTitle": "Smithsonian miscellaneous collections.",
+  "VolumeInfo": "v. 60 1913",
+  "articles": [
+    {
+      "reference_id": "100220",
+      "genre": "article",
+      "title": "New races of Insectivores, Bats, and Lemurs from British East Africa",
+      "secondary_title": "Smithsonian Institution Miscellaneous Collection",
+      "volume": "60",
+      "spage": "1",
+      "epage": "13",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1376204",
+      "PageID": "8910531",
+      "created": "2012-01-16 13:53:41",
+      "updated": "2012-01-16 13:53:41",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8910531,
+        8910532,
+        8910533,
+        8910534,
+        8910535,
+        8910536,
+        8910537,
+        8910538,
+        8910539,
+        8910540,
+        8910541,
+        8910542,
+        8910543
+      ]
+    },
+    {
+      "reference_id": "100694",
+      "genre": "article",
+      "title": "Diagnosis of a new Beaked Whale of the genus Mesoplodon from the coast of North Carolina",
+      "secondary_title": "Smithsonian Institution Miscellaneous Collection",
+      "volume": "60",
+      "issue": "25",
+      "spage": "1",
+      "epage": "2",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1376204",
+      "PageID": "8910771",
+      "created": "2012-02-05 12:28:36",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45031",
+          "lastname": "True",
+          "forename": "Frederick W"
+        }
+      ],
+      "bhl_pages": [
+        8910771,
+        8910772
+      ]
+    }
+  ]
+}

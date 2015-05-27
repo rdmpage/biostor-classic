@@ -1,0 +1,183 @@
+{
+  "ItemID": "42354",
+  "FullTitle": "Entomologica Americana.  ",
+  "VolumeInfo": "v. 3 1887-88",
+  "articles": [
+    {
+      "reference_id": "60382",
+      "genre": "article",
+      "title": "Observations on some Capsidae with descriptions of a few new species",
+      "secondary_title": "Entomologica Americana",
+      "volume": "3",
+      "spage": "29",
+      "epage": "35",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568003",
+      "PageID": "11405896",
+      "created": "2010-11-22 23:43:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42806",
+          "lastname": "Uhler",
+          "forename": "P R"
+        }
+      ],
+      "bhl_pages": [
+        11405896,
+        11405897,
+        11405898,
+        11405899,
+        11405900,
+        11405901,
+        11405902
+      ]
+    },
+    {
+      "reference_id": "60748",
+      "genre": "article",
+      "title": "Studies on the North American Proctotrupidae, with descriptions of new species from Florida",
+      "secondary_title": "Entomologica Americana",
+      "volume": "3",
+      "spage": "73",
+      "epage": "76",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568003",
+      "PageID": "11405963",
+      "created": "2010-11-23 04:22:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        11405963,
+        11405964,
+        11405965,
+        11405966
+      ]
+    },
+    {
+      "reference_id": "71263",
+      "genre": "article",
+      "title": "New North American myriapods",
+      "secondary_title": "Entomologica Americana",
+      "volume": "3",
+      "spage": "81",
+      "epage": "83",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568003",
+      "PageID": "11405971",
+      "created": "2011-06-03 18:19:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2376",
+          "lastname": "Bollman",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11405971,
+        11405972,
+        11405973
+      ]
+    },
+    {
+      "reference_id": "71704",
+      "genre": "article",
+      "title": "Studies on the North American Proctotrupidae with descriptions of new species from Florida. (Part 1.)",
+      "secondary_title": "Entomologica Americana",
+      "volume": "3",
+      "spage": "97",
+      "epage": "100",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568003",
+      "PageID": "11405987",
+      "created": "2011-06-03 22:50:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        11405987,
+        11405988,
+        11405989,
+        11405990
+      ]
+    },
+    {
+      "reference_id": "71524",
+      "genre": "article",
+      "title": "Notes on Lachnosterna",
+      "secondary_title": "Entomologia Americana",
+      "volume": "3",
+      "spage": "141",
+      "epage": "145",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568003",
+      "PageID": "11406031",
+      "created": "2011-06-03 20:14:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46849",
+          "lastname": "Horn",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        11406031,
+        11406032,
+        11406033,
+        11406034,
+        11406035
+      ]
+    },
+    {
+      "reference_id": "72427",
+      "genre": "article",
+      "title": "Descriptions of three new Eucharids from, Florida, with a generic table of the Eucharinae",
+      "secondary_title": "Entomologica Americana",
+      "volume": "3",
+      "spage": "186",
+      "epage": "188",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568003",
+      "PageID": "11406076",
+      "created": "2011-06-04 01:51:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        11406076,
+        11406077,
+        11406078
+      ]
+    }
+  ]
+}

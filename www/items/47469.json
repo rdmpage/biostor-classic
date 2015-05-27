@@ -1,0 +1,63 @@
+{
+  "ItemID": "47469",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.84 no.1 1998",
+  "articles": [
+    {
+      "reference_id": "63077",
+      "genre": "article",
+      "title": "Two new species of Lepidaploa (Vernonieae: Asteraceae)",
+      "secondary_title": "Phytologia",
+      "volume": "84",
+      "spage": "40",
+      "epage": "42",
+      "year": "1998",
+      "date": "1998-00-00",
+      "issn": "0031-9430",
+      "PageID": "13192046",
+      "created": "2011-01-26 21:42:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13192046,
+        13192047,
+        13192048
+      ]
+    },
+    {
+      "reference_id": "62918",
+      "genre": "article",
+      "title": "Two new species of Archibaccharis (Asteraceae: Astereae) from Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "84",
+      "spage": "50",
+      "epage": "52",
+      "year": "1998",
+      "date": "1998-00-00",
+      "issn": "0031-9430",
+      "PageID": "13192056",
+      "created": "2011-01-26 21:36:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43554",
+          "lastname": "Nesom",
+          "forename": "G L"
+        }
+      ],
+      "bhl_pages": [
+        13192056,
+        13192057,
+        13192058
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1849 @@
+{
+  "ItemID": "22498",
+  "FullTitle": "Breviora.",
+  "VolumeInfo": "no.67-120 (1957-1960)",
+  "articles": [
+    {
+      "reference_id": "4443",
+      "genre": "article",
+      "title": "Notes on certain species of Tetragnatha (Araneae, Argiopidae) in Central America and Mexico",
+      "secondary_title": "Breviora",
+      "volume": "67",
+      "spage": "1",
+      "epage": "4",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190776",
+      "created": "2009-12-27 16:32:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "674",
+          "lastname": "Chickering",
+          "forename": "A M"
+        }
+      ],
+      "bhl_pages": [
+        3190776,
+        3190642,
+        3190777,
+        3190778
+      ]
+    },
+    {
+      "reference_id": "4442",
+      "genre": "article",
+      "title": "The genus Tetragnatha (Araneae, Argiopidae) in Jamaica, B.W.I., and other neighboring islands",
+      "secondary_title": "Breviora",
+      "volume": "68",
+      "spage": "1",
+      "epage": "15",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190827",
+      "created": "2009-12-27 16:32:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "674",
+          "lastname": "Chickering",
+          "forename": "A M"
+        }
+      ],
+      "bhl_pages": [
+        3190827,
+        3190665,
+        3190650,
+        3190894,
+        3190540,
+        3190606,
+        3190779,
+        3190780,
+        3190781,
+        3190782,
+        3190698,
+        3190783,
+        3190910,
+        3190557,
+        3190558
+      ]
+    },
+    {
+      "reference_id": "4441",
+      "genre": "article",
+      "title": "A new Zodariid spider from Panama",
+      "secondary_title": "Breviora",
+      "volume": "69",
+      "spage": "1",
+      "epage": "7",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190903",
+      "created": "2009-12-27 16:32:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "674",
+          "lastname": "Chickering",
+          "forename": "A M"
+        }
+      ],
+      "bhl_pages": [
+        3190903,
+        3190785,
+        3190786,
+        3190787,
+        3190506,
+        3190559,
+        3190514
+      ]
+    },
+    {
+      "reference_id": "4440",
+      "genre": "article",
+      "title": "&quot;Anguimorph&quot; tooth replacement in Amphisbaena alba Linnaeus, 1758, and A. fuliginosa Linnaeus, 1758 (Reptilia: Amphisbaenidae)",
+      "secondary_title": "Breviora",
+      "volume": "70",
+      "spage": "1",
+      "epage": "12",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190789",
+      "created": "2009-12-27 16:32:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2588",
+          "lastname": "Gans",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        3190789,
+        3190513,
+        3190501,
+        3190511,
+        3190790,
+        3190560,
+        3190819,
+        3190666,
+        3190824,
+        3190791,
+        3190638,
+        3190792
+      ]
+    },
+    {
+      "reference_id": "4439",
+      "genre": "article",
+      "title": "Taxonomic notes on the New World forms of Troglodytes",
+      "secondary_title": "Breviora",
+      "volume": "71",
+      "spage": "1",
+      "epage": "15",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190855",
+      "created": "2009-12-27 16:32:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "585",
+          "lastname": "Paynter",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        3190855,
+        3190793,
+        3190794,
+        3190795,
+        3190522,
+        3190796,
+        3190815,
+        3190840,
+        3190679,
+        3190712,
+        3190918,
+        3190688,
+        3190561,
+        3190562,
+        3190860
+      ]
+    },
+    {
+      "reference_id": "4438",
+      "genre": "article",
+      "title": "Is the ant genus Tetramorium native in North America?",
+      "secondary_title": "Breviora",
+      "volume": "72",
+      "spage": "1",
+      "epage": "8",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190563",
+      "created": "2009-12-27 16:32:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2544",
+          "lastname": "Brown",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        3190563,
+        3190920,
+        3190837,
+        3190600,
+        3190921,
+        3190922,
+        3190626,
+        3190810
+      ]
+    },
+    {
+      "reference_id": "4437",
+      "genre": "article",
+      "title": "Additions to the mammalian fauna of Peru and notes on some other Peruvian mammals",
+      "secondary_title": "Breviora",
+      "volume": "73",
+      "spage": "1",
+      "epage": "7",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190581",
+      "created": "2009-12-27 16:32:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2610",
+          "lastname": "Pearson",
+          "forename": "O P"
+        }
+      ],
+      "bhl_pages": [
+        3190581,
+        3190805,
+        3190857,
+        3190878,
+        3190923,
+        3190657,
+        3190564
+      ]
+    },
+    {
+      "reference_id": "4436",
+      "genre": "article",
+      "title": "The discovery of the Cerapachyine ants on New Caledonia, with the description of new species of Phyracaces and Sphinctomyrmex",
+      "secondary_title": "Breviora",
+      "volume": "74",
+      "spage": "1",
+      "epage": "9",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190924",
+      "created": "2009-12-27 16:32:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2584",
+          "lastname": "Wilson",
+          "forename": "E O"
+        }
+      ],
+      "bhl_pages": [
+        3190924,
+        3190925,
+        3190926,
+        3190927,
+        3190928,
+        3190929,
+        3190930,
+        3190619,
+        3190565
+      ]
+    },
+    {
+      "reference_id": "4435",
+      "genre": "article",
+      "title": "On a new Octochaetine earthworm supposedly from Guatemala",
+      "secondary_title": "Breviora",
+      "volume": "75",
+      "spage": "1",
+      "epage": "8",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190884",
+      "created": "2009-12-27 16:32:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "703",
+          "lastname": "Gates",
+          "forename": "G E"
+        }
+      ],
+      "bhl_pages": [
+        3190884,
+        3190933,
+        3190934,
+        3190566,
+        3190935,
+        3190552,
+        3190872,
+        3190936
+      ]
+    },
+    {
+      "reference_id": "99568",
+      "genre": "article",
+      "title": "Two new land and freshwater mollusks from New Guinea",
+      "secondary_title": "Breviora",
+      "volume": "76",
+      "spage": "1",
+      "epage": "4",
+      "year": "1957",
+      "date": "1957-06-18",
+      "issn": "0006-9698",
+      "PageID": "3190937",
+      "created": "2011-12-18 10:59:41",
+      "updated": "2011-12-18 11:00:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51225",
+          "lastname": "Clench",
+          "forename": "William J"
+        }
+      ],
+      "bhl_pages": [
+        3190937,
+        3190938,
+        3190939,
+        3190567
+      ]
+    },
+    {
+      "reference_id": "4434",
+      "genre": "article",
+      "title": "Dacetinops, a new ant genus from New Guinea",
+      "secondary_title": "Breviora",
+      "volume": "77",
+      "spage": "1",
+      "epage": "7",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190598",
+      "created": "2009-12-27 16:32:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2544",
+          "lastname": "Brown",
+          "forename": "W L"
+        },
+        {
+          "id": "2584",
+          "lastname": "Wilson",
+          "forename": "E O"
+        }
+      ],
+      "bhl_pages": [
+        3190598,
+        3190831,
+        3190940,
+        3190641,
+        3190941,
+        3190579,
+        3190630
+      ]
+    },
+    {
+      "reference_id": "4433",
+      "genre": "article",
+      "title": "The larva of the ant genus Dacetinops Brown and Wilson",
+      "secondary_title": "Breviora",
+      "volume": "78",
+      "spage": "1",
+      "epage": "4",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190842",
+      "created": "2009-12-27 16:32:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2609",
+          "lastname": "Wheeler",
+          "forename": "G C"
+        },
+        {
+          "id": "2228",
+          "lastname": "Wheeler",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3190842,
+        3190822,
+        3190681,
+        3190568
+      ]
+    },
+    {
+      "reference_id": "4432",
+      "genre": "article",
+      "title": "Dasypeltis medici Iamuensis, a new race of egg-eating snake (Ophidia, Reptilia) from coastal East Africa",
+      "secondary_title": "Breviora",
+      "volume": "79",
+      "spage": "1",
+      "epage": "13",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190672",
+      "created": "2009-12-27 16:32:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2588",
+          "lastname": "Gans",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        3190672,
+        3190692,
+        3190942,
+        3190943,
+        3190904,
+        3190689,
+        3190569,
+        3190690,
+        3190678,
+        3190697,
+        3190944,
+        3190945,
+        3190809
+      ]
+    },
+    {
+      "reference_id": "4431",
+      "genre": "article",
+      "title": "A collection of drawings of fishes ascribed to J.P. Kirtland (1793-1877), in the Library of Bowdoin College",
+      "secondary_title": "Breviora",
+      "volume": "80",
+      "spage": "1",
+      "epage": "4",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190570",
+      "created": "2009-12-27 16:32:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2521",
+          "lastname": "Moulton",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        3190570,
+        3190610,
+        3190947,
+        3190640
+      ]
+    },
+    {
+      "reference_id": "4430",
+      "genre": "article",
+      "title": "Contributions to a revision of the earthworm family Lumbricidae. I. Allolobophora limicola",
+      "secondary_title": "Breviora",
+      "volume": "81",
+      "spage": "1",
+      "epage": "14",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190950",
+      "created": "2009-12-27 16:32:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "703",
+          "lastname": "Gates",
+          "forename": "G E"
+        }
+      ],
+      "bhl_pages": [
+        3190950,
+        3190711,
+        3190572,
+        3190713,
+        3190951,
+        3190674,
+        3190952,
+        3190871,
+        3190953,
+        3190828,
+        3190954,
+        3190955,
+        3190887,
+        3190573
+      ]
+    },
+    {
+      "reference_id": "4429",
+      "genre": "article",
+      "title": "The trunk musculature of Sanzina and its bearing on certain aspects of the myological evolution of snakes",
+      "secondary_title": "Breviora",
+      "volume": "82",
+      "spage": "1",
+      "epage": "12",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190574",
+      "created": "2009-12-27 16:32:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "743",
+          "lastname": "Auffenberg",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3190574,
+        3190648,
+        3190808,
+        3190956,
+        3190575,
+        3190538,
+        3190957,
+        3190807,
+        3190958,
+        3190959,
+        3190960,
+        3190961
+      ]
+    },
+    {
+      "reference_id": "4428",
+      "genre": "article",
+      "title": "Thamnophis bovallii Dunn rediscovered (Reptilia, serpentes)",
+      "secondary_title": "Breviora",
+      "volume": "83",
+      "spage": "1",
+      "epage": "8",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190877",
+      "created": "2009-12-27 16:32:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2567",
+          "lastname": "Shreve",
+          "forename": "B"
+        },
+        {
+          "id": "2588",
+          "lastname": "Gans",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        3190877,
+        3190576,
+        3190577,
+        3190854,
+        3190804,
+        3190814,
+        3190820,
+        3190868
+      ]
+    },
+    {
+      "reference_id": "4427",
+      "genre": "article",
+      "title": "Rediscovery of the Australian chelid genus Pseudemydura siebenrock (Chelidae, Testudines)",
+      "secondary_title": "Breviora",
+      "volume": "84",
+      "spage": "1",
+      "epage": "8",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190962",
+      "created": "2009-12-27 16:32:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "559",
+          "lastname": "Williams",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        3190962,
+        3190963,
+        3190964,
+        3190661,
+        3190891,
+        3190578,
+        3190605,
+        3190627
+      ]
+    },
+    {
+      "reference_id": "4426",
+      "genre": "article",
+      "title": "The choanal papillae of the Cheloniidae",
+      "secondary_title": "Breviora",
+      "volume": "85",
+      "spage": "1",
+      "epage": "5",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190618",
+      "created": "2009-12-27 16:32:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "718",
+          "lastname": "Parsons",
+          "forename": "T S"
+        }
+      ],
+      "bhl_pages": [
+        3190618,
+        3190967,
+        3190587,
+        3190588,
+        3190968
+      ]
+    },
+    {
+      "reference_id": "4425",
+      "genre": "article",
+      "title": "A new Sicistine rodent from the Miocene of Wyoming",
+      "secondary_title": "Breviora",
+      "volume": "86",
+      "spage": "1",
+      "epage": "7",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190870",
+      "created": "2009-12-27 16:32:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "697",
+          "lastname": "Black",
+          "forename": "C C"
+        }
+      ],
+      "bhl_pages": [
+        3190870,
+        3190970,
+        3190971,
+        3190699,
+        3190691,
+        3190685,
+        3190972
+      ]
+    },
+    {
+      "reference_id": "4424",
+      "genre": "article",
+      "title": "An embolomere jaw from the mid-carboniferous of Nova-Scotia",
+      "secondary_title": "Breviora",
+      "volume": "87",
+      "spage": "1",
+      "epage": "7",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190589",
+      "created": "2009-12-27 16:31:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "687",
+          "lastname": "Romer",
+          "forename": "A S"
+        }
+      ],
+      "bhl_pages": [
+        3190589,
+        3190973,
+        3190590,
+        3190974,
+        3190708,
+        3190975,
+        3190591
+      ]
+    },
+    {
+      "reference_id": "85994",
+      "genre": "article",
+      "title": "An embolomere jaw from the mid-carboniferous of Nova Scotia",
+      "secondary_title": "Breviora",
+      "volume": "87",
+      "spage": "1",
+      "epage": "8",
+      "year": "1958",
+      "date": "1958-06-20",
+      "issn": "0006-9698",
+      "PageID": "3190589",
+      "created": "2011-09-15 11:57:10",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51229",
+          "lastname": "Romer",
+          "forename": "Alfred Sherwood"
+        }
+      ],
+      "bhl_pages": [
+        3190589,
+        3190973,
+        3190590,
+        3190974,
+        3190708,
+        3190975,
+        3190591,
+        3190637
+      ]
+    },
+    {
+      "reference_id": "4423",
+      "genre": "article",
+      "title": "A new species of the genus Urotheca (Serpentes: Colubridae) from Venezuela",
+      "secondary_title": "Breviora",
+      "volume": "88",
+      "spage": "1",
+      "epage": "5",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190592",
+      "created": "2009-12-27 16:31:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2608",
+          "lastname": "Roze",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        3190592,
+        3190593,
+        3190976,
+        3190554,
+        3190977
+      ]
+    },
+    {
+      "reference_id": "4422",
+      "genre": "article",
+      "title": "Remarks on some forms of Cinclus (Aves)",
+      "secondary_title": "Breviora",
+      "volume": "89",
+      "spage": "1",
+      "epage": "10",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190978",
+      "created": "2009-12-27 16:31:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2607",
+          "lastname": "Greenway",
+          "forename": "J C"
+        },
+        {
+          "id": "1160",
+          "lastname": "Vaurie",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        3190978,
+        3190519,
+        3190601,
+        3190856,
+        3190525,
+        3190524,
+        3190803,
+        3190979,
+        3190980,
+        3190981
+      ]
+    },
+    {
+      "reference_id": "4421",
+      "genre": "article",
+      "title": "A fossil vampire bat from Cuba",
+      "secondary_title": "Breviora",
+      "volume": "90",
+      "spage": "1",
+      "epage": "4",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190839",
+      "created": "2009-12-27 16:31:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2606",
+          "lastname": "Koopman",
+          "forename": "K F"
+        }
+      ],
+      "bhl_pages": [
+        3190839,
+        3190893,
+        3190983,
+        3190670
+      ]
+    },
+    {
+      "reference_id": "4420",
+      "genre": "article",
+      "title": "Contribution to a revision of the earthworm family Lumbricidae. II. Indian species",
+      "secondary_title": "Breviora",
+      "volume": "91",
+      "spage": "1",
+      "epage": "16",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190984",
+      "created": "2009-12-27 16:31:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "703",
+          "lastname": "Gates",
+          "forename": "G E"
+        }
+      ],
+      "bhl_pages": [
+        3190984,
+        3190695,
+        3190542,
+        3190985,
+        3190862,
+        3190687,
+        3190676,
+        3190901,
+        3190986,
+        3190987,
+        3190988,
+        3190989,
+        3190990,
+        3190719,
+        3190991,
+        3190992
+      ]
+    },
+    {
+      "reference_id": "4419",
+      "genre": "article",
+      "title": "A new genus of erethizontid rodents from the Colhuehuapian of Patagonia",
+      "secondary_title": "Breviora",
+      "volume": "92",
+      "spage": "1",
+      "epage": "4",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190993",
+      "created": "2009-12-27 16:31:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "580",
+          "lastname": "Patterson",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        3190993,
+        3190914,
+        3190680,
+        3190703
+      ]
+    },
+    {
+      "reference_id": "4418",
+      "genre": "article",
+      "title": "A new barylambdid pantodont from the late Paleocene",
+      "secondary_title": "Breviora",
+      "volume": "93",
+      "spage": "1",
+      "epage": "8",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190897",
+      "created": "2009-12-27 16:31:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "580",
+          "lastname": "Patterson",
+          "forename": "B"
+        },
+        {
+          "id": "1960",
+          "lastname": "Simons",
+          "forename": "E L"
+        }
+      ],
+      "bhl_pages": [
+        3190897,
+        3190994,
+        3190917,
+        3190913,
+        3190995,
+        3190996,
+        3190706,
+        3190997
+      ]
+    },
+    {
+      "reference_id": "4417",
+      "genre": "article",
+      "title": "Affinities of the Patagonian fossil mammal necrolestes",
+      "secondary_title": "Breviora",
+      "volume": "94",
+      "spage": "1",
+      "epage": "14",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190998",
+      "created": "2009-12-27 16:31:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "580",
+          "lastname": "Patterson",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        3190998,
+        3190999,
+        3191000,
+        3190664,
+        3191001,
+        3190720,
+        3191002,
+        3190892,
+        3191003,
+        3190721,
+        3191004,
+        3190722,
+        3190723,
+        3190609
+      ]
+    },
+    {
+      "reference_id": "4416",
+      "genre": "article",
+      "title": "A new Bolivian land snail of the genus Drymaeus",
+      "secondary_title": "Breviora",
+      "volume": "95",
+      "spage": "1",
+      "epage": "3",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190724",
+      "created": "2009-12-27 16:31:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2605",
+          "lastname": "Parodiz",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        3190724,
+        3191006,
+        3191007
+      ]
+    },
+    {
+      "reference_id": "4415",
+      "genre": "article",
+      "title": "A new dichobunid artiodactyl from the Uinta Eocene",
+      "secondary_title": "Breviora",
+      "volume": "96",
+      "spage": "1",
+      "epage": "6",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190888",
+      "created": "2009-12-27 16:31:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2604",
+          "lastname": "Gazin",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        3190888,
+        3191009,
+        3191010,
+        3191011,
+        3190725,
+        3190726
+      ]
+    },
+    {
+      "reference_id": "4414",
+      "genre": "article",
+      "title": "Fusion of cervical vertebrae in the Erethizontidae and Dinomyidae",
+      "secondary_title": "Breviora",
+      "volume": "97",
+      "spage": "1",
+      "epage": "11",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190816",
+      "created": "2009-12-27 16:31:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "688",
+          "lastname": "Ray",
+          "forename": "C E"
+        }
+      ],
+      "bhl_pages": [
+        3190816,
+        3190728,
+        3190797,
+        3191012,
+        3190614,
+        3190539,
+        3190874,
+        3191013,
+        3191014,
+        3191015,
+        3190916
+      ]
+    },
+    {
+      "reference_id": "4413",
+      "genre": "article",
+      "title": "Two new species of Bathylagus from the western North Atlantic with notes on other species",
+      "secondary_title": "Breviora",
+      "volume": "98",
+      "spage": "1",
+      "epage": "9",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3191017",
+      "created": "2009-12-27 16:31:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1470",
+          "lastname": "Cohen",
+          "forename": "D M"
+        }
+      ],
+      "bhl_pages": [
+        3191017,
+        3190896,
+        3191018,
+        3190686,
+        3191019,
+        3191020,
+        3190550,
+        3190636,
+        3190645
+      ]
+    },
+    {
+      "reference_id": "4412",
+      "genre": "article",
+      "title": "A new subspecies of Chamaeleo Jacksoni Boulenger and a key to the species of three-horned chameleons",
+      "secondary_title": "Breviora",
+      "volume": "99",
+      "spage": "1",
+      "epage": "8",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3191023",
+      "created": "2009-12-27 16:31:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1082",
+          "lastname": "Rand",
+          "forename": "A S"
+        }
+      ],
+      "bhl_pages": [
+        3191023,
+        3191024,
+        3190596,
+        3190656,
+        3190663,
+        3190851,
+        3191025,
+        3190902
+      ]
+    },
+    {
+      "reference_id": "4411",
+      "genre": "article",
+      "title": "On the pineal organ of the tuna, Thynnus thynnus L",
+      "secondary_title": "Breviora",
+      "volume": "100",
+      "spage": "1",
+      "epage": "5",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0006-9698",
+      "PageID": "3191026",
+      "created": "2009-12-27 16:31:30",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2603",
+          "lastname": "Holmgren",
+          "forename": "U"
+        }
+      ],
+      "bhl_pages": [
+        3191026,
+        3190730,
+        3191027,
+        3191028,
+        3190675
+      ]
+    },
+    {
+      "reference_id": "4410",
+      "genre": "article",
+      "title": "Cervical ribs in turtles",
+      "secondary_title": "Breviora",
+      "volume": "101",
+      "spage": "1",
+      "epage": "12",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190732",
+      "created": "2009-12-27 16:31:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "559",
+          "lastname": "Williams",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        3190732,
+        3190850,
+        3190890,
+        3191032,
+        3190632,
+        3190604,
+        3190621,
+        3190553,
+        3190631,
+        3190821,
+        3191033,
+        3191034
+      ]
+    },
+    {
+      "reference_id": "4409",
+      "genre": "article",
+      "title": "A new Jamaican galliwasp (Sauria, Anguidae)",
+      "secondary_title": "Breviora",
+      "volume": "102",
+      "spage": "1",
+      "epage": "13",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3191036",
+      "created": "2009-12-27 16:31:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2586",
+          "lastname": "Underwood",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        3191036,
+        3190583,
+        3190844,
+        3190523,
+        3190548,
+        3190734,
+        3190529,
+        3190735,
+        3191037,
+        3191038,
+        3190881,
+        3190551,
+        3190736
+      ]
+    },
+    {
+      "reference_id": "4408",
+      "genre": "article",
+      "title": "Two new species of Eleutherodactylus from Puerto Rico",
+      "secondary_title": "Breviora",
+      "volume": "103",
+      "spage": "1",
+      "epage": "6",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190880",
+      "created": "2009-12-27 16:31:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1097",
+          "lastname": "Rivero",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        3190880,
+        3190833,
+        3191040,
+        3190531,
+        3190510,
+        3190737
+      ]
+    },
+    {
+      "reference_id": "4407",
+      "genre": "article",
+      "title": "Studies on fishes of the family Ophidiidae. III. A new species of Lepophidium from Barbados",
+      "secondary_title": "Breviora",
+      "volume": "104",
+      "spage": "1",
+      "epage": "7",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190532",
+      "created": "2009-12-27 16:31:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1565",
+          "lastname": "Robins",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        3190532,
+        3190739,
+        3190533,
+        3190535,
+        3190534,
+        3190508,
+        3191041
+      ]
+    },
+    {
+      "reference_id": "4406",
+      "genre": "article",
+      "title": "Bufo Gundlachi, a new species of Cuban toad",
+      "secondary_title": "Breviora",
+      "volume": "105",
+      "spage": "1",
+      "epage": "14",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190700",
+      "created": "2009-12-27 16:31:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "690",
+          "lastname": "Ruibal",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        3190700,
+        3190705,
+        3191043,
+        3190740,
+        3191044,
+        3191045,
+        3190677,
+        3190741,
+        3190813,
+        3190668,
+        3191046,
+        3191047,
+        3191048,
+        3190530
+      ]
+    },
+    {
+      "reference_id": "4405",
+      "genre": "article",
+      "title": "The occipito-vertebral joint in the burrowing snakes of the family Uropeltidae",
+      "secondary_title": "Breviora",
+      "volume": "106",
+      "spage": "1",
+      "epage": "10",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3191051",
+      "created": "2009-12-27 16:31:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "559",
+          "lastname": "Williams",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        3191051,
+        3190806,
+        3190613,
+        3190655,
+        3191052,
+        3190876,
+        3190625,
+        3191053,
+        3190742,
+        3191054
+      ]
+    },
+    {
+      "reference_id": "4404",
+      "genre": "article",
+      "title": "A revision of the dacetine ant genus Neostruma",
+      "secondary_title": "Breviora",
+      "volume": "107",
+      "spage": "1",
+      "epage": "13",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190634",
+      "created": "2009-12-27 16:31:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2544",
+          "lastname": "Brown",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        3190634,
+        3190865,
+        3191056,
+        3191057,
+        3190652,
+        3190744,
+        3191058,
+        3190671,
+        3190745,
+        3190908,
+        3190746,
+        3190911,
+        3190915
+      ]
+    },
+    {
+      "reference_id": "4403",
+      "genre": "article",
+      "title": "Some new species of dacetine ants",
+      "secondary_title": "Breviora",
+      "volume": "108",
+      "spage": "1",
+      "epage": "11",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190710",
+      "created": "2009-12-27 16:31:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2544",
+          "lastname": "Brown",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        3190710,
+        3190898,
+        3190586,
+        3191060,
+        3191061,
+        3191062,
+        3190599,
+        3190654,
+        3191063,
+        3191064,
+        3191065
+      ]
+    },
+    {
+      "reference_id": "4402",
+      "genre": "article",
+      "title": "On the caudal neurosecretory system of the teleost fish, Fundulus heteroclitus L",
+      "secondary_title": "Breviora",
+      "volume": "111",
+      "spage": "1",
+      "epage": "13",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190826",
+      "created": "2009-12-27 16:31:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2603",
+          "lastname": "Holmgren",
+          "forename": "U"
+        }
+      ],
+      "bhl_pages": [
+        3190826,
+        3191074,
+        3190612,
+        3191075,
+        3191076,
+        3190886,
+        3190615,
+        3191077,
+        3190582,
+        3190801,
+        3190750,
+        3190526,
+        3190594
+      ]
+    },
+    {
+      "reference_id": "4401",
+      "genre": "article",
+      "title": "A mounted skeleton of the giant plesiosaur Kronosaurus",
+      "secondary_title": "Breviora",
+      "volume": "112",
+      "spage": "1",
+      "epage": "15",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190635",
+      "created": "2009-12-27 16:31:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "687",
+          "lastname": "Romer",
+          "forename": "A S"
+        },
+        {
+          "id": "2530",
+          "lastname": "Lewis",
+          "forename": "A D"
+        }
+      ],
+      "bhl_pages": [
+        3190635,
+        3190751,
+        3190832,
+        3190752,
+        3191080,
+        3190633,
+        3191081,
+        3190607,
+        3191082,
+        3190515,
+        3191083,
+        3190629,
+        3190859,
+        3191084,
+        3191085
+      ]
+    },
+    {
+      "reference_id": "61698",
+      "genre": "article",
+      "title": "A new phyllomedusa from Bolivia (Salientia, Hylidae)",
+      "secondary_title": "Breviora",
+      "volume": "113",
+      "spage": "1",
+      "epage": "3",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190753",
+      "created": "2011-01-17 10:37:48",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43096",
+          "lastname": "Shreve",
+          "forename": "Benjamin"
+        }
+      ],
+      "bhl_pages": [
+        3190753,
+        3190659,
+        3190800
+      ]
+    },
+    {
+      "reference_id": "85993",
+      "genre": "article",
+      "title": "A new Phyllomedusa from Bolivia (Salientia, Hylidae)",
+      "secondary_title": "Breviora",
+      "volume": "113",
+      "spage": "1",
+      "epage": "4",
+      "year": "1959",
+      "date": "1959-11-02",
+      "issn": "0006-9698",
+      "PageID": "3190753",
+      "created": "2011-09-15 11:51:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43096",
+          "lastname": "Shreve",
+          "forename": "Benjamin"
+        }
+      ],
+      "bhl_pages": [
+        3190753,
+        3190659,
+        3190800,
+        3190754
+      ]
+    },
+    {
+      "reference_id": "4400",
+      "genre": "article",
+      "title": "Anomalophis bolcensis (Massalongo), a new genus of fossil snake from the Italian Eocene",
+      "secondary_title": "Breviora",
+      "volume": "114",
+      "spage": "1",
+      "epage": "16",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190823",
+      "created": "2009-12-27 16:30:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "743",
+          "lastname": "Auffenberg",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3190823,
+        3190549,
+        3190662,
+        3190624,
+        3190811,
+        3190622,
+        3190889,
+        3190847,
+        3190838,
+        3191086,
+        3190869,
+        3190546,
+        3190830,
+        3190845,
+        3191087,
+        3190900
+      ]
+    },
+    {
+      "reference_id": "4399",
+      "genre": "article",
+      "title": "The lemon-colored plexaurids from the West Indies and Brazil",
+      "secondary_title": "Breviora",
+      "volume": "115",
+      "spage": "1",
+      "epage": "12",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190907",
+      "created": "2009-12-27 16:30:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2590",
+          "lastname": "Deichmann",
+          "forename": "E"
+        },
+        {
+          "id": "1577",
+          "lastname": "Bayer",
+          "forename": "F M"
+        }
+      ],
+      "bhl_pages": [
+        3190907,
+        3190895,
+        3191088,
+        3190899,
+        3191089,
+        3191090,
+        3191091,
+        3190696,
+        3190755,
+        3190756,
+        3191092,
+        3191093
+      ]
+    },
+    {
+      "reference_id": "4398",
+      "genre": "article",
+      "title": "Insectivores of the Middle Miocene Split Rock local fauna, Wyoming",
+      "secondary_title": "Breviora",
+      "volume": "116",
+      "spage": "1",
+      "epage": "11",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-9698",
+      "PageID": "3191096",
+      "created": "2009-12-27 16:30:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "707",
+          "lastname": "Reed",
+          "forename": "K M"
+        }
+      ],
+      "bhl_pages": [
+        3191096,
+        3191097,
+        3190580,
+        3191098,
+        3191099,
+        3190521,
+        3191100,
+        3191101,
+        3191102,
+        3190883,
+        3190516
+      ]
+    },
+    {
+      "reference_id": "4397",
+      "genre": "article",
+      "title": "Notes on Hispaniolan Herpetology I. Anolis christophei, new species, from the Citadel of King Christophe, Haiti",
+      "secondary_title": "Breviora",
+      "volume": "117",
+      "spage": "1",
+      "epage": "7",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-9698",
+      "PageID": "3191105",
+      "created": "2009-12-27 16:30:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "559",
+          "lastname": "Williams",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        3191105,
+        3190694,
+        3190693,
+        3191106,
+        3190701,
+        3191107,
+        3191108
+      ]
+    },
+    {
+      "reference_id": "4396",
+      "genre": "article",
+      "title": "A survey of the Leptodactylid frogs, genus Eupsophus, in Chile",
+      "secondary_title": "Breviora",
+      "volume": "118",
+      "spage": "1",
+      "epage": "13",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190537",
+      "created": "2009-12-27 16:30:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2602",
+          "lastname": "Cei",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        3190537,
+        3190758,
+        3190602,
+        3190759,
+        3190861,
+        3190863,
+        3191110,
+        3191111,
+        3190834,
+        3190885,
+        3191112,
+        3190867,
+        3191113
+      ]
+    },
+    {
+      "reference_id": "4395",
+      "genre": "article",
+      "title": "Two species of tortoises in northern South America",
+      "secondary_title": "Breviora",
+      "volume": "120",
+      "spage": "1",
+      "epage": "13",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-9698",
+      "PageID": "3190879",
+      "created": "2009-12-27 16:30:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "559",
+          "lastname": "Williams",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        3190879,
+        3191125,
+        3191126,
+        3190667,
+        3191127,
+        3191128,
+        3191129,
+        3191130,
+        3190707,
+        3190905,
+        3190771,
+        3191131,
+        3190772
+      ]
+    }
+  ]
+}

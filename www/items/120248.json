@@ -1,0 +1,39 @@
+{
+  "ItemID": "120248",
+  "FullTitle": "Proceedings of the California Academy of Sciences. 3d ser., Zoology",
+  "VolumeInfo": "v. 1 (1897-99)",
+  "articles": [
+    {
+      "reference_id": "105124",
+      "genre": "article",
+      "title": "A genus of maritime Dolichopodidae new to America",
+      "secondary_title": "Proc. Calif. Acad. Sci. Ser. 3,",
+      "volume": "1",
+      "spage": "145",
+      "epage": "152",
+      "year": "1897",
+      "date": "1897-00-00",
+      "PageID": "38967697",
+      "created": "2012-07-04 10:53:13",
+      "updated": "2012-07-04 10:53:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "788",
+          "lastname": "Wheeler",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        38967697,
+        38967698,
+        38967699,
+        38967700,
+        38967701,
+        38967702,
+        38967703,
+        38967704
+      ]
+    }
+  ]
+}

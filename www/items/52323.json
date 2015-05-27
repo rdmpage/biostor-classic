@@ -1,0 +1,36 @@
+{
+  "ItemID": "52323",
+  "FullTitle": "Transactions of the British Mycological Society.  ",
+  "VolumeInfo": "v.8 1922-1923",
+  "articles": [
+    {
+      "reference_id": "70754",
+      "genre": "article",
+      "title": "A singular Cordyceps from Stephen Island, New Zealand",
+      "secondary_title": "Trans. Brit. Mycol. Soc",
+      "volume": "8",
+      "spage": "72",
+      "epage": "75",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0007-1536",
+      "PageID": "15180647",
+      "created": "2011-06-03 06:55:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45596",
+          "lastname": "Cunningham",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        15180647,
+        15180648,
+        15180649,
+        15180650
+      ]
+    }
+  ]
+}

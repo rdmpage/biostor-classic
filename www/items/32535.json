@@ -1,0 +1,34 @@
+{
+  "ItemID": "32535",
+  "FullTitle": "Le Naturaliste canadien.",
+  "VolumeInfo": "v. 21-22 1894-95",
+  "articles": [
+    {
+      "reference_id": "72051",
+      "genre": "article",
+      "title": "Les derni\u00e8res descriptions de l'Abb\u00e9 Provancher. Ordre des N\u00e9vropt\u00e8res",
+      "secondary_title": "Naturaliste Canadien",
+      "volume": "22",
+      "spage": "79",
+      "epage": "80",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1605564",
+      "PageID": "7588941",
+      "created": "2011-06-04 00:16:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46770",
+          "lastname": "Provancher",
+          "forename": "Abb\u00e9"
+        }
+      ],
+      "bhl_pages": [
+        7588941,
+        7588942
+      ]
+    }
+  ]
+}

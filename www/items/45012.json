@@ -1,0 +1,67 @@
+{
+  "ItemID": "45012",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 5-6 1884-85",
+  "articles": [
+    {
+      "reference_id": "72892",
+      "genre": "article",
+      "title": "Parasiteklar insamlade i Norrland och Lappland af Joh. Rudolphi",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "5",
+      "spage": "63",
+      "epage": "66",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0013-886X",
+      "PageID": "12435383",
+      "created": "2011-06-04 04:39:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47106",
+          "lastname": "Holmgren",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        12435383,
+        12435384,
+        12435385,
+        12435386
+      ]
+    },
+    {
+      "reference_id": "60381",
+      "genre": "article",
+      "title": "Species Capsidarum quas legit expeditio danica Galateae descripsit",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "5",
+      "spage": "195",
+      "epage": "200",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0013-886X",
+      "PageID": "12435515",
+      "created": "2010-11-22 23:43:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39812",
+          "lastname": "Reuter",
+          "forename": "O M"
+        }
+      ],
+      "bhl_pages": [
+        12435515,
+        12435516,
+        12435517,
+        12435518,
+        12435519,
+        12435520
+      ]
+    }
+  ]
+}

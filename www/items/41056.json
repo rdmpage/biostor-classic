@@ -1,0 +1,667 @@
+{
+  "ItemID": "41056",
+  "FullTitle": "Proceedings of the Hawaiian Entomological Society.  ",
+  "VolumeInfo": "v. 3 1913-17",
+  "articles": [
+    {
+      "reference_id": "72421",
+      "genre": "article",
+      "title": "Two new species of Trichogrammatidae",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "22",
+      "epage": "23",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0073-134X",
+      "PageID": "10888991",
+      "created": "2011-06-04 01:50:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10357",
+          "lastname": "Fullaway",
+          "forename": "D T"
+        }
+      ],
+      "bhl_pages": [
+        10888991,
+        10888992
+      ]
+    },
+    {
+      "reference_id": "70177",
+      "genre": "article",
+      "title": "On some Derbidae from Formosa and Japan",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society. Honolulu",
+      "volume": "3",
+      "spage": "42",
+      "epage": "52",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1751891",
+      "PageID": "10889034",
+      "created": "2011-06-02 15:43:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46136",
+          "lastname": "G.",
+          "forename": "Muir F A"
+        }
+      ],
+      "bhl_pages": [
+        10889034,
+        10889035,
+        10889036,
+        10889037,
+        10889038,
+        10889039,
+        10889040,
+        10889041,
+        10889042,
+        10889043,
+        10889044
+      ]
+    },
+    {
+      "reference_id": "53251",
+      "genre": "article",
+      "title": "A leaf-mining cranefly in Hawaii",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "87",
+      "epage": "89",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889083",
+      "created": "2010-10-26 17:25:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40798",
+          "lastname": "Swezey",
+          "forename": "O H"
+        }
+      ],
+      "bhl_pages": [
+        10889083,
+        10889084,
+        10889085
+      ]
+    },
+    {
+      "reference_id": "72058",
+      "genre": "article",
+      "title": "New and little-known Derbidae",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society. Honolulu",
+      "volume": "3",
+      "spage": "116",
+      "epage": "136",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "1751891",
+      "PageID": "10889112",
+      "created": "2011-06-04 00:18:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39860",
+          "lastname": "Muir",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10889112,
+        10889113,
+        10889114,
+        10889115,
+        10889116,
+        10889117,
+        10889118,
+        10889119,
+        10889120,
+        10889121,
+        10889122,
+        10889123,
+        10889124,
+        10889125,
+        10889126,
+        10889127,
+        10889128,
+        10889129,
+        10889130,
+        10889131,
+        10889132
+      ]
+    },
+    {
+      "reference_id": "70155",
+      "genre": "article",
+      "title": "Notes on the Orthopteroid Insects of the Fiji Islands",
+      "secondary_title": "(Proc. Hawaiian Ent. Soc.)",
+      "volume": "3",
+      "spage": "148",
+      "epage": "168",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889148",
+      "created": "2011-06-02 15:42:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46503",
+          "lastname": "Bruner",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        10889148,
+        10889149,
+        10889150,
+        10889151,
+        10889152,
+        10889153,
+        10889154,
+        10889155,
+        10889156,
+        10889157,
+        10889158,
+        10889159,
+        10889160,
+        10889161,
+        10889162,
+        10889163,
+        10889164,
+        10889165,
+        10889166,
+        10889167,
+        10889168
+      ]
+    },
+    {
+      "reference_id": "71123",
+      "genre": "article",
+      "title": "Review of the autochthonous genera of Hawaiian Delphacidae",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society. Honolulu",
+      "volume": "3",
+      "spage": "168",
+      "epage": "221",
+      "year": "1916",
+      "date": "1916-00-00",
+      "oclc": "1751891",
+      "PageID": "10889168",
+      "created": "2011-06-03 17:55:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39860",
+          "lastname": "Muir",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10889168,
+        10889169,
+        10889170,
+        10889171,
+        10889172,
+        10889173,
+        10889174,
+        10889175,
+        10889176,
+        10889177,
+        10889178,
+        10889179,
+        10889180,
+        10889181,
+        10889182,
+        10889183,
+        10889184,
+        10889185,
+        10889186,
+        10889187,
+        10889188,
+        10889189,
+        10889190,
+        10889191,
+        10889192,
+        10889193,
+        10889194,
+        10889195,
+        10889196,
+        10889197,
+        10889198,
+        10889199,
+        10889200,
+        10889201,
+        10889202,
+        10889203,
+        10889204,
+        10889205,
+        10889206,
+        10889207,
+        10889208,
+        10889209,
+        10889210,
+        10889211,
+        10889212,
+        10889213,
+        10889214,
+        10889215,
+        10889216,
+        10889217,
+        10889218,
+        10889219,
+        10889220,
+        10889221
+      ]
+    },
+    {
+      "reference_id": "58903",
+      "genre": "article",
+      "title": "Contributions to the knowledge of the Dactylopiinae of Hawaii",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "231",
+      "epage": "247",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889231",
+      "created": "2010-11-20 23:09:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42452",
+          "lastname": "Ehrhorn",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        10889231,
+        10889232,
+        10889233,
+        10889234,
+        10889235,
+        10889236,
+        10889237,
+        10889238,
+        10889239,
+        10889240,
+        10889241,
+        10889242,
+        10889243,
+        10889244,
+        10889245,
+        10889246,
+        10889247
+      ]
+    },
+    {
+      "reference_id": "70157",
+      "genre": "article",
+      "title": "Some New Hawaiian Coleoptera",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "247",
+      "epage": "251",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889247",
+      "created": "2011-06-02 15:42:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46505",
+          "lastname": "Layton",
+          "forename": "Perkins Robert Cyril"
+        }
+      ],
+      "bhl_pages": [
+        10889247,
+        10889248,
+        10889249,
+        10889250,
+        10889251
+      ]
+    },
+    {
+      "reference_id": "14810",
+      "genre": "article",
+      "title": "Description of a new species of Spalangia",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "292",
+      "epage": "294",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889296",
+      "created": "2010-02-04 18:34:08",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10357",
+          "lastname": "Fullaway",
+          "forename": "D T"
+        }
+      ],
+      "bhl_pages": [
+        10889296,
+        10889297,
+        10889298
+      ]
+    },
+    {
+      "reference_id": "59001",
+      "genre": "article",
+      "title": "New Hawaiian Delphacidae",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "298",
+      "epage": "311",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889302",
+      "created": "2010-11-20 23:24:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39860",
+          "lastname": "Muir",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10889302,
+        10889303,
+        10889304,
+        10889305,
+        10889306,
+        10889307,
+        10889308,
+        10889309,
+        10889310,
+        10889311,
+        10889312,
+        10889313,
+        10889314,
+        10889315
+      ]
+    },
+    {
+      "reference_id": "59002",
+      "genre": "article",
+      "title": "Homopterous Notes",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "311",
+      "epage": "338",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889315",
+      "created": "2010-11-20 23:24:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39860",
+          "lastname": "Muir",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10889315,
+        10889316,
+        10889317,
+        10889318,
+        10889319,
+        10889320,
+        10889321,
+        10889322,
+        10889323,
+        10889324,
+        10889325,
+        10889326,
+        10889327,
+        10889328,
+        10889329,
+        10889330,
+        10889331,
+        10889332,
+        10889333,
+        10889334,
+        10889335,
+        10889336,
+        10889337,
+        10889338,
+        10889339,
+        10889340,
+        10889341,
+        10889342
+      ]
+    },
+    {
+      "reference_id": "70174",
+      "genre": "article",
+      "title": "Notes on the Entomology of Hawaiian Euphorbia with the Description of a New Dictyophorodelphax (Homoptera, Delphacidae)",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society. Honolulu",
+      "volume": "3",
+      "spage": "385",
+      "epage": "387",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1751891",
+      "PageID": "10889393",
+      "created": "2011-06-02 15:43:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46512",
+          "lastname": "C.",
+          "forename": "Bridwell J"
+        }
+      ],
+      "bhl_pages": [
+        10889393,
+        10889394,
+        10889395
+      ]
+    },
+    {
+      "reference_id": "71769",
+      "genre": "article",
+      "title": "Notes on some immigrant parasitic Hymenoptera of the Hawaiian islands",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "399",
+      "epage": "404",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889407",
+      "created": "2011-06-03 23:06:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "495",
+          "lastname": "Timberlake",
+          "forename": "P H"
+        }
+      ],
+      "bhl_pages": [
+        10889407,
+        10889408,
+        10889409,
+        10889410,
+        10889411,
+        10889412
+      ]
+    },
+    {
+      "reference_id": "70175",
+      "genre": "article",
+      "title": "Two new species of Nesosydne (Delphacidae)",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society. Honolulu",
+      "volume": "3",
+      "spage": "405",
+      "epage": "407",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1751891",
+      "PageID": "10889413",
+      "created": "2011-06-02 15:43:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46136",
+          "lastname": "G.",
+          "forename": "Muir F A"
+        }
+      ],
+      "bhl_pages": [
+        10889413,
+        10889414,
+        10889415
+      ]
+    },
+    {
+      "reference_id": "70176",
+      "genre": "article",
+      "title": "Homopterous notes II",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society. Honolulu",
+      "volume": "3",
+      "spage": "414",
+      "epage": "429",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1751891",
+      "PageID": "10889422",
+      "created": "2011-06-02 15:43:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46136",
+          "lastname": "G.",
+          "forename": "Muir F A"
+        }
+      ],
+      "bhl_pages": [
+        10889422,
+        10889423,
+        10889424,
+        10889425,
+        10889426,
+        10889427,
+        10889428,
+        10889429,
+        10889430,
+        10889431,
+        10889432,
+        10889433,
+        10889434,
+        10889435,
+        10889436,
+        10889437
+      ]
+    },
+    {
+      "reference_id": "14653",
+      "genre": "article",
+      "title": "The jumping plant lice (Family Psyllidae) of the Hawaiian Islands",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "430",
+      "epage": "455",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889438",
+      "created": "2010-01-21 11:28:28",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10311",
+          "lastname": "Crawford",
+          "forename": "D L"
+        }
+      ],
+      "bhl_pages": [
+        10889438,
+        10889439,
+        10889440,
+        10889441,
+        10889442,
+        10889443,
+        10889444,
+        10889445,
+        10889446,
+        10889447,
+        10889448,
+        10889449,
+        10889450,
+        10889451,
+        10889452,
+        10889453,
+        10889454,
+        10889455,
+        10889456,
+        10889457,
+        10889458,
+        10889459,
+        10889460,
+        10889461,
+        10889462,
+        10889463
+      ]
+    },
+    {
+      "reference_id": "72391",
+      "genre": "article",
+      "title": "A new genus of pteroptricine Aphelininae",
+      "secondary_title": "Proceedings of the Hawaiian Entomological Society",
+      "volume": "3",
+      "spage": "463",
+      "epage": "464",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0073-134X",
+      "PageID": "10889471",
+      "created": "2011-06-04 01:44:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10357",
+          "lastname": "Fullaway",
+          "forename": "D T"
+        }
+      ],
+      "bhl_pages": [
+        10889471,
+        10889472
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ItemID": "22226",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 21 (1896)",
+  "articles": [
+    {
+      "reference_id": "103357",
+      "genre": "article",
+      "title": "Sur les Crustaces Isopodes terrestres du Mexique",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "21",
+      "spage": "46",
+      "epage": "49",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0037-962X",
+      "PageID": "3099639",
+      "created": "2012-05-21 13:21:22",
+      "updated": "2012-05-21 13:21:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3099639,
+        3099640,
+        3099737,
+        3099738
+      ]
+    },
+    {
+      "reference_id": "104175",
+      "genre": "article",
+      "title": "Hym\u00e9nopt\u00e8res recueillis pendant les campagnes scientifiques de S. A. S., le Prince de Monaco",
+      "secondary_title": "Bulletin De La Soci\u00e9t\u00e9 Zoologique De France",
+      "volume": "21",
+      "spage": "210",
+      "epage": "211",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0037-962X",
+      "PageID": "3099696",
+      "created": "2012-06-10 17:58:34",
+      "updated": "2012-06-10 17:58:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3099696,
+        3099697
+      ]
+    },
+    {
+      "reference_id": "57269",
+      "genre": "article",
+      "title": "Arachnides recueillis par M. Arnold Penther dans l'Afrique australe",
+      "secondary_title": "Bull. Soc. zool. France",
+      "volume": "21",
+      "spage": "220",
+      "epage": "223",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1715809",
+      "PageID": "3099611",
+      "created": "2010-11-18 13:38:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3099611,
+        3099612,
+        3099798,
+        3099570
+      ]
+    }
+  ]
+}

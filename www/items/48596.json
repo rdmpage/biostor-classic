@@ -1,0 +1,81 @@
+{
+  "ItemID": "48596",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 5: Bd. 1-2 (1839)",
+  "articles": [
+    {
+      "reference_id": "61384",
+      "genre": "article",
+      "title": "Einige zoologische Notizen",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "5",
+      "spage": "113",
+      "epage": "134",
+      "year": "1839",
+      "date": "1839-00-00",
+      "oclc": "1481990",
+      "PageID": "13671416",
+      "created": "2011-01-10 19:30:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43006",
+          "lastname": "Philippi",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        13671416,
+        13671417,
+        13671418,
+        13671419,
+        13671420,
+        13671421,
+        13671422,
+        13671423,
+        13671424,
+        13671425,
+        13671426,
+        13671427,
+        13671428,
+        13671429,
+        13671430,
+        13671431,
+        13671432,
+        13671433,
+        13671434,
+        13671435,
+        13671436,
+        13671437
+      ]
+    },
+    {
+      "reference_id": "104937",
+      "genre": "article",
+      "title": "Noch einige Worte \u00fcber Peripatus Guilding",
+      "secondary_title": "Archiv F\u00fcr Naturgeschichte",
+      "volume": "5",
+      "spage": "175",
+      "epage": "176",
+      "year": "1839",
+      "date": "1839-00-00",
+      "issn": "0365-6136",
+      "PageID": "13671478",
+      "created": "2012-06-29 10:17:29",
+      "updated": "2012-06-29 10:17:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53925",
+          "lastname": "Moritz",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        13671478,
+        13671479
+      ]
+    }
+  ]
+}

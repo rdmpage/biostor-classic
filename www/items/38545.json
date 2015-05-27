@@ -1,0 +1,67 @@
+{
+  "ItemID": "38545",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1917",
+  "articles": [
+    {
+      "reference_id": "59042",
+      "genre": "article",
+      "title": "Notes on Tasmanian Diptera and description of new species",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1917",
+      "spage": "60",
+      "epage": "66",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0080-4703",
+      "PageID": "10114121",
+      "created": "2010-11-20 23:35:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40724",
+          "lastname": "Hardy",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        10114121,
+        10114122,
+        10114123,
+        10114124,
+        10114125,
+        10114126,
+        10114127
+      ]
+    },
+    {
+      "reference_id": "65483",
+      "genre": "article",
+      "title": "Tasmanian Cicadidae",
+      "secondary_title": "Papers And Proceedings of The Royal Society of Tasmania",
+      "volume": "1917",
+      "spage": "69",
+      "epage": "71",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0080-4703",
+      "PageID": "10114130",
+      "created": "2011-03-27 12:37:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40724",
+          "lastname": "Hardy",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        10114130,
+        10114131,
+        10114132
+      ]
+    }
+  ]
+}

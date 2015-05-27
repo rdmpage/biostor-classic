@@ -1,0 +1,142 @@
+{
+  "ItemID": "27851",
+  "FullTitle": "Boston journal of natural history.  ",
+  "VolumeInfo": "4",
+  "articles": [
+    {
+      "reference_id": "20912",
+      "genre": "article",
+      "title": "Descriptions and figures of the Araneides of the United States",
+      "secondary_title": "Boston Journal of Natural History",
+      "volume": "4",
+      "spage": "54",
+      "epage": "57",
+      "year": "1842",
+      "date": "1842-00-00",
+      "issn": "0271-5716",
+      "PageID": "5362990",
+      "created": "2010-02-10 17:46:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18086",
+          "lastname": "Hentz",
+          "forename": "N M"
+        }
+      ],
+      "bhl_pages": [
+        5362990,
+        5362989,
+        5362771,
+        5362770
+      ]
+    },
+    {
+      "reference_id": "59756",
+      "genre": "article",
+      "title": "Monograph of the species of Pupa found in the United States",
+      "secondary_title": "Boston Journal of Natural History",
+      "volume": "4",
+      "spage": "350",
+      "epage": "360",
+      "year": "1843",
+      "date": "1843-00-00",
+      "issn": "0271-5716",
+      "PageID": "5363108",
+      "created": "2010-11-22 15:49:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42689",
+          "lastname": "Gould",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        5363108,
+        5363109,
+        5363110,
+        5363111,
+        5363112,
+        5363113,
+        5363114,
+        5363115,
+        5363237,
+        5363238,
+        5363239
+      ]
+    },
+    {
+      "reference_id": "57403",
+      "genre": "article",
+      "title": "Descriptions and figures of the araneides of the United States",
+      "secondary_title": "Boston J. nat. Hist.",
+      "volume": "4",
+      "spage": "386",
+      "epage": "396",
+      "year": "1844",
+      "date": "1844-00-00",
+      "issn": "0271-5716",
+      "PageID": "5363276",
+      "created": "2010-11-18 14:14:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18086",
+          "lastname": "Hentz",
+          "forename": "N M"
+        }
+      ],
+      "bhl_pages": [
+        5363276,
+        5363277,
+        5363278,
+        5363279,
+        5363181,
+        5363182,
+        5363183,
+        5363184,
+        5363185,
+        5363186,
+        5363187
+      ]
+    },
+    {
+      "reference_id": "70923",
+      "genre": "article",
+      "title": "Description of an African beetle, allied to Scarabaeus polyphemus, with remarks upon some other insects",
+      "secondary_title": "Boston Journal of Natural History. Boston",
+      "volume": "4",
+      "spage": "397",
+      "epage": "405",
+      "year": "1844",
+      "date": "1844-00-00",
+      "oclc": "1536854",
+      "PageID": "5363188",
+      "created": "2011-06-03 16:55:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46690",
+          "lastname": "Harris",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        5363188,
+        5363189,
+        5363190,
+        5363191,
+        5363204,
+        5363206,
+        5363207,
+        5363208,
+        5363209
+      ]
+    }
+  ]
+}

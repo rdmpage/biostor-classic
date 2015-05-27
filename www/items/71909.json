@@ -1,0 +1,987 @@
+{
+  "ItemID": "71909",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "8th ser. v. 8 (1911)",
+  "articles": [
+    {
+      "reference_id": "66613",
+      "genre": "article",
+      "title": "The classification of the teleostean fishes of the order Ostariophysi.--I. Cyprinoidea",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "13",
+      "epage": "32",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098676",
+      "created": "2011-05-07 23:51:24",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        22098676,
+        22098677,
+        22098678,
+        22098679,
+        22098680,
+        22098681,
+        22098682,
+        22098683,
+        22098684,
+        22098685,
+        22098686,
+        22098687,
+        22098688,
+        22098689,
+        22098690,
+        22098691,
+        22098692,
+        22098693,
+        22098694,
+        22098695
+      ]
+    },
+    {
+      "reference_id": "98920",
+      "genre": "article",
+      "title": "Some records of Collembola new to England, with description of a new species of Oncopodura",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "spage": "32",
+      "epage": "39",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692994",
+      "PageID": "22098695",
+      "created": "2011-12-05 22:14:09",
+      "updated": "2011-12-05 22:14:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098695,
+        22098696,
+        22098697,
+        22098698,
+        22098699,
+        22098700,
+        22098701,
+        22098702
+      ]
+    },
+    {
+      "reference_id": "53198",
+      "genre": "article",
+      "title": "On some Tipulidae (Limoniinae) from Ceylon in the British museum collection, with description of eight new species",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "58",
+      "epage": "67",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098721",
+      "created": "2010-10-26 17:08:02",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        22098721,
+        22098722,
+        22098723,
+        22098724,
+        22098725,
+        22098726,
+        22098727,
+        22098728,
+        22098729,
+        22098730
+      ]
+    },
+    {
+      "reference_id": "58403",
+      "genre": "article",
+      "title": "New genera and species of Cicadidae",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "132",
+      "epage": "137",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098795",
+      "created": "2010-11-20 20:59:34",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        22098795,
+        22098796,
+        22098797,
+        22098798,
+        22098799,
+        22098800
+      ]
+    },
+    {
+      "reference_id": "58380",
+      "genre": "article",
+      "title": "Notes on the Coleopterous subfamily Dynastinae, with descriptions of new genera and species",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "151",
+      "epage": "176",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098814",
+      "created": "2010-11-20 20:55:13",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42045",
+          "lastname": "Arrow",
+          "forename": "G J"
+        }
+      ],
+      "bhl_pages": [
+        22098814,
+        22098815,
+        22098816,
+        22098817,
+        22098818,
+        22098819,
+        22098820,
+        22098821,
+        22098822,
+        22098823,
+        22098824,
+        22098825,
+        22098826,
+        22098827,
+        22098828,
+        22098829,
+        22098830,
+        22098831,
+        22098832,
+        22098833,
+        22098834,
+        22098835,
+        22098836,
+        22098837,
+        22098838,
+        22098839
+      ]
+    },
+    {
+      "reference_id": "58449",
+      "genre": "article",
+      "title": "Two new Lepidoptera from New Guinea",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "233",
+      "epage": "234",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098896",
+      "created": "2010-11-20 21:09:18",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39319",
+          "lastname": "Rothschild",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        22098896,
+        22098897
+      ]
+    },
+    {
+      "reference_id": "98980",
+      "genre": "article",
+      "title": "Notes from the entomological department of the London school of tropical medicine. iii. Oriental species of Stomoxys",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "spage": "235",
+      "epage": "240",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693017",
+      "PageID": "22098898",
+      "created": "2011-12-06 08:43:39",
+      "updated": "2011-12-06 08:43:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098898,
+        22098899,
+        22098900,
+        22098901,
+        22098902,
+        22098903
+      ]
+    },
+    {
+      "reference_id": "66617",
+      "genre": "article",
+      "title": "Descriptions of new African cyprinodont fishes",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "260",
+      "epage": "268",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098923",
+      "created": "2011-05-07 23:55:29",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        22098923,
+        22098924,
+        22098925,
+        22098926,
+        22098927,
+        22098928,
+        22098929,
+        22098930,
+        22098931
+      ]
+    },
+    {
+      "reference_id": "98913",
+      "genre": "article",
+      "title": "A new genus of ruteline Coleoptera from the Indian region",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "spage": "268",
+      "epage": "270",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693024",
+      "PageID": "22098931",
+      "created": "2011-12-05 22:12:09",
+      "updated": "2011-12-05 22:12:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098931,
+        22098932,
+        22098933
+      ]
+    },
+    {
+      "reference_id": "98910",
+      "genre": "article",
+      "title": "The nomenclature of the Rheas of South America",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "spage": "273",
+      "epage": "275",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693027",
+      "PageID": "22098936",
+      "created": "2011-12-05 22:11:53",
+      "updated": "2011-12-05 22:11:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098936,
+        22098937,
+        22098938
+      ]
+    },
+    {
+      "reference_id": "53199",
+      "genre": "article",
+      "title": "On the so-called new tipulid subfamily Ceratocheilinae Wesche",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "279",
+      "epage": "283",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098942",
+      "created": "2010-10-26 17:08:13",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        22098942,
+        22098943,
+        22098944,
+        22098945,
+        22098946
+      ]
+    },
+    {
+      "reference_id": "58396",
+      "genre": "article",
+      "title": "Descriptions and records of bees. XXXVIII",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "283",
+      "epage": "290",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098946",
+      "created": "2010-11-20 20:57:59",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        22098946,
+        22098947,
+        22098948,
+        22098949,
+        22098950,
+        22098951,
+        22098952,
+        22098953
+      ]
+    },
+    {
+      "reference_id": "66081",
+      "genre": "article",
+      "title": "Two new african shrews",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "369",
+      "epage": "370",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099032",
+      "created": "2011-05-05 01:58:58",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45105",
+          "lastname": "Osgood",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        22099032,
+        22099033
+      ]
+    },
+    {
+      "reference_id": "98856",
+      "genre": "article",
+      "title": "Descriptions of three new snakes discovered by Mr. G. L. Bates in South Cameroon",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "8",
+      "spage": "370",
+      "epage": "371",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693040",
+      "PageID": "22099033",
+      "created": "2011-12-05 21:29:43",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22099033,
+        22099034
+      ]
+    },
+    {
+      "reference_id": "66630",
+      "genre": "article",
+      "title": "On some fishes of the family Poeciliidae",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "373",
+      "epage": "374",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099036",
+      "created": "2011-05-08 00:37:38",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        22099036,
+        22099037
+      ]
+    },
+    {
+      "reference_id": "105403",
+      "genre": "article",
+      "title": "XLIX.\u2014New African Mammals",
+      "secondary_title": "The Annals and magazine of natural history",
+      "volume": "8",
+      "series": "8",
+      "spage": "375",
+      "epage": "378",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693043",
+      "PageID": "22099038",
+      "created": "2012-07-24 22:42:41",
+      "updated": "2012-07-24 22:46:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        22099038,
+        22099039,
+        22099040,
+        22099041
+      ]
+    },
+    {
+      "reference_id": "98839",
+      "genre": "article",
+      "title": "On two new wood-boring beetles (Ipidae)",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "8",
+      "spage": "381",
+      "epage": "383",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693046",
+      "PageID": "22099044",
+      "created": "2011-12-05 21:21:05",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22099044,
+        22099045,
+        22099046
+      ]
+    },
+    {
+      "reference_id": "58420",
+      "genre": "article",
+      "title": "Descriptions of new scorpions",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "462",
+      "epage": "473",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099125",
+      "created": "2010-11-20 21:01:57",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42073",
+          "lastname": "Hirst",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        22099125,
+        22099126,
+        22099127,
+        22099128,
+        22099129,
+        22099130,
+        22099131,
+        22099132,
+        22099133,
+        22099134,
+        22099135,
+        22099136
+      ]
+    },
+    {
+      "reference_id": "98914",
+      "genre": "article",
+      "title": "Descriptions of new species of Lepidoptera from tropical Africa",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "spage": "506",
+      "epage": "542",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693059",
+      "PageID": "22099169",
+      "created": "2011-12-05 22:12:35",
+      "updated": "2011-12-05 22:12:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22099169,
+        22099170,
+        22099171,
+        22099172,
+        22099173,
+        22099174,
+        22099175,
+        22099176,
+        22099177,
+        22099178,
+        22099179,
+        22099180,
+        22099181,
+        22099182,
+        22099183,
+        22099184,
+        22099185,
+        22099186,
+        22099187,
+        22099188,
+        22099189,
+        22099190,
+        22099191,
+        22099192,
+        22099193,
+        22099194,
+        22099195,
+        22099196,
+        22099197,
+        22099198,
+        22099199,
+        22099200,
+        22099201,
+        22099202,
+        22099203,
+        22099204,
+        22099205
+      ]
+    },
+    {
+      "reference_id": "58384",
+      "genre": "article",
+      "title": "Descriptions of New Species of Lepidoptera from New Guinea",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "542",
+      "epage": "544",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099205",
+      "created": "2010-11-20 20:56:11",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39850",
+          "lastname": "Bethune-Baker",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        22099205,
+        22099206,
+        22099207
+      ]
+    },
+    {
+      "reference_id": "77789",
+      "genre": "article",
+      "title": "Notes on fossorial Hymenoptera. V",
+      "secondary_title": "The Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "issue": "47",
+      "spage": "602",
+      "epage": "624",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099265",
+      "created": "2011-06-14 15:00:55",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39864",
+          "lastname": "Turner",
+          "forename": "Rowland E"
+        }
+      ],
+      "bhl_pages": [
+        22099265,
+        22099266,
+        22099267,
+        22099268,
+        22099269,
+        22099270,
+        22099271,
+        22099272,
+        22099273,
+        22099274,
+        22099275,
+        22099276,
+        22099277,
+        22099278,
+        22099279,
+        22099280,
+        22099281,
+        22099282,
+        22099283,
+        22099284,
+        22099285,
+        22099286,
+        22099287
+      ]
+    },
+    {
+      "reference_id": "97687",
+      "genre": "article",
+      "title": "On some new Opiliones from Japan and the Loo-Choo Islands",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "625",
+      "epage": "636",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099288",
+      "created": "2011-10-25 15:58:55",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22099288,
+        22099289,
+        22099290,
+        22099291,
+        22099292,
+        22099293,
+        22099294,
+        22099295,
+        22099296,
+        22099297,
+        22099298,
+        22099299
+      ]
+    },
+    {
+      "reference_id": "66616",
+      "genre": "article",
+      "title": "Descriptions of four new African fishes of the genus Mastacembelus",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "637",
+      "epage": "639",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099300",
+      "created": "2011-05-07 23:52:16",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        22099300,
+        22099301,
+        22099302
+      ]
+    },
+    {
+      "reference_id": "60331",
+      "genre": "article",
+      "title": "Descriptions of new genera and species of Oriental Hemiptera",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "639",
+      "epage": "649",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099302",
+      "created": "2010-11-22 23:02:08",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        22099302,
+        22099303,
+        22099304,
+        22099305,
+        22099306,
+        22099307,
+        22099308,
+        22099309,
+        22099310,
+        22099311,
+        22099312
+      ]
+    },
+    {
+      "reference_id": "98915",
+      "genre": "article",
+      "title": "Notes on the Coleopterous family Pselaphidae of the group Euplectini of New Zealand, with descriptions of two new genera and twelve species",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "8",
+      "spage": "685",
+      "epage": "701",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693083",
+      "PageID": "22099348",
+      "created": "2011-12-05 22:12:46",
+      "updated": "2011-12-05 22:12:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22099348,
+        22099349,
+        22099350,
+        22099351,
+        22099352,
+        22099353,
+        22099354,
+        22099355,
+        22099356,
+        22099357,
+        22099358,
+        22099359,
+        22099360,
+        22099361,
+        22099362,
+        22099363,
+        22099364
+      ]
+    },
+    {
+      "reference_id": "97682",
+      "genre": "article",
+      "title": "Four new African Carnivores",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "724",
+      "epage": "726",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099387",
+      "created": "2011-10-25 12:04:06",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22099387,
+        22099388,
+        22099389
+      ]
+    },
+    {
+      "reference_id": "72041",
+      "genre": "article",
+      "title": "Descriptions of new genera and species of Oriental Homoptera",
+      "secondary_title": "Annals and Magazine of Natural History. London",
+      "volume": "8",
+      "series": "8",
+      "spage": "735",
+      "epage": "747",
+      "year": "1911",
+      "date": "1911-00-00",
+      "PageID": "22099398",
+      "created": "2011-06-04 00:15:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46761",
+          "lastname": "Distant",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        22099398,
+        22099399,
+        22099400,
+        22099401,
+        22099402,
+        22099403,
+        22099404,
+        22099405,
+        22099406,
+        22099407,
+        22099408,
+        22099409,
+        22099410
+      ]
+    },
+    {
+      "reference_id": "58434",
+      "genre": "article",
+      "title": "Notes on the family Masaridae (Hymenoptera), with descriptions of a new genus and three new species",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "747",
+      "epage": "750",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099410",
+      "created": "2010-11-20 21:04:25",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42315",
+          "lastname": "Meade-Waldo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        22099410,
+        22099411,
+        22099412,
+        22099413
+      ]
+    },
+    {
+      "reference_id": "58398",
+      "genre": "article",
+      "title": "Descriptions and records of bees. XL",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "763",
+      "epage": "770",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22099426",
+      "created": "2010-11-20 20:58:15",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        22099426,
+        22099427,
+        22099428,
+        22099429,
+        22099430,
+        22099431,
+        22099432,
+        22099433
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ItemID": "29670",
+  "FullTitle": "Oceanus.",
+  "VolumeInfo": "v. 29, no. 2 (1986)",
+  "articles": [
+    {
+      "reference_id": "59656",
+      "genre": "article",
+      "title": "Soft corals: chemistry and ecology",
+      "secondary_title": "Oceanus",
+      "volume": "29",
+      "spage": "33",
+      "epage": "37",
+      "year": "1986",
+      "date": "1986-00-00",
+      "oclc": "1761014",
+      "PageID": "6201287",
+      "created": "2010-11-21 16:09:40",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42653",
+          "lastname": "Coll",
+          "forename": "J C"
+        },
+        {
+          "id": "42654",
+          "lastname": "Sammarco",
+          "forename": "P W"
+        }
+      ],
+      "bhl_pages": [
+        6201287,
+        6201288,
+        6201289,
+        6201290,
+        6201291
+      ]
+    }
+  ]
+}

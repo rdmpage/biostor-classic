@@ -1,0 +1,38 @@
+{
+  "ItemID": "28958",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v.3 (1866)",
+  "articles": [
+    {
+      "reference_id": "50316",
+      "genre": "article",
+      "title": "\u00dcber die Fische von Port Jackson in Australien",
+      "secondary_title": "Anzeiger K. Akad. Wiss. Math.-Naturwiss. Cl.",
+      "volume": "3",
+      "issue": "7",
+      "spage": "50",
+      "epage": "54",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "9782210",
+      "PageID": "5906359",
+      "created": "2010-05-18 11:22:27",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39815",
+          "lastname": "Steindachner",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        5906359,
+        5906360,
+        5906361,
+        5906362,
+        5906363
+      ]
+    }
+  ]
+}

@@ -1,0 +1,734 @@
+{
+  "ItemID": "20619",
+  "FullTitle": "Entomological news.",
+  "VolumeInfo": "v. 75 1964",
+  "articles": [
+    {
+      "reference_id": "3750",
+      "genre": "article",
+      "title": "A North American Phlebopenes (Hymenoptera, Eupelmidae).",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "issue": "1",
+      "spage": "1",
+      "epage": "5",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692761",
+      "created": "2009-12-26 19:13:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1289",
+          "lastname": "Burks",
+          "forename": "B D"
+        }
+      ],
+      "bhl_pages": [
+        2692761,
+        2692762,
+        2692763,
+        2692764,
+        2692765
+      ]
+    },
+    {
+      "reference_id": "66914",
+      "genre": "article",
+      "title": "New species and new state records of Sialis (Neuroptera: Sialidae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "75",
+      "spage": "9",
+      "epage": "13",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692769",
+      "created": "2011-05-11 17:06:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2201",
+          "lastname": "Flint",
+          "forename": "O S",
+          "suffix": "Jr"
+        }
+      ],
+      "bhl_pages": [
+        2692769,
+        2692770,
+        2692771,
+        2692772,
+        2692773
+      ]
+    },
+    {
+      "reference_id": "13739",
+      "genre": "article",
+      "title": "New exotic crane-flies (Tipulidae: Diptera). Part VIII",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "15",
+      "epage": "24",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692775",
+      "created": "2010-01-13 10:36:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2692775,
+        2692776,
+        2692777,
+        2692778,
+        2692779,
+        2692780,
+        2692781,
+        2692782,
+        2692783,
+        2692784
+      ]
+    },
+    {
+      "reference_id": "70536",
+      "genre": "article",
+      "title": "A New Phaneropterine Genus from S. America",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "29",
+      "epage": "32",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692793",
+      "created": "2011-06-03 06:41:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46582",
+          "lastname": "Jr",
+          "forename": "Grant"
+        },
+        {
+          "id": "46583",
+          "lastname": "",
+          "forename": "H J"
+        }
+      ],
+      "bhl_pages": [
+        2692793,
+        2692794,
+        2692795,
+        2692796
+      ]
+    },
+    {
+      "reference_id": "3809",
+      "genre": "article",
+      "title": "On the true nature of Schizotaenia with notes on contingent matters (Chilopoda: Geophilomorpha: Chilenophilidae)",
+      "secondary_title": "Entomological News.",
+      "volume": "75",
+      "spage": "33",
+      "epage": "42",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692797",
+      "created": "2009-12-26 19:16:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2315",
+          "lastname": "Crabill",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2692797,
+        2692798,
+        2692799,
+        2692800,
+        2692801,
+        2692802,
+        2692803,
+        2692804,
+        2692805,
+        2692806
+      ]
+    },
+    {
+      "reference_id": "84789",
+      "genre": "article",
+      "title": "The Collembola of New Mexico XII. Neelinae and Sminthuridinae. XIII. Sminthurinae: Smirtthurini",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "47",
+      "epage": "53",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692811",
+      "created": "2011-08-10 23:06:59",
+      "updated": "2011-08-10 23:06:59",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692811,
+        2692812,
+        2692813,
+        2692814,
+        2692815,
+        2692816,
+        2692817
+      ]
+    },
+    {
+      "reference_id": "13740",
+      "genre": "article",
+      "title": "New exotic crane-flies (Tipulidae: Diptera). Part IX",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "57",
+      "epage": "65",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692825",
+      "created": "2010-01-13 10:36:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2692825,
+        2692826,
+        2692827,
+        2692828,
+        2692829,
+        2692830,
+        2692831,
+        2692832,
+        2692833
+      ]
+    },
+    {
+      "reference_id": "3820",
+      "genre": "article",
+      "title": "A new American genus in the chilopod family Himantariidae",
+      "secondary_title": "Entomological News.",
+      "volume": "75",
+      "spage": "66",
+      "epage": "68",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692834",
+      "created": "2009-12-26 19:17:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2692834,
+        2692835,
+        2692836
+      ]
+    },
+    {
+      "reference_id": "64987",
+      "genre": "article",
+      "title": "A new species of Mallophaga from the black-billed cuckoo",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "69",
+      "epage": "71",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692837",
+      "created": "2011-01-31 12:56:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44728",
+          "lastname": "Emerson",
+          "forename": "Kary Cadmus"
+        }
+      ],
+      "bhl_pages": [
+        2692837,
+        2692838,
+        2692839
+      ]
+    },
+    {
+      "reference_id": "3811",
+      "genre": "article",
+      "title": "A preliminary review of Maoriella with description of a new species from the Chatham Islands (Chilopoda: Geophilomorpha: Chilenophilidae)",
+      "secondary_title": "Entomological News.",
+      "volume": "75",
+      "spage": "85",
+      "epage": "97",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692857",
+      "created": "2009-12-26 19:16:53",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2315",
+          "lastname": "Crabill",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2692857,
+        2692858,
+        2692859,
+        2692860,
+        2692861,
+        2692862,
+        2692863,
+        2692864,
+        2692865,
+        2692866,
+        2692867,
+        2692868,
+        2692869
+      ]
+    },
+    {
+      "reference_id": "84581",
+      "genre": "article",
+      "title": "Further notes on the American taxa of-Campsomeris (Hymenoptera: Scoliidae)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "101",
+      "epage": "108",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692873",
+      "created": "2011-08-10 22:51:39",
+      "updated": "2011-08-10 22:51:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692873,
+        2692874,
+        2692875,
+        2692876,
+        2692877,
+        2692878,
+        2692879,
+        2692880
+      ]
+    },
+    {
+      "reference_id": "3669",
+      "genre": "article",
+      "title": "A New Species of Mexican Ancylocera with Records of Others (Coleoptera: Cerambycidae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "75",
+      "issue": "4",
+      "spage": "108",
+      "epage": "110",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692880",
+      "created": "2009-12-26 19:10:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2245",
+          "lastname": "Chemsak",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        2692880,
+        2692881,
+        2692882
+      ]
+    },
+    {
+      "reference_id": "84510",
+      "genre": "article",
+      "title": "A review of the Neotropical Nirvaninae (Homoptera: Ciacadellidae)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "113",
+      "epage": "128",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692889",
+      "created": "2011-08-10 22:46:47",
+      "updated": "2011-08-10 22:46:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692889,
+        2692890,
+        2692891,
+        2692892,
+        2692893,
+        2692894,
+        2692895,
+        2692896,
+        2692897,
+        2692898,
+        2692899,
+        2692900,
+        2692901,
+        2692902,
+        2692903,
+        2692904
+      ]
+    },
+    {
+      "reference_id": "84424",
+      "genre": "article",
+      "title": "A new Pelopia from Mexico (Diptera: Tendipedidae)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "141",
+      "epage": "143",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692921",
+      "created": "2011-08-10 22:40:41",
+      "updated": "2011-08-10 22:40:41",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692921,
+        2692922,
+        2692923
+      ]
+    },
+    {
+      "reference_id": "65021",
+      "genre": "article",
+      "title": "A new species of Kurodaia (Mallophaga: Menoponidae), with additional notes on the genus",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "145",
+      "epage": "148",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692925",
+      "created": "2011-01-31 13:14:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44729",
+          "lastname": "Price",
+          "forename": "Roger Deforrest"
+        }
+      ],
+      "bhl_pages": [
+        2692925,
+        2692926,
+        2692927,
+        2692928
+      ]
+    },
+    {
+      "reference_id": "84604",
+      "genre": "article",
+      "title": "Miscellaneous notes on Ammophila (Hymenoptera, Sphecidae)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "149",
+      "epage": "155",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692929",
+      "created": "2011-08-10 22:53:12",
+      "updated": "2011-08-10 22:53:12",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692929,
+        2692930,
+        2692931,
+        2692932,
+        2692933,
+        2692934,
+        2692935
+      ]
+    },
+    {
+      "reference_id": "84352",
+      "genre": "article",
+      "title": "A flea named for Michael Grzimek",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "155",
+      "epage": "158",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692935",
+      "created": "2011-08-10 22:34:59",
+      "updated": "2011-08-10 22:34:59",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692935,
+        2692936,
+        2692937,
+        2692938
+      ]
+    },
+    {
+      "reference_id": "70458",
+      "genre": "article",
+      "title": "New species of winter stoneflies of the genus Allocapnia (Plecoptera, Capniidae)",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "169",
+      "epage": "177",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692953",
+      "created": "2011-06-03 06:38:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46562",
+          "lastname": "",
+          "forename": "Ross"
+        }
+      ],
+      "bhl_pages": [
+        2692953,
+        2692954,
+        2692955,
+        2692956,
+        2692957,
+        2692958,
+        2692959,
+        2692960,
+        2692961
+      ]
+    },
+    {
+      "reference_id": "84522",
+      "genre": "article",
+      "title": "Additions and corrections to the World List of type-species of Chloropidae (Diptera)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "177",
+      "epage": "185",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692961",
+      "created": "2011-08-10 22:47:37",
+      "updated": "2011-08-10 22:47:37",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692961,
+        2692962,
+        2692963,
+        2692964,
+        2692965,
+        2692966,
+        2692967,
+        2692968,
+        2692969
+      ]
+    },
+    {
+      "reference_id": "84803",
+      "genre": "article",
+      "title": "The male of Eucerceris sinuata Scullen (Hymenoptera: Sphecidae)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "205",
+      "epage": "208",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2692993",
+      "created": "2011-08-10 23:08:09",
+      "updated": "2011-08-10 23:08:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2692993,
+        2692994,
+        2692995,
+        2692996
+      ]
+    },
+    {
+      "reference_id": "3799",
+      "genre": "article",
+      "title": "Mastoremus idahoensis, a New Species of Pedilinae (Coleoptera, Anthicidae) from Southern Idaho",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "issue": "8",
+      "spage": "221",
+      "epage": "222",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2693009",
+      "created": "2009-12-26 19:16:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2464",
+          "lastname": "Abdullah",
+          "forename": "Mohammad"
+        }
+      ],
+      "bhl_pages": [
+        2693009,
+        2693010
+      ]
+    },
+    {
+      "reference_id": "13766",
+      "genre": "article",
+      "title": "Description of the Tanyderid pupa Protanyderus marginata Alexander, from Colorado",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "237",
+      "epage": "241",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2693029",
+      "created": "2010-01-13 10:42:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10113",
+          "lastname": "Knight",
+          "forename": "A W"
+        }
+      ],
+      "bhl_pages": [
+        2693029,
+        2693030,
+        2693031,
+        2693032,
+        2693033
+      ]
+    },
+    {
+      "reference_id": "64986",
+      "genre": "article",
+      "title": "A new species of Mallophaga from the mikado pheasant",
+      "secondary_title": "Entomological News",
+      "volume": "75",
+      "spage": "256",
+      "epage": "258",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2693054",
+      "created": "2011-01-31 12:56:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44728",
+          "lastname": "Emerson",
+          "forename": "Kary Cadmus"
+        },
+        {
+          "id": "44738",
+          "lastname": "Stojanovich",
+          "forename": "Chester James"
+        }
+      ],
+      "bhl_pages": [
+        2693054,
+        2693055,
+        2693056
+      ]
+    },
+    {
+      "reference_id": "84476",
+      "genre": "article",
+      "title": "A new species of Sphecomyia (Diptera: Syrphidae) from California",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "75",
+      "spage": "266",
+      "epage": "268",
+      "year": "1964",
+      "date": "1964-00-00",
+      "issn": "0013-872X",
+      "PageID": "2693064",
+      "created": "2011-08-10 22:44:35",
+      "updated": "2011-08-10 22:44:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2693064,
+        2693065,
+        2693066
+      ]
+    }
+  ]
+}

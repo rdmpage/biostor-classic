@@ -1,0 +1,36 @@
+{
+  "ItemID": "34240",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 4 (1892)",
+  "articles": [
+    {
+      "reference_id": "104928",
+      "genre": "article",
+      "title": "On the oviparity of Peripatus leuckartii",
+      "secondary_title": "Proceedings of The Royal Society of Victoria",
+      "volume": "4",
+      "spage": "31",
+      "epage": "34",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0035-9211",
+      "PageID": "8278987",
+      "created": "2012-06-29 10:11:37",
+      "updated": "2012-06-29 10:11:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40867",
+          "lastname": "Dendy",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8278987,
+        8278988,
+        8278989,
+        8278990
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "ItemID": "45346",
+  "FullTitle": "Nederlandsch tijdschrift voor de dierkunde \/  uitgegeven door het Koninklijk Zoologisch Genootschap Natura Artis Magistra, te Amsterdam.",
+  "VolumeInfo": "Jaarg.1 (1863)",
+  "articles": [
+    {
+      "reference_id": "67365",
+      "genre": "article",
+      "title": "\u00dcber einige Arten der Gattung Chaetodon",
+      "secondary_title": "Nederlandsch Tijdschrift voor de Dierkunde",
+      "volume": "1",
+      "spage": "125",
+      "epage": "129",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "18650401",
+      "PageID": "12575294",
+      "created": "2011-05-26 07:56:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40834",
+          "lastname": "Kaup",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        12575294,
+        12575295,
+        12575296,
+        12575297,
+        12575298
+      ]
+    },
+    {
+      "reference_id": "67364",
+      "genre": "article",
+      "title": "Troisi\u00e8me m\u00e9moire sur la faune ichthyologique de l\u2019\u00eele de Halmah\u00e9ra",
+      "secondary_title": "Nederlandsch Tijdschrift voor de Dierkunde",
+      "volume": "1",
+      "spage": "153",
+      "epage": "159",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "18650401",
+      "PageID": "12575326",
+      "created": "2011-05-26 07:55:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45473",
+          "lastname": "Bleeker",
+          "forename": "Pieter"
+        }
+      ],
+      "bhl_pages": [
+        12575326,
+        12575327,
+        12575328,
+        12575329,
+        12575330,
+        12575331,
+        12575332
+      ]
+    },
+    {
+      "reference_id": "67366",
+      "genre": "article",
+      "title": "Onzi\u00e8me notice sur la faune ichthyologique de l\u2019\u00eele de Ternate",
+      "secondary_title": "Nederlandsch Tijdschrift voor de Dierkunde",
+      "volume": "1",
+      "spage": "228",
+      "epage": "238",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "18650401",
+      "PageID": "12575401",
+      "created": "2011-05-26 07:57:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45473",
+          "lastname": "Bleeker",
+          "forename": "Pieter"
+        }
+      ],
+      "bhl_pages": [
+        12575401,
+        12575402,
+        12575403,
+        12575404,
+        12575405,
+        12575406,
+        12575407,
+        12575408,
+        12575409,
+        12575410,
+        12575411
+      ]
+    }
+  ]
+}

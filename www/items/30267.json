@@ -1,0 +1,88 @@
+{
+  "ItemID": "30267",
+  "FullTitle": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 56 (1867)",
+  "articles": [
+    {
+      "reference_id": "61319",
+      "genre": "article",
+      "title": "Ichthyologische Notizen (6).1. \u00dcber eine Sammlung von Fischen von Cap York in Australien",
+      "secondary_title": "Sitzungsberichte der Akademie der Wissenschaften in Wien",
+      "volume": "56",
+      "spage": "307",
+      "epage": "320",
+      "year": "1867",
+      "date": "1867-00-00",
+      "oclc": "5882578",
+      "PageID": "6477009",
+      "created": "2011-01-10 17:08:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6477009,
+        6477010,
+        6477011,
+        6477012,
+        6477013,
+        6477014,
+        6477015,
+        6477016,
+        6477017,
+        6477018,
+        6477019,
+        6477020,
+        6477021,
+        6477022
+      ]
+    },
+    {
+      "reference_id": "50318",
+      "genre": "article",
+      "title": "Ichthyologische Notizen (6) 2. Zur Fischfauna von Port Jackson",
+      "secondary_title": "Sitzungsberichte der Akademie der Wissenschaften in Wien. Mathematisch-Naturwissenschaftliche Klasse",
+      "volume": "56",
+      "issue": "1",
+      "spage": "320",
+      "epage": "335",
+      "year": "1867",
+      "date": "1867-00-00",
+      "oclc": "5883001",
+      "PageID": "6477022",
+      "created": "2010-05-18 13:08:39",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6477022,
+        6477023,
+        6477024,
+        6477025,
+        6477026,
+        6477027,
+        6477028,
+        6477029,
+        6477030,
+        6477031,
+        6477032,
+        6477033,
+        6477034,
+        6477035,
+        6477036,
+        6477037
+      ]
+    }
+  ]
+}

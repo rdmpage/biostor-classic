@@ -1,0 +1,76 @@
+{
+  "ItemID": "40845",
+  "FullTitle": "Revista do Museu Paulista.  ",
+  "VolumeInfo": "t. 12 (1920)",
+  "articles": [
+    {
+      "reference_id": "100704",
+      "genre": "article",
+      "title": "Triprion, Diaglena, Corythomantis, etc. uma subsec\u00e7\u00e3o de HYLID\u00c6, com duas especies novas",
+      "secondary_title": "Revista do Museu Paulista",
+      "volume": "12",
+      "spage": "83",
+      "epage": "89",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1765011",
+      "PageID": "10804329",
+      "created": "2012-02-20 14:55:33",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53441",
+          "lastname": "De Mirandia-Ribeiro",
+          "forename": "Alipio"
+        }
+      ],
+      "bhl_pages": [
+        10804329,
+        10804330,
+        10804331,
+        10804332,
+        10804333,
+        10804334,
+        10804337,
+        10804335,
+        10804339
+      ]
+    },
+    {
+      "reference_id": "100216",
+      "genre": "article",
+      "title": "Os engystomatideos do Museu Paulista (com um genero e tres especies novos)",
+      "secondary_title": "Revista Do Museu Paulista.",
+      "volume": "12",
+      "spage": "281",
+      "epage": "288",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0303-9846",
+      "PageID": "10804553",
+      "created": "2012-01-16 08:42:58",
+      "updated": "2012-01-16 08:45:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53418",
+          "lastname": "De Miranda-Ribeiro",
+          "forename": "Al\u00edpio"
+        }
+      ],
+      "bhl_pages": [
+        10804553,
+        10804554,
+        10804555,
+        10804556,
+        10804557,
+        10804558,
+        10804559,
+        10804560,
+        10804561,
+        10804563
+      ]
+    }
+  ]
+}

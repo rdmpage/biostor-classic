@@ -1,0 +1,80 @@
+{
+  "ItemID": "33699",
+  "FullTitle": "Annals of applied biology.  ",
+  "VolumeInfo": "v. 4 (1918)",
+  "articles": [
+    {
+      "reference_id": "53268",
+      "genre": "article",
+      "title": "Some farm insects observed in the Aberystwith area, 1913-1916",
+      "secondary_title": "Annals of Applied Biology",
+      "volume": "4",
+      "spage": "4",
+      "epage": "14",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0003-4746",
+      "PageID": "8046236",
+      "created": "2010-10-26 17:40:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40802",
+          "lastname": "Walton",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        8046236,
+        8046235,
+        8046234,
+        8046233,
+        8046232,
+        8046231,
+        8046230,
+        8046229,
+        8046228,
+        8046227,
+        8046194
+      ]
+    },
+    {
+      "reference_id": "59037",
+      "genre": "article",
+      "title": "A list of Coccidae affecting various genera of plants",
+      "secondary_title": "Annals of Applied Biology",
+      "volume": "4",
+      "spage": "228",
+      "epage": "239",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0003-4746",
+      "PageID": "8046455",
+      "created": "2010-11-20 23:34:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        8046455,
+        8046456,
+        8046457,
+        8046458,
+        8046459,
+        8046460,
+        8046461,
+        8046462,
+        8046463,
+        8046464,
+        8046465,
+        8046466
+      ]
+    }
+  ]
+}

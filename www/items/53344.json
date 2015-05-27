@@ -1,0 +1,179 @@
+{
+  "ItemID": "53344",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "3rd ser. v. 20 (1867)",
+  "articles": [
+    {
+      "reference_id": "49115",
+      "genre": "article",
+      "title": "Description of a new Australian tortoise (Elseya latisternum)",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "20",
+      "series": "3",
+      "spage": "43",
+      "epage": "45",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0374-5481",
+      "PageID": "15624000",
+      "created": "2010-03-21 11:32:38",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        15624000,
+        15624001,
+        15624002
+      ]
+    },
+    {
+      "reference_id": "20530",
+      "genre": "article",
+      "title": "Additions to the knowledge of Australian reptiles and fishes",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "20",
+      "series": "3",
+      "spage": "45",
+      "epage": "68",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0374-5481",
+      "PageID": "15624002",
+      "created": "2010-02-09 17:41:19",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15624002,
+        15624003,
+        15624004,
+        15624005,
+        15624006,
+        15624007,
+        15624008,
+        15624009,
+        15624010,
+        15624011,
+        15624012,
+        15624013,
+        15624014,
+        15624015,
+        15624016,
+        15624017,
+        15624018,
+        15624019,
+        15624020,
+        15624021,
+        15624022,
+        15624023,
+        15624024,
+        15624025
+      ]
+    },
+    {
+      "reference_id": "20531",
+      "genre": "article",
+      "title": "New fishes from the Gaboon and Gold Coast",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "20",
+      "series": "3",
+      "spage": "110",
+      "epage": "117",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0374-5481",
+      "PageID": "15624067",
+      "created": "2010-02-09 17:41:32",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15624067,
+        15624068,
+        15624069,
+        15624070,
+        15624071,
+        15624072,
+        15624073,
+        15624074
+      ]
+    },
+    {
+      "reference_id": "13638",
+      "genre": "article",
+      "title": "On some new species of Oliva, and a new Trivia",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "20",
+      "series": "3",
+      "spage": "213",
+      "epage": "215",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0374-5481",
+      "PageID": "15624170",
+      "created": "2010-01-11 17:57:40",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10069",
+          "lastname": "Marrat",
+          "forename": "Frederick P"
+        }
+      ],
+      "bhl_pages": [
+        15624170,
+        15624171,
+        15624172
+      ]
+    },
+    {
+      "reference_id": "49187",
+      "genre": "article",
+      "title": "Descriptions of two new Saurians from Mossamedes (West Africa)",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "20",
+      "series": "3",
+      "spage": "225",
+      "epage": "228",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0374-5481",
+      "PageID": "15624182",
+      "created": "2010-03-21 11:59:03",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39400",
+          "lastname": "Bocage",
+          "forename": "J V Du B"
+        }
+      ],
+      "bhl_pages": [
+        15624182,
+        15624183,
+        15624184,
+        15624185
+      ]
+    }
+  ]
+}

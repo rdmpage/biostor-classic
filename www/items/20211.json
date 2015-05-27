@@ -1,0 +1,826 @@
+{
+  "ItemID": "20211",
+  "FullTitle": "Entomological news.",
+  "VolumeInfo": "v. 48-49 1937",
+  "articles": [
+    {
+      "reference_id": "73638",
+      "genre": "article",
+      "title": "New Colorado Asilidae (Diptera)",
+      "secondary_title": "Ent. News",
+      "volume": "48",
+      "spage": "12",
+      "epage": "15",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572869",
+      "created": "2011-06-04 09:29:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42564",
+          "lastname": "James",
+          "forename": "M T"
+        }
+      ],
+      "bhl_pages": [
+        2572869,
+        2572868,
+        2572867,
+        2572866
+      ]
+    },
+    {
+      "reference_id": "70670",
+      "genre": "article",
+      "title": "Notes on Coleoptera with Descriptions of New Species (Buprestidae and Cerambycidae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "48",
+      "spage": "15",
+      "epage": "17",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572866",
+      "created": "2011-06-03 06:47:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46625",
+          "lastname": "Nissley",
+          "forename": "Knull Josef"
+        }
+      ],
+      "bhl_pages": [
+        2572866,
+        2572865,
+        2572864
+      ]
+    },
+    {
+      "reference_id": "3723",
+      "genre": "article",
+      "title": "Notes on Coleoptera with Descriptions of New Species (Buprestidae and Cerambycidae). - II.",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "48",
+      "issue": "2",
+      "spage": "36",
+      "epage": "42",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572833",
+      "created": "2009-12-26 19:12:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2274",
+          "lastname": "Knull",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        2572833,
+        2572832,
+        2572831,
+        2572830,
+        2572829,
+        2572828,
+        2572827
+      ]
+    },
+    {
+      "reference_id": "3733",
+      "genre": "article",
+      "title": "Notes and Descriptions of West American Cerambycidae (Coleoptera). III.",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "48",
+      "spage": "63",
+      "epage": "69",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572800",
+      "created": "2009-12-26 19:13:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2279",
+          "lastname": "Linsley",
+          "forename": "Earle"
+        }
+      ],
+      "bhl_pages": [
+        2572800,
+        2572799,
+        2572798,
+        2572797,
+        2572796,
+        2572795,
+        2572794
+      ]
+    },
+    {
+      "reference_id": "84514",
+      "genre": "article",
+      "title": "A slave-making Leptothorax (Hymen.: Formicidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "48",
+      "spage": "125",
+      "epage": "129",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572912",
+      "created": "2011-08-10 22:47:05",
+      "updated": "2011-08-10 22:47:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2572912,
+        2572913,
+        2572914,
+        2572915,
+        2572916
+      ]
+    },
+    {
+      "reference_id": "84452",
+      "genre": "article",
+      "title": "A new species of Cryptophagus, found asso-ciated with ants (Coleoptera; Crypto-phagidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "48",
+      "spage": "158",
+      "epage": "160",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572951",
+      "created": "2011-08-10 22:42:35",
+      "updated": "2011-08-10 22:42:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2572951,
+        2572952,
+        2572953
+      ]
+    },
+    {
+      "reference_id": "3767",
+      "genre": "article",
+      "title": "A new Euphoria from Texas",
+      "secondary_title": "Entomological News",
+      "volume": "48",
+      "spage": "163",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572956",
+      "created": "2009-12-26 19:15:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2297",
+          "lastname": "Robinson",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        2572956
+      ]
+    },
+    {
+      "reference_id": "70599",
+      "genre": "article",
+      "title": "Asiphonaphis and Aphis studies (Homoptera: Aphididae)",
+      "secondary_title": "Entomological News",
+      "volume": "48",
+      "spage": "170",
+      "epage": "172",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2572963",
+      "created": "2011-06-03 06:43:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45351",
+          "lastname": "",
+          "forename": "Knowlton"
+        }
+      ],
+      "bhl_pages": [
+        2572963,
+        2572964,
+        2572965
+      ]
+    },
+    {
+      "reference_id": "84668",
+      "genre": "article",
+      "title": "New species of Saturniidae (Lepidoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "48",
+      "spage": "181",
+      "epage": "183",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573019",
+      "created": "2011-08-10 22:58:00",
+      "updated": "2011-08-10 22:58:00",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573019,
+        2573020,
+        2573021
+      ]
+    },
+    {
+      "reference_id": "3694",
+      "genre": "article",
+      "title": "New Records from Bait Traps. (Dipt., Coleop., Corrodentia).",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "48",
+      "issue": "7",
+      "spage": "201",
+      "epage": "202",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573005",
+      "created": "2009-12-26 19:10:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2261",
+          "lastname": "Frost",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        2573005,
+        2573006
+      ]
+    },
+    {
+      "reference_id": "84537",
+      "genre": "article",
+      "title": "Bees taken by the Rev. Bernard Rotger in Southwest Colorado (Hymen.: Apoidea)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "48",
+      "spage": "255",
+      "epage": "258",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573156",
+      "created": "2011-08-10 22:48:31",
+      "updated": "2011-08-10 22:48:31",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573156,
+        2573157,
+        2573158,
+        2573159
+      ]
+    },
+    {
+      "reference_id": "70598",
+      "genre": "article",
+      "title": "A new species of Phyllophaga from Kentucky",
+      "secondary_title": "Entomological News",
+      "volume": "48",
+      "spage": "285",
+      "epage": "287",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573039",
+      "created": "2011-06-03 06:43:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46601",
+          "lastname": "P.o.",
+          "forename": "Ritcher"
+        }
+      ],
+      "bhl_pages": [
+        2573039,
+        2573040,
+        2573041
+      ]
+    },
+    {
+      "reference_id": "84524",
+      "genre": "article",
+      "title": "An annotated list of the butterflies of Nebraska, withthe description of a new species(Lepid.: Rhopalocera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "3",
+      "epage": "9",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573248",
+      "created": "2011-08-10 22:47:47",
+      "updated": "2011-08-10 22:47:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573248,
+        2573249,
+        2573250,
+        2573251,
+        2573252,
+        2573253,
+        2573254
+      ]
+    },
+    {
+      "reference_id": "84849",
+      "genre": "article",
+      "title": "Two new species of Helmidae from a warm spring in Montana (Coleoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "16",
+      "epage": "19",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573315",
+      "created": "2011-08-10 23:12:18",
+      "updated": "2011-08-10 23:12:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573315,
+        2573316,
+        2573317,
+        2573318
+      ]
+    },
+    {
+      "reference_id": "84578",
+      "genre": "article",
+      "title": "Four new Coleoptera (Elateridae and Bupresti-dae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "19",
+      "epage": "22",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573318",
+      "created": "2011-08-10 22:51:23",
+      "updated": "2011-08-10 22:51:23",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573318,
+        2573319,
+        2573320,
+        2573321
+      ]
+    },
+    {
+      "reference_id": "84641",
+      "genre": "article",
+      "title": "New North American Histeridae (Coleoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "48",
+      "epage": "51",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573188",
+      "created": "2011-08-10 22:56:03",
+      "updated": "2011-08-10 22:56:03",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573188,
+        2573189,
+        2573190,
+        2573191
+      ]
+    },
+    {
+      "reference_id": "73624",
+      "genre": "article",
+      "title": "Notes on some North American Mydaidae (Diptera)",
+      "secondary_title": "Ent. News",
+      "volume": "49",
+      "spage": "63",
+      "epage": "64",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573209",
+      "created": "2011-06-04 09:28:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42564",
+          "lastname": "James",
+          "forename": "M T"
+        }
+      ],
+      "bhl_pages": [
+        2573209,
+        2573210
+      ]
+    },
+    {
+      "reference_id": "70600",
+      "genre": "article",
+      "title": "Notes on western conifer aphids (Homoptera: Aphididae)",
+      "secondary_title": "Entomological News",
+      "volume": "49",
+      "spage": "65",
+      "epage": "69",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573211",
+      "created": "2011-06-03 06:43:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45351",
+          "lastname": "",
+          "forename": "Knowlton"
+        },
+        {
+          "id": "41484",
+          "lastname": "Smith",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        2573211,
+        2573212,
+        2573213,
+        2573214,
+        2573215
+      ]
+    },
+    {
+      "reference_id": "73707",
+      "genre": "article",
+      "title": "Descriptions of some North American Micropezidae (Diptera)",
+      "secondary_title": "Ent. News",
+      "volume": "49",
+      "spage": "72",
+      "epage": "76",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573283",
+      "created": "2011-06-04 09:38:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18299",
+          "lastname": "Cresson",
+          "forename": "E T"
+        }
+      ],
+      "bhl_pages": [
+        2573283,
+        2573284,
+        2573285,
+        2573286,
+        2573287
+      ]
+    },
+    {
+      "reference_id": "84566",
+      "genre": "article",
+      "title": "Descriptions of new melanic forms (Lepido-ptera: Beometridae, Noctuidae and Arctiidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "108",
+      "epage": "114",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573239",
+      "created": "2011-08-10 22:50:25",
+      "updated": "2011-08-10 22:50:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573239,
+        2573240,
+        2573241,
+        2573242,
+        2573243,
+        2573349,
+        2573350
+      ]
+    },
+    {
+      "reference_id": "59338",
+      "genre": "article",
+      "title": "A South African Onthophagus found in United States (Coleoptera: Scarabaeidae)",
+      "secondary_title": "Entomological News",
+      "volume": "49",
+      "spage": "114",
+      "epage": "115",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573350",
+      "created": "2010-11-21 03:18:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42543",
+          "lastname": "Cartwright",
+          "forename": "O L"
+        }
+      ],
+      "bhl_pages": [
+        2573350,
+        2573351
+      ]
+    },
+    {
+      "reference_id": "84802",
+      "genre": "article",
+      "title": "The immature and adult stages of a new species of Scatopse from Maine (Diptera : Scatop-sidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "151",
+      "epage": "154",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573357",
+      "created": "2011-08-10 23:08:05",
+      "updated": "2011-08-10 23:08:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573357,
+        2573358,
+        2573367,
+        2573368
+      ]
+    },
+    {
+      "reference_id": "84575",
+      "genre": "article",
+      "title": "Five new genera of fossil Oestromuscaria(Diptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "166",
+      "epage": "167",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573389",
+      "created": "2011-08-10 22:51:10",
+      "updated": "2011-08-10 22:51:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573389,
+        2573390
+      ]
+    },
+    {
+      "reference_id": "84709",
+      "genre": "article",
+      "title": "Notes on the distribution of Vermileo in the United States and Mexico with a description of a new species (Diptera: Rhagionidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "167",
+      "epage": "171",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573390",
+      "created": "2011-08-10 23:00:46",
+      "updated": "2011-08-10 23:00:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573390,
+        2573391,
+        2573392,
+        2573393,
+        2573394
+      ]
+    },
+    {
+      "reference_id": "84548",
+      "genre": "article",
+      "title": "Corrections and additions to a recent catalog of the Tiphiidae (Hymenoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "184",
+      "epage": "189",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573428",
+      "created": "2011-08-10 22:49:09",
+      "updated": "2011-08-10 22:49:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573428,
+        2573429,
+        2573430,
+        2573431,
+        2573432,
+        2573433
+      ]
+    },
+    {
+      "reference_id": "84667",
+      "genre": "article",
+      "title": "New species of Pacific Coast Coleoptera (Cleridae, Pyrochroidae, Chrysomelidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "189",
+      "epage": "195",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573433",
+      "created": "2011-08-10 22:57:53",
+      "updated": "2011-08-10 22:57:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573433,
+        2573434,
+        2573435,
+        2573436,
+        2573437,
+        2573438,
+        2573439
+      ]
+    },
+    {
+      "reference_id": "70630",
+      "genre": "article",
+      "title": "Some new North American Psyllidae (Homoptera)",
+      "secondary_title": "Entomological News",
+      "volume": "49",
+      "spage": "241",
+      "epage": "246",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573482",
+      "created": "2011-06-03 06:44:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46612",
+          "lastname": "D.",
+          "forename": "Tuthill L"
+        }
+      ],
+      "bhl_pages": [
+        2573482,
+        2573483,
+        2573484,
+        2573377,
+        2573378,
+        2573379
+      ]
+    },
+    {
+      "reference_id": "70709",
+      "genre": "article",
+      "title": "Three new geophiloid chilopods",
+      "secondary_title": "Entomological News",
+      "volume": "49",
+      "spage": "254",
+      "epage": "255",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573363",
+      "created": "2011-06-03 06:49:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46178",
+          "lastname": "R.v.",
+          "forename": "Chamberlin"
+        }
+      ],
+      "bhl_pages": [
+        2573363,
+        2573364
+      ]
+    },
+    {
+      "reference_id": "70524",
+      "genre": "article",
+      "title": "Notes on the eggpods of Appalachia hebardi and Dendrotettix quercus (Orthoptera: Acrididae: Cyrtacanthacridinae)",
+      "secondary_title": "Entomological News",
+      "volume": "49",
+      "spage": "259",
+      "epage": "260",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573495",
+      "created": "2011-06-03 06:40:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45380",
+          "lastname": "Rehn",
+          "forename": "J W H"
+        }
+      ],
+      "bhl_pages": [
+        2573495,
+        2573496
+      ]
+    },
+    {
+      "reference_id": "84569",
+      "genre": "article",
+      "title": "Descriptions of some new forms of Pseudolucanus capreolus (Coleoptera: Lucanidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "49",
+      "spage": "271",
+      "epage": "274",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2573556",
+      "created": "2011-08-10 22:50:39",
+      "updated": "2011-08-10 22:50:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2573556,
+        2573557,
+        2573558,
+        2573559
+      ]
+    }
+  ]
+}

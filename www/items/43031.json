@@ -1,0 +1,36 @@
+{
+  "ItemID": "43031",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 36 1915",
+  "articles": [
+    {
+      "reference_id": "65132",
+      "genre": "article",
+      "title": "\u00dcber eine neue Gattung und Art von Anopluren",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "36",
+      "spage": "282",
+      "epage": "285",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-886X",
+      "PageID": "11674369",
+      "created": "2011-01-31 14:35:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44783",
+          "lastname": "Mj\u00f6berg",
+          "forename": "Erik"
+        }
+      ],
+      "bhl_pages": [
+        11674369,
+        11674370,
+        11674371,
+        11674372
+      ]
+    }
+  ]
+}

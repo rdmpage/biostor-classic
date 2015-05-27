@@ -1,0 +1,57 @@
+{
+  "author": [
+    {
+      "firstname": "Kevin R",
+      "lastname": "Toal",
+      "name": "Kevin R Toal"
+    },
+    {
+      "firstname": "Joseph R",
+      "lastname": "Mendelson",
+      "name": "Joseph R Mendelson"
+    }
+  ],
+  "type": "article",
+  "title": "A new species of Hyla (Anura: Hylidae) from cloud forest in Oaxaca, Mexico, with comments on the status of the Hyla bistincta group",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "174",
+    "pages": "1--20",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1995",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/230"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4466771"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 230
+    },
+    {
+      "type": "bhl",
+      "id": 4466771
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -96.5,
+        17.5
+      ]
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ItemID": "23564",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 15 (1890)",
+  "articles": [
+    {
+      "reference_id": "72093",
+      "genre": "article",
+      "title": "Notice pr\u00e9liminaire sur les spongiaires recueillis durant les campagnes de l'Hirondelle",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France",
+      "volume": "15",
+      "spage": "26",
+      "epage": "32",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0037-962X",
+      "PageID": "3613410",
+      "created": "2011-06-04 00:28:05",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42868",
+          "lastname": "Topsent",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3613410,
+        3613411,
+        3613412,
+        3613413,
+        3613414,
+        3613415,
+        3613416
+      ]
+    },
+    {
+      "reference_id": "103362",
+      "genre": "article",
+      "title": "Description de nouvelles especes d'Oiseaux du Tonkin, du Laos et de la Cochinchine",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "15",
+      "spage": "153",
+      "epage": "159",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0037-962X",
+      "PageID": "3613537",
+      "created": "2012-05-21 13:21:50",
+      "updated": "2012-05-21 13:21:50",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3613537,
+        3613538,
+        3613539,
+        3613540,
+        3613541,
+        3613542,
+        3613543
+      ]
+    },
+    {
+      "reference_id": "61311",
+      "genre": "article",
+      "title": "Description d'un Bryozoaire nouveau du genre Rhabdopleura",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "15",
+      "spage": "180",
+      "epage": "183",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0037-962X",
+      "PageID": "3613564",
+      "created": "2011-01-10 17:06:51",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42982",
+          "lastname": "Jullien",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3613564,
+        3613565,
+        3613566,
+        3613567
+      ]
+    },
+    {
+      "reference_id": "51935",
+      "genre": "article",
+      "title": "Quelques mots sur les moeurs de l'Hyla versicolor Daudin et sur l'accouplement des batraciens anoures",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "15",
+      "spage": "205",
+      "epage": "211",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0037-962X",
+      "PageID": "3613589",
+      "created": "2010-06-27 11:00:23",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40298",
+          "lastname": "Her\u00f3n-Royer",
+          "forename": "L-F"
+        }
+      ],
+      "bhl_pages": [
+        3613589,
+        3613590,
+        3613591,
+        3613592,
+        3613593,
+        3613594,
+        3613595
+      ]
+    }
+  ]
+}

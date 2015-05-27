@@ -1,0 +1,626 @@
+{
+  "ItemID": "17341",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 206 (2004)",
+  "articles": [
+    {
+      "reference_id": "11200",
+      "genre": "article",
+      "title": "Experimental Evidence That Ovary and Oviducal Gland Extracts Influence Male Agonistic Behavior in Squids",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "1",
+      "epage": "3",
+      "year": "2004",
+      "date": "2004-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543192",
+      "PageID": "1543334",
+      "created": "2010-01-07 02:19:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8407",
+          "lastname": "Buresch",
+          "forename": "Kendra C"
+        },
+        {
+          "id": "8408",
+          "lastname": "Boal",
+          "forename": "Jean G"
+        },
+        {
+          "id": "6697",
+          "lastname": "Nagle",
+          "forename": "Gregg T"
+        },
+        {
+          "id": "8409",
+          "lastname": "Knowles",
+          "forename": "Jamie"
+        },
+        {
+          "id": "8410",
+          "lastname": "Nobuhara",
+          "forename": "Robert"
+        },
+        {
+          "id": "8411",
+          "lastname": "Sweeney",
+          "forename": "Kate"
+        },
+        {
+          "id": "6074",
+          "lastname": "Hanlon",
+          "forename": "Roger T"
+        }
+      ],
+      "bhl_pages": [
+        1543334,
+        1543335,
+        1543336
+      ]
+    },
+    {
+      "reference_id": "11201",
+      "genre": "article",
+      "title": "Contraction and Stiffness Changes in Collagenous Arm Ligaments of the Stalked Crinoid Metacrinus rotundus (Echinodermata)",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "4",
+      "epage": "12",
+      "year": "2004",
+      "date": "2004-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543193",
+      "PageID": "1543337",
+      "created": "2010-01-07 02:19:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8386",
+          "lastname": "Motokawa",
+          "forename": "Tatsuo"
+        },
+        {
+          "id": "8412",
+          "lastname": "Shintani",
+          "forename": "Osamu"
+        },
+        {
+          "id": "8413",
+          "lastname": "Birenheide",
+          "forename": "Rudiger"
+        }
+      ],
+      "bhl_pages": [
+        1543337,
+        1543338,
+        1543339,
+        1543340,
+        1543341,
+        1543342,
+        1543343,
+        1543344,
+        1543345
+      ]
+    },
+    {
+      "reference_id": "11202",
+      "genre": "article",
+      "title": "Identification of Juvenile Hormone-Active Alkylphenols in the Lobster Homarus americanus and in Marine Sediments",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "13",
+      "epage": "24",
+      "year": "2004",
+      "date": "2004-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543194",
+      "PageID": "1543346",
+      "created": "2010-01-07 02:19:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8414",
+          "lastname": "Biggers",
+          "forename": "William J"
+        },
+        {
+          "id": "8415",
+          "lastname": "Laufer",
+          "forename": "Hans"
+        }
+      ],
+      "bhl_pages": [
+        1543346,
+        1543347,
+        1543348,
+        1543349,
+        1543350,
+        1543351,
+        1543352,
+        1543353,
+        1543354,
+        1543355,
+        1543356,
+        1543357
+      ]
+    },
+    {
+      "reference_id": "11203",
+      "genre": "article",
+      "title": "Reproduction and Development of the Conspicuously Dimorphic Brittle Star Ophiodaphne formata (Ophiuroidea)",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "25",
+      "epage": "34",
+      "year": "2004",
+      "date": "2004-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543195",
+      "PageID": "1543358",
+      "created": "2010-01-07 02:19:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8416",
+          "lastname": "Tominaga",
+          "forename": "Hideyuki"
+        },
+        {
+          "id": "8417",
+          "lastname": "Nakamura",
+          "forename": "Shogo"
+        },
+        {
+          "id": "5389",
+          "lastname": "Komatsu",
+          "forename": "Mieko"
+        }
+      ],
+      "bhl_pages": [
+        1543358,
+        1543359,
+        1543360,
+        1543361,
+        1543362,
+        1543363,
+        1543364,
+        1543365,
+        1543366,
+        1543367
+      ]
+    },
+    {
+      "reference_id": "11204",
+      "genre": "article",
+      "title": "Waveform Dynamics of Spermatozeugmata During the Transfer From Paternal to Maternal Individuals of Membranipora membranacea",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "35",
+      "epage": "45",
+      "year": "2004",
+      "date": "2004-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543196",
+      "PageID": "1543368",
+      "created": "2010-01-07 02:19:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "7384",
+          "lastname": "Temkin",
+          "forename": "M H"
+        },
+        {
+          "id": "8418",
+          "lastname": "Bortolami",
+          "forename": "S B"
+        }
+      ],
+      "bhl_pages": [
+        1543368,
+        1543369,
+        1543370,
+        1543371,
+        1543372,
+        1543373,
+        1543374,
+        1543375,
+        1543376,
+        1543377,
+        1543378
+      ]
+    },
+    {
+      "reference_id": "11205",
+      "genre": "article",
+      "title": "Differences in the rDNA-Bearing Chromosome Divide the Asian-Pacific and Atlantic Species of Crassostrea (Bivalvia, Mollusca)",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "46",
+      "epage": "54",
+      "year": "2004",
+      "date": "2004-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543197",
+      "PageID": "1543379",
+      "created": "2010-01-07 02:19:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8419",
+          "lastname": "Wang",
+          "forename": "Yongping"
+        },
+        {
+          "id": "8420",
+          "lastname": "Xu",
+          "forename": "Zhe"
+        },
+        {
+          "id": "8354",
+          "lastname": "Guo",
+          "forename": "Ximing"
+        }
+      ],
+      "bhl_pages": [
+        1543379,
+        1543380,
+        1543381,
+        1543382,
+        1543383,
+        1543384,
+        1543385,
+        1543386,
+        1543387
+      ]
+    },
+    {
+      "reference_id": "11206",
+      "genre": "article",
+      "title": "Occurrence in the Field of a Long-Term, Year-Round, Stable Population of Placozoans",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "55",
+      "epage": "60",
+      "year": "2004",
+      "date": "2004-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543198",
+      "PageID": "1543388",
+      "created": "2010-01-07 02:19:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "5771",
+          "lastname": "Maruyama",
+          "forename": "Yoshihiko K"
+        }
+      ],
+      "bhl_pages": [
+        1543388,
+        1543389,
+        1543390,
+        1543391,
+        1543392,
+        1543393
+      ]
+    },
+    {
+      "reference_id": "11207",
+      "genre": "article",
+      "title": "Identification and Activity-Dependent Labeling of Peripheral Sensory Structures on a Spionid Polychaete",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "65",
+      "epage": "77",
+      "year": "2004",
+      "date": "2004-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543537",
+      "PageID": "1543414",
+      "created": "2010-01-07 02:19:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8421",
+          "lastname": "Lindsay",
+          "forename": "Sara M"
+        },
+        {
+          "id": "8422",
+          "lastname": "Riordan",
+          "forename": "Timothy J"
+        },
+        {
+          "id": "8423",
+          "lastname": "Forest",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        1543414,
+        1543415,
+        1543416,
+        1543417,
+        1543418,
+        1543419,
+        1543420,
+        1543421,
+        1543422,
+        1543423,
+        1543424,
+        1543425,
+        1543426
+      ]
+    },
+    {
+      "reference_id": "11208",
+      "genre": "article",
+      "title": "Physiological Development of the Embryonic and Larval Crayfish Heart",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "78",
+      "epage": "86",
+      "year": "2004",
+      "date": "2004-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543538",
+      "PageID": "1543427",
+      "created": "2010-01-07 02:19:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8424",
+          "lastname": "Harper",
+          "forename": "S L"
+        },
+        {
+          "id": "7870",
+          "lastname": "Reiber",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        1543427,
+        1543428,
+        1543429,
+        1543430,
+        1543431,
+        1543432,
+        1543433,
+        1543434,
+        1543435
+      ]
+    },
+    {
+      "reference_id": "11209",
+      "genre": "article",
+      "title": "Survival and Development of Horseshoe Crab (Limulus polyphemus) Embryos and Larvae in Hypersaline Conditions",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "87",
+      "epage": "94",
+      "year": "2004",
+      "date": "2004-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543539",
+      "PageID": "1543436",
+      "created": "2010-01-07 02:19:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8425",
+          "lastname": "Ehlinger",
+          "forename": "Gretchen S"
+        },
+        {
+          "id": "8426",
+          "lastname": "Tankersley",
+          "forename": "Richard A"
+        }
+      ],
+      "bhl_pages": [
+        1543436,
+        1543437,
+        1543438,
+        1543439,
+        1543440,
+        1543441,
+        1543442,
+        1543443
+      ]
+    },
+    {
+      "reference_id": "11210",
+      "genre": "article",
+      "title": "Strategies for Sperm Chemotaxis in the Siphonophores and Ascidians: A Numerical Simulation Study",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "95",
+      "epage": "102",
+      "year": "2004",
+      "date": "2004-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543540",
+      "PageID": "1543444",
+      "created": "2010-01-07 02:19:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8427",
+          "lastname": "Ishikawa",
+          "forename": "Makiko"
+        },
+        {
+          "id": "8428",
+          "lastname": "Tsutsui",
+          "forename": "Hidekazu"
+        },
+        {
+          "id": "8429",
+          "lastname": "Cosson",
+          "forename": "Jacky"
+        },
+        {
+          "id": "8430",
+          "lastname": "Oka",
+          "forename": "Yoshitaka"
+        },
+        {
+          "id": "8431",
+          "lastname": "Morisawa",
+          "forename": "Masaaki"
+        }
+      ],
+      "bhl_pages": [
+        1543444,
+        1543445,
+        1543446,
+        1543447,
+        1543448,
+        1543449,
+        1543450,
+        1543451
+      ]
+    },
+    {
+      "reference_id": "11211",
+      "genre": "article",
+      "title": "Interaction Between Photoperiod and an Endogenous Seasonal Factor in Influencing the Diel Locomotor Activity of the Benthic Polychaete Nereis virens Sars",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "103",
+      "epage": "112",
+      "year": "2004",
+      "date": "2004-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543541",
+      "PageID": "1543452",
+      "created": "2010-01-07 02:19:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8432",
+          "lastname": "Last",
+          "forename": "Kim S"
+        },
+        {
+          "id": "8433",
+          "lastname": "Olive",
+          "forename": "Peter J W"
+        }
+      ],
+      "bhl_pages": [
+        1543452,
+        1543453,
+        1543454,
+        1543455,
+        1543456,
+        1543457,
+        1543458,
+        1543459,
+        1543460,
+        1543461
+      ]
+    },
+    {
+      "reference_id": "11212",
+      "genre": "article",
+      "title": "Adaptable Defense: A Nudibranch Mucus Inhibits Nematocyst Discharge and Changes With Prey Type",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "113",
+      "epage": "120",
+      "year": "2004",
+      "date": "2004-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543542",
+      "PageID": "1543462",
+      "created": "2010-01-07 02:19:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "6401",
+          "lastname": "Greenwood",
+          "forename": "Paul G"
+        },
+        {
+          "id": "8434",
+          "lastname": "Garry",
+          "forename": "Kyle"
+        },
+        {
+          "id": "8435",
+          "lastname": "Hunter",
+          "forename": "April"
+        },
+        {
+          "id": "8436",
+          "lastname": "Jennings",
+          "forename": "Miranda"
+        }
+      ],
+      "bhl_pages": [
+        1543462,
+        1543463,
+        1543464,
+        1543465,
+        1543466,
+        1543467,
+        1543468,
+        1543469
+      ]
+    },
+    {
+      "reference_id": "11213",
+      "genre": "article",
+      "title": "Limits to Phenotypic Plasticity: Flow Effects on Barnacle Feeding Appendages",
+      "secondary_title": "Biol Bull",
+      "volume": "206",
+      "spage": "121",
+      "epage": "124",
+      "year": "2004",
+      "date": "2004-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1543635",
+      "PageID": "1543486",
+      "created": "2010-01-07 02:19:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8437",
+          "lastname": "Li",
+          "forename": "Natasha K"
+        },
+        {
+          "id": "8438",
+          "lastname": "Denny",
+          "forename": "Mark W"
+        }
+      ],
+      "bhl_pages": [
+        1543486,
+        1543487,
+        1543488,
+        1543489
+      ]
+    }
+  ]
+}

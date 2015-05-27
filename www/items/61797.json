@@ -1,0 +1,872 @@
+{
+  "ItemID": "61797",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "8th ser. v. 13 (1914)",
+  "articles": [
+    {
+      "reference_id": "97667",
+      "genre": "article",
+      "title": "Remarks on some Copepoda from the Falkland Islands collected by Mr. Rupert Vallentin, F.L.S",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "1",
+      "epage": "11",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18640760",
+      "created": "2011-10-25 12:01:12",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18640760,
+        18640761,
+        18640762,
+        18640763,
+        18640764,
+        18640765,
+        18640766,
+        18640767,
+        18640768,
+        18640769,
+        18640770
+      ]
+    },
+    {
+      "reference_id": "59834",
+      "genre": "article",
+      "title": "II.\u2014Diagnoses of new marine fishes collected by the British Antarctic ('Terra Nova') Expedition",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "11",
+      "epage": "17",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931408693450",
+      "PageID": "18640770",
+      "created": "2010-11-22 16:12:47",
+      "updated": "2012-06-06 16:54:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18640770,
+        18640771,
+        18640772,
+        18640773,
+        18640774,
+        18640775,
+        18640776
+      ]
+    },
+    {
+      "reference_id": "66628",
+      "genre": "article",
+      "title": "A synopsis of the fishes of the family Macrorhamphosidae",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "17",
+      "epage": "21",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18640776",
+      "created": "2011-05-08 00:36:44",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18640776,
+        18640777,
+        18640778,
+        18640779,
+        18640780
+      ]
+    },
+    {
+      "reference_id": "58677",
+      "genre": "article",
+      "title": "Brief descriptions of new Thysanoptera. II",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "22",
+      "epage": "31",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18640781",
+      "created": "2010-11-20 22:27:00",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39849",
+          "lastname": "Bagnall",
+          "forename": "R S"
+        }
+      ],
+      "bhl_pages": [
+        18640781,
+        18640782,
+        18640783,
+        18640784,
+        18640785,
+        18640786,
+        18640787,
+        18640788,
+        18640789,
+        18640790
+      ]
+    },
+    {
+      "reference_id": "58746",
+      "genre": "article",
+      "title": "Notes on the Apidae (Hymenoptera) in the collection of the British Museum, with descriptions of new species",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "45",
+      "epage": "58",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18640804",
+      "created": "2010-11-20 22:41:47",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42315",
+          "lastname": "Meade-Waldo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        18640804,
+        18640805,
+        18640806,
+        18640807,
+        18640808,
+        18640809,
+        18640810,
+        18640811,
+        18640812,
+        18640813,
+        18640814,
+        18640815,
+        18640816,
+        18640817
+      ]
+    },
+    {
+      "reference_id": "60294",
+      "genre": "article",
+      "title": "Notes on the Forficularia. XX. A new genus and five new species from Australia",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "72",
+      "epage": "77",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18640831",
+      "created": "2010-11-22 22:06:17",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42077",
+          "lastname": "Burr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        18640831,
+        18640832,
+        18640833,
+        18640834,
+        18640835,
+        18640836
+      ]
+    },
+    {
+      "reference_id": "58699",
+      "genre": "article",
+      "title": "Descriptions and records of bees. LVI",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "136",
+      "epage": "146",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18640895",
+      "created": "2010-11-20 22:32:19",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        18640895,
+        18640896,
+        18640897,
+        18640898,
+        18640899,
+        18640900,
+        18640901,
+        18640902,
+        18640903,
+        18640904,
+        18640905
+      ]
+    },
+    {
+      "reference_id": "98885",
+      "genre": "article",
+      "title": "Descriptions of new genera and species of Noctuidae (continued)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "spage": "146",
+      "epage": "175",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931408693462",
+      "PageID": "18640905",
+      "created": "2011-12-05 22:05:10",
+      "updated": "2011-12-05 22:05:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18640905,
+        18640906,
+        18640907,
+        18640908,
+        18640909,
+        18640910,
+        18640911,
+        18640912,
+        18640913,
+        18640914,
+        18640915,
+        18640916,
+        18640917,
+        18640918,
+        18640919,
+        18640920,
+        18640921,
+        18640922,
+        18640923,
+        18640924,
+        18640925,
+        18640926,
+        18640927,
+        18640928,
+        18640929,
+        18640930,
+        18640931,
+        18640932,
+        18640933,
+        18640934
+      ]
+    },
+    {
+      "reference_id": "98887",
+      "genre": "article",
+      "title": "On new species of Histeridae and notices of others. xli",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "spage": "235",
+      "epage": "242",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931408693469",
+      "PageID": "18640994",
+      "created": "2011-12-05 22:05:40",
+      "updated": "2011-12-05 22:05:40",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18640994,
+        18640995,
+        18640996,
+        18640997,
+        18640998,
+        18640999,
+        18641000,
+        18641001
+      ]
+    },
+    {
+      "reference_id": "66633",
+      "genre": "article",
+      "title": "Fishes from Yunnan, collected by Mr. John Graham, with description of a new species of Barilius",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "260",
+      "epage": "261",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641019",
+      "created": "2011-05-08 00:39:04",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18641019,
+        18641020
+      ]
+    },
+    {
+      "reference_id": "58676",
+      "genre": "article",
+      "title": "On certain recently described Australian species of Tabanus",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "263",
+      "epage": "266",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641022",
+      "created": "2010-11-20 22:26:48",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42404",
+          "lastname": "Austen",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        18641022,
+        18641023,
+        18641024,
+        18641025
+      ]
+    },
+    {
+      "reference_id": "97670",
+      "genre": "article",
+      "title": "Report on the Annelida Polychaeta collected in the North Sea and adjacent parts by the Scotch Fishery Board Vessel \"Gold-seeker.\"-Part II. Nepthydidae to Hesionidae",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "266",
+      "epage": "275",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641025",
+      "created": "2011-10-25 12:01:51",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18641025,
+        18641026,
+        18641027,
+        18641028,
+        18641029,
+        18641030,
+        18641031,
+        18641032,
+        18641033,
+        18641034
+      ]
+    },
+    {
+      "reference_id": "58679",
+      "genre": "article",
+      "title": "Brief descriptions of new Thysanoptera III",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "287",
+      "epage": "297",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641046",
+      "created": "2010-11-20 22:27:27",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39849",
+          "lastname": "Bagnall",
+          "forename": "R S"
+        }
+      ],
+      "bhl_pages": [
+        18641046,
+        18641047,
+        18641048,
+        18641049,
+        18641050,
+        18641051,
+        18641052,
+        18641053,
+        18641054,
+        18641055,
+        18641056
+      ]
+    },
+    {
+      "reference_id": "99075",
+      "genre": "article",
+      "title": "XLVII.\u2014Some additions to the genera and species in the Homopterous family Fulgorid\u00e6",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "409",
+      "epage": "424",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931408693503",
+      "PageID": "18641168",
+      "created": "2011-12-10 10:52:41",
+      "updated": "2011-12-10 11:05:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        18641168,
+        18641169,
+        18641170,
+        18641171,
+        18641172,
+        18641173,
+        18641174,
+        18641175,
+        18641176,
+        18641177,
+        18641178,
+        18641179,
+        18641180,
+        18641181,
+        18641182,
+        18641183
+      ]
+    },
+    {
+      "reference_id": "58698",
+      "genre": "article",
+      "title": "Descriptions and records of bees. LVIII",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "424",
+      "epage": "433",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641183",
+      "created": "2010-11-20 22:32:03",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        18641183,
+        18641184,
+        18641185,
+        18641186,
+        18641187,
+        18641188,
+        18641189,
+        18641190,
+        18641191,
+        18641192
+      ]
+    },
+    {
+      "reference_id": "58767",
+      "genre": "article",
+      "title": "New Asiatic and Australasian bats and a new bandicoot",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "439",
+      "epage": "444",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641198",
+      "created": "2010-11-20 22:47:11",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42066",
+          "lastname": "Thomas",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        18641198,
+        18641199,
+        18641200,
+        18641201,
+        18641202,
+        18641203
+      ]
+    },
+    {
+      "reference_id": "97655",
+      "genre": "article",
+      "title": "Description of a Harpacticid Copepod parasitic on an Octopus",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "472",
+      "epage": "475",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641231",
+      "created": "2011-10-25 11:59:18",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18641231,
+        18641232,
+        18641233,
+        18641234
+      ]
+    },
+    {
+      "reference_id": "73543",
+      "genre": "article",
+      "title": "Species of Tabanus from Polynesia in the British Museum and in the late Mr. Verrall's collection",
+      "secondary_title": "Ann. Mag. Nat. Hist",
+      "volume": "13",
+      "series": "8",
+      "spage": "476",
+      "epage": "479",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641235",
+      "created": "2011-06-04 09:17:02",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10029",
+          "lastname": "Ricardo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        18641235,
+        18641236,
+        18641237,
+        18641238
+      ]
+    },
+    {
+      "reference_id": "66138",
+      "genre": "article",
+      "title": "Notes on African Ungulates. 1. The classification of the duikers",
+      "secondary_title": "Annual Magazine of Natural History",
+      "volume": "13",
+      "spage": "491",
+      "epage": "495",
+      "year": "1914",
+      "date": "1914-00-00",
+      "PageID": "18641250",
+      "created": "2011-05-05 15:33:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42295",
+          "lastname": "Schwarz",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        18641250,
+        18641251,
+        18641252,
+        18641253,
+        18641254
+      ]
+    },
+    {
+      "reference_id": "58700",
+      "genre": "article",
+      "title": "Descriptions and records of bees. LIX",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "16",
+      "series": "7",
+      "spage": "216",
+      "epage": "225",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641263",
+      "created": "2010-11-20 22:32:39",
+      "updated": "2012-02-09 15:54:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        18641263,
+        18641264,
+        18641265,
+        18641266,
+        18641267,
+        18641268,
+        18641269,
+        18641270,
+        18641271,
+        18641272
+      ]
+    },
+    {
+      "reference_id": "98892",
+      "genre": "article",
+      "title": "New non-marine mollusca from Peru and Argentina",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "spage": "522",
+      "epage": "528",
+      "year": "1914",
+      "date": "1914-00-00",
+      "doi": "10.1080\/00222931408693519",
+      "PageID": "18641281",
+      "created": "2011-12-05 22:06:44",
+      "updated": "2011-12-05 22:06:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18641281,
+        18641282,
+        18641283,
+        18641284,
+        18641285,
+        18641286,
+        18641287
+      ]
+    },
+    {
+      "reference_id": "98893",
+      "genre": "article",
+      "title": "On the Ornithosaurian genus Ornithocheirus, with a review of the specimens from the Cam bridge Greensand in the Sedgwick Museum, Cambridge",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "spage": "529",
+      "epage": "557",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931408693521",
+      "PageID": "18641288",
+      "created": "2011-12-05 22:06:54",
+      "updated": "2011-12-05 22:06:54",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18641288,
+        18641289,
+        18641290,
+        18641291,
+        18641292,
+        18641293,
+        18641294,
+        18641295,
+        18641296,
+        18641297,
+        18641298,
+        18641299,
+        18641300,
+        18641301,
+        18641302,
+        18641303,
+        18641304,
+        18641305,
+        18641306,
+        18641307,
+        18641308,
+        18641309,
+        18641310,
+        18641311,
+        18641312,
+        18641313,
+        18641314,
+        18641315,
+        18641316
+      ]
+    },
+    {
+      "reference_id": "102356",
+      "genre": "article",
+      "title": "A new Nycteris from N.W. Rhodesia",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "563",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931408693524",
+      "PageID": "18641322",
+      "created": "2012-04-06 20:46:57",
+      "updated": "2012-04-06 20:47:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40403",
+          "lastname": "Andersen",
+          "forename": "Knud"
+        }
+      ],
+      "bhl_pages": [
+        18641322
+      ]
+    },
+    {
+      "reference_id": "102357",
+      "genre": "article",
+      "title": "LXV.\u2014 On small mammals from Djarkent, Central Asia",
+      "secondary_title": "The Annals and magazine of natural history",
+      "volume": "13",
+      "series": "8",
+      "spage": "562",
+      "epage": "573",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931408693525",
+      "PageID": "18641322",
+      "created": "2012-04-06 20:56:55",
+      "updated": "2012-04-06 21:07:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        18641322,
+        18641323,
+        18641324,
+        18641325,
+        18641326,
+        18641327,
+        18641328,
+        18641329,
+        18641330,
+        18641331,
+        18641332,
+        18641333
+      ]
+    },
+    {
+      "reference_id": "58686",
+      "genre": "article",
+      "title": "Notes on the Forficularia. XXI. Progress in Dermaptera in 1912 and 1913",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "8",
+      "spage": "577",
+      "epage": "586",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0374-5481",
+      "PageID": "18641336",
+      "created": "2010-11-20 22:28:51",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42077",
+          "lastname": "Burr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        18641336,
+        18641337,
+        18641338,
+        18641339,
+        18641340,
+        18641341,
+        18641342,
+        18641343,
+        18641344,
+        18641345
+      ]
+    }
+  ]
+}

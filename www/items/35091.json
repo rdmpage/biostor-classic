@@ -1,0 +1,36 @@
+{
+  "ItemID": "35091",
+  "FullTitle": "Transactions of the Kansas Academy of Science.  ",
+  "VolumeInfo": "18 and index to v.1-17",
+  "articles": [
+    {
+      "reference_id": "69819",
+      "genre": "article",
+      "title": "Additions to the list of Kansas Coleoptera for the years 1901 and 1902",
+      "secondary_title": "Transactions of the Kansas Academy of Science, Topeka",
+      "volume": "18",
+      "spage": "187",
+      "epage": "190",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "8506593",
+      "PageID": "8596485",
+      "created": "2011-06-02 07:36:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46379",
+          "lastname": "Warren",
+          "forename": "K N A U S"
+        }
+      ],
+      "bhl_pages": [
+        8596485,
+        8596486,
+        8596487,
+        8596488
+      ]
+    }
+  ]
+}

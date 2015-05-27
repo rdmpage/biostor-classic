@@ -1,0 +1,74 @@
+{
+  "ItemID": "30128",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 42 (1890)",
+  "articles": [
+    {
+      "reference_id": "49257",
+      "genre": "article",
+      "title": "On a new genus of Colubridae from Florida",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "42",
+      "spage": "199",
+      "epage": "200",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0097-3157",
+      "PageID": "6390006",
+      "created": "2010-03-21 12:35:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12168",
+          "lastname": "Brown",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        6390006,
+        6390007
+      ]
+    },
+    {
+      "reference_id": "57244",
+      "genre": "article",
+      "title": "Pennsylvania and New Jersey spiders of the family Lycosidae",
+      "secondary_title": "Proc. Acad. nat. Sci. Philad.",
+      "volume": "1890",
+      "spage": "420",
+      "epage": "434",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0097-3157",
+      "PageID": "6390241",
+      "created": "2010-11-18 13:18:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41989",
+          "lastname": "Stone",
+          "forename": "W S"
+        }
+      ],
+      "bhl_pages": [
+        6390241,
+        6390242,
+        6390243,
+        6390244,
+        6390245,
+        6390246,
+        6390247,
+        6390248,
+        6390249,
+        6390250,
+        6390251,
+        6390252,
+        6390253,
+        6390254,
+        6390255
+      ]
+    }
+  ]
+}

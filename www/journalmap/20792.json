@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "W E",
+      "lastname": "Duellman",
+      "name": "W E Duellman"
+    }
+  ],
+  "type": "article",
+  "title": "Three new species of centrolenid frogs from the Pacific versant of Ecuador and Colombia",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History of the University of Kansas",
+    "volume": "88",
+    "pages": "1--9",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1981",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/20792"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4138540"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 20792
+    },
+    {
+      "type": "bhl",
+      "id": 4138540
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -76.583333333333,
+        4
+      ]
+    ]
+  }
+}

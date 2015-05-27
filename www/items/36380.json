@@ -1,0 +1,134 @@
+{
+  "ItemID": "36380",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 29 (1916-1917)",
+  "articles": [
+    {
+      "reference_id": "102404",
+      "genre": "article",
+      "title": "New genera and species of Australian Hemiptera",
+      "secondary_title": "Proceedings of The Royal Society of Victoria",
+      "volume": "29",
+      "spage": "1",
+      "epage": "18",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0035-9211",
+      "PageID": "9201789",
+      "created": "2012-04-22 16:08:24",
+      "updated": "2012-04-22 16:08:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10338",
+          "lastname": "Bergroth",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9201789,
+        9201790,
+        9201791,
+        9201792,
+        9201793,
+        9201794,
+        9201795,
+        9201796,
+        9201797,
+        9201798,
+        9201799,
+        9201800,
+        9201801,
+        9201802,
+        9201803,
+        9201804,
+        9201805,
+        9201806
+      ]
+    },
+    {
+      "reference_id": "58885",
+      "genre": "article",
+      "title": "Heteropterous Hemiptera collected by Professor W. Baldwin Spencer during the Horn Expedition into Central Australia",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "29",
+      "spage": "19",
+      "epage": "39",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0035-9211",
+      "PageID": "9201807",
+      "created": "2010-11-20 23:06:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10338",
+          "lastname": "Bergroth",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9201807,
+        9201808,
+        9201809,
+        9201810,
+        9201811,
+        9201812,
+        9201813,
+        9201814,
+        9201815,
+        9201816,
+        9201817,
+        9201818,
+        9201819,
+        9201820,
+        9201821,
+        9201822,
+        9201823,
+        9201824,
+        9201825,
+        9201826,
+        9201827
+      ]
+    },
+    {
+      "reference_id": "58911",
+      "genre": "article",
+      "title": "Additions to the alterations in the Catalogue of the Marine Shells of Victoria",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "29",
+      "spage": "106",
+      "epage": "113",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0035-9211",
+      "PageID": "9201910",
+      "created": "2010-11-20 23:10:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42096",
+          "lastname": "Gatliff",
+          "forename": "J H"
+        },
+        {
+          "id": "42305",
+          "lastname": "Gabriel",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        9201910,
+        9201911,
+        9201912,
+        9201913,
+        9201914,
+        9201915,
+        9201916,
+        9201917
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "author": [
+    {
+      "firstname": "G",
+      "lastname": "Rosa A. Brice\u00f1o",
+      "name": "G Rosa A. Brice\u00f1o"
+    }
+  ],
+  "type": "article",
+  "title": "Taxonomic Revision of the Genus Sesioctonus Viereck (Hymenoptera: Braconidae: Agathidinae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "12",
+    "pages": "238--271",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2003",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/310"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2839521"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 310
+    },
+    {
+      "type": "bhl",
+      "id": 2839521
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -55.616666666667,
+        -12.516666666667
+      ],
+      [
+        -78.183333333333,
+        2.9666666666667
+      ]
+    ]
+  }
+}

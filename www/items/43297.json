@@ -1,0 +1,99 @@
+{
+  "ItemID": "43297",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 8 1912",
+  "articles": [
+    {
+      "reference_id": "58512",
+      "genre": "article",
+      "title": "Zur Biologie der brasilianischen Meliponiden",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "8",
+      "spage": "1",
+      "epage": "5",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1770562",
+      "PageID": "11764810",
+      "created": "2010-11-20 21:34:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40335",
+          "lastname": "Von Ihering",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11764810,
+        11764811,
+        11764812,
+        11764813,
+        11764814
+      ]
+    },
+    {
+      "reference_id": "58562",
+      "genre": "article",
+      "title": "Das m\u00e4nnliche Copulationsorgan und das system der Eudermaptera",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "8",
+      "spage": "276",
+      "epage": "284",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1770562",
+      "PageID": "11765176",
+      "created": "2010-11-20 21:50:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42376",
+          "lastname": "Zacher",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11765176,
+        11765177,
+        11765178,
+        11765179,
+        11765180,
+        11765181,
+        11765182,
+        11765183,
+        11765184
+      ]
+    },
+    {
+      "reference_id": "71343",
+      "genre": "article",
+      "title": "Heuschrecken auf Sardinien",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insekten-Biologie (Z. Wiss. Insekt.)",
+      "volume": "8",
+      "spage": "323",
+      "epage": "325",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1770562",
+      "PageID": "11765241",
+      "created": "2011-06-03 19:28:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46805",
+          "lastname": "",
+          "forename": "Krausse"
+        }
+      ],
+      "bhl_pages": [
+        11765241,
+        11765242,
+        11765243
+      ]
+    }
+  ]
+}

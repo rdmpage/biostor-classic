@@ -1,0 +1,53 @@
+{
+  "author": [
+    {
+      "firstname": "J Mark",
+      "lastname": "Ritchie",
+      "name": "J Mark Ritchie"
+    }
+  ],
+  "type": "article",
+  "title": "A taxonomic revision of the genus Oedaleus Fieber (Orthoptera: Acrididae)",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Entomology",
+    "volume": "42",
+    "issue": "3",
+    "pages": "83--183",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1981",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/178"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2247032"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 178
+    },
+    {
+      "type": "bhl",
+      "id": 2247032
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        2.0333333333333,
+        18.433333333333
+      ]
+    ]
+  }
+}

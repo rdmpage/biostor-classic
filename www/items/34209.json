@@ -1,0 +1,84 @@
+{
+  "ItemID": "34209",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 19 (1906-1907)",
+  "articles": [
+    {
+      "reference_id": "58008",
+      "genre": "article",
+      "title": "Some little known Victorian decapod Crustacea, with descriptions of new species.\u2014No. III",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "19",
+      "spage": "5",
+      "epage": "15",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0035-9211",
+      "PageID": "8272398",
+      "created": "2010-11-20 19:36:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42226",
+          "lastname": "Fulton",
+          "forename": "S W"
+        },
+        {
+          "id": "41006",
+          "lastname": "Grant",
+          "forename": "F E"
+        }
+      ],
+      "bhl_pages": [
+        8272398,
+        8272397,
+        8272396,
+        8272395,
+        8272394,
+        8272393,
+        8272392,
+        8272359,
+        8272360,
+        8272361,
+        8272362
+      ]
+    },
+    {
+      "reference_id": "102407",
+      "genre": "article",
+      "title": "Four new echinoids from the Australian Tertiary",
+      "secondary_title": "Proceedings of The Royal Society of Victoria",
+      "volume": "19",
+      "spage": "47",
+      "epage": "53",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0035-9211",
+      "PageID": "8272441",
+      "created": "2012-04-22 20:34:38",
+      "updated": "2012-04-22 20:48:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53666",
+          "lastname": "Hall",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        8272441,
+        8272442,
+        8272443,
+        8272444,
+        8272445,
+        8272446,
+        8272455,
+        8272447,
+        8272449,
+        8272451,
+        8272453
+      ]
+    }
+  ]
+}

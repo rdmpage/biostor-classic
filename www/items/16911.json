@@ -1,0 +1,938 @@
+{
+  "ItemID": "16911",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 66 (1934)",
+  "articles": [
+    {
+      "reference_id": "7066",
+      "genre": "article",
+      "title": "THE TROPHIC NATURE OF CHLOROGONIUM AND CHILOMONAS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "1",
+      "epage": "6",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537455",
+      "PageID": "1370903",
+      "created": "2010-01-06 21:13:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3394",
+          "lastname": "Loefer",
+          "forename": "John B"
+        }
+      ],
+      "bhl_pages": [
+        1370903,
+        1370919,
+        1370904,
+        1370905,
+        1370906,
+        1370907
+      ]
+    },
+    {
+      "reference_id": "7067",
+      "genre": "article",
+      "title": "EFFECT OF RINGER'S SOLUTION ON TAIL-REGENERATION IN THE TADPOLE OF RANA PALUSTRIS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "7",
+      "epage": "9",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537456",
+      "PageID": "1370920",
+      "created": "2010-01-06 21:13:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3200",
+          "lastname": "Sayles",
+          "forename": "Leonard P"
+        }
+      ],
+      "bhl_pages": [
+        1370920,
+        1370921,
+        1370922
+      ]
+    },
+    {
+      "reference_id": "7068",
+      "genre": "article",
+      "title": "COORDINATION AND MOVEMENT OF THE SWIMMING-PLATES OF MNEMIOPSIS LEIDYI, AGASSIZ",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "10",
+      "epage": "21",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537457",
+      "PageID": "1370908",
+      "created": "2010-01-06 21:13:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3395",
+          "lastname": "Coonfield",
+          "forename": "B R"
+        }
+      ],
+      "bhl_pages": [
+        1370908,
+        1370923,
+        1370909,
+        1370924,
+        1370910,
+        1370911,
+        1370912,
+        1370913,
+        1370914,
+        1370925,
+        1370926,
+        1370933
+      ]
+    },
+    {
+      "reference_id": "7069",
+      "genre": "article",
+      "title": "THE CONTROL OF THE DERMAL MELANOPHORES IN ELASMOBRANCH FISHES",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "30",
+      "epage": "37",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537459",
+      "PageID": "1370938",
+      "created": "2010-01-06 21:13:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3345",
+          "lastname": "Parker",
+          "forename": "George H"
+        },
+        {
+          "id": "3396",
+          "lastname": "Porter",
+          "forename": "Helen"
+        }
+      ],
+      "bhl_pages": [
+        1370938,
+        1370931,
+        1370932,
+        1370939,
+        1371113,
+        1371114,
+        1370940,
+        1371115
+      ]
+    },
+    {
+      "reference_id": "7070",
+      "genre": "article",
+      "title": "THE AIR TURBINE FOR HIGH SPEED CENTRIFUGING OF BIOLOGICAL MATERIAL, TOGETHER WITH SOME OBSERVATIONS ON CENTRIFUGED EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "48",
+      "epage": "54",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537461",
+      "PageID": "1370946",
+      "created": "2010-01-06 21:13:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3057",
+          "lastname": "Harvey",
+          "forename": "E Newton"
+        }
+      ],
+      "bhl_pages": [
+        1370946,
+        1370947,
+        1371121,
+        1371122,
+        1371123,
+        1371124,
+        1370948
+      ]
+    },
+    {
+      "reference_id": "7071",
+      "genre": "article",
+      "title": "THE GLOCHIDIAL CONGLUTINATES OF THE ARKANSAS FANSHELL, CYPROGENIA ABERTI (CONRAD)",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "55",
+      "epage": "61",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537462",
+      "PageID": "1370949",
+      "created": "2010-01-06 21:13:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3397",
+          "lastname": "Chamberlain",
+          "forename": "Thomas K"
+        }
+      ],
+      "bhl_pages": [
+        1370949,
+        1370950,
+        1370951,
+        1371125,
+        1370952,
+        1371126,
+        1371127
+      ]
+    },
+    {
+      "reference_id": "7072",
+      "genre": "article",
+      "title": "THE COLORED CORPUSCLES OF THE BLOOD OF THE PURPLE SEA SPIDER, ANOPLODACTYLUS LENTUS WILSON",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "62",
+      "epage": "68",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537463",
+      "PageID": "1370953",
+      "created": "2010-01-06 21:13:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3351",
+          "lastname": "Dawson",
+          "forename": "Alden B"
+        }
+      ],
+      "bhl_pages": [
+        1370953,
+        1371128,
+        1370954,
+        1370955,
+        1370956,
+        1371129,
+        1370957
+      ]
+    },
+    {
+      "reference_id": "7073",
+      "genre": "article",
+      "title": "STUDIES ON THE CILIATES FROM FRESH WATER MUSSELS: I. THE STRUCTURE AND NEUROMOTOR SYSTEM OF CONCHOPHTHIRIUS ANODONTAe STEIN, C. CURTUS ENGL., AND C. MAGNA SP. NOV",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "69",
+      "epage": "90",
+      "year": "1934",
+      "date": "1934-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537464",
+      "PageID": "1370958",
+      "created": "2010-01-06 21:13:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3373",
+          "lastname": "Kidder",
+          "forename": "George W"
+        }
+      ],
+      "bhl_pages": [
+        1370958,
+        1370959,
+        1371130,
+        1371131,
+        1370960,
+        1370961,
+        1371132,
+        1370962,
+        1371133,
+        1371134,
+        1370963,
+        1371135,
+        1370964,
+        1370965,
+        1371136,
+        1371137,
+        1370966,
+        1370967,
+        1370968,
+        1371138,
+        1370969,
+        1370970
+      ]
+    },
+    {
+      "reference_id": "7074",
+      "genre": "article",
+      "title": "BIOLOGICAL EFFECTS OF HEAVY WATER",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "91",
+      "epage": "96",
+      "year": "1934",
+      "date": "1934-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537322",
+      "PageID": "1371139",
+      "created": "2010-01-06 21:13:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3057",
+          "lastname": "Harvey",
+          "forename": "E Newton"
+        }
+      ],
+      "bhl_pages": [
+        1371139,
+        1370973,
+        1371140,
+        1371141,
+        1370974,
+        1371142
+      ]
+    },
+    {
+      "reference_id": "7075",
+      "genre": "article",
+      "title": "THE EFFECTS OF LAND DRAINAGE UPON THE EXCESS BASES OF SEA WATER",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "97",
+      "epage": "101",
+      "year": "1934",
+      "date": "1934-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537323",
+      "PageID": "1371143",
+      "created": "2010-01-06 21:13:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3398",
+          "lastname": "Mitchell",
+          "forename": "Philip H"
+        },
+        {
+          "id": "3399",
+          "lastname": "Solinger",
+          "forename": "Julian L"
+        }
+      ],
+      "bhl_pages": [
+        1371143,
+        1371144,
+        1371145,
+        1370975,
+        1371146
+      ]
+    },
+    {
+      "reference_id": "7076",
+      "genre": "article",
+      "title": "PARADOX PHENOMENA IN THE CARDIAC GANGLION OF LIMULUS POLYPHEMUS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "102",
+      "epage": "114",
+      "year": "1934",
+      "date": "1934-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537324",
+      "PageID": "1371147",
+      "created": "2010-01-06 21:13:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3387",
+          "lastname": "Chao",
+          "forename": "Iping"
+        }
+      ],
+      "bhl_pages": [
+        1371147,
+        1370976,
+        1370977,
+        1371148,
+        1370978,
+        1370979,
+        1370980,
+        1371149,
+        1371150,
+        1370981,
+        1370982,
+        1370983,
+        1371151
+      ]
+    },
+    {
+      "reference_id": "7077",
+      "genre": "article",
+      "title": "FURTHER OBSERVATIONS ON THE SALT REQUIREMENTS OF LIGIA IN BERMUDA",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "124",
+      "epage": "132",
+      "year": "1934",
+      "date": "1934-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537326",
+      "PageID": "1371155",
+      "created": "2010-01-06 21:13:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3372",
+          "lastname": "Barnes",
+          "forename": "T Cunliffe"
+        }
+      ],
+      "bhl_pages": [
+        1371155,
+        1371156,
+        1371157,
+        1371158,
+        1370990,
+        1371159,
+        1371160,
+        1370991,
+        1370992
+      ]
+    },
+    {
+      "reference_id": "7078",
+      "genre": "article",
+      "title": "THE CULTIVATION OF A CELLULOSE-DIGESTING FLAGELLATE, TRICHOMONAS TERMOPSIDIS, AND OF CERTAIN OTHER TERMITE PROTOZOA",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "182",
+      "epage": "190",
+      "year": "1934",
+      "date": "1934-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537331",
+      "PageID": "1371189",
+      "created": "2010-01-06 21:13:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3400",
+          "lastname": "Trager",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        1371189,
+        1371014,
+        1371190,
+        1371191,
+        1371015,
+        1371192,
+        1371016,
+        1371017,
+        1371018
+      ]
+    },
+    {
+      "reference_id": "7079",
+      "genre": "article",
+      "title": "THE SEDIMENTATION CONSTANTS OF THE RESPIRATORY PROTEINS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "191",
+      "epage": "223",
+      "year": "1934",
+      "date": "1934-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537332",
+      "PageID": "1371019",
+      "created": "2010-01-06 21:13:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3401",
+          "lastname": "Svedberg",
+          "forename": "The"
+        },
+        {
+          "id": "3402",
+          "lastname": "Hedenius",
+          "forename": "Astrid"
+        }
+      ],
+      "bhl_pages": [
+        1371019,
+        1371020,
+        1371193,
+        1371021,
+        1371022,
+        1371023,
+        1371024,
+        1371194,
+        1371025,
+        1371026,
+        1371027,
+        1371028,
+        1371195,
+        1371029,
+        1371196,
+        1371197,
+        1371030,
+        1371198,
+        1371199,
+        1371031,
+        1371032,
+        1371200,
+        1371033,
+        1371034,
+        1371201,
+        1371202,
+        1371035,
+        1371203,
+        1371204,
+        1371036,
+        1371205,
+        1371206,
+        1371207
+      ]
+    },
+    {
+      "reference_id": "7080",
+      "genre": "article",
+      "title": "EFFECTS OF CENTRIFUGAL FORCE ON THE ECTOPLASMIC LAYER AND NUCLEI OF FERTILIZED SEA URCHIN EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "228",
+      "epage": "245",
+      "year": "1934",
+      "date": "1934-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537334",
+      "PageID": "1371210",
+      "created": "2010-01-06 21:13:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3192",
+          "lastname": "Harvey",
+          "forename": "Ethel Browne"
+        }
+      ],
+      "bhl_pages": [
+        1371210,
+        1371039,
+        1371040,
+        1371211,
+        1371212,
+        1371041,
+        1371213,
+        1371042,
+        1371043,
+        1371214,
+        1371215,
+        1371044,
+        1371045,
+        1371046,
+        1371047,
+        1371216,
+        1371048,
+        1371217
+      ]
+    },
+    {
+      "reference_id": "7081",
+      "genre": "article",
+      "title": "ELECTROKINETIC STUDIES OF MARINE OVA: II. CUMINGIA TELLINOIDES, ASTERIAS FORBESII, ECHINARACHNIUS PARMA, NEREIS LIMBATA AND CEREBRATULUS LACTEUS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "247",
+      "epage": "256",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537378",
+      "PageID": "1371219",
+      "created": "2010-01-06 21:14:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3403",
+          "lastname": "Dan",
+          "forename": "Katsuma"
+        }
+      ],
+      "bhl_pages": [
+        1371219,
+        1371049,
+        1371050,
+        1371220,
+        1371221,
+        1371051,
+        1371222,
+        1371052,
+        1371223,
+        1371224
+      ]
+    },
+    {
+      "reference_id": "7082",
+      "genre": "article",
+      "title": "THE HYALINE ZONE OF THE CENTRIFUGED EGG OF CUMINGIA",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "257",
+      "epage": "263",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537379",
+      "PageID": "1371053",
+      "created": "2010-01-06 21:14:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3404",
+          "lastname": "Costello",
+          "forename": "Donald P"
+        }
+      ],
+      "bhl_pages": [
+        1371053,
+        1371054,
+        1371225,
+        1371055,
+        1371226,
+        1371056,
+        1371227
+      ]
+    },
+    {
+      "reference_id": "7083",
+      "genre": "article",
+      "title": "THE EFFECT OF ANESTHETICS ON THE SURFACE PRECIPITATION REACTION",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "264",
+      "epage": "275",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537380",
+      "PageID": "1371228",
+      "created": "2010-01-06 21:14:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3054",
+          "lastname": "Heilbrunn",
+          "forename": "L V"
+        }
+      ],
+      "bhl_pages": [
+        1371228,
+        1371229,
+        1371057,
+        1371058,
+        1371059,
+        1371230,
+        1371231,
+        1371060,
+        1371232,
+        1371233,
+        1371061,
+        1371062
+      ]
+    },
+    {
+      "reference_id": "7084",
+      "genre": "article",
+      "title": "STUDIES ON THE CILIATES FROM FRESH WATER MUSSELS: II. THE NUCLEI OF CONCHOPHTHIRIUS ANODONTAe STEIN, C. CURTUS ENGL., AND C. MAGNA KIDDER, DURING BINARY FISSION",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "286",
+      "epage": "303",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537382",
+      "PageID": "1371237",
+      "created": "2010-01-06 21:14:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3373",
+          "lastname": "Kidder",
+          "forename": "George W"
+        }
+      ],
+      "bhl_pages": [
+        1371237,
+        1371070,
+        1371071,
+        1371238,
+        1371072,
+        1371239,
+        1371240,
+        1371073,
+        1371241,
+        1371074,
+        1371242,
+        1371243,
+        1371075,
+        1371244,
+        1371245,
+        1371246,
+        1371076,
+        1371077
+      ]
+    },
+    {
+      "reference_id": "7085",
+      "genre": "article",
+      "title": "ANALYSIS OF THE REGENERATIVE PROCESSES IN NEMERTEANS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "304",
+      "epage": "315",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537383",
+      "PageID": "1371078",
+      "created": "2010-01-06 21:14:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3211",
+          "lastname": "Coe",
+          "forename": "Wesley R"
+        }
+      ],
+      "bhl_pages": [
+        1371078,
+        1371079,
+        1371080,
+        1371247,
+        1371081,
+        1371082,
+        1371083,
+        1371084,
+        1371248,
+        1371085,
+        1371249,
+        1371250
+      ]
+    },
+    {
+      "reference_id": "7086",
+      "genre": "article",
+      "title": "REGENERATION OF THE TAIL-FINS OF FUNDULUS EMBRYOS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "316",
+      "epage": "325",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537384",
+      "PageID": "1371251",
+      "created": "2010-01-06 21:14:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3405",
+          "lastname": "Birnie",
+          "forename": "James H"
+        }
+      ],
+      "bhl_pages": [
+        1371251,
+        1371252,
+        1371086,
+        1371253,
+        1371087,
+        1371088,
+        1371089,
+        1371090,
+        1371091,
+        1371254
+      ]
+    },
+    {
+      "reference_id": "7087",
+      "genre": "article",
+      "title": "PRESENT STATUS OF LONGITUDINAL DIVISION IN HYDRA",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "326",
+      "epage": "329",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537385",
+      "PageID": "1371092",
+      "created": "2010-01-06 21:14:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3381",
+          "lastname": "Roudabush",
+          "forename": "Robert L"
+        }
+      ],
+      "bhl_pages": [
+        1371092,
+        1371255,
+        1371256,
+        1371093
+      ]
+    },
+    {
+      "reference_id": "7088",
+      "genre": "article",
+      "title": "THE STRUCTURE AND REACTIONS OF THE TENTACLES OF TEREBELLA MAGNIFICA W",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "339",
+      "epage": "345",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537387",
+      "PageID": "1371263",
+      "created": "2010-01-06 21:14:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3300",
+          "lastname": "Welsh",
+          "forename": "John H"
+        }
+      ],
+      "bhl_pages": [
+        1371263,
+        1371097,
+        1371098,
+        1371099,
+        1371100,
+        1371264,
+        1371265
+      ]
+    },
+    {
+      "reference_id": "7089",
+      "genre": "article",
+      "title": "THE CONCENTRATION OF EOSIN AND THE PHOTODYNAMIC EFFECT ON TENTACLES OF A TEREBELLID WORM",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "346",
+      "epage": "350",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537388",
+      "PageID": "1371101",
+      "created": "2010-01-06 21:14:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3300",
+          "lastname": "Welsh",
+          "forename": "John H"
+        }
+      ],
+      "bhl_pages": [
+        1371101,
+        1371266,
+        1371267,
+        1371102,
+        1371103
+      ]
+    },
+    {
+      "reference_id": "7090",
+      "genre": "article",
+      "title": "THE INFLUENCE OF HYPERTONIC AND HYPOTONIC SEA WATER ON THE ARTIFICIAL ACTIVATION OF STARFISH EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "66",
+      "spage": "361",
+      "epage": "376",
+      "year": "1934",
+      "date": "1934-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1537391",
+      "PageID": "1371276",
+      "created": "2010-01-06 21:14:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3158",
+          "lastname": "Lillie",
+          "forename": "Ralph S"
+        }
+      ],
+      "bhl_pages": [
+        1371276,
+        1371277,
+        1371278,
+        1371279,
+        1371280,
+        1371106,
+        1371107,
+        1371108,
+        1371109,
+        1371281,
+        1371282,
+        1371283,
+        1371110,
+        1371111,
+        1371284,
+        1371112
+      ]
+    }
+  ]
+}

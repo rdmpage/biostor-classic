@@ -1,0 +1,39 @@
+{
+  "ItemID": "18907",
+  "FullTitle": "Journal of the Royal Microscopical Society.",
+  "VolumeInfo": "1908",
+  "articles": [
+    {
+      "reference_id": "58195",
+      "genre": "article",
+      "title": "Note on a remarkable alcyonarian, Studeria mirabilis gen. sp. n",
+      "secondary_title": "Journal of the Royal Microscopical Society. London",
+      "volume": "1908",
+      "spage": "675",
+      "epage": "681",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1606258",
+      "PageID": "2207222",
+      "created": "2010-11-20 20:11:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42208",
+          "lastname": "Thomson",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        2207222,
+        2207223,
+        2207224,
+        2207225,
+        2207243,
+        2207244,
+        2207245
+      ]
+    }
+  ]
+}

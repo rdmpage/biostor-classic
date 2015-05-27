@@ -1,0 +1,52 @@
+{
+  "ItemID": "17803",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 34 (1920-1921)",
+  "articles": [
+    {
+      "reference_id": "101199",
+      "genre": "article",
+      "title": "Notes on certain Brachiopod genera",
+      "secondary_title": "Nautilus",
+      "volume": "34",
+      "spage": "69",
+      "epage": "70",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0028-1344",
+      "PageID": "1732982",
+      "created": "2012-03-12 12:01:52",
+      "updated": "2012-03-12 12:01:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1732982,
+        1732983
+      ]
+    },
+    {
+      "reference_id": "101214",
+      "genre": "article",
+      "title": "The Heavenly Twins",
+      "secondary_title": "Nautilus",
+      "volume": "34",
+      "spage": "138",
+      "epage": "9",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0028-1344",
+      "PageID": "1733057",
+      "created": "2012-03-12 12:03:40",
+      "updated": "2012-03-12 12:03:40",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1733057
+      ]
+    }
+  ]
+}

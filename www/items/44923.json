@@ -1,0 +1,70 @@
+{
+  "ItemID": "44923",
+  "FullTitle": "Proceedings of the Asiatic Society of Bengal.",
+  "VolumeInfo": "1871",
+  "articles": [
+    {
+      "reference_id": "49247",
+      "genre": "article",
+      "title": "Description of a new species of Scincus",
+      "secondary_title": "P. Asiat. Soc. Bengal",
+      "volume": "1871",
+      "spage": "115",
+      "epage": "116",
+      "year": "1871",
+      "date": "1871-00-00",
+      "PageID": "12393493",
+      "created": "2010-03-21 12:32:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "32106",
+          "lastname": "Anderson",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12393493,
+        12393494
+      ]
+    },
+    {
+      "reference_id": "49201",
+      "genre": "article",
+      "title": "On two Saurian genera Eurylpis and Plocederma Blyth, with a description of a new species of Mabouia Fitzinger",
+      "secondary_title": "P. Asiat. Soc. Bengal",
+      "volume": "1871",
+      "spage": "180",
+      "epage": "192",
+      "year": "1871",
+      "date": "1871-00-00",
+      "PageID": "12393562",
+      "created": "2010-03-21 12:01:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "32106",
+          "lastname": "Anderson",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12393562,
+        12393563,
+        12393564,
+        12393565,
+        12393566,
+        12393567,
+        12393568,
+        12393569,
+        12393570,
+        12393571,
+        12393572,
+        12393573,
+        12393574
+      ]
+    }
+  ]
+}

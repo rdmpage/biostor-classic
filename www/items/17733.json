@@ -1,0 +1,71 @@
+{
+  "ItemID": "17733",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 24 (1872)",
+  "articles": [
+    {
+      "reference_id": "69197",
+      "genre": "article",
+      "title": "Synopsis of the species of the Chelydrinae",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia (ser. 3)",
+      "volume": "24",
+      "spage": "22",
+      "epage": "29",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1382862",
+      "PageID": "1693231",
+      "created": "2011-06-01 08:38:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1693231,
+        1693232,
+        1693233,
+        1693234,
+        1693235,
+        1693236,
+        1693237,
+        1693238
+      ]
+    },
+    {
+      "reference_id": "59691",
+      "genre": "article",
+      "title": "Descriptions and illustrations of genera and shells",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "24",
+      "spage": "50",
+      "epage": "55",
+      "year": "1872",
+      "date": "1872-00-00",
+      "issn": "0097-3157",
+      "PageID": "1693259",
+      "created": "2010-11-22 15:32:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42666",
+          "lastname": "Conrad",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        1693259,
+        1693260,
+        1693261,
+        1693262,
+        1693263,
+        1693264
+      ]
+    }
+  ]
+}

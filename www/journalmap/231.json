@@ -1,0 +1,64 @@
+{
+  "author": [
+    {
+      "firstname": "Kraig",
+      "lastname": "Adler",
+      "name": "Kraig Adler"
+    }
+  ],
+  "type": "article",
+  "title": "The salamanders of Guerrero, Mexico, with descriptions of five new species of Pseudoeurycea (Caudata: Plethodontidae)",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "177",
+    "pages": "1--28",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1996",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/231"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/5768100"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 231
+    },
+    {
+      "type": "bhl",
+      "id": 5768100
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -100.13333333333,
+        17.466666666667
+      ],
+      [
+        -99.833333333333,
+        17.65
+      ],
+      [
+        -99.866666666667,
+        17.6
+      ],
+      [
+        -99.833333333333,
+        17.616666666667
+      ]
+    ]
+  }
+}

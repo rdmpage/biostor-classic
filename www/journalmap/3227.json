@@ -1,0 +1,61 @@
+{
+  "author": [
+    
+  ],
+  "type": "article",
+  "title": "A guide to the lacewings (Neuroptera) of Costa Rica",
+  "journal": {
+    "name": "Proceedings of the California Academy of Sciences",
+    "volume": "53",
+    "issue": "12",
+    "pages": "161--457",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0068-547X"
+      }
+    ]
+  },
+  "year": "2002",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/3227"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/15778635"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 3227
+    },
+    {
+      "type": "bhl",
+      "id": 15778635
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -82.833333333333,
+        8.95
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -83.783333333333,
+        10.5
+      ],
+      [
+        -84.833333333333,
+        10.333333333333
+      ]
+    ]
+  }
+}

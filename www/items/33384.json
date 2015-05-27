@@ -1,0 +1,65 @@
+{
+  "ItemID": "33384",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.15 (1955)",
+  "articles": [
+    {
+      "reference_id": "1243",
+      "genre": "article",
+      "title": "The Amphibia of Greer County, Oklahoma",
+      "secondary_title": "The Great Basin Naturalist",
+      "volume": "15",
+      "spage": "27",
+      "epage": "31",
+      "year": "1955",
+      "date": "1955-00-00",
+      "issn": "0017-3614",
+      "PageID": "7912547",
+      "created": "2009-12-23 10:26:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "972",
+          "lastname": "Bragg",
+          "forename": "A N"
+        }
+      ],
+      "bhl_pages": [
+        7912547,
+        7912548,
+        7912549,
+        7912550,
+        7912551
+      ]
+    },
+    {
+      "reference_id": "1242",
+      "genre": "article",
+      "title": "A new Sceloporus magister from eastern Utah",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "15",
+      "spage": "32",
+      "epage": "34",
+      "year": "1955",
+      "date": "1955-00-00",
+      "issn": "0017-3614",
+      "PageID": "7912552",
+      "created": "2009-12-23 10:26:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        7912552,
+        7912553,
+        7912554
+      ]
+    }
+  ]
+}

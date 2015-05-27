@@ -1,0 +1,60 @@
+{
+  "author": [
+    {
+      "firstname": "M J",
+      "lastname": "Sharkey",
+      "name": "M J Sharkey"
+    }
+  ],
+  "type": "article",
+  "title": "A taxonomic revision of Alabagrus (Hymenoptera: Braconidae)",
+  "journal": {
+    "name": "Bulletin of The British Museum (Natural History) Entomology",
+    "volume": "57",
+    "pages": "311--437",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1988",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/113932"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/41067525"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 113932
+    },
+    {
+      "type": "bhl",
+      "id": 41067525
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -52.383333333333,
+        -27.183333333333
+      ],
+      [
+        -83.016666666667,
+        10
+      ],
+      [
+        -51.783333333333,
+        -12.833333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "ItemID": "27180",
+  "FullTitle": "Bulletin du Muse\u0301um national d'histoire naturelle.",
+  "VolumeInfo": "t.10 1904",
+  "articles": [
+    {
+      "reference_id": "104792",
+      "genre": "article",
+      "title": "Holothuries du cap Horn",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1904",
+      "spage": "13",
+      "epage": "17",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "1148-8425",
+      "PageID": "5023960",
+      "created": "2012-06-28 20:33:54",
+      "updated": "2012-06-28 20:33:54",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5023960,
+        5023961,
+        5023962,
+        5023963,
+        5023964
+      ]
+    },
+    {
+      "reference_id": "104791",
+      "genre": "article",
+      "title": "Description despeces d'Oiseaux rapportes par M. G.-A. Baer du Tucuman (Republique Argentine)",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1904",
+      "spage": "43",
+      "epage": "45",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024062",
+      "created": "2012-06-28 20:33:48",
+      "updated": "2012-06-28 20:33:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024062,
+        5024063,
+        5024064
+      ]
+    },
+    {
+      "reference_id": "104782",
+      "genre": "article",
+      "title": "Sur les P\u00e9ripates des Guyanes",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "10",
+      "spage": "52",
+      "epage": "55",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024071",
+      "created": "2012-06-28 18:45:02",
+      "updated": "2012-06-28 20:14:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        5024071,
+        5024072,
+        5024073,
+        5024074
+      ]
+    },
+    {
+      "reference_id": "104906",
+      "genre": "article",
+      "title": "Peripatus belli (esp\u00e8ce nouvelle de l'Equator)",
+      "secondary_title": "Bulletin Du Mus\u00e9um National D'histoire Naturelle, Paris",
+      "volume": "10",
+      "spage": "56",
+      "epage": "57",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "4469175",
+      "PageID": "5024075",
+      "created": "2012-06-29 09:55:07",
+      "updated": "2012-06-29 09:55:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        5024075,
+        5024083
+      ]
+    },
+    {
+      "reference_id": "57861",
+      "genre": "article",
+      "title": "Crevettes de la famille des Atyides, esp\u00e8ces qui font partie des collections du Mus\u00e9um d'Histoire naturelle",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "10",
+      "spage": "129",
+      "epage": "138",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0027-4070",
+      "PageID": "5024178",
+      "created": "2010-11-20 15:10:04",
+      "updated": "2011-09-12 18:01:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8509",
+          "lastname": "Bouvier",
+          "forename": "E L"
+        }
+      ],
+      "bhl_pages": [
+        5024178,
+        5024179,
+        5024180,
+        5024181,
+        5024182,
+        5024183,
+        5024184,
+        5024185,
+        5024186,
+        5024187
+      ]
+    },
+    {
+      "reference_id": "81436",
+      "genre": "article",
+      "title": "Crevettes de la famille des Atyid\u00e9s; esp\u00e8ces qui font partie des collections du Mus\u00e9um d'Histoire naturelle",
+      "secondary_title": "Bull. Mus. Hist. nat. Paris",
+      "volume": "10",
+      "spage": "129",
+      "epage": "138",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0181-0626",
+      "PageID": "5024178",
+      "created": "2011-07-29 08:51:32",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        5024178,
+        5024179,
+        5024180,
+        5024181,
+        5024182,
+        5024183,
+        5024184,
+        5024185,
+        5024186,
+        5024187
+      ]
+    },
+    {
+      "reference_id": "104802",
+      "genre": "article",
+      "title": "Catalogue des Oiseaux rapportes par M. Geay de la Guyane Francaise et du Conteste Franco-Bresilien",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1904",
+      "spage": "174",
+      "epage": "186",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024225",
+      "created": "2012-06-28 20:35:27",
+      "updated": "2012-06-28 20:35:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024225,
+        5024226,
+        5024227,
+        5024228,
+        5024229,
+        5024230,
+        5024231,
+        5024232,
+        5024233,
+        5024234,
+        5024235,
+        5024236,
+        5024237
+      ]
+    },
+    {
+      "reference_id": "67166",
+      "genre": "article",
+      "title": "Sur un cyprino\u00efde nouveau de Tunisie, le Leuciscus (Phoxinellus) chaignoni",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "10",
+      "spage": "188",
+      "epage": "190",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "8093302",
+      "PageID": "5024239",
+      "created": "2011-05-19 09:25:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17937",
+          "lastname": "Vaillant",
+          "forename": "L L"
+        }
+      ],
+      "bhl_pages": [
+        5024239,
+        5024240,
+        5024241
+      ]
+    },
+    {
+      "reference_id": "67248",
+      "genre": "article",
+      "title": "Sur un cyprino\u00efde nouveau de Tunisie, le Leuciscus (Phoxinellus) chaignoni",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "10",
+      "spage": "188",
+      "epage": "190",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "5297845",
+      "PageID": "5024239",
+      "created": "2011-05-24 20:57:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17937",
+          "lastname": "Vaillant",
+          "forename": "L L"
+        }
+      ],
+      "bhl_pages": [
+        5024239,
+        5024240,
+        5024241
+      ]
+    },
+    {
+      "reference_id": "67264",
+      "genre": "article",
+      "title": "Characinid\u00e9s nouveaux de Casamance",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "10",
+      "spage": "218",
+      "epage": "221",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "5297845",
+      "PageID": "5024271",
+      "created": "2011-05-25 06:14:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5024271,
+        5024272,
+        5024273,
+        5024274
+      ]
+    },
+    {
+      "reference_id": "67376",
+      "genre": "article",
+      "title": "Cyprinodontid\u00e9s nouveaux du Congo et de l\u2019Oubanghi",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "10",
+      "spage": "221",
+      "epage": "223",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "5297845",
+      "PageID": "5024274",
+      "created": "2011-05-26 14:25:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5024274,
+        5024275,
+        5024276
+      ]
+    },
+    {
+      "reference_id": "57900",
+      "genre": "article",
+      "title": "Diagnoses pr\u00e9liminaires de vingt-huit esp\u00e8ces nouvelles de Stomatopodes et D\u00e9capodes Macroures de la Mer Rouge",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "10",
+      "spage": "228",
+      "epage": "238",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0027-4070",
+      "PageID": "5024281",
+      "created": "2010-11-20 15:28:48",
+      "updated": "2011-09-12 18:02:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42092",
+          "lastname": "Nobili",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        5024281,
+        5024282,
+        5024283,
+        5024284,
+        5024285,
+        5024286,
+        5024287,
+        5024288,
+        5024289,
+        5024290,
+        5024291
+      ]
+    },
+    {
+      "reference_id": "104809",
+      "genre": "article",
+      "title": "Description de quelques Reptiles et d'un Batracien nouvoaux de la collection du Museum",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1904",
+      "spage": "301",
+      "epage": "309",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024414",
+      "created": "2012-06-28 21:01:53",
+      "updated": "2012-06-28 21:01:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024414,
+        5024415,
+        5024416,
+        5024417,
+        5024418,
+        5024419,
+        5024420,
+        5024421,
+        5024422
+      ]
+    },
+    {
+      "reference_id": "67244",
+      "genre": "article",
+      "title": "Poissons du Chari et du lac Tchad r\u00e9colt\u00e9s par la mission Chevalier-Decorse",
+      "secondary_title": "Bulletin du Museum d'Histoire Naturelle (Paris)",
+      "volume": "10",
+      "spage": "309",
+      "epage": "313",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "5297845",
+      "PageID": "5024422",
+      "created": "2011-05-24 20:41:31",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5024422,
+        5024423,
+        5024424,
+        5024425,
+        5024440
+      ]
+    },
+    {
+      "reference_id": "104793",
+      "genre": "article",
+      "title": "Un nouveau genre du groupe des Natalicolaria (Tesseratominae) de l'Inde meridionale",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1904",
+      "spage": "314",
+      "epage": "316",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024441",
+      "created": "2012-06-28 20:34:01",
+      "updated": "2012-06-28 20:34:01",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024441,
+        5024442,
+        5024443
+      ]
+    },
+    {
+      "reference_id": "97975",
+      "genre": "article",
+      "title": "Liste des Coquilles de la famille des Cerithides recueillies par M. Ch. Gravier aux environs de Djibouti et d'Obock (1904)",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "10",
+      "spage": "354",
+      "epage": "359",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0027-4070",
+      "PageID": "5024529",
+      "created": "2011-11-09 09:21:39",
+      "updated": "2011-11-09 09:21:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024529,
+        5024530,
+        5024531,
+        5024532,
+        5024533,
+        5024534
+      ]
+    },
+    {
+      "reference_id": "67249",
+      "genre": "article",
+      "title": "Mormyrid\u00e9s nouveaux de la collection du Mus\u00e9um",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "10",
+      "spage": "438",
+      "epage": "442",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "5297845",
+      "PageID": "5024010",
+      "created": "2011-05-24 20:58:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5024010,
+        5024011,
+        5024012,
+        5024013,
+        5024014
+      ]
+    },
+    {
+      "reference_id": "104811",
+      "genre": "article",
+      "title": "Sur deux genres nouveaux d'Unionidoe provenant de la Senegambie",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "10",
+      "spage": "460",
+      "epage": "463",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024032",
+      "created": "2012-06-28 21:04:20",
+      "updated": "2012-06-28 21:04:20",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024032,
+        5024033,
+        5024034,
+        5024035
+      ]
+    },
+    {
+      "reference_id": "97978",
+      "genre": "article",
+      "title": "Essai monographique sur le Genre Chamberlainia Simpson",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "10",
+      "spage": "463",
+      "epage": "466",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0027-4070",
+      "PageID": "5024035",
+      "created": "2011-11-09 09:28:11",
+      "updated": "2011-11-09 09:28:11",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5024035,
+        5024036,
+        5024037,
+        5024038
+      ]
+    },
+    {
+      "reference_id": "104804",
+      "genre": "article",
+      "title": "Sur les Ann\u00e9lides Polych\u00e8tes de la mer Rouge, (Nephthydiens Glyc\u00e9riens)",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "10",
+      "spage": "472",
+      "epage": "476",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "1148-8425",
+      "PageID": "5024044",
+      "created": "2012-06-28 20:51:33",
+      "updated": "2012-06-28 20:54:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42227",
+          "lastname": "Gravier",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        5024044,
+        5024045,
+        5024046,
+        5024047,
+        5024048
+      ]
+    },
+    {
+      "reference_id": "57889",
+      "genre": "article",
+      "title": "Sur les sipunculides nouveaux rapport\u00e9s de la mer rouge par M. Ch. Gravier (note pr\u00e9liminaire)",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "10",
+      "spage": "476",
+      "epage": "480",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0027-4070",
+      "PageID": "5024048",
+      "created": "2010-11-20 15:22:56",
+      "updated": "2011-09-12 18:01:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42185",
+          "lastname": "H\u00e9rubel",
+          "forename": "M A"
+        }
+      ],
+      "bhl_pages": [
+        5024048,
+        5024049,
+        5024050,
+        5024051,
+        5024052
+      ]
+    }
+  ]
+}

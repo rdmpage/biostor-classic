@@ -1,0 +1,39 @@
+{
+  "ItemID": "22176",
+  "FullTitle": "The Irish naturalist.  ",
+  "VolumeInfo": "v. 28 (1919)",
+  "articles": [
+    {
+      "reference_id": "71310",
+      "genre": "article",
+      "title": "Notes on Myriapoda. XV. Miscellanea",
+      "secondary_title": "Irish Naturalist",
+      "volume": "28",
+      "spage": "4",
+      "epage": "5",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1753950",
+      "PageID": "3077948",
+      "created": "2011-06-03 19:16:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46797",
+          "lastname": "H.k",
+          "forename": "Brade-Birks"
+        },
+        {
+          "id": "46798",
+          "lastname": "S.g.",
+          "forename": "Brade-Birks"
+        }
+      ],
+      "bhl_pages": [
+        3077948,
+        3077949
+      ]
+    }
+  ]
+}

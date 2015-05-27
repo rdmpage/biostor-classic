@@ -1,0 +1,81 @@
+{
+  "author": [
+    {
+      "firstname": "John D",
+      "lastname": "Pinto",
+      "name": "John D Pinto"
+    },
+    {
+      "firstname": "Albert K",
+      "lastname": "Owen",
+      "name": "Albert K Owen"
+    }
+  ],
+  "type": "article",
+  "title": "Adryas, a new genus of trichogrammatidae (Hymenoptera: Chalcidoidea) from the new world tropics",
+  "journal": {
+    "name": "Proceedings of the Entomological Society of Washington",
+    "volume": "106",
+    "pages": "905--922",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0013-8797"
+      }
+    ]
+  },
+  "year": "2004",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/55278"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/30135476"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 55278
+    },
+    {
+      "type": "bhl",
+      "id": 30135476
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -74.033333333333,
+        11.333333333333
+      ],
+      [
+        -83.3,
+        10.883333333333
+      ],
+      [
+        -76.5,
+        -0.5
+      ],
+      [
+        -76.144166666667,
+        -0.63194444444444
+      ],
+      [
+        -76.453055555556,
+        -0.65722222222222
+      ],
+      [
+        -70.1,
+        -3.3833333333333
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ]
+    ]
+  }
+}

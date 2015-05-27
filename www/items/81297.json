@@ -1,0 +1,133 @@
+{
+  "ItemID": "81297",
+  "FullTitle": "Malacologia.",
+  "VolumeInfo": "v 29 (1988)",
+  "articles": [
+    {
+      "reference_id": "102799",
+      "genre": "article",
+      "title": "A catalog of the type specimens of recent Cephalopoda described by S. Stillman Berry",
+      "secondary_title": "Malacologia",
+      "volume": "29",
+      "issue": "1",
+      "spage": "7",
+      "epage": "19",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0076-2997",
+      "PageID": "25208403",
+      "created": "2012-05-10 10:49:26",
+      "updated": "2012-05-10 10:50:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "48059",
+          "lastname": "Sweeney",
+          "forename": "Michael J"
+        },
+        {
+          "id": "46469",
+          "lastname": "Roper",
+          "forename": "Clyde F E"
+        },
+        {
+          "id": "8174",
+          "lastname": "Hochberg",
+          "forename": "F G"
+        }
+      ],
+      "bhl_pages": [
+        25208403,
+        25208370,
+        25208371,
+        25208372,
+        25208373,
+        25208374,
+        25208375,
+        25208376,
+        25208377,
+        25208378,
+        25208379,
+        25208380,
+        25208381
+      ]
+    },
+    {
+      "reference_id": "101960",
+      "genre": "article",
+      "title": "A contribution to the reproductive biology and geographical distribution of Antarctic Octopodidae (Cephalopoda)",
+      "secondary_title": "Malacologia",
+      "volume": "29",
+      "issue": "1",
+      "spage": "89",
+      "epage": "100",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0076-2997",
+      "PageID": "25208470",
+      "created": "2012-03-23 14:34:50",
+      "updated": "2012-03-23 14:36:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53548",
+          "lastname": "Kuehl",
+          "forename": "Silke"
+        }
+      ],
+      "bhl_pages": [
+        25208470,
+        25208471,
+        25208472,
+        25208473,
+        25208474,
+        25208475,
+        25208476,
+        25208477,
+        25208478,
+        25208479,
+        25208480,
+        25208481
+      ]
+    },
+    {
+      "reference_id": "102798",
+      "genre": "article",
+      "title": "The biogeography of deep-sea Octopoda",
+      "secondary_title": "Malacologia",
+      "volume": "29",
+      "issue": "1",
+      "spage": "295",
+      "epage": "307",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0076-2997",
+      "PageID": "25208676",
+      "created": "2012-05-10 10:38:11",
+      "updated": "2012-05-10 10:38:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "22",
+          "lastname": "Voss",
+          "forename": "Gilbert L"
+        }
+      ],
+      "bhl_pages": [
+        25208676,
+        25208677,
+        25208678,
+        25208679,
+        25208680,
+        25208681,
+        25208682,
+        25208683,
+        25208684,
+        25208685,
+        25208686,
+        25208687,
+        25208688
+      ]
+    }
+  ]
+}

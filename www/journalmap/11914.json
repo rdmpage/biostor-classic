@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "C R",
+      "lastname": "Curds",
+      "name": "C R Curds"
+    }
+  ],
+  "type": "article",
+  "title": "A revision of the Suctoria (Ciliophora, Kinetofragminophora) 2. An Addendum to Acineta",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Zoology",
+    "volume": "49",
+    "pages": "1--165",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0007-1498"
+      }
+    ]
+  },
+  "year": "1985",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/11914"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2273580"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 11914
+    },
+    {
+      "type": "bhl",
+      "id": 2273580
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        7.8166666666667,
+        -41.05
+      ]
+    ]
+  }
+}

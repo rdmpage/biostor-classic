@@ -1,0 +1,83 @@
+{
+  "ItemID": "25407",
+  "FullTitle": "Tulane studies in zoology and botany.",
+  "VolumeInfo": "v.17 (1971-1972)",
+  "articles": [
+    {
+      "reference_id": "20779",
+      "genre": "article",
+      "title": "Generic key and synopsis for free-living larvae and tadpoles of Mexican amphibians",
+      "secondary_title": "Tulane Studies of Zoology and Botany",
+      "volume": "17",
+      "spage": "10",
+      "epage": "15",
+      "year": "1971",
+      "date": "1971-00-00",
+      "issn": "0082-6782",
+      "PageID": "4305517",
+      "created": "2010-02-10 14:26:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17952",
+          "lastname": "Altig",
+          "forename": "R"
+        },
+        {
+          "id": "17953",
+          "lastname": "Brandon",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        4305517,
+        4305516,
+        4305515,
+        4305514,
+        4305513,
+        4305512
+      ]
+    },
+    {
+      "reference_id": "66365",
+      "genre": "article",
+      "title": "Hybopsis lineapunctata, a new cyprinid fish from the upper Alabama River system",
+      "secondary_title": "Tulane Studies in Zoology and Botany",
+      "volume": "17",
+      "spage": "21",
+      "epage": "30",
+      "year": "1971",
+      "date": "1971-00-00",
+      "issn": "0082-6782",
+      "PageID": "4305472",
+      "created": "2011-05-07 11:20:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45249",
+          "lastname": "Clemmer",
+          "forename": "G H"
+        },
+        {
+          "id": "1713",
+          "lastname": "Suttkus",
+          "forename": "R D"
+        }
+      ],
+      "bhl_pages": [
+        4305472,
+        4305471,
+        4305470,
+        4305469,
+        4305468,
+        4305467,
+        4305466,
+        4305465,
+        4305464,
+        4305463
+      ]
+    }
+  ]
+}

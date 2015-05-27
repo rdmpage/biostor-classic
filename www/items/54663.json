@@ -1,0 +1,2779 @@
+{
+  "ItemID": "54663",
+  "FullTitle": "Proceedings of the Entomological Society of Washington.",
+  "VolumeInfo": "v 91 1989",
+  "articles": [
+    {
+      "reference_id": "56424",
+      "genre": "article",
+      "title": "Geomydoecus (Mallophaga: Trichodectidae) from the Texas and desert pocket gophers (Rodentia: Geomyidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "1",
+      "epage": "8",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134739",
+      "created": "2010-11-04 22:42:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10620",
+          "lastname": "Hellenthal",
+          "forename": "R A"
+        },
+        {
+          "id": "10621",
+          "lastname": "Price",
+          "forename": "R D"
+        }
+      ],
+      "bhl_pages": [
+        16134739,
+        16134740,
+        16134741,
+        16134742,
+        16134743,
+        16134744,
+        16134745,
+        16134746
+      ]
+    },
+    {
+      "reference_id": "56410",
+      "genre": "article",
+      "title": "Biological and morphological aspects of the egg stage and oviposition of Languria mozardi (Coleoptera: Languriidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "9",
+      "epage": "14",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134747",
+      "created": "2010-11-04 22:41:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41647",
+          "lastname": "Ellsbury",
+          "forename": "M M"
+        },
+        {
+          "id": "30289",
+          "lastname": "Baker",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        16134747,
+        16134748,
+        16134749,
+        16134750,
+        16134751,
+        16134752
+      ]
+    },
+    {
+      "reference_id": "56395",
+      "genre": "article",
+      "title": "Morphology of the mouth parts and antenna of the larva of the clover stem borer, Languria mozardi Latreille (Coleoptera: Languriidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "15",
+      "epage": "21",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134753",
+      "created": "2010-11-04 22:40:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "30289",
+          "lastname": "Baker",
+          "forename": "G T"
+        },
+        {
+          "id": "41647",
+          "lastname": "Ellsbury",
+          "forename": "M M"
+        }
+      ],
+      "bhl_pages": [
+        16134753,
+        16134754,
+        16134755,
+        16134756,
+        16134757,
+        16134758,
+        16134759
+      ]
+    },
+    {
+      "reference_id": "56419",
+      "genre": "article",
+      "title": "The ins and outs of a tropical social wasp nest",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "26",
+      "epage": "28",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134764",
+      "created": "2010-11-04 22:42:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41687",
+          "lastname": "Starr",
+          "forename": "C K"
+        }
+      ],
+      "bhl_pages": [
+        16134764,
+        16134765,
+        16134766
+      ]
+    },
+    {
+      "reference_id": "56383",
+      "genre": "article",
+      "title": "Notes on the genus Hybrizon in North America (Hymenoptera: Paxylommatidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "29",
+      "epage": "34",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134767",
+      "created": "2010-11-04 22:39:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "420",
+          "lastname": "Marsh",
+          "forename": "P M"
+        }
+      ],
+      "bhl_pages": [
+        16134767,
+        16134768,
+        16134769,
+        16134770,
+        16134771,
+        16134772
+      ]
+    },
+    {
+      "reference_id": "56373",
+      "genre": "article",
+      "title": "The genera Ataenogera and Phycus in the New World (Diptera: Therevidae: Phycinae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "35",
+      "epage": "50",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134773",
+      "created": "2010-11-04 22:38:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10768",
+          "lastname": "Webb",
+          "forename": "D W"
+        },
+        {
+          "id": "10501",
+          "lastname": "Irwin",
+          "forename": "M E"
+        }
+      ],
+      "bhl_pages": [
+        16134773,
+        16134774,
+        16134775,
+        16134776,
+        16134777,
+        16134778,
+        16134779,
+        16134780,
+        16134781,
+        16134782,
+        16134783,
+        16134784,
+        16134785,
+        16134786,
+        16134787,
+        16134788
+      ]
+    },
+    {
+      "reference_id": "56411",
+      "genre": "article",
+      "title": "A mid-summer comparison of sizes and growth rates among nymphs of three sympatric mantids (Mantodea: Mantidae) in two old-field habitats",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "51",
+      "epage": "54",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134789",
+      "created": "2010-11-04 22:41:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41683",
+          "lastname": "Hurd",
+          "forename": "L E"
+        },
+        {
+          "id": "41685",
+          "lastname": "Eisenberg",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        16134789,
+        16134790,
+        16134791,
+        16134792
+      ]
+    },
+    {
+      "reference_id": "75077",
+      "genre": "article",
+      "title": "Ixodes downsi (Acari, Ixodidae) From Peru",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "54",
+      "epage": "54",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134792",
+      "created": "2011-06-10 12:10:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47921",
+          "lastname": "Baker",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        16134792
+      ]
+    },
+    {
+      "reference_id": "56418",
+      "genre": "article",
+      "title": "Temporal distribution of hatching times in three sympatric mantids (Mantodea: Mantidae) with implications for niche separation and coexistence",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "55",
+      "epage": "58",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134793",
+      "created": "2010-11-04 22:42:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41683",
+          "lastname": "Hurd",
+          "forename": "L E"
+        },
+        {
+          "id": "41685",
+          "lastname": "Eisenberg",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        16134793,
+        16134794,
+        16134795,
+        16134796
+      ]
+    },
+    {
+      "reference_id": "56389",
+      "genre": "article",
+      "title": "New World species of Holcopelte and Ionympha (Hymenoptera: Eulophidae), with descriptions of two new species",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "59",
+      "epage": "65",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134797",
+      "created": "2010-11-04 22:39:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "452",
+          "lastname": "Hansson",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        16134797,
+        16134798,
+        16134799,
+        16134800,
+        16134801,
+        16134802,
+        16134803
+      ]
+    },
+    {
+      "reference_id": "56409",
+      "genre": "article",
+      "title": "Naturally occurring host sites for xylophilic Cecidomyiidae (Diptera)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "66",
+      "epage": "70",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134804",
+      "created": "2010-11-04 22:41:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41522",
+          "lastname": "Rock",
+          "forename": "E A"
+        },
+        {
+          "id": "41523",
+          "lastname": "Jackson",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        16134804,
+        16134805,
+        16134806,
+        16134807,
+        16134808
+      ]
+    },
+    {
+      "reference_id": "56403",
+      "genre": "article",
+      "title": "Two new terrestrial Isopoda (Oniscidea) from coralline cays of Venezuela's Caribbean coast",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "71",
+      "epage": "80",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134809",
+      "created": "2010-11-04 22:41:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41679",
+          "lastname": "Paoletti",
+          "forename": "M G"
+        },
+        {
+          "id": "41680",
+          "lastname": "Stinner",
+          "forename": "B R"
+        }
+      ],
+      "bhl_pages": [
+        16134809,
+        16134810,
+        16134811,
+        16134812,
+        16134813,
+        16134814,
+        16134815,
+        16134816,
+        16134817,
+        16134818
+      ]
+    },
+    {
+      "reference_id": "56425",
+      "genre": "article",
+      "title": "Ants associated with a coleopterous leaf-bud gall on Xylopia aromatica (Annonaceae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "81",
+      "epage": "87",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134819",
+      "created": "2010-11-04 22:42:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        16134819,
+        16134820,
+        16134821,
+        16134822,
+        16134823,
+        16134824,
+        16134825
+      ]
+    },
+    {
+      "reference_id": "56420",
+      "genre": "article",
+      "title": "Revision of the ornatus species group of the genus Anthonomus Germar (Coleoptera: Curculionidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "88",
+      "epage": "111",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134826",
+      "created": "2010-11-04 22:42:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1651",
+          "lastname": "Clark",
+          "forename": "W E"
+        },
+        {
+          "id": "41581",
+          "lastname": "Burke",
+          "forename": "H R"
+        }
+      ],
+      "bhl_pages": [
+        16134826,
+        16134827,
+        16134828,
+        16134829,
+        16134830,
+        16134831,
+        16134832,
+        16134833,
+        16134834,
+        16134835,
+        16134836,
+        16134837,
+        16134838,
+        16134839,
+        16134840,
+        16134841,
+        16134842,
+        16134843,
+        16134844,
+        16134845,
+        16134846,
+        16134847,
+        16134848,
+        16134849
+      ]
+    },
+    {
+      "reference_id": "56396",
+      "genre": "article",
+      "title": "A review of the world species of Notoglyptus Masi (Hymenoptera: Pteromalidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "112",
+      "epage": "123",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134850",
+      "created": "2010-11-04 22:40:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41189",
+          "lastname": "Heydon",
+          "forename": "S L"
+        }
+      ],
+      "bhl_pages": [
+        16134850,
+        16134851,
+        16134852,
+        16134853,
+        16134854,
+        16134855,
+        16134856,
+        16134857,
+        16134858,
+        16134859,
+        16134860,
+        16134861
+      ]
+    },
+    {
+      "reference_id": "75101",
+      "genre": "article",
+      "title": "Rediscovery Of The Ant Gnamptogenys hartmani (Hymenoptera, Formicidae) In Eastern Texas",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "127",
+      "epage": "127",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134865",
+      "created": "2011-06-10 12:11:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18380",
+          "lastname": "Mackay",
+          "forename": "W P"
+        },
+        {
+          "id": "428",
+          "lastname": "Vinson",
+          "forename": "S B"
+        }
+      ],
+      "bhl_pages": [
+        16134865
+      ]
+    },
+    {
+      "reference_id": "66829",
+      "genre": "article",
+      "title": "The unique purring song of Chrysoperla comanche (Banks), a green lacewing of the rufilabris species group (Neuroptera: Chrysopidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "133",
+      "epage": "142",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134875",
+      "created": "2011-05-11 13:37:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45336",
+          "lastname": "Henry",
+          "forename": "C S"
+        }
+      ],
+      "bhl_pages": [
+        16134875,
+        16134876,
+        16134877,
+        16134878,
+        16134879,
+        16134880,
+        16134881,
+        16134882,
+        16134883,
+        16134884
+      ]
+    },
+    {
+      "reference_id": "75089",
+      "genre": "article",
+      "title": "Surface Sculpturing Of The Abdominal Integument Of Membracidae And Other Auchenorrhyncha (Homoptera)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "143",
+      "epage": "152",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134885",
+      "created": "2011-06-10 12:11:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12158",
+          "lastname": "Dietrich",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        16134885,
+        16134886,
+        16134887,
+        16134888,
+        16134889,
+        16134890,
+        16134891,
+        16134892,
+        16134893,
+        16134894
+      ]
+    },
+    {
+      "reference_id": "75069",
+      "genre": "article",
+      "title": "Water And Temperature Relations Of The Primitive Xylophagous Cockroach Cryptocercus punctulatus Scudder (Dictyoptera, Cryptocercidae)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "153",
+      "epage": "157",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134895",
+      "created": "2011-06-10 12:10:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41508",
+          "lastname": "Appel",
+          "forename": "A G"
+        },
+        {
+          "id": "47918",
+          "lastname": "Sponsler",
+          "forename": "R C"
+        }
+      ],
+      "bhl_pages": [
+        16134895,
+        16134896,
+        16134897,
+        16134898,
+        16134899
+      ]
+    },
+    {
+      "reference_id": "75107",
+      "genre": "article",
+      "title": "1St Nearctic Record Of The Genus Nordlanderia (Hymenoptera, Eucoilidae), With Descriptions Of 2 New Species",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "158",
+      "epage": "163",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134900",
+      "created": "2011-06-10 12:12:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41775",
+          "lastname": "Miller",
+          "forename": "T D"
+        }
+      ],
+      "bhl_pages": [
+        16134900,
+        16134901,
+        16134902,
+        16134903,
+        16134904,
+        16134905
+      ]
+    },
+    {
+      "reference_id": "73233",
+      "genre": "article",
+      "title": "Host plants of Neaspilota in California (Diptera: Tephritidae)",
+      "secondary_title": "Proc. Ent. Soc. Wash",
+      "volume": "91",
+      "spage": "164",
+      "epage": "168",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134906",
+      "created": "2011-06-04 08:04:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41077",
+          "lastname": "Goeden",
+          "forename": "R D"
+        }
+      ],
+      "bhl_pages": [
+        16134906,
+        16134907,
+        16134908,
+        16134909,
+        16134910
+      ]
+    },
+    {
+      "reference_id": "75092",
+      "genre": "article",
+      "title": "A New Species Of Neolasioptera (Diptera, Cecidomyiidae) From Baccharis",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "169",
+      "epage": "174",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134911",
+      "created": "2011-06-10 12:11:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1252",
+          "lastname": "Gagne",
+          "forename": "R J"
+        },
+        {
+          "id": "41435",
+          "lastname": "Boldt",
+          "forename": "P E"
+        }
+      ],
+      "bhl_pages": [
+        16134911,
+        16134912,
+        16134913,
+        16134914,
+        16134915,
+        16134916
+      ]
+    },
+    {
+      "reference_id": "75104",
+      "genre": "article",
+      "title": "2 New Ants Of The Genus Solenopsis (Diplorhoptrum) From Eastern Texas",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "175",
+      "epage": "178",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134917",
+      "created": "2011-06-10 12:11:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18380",
+          "lastname": "Mackay",
+          "forename": "W P"
+        },
+        {
+          "id": "428",
+          "lastname": "Vinson",
+          "forename": "S B"
+        }
+      ],
+      "bhl_pages": [
+        16134917,
+        16134918,
+        16134919,
+        16134920
+      ]
+    },
+    {
+      "reference_id": "75098",
+      "genre": "article",
+      "title": "Behavior And Development Of The Wasp Pterombrus rufiventris-Hyalinatus Krombein (Hymenoptera, Tiphiidae), A Parasite Of Larval Tiger Beetles",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "179",
+      "epage": "184",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134921",
+      "created": "2011-06-10 12:11:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41527",
+          "lastname": "Knisley",
+          "forename": "C B"
+        },
+        {
+          "id": "47931",
+          "lastname": "Reeves",
+          "forename": "D L"
+        },
+        {
+          "id": "47932",
+          "lastname": "Stephens",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        16134921,
+        16134922,
+        16134923,
+        16134924,
+        16134925,
+        16134926
+      ]
+    },
+    {
+      "reference_id": "75075",
+      "genre": "article",
+      "title": "Description Of The Predaceous Larva Of Pseudogaurax signatus (Loew)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "185",
+      "epage": "189",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134927",
+      "created": "2011-06-10 12:10:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39687",
+          "lastname": "Asquith",
+          "forename": "A"
+        },
+        {
+          "id": "10803",
+          "lastname": "Adamski",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        16134927,
+        16134928,
+        16134929,
+        16134930,
+        16134931
+      ]
+    },
+    {
+      "reference_id": "75095",
+      "genre": "article",
+      "title": "New Species Of Micro caddisflies (Trichoptera, Hydroptilidae) From New caledonia, Vanuatu And Fiji",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "190",
+      "epage": "202",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134932",
+      "created": "2011-06-10 12:11:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41554",
+          "lastname": "Kelley",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        16134932,
+        16134933,
+        16134934,
+        16134935,
+        16134936,
+        16134937,
+        16134938,
+        16134939,
+        16134940,
+        16134941,
+        16134942,
+        16134943,
+        16134944
+      ]
+    },
+    {
+      "reference_id": "75113",
+      "genre": "article",
+      "title": "Wasp Parasites Of The Burdock Seed Moth, Metzneria lappella Zeller Braconidae)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "203",
+      "epage": "205",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134945",
+      "created": "2011-06-10 12:12:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41630",
+          "lastname": "Purrington",
+          "forename": "F F"
+        },
+        {
+          "id": "47938",
+          "lastname": "Stinner",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        16134945,
+        16134946,
+        16134947
+      ]
+    },
+    {
+      "reference_id": "68866",
+      "genre": "article",
+      "title": "The cockroach genus *Margattea* Shelford, with a new species from the Krakatau Islands, and redescriptions of several species from the Indo-Pacific region (Dictyoptera: Blattaria: Blattellidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "206",
+      "epage": "229",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134948",
+      "created": "2011-06-01 08:11:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1945",
+          "lastname": "Roth",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        16134948,
+        16134949,
+        16134950,
+        16134951,
+        16134952,
+        16134953,
+        16134954,
+        16134955,
+        16134956,
+        16134957,
+        16134958,
+        16134959,
+        16134960,
+        16134961,
+        16134962,
+        16134963,
+        16134964,
+        16134965,
+        16134966,
+        16134967,
+        16134968,
+        16134969,
+        16134970,
+        16134971
+      ]
+    },
+    {
+      "reference_id": "71827",
+      "genre": "article",
+      "title": "Notes on the genus |Zagrammosoma| (Hymenoptera: Eulophidae) with description of a new species",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "230",
+      "epage": "236",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134972",
+      "created": "2011-06-03 23:18:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "22326",
+          "lastname": "Lasalle",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        16134972,
+        16134973,
+        16134974,
+        16134975,
+        16134976,
+        16134977,
+        16134978
+      ]
+    },
+    {
+      "reference_id": "75120",
+      "genre": "article",
+      "title": "2 New Phycitine Moths Of The Genus Coenochroa (Lepidoptera, Pyralidae) From Brazil",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "237",
+      "epage": "247",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134979",
+      "created": "2011-06-10 12:12:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1995",
+          "lastname": "Shaffer",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        16134979,
+        16134980,
+        16134981,
+        16134982,
+        16134983,
+        16134984,
+        16134985,
+        16134986,
+        16134987,
+        16134988,
+        16134989
+      ]
+    },
+    {
+      "reference_id": "75123",
+      "genre": "article",
+      "title": "Type Material Of 4 African Species Of Notarcha Meyrick, With Designations Of Lectotypes And Changes In Synonymy (Lepidoptera, Crambidae, Pyraustinae)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "248",
+      "epage": "256",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134990",
+      "created": "2011-06-10 12:12:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1995",
+          "lastname": "Shaffer",
+          "forename": "J C"
+        },
+        {
+          "id": "39580",
+          "lastname": "Munroe",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        16134990,
+        16134991,
+        16134992,
+        16134993,
+        16134994,
+        16134995,
+        16134996,
+        16134997,
+        16134998
+      ]
+    },
+    {
+      "reference_id": "75130",
+      "genre": "article",
+      "title": "Description Of Male Ostrocerca Ricker (Plecoptera, Nemouridae) Using The Scanning Electron microscope",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "257",
+      "epage": "268",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16134999",
+      "created": "2011-06-10 12:12:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47944",
+          "lastname": "Young",
+          "forename": "D C"
+        },
+        {
+          "id": "11833",
+          "lastname": "Kondratieff",
+          "forename": "B C"
+        },
+        {
+          "id": "20766",
+          "lastname": "Kirchner",
+          "forename": "R F"
+        }
+      ],
+      "bhl_pages": [
+        16134999,
+        16135000,
+        16135001,
+        16135002,
+        16135003,
+        16135004,
+        16135005,
+        16135006,
+        16135007,
+        16135008,
+        16135009,
+        16135010
+      ]
+    },
+    {
+      "reference_id": "75110",
+      "genre": "article",
+      "title": "Key To The Kalotermitidae Of Eastern united-States With A New Neotermes From Florida (Isoptera)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "269",
+      "epage": "285",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135011",
+      "created": "2011-06-10 12:12:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41194",
+          "lastname": "Nickle",
+          "forename": "D A"
+        },
+        {
+          "id": "47936",
+          "lastname": "Collins",
+          "forename": "M S"
+        }
+      ],
+      "bhl_pages": [
+        16135011,
+        16135012,
+        16135013,
+        16135014,
+        16135015,
+        16135016,
+        16135017,
+        16135018,
+        16135019,
+        16135020,
+        16135021,
+        16135022,
+        16135023,
+        16135024,
+        16135025,
+        16135026,
+        16135027
+      ]
+    },
+    {
+      "reference_id": "75072",
+      "genre": "article",
+      "title": "Rapid And Non destructive Gender Determination Of Nymphal And Adult Cryptocercus punctulatus Scudder (Dictyoptera, Cryptocercidae)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "286",
+      "epage": "287",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135028",
+      "created": "2011-06-10 12:10:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41508",
+          "lastname": "Appel",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        16135028,
+        16135029
+      ]
+    },
+    {
+      "reference_id": "75080",
+      "genre": "article",
+      "title": "Sex And Deposition Of The Holotype Of Bareogonalos canadensis",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "287",
+      "epage": "288",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135029",
+      "created": "2011-06-10 12:10:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47922",
+          "lastname": "Carmean",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        16135029,
+        16135030
+      ]
+    },
+    {
+      "reference_id": "75083",
+      "genre": "article",
+      "title": "Pedipalpal Anomalies In Neobisium simoni (L, Koch) And Neobisium bernardi Vachon (Neobisiidae, Pseudoscorpiones, Arachnida)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "289",
+      "epage": "290",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135031",
+      "created": "2011-06-10 12:11:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35146",
+          "lastname": "\u0106ur\u010di\u0107",
+          "forename": "B P M"
+        },
+        {
+          "id": "47925",
+          "lastname": "Dimitrijevic",
+          "forename": "R N"
+        }
+      ],
+      "bhl_pages": [
+        16135031,
+        16135032
+      ]
+    },
+    {
+      "reference_id": "75117",
+      "genre": "article",
+      "title": "Ticks Of The Subgenus Ixodiopsis, 1St Report Of Ixodes woodi From Man And Remarks On Ixodes holdenriedi, A New Junior Synonym Of Ixodes ochotonae (Acari, Ixodidae)",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "291",
+      "epage": "292",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135033",
+      "created": "2011-06-10 12:12:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41615",
+          "lastname": "Robbins",
+          "forename": "R G"
+        }
+      ],
+      "bhl_pages": [
+        16135033,
+        16135034
+      ]
+    },
+    {
+      "reference_id": "56377",
+      "genre": "article",
+      "title": "A new species of Dioryctria (Lepidoptera: Pyralidae: Phycitinae) from the southeastern United States",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "321",
+      "epage": "324",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135067",
+      "created": "2010-11-04 22:38:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41066",
+          "lastname": "Neunzig",
+          "forename": "H H"
+        },
+        {
+          "id": "41562",
+          "lastname": "Leidy",
+          "forename": "N A"
+        }
+      ],
+      "bhl_pages": [
+        16135067,
+        16135068,
+        16135069,
+        16135070
+      ]
+    },
+    {
+      "reference_id": "56392",
+      "genre": "article",
+      "title": "Taxonomic study of the larvae of six eastern North American Dioryctria (Lepidoptera: Pyralidae: Phycitinae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "325",
+      "epage": "341",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135071",
+      "created": "2010-11-04 22:40:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41562",
+          "lastname": "Leidy",
+          "forename": "N A"
+        },
+        {
+          "id": "41066",
+          "lastname": "Neunzig",
+          "forename": "H H"
+        }
+      ],
+      "bhl_pages": [
+        16135071,
+        16135072,
+        16135073,
+        16135074,
+        16135075,
+        16135076,
+        16135077,
+        16135078,
+        16135079,
+        16135080,
+        16135081,
+        16135082,
+        16135083,
+        16135084,
+        16135085,
+        16135086,
+        16135087
+      ]
+    },
+    {
+      "reference_id": "56406",
+      "genre": "article",
+      "title": "A new genus and species of Hispinae (Coleoptera: Chrysomelidae) from Central America",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "342",
+      "epage": "345",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135088",
+      "created": "2010-11-04 22:41:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10439",
+          "lastname": "Staines",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        16135088,
+        16135089,
+        16135090,
+        16135091
+      ]
+    },
+    {
+      "reference_id": "56386",
+      "genre": "article",
+      "title": "Biology of a pine needle sheath midge, Contarinia acuta Gagn\u00e9 (Diptera: Cecidomyiidae), on loblolly pine",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "346",
+      "epage": "349",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135092",
+      "created": "2010-11-04 22:39:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        16135092,
+        16135093,
+        16135094,
+        16135095
+      ]
+    },
+    {
+      "reference_id": "56378",
+      "genre": "article",
+      "title": "Grypotes puncticollis (Homoptera: Cicadellidae), a palearctic pine-feeding leafhopper new to North America",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "350",
+      "epage": "354",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135096",
+      "created": "2010-11-04 22:38:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "36993",
+          "lastname": "Wheeler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        16135096,
+        16135097,
+        16135098,
+        16135099,
+        16135100
+      ]
+    },
+    {
+      "reference_id": "56413",
+      "genre": "article",
+      "title": "New records of Phycitinae from Bolivia including a new species of Peadus (Lepidoptera: Pyralidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "355",
+      "epage": "359",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135101",
+      "created": "2010-11-04 22:41:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41066",
+          "lastname": "Neunzig",
+          "forename": "H H"
+        }
+      ],
+      "bhl_pages": [
+        16135101,
+        16135102,
+        16135103,
+        16135104,
+        16135105
+      ]
+    },
+    {
+      "reference_id": "56397",
+      "genre": "article",
+      "title": "A new species of neotropical water bug, Paravelia biae, from Brazil (Heteroptera: Veliidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "360",
+      "epage": "366",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135106",
+      "created": "2010-11-04 22:40:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41425",
+          "lastname": "Spangler",
+          "forename": "P J"
+        }
+      ],
+      "bhl_pages": [
+        16135106,
+        16135107,
+        16135108,
+        16135109,
+        16135110,
+        16135111,
+        16135112
+      ]
+    },
+    {
+      "reference_id": "56390",
+      "genre": "article",
+      "title": "Neem (Azadirachta indica A. Juss): organisms affected and reference list update",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "367",
+      "epage": "388",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135113",
+      "created": "2010-11-04 22:39:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41673",
+          "lastname": "Warthen",
+          "forename": "J D",
+          "suffix": "Jr"
+        }
+      ],
+      "bhl_pages": [
+        16135113,
+        16135114,
+        16135115,
+        16135116,
+        16135117,
+        16135118,
+        16135119,
+        16135120,
+        16135121,
+        16135122,
+        16135123,
+        16135124,
+        16135125,
+        16135126,
+        16135127,
+        16135128,
+        16135129,
+        16135130,
+        16135131,
+        16135132,
+        16135133,
+        16135134
+      ]
+    },
+    {
+      "reference_id": "56412",
+      "genre": "article",
+      "title": "Notes on Pleurolithobius of Turkey (Chilopoda: Lithobiomorpha)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "389",
+      "epage": "397",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135135",
+      "created": "2010-11-04 22:41:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41686",
+          "lastname": "Zapparoli",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        16135135,
+        16135136,
+        16135137,
+        16135138,
+        16135139,
+        16135140,
+        16135141,
+        16135142,
+        16135143
+      ]
+    },
+    {
+      "reference_id": "56421",
+      "genre": "article",
+      "title": "Review of Goya Ragonot and description of a new species, G. simulata from Paran\u00e1, Brazil (Lepidoptera: Pyralidae: Peoriinae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "398",
+      "epage": "405",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135144",
+      "created": "2010-11-04 22:42:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1995",
+          "lastname": "Shaffer",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        16135144,
+        16135145,
+        16135146,
+        16135147,
+        16135148,
+        16135149,
+        16135150,
+        16135151
+      ]
+    },
+    {
+      "reference_id": "56398",
+      "genre": "article",
+      "title": "Japanese sawflies of the family Blasticotomidae (Hymenoptera: Symphyta)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "406",
+      "epage": "413",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135152",
+      "created": "2010-11-04 22:40:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "37896",
+          "lastname": "Togashi",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        16135152,
+        16135153,
+        16135154,
+        16135155,
+        16135156,
+        16135157,
+        16135158,
+        16135159
+      ]
+    },
+    {
+      "reference_id": "56385",
+      "genre": "article",
+      "title": "Type material of two African species of Herpetogramma and one of Pleuroptya (Lepidoptera: Crambidae: Pyraustinae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "414",
+      "epage": "420",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135160",
+      "created": "2010-11-04 22:39:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1995",
+          "lastname": "Shaffer",
+          "forename": "J C"
+        },
+        {
+          "id": "39580",
+          "lastname": "Munroe",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        16135160,
+        16135161,
+        16135162,
+        16135163,
+        16135164,
+        16135165,
+        16135166
+      ]
+    },
+    {
+      "reference_id": "56384",
+      "genre": "article",
+      "title": "A new species of Rheumatobates Bergroth from Ecuador and distribution of the genus (Heteroptera: Gerridae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "421",
+      "epage": "428",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135167",
+      "created": "2010-11-04 22:39:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1787",
+          "lastname": "Polhemus",
+          "forename": "J T"
+        },
+        {
+          "id": "41425",
+          "lastname": "Spangler",
+          "forename": "P J"
+        }
+      ],
+      "bhl_pages": [
+        16135167,
+        16135168,
+        16135169,
+        16135170,
+        16135171,
+        16135172,
+        16135173,
+        16135174
+      ]
+    },
+    {
+      "reference_id": "56376",
+      "genre": "article",
+      "title": "Two new species of Coccipolipus (Acari: Podapolipidae) parasites of chilocorus spp. (Coccinellidae) from vera cruz and morelos, Mexico and Florida and Wisconsin, U.S.A",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "429",
+      "epage": "435",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135175",
+      "created": "2010-11-04 22:38:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10431",
+          "lastname": "Husband",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        16135175,
+        16135176,
+        16135177,
+        16135178,
+        16135179,
+        16135180,
+        16135181
+      ]
+    },
+    {
+      "reference_id": "56405",
+      "genre": "article",
+      "title": "A new species of Aleurotulus (Homoptera: Aleyrodidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "436",
+      "epage": "440",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135182",
+      "created": "2010-11-04 22:41:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41238",
+          "lastname": "Nakahara",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        16135182,
+        16135183,
+        16135184,
+        16135185,
+        16135186
+      ]
+    },
+    {
+      "reference_id": "56379",
+      "genre": "article",
+      "title": "Sliferia, a new ovoviviparous cockroach genus (Blattellidae) and the evolution of ovoviviparity in Blattaria (Dictyoptera)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "441",
+      "epage": "451",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135187",
+      "created": "2010-11-04 22:38:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1945",
+          "lastname": "Roth",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        16135187,
+        16135188,
+        16135189,
+        16135190,
+        16135191,
+        16135192,
+        16135193,
+        16135194,
+        16135195,
+        16135196,
+        16135197
+      ]
+    },
+    {
+      "reference_id": "56391",
+      "genre": "article",
+      "title": "A new species of Dasyhelea midge reared from drains in Singapore (Diptera: Ceratopogonidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "452",
+      "epage": "457",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135198",
+      "created": "2010-11-04 22:40:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41674",
+          "lastname": "Lee",
+          "forename": "K M"
+        },
+        {
+          "id": "9220",
+          "lastname": "Wirth",
+          "forename": "W W"
+        },
+        {
+          "id": "41675",
+          "lastname": "Chan",
+          "forename": "K L"
+        }
+      ],
+      "bhl_pages": [
+        16135198,
+        16135199,
+        16135200,
+        16135201,
+        16135202,
+        16135203
+      ]
+    },
+    {
+      "reference_id": "56399",
+      "genre": "article",
+      "title": "A new species of Neobaphion Blairdell, from Idaho (Coleoptera: Tenebrionidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "458",
+      "epage": "460",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135204",
+      "created": "2010-11-04 22:40:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35978",
+          "lastname": "Triplehorn",
+          "forename": "C A"
+        }
+      ],
+      "bhl_pages": [
+        16135204,
+        16135205,
+        16135206
+      ]
+    },
+    {
+      "reference_id": "56375",
+      "genre": "article",
+      "title": "Polymerus castilleja, a new mirine plant bug from California and Oregon, with remarks on generic characters of the genus Polymerus Haln (Heteroptera: Miridae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "461",
+      "epage": "467",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135207",
+      "created": "2010-11-04 22:38:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12015",
+          "lastname": "Schwartz",
+          "forename": "M D"
+        }
+      ],
+      "bhl_pages": [
+        16135207,
+        16135208,
+        16135209,
+        16135210,
+        16135211,
+        16135212,
+        16135213
+      ]
+    },
+    {
+      "reference_id": "56374",
+      "genre": "article",
+      "title": "Larval-sex and host-species effects on location of attachment sites of last-instar bagworms, Thyridopteryx ephemeraeformis (Lepidoptera: Psychidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "468",
+      "epage": "472",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135214",
+      "created": "2010-11-04 22:38:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41670",
+          "lastname": "Lagoy",
+          "forename": "P K"
+        },
+        {
+          "id": "41278",
+          "lastname": "Barrows",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        16135214,
+        16135215,
+        16135216,
+        16135217,
+        16135218
+      ]
+    },
+    {
+      "reference_id": "56404",
+      "genre": "article",
+      "title": "Redescription of Culex (Melanoconion) delpontei Duret, 1968 and Cx. (Mel.) pereyrai Duret, 1967, from southern Brazil",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "473",
+      "epage": "485",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135219",
+      "created": "2010-11-04 22:41:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41681",
+          "lastname": "Forattini",
+          "forename": "O P"
+        },
+        {
+          "id": "41682",
+          "lastname": "Mureb",
+          "forename": "Sallum M A"
+        }
+      ],
+      "bhl_pages": [
+        16135219,
+        16135220,
+        16135221,
+        16135222,
+        16135223,
+        16135224,
+        16135225,
+        16135226,
+        16135227,
+        16135228,
+        16135229,
+        16135230,
+        16135231
+      ]
+    },
+    {
+      "reference_id": "56407",
+      "genre": "article",
+      "title": "Homologies in wing venation of primitive Diptera and Mecoptera",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "497",
+      "epage": "501",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135247",
+      "created": "2010-11-04 22:41:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40825",
+          "lastname": "Byers",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        16135247,
+        16135248,
+        16135249,
+        16135250,
+        16135251
+      ]
+    },
+    {
+      "reference_id": "56400",
+      "genre": "article",
+      "title": "Host specificity studies of Stolas fuscata (Klug) (Coleoptera: Chrysomelidae) for the biological control of Baccharis salicifolia (R. & P.) pers. (Asteraceae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "502",
+      "epage": "508",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135252",
+      "created": "2010-11-04 22:40:49",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41435",
+          "lastname": "Boldt",
+          "forename": "P E"
+        }
+      ],
+      "bhl_pages": [
+        16135252,
+        16135253,
+        16135254,
+        16135255,
+        16135256,
+        16135257,
+        16135258
+      ]
+    },
+    {
+      "reference_id": "56380",
+      "genre": "article",
+      "title": "Final instar larva of the embolemid wasp, Ampulicomorpha confusa (Hymenoptera)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "509",
+      "epage": "512",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135259",
+      "created": "2010-11-04 22:39:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "231",
+          "lastname": "Wharton",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        16135259,
+        16135260,
+        16135261,
+        16135262
+      ]
+    },
+    {
+      "reference_id": "56387",
+      "genre": "article",
+      "title": "Review of nearctic Metachela Coquillett, with description of a new species (Diptera: Empididae; Hemerodromiinae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "513",
+      "epage": "522",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135263",
+      "created": "2010-11-04 22:39:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41648",
+          "lastname": "Macdonald",
+          "forename": "J F"
+        }
+      ],
+      "bhl_pages": [
+        16135263,
+        16135264,
+        16135265,
+        16135266,
+        16135267,
+        16135268,
+        16135269,
+        16135270,
+        16135271,
+        16135272
+      ]
+    },
+    {
+      "reference_id": "56426",
+      "genre": "article",
+      "title": "Sexual dimorphism in size of adults and puparia of Tetanocera ferruginea Fall\u00e9n (Diptera: Sciomyzidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "523",
+      "epage": "528",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135273",
+      "created": "2010-11-04 22:42:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "28449",
+          "lastname": "Manguin",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        16135273,
+        16135274,
+        16135275,
+        16135276,
+        16135277,
+        16135278
+      ]
+    },
+    {
+      "reference_id": "56408",
+      "genre": "article",
+      "title": "Influence of temperature and photoperiod on early developmental rate of Tenodera sinensis Saussure (Mantodea: Mantidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "529",
+      "epage": "533",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135279",
+      "created": "2010-11-04 22:41:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41683",
+          "lastname": "Hurd",
+          "forename": "L E"
+        },
+        {
+          "id": "41684",
+          "lastname": "Marinari",
+          "forename": "P E"
+        },
+        {
+          "id": "41685",
+          "lastname": "Eisenberg",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        16135279,
+        16135280,
+        16135281,
+        16135282,
+        16135283
+      ]
+    },
+    {
+      "reference_id": "56393",
+      "genre": "article",
+      "title": "A new species of Horismenus (Hymenoptera: Eulophidae) parasitic on the lesser cornstalk borer, Elasmopalpus lignosellus (Lepidoptera: Pyralidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "534",
+      "epage": "537",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135284",
+      "created": "2010-11-04 22:40:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "11779",
+          "lastname": "Schauff",
+          "forename": "M E"
+        }
+      ],
+      "bhl_pages": [
+        16135284,
+        16135285,
+        16135286,
+        16135287
+      ]
+    },
+    {
+      "reference_id": "56415",
+      "genre": "article",
+      "title": "Megalonotus sabulicola (Heteroptera: Lygaeidae), an immigrant seed predator of Centaurea spp. (Asteraceae): distribution and habits in Eastern North America",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "538",
+      "epage": "544",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135288",
+      "created": "2010-11-04 22:41:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "36993",
+          "lastname": "Wheeler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        16135288,
+        16135289,
+        16135290,
+        16135291,
+        16135292,
+        16135293,
+        16135294
+      ]
+    },
+    {
+      "reference_id": "75086",
+      "genre": "article",
+      "title": "An Exceptional Fossil Amber Collection Acquired By The Smithsonian institution",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "545",
+      "epage": "550",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135295",
+      "created": "2011-06-10 12:11:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41461",
+          "lastname": "Davis",
+          "forename": "D R"
+        }
+      ],
+      "bhl_pages": [
+        16135295,
+        16135296,
+        16135297,
+        16135298,
+        16135299,
+        16135300
+      ]
+    },
+    {
+      "reference_id": "56401",
+      "genre": "article",
+      "title": "Redescription of Cx. corniger Theobald and elevation of Culex (Culex) lactator Dyar and Knab from synonymy based on specimens from Central America (Diptera: Culicidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "551",
+      "epage": "574",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135301",
+      "created": "2010-11-04 22:40:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18177",
+          "lastname": "Strickman",
+          "forename": "D"
+        },
+        {
+          "id": "41677",
+          "lastname": "Pratt",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        16135301,
+        16135302,
+        16135303,
+        16135304,
+        16135305,
+        16135306,
+        16135307,
+        16135308,
+        16135309,
+        16135310,
+        16135311,
+        16135312,
+        16135313,
+        16135314,
+        16135315,
+        16135316,
+        16135317,
+        16135318,
+        16135319,
+        16135320,
+        16135321,
+        16135322,
+        16135323,
+        16135324
+      ]
+    },
+    {
+      "reference_id": "56422",
+      "genre": "article",
+      "title": "Review of Maricopodynerus (Hymenoptera: Eumenidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "575",
+      "epage": "582",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135325",
+      "created": "2010-11-04 22:42:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2075",
+          "lastname": "Bohart",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        16135325,
+        16135326,
+        16135327,
+        16135328,
+        16135329,
+        16135330,
+        16135331,
+        16135332
+      ]
+    },
+    {
+      "reference_id": "56414",
+      "genre": "article",
+      "title": "Drumming behaviors of their Pennsylvania stonefly (Plecoptera) species",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "583",
+      "epage": "587",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135333",
+      "created": "2010-11-04 22:41:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41632",
+          "lastname": "Zeigler",
+          "forename": "D D"
+        }
+      ],
+      "bhl_pages": [
+        16135333,
+        16135334,
+        16135335,
+        16135336,
+        16135337
+      ]
+    },
+    {
+      "reference_id": "56381",
+      "genre": "article",
+      "title": "Longevity, fertility, and population growth statistics of Telenomus reynoldsi (Hymenoptera: Scelionidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "588",
+      "epage": "593",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135338",
+      "created": "2010-11-04 22:39:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41629",
+          "lastname": "Cave",
+          "forename": "R D"
+        },
+        {
+          "id": "41671",
+          "lastname": "Gaylor",
+          "forename": "M J"
+        }
+      ],
+      "bhl_pages": [
+        16135338,
+        16135339,
+        16135340,
+        16135341,
+        16135342,
+        16135343
+      ]
+    },
+    {
+      "reference_id": "56388",
+      "genre": "article",
+      "title": "Life history of Pteromalus coloradensis (Ashmead) (Hymenoptera: Pteromalidae) a parasite of Paracantha gentilis hering (Diptera: Tephritidae) in Cirsium thistle capitula",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "594",
+      "epage": "603",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135344",
+      "created": "2010-11-04 22:39:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41467",
+          "lastname": "Headrick",
+          "forename": "D"
+        },
+        {
+          "id": "41077",
+          "lastname": "Goeden",
+          "forename": "R D"
+        }
+      ],
+      "bhl_pages": [
+        16135344,
+        16135345,
+        16135346,
+        16135347,
+        16135348,
+        16135349,
+        16135350,
+        16135351,
+        16135352,
+        16135353
+      ]
+    },
+    {
+      "reference_id": "56394",
+      "genre": "article",
+      "title": "Megastigmus floridanus (Hymenoptera: Torymidae), newsly discovered in Ilex seed (Aquifoliaceae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "604",
+      "epage": "610",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135354",
+      "created": "2010-11-04 22:40:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41676",
+          "lastname": "Grissel",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        16135354,
+        16135355,
+        16135356,
+        16135357,
+        16135358,
+        16135359,
+        16135360
+      ]
+    },
+    {
+      "reference_id": "56416",
+      "genre": "article",
+      "title": "Aptilotus martini, a new species of the Aptilotus beckeri group (Diptera: Sphaeroceridae) from caves in the Canary Islands",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "611",
+      "epage": "614",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135361",
+      "created": "2010-11-04 22:42:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10471",
+          "lastname": "Wheeler",
+          "forename": "T A"
+        },
+        {
+          "id": "10731",
+          "lastname": "Marshall",
+          "forename": "S A"
+        }
+      ],
+      "bhl_pages": [
+        16135361,
+        16135362,
+        16135363,
+        16135364
+      ]
+    },
+    {
+      "reference_id": "56427",
+      "genre": "article",
+      "title": "Observations on Meganola spodia Franclemont (Lepidoptera: Noctuidae) with a description of the mature larva",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "615",
+      "epage": "619",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135365",
+      "created": "2010-11-04 22:43:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41689",
+          "lastname": "Butler",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        16135365,
+        16135366,
+        16135367,
+        16135368,
+        16135369
+      ]
+    },
+    {
+      "reference_id": "56402",
+      "genre": "article",
+      "title": "Systematic notes on some Bethylidae from Botswana: Pristocerinae (Hymenoptera: Aculeata)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "issue": "4",
+      "spage": "620",
+      "epage": "631",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135370",
+      "created": "2010-11-04 22:40:58",
+      "updated": "2011-12-13 21:22:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41072",
+          "lastname": "Krombein",
+          "forename": "K V"
+        }
+      ],
+      "bhl_pages": [
+        16135370,
+        16135371,
+        16135372,
+        16135373,
+        16135374,
+        16135375,
+        16135376,
+        16135377,
+        16135378,
+        16135379,
+        16135380,
+        16135381
+      ]
+    },
+    {
+      "reference_id": "56423",
+      "genre": "article",
+      "title": "North American species of Stilbops (Hymenoptera: Ichneumonidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "632",
+      "epage": "633",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135382",
+      "created": "2010-11-04 22:42:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41688",
+          "lastname": "Townes",
+          "forename": "H K"
+        }
+      ],
+      "bhl_pages": [
+        16135382,
+        16135383
+      ]
+    },
+    {
+      "reference_id": "56417",
+      "genre": "article",
+      "title": "Hymenoptera associated with a California population of the Russian thistle biological control agent Coleoptera klimeschiella Toll (Lepidopetra: Coleophoridae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "635",
+      "epage": "636",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135385",
+      "created": "2010-11-04 22:42:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41443",
+          "lastname": "Halstead",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        16135385,
+        16135386
+      ]
+    },
+    {
+      "reference_id": "56382",
+      "genre": "article",
+      "title": "Taxonomic status of Mantispa sayi, Mantispa fuscicornis, and Mantispa uhleri (Neuroptera: Mantispidae)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "91",
+      "spage": "637",
+      "epage": "639",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135387",
+      "created": "2010-11-04 22:39:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41672",
+          "lastname": "Hoffmann",
+          "forename": "K M"
+        }
+      ],
+      "bhl_pages": [
+        16135387,
+        16135388,
+        16135389
+      ]
+    },
+    {
+      "reference_id": "75128",
+      "genre": "article",
+      "title": "Black Walnut, Juglans nigra - A New Host Record For Colaspis favosa",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "91",
+      "spage": "640",
+      "epage": "640",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0013-8797",
+      "PageID": "16135390",
+      "created": "2011-06-10 12:12:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47879",
+          "lastname": "Williams",
+          "forename": "C E"
+        }
+      ],
+      "bhl_pages": [
+        16135390
+      ]
+    }
+  ]
+}

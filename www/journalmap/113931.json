@@ -1,0 +1,81 @@
+{
+  "author": [
+    {
+      "firstname": "Ian D",
+      "lastname": "Gauld",
+      "name": "Ian D Gauld"
+    }
+  ],
+  "type": "article",
+  "title": "A survey of the Ophioninae (Hymenoptera: Ichneumonidae) of tropical Mesoamerica with special reference to the fauna of Costa Rica",
+  "journal": {
+    "name": "Bulletin of The British Museum (Natural History) Entomology",
+    "volume": "57",
+    "issue": "1",
+    "pages": "1--309",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1988",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/113931"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/41080103"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 113931
+    },
+    {
+      "type": "bhl",
+      "id": 41080103
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -55.616666666667,
+        -12.516666666667
+      ],
+      [
+        -51.783333333333,
+        -12.833333333333
+      ],
+      [
+        -52.383333333333,
+        -27.183333333333
+      ],
+      [
+        -51.75,
+        -12.816666666667
+      ],
+      [
+        -74.133333333333,
+        1.1666666666667
+      ],
+      [
+        -83.833333333333,
+        9.7666666666667
+      ],
+      [
+        -74.133333333333,
+        11.166666666667
+      ],
+      [
+        -82.216666666667,
+        8.2
+      ]
+    ]
+  }
+}

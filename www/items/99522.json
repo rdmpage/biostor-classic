@@ -1,0 +1,91 @@
+{
+  "ItemID": "99522",
+  "FullTitle": "Bulletin de la Socie\u0301te\u0301 philomathique de Paris.",
+  "VolumeInfo": "ser. 9, t. 10 (1908)",
+  "articles": [
+    {
+      "reference_id": "80337",
+      "genre": "article",
+      "title": "Sur une seconde collection de poissons recueillie par M. E. Haug \u00e0 Ngomo (Og\u00f4ou\u00e9)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Philomatique de Paris.",
+      "volume": "10",
+      "series": "9",
+      "spage": "184",
+      "epage": "190",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0366-3515",
+      "PageID": "31900303",
+      "created": "2011-07-05 15:09:09",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        31900303,
+        31900304,
+        31900305,
+        31900306,
+        31900307,
+        31900308,
+        31900309
+      ]
+    },
+    {
+      "reference_id": "98101",
+      "genre": "article",
+      "title": "Sur quelques nouvelles esp\u00e8ces d'Alpheidae",
+      "secondary_title": "Bulletin de la Societe Philomathique de Paris",
+      "volume": "10",
+      "spage": "191",
+      "epage": "216",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0366-3515",
+      "PageID": "31900310",
+      "created": "2011-11-11 13:49:17",
+      "updated": "2011-11-11 13:55:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "484",
+          "lastname": "Couti\u00e8re",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        31900310,
+        31900311,
+        31900312,
+        31900313,
+        31900314,
+        31900315,
+        31900316,
+        31900317,
+        31900318,
+        31900319,
+        31900320,
+        31900321,
+        31900322,
+        31900323,
+        31900324,
+        31900325,
+        31900326,
+        31900327,
+        31900328,
+        31900329,
+        31900330,
+        31900331,
+        31900332,
+        31900333,
+        31900334,
+        31900335
+      ]
+    }
+  ]
+}

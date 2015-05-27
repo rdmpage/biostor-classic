@@ -1,0 +1,89 @@
+{
+  "ItemID": "38566",
+  "FullTitle": "Me\u0301moires de la Socie\u0301te\u0301 zoologique de France.",
+  "VolumeInfo": "8, 1895",
+  "articles": [
+    {
+      "reference_id": "20937",
+      "genre": "article",
+      "title": "Les amphipodes des premieres campagnes de la Princess-Alice",
+      "secondary_title": "Memoires de la Societe Zoologique de France",
+      "volume": "8",
+      "spage": "424",
+      "epage": "435",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0750-747X",
+      "PageID": "10122227",
+      "created": "2010-02-10 18:11:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18122",
+          "lastname": "Chevreux",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        10122227,
+        10122228,
+        10122229,
+        10122230,
+        10122231,
+        10122232,
+        10122233,
+        10122234,
+        10122235,
+        10122236,
+        10122237,
+        10122238
+      ]
+    },
+    {
+      "reference_id": "71277",
+      "genre": "article",
+      "title": "Mission scientifique de M. Ch. Alluand aux \u00celes S\u00e9chelles. Myriapodes",
+      "secondary_title": "M\u00e9moires de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "8",
+      "spage": "518",
+      "epage": "538",
+      "year": "1895",
+      "date": "1895-00-00",
+      "PageID": "10122321",
+      "created": "2011-06-03 18:21:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        10122321,
+        10122322,
+        10122323,
+        10122324,
+        10122325,
+        10122326,
+        10122327,
+        10122328,
+        10122329,
+        10122330,
+        10122331,
+        10122332,
+        10122333,
+        10122334,
+        10122335,
+        10122336,
+        10122337,
+        10122338,
+        10122339,
+        10122340,
+        10122341
+      ]
+    }
+  ]
+}

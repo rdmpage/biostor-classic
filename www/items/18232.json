@@ -1,0 +1,41 @@
+{
+  "ItemID": "18232",
+  "FullTitle": "Zoologisches Zentralblatt.  ",
+  "VolumeInfo": "Bd. 14 (1907)",
+  "articles": [
+    {
+      "reference_id": "57275",
+      "genre": "article",
+      "title": "Arachnida",
+      "secondary_title": "Zool. Zentralbl.",
+      "volume": "14",
+      "spage": "693",
+      "epage": "701",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1645282",
+      "PageID": "1929828",
+      "created": "2010-11-18 13:40:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41987",
+          "lastname": "Strand",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1929828,
+        1929829,
+        1929830,
+        1929831,
+        1929832,
+        1929833,
+        1929834,
+        1929835,
+        1929836
+      ]
+    }
+  ]
+}

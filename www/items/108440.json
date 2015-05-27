@@ -1,0 +1,866 @@
+{
+  "ItemID": "108440",
+  "FullTitle": "Proceedings of the Linnean Society of New South Wales.",
+  "VolumeInfo": "v. 76 (1951)",
+  "articles": [
+    {
+      "reference_id": "68455",
+      "genre": "article",
+      "title": "Serological studies of the root-nodule bacteria. IV. Further analysis of isolates from Trifolium and Medicago",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "1",
+      "epage": "6",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874383",
+      "created": "2011-05-31 12:13:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45975",
+          "lastname": "Purchase",
+          "forename": "H F"
+        },
+        {
+          "id": "45795",
+          "lastname": "Vincent",
+          "forename": "J M"
+        },
+        {
+          "id": "45976",
+          "lastname": "Ward",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        34874383,
+        34874382,
+        34874381,
+        34874380,
+        34874379,
+        34874378
+      ]
+    },
+    {
+      "reference_id": "68551",
+      "genre": "article",
+      "title": "A Septoria disease of Euphorbia peplus L",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "7",
+      "epage": "25",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874377",
+      "created": "2011-05-31 12:19:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46020",
+          "lastname": "Shaw",
+          "forename": "D E"
+        }
+      ],
+      "bhl_pages": [
+        34874377,
+        34874376,
+        34874375,
+        34874374,
+        34874341,
+        34874342,
+        34874343,
+        34874344,
+        34874345,
+        34874346,
+        34874347,
+        34874348,
+        34874349,
+        34874350,
+        34874351,
+        34874352,
+        34874353,
+        34874354,
+        34874355
+      ]
+    },
+    {
+      "reference_id": "67547",
+      "genre": "article",
+      "title": "Preservation techniques for scarabaeid and other insect larvae",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "26",
+      "epage": "30",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874356",
+      "created": "2011-05-30 22:26:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "29649",
+          "lastname": "Carne",
+          "forename": "P B"
+        }
+      ],
+      "bhl_pages": [
+        34874356,
+        34874357,
+        34874358,
+        34874359,
+        34874360
+      ]
+    },
+    {
+      "reference_id": "68799",
+      "genre": "article",
+      "title": "The anatomy and morphology of the operculum in the genus Eucalyptus. Part I. The occurrence of petals in Eucalyptus gummifera (Gaertn.) Hochr",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "31",
+      "epage": "35",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874361",
+      "created": "2011-05-31 12:29:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46095",
+          "lastname": "Willis",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        34874361,
+        34874362,
+        34874363,
+        34874364,
+        34874365
+      ]
+    },
+    {
+      "reference_id": "67887",
+      "genre": "article",
+      "title": "Some notes on Athrotaxis",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "36",
+      "epage": "40",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874366",
+      "created": "2011-05-31 11:45:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45711",
+          "lastname": "Elliott",
+          "forename": "C G"
+        }
+      ],
+      "bhl_pages": [
+        34874366,
+        34874367,
+        34874368,
+        34874369,
+        34874370
+      ]
+    },
+    {
+      "reference_id": "67765",
+      "genre": "article",
+      "title": "The paramphistomes (Trematoda) of Australian ruminants. Part I. Systematics",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "41",
+      "epage": "48",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874371",
+      "created": "2011-05-31 11:33:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45622",
+          "lastname": "Durie",
+          "forename": "P H"
+        }
+      ],
+      "bhl_pages": [
+        34874371,
+        34874372,
+        34874373,
+        34874412,
+        34874413,
+        34874414,
+        34874415,
+        34874416
+      ]
+    },
+    {
+      "reference_id": "68528",
+      "genre": "article",
+      "title": "A review of the Australian species of Sarcochilus (Orchidaceae)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "49",
+      "epage": "56",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874427",
+      "created": "2011-05-31 12:19:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46001",
+          "lastname": "Rupp",
+          "forename": "H M R"
+        }
+      ],
+      "bhl_pages": [
+        34874427,
+        34874428,
+        34874429,
+        34874430,
+        34874431,
+        34874432,
+        34874433,
+        34874434
+      ]
+    },
+    {
+      "reference_id": "68749",
+      "genre": "article",
+      "title": "Australian rust studies. VIII. Puccinia graminis lolii, an undescribed rust of Lolium spp. and other grasses in Australia",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "57",
+      "epage": "64",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874435",
+      "created": "2011-05-31 12:28:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46073",
+          "lastname": "Waterhouse",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        34874435,
+        34874436,
+        34874437,
+        34874438,
+        34874439,
+        34874440,
+        34874441,
+        34874442
+      ]
+    },
+    {
+      "reference_id": "67993",
+      "genre": "article",
+      "title": "On Trombicula minor Berlese, 1905",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "66",
+      "epage": "70",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874444",
+      "created": "2011-05-31 11:49:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45759",
+          "lastname": "Gunther",
+          "forename": "C E M"
+        }
+      ],
+      "bhl_pages": [
+        34874444,
+        34874445,
+        34874446,
+        34874447,
+        34874448
+      ]
+    },
+    {
+      "reference_id": "68224",
+      "genre": "article",
+      "title": "The evolution of the radio-medial area in the wings of the Muscoidea Acalyptrata (Diptera)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "71",
+      "epage": "82",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874449",
+      "created": "2011-05-31 12:02:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45861",
+          "lastname": "Lower",
+          "forename": "H F"
+        }
+      ],
+      "bhl_pages": [
+        34874449,
+        34874450,
+        34874451,
+        34874452,
+        34874453,
+        34874454,
+        34874455,
+        34874456,
+        34874457,
+        34874458,
+        34874459,
+        34874460
+      ]
+    },
+    {
+      "reference_id": "68298",
+      "genre": "article",
+      "title": "Studies on Australian marine algae. VI. New geographical records of certain species",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "83",
+      "epage": "87",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874461",
+      "created": "2011-05-31 12:05:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45639",
+          "lastname": "May",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        34874461,
+        34874462,
+        34874463,
+        34874464,
+        34874465
+      ]
+    },
+    {
+      "reference_id": "68299",
+      "genre": "article",
+      "title": "The marine algae of Brampton Island, Great Barrier Reef, off Mackay, Queensland",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "88",
+      "epage": "104",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874466",
+      "created": "2011-05-31 12:05:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45639",
+          "lastname": "May",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        34874466,
+        34874467,
+        34874468,
+        34874469,
+        34874470,
+        34874471,
+        34874472,
+        34874473,
+        34874474,
+        34874475,
+        34874476,
+        34874477,
+        34874478,
+        34874479,
+        34874480,
+        34874481,
+        34874482
+      ]
+    },
+    {
+      "reference_id": "67647",
+      "genre": "article",
+      "title": "The development of bryozoan faunas in the Upper Palaeozoic of Australia",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "105",
+      "epage": "122",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874483",
+      "created": "2011-05-31 11:29:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45590",
+          "lastname": "Crockford",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        34874483,
+        34874484,
+        34874485,
+        34874486,
+        34874487,
+        34874488,
+        34874489,
+        34874490,
+        34874491,
+        34874492,
+        34874493,
+        34874494,
+        34874495,
+        34874496,
+        34874497,
+        34874498,
+        34874499,
+        34874500
+      ]
+    },
+    {
+      "reference_id": "68337",
+      "genre": "article",
+      "title": "Succinoxidase of potato tuber",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "123",
+      "epage": "132",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874501",
+      "created": "2011-05-31 12:07:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45896",
+          "lastname": "Millerd",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        34874501,
+        34874502,
+        34874503,
+        34874504,
+        34874505,
+        34874506,
+        34874507,
+        34874508,
+        34874509,
+        34874510
+      ]
+    },
+    {
+      "reference_id": "67847",
+      "genre": "article",
+      "title": "The nomenclature of Heteronychus sanctae- helenae Blanchard (Coleoptera: Scarabaeidae; Dynastinae)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "133",
+      "epage": "134",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874511",
+      "created": "2011-05-31 11:40:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "26861",
+          "lastname": "Britton",
+          "forename": "E B"
+        }
+      ],
+      "bhl_pages": [
+        34874511,
+        34874512
+      ]
+    },
+    {
+      "reference_id": "68442",
+      "genre": "article",
+      "title": "Controlled pollination of Eucalyptus",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "135",
+      "epage": "139",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874513",
+      "created": "2011-05-31 12:13:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45737",
+          "lastname": "Pryor",
+          "forename": "L D"
+        }
+      ],
+      "bhl_pages": [
+        34874513,
+        34874514,
+        34874515,
+        34874516,
+        34874517
+      ]
+    },
+    {
+      "reference_id": "68443",
+      "genre": "article",
+      "title": "A genetic analysis of some Eucalyptus species",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "140",
+      "epage": "148",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874518",
+      "created": "2011-05-31 12:13:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45737",
+          "lastname": "Pryor",
+          "forename": "L D"
+        }
+      ],
+      "bhl_pages": [
+        34874518,
+        34874519,
+        34874520,
+        34874521,
+        34874522,
+        34874523,
+        34874524,
+        34874525,
+        34874526
+      ]
+    },
+    {
+      "reference_id": "68275",
+      "genre": "article",
+      "title": "Investigations of the preferences shown by Aedes (Stegomyia) aegypti Linn. and Culex (Culex) fatigans Wied. for specific types of breeding water",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "149",
+      "epage": "154",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874527",
+      "created": "2011-05-31 12:04:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45869",
+          "lastname": "Manefield",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        34874527,
+        34874528,
+        34874529,
+        34874530,
+        34874531,
+        34874532
+      ]
+    },
+    {
+      "reference_id": "67994",
+      "genre": "article",
+      "title": "A mite from a beehive on Singapore Island (Acarina: Laelaptidae)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "155",
+      "epage": "157",
+      "year": "1951",
+      "date": "1951-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874533",
+      "created": "2011-05-31 11:49:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45759",
+          "lastname": "Gunther",
+          "forename": "C E M"
+        }
+      ],
+      "bhl_pages": [
+        34874533,
+        34874534,
+        34874535
+      ]
+    },
+    {
+      "reference_id": "68052",
+      "genre": "article",
+      "title": "A critical consideration of c-mitosis with reference to the effects of nitrophenols",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "158",
+      "epage": "163",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874548",
+      "created": "2011-05-31 11:54:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45779",
+          "lastname": "Hindmarsh",
+          "forename": "M M"
+        }
+      ],
+      "bhl_pages": [
+        34874548,
+        34874549,
+        34874550,
+        34874551,
+        34874552,
+        34874553
+      ]
+    },
+    {
+      "reference_id": "68364",
+      "genre": "article",
+      "title": "The life-history of a penaeid prawn (Metapenaeus) breeding in a coastal lake (Tuggerah, New South Wales)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "164",
+      "epage": "182",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874554",
+      "created": "2011-05-31 12:08:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45915",
+          "lastname": "Morris",
+          "forename": "M C"
+        }
+      ],
+      "bhl_pages": [
+        34874554,
+        34874555,
+        34874556,
+        34874557,
+        34874558,
+        34874559,
+        34874560,
+        34874561,
+        34874562,
+        34874563,
+        34874564,
+        34874565,
+        34874566,
+        34874567,
+        34874568,
+        34874569,
+        34874570,
+        34874571,
+        34874572
+      ]
+    },
+    {
+      "reference_id": "68157",
+      "genre": "article",
+      "title": "The use of excised shoots in linseed investigations",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "183",
+      "epage": "186",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874573",
+      "created": "2011-05-31 11:58:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45827",
+          "lastname": "Kerr",
+          "forename": "H B"
+        }
+      ],
+      "bhl_pages": [
+        34874573,
+        34874574,
+        34874575,
+        34874576
+      ]
+    },
+    {
+      "reference_id": "68804",
+      "genre": "article",
+      "title": "Remarks on some Australian Laius Guer. (Col.: Malachiidae)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "187",
+      "epage": "189",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874577",
+      "created": "2011-05-31 12:30:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "36945",
+          "lastname": "Wittmer",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        34874577,
+        34874578,
+        34874579
+      ]
+    },
+    {
+      "reference_id": "68225",
+      "genre": "article",
+      "title": "A revision of Australian species previously referred to the genus Empoasca (Cicadellidae, Homoptera)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "190",
+      "epage": "221",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874580",
+      "created": "2011-05-31 12:02:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45861",
+          "lastname": "Lower",
+          "forename": "H F"
+        }
+      ],
+      "bhl_pages": [
+        34874580,
+        34874581,
+        34874582,
+        34874583,
+        34874584,
+        34874585,
+        34874586,
+        34874587,
+        34874588,
+        34874589,
+        34874590,
+        34874591,
+        34874592,
+        34874593,
+        34874594,
+        34874595,
+        34874596,
+        34874597,
+        34874598,
+        34874599,
+        34874600,
+        34874601,
+        34874602,
+        34874603,
+        34874604,
+        34874605,
+        34874606,
+        34874607,
+        34874608,
+        34874609,
+        34874610,
+        34874611
+      ]
+    },
+    {
+      "reference_id": "68036",
+      "genre": "article",
+      "title": "Miscellaneous notes on Australian Diptera. XV. Tabanus, Heteropsilopus",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "76",
+      "spage": "222",
+      "epage": "225",
+      "year": "1952",
+      "date": "1952-00-00",
+      "issn": "0370-047X",
+      "PageID": "34874612",
+      "created": "2011-05-31 11:53:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40724",
+          "lastname": "Hardy",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        34874612,
+        34874613,
+        34874614,
+        34874615
+      ]
+    }
+  ]
+}

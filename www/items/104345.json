@@ -1,0 +1,69 @@
+{
+  "ItemID": "104345",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.9 (1876)",
+  "articles": [
+    {
+      "reference_id": "105363",
+      "genre": "article",
+      "title": "Art. XXX. \u2014 Notes on the Tuatara Lizard (Sphenodon punctatum), with a description of a supposed new species",
+      "secondary_title": "Transactions and proceedings of the New Zealand Institute",
+      "volume": "9",
+      "spage": "317",
+      "epage": "325",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1778777",
+      "PageID": "33421285",
+      "created": "2012-07-19 12:13:23",
+      "updated": "2012-07-19 12:14:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54007",
+          "lastname": "Buller",
+          "forename": "Walter L"
+        }
+      ],
+      "bhl_pages": [
+        33421285,
+        33421286,
+        33421287,
+        33421288,
+        33421289,
+        33421290,
+        33421291,
+        33421292,
+        33421293
+      ]
+    },
+    {
+      "reference_id": "105366",
+      "genre": "article",
+      "title": "Art. XXXI. \u2014 Description of a new Lizard, Naultinus pulcherrimus",
+      "secondary_title": "Transactions and proceedings of the New Zealand Institute",
+      "volume": "9",
+      "spage": "326",
+      "epage": "328",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1778777",
+      "PageID": "33421294",
+      "created": "2012-07-19 13:23:53",
+      "updated": "2012-07-19 13:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54009",
+          "lastname": "Buller",
+          "forename": "Walter A"
+        }
+      ],
+      "bhl_pages": [
+        33421294,
+        33421296,
+        33421295
+      ]
+    }
+  ]
+}

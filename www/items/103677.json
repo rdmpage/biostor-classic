@@ -1,0 +1,41 @@
+{
+  "ItemID": "103677",
+  "FullTitle": "Deutsche entomologische Zeitschrift \/",
+  "VolumeInfo": "Jahrg.1889",
+  "articles": [
+    {
+      "reference_id": "104198",
+      "genre": "article",
+      "title": "Berichte \u00fcber die von E. v. Oertzen im Jahre 1887 in Griechenland u. Klein-Asien gesammelten Coleopteren. V. Carabidae (Tapinopterus, Ditomus), Lamellicornia, Buprestidae, Throscidae, Elateridae, Meloidae, Oedemeridae, Cerambycidae",
+      "secondary_title": "Deutsche entomologische Zeitschrift",
+      "volume": "1889",
+      "spage": "49",
+      "epage": "57",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "1435-1951",
+      "PageID": "33209979",
+      "created": "2012-06-11 09:34:58",
+      "updated": "2012-06-11 09:36:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53052",
+          "lastname": "Ganglbauer",
+          "forename": "Ludwig"
+        }
+      ],
+      "bhl_pages": [
+        33209979,
+        33209980,
+        33209981,
+        33209982,
+        33209983,
+        33209984,
+        33209985,
+        33209986,
+        33209987
+      ]
+    }
+  ]
+}

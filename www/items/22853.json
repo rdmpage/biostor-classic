@@ -1,0 +1,151 @@
+{
+  "ItemID": "22853",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 19 (1906)",
+  "articles": [
+    {
+      "reference_id": "83487",
+      "genre": "article",
+      "title": "Breeding birds of the Sierra de Antonez, north central Sonora",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "19",
+      "spage": "17",
+      "epage": "22",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0006-324X",
+      "PageID": "3329184",
+      "created": "2011-07-31 04:52:17",
+      "updated": "2011-07-31 04:52:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51103",
+          "lastname": "Thayer",
+          "forename": "J E"
+        },
+        {
+          "id": "783",
+          "lastname": "Bangs",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        3329184,
+        3329216,
+        3329191,
+        3329131,
+        3329204,
+        3329217
+      ]
+    },
+    {
+      "reference_id": "67375",
+      "genre": "article",
+      "title": "Descriptions of new Bermudan fishes",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "19",
+      "spage": "29",
+      "epage": "33",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0006-324X",
+      "PageID": "3329196",
+      "created": "2011-05-26 14:20:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        3329196,
+        3329139,
+        3329140,
+        3329254,
+        3329198
+      ]
+    },
+    {
+      "reference_id": "101774",
+      "genre": "article",
+      "title": "On Mephitus olida Boitard",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "19",
+      "spage": "95",
+      "epage": "95",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0006-324X",
+      "PageID": "3329291",
+      "created": "2012-03-19 14:04:09",
+      "updated": "2012-03-19 14:04:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49834",
+          "lastname": "Elliot",
+          "forename": "D G"
+        }
+      ],
+      "bhl_pages": [
+        3329291
+      ]
+    },
+    {
+      "reference_id": "102840",
+      "genre": "article",
+      "title": "Ammomys and other compounds of Mys",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "19",
+      "spage": "97",
+      "epage": "97",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0006-324X",
+      "PageID": "3329210",
+      "created": "2012-05-14 23:43:23",
+      "updated": "2012-05-14 23:46:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "24",
+          "lastname": "Palmer",
+          "forename": "T S"
+        }
+      ],
+      "bhl_pages": [
+        3329210
+      ]
+    },
+    {
+      "reference_id": "65862",
+      "genre": "article",
+      "title": "The proper name of the Mexican tamandua",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "19",
+      "spage": "200",
+      "epage": "200",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0006-324X",
+      "PageID": "3329334",
+      "created": "2011-04-28 00:09:32",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "578",
+          "lastname": "Allen",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        3329334
+      ]
+    }
+  ]
+}

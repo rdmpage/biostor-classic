@@ -1,0 +1,38 @@
+{
+  "ItemID": "22770",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.40 (1907)",
+  "articles": [
+    {
+      "reference_id": "58196",
+      "genre": "article",
+      "title": "Fossils from Kakanui gem-sand",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "40",
+      "spage": "98",
+      "epage": "103",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1778777",
+      "PageID": "3302843",
+      "created": "2010-11-20 20:11:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42208",
+          "lastname": "Thomson",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        3302843,
+        3302404,
+        3302528,
+        3302844,
+        3302529,
+        3302845
+      ]
+    }
+  ]
+}

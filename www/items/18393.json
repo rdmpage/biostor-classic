@@ -1,0 +1,40 @@
+{
+  "ItemID": "18393",
+  "FullTitle": "Journal of the Washington Academy of Sciences.",
+  "VolumeInfo": "v. 6 (1916)",
+  "articles": [
+    {
+      "reference_id": "58893",
+      "genre": "article",
+      "title": "Seven new genera of echinoderms",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "6",
+      "spage": "115",
+      "epage": "122",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0043-0439",
+      "PageID": "2005711",
+      "created": "2010-11-20 23:07:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "798",
+          "lastname": "Clark",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        2005711,
+        2005712,
+        2005713,
+        2005714,
+        2005715,
+        2005716,
+        2005717,
+        2005718
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "ItemID": "44122",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 26 1907",
+  "articles": [
+    {
+      "reference_id": "96689",
+      "genre": "article",
+      "title": "Ein neuer Thamnurgus aus Griechenland",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "6",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088122",
+      "created": "2011-10-11 17:18:21",
+      "updated": "2011-10-11 17:18:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53183",
+          "lastname": "Strohmeyer",
+          "forename": "? Heinrich"
+        }
+      ],
+      "bhl_pages": [
+        12088122
+      ]
+    },
+    {
+      "reference_id": "72781",
+      "genre": "article",
+      "title": "Coleopterologische Notizen",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "26",
+      "spage": "27",
+      "epage": "30",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1769860",
+      "PageID": "12088143",
+      "created": "2011-06-04 04:04:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12088143,
+        12088144,
+        12088145,
+        12088146
+      ]
+    },
+    {
+      "reference_id": "96698",
+      "genre": "article",
+      "title": "\u00dcbersicht der mir bekannten Brachyderes (SCHH.)-Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "41",
+      "epage": "50",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088182",
+      "created": "2011-10-11 17:19:41",
+      "updated": "2011-10-11 17:19:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53120",
+          "lastname": "Flach",
+          "forename": "Karl L"
+        }
+      ],
+      "bhl_pages": [
+        12088182,
+        12088183,
+        12088184,
+        12088185,
+        12088186,
+        12088187,
+        12088188,
+        12088189,
+        12088190,
+        12088191
+      ]
+    },
+    {
+      "reference_id": "96701",
+      "genre": "article",
+      "title": "\u00dcbersicht der bekannten palaearktischen Arten der Coleopteren-Gattung Chlo\u00ebbius SCH\u00d6NH",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "73",
+      "epage": "76",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088214",
+      "created": "2011-10-11 17:19:59",
+      "updated": "2011-10-11 17:19:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12088214,
+        12088215,
+        12088216,
+        12088217
+      ]
+    },
+    {
+      "reference_id": "96703",
+      "genre": "article",
+      "title": "Nachtr\u00e4ge zur Bestimmungstabelle der unechten Pimeliden aus der palaearktischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "81",
+      "epage": "92",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088224",
+      "created": "2011-10-11 17:20:12",
+      "updated": "2011-10-11 17:20:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12088224,
+        12088225,
+        12088226,
+        12088227,
+        12088228,
+        12088229,
+        12088230,
+        12088231,
+        12088232,
+        12088233,
+        12088234,
+        12088235
+      ]
+    },
+    {
+      "reference_id": "96706",
+      "genre": "article",
+      "title": "Nomina nova f\u00fcr mehrere Gattungen der acalyptraten Musciden",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "98",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088241",
+      "created": "2011-10-11 17:20:30",
+      "updated": "2011-10-11 17:20:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53163",
+          "lastname": "Hendel",
+          "forename": "Friedrich Georg"
+        }
+      ],
+      "bhl_pages": [
+        12088241
+      ]
+    },
+    {
+      "reference_id": "73847",
+      "genre": "article",
+      "title": "Sechs neue Coleopteren aus Turkestan",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "26",
+      "spage": "205",
+      "epage": "208",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1769860",
+      "PageID": "12088350",
+      "created": "2011-06-04 10:03:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12088350,
+        12088351,
+        12088352,
+        12088353
+      ]
+    },
+    {
+      "reference_id": "96718",
+      "genre": "article",
+      "title": "Ein neuer blinder Trechus aus der Umgebung von Triest",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "216",
+      "epage": "217",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088361",
+      "created": "2011-10-11 17:21:46",
+      "updated": "2011-10-11 17:21:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53187",
+          "lastname": "Schatzmayr",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        12088361,
+        12088362
+      ]
+    },
+    {
+      "reference_id": "96727",
+      "genre": "article",
+      "title": "Erg\u00e4nzungen zu den Nachtr\u00e4gen zur Bestimmungstabelle der unechten Pimeliden aus der palaearktischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "306",
+      "epage": "307",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088453",
+      "created": "2011-10-11 17:22:47",
+      "updated": "2011-10-11 17:22:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12088453,
+        12088454
+      ]
+    },
+    {
+      "reference_id": "71190",
+      "genre": "article",
+      "title": "Bemerkungen zur Monographie der Issiden (Homoptera)",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "26",
+      "spage": "323",
+      "epage": "324",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1769860",
+      "PageID": "12088474",
+      "created": "2011-06-03 18:05:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40337",
+          "lastname": "Melichar",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12088474,
+        12088475
+      ]
+    },
+    {
+      "reference_id": "96728",
+      "genre": "article",
+      "title": "Otto KAMBERSKY +",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "325",
+      "epage": "326",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088476",
+      "created": "2011-10-11 17:22:54",
+      "updated": "2011-10-11 17:22:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12088476,
+        12088477
+      ]
+    },
+    {
+      "reference_id": "96729",
+      "genre": "article",
+      "title": "Coleopterologische Notizen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "26",
+      "spage": "333",
+      "epage": "334",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1562-0891",
+      "PageID": "12088484",
+      "created": "2011-10-11 17:23:03",
+      "updated": "2011-10-11 17:23:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12088484,
+        12088485
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ItemID": "104635",
+  "FullTitle": "Stuttgarter Beitr\u00e4ge zur Naturkunde.",
+  "VolumeInfo": "nr. 601 1999",
+  "articles": [
+    {
+      "reference_id": "95776",
+      "genre": "article",
+      "title": "Zur Taxonomie der Gattung Smaragdina Chevrolat (Coleoptera: Chrysomelidae: Clytrinae), mit Beschreibung neuer Taxa aus Asien",
+      "secondary_title": "Stuttgarter Beitr\u00e4ge zur Naturkunde Serie A (Biologie)",
+      "volume": "601",
+      "spage": "1",
+      "epage": "10",
+      "year": "1999",
+      "date": "1999-00-00",
+      "issn": "0341-0145",
+      "PageID": "33539846",
+      "created": "2011-10-11 13:33:14",
+      "updated": "2011-10-12 14:26:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53050",
+          "lastname": "Erber",
+          "forename": "D"
+        },
+        {
+          "id": "51200",
+          "lastname": "Medvedev",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        33539846,
+        33539847,
+        33539848,
+        33539849,
+        33539850,
+        33539851,
+        33539852,
+        33539853,
+        33539854,
+        33539855
+      ]
+    }
+  ]
+}

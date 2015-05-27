@@ -1,0 +1,43 @@
+{
+  "ItemID": "50884",
+  "FullTitle": "The Sarawak Museum journal.  ",
+  "VolumeInfo": "v.3 1925",
+  "articles": [
+    {
+      "reference_id": "102224",
+      "genre": "article",
+      "title": "On a collection of reptiles and amphibians from Mt. Murud Borneo",
+      "secondary_title": "The Sarawak Museum Journal",
+      "volume": "3",
+      "spage": "5",
+      "epage": "14",
+      "year": "1925",
+      "date": "1925-00-00",
+      "oclc": "2017321",
+      "PageID": "14620358",
+      "created": "2012-03-31 15:48:09",
+      "updated": "2012-03-31 15:51:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40361",
+          "lastname": "Smith",
+          "forename": "Malcolm A"
+        }
+      ],
+      "bhl_pages": [
+        14620358,
+        14620359,
+        14620360,
+        14620361,
+        14620362,
+        14620363,
+        14620364,
+        14620365,
+        14620366,
+        14620367,
+        14620368
+      ]
+    }
+  ]
+}

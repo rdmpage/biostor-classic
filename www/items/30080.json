@@ -1,0 +1,41 @@
+{
+  "ItemID": "30080",
+  "FullTitle": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 14 (1855)",
+  "articles": [
+    {
+      "reference_id": "61620",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Naturgeschichte der Insekten Osterreichs",
+      "secondary_title": "Sitzungsberichte der Akademie der Wissenschaften in Wien. Mathematisch-Naturwissenschaftliche Klasse",
+      "volume": "14",
+      "spage": "365",
+      "epage": "373",
+      "year": "1854",
+      "date": "1854-00-00",
+      "oclc": "5883001",
+      "PageID": "6359393",
+      "created": "2011-01-10 22:43:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43076",
+          "lastname": "Heeger",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        6359393,
+        6359394,
+        6359395,
+        6359396,
+        6359397,
+        6359398,
+        6359399,
+        6359400,
+        6359401
+      ]
+    }
+  ]
+}

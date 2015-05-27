@@ -1,0 +1,88 @@
+{
+  "ItemID": "34157",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France.  ",
+  "VolumeInfo": "1905",
+  "articles": [
+    {
+      "reference_id": "72201",
+      "genre": "article",
+      "title": "S\u00e9ance du 28 juin 1905. Note sur divers Col\u00e9opt\u00e8res",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France, Paris",
+      "volume": "1905",
+      "spage": "181",
+      "epage": "182",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1765811",
+      "PageID": "8251205",
+      "created": "2011-06-04 00:46:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39445",
+          "lastname": "Pic",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        8251205,
+        8251206
+      ]
+    },
+    {
+      "reference_id": "72297",
+      "genre": "article",
+      "title": "Description d'un C\u00e9rambycide nouveau appartenant au genre Coremia et tableau synoptique de ce genre [Col.]",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France, Paris",
+      "volume": "1905",
+      "spage": "227",
+      "epage": "228",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1765811",
+      "PageID": "8251251",
+      "created": "2011-06-04 01:08:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46947",
+          "lastname": "Gounelle",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        8251251,
+        8251252
+      ]
+    },
+    {
+      "reference_id": "4967",
+      "genre": "article",
+      "title": "Description d'un Blothrus nouveau (Arachn.) des grottes des Basses-Alpes",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1905",
+      "spage": "282",
+      "epage": "283",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0037-928X",
+      "PageID": "8251306",
+      "created": "2010-01-04 09:49:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        8251306,
+        8251307
+      ]
+    }
+  ]
+}

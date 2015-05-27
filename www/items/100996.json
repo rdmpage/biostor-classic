@@ -1,0 +1,128 @@
+{
+  "ItemID": "100996",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1857",
+  "articles": [
+    {
+      "reference_id": "65467",
+      "genre": "article",
+      "title": "On two species of bats inhabiting New Zealand",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "25",
+      "spage": "134",
+      "epage": "142",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0370-2774",
+      "doi": "10.1111\/j.1096-3642.1857.tb01218.x",
+      "PageID": "32451279",
+      "created": "2011-03-08 00:48:17",
+      "updated": "2011-09-12 18:03:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44874",
+          "lastname": "Tomes",
+          "forename": "Robert F"
+        }
+      ],
+      "bhl_pages": [
+        32451279,
+        32451280,
+        32451281,
+        32451282,
+        32451283,
+        32451284,
+        32451285,
+        32451286,
+        32451287
+      ]
+    },
+    {
+      "reference_id": "59917",
+      "genre": "article",
+      "title": "On several new species of birds from various parts of the world",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1857",
+      "spage": "220",
+      "epage": "224",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0370-2774",
+      "PageID": "32451365",
+      "created": "2010-11-22 16:58:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        32451365,
+        32451366,
+        32451367,
+        32451368,
+        32451369
+      ]
+    },
+    {
+      "reference_id": "59923",
+      "genre": "article",
+      "title": "Notes on an unnamed parrot from the island of St. Domingo, now living in the Society's Gardens; and on some other species of the same family",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1857",
+      "spage": "224",
+      "epage": "226",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0370-2774",
+      "PageID": "32451369",
+      "created": "2010-11-22 17:00:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40400",
+          "lastname": "Sclater",
+          "forename": "P L"
+        }
+      ],
+      "bhl_pages": [
+        32451369,
+        32451370,
+        32451371
+      ]
+    },
+    {
+      "reference_id": "60019",
+      "genre": "article",
+      "title": "On four new species of Mus and one of Hapalotis from Australia",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1857",
+      "spage": "241",
+      "epage": "243",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0370-2774",
+      "PageID": "32451386",
+      "created": "2010-11-22 17:37:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        32451386,
+        32451387,
+        32451388
+      ]
+    }
+  ]
+}

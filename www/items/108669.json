@@ -1,0 +1,960 @@
+{
+  "ItemID": "108669",
+  "FullTitle": "Proceedings of the Linnean Society of New South Wales.",
+  "VolumeInfo": "v. 69 (1944)",
+  "articles": [
+    {
+      "reference_id": "67526",
+      "genre": "article",
+      "title": "New or little-known species of Australian Tipulidae (Diptera). II",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "1",
+      "epage": "15",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951616",
+      "created": "2011-05-29 20:22:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        34951616,
+        34951617,
+        34951618,
+        34951619,
+        34951620,
+        34951621,
+        34951622,
+        34951623,
+        34951624,
+        34951625,
+        34951626,
+        34951627,
+        34951628,
+        34951629,
+        34951630
+      ]
+    },
+    {
+      "reference_id": "70193",
+      "genre": "article",
+      "title": "Studies in Australian Embioptera. Part VII. New Embioptera from tropical Australia",
+      "secondary_title": "Proceedings of the Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "16",
+      "epage": "20",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951631",
+      "created": "2011-06-02 15:45:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41960",
+          "lastname": "",
+          "forename": "Davis",
+          "suffix": "J.r."
+        }
+      ],
+      "bhl_pages": [
+        34951631,
+        34951632,
+        34951633,
+        34951634,
+        34951635
+      ]
+    },
+    {
+      "reference_id": "68199",
+      "genre": "article",
+      "title": "A new species of the genus Anopheles from northern Australia (Diptera, Culicidae)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "21",
+      "epage": "25",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951636",
+      "created": "2011-05-31 12:01:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45730",
+          "lastname": "Lee",
+          "forename": "D J"
+        }
+      ],
+      "bhl_pages": [
+        34951636,
+        34951637,
+        34951638,
+        34951639,
+        34951640
+      ]
+    },
+    {
+      "reference_id": "67758",
+      "genre": "article",
+      "title": "Origin of the New south Wales torbanites",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "26",
+      "epage": "48",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951641",
+      "created": "2011-05-31 11:33:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45617",
+          "lastname": "Dulhunty",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        34951641,
+        34951642,
+        34951643,
+        34951644,
+        34951645,
+        34951646,
+        34951647,
+        34951648,
+        34951649,
+        34951650,
+        34951651,
+        34951652,
+        34951653,
+        34951654,
+        34951655,
+        34951656,
+        34951657,
+        34951658,
+        34951659,
+        34951660,
+        34951661,
+        34951662,
+        34951663
+      ]
+    },
+    {
+      "reference_id": "68677",
+      "genre": "article",
+      "title": "Revision of Australian Lepidoptera. Oecophoridae. XI",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "49",
+      "epage": "61",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951664",
+      "created": "2011-05-31 12:25:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40900",
+          "lastname": "Turner",
+          "forename": "A J"
+        }
+      ],
+      "bhl_pages": [
+        34951664,
+        34951665,
+        34951666,
+        34951667,
+        34951668,
+        34951669,
+        34951670,
+        34951671,
+        34951672,
+        34951673,
+        34951674,
+        34951675,
+        34951676
+      ]
+    },
+    {
+      "reference_id": "68815",
+      "genre": "article",
+      "title": "The subspecies of Anopheles amictus Edwards (Diptera, Culicidae)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "62",
+      "epage": "66",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951677",
+      "created": "2011-05-31 12:30:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45944",
+          "lastname": "Woodhill",
+          "forename": "A R"
+        },
+        {
+          "id": "45730",
+          "lastname": "Lee",
+          "forename": "D J"
+        }
+      ],
+      "bhl_pages": [
+        34951677,
+        34951678,
+        34951679,
+        34951680,
+        34951681
+      ]
+    },
+    {
+      "reference_id": "68816",
+      "genre": "article",
+      "title": "Some new records and new synonymy of Australian species of Anopheles (Diptera, Culicidae)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "67",
+      "epage": "72",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951682",
+      "created": "2011-05-31 12:30:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45944",
+          "lastname": "Woodhill",
+          "forename": "A R"
+        },
+        {
+          "id": "45730",
+          "lastname": "Lee",
+          "forename": "D J"
+        }
+      ],
+      "bhl_pages": [
+        34951682,
+        34951683,
+        34951684,
+        34951685,
+        34951686,
+        34951687
+      ]
+    },
+    {
+      "reference_id": "68523",
+      "genre": "article",
+      "title": "Notes on Australian orchids",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "73",
+      "epage": "75",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951690",
+      "created": "2011-05-31 12:19:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46001",
+          "lastname": "Rupp",
+          "forename": "H M R"
+        }
+      ],
+      "bhl_pages": [
+        34951690,
+        34951691,
+        34951692
+      ]
+    },
+    {
+      "reference_id": "68032",
+      "genre": "article",
+      "title": "Miscellaneous notes on Australian Diptera. X. Distribution, classification and the Tabanus posticus-group",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "76",
+      "epage": "86",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951693",
+      "created": "2011-05-31 11:53:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40724",
+          "lastname": "Hardy",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        34951693,
+        34951694,
+        34951695,
+        34951696,
+        34951697,
+        34951698,
+        34951699,
+        34951700,
+        34951701,
+        34951702,
+        34951703
+      ]
+    },
+    {
+      "reference_id": "68617",
+      "genre": "article",
+      "title": "A modified respirometer for studies on the respiratory quotient of apples",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "87",
+      "epage": "90",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951704",
+      "created": "2011-05-31 12:22:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46047",
+          "lastname": "Sykes",
+          "forename": "S M"
+        }
+      ],
+      "bhl_pages": [
+        34951704,
+        34951705,
+        34951706,
+        34951707
+      ]
+    },
+    {
+      "reference_id": "67999",
+      "genre": "article",
+      "title": "Studies in the metabolism of apples. IV. Further studies in the respiratory metabolism of granny smith apples, with special reference to the importance of oxygen supply",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "91",
+      "epage": "107",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951708",
+      "created": "2011-05-31 11:52:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45760",
+          "lastname": "Hackney",
+          "forename": "F M V"
+        }
+      ],
+      "bhl_pages": [
+        34951708,
+        34951709,
+        34951710,
+        34951711,
+        34951712,
+        34951713,
+        34951714,
+        34951715,
+        34951716,
+        34951717,
+        34951718,
+        34951719,
+        34951720,
+        34951721,
+        34951722,
+        34951723,
+        34951724
+      ]
+    },
+    {
+      "reference_id": "68000",
+      "genre": "article",
+      "title": "Studies in the metabolism of apples. V. The respiratory metabolism of delicious apples of commercial maturity after various periods of cool storage",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "108",
+      "epage": "119",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951725",
+      "created": "2011-05-31 11:52:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45760",
+          "lastname": "Hackney",
+          "forename": "F M V"
+        }
+      ],
+      "bhl_pages": [
+        34951725,
+        34951726,
+        34951727,
+        34951728,
+        34951729,
+        34951730,
+        34951731,
+        34951732,
+        34951733,
+        34951734,
+        34951735,
+        34951736
+      ]
+    },
+    {
+      "reference_id": "68623",
+      "genre": "article",
+      "title": "Contributions to a knowledge of Australian Culicidae. No. VII",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "120",
+      "epage": "128",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951737",
+      "created": "2011-05-31 12:23:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4327",
+          "lastname": "Taylor",
+          "forename": "F H"
+        }
+      ],
+      "bhl_pages": [
+        34951737,
+        34951738,
+        34951739,
+        34951740,
+        34951741,
+        34951742,
+        34951743,
+        34951744,
+        34951745
+      ]
+    },
+    {
+      "reference_id": "68140",
+      "genre": "article",
+      "title": "Petrology of the Hartley district. V. Evidence of hybridization in the Moyne farm intrusion: a revision",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "129",
+      "epage": "138",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951746",
+      "created": "2011-05-31 11:57:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45695",
+          "lastname": "Joplin",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        34951746,
+        34951747,
+        34951748,
+        34951749,
+        34951750,
+        34951751,
+        34951752,
+        34951753,
+        34951754,
+        34951755
+      ]
+    },
+    {
+      "reference_id": "67643",
+      "genre": "article",
+      "title": "Bryozoa from the Permian of Western Australia. Part I. Cyclostomata and Cryptostomata from the north-west basin and Kimberley district",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "139",
+      "epage": "175",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951756",
+      "created": "2011-05-31 11:29:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45590",
+          "lastname": "Crockford",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        34951756,
+        34951757,
+        34951758,
+        34951759,
+        34951760,
+        34951761,
+        34951762,
+        34951763,
+        34951764,
+        34951765,
+        34951766,
+        34951767,
+        34951768,
+        34951769,
+        34951770,
+        34951771,
+        34951772,
+        34951773,
+        34951774,
+        34951775,
+        34951776,
+        34951777,
+        34951778,
+        34951779,
+        34951780,
+        34951781,
+        34951782,
+        34951783,
+        34951784,
+        34951785,
+        34951786,
+        34951787,
+        34951788,
+        34951789,
+        34951790,
+        34951791,
+        34951792
+      ]
+    },
+    {
+      "reference_id": "67882",
+      "genre": "article",
+      "title": "Alexander Greenlaw Hamilton. 1852-1941. (Memorial Series, No. 10)",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "176",
+      "epage": "184",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951793",
+      "created": "2011-05-31 11:45:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45704",
+          "lastname": "Andrews].",
+          "forename": "E C A [E C"
+        }
+      ],
+      "bhl_pages": [
+        34951793,
+        34951794,
+        34951795,
+        34951796,
+        34951797,
+        34951798,
+        34951799,
+        34951800,
+        34951801
+      ]
+    },
+    {
+      "reference_id": "68624",
+      "genre": "article",
+      "title": "Arachnid notes",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "185",
+      "epage": "187",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951802",
+      "created": "2011-05-31 12:23:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4327",
+          "lastname": "Taylor",
+          "forename": "F H"
+        }
+      ],
+      "bhl_pages": [
+        34951802,
+        34951803,
+        34951804
+      ]
+    },
+    {
+      "reference_id": "67959",
+      "genre": "article",
+      "title": "Notes on Australian Boarmiidae and Oenochromidae (Lepidoptera) with descriptions of new species",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "189",
+      "epage": "197",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951812",
+      "created": "2011-05-31 11:48:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45745",
+          "lastname": "Goldfinch",
+          "forename": "G M"
+        }
+      ],
+      "bhl_pages": [
+        34951812,
+        34951813,
+        34951814,
+        34951815,
+        34951816,
+        34951817,
+        34951818,
+        34951819,
+        34951820
+      ]
+    },
+    {
+      "reference_id": "68141",
+      "genre": "article",
+      "title": "The geology of the Albury district",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "198",
+      "epage": "209",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951821",
+      "created": "2011-05-31 11:57:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45695",
+          "lastname": "Joplin",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        34951821,
+        34951822,
+        34951823,
+        34951824,
+        34951825,
+        34951826,
+        34951827,
+        34951828,
+        34951829,
+        34951830,
+        34951831,
+        34951832
+      ]
+    },
+    {
+      "reference_id": "68118",
+      "genre": "article",
+      "title": "Production of nitrate from roots and root nodules of lucerne and subterranean clover",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "210",
+      "epage": "214",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951833",
+      "created": "2011-05-31 11:57:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45811",
+          "lastname": "Jensen",
+          "forename": "H L"
+        },
+        {
+          "id": "45813",
+          "lastname": "Frith",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        34951833,
+        34951834,
+        34951835,
+        34951836,
+        34951837
+      ]
+    },
+    {
+      "reference_id": "68200",
+      "genre": "article",
+      "title": "Notes on Australian mosquitoes (Diptera, Culicidae). Part V. The genus Armigeres and new species of Armigeres, Theobaldia and Culex",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "215",
+      "epage": "225",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951838",
+      "created": "2011-05-31 12:01:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45730",
+          "lastname": "Lee",
+          "forename": "D J"
+        }
+      ],
+      "bhl_pages": [
+        34951838,
+        34951839,
+        34951840,
+        34951841,
+        34951842,
+        34951843,
+        34951844,
+        34951845,
+        34951846,
+        34951847,
+        34951848
+      ]
+    },
+    {
+      "reference_id": "68294",
+      "genre": "article",
+      "title": "Studies on Australian marine algae. I. The corrected name for Pterocladia pectinata (A. & E. S. Gepp) Lucas",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "226",
+      "epage": "228",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951849",
+      "created": "2011-05-31 12:05:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45639",
+          "lastname": "May",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        34951849,
+        34951850,
+        34951851
+      ]
+    },
+    {
+      "reference_id": "68112",
+      "genre": "article",
+      "title": "Nitrogen fixation in leguminous plants. V. Gains of nitrogen by Medicago and Trifolium in acid and alkaline soil",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "229",
+      "epage": "237",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951852",
+      "created": "2011-05-31 11:56:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45811",
+          "lastname": "Jensen",
+          "forename": "H L"
+        }
+      ],
+      "bhl_pages": [
+        34951852,
+        34951853,
+        34951854,
+        34951855,
+        34951856,
+        34951857,
+        34951858,
+        34951859,
+        34951860
+      ]
+    },
+    {
+      "reference_id": "67864",
+      "genre": "article",
+      "title": "Notes on the geology, physiography and glaciology of the Kosciusko area and the country north of it",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "238",
+      "epage": "252",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951861",
+      "created": "2011-05-31 11:40:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40925",
+          "lastname": "Browne",
+          "forename": "W R"
+        },
+        {
+          "id": "45617",
+          "lastname": "Dulhunty",
+          "forename": "J A"
+        },
+        {
+          "id": "45630",
+          "lastname": "Maze",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        34951861,
+        34951862,
+        34951863,
+        34951864,
+        34951865,
+        34951866,
+        34951867,
+        34951868,
+        34951869,
+        34951870,
+        34951871,
+        34951872,
+        34951873,
+        34951874,
+        34951875
+      ]
+    },
+    {
+      "reference_id": "68678",
+      "genre": "article",
+      "title": "Revision of Australian Lepidoptera. Oecophoridae. XII",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "253",
+      "epage": "273",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951876",
+      "created": "2011-05-31 12:25:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40900",
+          "lastname": "Turner",
+          "forename": "A J"
+        }
+      ],
+      "bhl_pages": [
+        34951876,
+        34951877,
+        34951878,
+        34951879,
+        34951880,
+        34951881,
+        34951882,
+        34951883,
+        34951884,
+        34951885,
+        34951886,
+        34951887,
+        34951888,
+        34951889,
+        34951890,
+        34951891,
+        34951892,
+        34951893,
+        34951894,
+        34951895,
+        34951896
+      ]
+    },
+    {
+      "reference_id": "68524",
+      "genre": "article",
+      "title": "A critical revision of R. D. Fitzgerald's \"Australian orchids\"",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "69",
+      "spage": "274",
+      "epage": "278",
+      "year": "1944",
+      "date": "1944-00-00",
+      "issn": "0370-047X",
+      "PageID": "34951897",
+      "created": "2011-05-31 12:19:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46001",
+          "lastname": "Rupp",
+          "forename": "H M R"
+        }
+      ],
+      "bhl_pages": [
+        34951897,
+        34951898,
+        34951899,
+        34951900,
+        34951901
+      ]
+    }
+  ]
+}

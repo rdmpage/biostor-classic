@@ -1,0 +1,181 @@
+{
+  "ItemID": "22102",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 31 (1906)",
+  "articles": [
+    {
+      "reference_id": "58027",
+      "genre": "article",
+      "title": "Notes sur les Mallophages. I. Nomenclature",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "31",
+      "spage": "54",
+      "epage": "60",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0037-962X",
+      "PageID": "3047108",
+      "created": "2010-11-20 19:40:31",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42233",
+          "lastname": "Neumann",
+          "forename": "L G"
+        }
+      ],
+      "bhl_pages": [
+        3047108,
+        3047109,
+        3047110,
+        3047111,
+        3047112,
+        3047113,
+        3047114
+      ]
+    },
+    {
+      "reference_id": "101520",
+      "genre": "article",
+      "title": "Note sur les Mallophages",
+      "secondary_title": "Bulletin de la Societe Zoologique Paris",
+      "volume": "31",
+      "spage": "54",
+      "epage": "60",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0037-962X",
+      "PageID": "3047108",
+      "created": "2012-03-19 10:21:08",
+      "updated": "2012-03-19 10:25:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42120",
+          "lastname": "Neumann",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        3047108,
+        3047109,
+        3047110,
+        3047111,
+        3047112,
+        3047113,
+        3047114
+      ]
+    },
+    {
+      "reference_id": "73236",
+      "genre": "article",
+      "title": "Sur un nouveau Nematocera africian appartenant au genre Phlebotomus",
+      "secondary_title": "Bull. soc. zool. Fr",
+      "volume": "31",
+      "spage": "64",
+      "epage": "67",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "1715809",
+      "PageID": "3047118",
+      "created": "2011-06-04 08:05:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42148",
+          "lastname": "Neveu-Lemaire",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        3047118,
+        3047119,
+        3047120,
+        3047121
+      ]
+    },
+    {
+      "reference_id": "57998",
+      "genre": "article",
+      "title": "Diagnoses d'amphipodes nouveaux provenant de l'exp\u00e9dition antarctique du Fran\u00e7ais. Oediceridae \u2014 Calliopidae. III. Parhalimedon Turqueti nov. gen. et sp",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "31",
+      "spage": "76",
+      "epage": "80",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0037-962X",
+      "PageID": "3047130",
+      "created": "2010-11-20 19:33:08",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18122",
+          "lastname": "Chevreux",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3047130,
+        3047131,
+        3047132,
+        3047133,
+        3047134
+      ]
+    },
+    {
+      "reference_id": "103294",
+      "genre": "article",
+      "title": "Diagnoses d'Amphipodes nouveaux provenant de l'expedition antarctique du FranYais. V. Phliadidae",
+      "secondary_title": "Bulletin De La Societe Zoologique Paris",
+      "volume": "31",
+      "spage": "87",
+      "epage": "89",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0037-962X",
+      "PageID": "3047141",
+      "created": "2012-05-21 12:50:54",
+      "updated": "2012-05-21 12:50:55",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3047141,
+        3047142,
+        3047143
+      ]
+    },
+    {
+      "reference_id": "61574",
+      "genre": "article",
+      "title": "Myialges anchorae un sarcoptide nouveau",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "31",
+      "spage": "128",
+      "epage": "129",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0037-962X",
+      "PageID": "3047184",
+      "created": "2011-01-10 22:07:16",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42151",
+          "lastname": "Trouessart",
+          "forename": "E L"
+        }
+      ],
+      "bhl_pages": [
+        3047184,
+        3047185
+      ]
+    }
+  ]
+}

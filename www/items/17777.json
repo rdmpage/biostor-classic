@@ -1,0 +1,39 @@
+{
+  "ItemID": "17777",
+  "FullTitle": "Carnegie Institution of Washington publication.",
+  "VolumeInfo": "no. 252 (1918)",
+  "articles": [
+    {
+      "reference_id": "59025",
+      "genre": "article",
+      "title": "A study of respiration in Alcyonaria",
+      "secondary_title": "Carnegie Institution of Washington Publication",
+      "volume": "252",
+      "spage": "185",
+      "epage": "191",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0099-4936",
+      "PageID": "1719631",
+      "created": "2010-11-20 23:31:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42475",
+          "lastname": "Cary",
+          "forename": "L R"
+        }
+      ],
+      "bhl_pages": [
+        1719631,
+        1719632,
+        1719633,
+        1719634,
+        1719635,
+        1719636,
+        1719637
+      ]
+    }
+  ]
+}

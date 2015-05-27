@@ -1,0 +1,124 @@
+{
+  "ItemID": "30156",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 45, bd. 1 (1879)",
+  "articles": [
+    {
+      "reference_id": "100712",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntniss niederer Thiere von Kerguelensland. Die Arten der Gattung Serolis von Kerguelensland",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "45",
+      "spage": "19",
+      "epage": "34",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0365-6136",
+      "PageID": "6407998",
+      "created": "2012-02-25 19:42:45",
+      "updated": "2012-02-25 19:45:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43032",
+          "lastname": "Studer",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        6407998,
+        6407997,
+        6407996,
+        6407995,
+        6407994,
+        6407993,
+        6407992,
+        6407991,
+        6407990,
+        6407989,
+        6407988,
+        6407987,
+        6407986,
+        6407985,
+        6407952,
+        6407953,
+        6408334
+      ]
+    },
+    {
+      "reference_id": "61538",
+      "genre": "article",
+      "title": "Ueber die Milbengattungen Leptognathus Hodge, Raphignathus Dug., Caligonus Koch und die neue Gattung Cryptognathus",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "45",
+      "spage": "142",
+      "epage": "157",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1481990",
+      "PageID": "6408101",
+      "created": "2011-01-10 21:45:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42782",
+          "lastname": "Kramer",
+          "forename": "P M"
+        }
+      ],
+      "bhl_pages": [
+        6408101,
+        6408102,
+        6408103,
+        6408104,
+        6408105,
+        6408106,
+        6408107,
+        6408108,
+        6408109,
+        6408110,
+        6408111,
+        6408112,
+        6408113,
+        6408114,
+        6408115,
+        6408116
+      ]
+    },
+    {
+      "reference_id": "61500",
+      "genre": "article",
+      "title": "Ueber eine neue Eintheilung der Tarantuliden (Phrynidae auct.)",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "45",
+      "spage": "189",
+      "epage": "197",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1481990",
+      "PageID": "6408148",
+      "created": "2011-01-10 21:13:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6408148,
+        6408149,
+        6408150,
+        6408151,
+        6408152,
+        6408153,
+        6408154,
+        6408155,
+        6408156
+      ]
+    }
+  ]
+}

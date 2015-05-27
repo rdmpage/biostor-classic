@@ -1,0 +1,54 @@
+{
+  "author": [
+    {
+      "name": ""
+    }
+  ],
+  "type": "article",
+  "title": "Revision of the genus Adactylidium cross (Acari: Heterostigmata: Acarophenacidae), mites associated with thrips (Thysanoptera)",
+  "journal": {
+    "name": "Proceedings of the Entomological Society of Washington",
+    "volume": "103",
+    "pages": "473--514",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0013-8797"
+      }
+    ]
+  },
+  "year": "2001",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/57096"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/16178048"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 57096
+    },
+    {
+      "type": "bhl",
+      "id": 16178048
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        22.516666666667,
+        44.683333333333
+      ]
+    ]
+  }
+}

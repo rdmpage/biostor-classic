@@ -1,0 +1,62 @@
+{
+  "ItemID": "22481",
+  "FullTitle": "Proceedings of the California Academy of Sciences.",
+  "VolumeInfo": "v. 4 (1868-1872)",
+  "articles": [
+    {
+      "reference_id": "60100",
+      "genre": "article",
+      "title": "Descriptions of three new species of Crustacea parasitic on the Cetacea of the N.W. coast of America",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "4",
+      "spage": "281",
+      "epage": "283",
+      "year": "1872",
+      "date": "1872-00-00",
+      "issn": "0068-547X",
+      "PageID": "3181741",
+      "created": "2010-11-22 19:24:13",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3181741,
+        3182054,
+        3181806
+      ]
+    },
+    {
+      "reference_id": "70098",
+      "genre": "article",
+      "title": "Descriptions of new species of Mollusca from the northwest coast of America",
+      "secondary_title": "Proceedings of the California Academy of Science",
+      "volume": "4",
+      "spage": "302",
+      "epage": "303",
+      "year": "1872",
+      "date": "1872-00-00",
+      "issn": "0068-547X",
+      "PageID": "3181829",
+      "created": "2011-06-02 15:38:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3181829,
+        3181757
+      ]
+    }
+  ]
+}

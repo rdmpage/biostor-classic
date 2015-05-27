@@ -1,0 +1,113 @@
+{
+  "ItemID": "38544",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1912",
+  "articles": [
+    {
+      "reference_id": "58666",
+      "genre": "article",
+      "title": "On a new Tasmanian chiton",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1912",
+      "spage": "1",
+      "epage": "2",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0080-4703",
+      "PageID": "10113804",
+      "created": "2010-11-20 22:24:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42391",
+          "lastname": "Torr",
+          "forename": "W G"
+        }
+      ],
+      "bhl_pages": [
+        10113804,
+        10113805
+      ]
+    },
+    {
+      "reference_id": "58626",
+      "genre": "article",
+      "title": "The Polyplacophora of Tasmania",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1912",
+      "spage": "25",
+      "epage": "40",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0080-4703",
+      "PageID": "10113830",
+      "created": "2010-11-20 22:15:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40741",
+          "lastname": "May",
+          "forename": "W L"
+        },
+        {
+          "id": "42391",
+          "lastname": "Torr",
+          "forename": "W G"
+        }
+      ],
+      "bhl_pages": [
+        10113830,
+        10113831,
+        10113832,
+        10113833,
+        10113834,
+        10113835,
+        10113836,
+        10113837,
+        10113838,
+        10113839,
+        10113840,
+        10113841,
+        10113842,
+        10113843,
+        10113844,
+        10113845
+      ]
+    },
+    {
+      "reference_id": "58527",
+      "genre": "article",
+      "title": "Further additions to the Tasmanian Mollusca",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1912",
+      "spage": "41",
+      "epage": "48",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0080-4703",
+      "PageID": "10113848",
+      "created": "2010-11-20 21:37:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40741",
+          "lastname": "May",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        10113848,
+        10113849,
+        10113850,
+        10113851,
+        10113852,
+        10113853,
+        10113854,
+        10113855
+      ]
+    }
+  ]
+}

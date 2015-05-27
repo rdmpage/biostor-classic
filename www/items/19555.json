@@ -1,0 +1,37 @@
+{
+  "ItemID": "19555",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 4 (1852)",
+  "articles": [
+    {
+      "reference_id": "72771",
+      "genre": "article",
+      "title": "Description de quatre Col\u00e9opt\u00e8res nouveaux et remarquables",
+      "secondary_title": "Revue et Magazine de Zoologie, Pure et Appliq\u00e9e",
+      "volume": "4",
+      "series": "2",
+      "spage": "21",
+      "epage": "25",
+      "year": "1852",
+      "date": "1852-00-00",
+      "PageID": "2318772",
+      "created": "2011-06-04 04:02:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47086",
+          "lastname": "Reiche",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        2318772,
+        2318771,
+        2318770,
+        2318769,
+        2318768
+      ]
+    }
+  ]
+}

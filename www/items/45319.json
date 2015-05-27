@@ -1,0 +1,43 @@
+{
+  "ItemID": "45319",
+  "FullTitle": "Edinburgh New Philosophical Journal.",
+  "VolumeInfo": "Vol 34",
+  "articles": [
+    {
+      "reference_id": "60080",
+      "genre": "article",
+      "title": "Description of the genus Cuma, and of two new genera nearly allied to it",
+      "secondary_title": "Edinburgh New Philosophical Journal",
+      "volume": "34",
+      "spage": "119",
+      "epage": "129",
+      "year": "1843",
+      "date": "1843-00-00",
+      "oclc": "32831669",
+      "PageID": "12565428",
+      "created": "2010-11-22 18:28:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42756",
+          "lastname": "Goodsir",
+          "forename": "H D S"
+        }
+      ],
+      "bhl_pages": [
+        12565428,
+        12565429,
+        12565430,
+        12565431,
+        12565432,
+        12565433,
+        12565434,
+        12565435,
+        12565436,
+        12565437,
+        12565438
+      ]
+    }
+  ]
+}

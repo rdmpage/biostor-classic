@@ -1,0 +1,101 @@
+{
+  "ItemID": "36480",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 50 = 2nd ser. v. 25 1914",
+  "articles": [
+    {
+      "reference_id": "73577",
+      "genre": "article",
+      "title": "Notes on British Phora (further addition)",
+      "secondary_title": "Ent. Mo. Mag",
+      "volume": "50",
+      "spage": "152",
+      "epage": "154",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0013-8908",
+      "PageID": "9264264",
+      "created": "2011-06-04 09:22:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47215",
+          "lastname": "Wood",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        9264264,
+        9264265,
+        9264266
+      ]
+    },
+    {
+      "reference_id": "58771",
+      "genre": "article",
+      "title": "The geographical distribution of Danaida plexippus L. (Danais archippus, F) with especial reference to its recent migrations",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "50",
+      "spage": "181",
+      "epage": "193",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9264297",
+      "created": "2010-11-20 22:47:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42423",
+          "lastname": "Walker",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        9264297,
+        9264298,
+        9264299,
+        9264300,
+        9264301,
+        9264302,
+        9264303,
+        9264304,
+        9264305,
+        9264306,
+        9264307,
+        9264308,
+        9264309
+      ]
+    },
+    {
+      "reference_id": "67203",
+      "genre": "article",
+      "title": "Euthrips tamicola, a new species of Thysanoptera from the flowers of Black Bryony",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "50",
+      "spage": "273",
+      "epage": "274",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1568052",
+      "PageID": "9264411",
+      "created": "2011-05-19 12:31:19",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9264411,
+        9264412
+      ]
+    }
+  ]
+}

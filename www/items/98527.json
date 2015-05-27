@@ -1,0 +1,36 @@
+{
+  "ItemID": "98527",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1862",
+  "articles": [
+    {
+      "reference_id": "104257",
+      "genre": "article",
+      "title": "Description of some new species of Entozoa",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1862",
+      "spage": "113",
+      "epage": "115",
+      "year": "1862",
+      "date": "1862-00-00",
+      "issn": "0370-2774",
+      "doi": "10.1111\/j.1469-7998.1862.tb06468.x",
+      "PageID": "31577133",
+      "created": "2012-06-15 09:09:32",
+      "updated": "2012-06-15 09:11:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42741",
+          "lastname": "Baird",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        31577133,
+        31577134,
+        31577135
+      ]
+    }
+  ]
+}

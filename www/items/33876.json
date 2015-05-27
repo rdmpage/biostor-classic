@@ -1,0 +1,138 @@
+{
+  "ItemID": "33876",
+  "FullTitle": "Bulletin of the Essex Institute.",
+  "VolumeInfo": "19",
+  "articles": [
+    {
+      "reference_id": "48997",
+      "genre": "article",
+      "title": "On the West Indian Teiids in the Museum of Comparative Zoology",
+      "secondary_title": "Bull. Essex Inst.",
+      "volume": "19",
+      "spage": "1",
+      "epage": "12",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "8111939",
+      "created": "2010-03-21 10:37:49",
+      "updated": "2012-05-11 13:09:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        8111939,
+        8111938,
+        8111937,
+        8111936,
+        8111935,
+        8111934,
+        8111933,
+        8111932,
+        8111931,
+        8111930,
+        8111929,
+        8111928
+      ]
+    },
+    {
+      "reference_id": "102808",
+      "genre": "article",
+      "title": "West Indian Batrachia in the Museum of Comparative Zoology",
+      "secondary_title": "Bulletin of the Essex Institute",
+      "volume": "19",
+      "spage": "13",
+      "epage": "16",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "8111927",
+      "created": "2012-05-11 12:58:32",
+      "updated": "2012-05-11 13:00:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42942",
+          "lastname": "Garman",
+          "forename": "Samuel"
+        }
+      ],
+      "bhl_pages": [
+        8111927,
+        8111926,
+        8111925,
+        8111892
+      ]
+    },
+    {
+      "reference_id": "49052",
+      "genre": "article",
+      "title": "On West Indian Geckonidae and Anguide",
+      "secondary_title": "Bull. Essex Inst.",
+      "volume": "19",
+      "spage": "17",
+      "epage": "24",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "8111893",
+      "created": "2010-03-21 11:06:26",
+      "updated": "2012-05-11 13:16:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        8111893,
+        8111894,
+        8111895,
+        8111896,
+        8111897,
+        8111898,
+        8111899,
+        8111900
+      ]
+    },
+    {
+      "reference_id": "49297",
+      "genre": "article",
+      "title": "On West Indian Reptiles. Scincidae",
+      "secondary_title": "Bull. Essex Inst.",
+      "volume": "19",
+      "spage": "51",
+      "epage": "53",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "8111950",
+      "created": "2010-03-21 13:25:28",
+      "updated": "2012-05-11 13:16:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        8111950,
+        8111951,
+        8111952
+      ]
+    }
+  ]
+}

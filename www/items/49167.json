@@ -1,0 +1,36 @@
+{
+  "ItemID": "49167",
+  "FullTitle": "South Australian naturalist.",
+  "VolumeInfo": "v.1-5 1919-1924",
+  "articles": [
+    {
+      "reference_id": "59225",
+      "genre": "article",
+      "title": "The breeding habits of the \"Backswimmer\" (Anisops hyperion)",
+      "secondary_title": "South Australian Naturalist",
+      "volume": "4",
+      "spage": "124",
+      "epage": "128",
+      "year": "1923",
+      "date": "1923-00-00",
+      "PageID": "13854045",
+      "created": "2010-11-21 00:59:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1532",
+          "lastname": "Hale",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        13854045,
+        13854046,
+        13854047,
+        13854048,
+        13854049
+      ]
+    }
+  ]
+}

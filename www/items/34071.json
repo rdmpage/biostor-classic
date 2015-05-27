@@ -1,0 +1,69 @@
+{
+  "ItemID": "34071",
+  "FullTitle": "Journal of entomology and zoology.  ",
+  "VolumeInfo": "v. 5 1913",
+  "articles": [
+    {
+      "reference_id": "58606",
+      "genre": "article",
+      "title": "A new genus of chalcidoid Hymenoptera",
+      "secondary_title": "Journal of Entomology and Zoology",
+      "volume": "5",
+      "spage": "53",
+      "epage": "54",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "8273672",
+      "PageID": "8208422",
+      "created": "2010-11-20 22:09:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        8208422,
+        8208423
+      ]
+    },
+    {
+      "reference_id": "58600",
+      "genre": "article",
+      "title": "Some new genera and species of chalcidoid Hymenoptera of the family Eulophidae from Australia",
+      "secondary_title": "Journal of Entomology and Zoology",
+      "volume": "5",
+      "spage": "103",
+      "epage": "112",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "8273672",
+      "PageID": "8208476",
+      "created": "2010-11-20 22:04:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        8208476,
+        8208477,
+        8208478,
+        8208479,
+        8208480,
+        8208481,
+        8208482,
+        8208483,
+        8208484,
+        8208485
+      ]
+    }
+  ]
+}

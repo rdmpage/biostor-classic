@@ -1,0 +1,65 @@
+{
+  "ItemID": "36413",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Verein in Berlin.",
+  "VolumeInfo": "v. 47 1902",
+  "articles": [
+    {
+      "reference_id": "70938",
+      "genre": "article",
+      "title": "Einiges \u00fcber die Arten der Gattung Eccoptocnemis Krtz",
+      "secondary_title": "Berliner entomologische Zeitschrift",
+      "volume": "47",
+      "spage": "144",
+      "epage": "146",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0323-6145",
+      "PageID": "9217478",
+      "created": "2011-06-03 16:57:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40393",
+          "lastname": "Moser",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9217478,
+        9217479,
+        9217480
+      ]
+    },
+    {
+      "reference_id": "70935",
+      "genre": "article",
+      "title": "Neue Cetoniden-Arten",
+      "secondary_title": "Berliner entomologische Zeitschrift",
+      "volume": "47",
+      "spage": "283",
+      "epage": "287",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0323-6145",
+      "PageID": "9217619",
+      "created": "2011-06-03 16:56:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40393",
+          "lastname": "Moser",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9217619,
+        9217620,
+        9217621,
+        9217622,
+        9217623
+      ]
+    }
+  ]
+}

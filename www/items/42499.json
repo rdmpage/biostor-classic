@@ -1,0 +1,153 @@
+{
+  "ItemID": "42499",
+  "FullTitle": "Entomologica Americana.  ",
+  "VolumeInfo": "v. 4 1888",
+  "articles": [
+    {
+      "reference_id": "71268",
+      "genre": "article",
+      "title": "A preliminary list of the Myriapoda of Arkansas with description of new species",
+      "secondary_title": "Entomologica Americana",
+      "volume": "4",
+      "spage": "1",
+      "epage": "8",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568003",
+      "PageID": "11465399",
+      "created": "2011-06-03 18:20:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2376",
+          "lastname": "Bollman",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11465399,
+        11465400,
+        11465401,
+        11465402,
+        11465403,
+        11465404,
+        11465405,
+        11465406
+      ]
+    },
+    {
+      "reference_id": "71188",
+      "genre": "article",
+      "title": "Descriptions of new Florida chalcids belonging to the sub-family Encyrtinae",
+      "secondary_title": "Entomologica Americana",
+      "volume": "4",
+      "spage": "15",
+      "epage": "17",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568003",
+      "PageID": "11465413",
+      "created": "2011-06-03 18:05:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        11465413,
+        11465414,
+        11465415
+      ]
+    },
+    {
+      "reference_id": "60767",
+      "genre": "article",
+      "title": "A revised generic table of the Euryrtominae, with descriptions of new species. Pt I",
+      "secondary_title": "Entomologica Americana",
+      "volume": "4",
+      "spage": "41",
+      "epage": "43",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568003",
+      "PageID": "11465439",
+      "created": "2010-11-23 04:34:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        11465439,
+        11465440,
+        11465441
+      ]
+    },
+    {
+      "reference_id": "67241",
+      "genre": "article",
+      "title": "The determination of Hesperidae",
+      "secondary_title": "Entomologica americana",
+      "volume": "4",
+      "issue": "7",
+      "spage": "142",
+      "epage": "143",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568003",
+      "PageID": "11465540",
+      "created": "2011-05-24 09:28:00",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45489",
+          "lastname": "Aaron",
+          "forename": "Eugene Murray"
+        }
+      ],
+      "bhl_pages": [
+        11465540,
+        11465541
+      ]
+    },
+    {
+      "reference_id": "72995",
+      "genre": "article",
+      "title": "On the Hymenopterous parasites of the strawberry leaf-roller, Phoxopteris comptana, Frol",
+      "secondary_title": "Entomologica Americana",
+      "volume": "4",
+      "spage": "149",
+      "epage": "152",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568003",
+      "PageID": "11465547",
+      "created": "2011-06-04 04:51:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47120",
+          "lastname": "Weed",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        11465547,
+        11465548,
+        11465549,
+        11465550
+      ]
+    }
+  ]
+}

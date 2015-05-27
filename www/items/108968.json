@@ -1,0 +1,67 @@
+{
+  "ItemID": "108968",
+  "FullTitle": "Comptes rendus des s\u00e9ances de la Soci\u00e9t\u00e9 de biologie et de ses filiales.  ",
+  "VolumeInfo": "T. 84 (1921)",
+  "articles": [
+    {
+      "reference_id": "105586",
+      "genre": "article",
+      "title": "Un Sarcoptid\u00e9, nouveau parasite de la Rousette africaine (Eidelon helvum Kerr)",
+      "secondary_title": "Compte Rendu des Seances de la Societe de Biologie Paris",
+      "volume": "84",
+      "spage": "757",
+      "epage": "759",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0037-9026",
+      "PageID": "35037997",
+      "created": "2012-08-02 09:33:05",
+      "updated": "2012-08-02 09:34:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47212",
+          "lastname": "Rodhain",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        35037997,
+        35037998,
+        35037999
+      ]
+    },
+    {
+      "reference_id": "105587",
+      "genre": "article",
+      "title": "Les affinit\u00e9s du Sarcoptid\u00e9 de l'Eidelon helvum",
+      "secondary_title": "Compte Rendu des Seances de la Societe de Biologie Paris",
+      "volume": "84",
+      "spage": "759",
+      "epage": "760",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0037-9026",
+      "PageID": "35037999",
+      "created": "2012-08-02 09:37:40",
+      "updated": "2012-08-02 09:42:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47212",
+          "lastname": "Rodhain",
+          "forename": "J"
+        },
+        {
+          "id": "53272",
+          "lastname": "Gedoelst",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        35037999,
+        35038000
+      ]
+    }
+  ]
+}

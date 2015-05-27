@@ -1,0 +1,36 @@
+{
+  "ItemID": "36037",
+  "FullTitle": "The Entomologist's record and journal of variation.",
+  "VolumeInfo": "v. 1 Apr. 1890\/Mar. 1891",
+  "articles": [
+    {
+      "reference_id": "60665",
+      "genre": "article",
+      "title": "The genus Acronycta and its allies",
+      "secondary_title": "Entomologist's Record and Journal of Variation",
+      "volume": "1",
+      "spage": "1",
+      "epage": "4",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1568053",
+      "PageID": "9017990",
+      "created": "2010-11-23 03:33:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42851",
+          "lastname": "",
+          "forename": "Chapman"
+        }
+      ],
+      "bhl_pages": [
+        9017990,
+        9017991,
+        9017992,
+        9017993
+      ]
+    }
+  ]
+}

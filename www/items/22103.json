@@ -1,0 +1,81 @@
+{
+  "ItemID": "22103",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 37 (1912)",
+  "articles": [
+    {
+      "reference_id": "58474",
+      "genre": "article",
+      "title": "Sur les charact\u00e8res cytologiques et la syst\u00e9matique des amibes du groupe limax (Naegleria nov. gen. et Hartmannia nov. gen.) et des amibes parasites des vertebrates (Protamoeba nov. gen.)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "37",
+      "spage": "55",
+      "epage": "74",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-962X",
+      "PageID": "3047387",
+      "created": "2010-11-20 21:20:47",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42353",
+          "lastname": "Alexeieff",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        3047387,
+        3047388,
+        3047389,
+        3047390,
+        3047391,
+        3047392,
+        3047393,
+        3047394,
+        3047395,
+        3047396,
+        3047397,
+        3047398,
+        3047399,
+        3047400,
+        3047401,
+        3047402,
+        3047403,
+        3047404,
+        3047405,
+        3047406
+      ]
+    },
+    {
+      "reference_id": "102325",
+      "genre": "article",
+      "title": "Isancistrum loliginis n. g. n. sp. Trematode parasite du Calmar et l'inexistence de Solenocotyle chiajei Diesing",
+      "secondary_title": "Bulletin de la Societe Zoologique Paris",
+      "volume": "37",
+      "spage": "96",
+      "epage": "99",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-962X",
+      "PageID": "3047428",
+      "created": "2012-04-03 23:14:32",
+      "updated": "2012-04-03 23:16:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42243",
+          "lastname": "De Beauchamp",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        3047428,
+        3047429,
+        3047430,
+        3047431
+      ]
+    }
+  ]
+}

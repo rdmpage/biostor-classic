@@ -1,0 +1,39 @@
+{
+  "ItemID": "40019",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique d'\u00c9gypte.  ",
+  "VolumeInfo": "v. 3 1912-13",
+  "articles": [
+    {
+      "reference_id": "73026",
+      "genre": "article",
+      "title": "Rhogas kitcheneri n. sp., a new braconid destructive to the Egyptian cotton boll worm",
+      "secondary_title": "Bulletin de la Societe Entomologique d'Egypte",
+      "volume": "1912",
+      "spage": "140",
+      "epage": "141",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1765812",
+      "PageID": "10495140",
+      "created": "2011-06-04 05:02:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39889",
+          "lastname": "Dudgeon",
+          "forename": "G C"
+        },
+        {
+          "id": "39355",
+          "lastname": "Gough",
+          "forename": "L H"
+        }
+      ],
+      "bhl_pages": [
+        10495140,
+        10495141
+      ]
+    }
+  ]
+}

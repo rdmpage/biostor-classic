@@ -1,0 +1,124 @@
+{
+  "ItemID": "22085",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 22 (1890)",
+  "articles": [
+    {
+      "reference_id": "72271",
+      "genre": "article",
+      "title": "Notes on the insect fauna of high altitudes in Custer County, Colorado",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "22",
+      "spage": "37",
+      "epage": "39",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1553087",
+      "PageID": "3040785",
+      "created": "2011-06-04 01:00:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46919",
+          "lastname": "Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        3040785,
+        3040786,
+        3040787
+      ]
+    },
+    {
+      "reference_id": "72867",
+      "genre": "article",
+      "title": "Aphidius granariaphis, n. sp",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "22",
+      "spage": "125",
+      "epage": "126",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0008-347X",
+      "PageID": "3040873",
+      "created": "2011-06-04 04:27:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47099",
+          "lastname": "Cook",
+          "forename": "A J"
+        }
+      ],
+      "bhl_pages": [
+        3040873,
+        3040874
+      ]
+    },
+    {
+      "reference_id": "72259",
+      "genre": "article",
+      "title": "A month on Vancouver Island",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "22",
+      "spage": "169",
+      "epage": "172",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1553087",
+      "PageID": "3040917",
+      "created": "2011-06-04 00:58:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46708",
+          "lastname": "Wickham",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        3040917,
+        3040918,
+        3040919,
+        3040920
+      ]
+    },
+    {
+      "reference_id": "72106",
+      "genre": "article",
+      "title": "On the lists of Coleoptera published by the Geological Survey of Canada, 1842-1888",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "22",
+      "spage": "184",
+      "epage": "191",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1553087",
+      "PageID": "3040932",
+      "created": "2011-06-04 00:32:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46949",
+          "lastname": "Harrington",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3040932,
+        3040933,
+        3040934,
+        3040935,
+        3040936,
+        3040937,
+        3040938,
+        3040939
+      ]
+    }
+  ]
+}

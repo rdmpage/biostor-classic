@@ -1,0 +1,152 @@
+{
+  "ItemID": "32315",
+  "FullTitle": "Transactions of the American Entomological Society",
+  "VolumeInfo": "v. 27 1900\/01",
+  "articles": [
+    {
+      "reference_id": "57572",
+      "genre": "article",
+      "title": "A catalogue of the Diptera of South America.  Part II, Homodactyla and Mydiadae [part]",
+      "secondary_title": "Transactions of the American Entomological Society",
+      "volume": "27",
+      "spage": "121",
+      "epage": "136",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0002-8320",
+      "PageID": "7486275",
+      "created": "2010-11-20 14:00:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42085",
+          "lastname": "Hunter",
+          "forename": "W D"
+        }
+      ],
+      "bhl_pages": [
+        7486275,
+        7486276,
+        7486257,
+        7486258,
+        7486259,
+        7486260,
+        7486261,
+        7486262,
+        7486263,
+        7486264,
+        7486265,
+        7486266,
+        7486152,
+        7486153,
+        7486154,
+        7486155
+      ]
+    },
+    {
+      "reference_id": "69742",
+      "genre": "article",
+      "title": "Random notes on North American Orthoptera",
+      "secondary_title": "Transactions of the American Entomological Society",
+      "volume": "27",
+      "spage": "331",
+      "epage": "337",
+      "year": "YYYY",
+      "date": "0000-00-00",
+      "issn": "0002-8320",
+      "PageID": "7486393",
+      "created": "2011-06-02 06:53:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        7486393,
+        7486394,
+        7486417,
+        7486418,
+        7486409,
+        7486410,
+        7486411
+      ]
+    },
+    {
+      "reference_id": "85834",
+      "genre": "article",
+      "title": "Notes on some Hemiptera from British Guiana",
+      "secondary_title": "Trans. Amer. Entomol. Soc.",
+      "volume": "27",
+      "spage": "343",
+      "epage": "352",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0002-8320",
+      "oclc": "484162162",
+      "PageID": "7486355",
+      "created": "2011-09-11 19:59:21",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45272",
+          "lastname": "Van Duzee",
+          "forename": "Edward P"
+        }
+      ],
+      "bhl_pages": [
+        7486355,
+        7486356,
+        7486347,
+        7486348,
+        7486349,
+        7486350,
+        7486351,
+        7486352,
+        7486353,
+        7486354
+      ]
+    },
+    {
+      "reference_id": "69773",
+      "genre": "article",
+      "title": "A list of neuropteroid insects from Mexico",
+      "secondary_title": "Transactions of the American Entomological Society",
+      "volume": "27",
+      "spage": "361",
+      "epage": "371",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0002-8320",
+      "PageID": "7486425",
+      "created": "2011-06-02 06:56:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        7486425,
+        7486426,
+        7486357,
+        7486358,
+        7486359,
+        7486360,
+        7486361,
+        7486372,
+        7486373,
+        7486374,
+        7486375
+      ]
+    }
+  ]
+}

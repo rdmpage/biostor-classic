@@ -1,0 +1,67 @@
+{
+  "ItemID": "19471",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 7 (1855)",
+  "articles": [
+    {
+      "reference_id": "61390",
+      "genre": "article",
+      "title": "Notice sur un nouveau genre de Crustac\u00e9s de la Scyllarin\u00e9s",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e. Paris",
+      "volume": "7",
+      "spage": "137",
+      "epage": "141",
+      "year": "1855",
+      "date": "1855-00-00",
+      "PageID": "2281062",
+      "created": "2011-01-10 19:37:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43007",
+          "lastname": "Gu\u00e9rin-M\u00e9neville",
+          "forename": "F \u00c9"
+        }
+      ],
+      "bhl_pages": [
+        2281062,
+        2281063,
+        2281064,
+        2281065,
+        2281066
+      ]
+    },
+    {
+      "reference_id": "61307",
+      "genre": "article",
+      "title": "Description de parasite anormaux d'un figuier de l'\u00eele de Bourbon",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e. Paris",
+      "volume": "7",
+      "spage": "365",
+      "epage": "371",
+      "year": "1855",
+      "date": "1855-00-00",
+      "PageID": "2281228",
+      "created": "2011-01-10 17:05:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42980",
+          "lastname": "Coquerel",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        2281228,
+        2281229,
+        2281230,
+        2281231,
+        2281232,
+        2281233,
+        2281234
+      ]
+    }
+  ]
+}

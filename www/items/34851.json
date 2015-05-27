@@ -1,0 +1,36 @@
+{
+  "ItemID": "34851",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 85 (1971-1972)",
+  "articles": [
+    {
+      "reference_id": "65445",
+      "genre": "article",
+      "title": "Conus patae, a new Caribbean gastropod",
+      "secondary_title": "The Nautilus",
+      "volume": "85",
+      "issue": "2",
+      "spage": "49",
+      "epage": "51",
+      "year": "1971",
+      "date": "1971-00-00",
+      "issn": "0028-1344",
+      "PageID": "8516149",
+      "created": "2011-03-04 20:46:10",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1315",
+          "lastname": "Abbott",
+          "forename": "R T"
+        }
+      ],
+      "bhl_pages": [
+        8516149,
+        8516150,
+        8516151
+      ]
+    }
+  ]
+}

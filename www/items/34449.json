@@ -1,0 +1,80 @@
+{
+  "ItemID": "34449",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 9 (1897)",
+  "articles": [
+    {
+      "reference_id": "50292",
+      "genre": "article",
+      "title": "Description of a new genus of terrestrial Isopoda, allied to the genus Phreatoicus",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "9",
+      "spage": "12",
+      "epage": "21",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0035-9211",
+      "PageID": "8362072",
+      "created": "2010-05-10 11:51:02",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39801",
+          "lastname": "Spencer",
+          "forename": "Baldwin"
+        },
+        {
+          "id": "39802",
+          "lastname": "Hall",
+          "forename": "T S"
+        }
+      ],
+      "bhl_pages": [
+        8362072,
+        8362073,
+        8362074,
+        8362075,
+        8362076,
+        8362077,
+        8362078,
+        8362079,
+        8362080,
+        8362081
+      ]
+    },
+    {
+      "reference_id": "49103",
+      "genre": "article",
+      "title": "Description of two new species of lizards from central Australia",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "9",
+      "spage": "54",
+      "epage": "56",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0035-9211",
+      "PageID": "8362120",
+      "created": "2010-03-21 11:17:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39353",
+          "lastname": "Lucas",
+          "forename": "A H S"
+        },
+        {
+          "id": "39382",
+          "lastname": "Frost.",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8362120,
+        8362121,
+        8362122
+      ]
+    }
+  ]
+}

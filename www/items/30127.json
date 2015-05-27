@@ -1,0 +1,132 @@
+{
+  "ItemID": "30127",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 51 (1899)",
+  "articles": [
+    {
+      "reference_id": "67174",
+      "genre": "article",
+      "title": "Notes on a small collection of Chinese fishes",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "51",
+      "spage": "179",
+      "epage": "182",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0097-3157",
+      "PageID": "6389346",
+      "created": "2011-05-19 09:51:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10212",
+          "lastname": "Fowler",
+          "forename": "Henry W"
+        }
+      ],
+      "bhl_pages": [
+        6389346,
+        6389347,
+        6389348,
+        6389349
+      ]
+    },
+    {
+      "reference_id": "69208",
+      "genre": "article",
+      "title": "A small collection of batrachians and reptiles from eastern Mongolia",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1899",
+      "spage": "183",
+      "epage": "184",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0097-3157",
+      "PageID": "6389350",
+      "created": "2011-06-01 08:39:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46218",
+          "lastname": "Stone",
+          "forename": "Witmer"
+        }
+      ],
+      "bhl_pages": [
+        6389350,
+        6389351
+      ]
+    },
+    {
+      "reference_id": "60374",
+      "genre": "article",
+      "title": "Some notes on Coccidae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1899",
+      "spage": "259",
+      "epage": "275",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0097-3157",
+      "PageID": "6389444",
+      "created": "2010-11-22 23:35:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        6389444,
+        6389445,
+        6389446,
+        6389447,
+        6389448,
+        6389449,
+        6389450,
+        6389451,
+        6389452,
+        6389453,
+        6389454,
+        6389455,
+        6389456,
+        6389457,
+        6389458,
+        6389459,
+        6389460
+      ]
+    },
+    {
+      "reference_id": "57590",
+      "genre": "article",
+      "title": "A new species of Thersites",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1899",
+      "spage": "473",
+      "epage": "474",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0097-3157",
+      "PageID": "6389672",
+      "created": "2010-11-20 14:05:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42094",
+          "lastname": "Pilsbry",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        6389672,
+        6389673
+      ]
+    }
+  ]
+}

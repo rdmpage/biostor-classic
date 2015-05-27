@@ -1,0 +1,142 @@
+{
+  "ItemID": "34124",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France.  ",
+  "VolumeInfo": "1904",
+  "articles": [
+    {
+      "reference_id": "103724",
+      "genre": "article",
+      "title": "Descriptions des nouveaux Sphingides",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1904",
+      "spage": "76",
+      "epage": "79",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0037-928X",
+      "PageID": "8229044",
+      "created": "2012-05-24 14:42:25",
+      "updated": "2012-05-24 14:42:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8229044,
+        8229045,
+        8229046,
+        8229047
+      ]
+    },
+    {
+      "reference_id": "103712",
+      "genre": "article",
+      "title": "Deux nouvelles especes de Thrombidium de France",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1904",
+      "spage": "91",
+      "epage": "97",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0037-928X",
+      "PageID": "8229059",
+      "created": "2012-05-24 14:41:36",
+      "updated": "2012-05-24 14:41:36",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8229059,
+        8229060,
+        8229061,
+        8229062,
+        8229063,
+        8229064,
+        8229065
+      ]
+    },
+    {
+      "reference_id": "72855",
+      "genre": "article",
+      "title": "Sur l'Agromyza simplex H. Loew parasite d'Asperge (Diptera)",
+      "secondary_title": "Bulletin de la Societe Entomologique de France",
+      "volume": "1904",
+      "spage": "179",
+      "epage": "181",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1765811",
+      "PageID": "8229147",
+      "created": "2011-06-04 04:26:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42115",
+          "lastname": "Giard",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8229147,
+        8229148,
+        8229149
+      ]
+    },
+    {
+      "reference_id": "104909",
+      "genre": "article",
+      "title": "Sur les organes g\u00e9nitaux m\u00e2les du Peripatus tholloni Bouv. [Onych.]",
+      "secondary_title": "Bulletin De La Soci\u00e9t\u00e9 Entomologique De France",
+      "volume": "1904",
+      "spage": "192",
+      "epage": "193",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1765811",
+      "PageID": "8229160",
+      "created": "2012-06-29 09:56:00",
+      "updated": "2012-06-29 09:56:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        8229160,
+        8229161
+      ]
+    },
+    {
+      "reference_id": "72872",
+      "genre": "article",
+      "title": "Ichneumoniens d'Espagne et des Canaries (Hymen.)",
+      "secondary_title": "Bulletin de la Societe Entomologique de France",
+      "volume": "1904",
+      "spage": "270",
+      "epage": "271",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1765811",
+      "PageID": "8229238",
+      "created": "2011-06-04 04:29:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46280",
+          "lastname": "Berthoumieu",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        8229238,
+        8229239
+      ]
+    }
+  ]
+}

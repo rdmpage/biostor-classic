@@ -1,0 +1,213 @@
+{
+  "ItemID": "36493",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 46 = 2nd ser. v. 21 1910",
+  "articles": [
+    {
+      "reference_id": "53086",
+      "genre": "article",
+      "title": "Diptera taken at Mortehoe, north Devon",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "46",
+      "spage": "74",
+      "epage": "79",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9270708",
+      "created": "2010-10-26 10:43:33",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39914",
+          "lastname": "Longstaff",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        9270708,
+        9270709,
+        9270710,
+        9270711,
+        9270712,
+        9270713
+      ]
+    },
+    {
+      "reference_id": "71987",
+      "genre": "article",
+      "title": "Description of two new species of the longicorn genus Pentomacrus",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "46",
+      "spage": "135",
+      "epage": "136",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1568052",
+      "PageID": "9270783",
+      "created": "2011-06-03 23:59:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39469",
+          "lastname": "Cameron",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        9270783,
+        9270784
+      ]
+    },
+    {
+      "reference_id": "105181",
+      "genre": "article",
+      "title": "On the British species of Phora",
+      "secondary_title": "Entomol. Mon. Mag.",
+      "volume": "46",
+      "spage": "149",
+      "epage": "154",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8908",
+      "PageID": "9270801",
+      "created": "2012-07-08 17:46:33",
+      "updated": "2012-07-08 17:54:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53963",
+          "lastname": "Wood",
+          "forename": "John H"
+        }
+      ],
+      "bhl_pages": [
+        9270801,
+        9270802,
+        9270803,
+        9270804,
+        9270805,
+        9270806
+      ]
+    },
+    {
+      "reference_id": "105183",
+      "genre": "article",
+      "title": "On the British species of Phora",
+      "secondary_title": "Entomol. Mon. Mag.",
+      "volume": "46",
+      "spage": "195",
+      "epage": "202",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8908",
+      "PageID": "9270851",
+      "created": "2012-07-08 17:56:25",
+      "updated": "2012-07-08 17:56:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9270851,
+        9270852,
+        9270853,
+        9270854,
+        9270855,
+        9270856,
+        9270857,
+        9270858
+      ]
+    },
+    {
+      "reference_id": "105184",
+      "genre": "article",
+      "title": "On the British species of Phora",
+      "secondary_title": "Entomol. Mon. Mag.",
+      "volume": "46",
+      "spage": "243",
+      "epage": "249",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0013-8908",
+      "PageID": "9270911",
+      "created": "2012-07-08 18:00:12",
+      "updated": "2012-07-08 18:02:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53963",
+          "lastname": "Wood",
+          "forename": "John H"
+        }
+      ],
+      "bhl_pages": [
+        9270911,
+        9270912,
+        9270913,
+        9270914,
+        9270915,
+        9270916,
+        9270917
+      ]
+    },
+    {
+      "reference_id": "67193",
+      "genre": "article",
+      "title": "Three species of Thysanoptera (Tubulifera) new to the British fauna",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "46",
+      "spage": "255",
+      "epage": "256",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1568052",
+      "PageID": "9270927",
+      "created": "2011-05-19 12:17:26",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9270927,
+        9270928
+      ]
+    },
+    {
+      "reference_id": "66669",
+      "genre": "article",
+      "title": "Madeiran Tineina (Lepidoptera)",
+      "secondary_title": "Entomologist's Monthly Magazine.",
+      "volume": "46",
+      "spage": "257",
+      "epage": "259",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1568052",
+      "PageID": "9270929",
+      "created": "2011-05-08 06:34:01",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45285",
+          "lastname": "Walsingham",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        9270929,
+        9270930,
+        9270931
+      ]
+    }
+  ]
+}

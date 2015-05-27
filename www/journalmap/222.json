@@ -1,0 +1,57 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    },
+    {
+      "firstname": "Luis A",
+      "lastname": "Coloma",
+      "name": "Luis A Coloma"
+    }
+  ],
+  "type": "article",
+  "title": "Hyla staufferorum, a new species of treefrog in the Hyla larinopygion group from the cloud forests of Ecuador",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "161",
+    "pages": "1--11",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1993",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/222"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4488531"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 222
+    },
+    {
+      "type": "bhl",
+      "id": 4488531
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -77.883333333333,
+        -0.55
+      ]
+    ]
+  }
+}

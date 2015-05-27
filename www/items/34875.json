@@ -1,0 +1,108 @@
+{
+  "ItemID": "34875",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 72 (1958-1959)",
+  "articles": [
+    {
+      "reference_id": "101192",
+      "genre": "article",
+      "title": "The land snail genus Microconus",
+      "secondary_title": "Nautilus",
+      "volume": "72",
+      "spage": "5",
+      "epage": "10",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0028-1344",
+      "PageID": "8521034",
+      "created": "2012-03-12 12:00:46",
+      "updated": "2012-03-12 12:00:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8521034,
+        8521035,
+        8521036,
+        8521037,
+        8521038,
+        8521039
+      ]
+    },
+    {
+      "reference_id": "59773",
+      "genre": "article",
+      "title": "New land snail from Queensland",
+      "secondary_title": "The Nautilus",
+      "volume": "72",
+      "spage": "20",
+      "epage": "22",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0028-1344",
+      "PageID": "8521051",
+      "created": "2010-11-22 15:52:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1012",
+          "lastname": "Solem",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8521051,
+        8521052,
+        8521053
+      ]
+    },
+    {
+      "reference_id": "101189",
+      "genre": "article",
+      "title": "A new operculate land snail from Haiti",
+      "secondary_title": "Nautilus",
+      "volume": "72",
+      "spage": "111",
+      "epage": "113",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0028-1344",
+      "PageID": "8521158",
+      "created": "2012-03-12 12:00:24",
+      "updated": "2012-03-12 12:00:24",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8521158,
+        8521159,
+        8521160
+      ]
+    },
+    {
+      "reference_id": "101193",
+      "genre": "article",
+      "title": "A new Spiralis from Guatemala",
+      "secondary_title": "Nautilus",
+      "volume": "72",
+      "spage": "115",
+      "epage": "115",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0028-1344",
+      "PageID": "8521162",
+      "created": "2012-03-12 12:00:52",
+      "updated": "2012-03-12 12:00:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8521162
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ItemID": "21238",
+  "FullTitle": "Amphibians and reptiles of Yemen \/  Karl P. Schmidt.",
+  "VolumeInfo": "v.34:no.24(1953)",
+  "articles": [
+    {
+      "reference_id": "51929",
+      "genre": "article",
+      "title": "Amphibians and reptiles of Yemen",
+      "secondary_title": "Fieldiana. Zoology",
+      "volume": "34",
+      "spage": "253",
+      "epage": "261",
+      "year": "1953",
+      "date": "1953-00-00",
+      "issn": "0015-0754",
+      "PageID": "2826724",
+      "created": "2010-06-27 10:54:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1081",
+          "lastname": "Schmidt",
+          "forename": "K P"
+        }
+      ],
+      "bhl_pages": [
+        2826724,
+        2826702,
+        2826710,
+        2826711,
+        2826712,
+        2826713,
+        2826714,
+        2826715,
+        2826716
+      ]
+    }
+  ]
+}

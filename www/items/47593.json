@@ -1,0 +1,122 @@
+{
+  "ItemID": "47593",
+  "FullTitle": "Verhandlungen der Kaiserlich-K\u00f6niglichen Zoologisch-Botanischen Gesellschaft in Wien.  ",
+  "VolumeInfo": "Bd. 58 (1908)",
+  "articles": [
+    {
+      "reference_id": "72896",
+      "genre": "article",
+      "title": "Una nuova specie di Pezomachus",
+      "secondary_title": "Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien",
+      "volume": "58",
+      "spage": "31",
+      "epage": "32",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0084-5647",
+      "PageID": "13250097",
+      "created": "2011-06-04 04:39:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47107",
+          "lastname": "Cobelli",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        13250097,
+        13250098
+      ]
+    },
+    {
+      "reference_id": "53182",
+      "genre": "article",
+      "title": "Nouvelle classification des mouches a deux ailes (Diptera L.). Dapres un plan tout nouveau par J. G. Meigen, Paris, an VIII (1800 v.s.). Mit einem Kommentar",
+      "secondary_title": "Verhandlungen der Kaiserlich-Koniglichen Zoologisch-Botanischen Gesellschaft in Wien",
+      "volume": "58",
+      "spage": "43",
+      "epage": "69",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "5759771",
+      "PageID": "13250109",
+      "created": "2010-10-26 17:03:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39480",
+          "lastname": "Hendel",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        13250109,
+        13250110,
+        13250111,
+        13250112,
+        13250113,
+        13250114,
+        13250115,
+        13250116,
+        13250117,
+        13250118,
+        13250119,
+        13250120,
+        13250121,
+        13250122,
+        13250123,
+        13250124,
+        13250125,
+        13250126,
+        13250127,
+        13250128,
+        13250129,
+        13250130,
+        13250131,
+        13250132,
+        13250133,
+        13250134,
+        13250135
+      ]
+    },
+    {
+      "reference_id": "71340",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Orthopterenfauna Bosniens und der Herzegowina",
+      "secondary_title": "Verhandlungen der Kaiserlich-K\u00f6niglichen Zoologisch-Botanischen Gesellschaft in Wien",
+      "volume": "58",
+      "spage": "329",
+      "epage": "339",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "5759771",
+      "PageID": "13250397",
+      "created": "2011-06-03 19:27:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46803",
+          "lastname": "",
+          "forename": "Ebner"
+        }
+      ],
+      "bhl_pages": [
+        13250397,
+        13250398,
+        13250399,
+        13250400,
+        13250401,
+        13250402,
+        13250403,
+        13250404,
+        13250405,
+        13250406,
+        13250407
+      ]
+    }
+  ]
+}

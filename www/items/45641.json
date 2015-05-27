@@ -1,0 +1,91 @@
+{
+  "ItemID": "45641",
+  "FullTitle": "Deutsche entomologische Zeitschrift Iris \/  herausgegeben vom Entomologischen Verein Iris zu Dresden.",
+  "VolumeInfo": "bd. 17 1904",
+  "articles": [
+    {
+      "reference_id": "71076",
+      "genre": "article",
+      "title": "Neue Tagfalter aus Deutsch-Ost-Afrika",
+      "secondary_title": "Deutsche Entomologische Zeitschrift Iris",
+      "volume": "17",
+      "spage": "124",
+      "epage": "132",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1695863",
+      "PageID": "12683119",
+      "created": "2011-06-03 17:38:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46738",
+          "lastname": "Suffert",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12683119,
+        12683120,
+        12683121,
+        12683122,
+        12683123,
+        12683124,
+        12683125,
+        12683126,
+        12683127
+      ]
+    },
+    {
+      "reference_id": "57883",
+      "genre": "article",
+      "title": "Neue Indo-Australische Lepidopteren",
+      "secondary_title": "Deutsche Entomologische Zeitschrift",
+      "volume": "17",
+      "spage": "133",
+      "epage": "157",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0012-0073",
+      "PageID": "12683128",
+      "created": "2010-11-20 15:20:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12683128,
+        12683129,
+        12683130,
+        12683131,
+        12683132,
+        12683133,
+        12683134,
+        12683135,
+        12683136,
+        12683137,
+        12683138,
+        12683139,
+        12683140,
+        12683141,
+        12683142,
+        12683143,
+        12683144,
+        12683145,
+        12683146,
+        12683147,
+        12683148,
+        12683149,
+        12683150,
+        12683151,
+        12683152
+      ]
+    }
+  ]
+}

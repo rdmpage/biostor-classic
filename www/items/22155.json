@@ -1,0 +1,119 @@
+{
+  "ItemID": "22155",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 19 (1894)",
+  "articles": [
+    {
+      "reference_id": "103360",
+      "genre": "article",
+      "title": "Sur quelques especea de Mollusquea et sur un genre nouveau du Lac Tanganika",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "19",
+      "spage": "28",
+      "epage": "29",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0037-962X",
+      "PageID": "3070871",
+      "created": "2012-05-21 13:21:34",
+      "updated": "2012-05-21 13:21:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3070871,
+        3071007
+      ]
+    },
+    {
+      "reference_id": "61365",
+      "genre": "article",
+      "title": "Note sur les c\u00e9phalopodes recueillis dans l'estomac d'un dauphin de la Mediterran\u00e9e",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "19",
+      "spage": "61",
+      "epage": "68",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0037-962X",
+      "PageID": "3071016",
+      "created": "2011-01-10 19:19:03",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42141",
+          "lastname": "Joubin",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        3071016,
+        3070935,
+        3071017,
+        3070880,
+        3070936,
+        3070937,
+        3071018,
+        3070938
+      ]
+    },
+    {
+      "reference_id": "103361",
+      "genre": "article",
+      "title": "Description d'une Planaire terrestre du Tonkin",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "19",
+      "spage": "100",
+      "epage": "101",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0037-962X",
+      "PageID": "3070951",
+      "created": "2012-05-21 13:21:39",
+      "updated": "2012-05-21 13:21:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3070951,
+        3070886
+      ]
+    },
+    {
+      "reference_id": "97373",
+      "genre": "article",
+      "title": "Neolithodes, genre nouveau de la sous-famille des Lithodin\u00e9s",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "19",
+      "spage": "120",
+      "epage": "122",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0037-962X",
+      "PageID": "3070891",
+      "created": "2011-10-14 20:44:32",
+      "updated": "2011-10-14 20:47:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45097",
+          "lastname": "Milne-Edwards",
+          "forename": "A"
+        },
+        {
+          "id": "8509",
+          "lastname": "Bouvier",
+          "forename": "E L"
+        }
+      ],
+      "bhl_pages": [
+        3070891,
+        3070892,
+        3071030
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "ItemID": "22175",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 23 (1898)",
+  "articles": [
+    {
+      "reference_id": "70901",
+      "genre": "article",
+      "title": "Les Lamellicornes coprophages des iles Mascareignes et Sechelles",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France. Paris",
+      "volume": "23",
+      "spage": "63",
+      "epage": "67",
+      "year": "1898",
+      "date": "1898-00-00",
+      "oclc": "1715809",
+      "PageID": "3077736",
+      "created": "2011-06-03 16:47:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42327",
+          "lastname": "Alluaud",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        3077736,
+        3077658,
+        3077579,
+        3077659,
+        3077630
+      ]
+    },
+    {
+      "reference_id": "103355",
+      "genre": "article",
+      "title": "Gordiens du Mexique",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "23",
+      "spage": "73",
+      "epage": "76",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0037-962X",
+      "PageID": "3077661",
+      "created": "2012-05-21 13:21:14",
+      "updated": "2012-05-21 13:21:14",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3077661,
+        3077632,
+        3077577,
+        3077633
+      ]
+    },
+    {
+      "reference_id": "104153",
+      "genre": "article",
+      "title": "Note sur les isopodes terrestres du S\u00e9n\u00e9gal",
+      "secondary_title": "Bulletin de la Societe Zoologique de France",
+      "volume": "23",
+      "spage": "122",
+      "epage": "126",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0037-962X",
+      "oclc": "1715809",
+      "PageID": "3077756",
+      "created": "2012-06-09 21:43:00",
+      "updated": "2012-06-09 21:47:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53825",
+          "lastname": "Dollfus",
+          "forename": "Adrien"
+        }
+      ],
+      "bhl_pages": [
+        3077756,
+        3077638,
+        3077584,
+        3077639,
+        3077757
+      ]
+    },
+    {
+      "reference_id": "104154",
+      "genre": "article",
+      "title": "Voyage de M. Gaston Buchet aux Iles Canaries et sur les cotes meridionales du Maroc (1896 & 1897). Isopodes terrestres",
+      "secondary_title": "Bulletin de la Societe Zoologique de France",
+      "volume": "23",
+      "spage": "131",
+      "epage": "135",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0037-962X",
+      "PageID": "3077759",
+      "created": "2012-06-09 21:49:02",
+      "updated": "2012-06-09 21:49:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53825",
+          "lastname": "Dollfus",
+          "forename": "Adrien"
+        }
+      ],
+      "bhl_pages": [
+        3077759,
+        3077669,
+        3077670,
+        3077714,
+        3077607
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "ItemID": "40693",
+  "FullTitle": "Bulletin biologique de la France et de la Belgique.  ",
+  "VolumeInfo": "t. 41 (1907)",
+  "articles": [
+    {
+      "reference_id": "67024",
+      "genre": "article",
+      "title": "Les Myrm\u00e9l\u00e9onides de Madagascar",
+      "secondary_title": "Bulletin Scientifique [or Biologique] de la France et de la Belgique",
+      "volume": "41",
+      "spage": "249",
+      "epage": "278",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1537693",
+      "PageID": "10726153",
+      "created": "2011-05-11 21:11:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45422",
+          "lastname": "Van Der Weele",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        10726153,
+        10726154,
+        10726155,
+        10726156,
+        10726157,
+        10726158,
+        10726159,
+        10726160,
+        10726161,
+        10726162,
+        10726163,
+        10726164,
+        10726165,
+        10726166,
+        10726167,
+        10726168,
+        10726169,
+        10726170,
+        10726171,
+        10726172,
+        10726173,
+        10726174,
+        10726175,
+        10726176,
+        10726177,
+        10726178,
+        10726179,
+        10726180,
+        10726181,
+        10726182
+      ]
+    },
+    {
+      "reference_id": "73029",
+      "genre": "article",
+      "title": "Mission J. Bonnier et Ch. Perez (Golfe Persique, 1901). II. Hymenopteres",
+      "secondary_title": "Bulletin Scient. France Belgique",
+      "volume": "41",
+      "spage": "485",
+      "epage": "505",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1537693",
+      "PageID": "10726389",
+      "created": "2011-06-04 05:02:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47126",
+          "lastname": "Perez",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        10726389,
+        10726390,
+        10726391,
+        10726392,
+        10726393,
+        10726394,
+        10726395,
+        10726396,
+        10726397,
+        10726398,
+        10726399,
+        10726400,
+        10726401,
+        10726402,
+        10726403,
+        10726404,
+        10726405,
+        10726406,
+        10726407,
+        10726408,
+        10726409
+      ]
+    }
+  ]
+}

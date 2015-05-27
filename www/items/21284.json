@@ -1,0 +1,39 @@
+{
+  "ItemID": "21284",
+  "FullTitle": "Amphibians and reptiles from the Sudan,  by Karl P. Schmidt.",
+  "VolumeInfo": "v.24:no.29(1943)",
+  "articles": [
+    {
+      "reference_id": "49058",
+      "genre": "article",
+      "title": "Amphibians and reptiles from the Sudan",
+      "secondary_title": "Field Mus. nat. Hist (ser. zool.)",
+      "volume": "24",
+      "spage": "331",
+      "epage": "338",
+      "year": "1943",
+      "date": "1943-00-00",
+      "PageID": "2833219",
+      "created": "2010-03-21 11:08:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1081",
+          "lastname": "Schmidt",
+          "forename": "K P"
+        }
+      ],
+      "bhl_pages": [
+        2833219,
+        2833200,
+        2833208,
+        2833209,
+        2833210,
+        2833211,
+        2833212,
+        2833213
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "ItemID": "27778",
+  "FullTitle": "Bolet\u00edn de la Sociedad Espa\u00f1ola de Historia Natural.",
+  "VolumeInfo": "t. 12 (1912)",
+  "articles": [
+    {
+      "reference_id": "71724",
+      "genre": "article",
+      "title": "Afelininos espa\u00f1oles",
+      "secondary_title": "Boletin de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "12",
+      "spage": "213",
+      "epage": "215",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "2450616",
+      "PageID": "5320850",
+      "created": "2011-06-03 22:56:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46836",
+          "lastname": "Mercet",
+          "forename": "R G"
+        }
+      ],
+      "bhl_pages": [
+        5320850,
+        5320851,
+        5320852
+      ]
+    },
+    {
+      "reference_id": "71749",
+      "genre": "article",
+      "title": "Mim\u00e1ridos nuevos de Espa\u00f1a",
+      "secondary_title": "Boletin de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "12",
+      "spage": "331",
+      "epage": "337",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "2450616",
+      "PageID": "5320971",
+      "created": "2011-06-03 23:01:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46836",
+          "lastname": "Mercet",
+          "forename": "R G"
+        }
+      ],
+      "bhl_pages": [
+        5320971,
+        5320972,
+        5320973,
+        5320974,
+        5320975,
+        5320976,
+        5320922
+      ]
+    },
+    {
+      "reference_id": "70911",
+      "genre": "article",
+      "title": "Datos para la fauna de la provincia de Ciudad Real. XXII. Col\u00e9opteros",
+      "secondary_title": "Boletin de la Real Sociedad Espanola de Historia Natural",
+      "volume": "12",
+      "spage": "358",
+      "epage": "366",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0583-7499",
+      "PageID": "5320998",
+      "created": "2011-06-03 16:52:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46684",
+          "lastname": "De La J.m.",
+          "forename": "Fuente"
+        }
+      ],
+      "bhl_pages": [
+        5320998,
+        5320955,
+        5320956,
+        5320957,
+        5320958,
+        5320959,
+        5320960,
+        5320961,
+        5320962
+      ]
+    }
+  ]
+}

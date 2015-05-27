@@ -1,0 +1,220 @@
+{
+  "ItemID": "27190",
+  "FullTitle": "Bulletin du Muse\u0301um national d'histoire naturelle.",
+  "VolumeInfo": "t.7 1901",
+  "articles": [
+    {
+      "reference_id": "66162",
+      "genre": "article",
+      "title": "Poissons recueillis par M. L\u00e9on Diguet dans le Golfe de Californie",
+      "secondary_title": "Bulletin Du Mus\u00e9um National D'histoire Naturelle",
+      "volume": "7",
+      "spage": "160",
+      "epage": "167",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "2391669",
+      "PageID": "5029067",
+      "created": "2011-05-05 17:39:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5029067,
+        5029068,
+        5029069,
+        5029070,
+        5029071,
+        5029072,
+        5029073,
+        5029074
+      ]
+    },
+    {
+      "reference_id": "67377",
+      "genre": "article",
+      "title": "Poissons recueillis par M. L. Diguet, dans l\u2019\u00c9tat de Jalisco (Mexique)",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "7",
+      "spage": "204",
+      "epage": "207",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "5297845",
+      "PageID": "5029111",
+      "created": "2011-05-26 14:25:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5029111,
+        5029112,
+        5029113,
+        5029114
+      ]
+    },
+    {
+      "reference_id": "67267",
+      "genre": "article",
+      "title": "Description d\u2019un poisson nouveau de l\u2019Oubangui, appartenant au genre Barilius",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "7",
+      "spage": "250",
+      "epage": "251",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "5297845",
+      "PageID": "5029157",
+      "created": "2011-05-25 07:35:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5029157,
+        5029158
+      ]
+    },
+    {
+      "reference_id": "49155",
+      "genre": "article",
+      "title": "Note pr\u00e9liminaire sur une collection de reptiles et de batraciens recueillis par M. Alluaud dans le sud de Madagascar",
+      "secondary_title": "Bull. Mus. nation. Hist. nat., Paris",
+      "volume": "7",
+      "spage": "251",
+      "epage": "256",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1761888",
+      "PageID": "5029158",
+      "created": "2010-03-21 11:42:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39397",
+          "lastname": "Mocquard",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        5029158,
+        5029159,
+        5029160,
+        5029161,
+        5029162,
+        5029163
+      ]
+    },
+    {
+      "reference_id": "20660",
+      "genre": "article",
+      "title": "Poissons nouveaux ou rares du Congo fran\u00e7ais",
+      "secondary_title": "Bulletin du Mus\u00e9um d'Histoire Naturelle, Paris",
+      "volume": "7",
+      "spage": "328",
+      "epage": "332",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "2391669",
+      "PageID": "5029235",
+      "created": "2010-02-09 18:24:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5029235,
+        5029236,
+        5029237,
+        5029238,
+        5029239
+      ]
+    },
+    {
+      "reference_id": "67266",
+      "genre": "article",
+      "title": "Poissons nouveaux ou rares du Tonkin",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "56",
+      "spage": "18",
+      "epage": "27",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "5297845",
+      "PageID": "5029235",
+      "created": "2011-05-25 07:34:44",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5029235,
+        5029236,
+        5029237,
+        5029238,
+        5029239,
+        5029240,
+        5029241,
+        5029242,
+        5029243,
+        5029244
+      ]
+    },
+    {
+      "reference_id": "103395",
+      "genre": "article",
+      "title": "Sur quelques Crustac\u00e9s du Japon, offerts au Mus\u00e9um par M. le Dr. Harmand",
+      "secondary_title": "Bulletin du Museum d'Histoire Naturelle, Paris",
+      "volume": "7",
+      "spage": "332",
+      "epage": "334",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "1148-8425",
+      "PageID": "5029239",
+      "created": "2012-05-21 22:26:53",
+      "updated": "2012-05-21 22:30:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        5029239,
+        5029240,
+        5029241
+      ]
+    }
+  ]
+}

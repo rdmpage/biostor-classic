@@ -1,0 +1,110 @@
+{
+  "ItemID": "27600",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 13 (1888)",
+  "articles": [
+    {
+      "reference_id": "103373",
+      "genre": "article",
+      "title": "Description d'une nouvelle espece du genre Edwardsia, Quatrefages",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "13",
+      "spage": "22",
+      "epage": "23",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0037-962X",
+      "PageID": "5224783",
+      "created": "2012-05-21 13:23:15",
+      "updated": "2012-05-21 13:23:15",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5224783,
+        5224869
+      ]
+    },
+    {
+      "reference_id": "104157",
+      "genre": "article",
+      "title": "Troisi\u00e8me campagne de l\u2019Hirondelle. Sur quelques crustac\u00e9s isopodes du littoral des A\u00e7ores",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "13",
+      "spage": "35",
+      "epage": "36",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0037-962X",
+      "PageID": "5224780",
+      "created": "2012-06-09 22:28:46",
+      "updated": "2012-06-09 22:31:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53825",
+          "lastname": "Dollfus",
+          "forename": "Adrien"
+        }
+      ],
+      "bhl_pages": [
+        5224780,
+        5224779
+      ]
+    },
+    {
+      "reference_id": "103365",
+      "genre": "article",
+      "title": "Description d'un nouvel Ixodide",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "13",
+      "spage": "129",
+      "epage": "133",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0037-962X",
+      "PageID": "5224838",
+      "created": "2012-05-21 13:22:12",
+      "updated": "2012-05-21 13:22:12",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5224838,
+        5224839,
+        5224841,
+        5224737,
+        5224842
+      ]
+    },
+    {
+      "reference_id": "50372",
+      "genre": "article",
+      "title": "Essai sur la transmission de la coloration chez les batraciens anoures",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "13",
+      "spage": "205",
+      "epage": "206",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0037-962X",
+      "PageID": "5224962",
+      "created": "2010-06-22 10:06:02",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39841",
+          "lastname": "Her\u00f3n-Royer",
+          "forename": "L F"
+        }
+      ],
+      "bhl_pages": [
+        5224962,
+        5224963
+      ]
+    }
+  ]
+}

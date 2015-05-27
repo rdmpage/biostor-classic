@@ -1,0 +1,108 @@
+{
+  "ItemID": "53281",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "3rd ser. v. 8 (1861)",
+  "articles": [
+    {
+      "reference_id": "60116",
+      "genre": "article",
+      "title": "On the morphology of some Amphipoda of the division Hyperina",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "3",
+      "spage": "1",
+      "epage": "16",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "15602049",
+      "created": "2010-11-22 19:31:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42757",
+          "lastname": "Bate",
+          "forename": "C S"
+        }
+      ],
+      "bhl_pages": [
+        15602049,
+        15602048,
+        15602047,
+        15602014,
+        15602015,
+        15602016,
+        15602017,
+        15602018,
+        15602019,
+        15602020,
+        15602021,
+        15602022,
+        15602023,
+        15602024,
+        15602025,
+        15602026
+      ]
+    },
+    {
+      "reference_id": "49296",
+      "genre": "article",
+      "title": "Second list of Siamese reptiles",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "8",
+      "series": "3",
+      "spage": "266",
+      "epage": "268",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "15602295",
+      "created": "2010-03-21 13:24:54",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15602295,
+        15602296,
+        15602297
+      ]
+    },
+    {
+      "reference_id": "13636",
+      "genre": "article",
+      "title": "On a supposed new genus and on some new species of pelagic Mollusca",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "3",
+      "spage": "401",
+      "epage": "404",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "15602430",
+      "created": "2010-01-11 17:50:02",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10067",
+          "lastname": "Adams",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        15602430,
+        15602431,
+        15602432,
+        15602433
+      ]
+    }
+  ]
+}

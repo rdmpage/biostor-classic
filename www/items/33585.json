@@ -1,0 +1,68 @@
+{
+  "ItemID": "33585",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 5-6 1924-25",
+  "articles": [
+    {
+      "reference_id": "61969",
+      "genre": "article",
+      "title": "Two new genera of Bambusaceae, with special remarks on the related genera growing in eatsern Asia",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "6",
+      "spage": "145",
+      "epage": "153",
+      "year": "1925",
+      "date": "1925-00-00",
+      "issn": "0004-2625",
+      "PageID": "8367863",
+      "created": "2011-01-26 19:14:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43232",
+          "lastname": "Nakai",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        8367863,
+        8367864,
+        8367865,
+        8367866,
+        8367867,
+        8367868,
+        8367869,
+        8367870,
+        8367871
+      ]
+    },
+    {
+      "reference_id": "61881",
+      "genre": "article",
+      "title": "Syringa rugulosa, a new species from Western China",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "6",
+      "spage": "153",
+      "epage": "154",
+      "year": "1925",
+      "date": "1925-00-00",
+      "issn": "0004-2625",
+      "PageID": "8367871",
+      "created": "2011-01-26 19:03:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43205",
+          "lastname": "Mckelvey",
+          "forename": "Susan"
+        }
+      ],
+      "bhl_pages": [
+        8367871,
+        8367872
+      ]
+    }
+  ]
+}

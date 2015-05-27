@@ -1,0 +1,749 @@
+{
+  "ItemID": "32626",
+  "FullTitle": "Proceedings of the United States National Museum.",
+  "VolumeInfo": "v. 1 1878",
+  "articles": [
+    {
+      "reference_id": "78415",
+      "genre": "article",
+      "title": "Notes on the American species of the genus Cybium",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "1",
+      "spage": "3",
+      "epage": "5",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642045",
+      "created": "2011-06-30 15:03:20",
+      "updated": "2011-06-30 15:03:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49652",
+          "lastname": "Poey",
+          "forename": "Felipe"
+        }
+      ],
+      "bhl_pages": [
+        7642045,
+        7642044,
+        7642043
+      ]
+    },
+    {
+      "reference_id": "78418",
+      "genre": "article",
+      "title": "The Clupea tyrannus of Latrobe",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "1",
+      "spage": "5",
+      "epage": "6",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642043",
+      "created": "2011-06-30 15:03:44",
+      "updated": "2011-06-30 15:03:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        7642043,
+        7642042
+      ]
+    },
+    {
+      "reference_id": "14469",
+      "genre": "article",
+      "title": "A revision of the American species of the genus Brevoortia, with a description of a new species from the Gulf of Mexico",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "30",
+      "epage": "42",
+      "year": "1878",
+      "date": "1878-09-12",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:B1393163-391B-4C70-A009-DACF8D6FA07F",
+      "PageID": "7642079",
+      "created": "2010-01-14 14:41:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        7642079,
+        7642078,
+        7642166,
+        7642165,
+        7642164,
+        7642163,
+        7642162,
+        7642161,
+        7642160,
+        7642159,
+        7642158,
+        7642157,
+        7642026
+      ]
+    },
+    {
+      "reference_id": "14467",
+      "genre": "article",
+      "title": "Description of Caulolatilus microps, a new species of fish from the Gulf Coast of Florida",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "42",
+      "epage": "45",
+      "year": "1878",
+      "date": "1878-09-12",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:AA3A4C12-FA38-48CB-9201-94EE18AE6CC1",
+      "PageID": "7642026",
+      "created": "2010-01-14 14:38:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7642026,
+        7642025,
+        7642024,
+        7642023
+      ]
+    },
+    {
+      "reference_id": "78413",
+      "genre": "article",
+      "title": "A review of the American species of the genus Scops, Savigny",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "1",
+      "spage": "85",
+      "epage": "117",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642003",
+      "created": "2011-06-30 14:58:44",
+      "updated": "2011-06-30 14:58:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        7642003,
+        7642002,
+        7642001,
+        7642000,
+        7641999,
+        7641998,
+        7641997,
+        7641986,
+        7641985,
+        7641984,
+        7641983,
+        7641982,
+        7641981,
+        7641980,
+        7641979,
+        7641978,
+        7641977,
+        7641967,
+        7641968,
+        7641969,
+        7641970,
+        7641971,
+        7641972,
+        7641973,
+        7641974,
+        7641975,
+        7641976,
+        7641987,
+        7641988,
+        7641989,
+        7641990,
+        7641991,
+        7641992
+      ]
+    },
+    {
+      "reference_id": "78414",
+      "genre": "article",
+      "title": "Notes on the ornithology of southern Texas, being a list of birds observed in the vicinity of Fort Brown, Texas, from February, 1876, to June, 1878",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "1",
+      "spage": "118",
+      "epage": "173",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7641993",
+      "created": "2011-06-30 15:03:07",
+      "updated": "2011-06-30 15:03:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49651",
+          "lastname": "Merrill",
+          "forename": "James C"
+        }
+      ],
+      "bhl_pages": [
+        7641993,
+        7641994,
+        7641995,
+        7641996,
+        7642067,
+        7642058,
+        7642059,
+        7642060,
+        7642061,
+        7642062,
+        7642063,
+        7642064,
+        7642065,
+        7642066,
+        7642105,
+        7642107,
+        7642108,
+        7642109,
+        7642110,
+        7642111,
+        7642112,
+        7642113,
+        7642114,
+        7642115,
+        7642116,
+        7642127,
+        7642128,
+        7642129,
+        7642130,
+        7642131,
+        7642132,
+        7642133,
+        7642134,
+        7642135,
+        7642136,
+        7642147,
+        7642148,
+        7642149,
+        7642150,
+        7642151,
+        7642152,
+        7642153,
+        7642154,
+        7642155,
+        7642156,
+        7642187,
+        7642188,
+        7642189,
+        7642190,
+        7642191,
+        7642192,
+        7642193,
+        7642194,
+        7642195,
+        7642196,
+        7642197
+      ]
+    },
+    {
+      "reference_id": "11276",
+      "genre": "article",
+      "title": "On a new serranoid fish, Epinephelus drummond-hayi, from the Bermudas and Florida",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "173",
+      "epage": "176",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642197",
+      "created": "2010-01-07 15:16:31",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        7642197,
+        7642198,
+        7642199,
+        7642200
+      ]
+    },
+    {
+      "reference_id": "67447",
+      "genre": "article",
+      "title": "On a new serranoid fish, Epinephelus drummond-hayi, from the Bermudas and Florida",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "173",
+      "epage": "175",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642197",
+      "created": "2011-05-27 15:31:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45479",
+          "lastname": "Bean",
+          "forename": "G B Goode T H"
+        }
+      ],
+      "bhl_pages": [
+        7642197,
+        7642198,
+        7642199
+      ]
+    },
+    {
+      "reference_id": "11277",
+      "genre": "article",
+      "title": "Descriptions of two new species of fishes, Lutjanus blackfordi and Lutjanus stearnsii, from the coast of Florida",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "176",
+      "epage": "181",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642206",
+      "created": "2010-01-07 15:18:31",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2950",
+          "lastname": "Goode",
+          "forename": "G Brown"
+        },
+        {
+          "id": "2951",
+          "lastname": "Bean",
+          "forename": "Tarleton H"
+        }
+      ],
+      "bhl_pages": [
+        7642206,
+        7642207,
+        7642208,
+        7642209,
+        7642210,
+        7642211
+      ]
+    },
+    {
+      "reference_id": "67448",
+      "genre": "article",
+      "title": "Description of a new sparoid fish, Sargus holbrookii, from Savannah Bank",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "198",
+      "epage": "200",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642117",
+      "created": "2011-05-27 15:31:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7642117,
+        7642118,
+        7642119
+      ]
+    },
+    {
+      "reference_id": "14209",
+      "genre": "article",
+      "title": "Synopsis of the pediculate fishes of the eastern coast of extratropical North America",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "215",
+      "epage": "221",
+      "year": "1878",
+      "date": "1878-12-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:4A964ADD-AC81-4976-8081-07525D409FD6",
+      "PageID": "7642174",
+      "created": "2010-01-14 12:29:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        7642174,
+        7642175,
+        7642176,
+        7642089,
+        7642090,
+        7642091,
+        7642092
+      ]
+    },
+    {
+      "reference_id": "14380",
+      "genre": "article",
+      "title": "Note on the Antennariidae",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "221",
+      "epage": "222",
+      "year": "1878",
+      "date": "1878-12-18",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:E964FEDD-D12D-4E78-8BDC-C4400362C080",
+      "PageID": "7642092",
+      "created": "2010-01-14 13:10:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        7642092,
+        7642093
+      ]
+    },
+    {
+      "reference_id": "14222",
+      "genre": "article",
+      "title": "Note on the Ceratiidae",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "227",
+      "epage": "231",
+      "year": "1878",
+      "date": "1878-12-23",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:545F09FF-607B-40C5-8ED4-04DACD05818D",
+      "PageID": "7642219",
+      "created": "2010-01-14 12:31:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        7642219,
+        7642220,
+        7642221,
+        7642222,
+        7642223
+      ]
+    },
+    {
+      "reference_id": "14244",
+      "genre": "article",
+      "title": "Note on the Maltheidae",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "231",
+      "epage": "232",
+      "year": "1878",
+      "date": "1878-12-23",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:64C1671D-6144-4CD9-B820-BE658DB6F549",
+      "PageID": "7642223",
+      "created": "2010-01-14 12:58:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        7642223,
+        7642224
+      ]
+    },
+    {
+      "reference_id": "78416",
+      "genre": "article",
+      "title": "On the destruction of fish in the vicinity of the Tortugas during the months of September and October, 1878",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "1",
+      "spage": "244",
+      "epage": "246",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642236",
+      "created": "2011-06-30 15:03:33",
+      "updated": "2011-06-30 15:03:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49653",
+          "lastname": "Jefferson",
+          "forename": "J P"
+        },
+        {
+          "id": "49654",
+          "lastname": "Porter",
+          "forename": "Joseph Y"
+        },
+        {
+          "id": "49655",
+          "lastname": "Moore",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        7642236,
+        7642237,
+        7642306
+      ]
+    },
+    {
+      "reference_id": "78417",
+      "genre": "article",
+      "title": "Description of two new species of birds from Costa Rica, and notes on other rare species from that country",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "1",
+      "spage": "252",
+      "epage": "255",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642312",
+      "created": "2011-06-30 15:03:40",
+      "updated": "2011-06-30 15:03:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        7642312,
+        7642313,
+        7642314,
+        7642315
+      ]
+    },
+    {
+      "reference_id": "14462",
+      "genre": "article",
+      "title": "Descriptions of two gadoid fishes Phycis chesteri and Haloporphyrus viola, from the deep-sea fauna of the northwestern Atlantic",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "256",
+      "epage": "260",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:99ABFE4F-A5D2-4F2C-979F-D2D503E18BFE",
+      "PageID": "7642316",
+      "created": "2010-01-14 14:35:56",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7642316,
+        7642317,
+        7642318,
+        7642319,
+        7642320
+      ]
+    },
+    {
+      "reference_id": "67445",
+      "genre": "article",
+      "title": "Description of Argentina syrtensium, a new deep-sea fish from Sable Island Bank",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "261",
+      "epage": "263",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642321",
+      "created": "2011-05-27 15:27:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45479",
+          "lastname": "Bean",
+          "forename": "G B Goode T H"
+        }
+      ],
+      "bhl_pages": [
+        7642321,
+        7642322,
+        7642323
+      ]
+    },
+    {
+      "reference_id": "78419",
+      "genre": "article",
+      "title": "The occurrence of the Canada porcupine in West Virginia",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "1",
+      "spage": "264",
+      "epage": "265",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642324",
+      "created": "2011-06-30 15:03:50",
+      "updated": "2011-06-30 15:03:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        7642324,
+        7642325
+      ]
+    },
+    {
+      "reference_id": "67446",
+      "genre": "article",
+      "title": "Notes on the fishes of Beaufort Harbor, North Carolina",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "365",
+      "epage": "388",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7642303",
+      "created": "2011-05-27 15:28:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45511",
+          "lastname": "Gilbert",
+          "forename": "David S Jordan Charles H"
+        }
+      ],
+      "bhl_pages": [
+        7642303,
+        7642304,
+        7642305,
+        7642336,
+        7642337,
+        7642338,
+        7642339,
+        7642340,
+        7642341,
+        7642342,
+        7642343,
+        7642344,
+        7642345,
+        7642278,
+        7642287,
+        7642288,
+        7642289,
+        7642290,
+        7642291,
+        7642292,
+        7642293,
+        7642388,
+        7642389,
+        7642390
+      ]
+    },
+    {
+      "reference_id": "14413",
+      "genre": "article",
+      "title": "Description of a species of Lycodes (L. turneri) from Alaska, believed to be undescribed",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "1",
+      "spage": "463",
+      "epage": "466",
+      "year": "1879",
+      "date": "1879-04-30",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:F5D9EFE3-E2A6-4E1A-A31D-84B8F3534A35",
+      "PageID": "7642473",
+      "created": "2010-01-14 13:22:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7642473,
+        7642474,
+        7642475,
+        7642476
+      ]
+    }
+  ]
+}

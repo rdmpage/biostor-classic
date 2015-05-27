@@ -1,0 +1,61 @@
+{
+  "ItemID": "53045",
+  "FullTitle": "The Practical entomologist : a monthly bulletin. ",
+  "VolumeInfo": "v. 1-2 1865-67",
+  "articles": [
+    {
+      "reference_id": "72217",
+      "genre": "article",
+      "title": "Notes on insects infesting the currant and gooseberry",
+      "secondary_title": "Practical Entomology",
+      "volume": "1",
+      "spage": "22",
+      "epage": "23",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "1586912",
+      "PageID": "15496079",
+      "created": "2011-06-04 00:48:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46984",
+          "lastname": "Walsh",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        15496079,
+        15496080
+      ]
+    },
+    {
+      "reference_id": "72239",
+      "genre": "article",
+      "title": "Answers to correspondents",
+      "secondary_title": "Practical Entomology",
+      "volume": "1",
+      "spage": "89",
+      "epage": "90",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "1586912",
+      "PageID": "15496165",
+      "created": "2011-06-04 00:53:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46984",
+          "lastname": "Walsh",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        15496165,
+        15496166
+      ]
+    }
+  ]
+}

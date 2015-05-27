@@ -1,0 +1,65 @@
+{
+  "ItemID": "17701",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 27 (1875)",
+  "articles": [
+    {
+      "reference_id": "69200",
+      "genre": "article",
+      "title": "The herpetology of Florida",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1875",
+      "spage": "10",
+      "epage": "11",
+      "year": "1875",
+      "date": "1875-00-00",
+      "issn": "0097-3157",
+      "PageID": "1676901",
+      "created": "2011-06-01 08:38:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1676901,
+        1676902
+      ]
+    },
+    {
+      "reference_id": "50152",
+      "genre": "article",
+      "title": "On the supposed Carnivora of the Eocene of the Rocky Mountains",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences, Philadelphia",
+      "volume": "27",
+      "spage": "444",
+      "epage": "449",
+      "year": "1875",
+      "date": "1875-00-00",
+      "issn": "0097-3157",
+      "PageID": "1677414",
+      "created": "2010-04-19 20:44:08",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1677414,
+        1677415,
+        1677416,
+        1677417,
+        1677418,
+        1677419
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ItemID": "47408",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.66 no.1 1989",
+  "articles": [
+    {
+      "reference_id": "62373",
+      "genre": "article",
+      "title": "Two new species, nomenclatural changes, and range extensions in Mexican Arceuthobium (Viscaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "66",
+      "spage": "5",
+      "epage": "11",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0031-9430",
+      "PageID": "13168262",
+      "created": "2011-01-26 20:59:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43328",
+          "lastname": "Hawksworth",
+          "forename": "F G"
+        },
+        {
+          "id": "43475",
+          "lastname": "Wiens",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        13168262,
+        13168263,
+        13168264,
+        13168265,
+        13168266,
+        13168267,
+        13168268
+      ]
+    },
+    {
+      "reference_id": "63237",
+      "genre": "article",
+      "title": "New or restored genera of Bromeliaceae",
+      "secondary_title": "Phytologia",
+      "volume": "66",
+      "spage": "70",
+      "epage": "79",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0031-9430",
+      "PageID": "13168327",
+      "created": "2011-01-26 21:50:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43197",
+          "lastname": "Kress",
+          "forename": "W J"
+        },
+        {
+          "id": "43244",
+          "lastname": "Smith",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        13168327,
+        13168328,
+        13168329,
+        13168330,
+        13168331,
+        13168332,
+        13168333,
+        13168334,
+        13168335,
+        13168336
+      ]
+    },
+    {
+      "reference_id": "62303",
+      "genre": "article",
+      "title": "Two new species of Passiflora (Passifloraceae) from South America",
+      "secondary_title": "Phytologia",
+      "volume": "66",
+      "spage": "80",
+      "epage": "82",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0031-9430",
+      "PageID": "13168337",
+      "created": "2011-01-26 20:29:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43414",
+          "lastname": "Escobar",
+          "forename": "L K"
+        }
+      ],
+      "bhl_pages": [
+        13168337,
+        13168338,
+        13168339
+      ]
+    }
+  ]
+}

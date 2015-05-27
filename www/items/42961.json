@@ -1,0 +1,65 @@
+{
+  "ItemID": "42961",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 32 1899",
+  "articles": [
+    {
+      "reference_id": "60965",
+      "genre": "article",
+      "title": "Two new Rhynchota (Reduviidae and Corixidae) from Japan, and diverse notes",
+      "secondary_title": "Entomologist",
+      "volume": "32",
+      "spage": "78",
+      "epage": "80",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8878",
+      "PageID": "11654338",
+      "created": "2010-11-26 19:27:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11654338,
+        11654339,
+        11654340
+      ]
+    },
+    {
+      "reference_id": "65224",
+      "genre": "article",
+      "title": "On the nomenclature of the Rhynchota.--Part I",
+      "secondary_title": "Entomologist",
+      "volume": "32",
+      "spage": "217",
+      "epage": "221",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8878",
+      "PageID": "11654481",
+      "created": "2011-02-04 15:51:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11654481,
+        11654482,
+        11654483,
+        11654484,
+        11654485
+      ]
+    }
+  ]
+}

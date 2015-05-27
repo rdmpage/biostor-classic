@@ -1,0 +1,189 @@
+{
+  "ItemID": "36490",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 51 = 3rd ser. v.1 1915",
+  "articles": [
+    {
+      "reference_id": "20328",
+      "genre": "article",
+      "title": "On two new species of Mallophaga (Menoponidae): Menacanthus balfouri n. sp. and Myrsidea victrix n. sp. from Colombia",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "51",
+      "spage": "12",
+      "epage": "16",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9269192",
+      "created": "2010-02-08 18:30:28",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17708",
+          "lastname": "Waterston",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9269192,
+        9269193,
+        9269194,
+        9269195,
+        9269196
+      ]
+    },
+    {
+      "reference_id": "72786",
+      "genre": "article",
+      "title": "Description of a new species of Coelorrhina",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "51",
+      "spage": "163",
+      "epage": "164",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "1568052",
+      "PageID": "9269385",
+      "created": "2011-06-04 04:06:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46691",
+          "lastname": "Janson",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9269385,
+        9269386
+      ]
+    },
+    {
+      "reference_id": "58823",
+      "genre": "article",
+      "title": "Observations on British Coccidae in 1914, with descriptions of new species",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "51",
+      "spage": "175",
+      "epage": "185",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9269397",
+      "created": "2010-11-20 22:55:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9269397,
+        9269398,
+        9269399,
+        9269400,
+        9269401,
+        9269402,
+        9269403,
+        9269404,
+        9269405,
+        9269406,
+        9269407
+      ]
+    },
+    {
+      "reference_id": "73156",
+      "genre": "article",
+      "title": "A second British species of Plastosciara",
+      "secondary_title": "Ent. mon. Mag",
+      "volume": "51",
+      "spage": "263",
+      "epage": "264",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8908",
+      "PageID": "9269513",
+      "created": "2011-06-04 07:54:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        9269513,
+        9269514
+      ]
+    },
+    {
+      "reference_id": "58872",
+      "genre": "article",
+      "title": "A note on the distribution of Danaida plexippus in Australia",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "51",
+      "spage": "294",
+      "epage": "295",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9269550",
+      "created": "2010-11-20 23:05:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42423",
+          "lastname": "Walker",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        9269550,
+        9269551
+      ]
+    },
+    {
+      "reference_id": "58784",
+      "genre": "article",
+      "title": "New species of Pselaphidae (Group Tyrini)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "51",
+      "spage": "297",
+      "epage": "302",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9269561",
+      "created": "2010-11-20 22:50:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42425",
+          "lastname": "Bryant",
+          "forename": "G E"
+        }
+      ],
+      "bhl_pages": [
+        9269561,
+        9269562,
+        9269563,
+        9269564,
+        9269565,
+        9269566
+      ]
+    }
+  ]
+}

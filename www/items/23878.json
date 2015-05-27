@@ -1,0 +1,94 @@
+{
+  "ItemID": "23878",
+  "FullTitle": "Proceedings of the Entomological Society of Philadelphia.  ",
+  "VolumeInfo": "v. 5, Memoir (1865)",
+  "articles": [
+    {
+      "reference_id": "60736",
+      "genre": "article",
+      "title": "North American Micro-Lepidoptera",
+      "secondary_title": "Proceedings of the Entomological Society of Philadelphia",
+      "volume": "5",
+      "spage": "133",
+      "epage": "147",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "2444629",
+      "PageID": "3767989",
+      "created": "2010-11-23 04:08:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42847",
+          "lastname": "Clemens",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        3767989,
+        3767990,
+        3767991,
+        3767992,
+        3767993,
+        3767994,
+        3767995,
+        3767996,
+        3767997,
+        3767998,
+        3767999,
+        3768000,
+        3768001,
+        3768002,
+        3768003
+      ]
+    },
+    {
+      "reference_id": "70137",
+      "genre": "article",
+      "title": "On phytophagic varieties and phytophagic species, with remarks on the unity of coloration in insects",
+      "secondary_title": "Proceedings of the Entomological Society of Philadelphia",
+      "volume": "5",
+      "spage": "194",
+      "epage": "215",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "2444629",
+      "PageID": "3767784",
+      "created": "2011-06-02 15:41:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46494",
+          "lastname": "Dann",
+          "forename": "Walsh Benjamin"
+        }
+      ],
+      "bhl_pages": [
+        3767784,
+        3767785,
+        3767814,
+        3767815,
+        3767816,
+        3767817,
+        3767818,
+        3767819,
+        3767820,
+        3767821,
+        3767822,
+        3767823,
+        3767824,
+        3767825,
+        3767826,
+        3767827,
+        3767835,
+        3767836,
+        3767837,
+        3767838,
+        3767839,
+        3767840
+      ]
+    }
+  ]
+}

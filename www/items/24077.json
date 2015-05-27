@@ -1,0 +1,64 @@
+{
+  "ItemID": "24077",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 15 (1902)",
+  "articles": [
+    {
+      "reference_id": "3902",
+      "genre": "article",
+      "title": "A new opisthoglyph snake from Formosa.",
+      "secondary_title": "Proc. Biol. Soc. Wash.",
+      "volume": "15",
+      "spage": "15",
+      "epage": "17",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0006-324X",
+      "PageID": "3830603",
+      "created": "2009-12-26 19:29:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2340",
+          "lastname": "Stejneger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        3830603,
+        3830604,
+        3830605
+      ]
+    },
+    {
+      "reference_id": "14549",
+      "genre": "article",
+      "title": "Some generic names of turtles",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "15",
+      "spage": "235",
+      "epage": "238",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0006-324X",
+      "PageID": "3830831",
+      "created": "2010-01-20 20:39:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "485",
+          "lastname": "Stejneger",
+          "forename": "Leonhard"
+        }
+      ],
+      "bhl_pages": [
+        3830831,
+        3830832,
+        3830833,
+        3830834
+      ]
+    }
+  ]
+}

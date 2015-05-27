@@ -1,0 +1,35 @@
+{
+  "ItemID": "21221",
+  "FullTitle": "New birds from Barotseland.",
+  "VolumeInfo": "v.44:no.12(1962)",
+  "articles": [
+    {
+      "reference_id": "1385",
+      "genre": "article",
+      "title": "New birds from Barotseland",
+      "secondary_title": "Fieldiana Zool.",
+      "volume": "44",
+      "spage": "113",
+      "epage": "115",
+      "year": "1962",
+      "date": "1962-00-00",
+      "issn": "0015-0754",
+      "PageID": "2825973",
+      "created": "2009-12-23 16:10:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "586",
+          "lastname": "Traylor",
+          "forename": "M A"
+        }
+      ],
+      "bhl_pages": [
+        2825973,
+        2825958,
+        2825966
+      ]
+    }
+  ]
+}

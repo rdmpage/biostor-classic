@@ -1,0 +1,42 @@
+{
+  "ItemID": "44233",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 54 1921",
+  "articles": [
+    {
+      "reference_id": "60928",
+      "genre": "article",
+      "title": "New forms of Sphingidae",
+      "secondary_title": "Entomologist",
+      "volume": "54",
+      "spage": "105",
+      "epage": "109",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0013-8878",
+      "PageID": "12120016",
+      "created": "2010-11-26 19:24:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39865",
+          "lastname": "Joicey",
+          "forename": "J J"
+        },
+        {
+          "id": "39888",
+          "lastname": "Talbot",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        12120016,
+        12120017,
+        12120018,
+        12120019,
+        12120020
+      ]
+    }
+  ]
+}

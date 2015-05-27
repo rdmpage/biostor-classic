@@ -1,0 +1,70 @@
+{
+  "ItemID": "21779",
+  "FullTitle": "Bulletin de l'Acade\u0301mie internationale de ge\u0301ographie botanique.",
+  "VolumeInfo": "10",
+  "articles": [
+    {
+      "reference_id": "67031",
+      "genre": "article",
+      "title": "Un type de v\u00e9g\u00e9tation lich\u00e9nique en Espagne",
+      "secondary_title": "Bulletin de l'Acad\u00e9mie Internationale de G\u00e9ographie Botanique",
+      "volume": "10",
+      "spage": "135",
+      "epage": "140",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "8612139",
+      "PageID": "2928672",
+      "created": "2011-05-12 00:46:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45425",
+          "lastname": "Nav\u00e1s",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        2928672,
+        2928673,
+        2928674,
+        2928675,
+        2928676,
+        2928677
+      ]
+    },
+    {
+      "reference_id": "67030",
+      "genre": "article",
+      "title": "Ensayo de distribucion geografica de los liquenes del g\u00e9nero Parmelia hallados en la Peninsula Ib\u00e9rica",
+      "secondary_title": "Bulletin de l'Acad\u00e9mie Internationale de G\u00e9ographie Botanique",
+      "volume": "10",
+      "spage": "189",
+      "epage": "195",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "8612139",
+      "PageID": "2928734",
+      "created": "2011-05-12 00:46:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45425",
+          "lastname": "Nav\u00e1s",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        2928734,
+        2928735,
+        2928736,
+        2928737,
+        2928738,
+        2928739,
+        2928740
+      ]
+    }
+  ]
+}

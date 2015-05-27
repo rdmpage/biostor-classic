@@ -1,0 +1,41 @@
+{
+  "ItemID": "50175",
+  "FullTitle": "Annual report of the Minnesota State Horticultural Society.  ",
+  "VolumeInfo": "v.18 1890",
+  "articles": [
+    {
+      "reference_id": "72218",
+      "genre": "article",
+      "title": "Insects injurious to small fruits",
+      "secondary_title": "Annual Report of the Minnesota State Horticulture Society",
+      "volume": "1890",
+      "spage": "164",
+      "epage": "172",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1777709",
+      "PageID": "14316268",
+      "created": "2011-06-04 00:48:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46985",
+          "lastname": "Lugger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        14316268,
+        14316269,
+        14316270,
+        14316271,
+        14316272,
+        14316273,
+        14316274,
+        14316275,
+        14316276
+      ]
+    }
+  ]
+}

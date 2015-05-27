@@ -1,0 +1,76 @@
+{
+  "ItemID": "32389",
+  "FullTitle": "Proceedings of the United States National Museum.",
+  "VolumeInfo": "v. 78 1931",
+  "articles": [
+    {
+      "reference_id": "79752",
+      "genre": "article",
+      "title": "New two-winged flies of the family Calliphoridae from China",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "78",
+      "spage": "1",
+      "epage": "5",
+      "year": "1930",
+      "date": "1930-00-00",
+      "issn": "0096-3801",
+      "PageID": "7526589",
+      "created": "2011-06-30 16:45:38",
+      "updated": "2011-06-30 16:45:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8951",
+          "lastname": "Aldrich",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        7526589,
+        7526588,
+        7526587,
+        7526567,
+        7526566
+      ]
+    },
+    {
+      "reference_id": "102742",
+      "genre": "article",
+      "title": "New genera and species of nematode worms",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "78",
+      "issue": "23",
+      "spage": "1",
+      "epage": "9",
+      "year": "1931",
+      "date": "1931-00-00",
+      "issn": "0096-3801",
+      "PageID": "7527207",
+      "created": "2012-05-05 14:07:05",
+      "updated": "2012-05-05 14:08:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53703",
+          "lastname": "Chanlder",
+          "forename": "Asa C"
+        }
+      ],
+      "bhl_pages": [
+        7527207,
+        7527208,
+        7527209,
+        7527114,
+        7527115,
+        7527116,
+        7527117,
+        7527118,
+        7527119,
+        7527120,
+        7527121,
+        7527123,
+        7527122
+      ]
+    }
+  ]
+}

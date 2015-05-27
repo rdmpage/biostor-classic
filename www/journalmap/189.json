@@ -1,0 +1,53 @@
+{
+  "author": [
+    {
+      "firstname": "D R",
+      "lastname": "Ragge",
+      "name": "D R Ragge"
+    }
+  ],
+  "type": "article",
+  "title": "A review of the African Phaneropterinae with open tympana (Orthoptera: Tettigoniidae)",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Entomology",
+    "volume": "40",
+    "issue": "2",
+    "pages": "67--192",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1980",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/189"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2329920"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 189
+    },
+    {
+      "type": "bhl",
+      "id": 2329920
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        22.416666666667,
+        -20.983333333333
+      ]
+    ]
+  }
+}

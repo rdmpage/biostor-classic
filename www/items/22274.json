@@ -1,0 +1,369 @@
+{
+  "ItemID": "22274",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 26 (1894)",
+  "articles": [
+    {
+      "reference_id": "72152",
+      "genre": "article",
+      "title": "An entomological trip to Copper Cliff, Ont",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "26",
+      "spage": "9",
+      "epage": "16",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1553087",
+      "PageID": "3121600",
+      "created": "2011-06-04 00:40:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46949",
+          "lastname": "Harrington",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3121600,
+        3121419,
+        3121420,
+        3121601,
+        3121421,
+        3121331,
+        3121602,
+        3121256
+      ]
+    },
+    {
+      "reference_id": "71744",
+      "genre": "article",
+      "title": "Descriptions of two new hymenopterous parasites from water beetles",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "26",
+      "spage": "24",
+      "epage": "26",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121424",
+      "created": "2011-06-03 23:01:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3121424,
+        3121425,
+        3121426
+      ]
+    },
+    {
+      "reference_id": "73340",
+      "genre": "article",
+      "title": "A very remarkable and anomalous syrphid, with peculiarly developed hind tarsi",
+      "secondary_title": "Can. Ent",
+      "volume": "26",
+      "spage": "50",
+      "epage": "52",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121441",
+      "created": "2011-06-04 08:19:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42351",
+          "lastname": "Townsend",
+          "forename": "C H T"
+        }
+      ],
+      "bhl_pages": [
+        3121441,
+        3121442,
+        3121337
+      ]
+    },
+    {
+      "reference_id": "73254",
+      "genre": "article",
+      "title": "New North American Trypetidae",
+      "secondary_title": "Can. Entomol",
+      "volume": "26",
+      "spage": "71",
+      "epage": "75",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121449",
+      "created": "2011-06-04 08:08:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8729",
+          "lastname": "Coquillett",
+          "forename": "D W"
+        }
+      ],
+      "bhl_pages": [
+        3121449,
+        3121263,
+        3121340,
+        3121450,
+        3121341
+      ]
+    },
+    {
+      "reference_id": "60235",
+      "genre": "article",
+      "title": "North American Thysanura, V",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "26",
+      "spage": "105",
+      "epage": "110",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121620",
+      "created": "2010-11-22 21:25:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10115",
+          "lastname": "Macgillivray",
+          "forename": "A D"
+        }
+      ],
+      "bhl_pages": [
+        3121620,
+        3121292,
+        3121461,
+        3121462,
+        3121293,
+        3121463
+      ]
+    },
+    {
+      "reference_id": "67057",
+      "genre": "article",
+      "title": "New species of Nothochrysa",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "26",
+      "spage": "169",
+      "epage": "171",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121359",
+      "created": "2011-05-12 07:29:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45432",
+          "lastname": "Mcgillivray",
+          "forename": "A D"
+        }
+      ],
+      "bhl_pages": [
+        3121359,
+        3121488,
+        3121489
+      ]
+    },
+    {
+      "reference_id": "71582",
+      "genre": "article",
+      "title": "A preliminary review of the north American Decticidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "26",
+      "spage": "177",
+      "epage": "184",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121360",
+      "created": "2011-06-03 21:34:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42794",
+          "lastname": "Scudder",
+          "forename": "S H"
+        }
+      ],
+      "bhl_pages": [
+        3121360,
+        3121632,
+        3121269,
+        3121361,
+        3121633,
+        3121255,
+        3121493,
+        3121494
+      ]
+    },
+    {
+      "reference_id": "72750",
+      "genre": "article",
+      "title": "Some Indiana Acrididae. III",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "26",
+      "spage": "217",
+      "epage": "223",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121510",
+      "created": "2011-06-04 03:36:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46227",
+          "lastname": "",
+          "forename": "Blatchley"
+        }
+      ],
+      "bhl_pages": [
+        3121510,
+        3121367,
+        3121511,
+        3121271,
+        3121512,
+        3121513,
+        3121642
+      ]
+    },
+    {
+      "reference_id": "72213",
+      "genre": "article",
+      "title": "Coleoptera taken at Lake Worth, Florida",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "26",
+      "spage": "250",
+      "epage": "256",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1553087",
+      "PageID": "3121375",
+      "created": "2011-06-04 00:48:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46923",
+          "lastname": "Hamilton",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3121375,
+        3121376,
+        3121272,
+        3121528,
+        3121305,
+        3121529,
+        3121530
+      ]
+    },
+    {
+      "reference_id": "73002",
+      "genre": "article",
+      "title": "A study of the genus Meniscus",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "26",
+      "spage": "321",
+      "epage": "324",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121553",
+      "created": "2011-06-04 04:52:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46370",
+          "lastname": "Davis",
+          "forename": "G C"
+        }
+      ],
+      "bhl_pages": [
+        3121553,
+        3121315,
+        3121391,
+        3121316
+      ]
+    },
+    {
+      "reference_id": "60592",
+      "genre": "article",
+      "title": "Some Psychodidae from Long Island, N.Y",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "26",
+      "spage": "329",
+      "epage": "333",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0008-347X",
+      "PageID": "3121556",
+      "created": "2010-11-23 02:43:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3121556,
+        3121661,
+        3121557,
+        3121393,
+        3121394
+      ]
+    },
+    {
+      "reference_id": "72144",
+      "genre": "article",
+      "title": "Notes on Quebec Coleoptera",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "26",
+      "spage": "350",
+      "epage": "352",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1553087",
+      "PageID": "3121564",
+      "created": "2011-06-04 00:38:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46963",
+          "lastname": "Hanham",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        3121564,
+        3121279,
+        3121397
+      ]
+    }
+  ]
+}

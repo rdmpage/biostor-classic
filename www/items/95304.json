@@ -1,0 +1,585 @@
+{
+  "ItemID": "95304",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 38 1911",
+  "articles": [
+    {
+      "reference_id": "58381",
+      "genre": "article",
+      "title": "Nue Paguriden aus den Ausbeuten der deutschen Tiefsee Expedition \"Valdivia\" und der japanischen Expedition Prof. Dofleins",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "1",
+      "epage": "9",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153260",
+      "created": "2010-11-20 20:55:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2649",
+          "lastname": "Balss",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        30153260,
+        30153261,
+        30153262,
+        30153263,
+        30153264,
+        30153265,
+        30153266,
+        30153267,
+        30153268
+      ]
+    },
+    {
+      "reference_id": "73499",
+      "genre": "article",
+      "title": "Einige neue Gattungen und Arten aussereuropaischer Chloropinen",
+      "secondary_title": "Zool. Anz",
+      "volume": "38",
+      "spage": "122",
+      "epage": "126",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153381",
+      "created": "2011-06-04 08:50:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        30153381,
+        30153382,
+        30153383,
+        30153384,
+        30153385
+      ]
+    },
+    {
+      "reference_id": "85059",
+      "genre": "article",
+      "title": "The nomenclature of the Rhizopoda",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "38",
+      "spage": "136",
+      "epage": "137",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153395",
+      "created": "2011-08-11 15:10:09",
+      "updated": "2011-08-11 15:10:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30153395,
+        30153396
+      ]
+    },
+    {
+      "reference_id": "58451",
+      "genre": "article",
+      "title": "Neue Fulgoriden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "161",
+      "epage": "171",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153420",
+      "created": "2010-11-20 21:09:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42272",
+          "lastname": "Schmidt",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        30153420,
+        30153421,
+        30153422,
+        30153423,
+        30153424,
+        30153425,
+        30153426,
+        30153427,
+        30153428,
+        30153429,
+        30153430
+      ]
+    },
+    {
+      "reference_id": "58465",
+      "genre": "article",
+      "title": "Eine neue Acarinenfamilie (Teneriffiidae) and zwei neue Gattungen, die eine von Teneriffa, die andre aus Paraguay",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "171",
+      "epage": "179",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153430",
+      "created": "2010-11-20 21:17:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42150",
+          "lastname": "Thor",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        30153430,
+        30153431,
+        30153432,
+        30153433,
+        30153434,
+        30153435,
+        30153436,
+        30153437,
+        30153438
+      ]
+    },
+    {
+      "reference_id": "58421",
+      "genre": "article",
+      "title": "Notizen \u00fcber phylogenetisch interessanten Rhizocephalen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "180",
+      "epage": "185",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153439",
+      "created": "2010-11-20 21:02:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42337",
+          "lastname": "H\u00e4fele",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        30153439,
+        30153440,
+        30153441,
+        30153442,
+        30153443,
+        30153444
+      ]
+    },
+    {
+      "reference_id": "84917",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Membraciden",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "38",
+      "spage": "233",
+      "epage": "243",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153492",
+      "created": "2011-08-11 14:36:18",
+      "updated": "2011-08-11 14:36:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30153492,
+        30153493,
+        30153494,
+        30153495,
+        30153496,
+        30153497,
+        30153498,
+        30153499,
+        30153500,
+        30153501,
+        30153502
+      ]
+    },
+    {
+      "reference_id": "84979",
+      "genre": "article",
+      "title": "Eine neue Cypris-Art aus Brasilien",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "38",
+      "spage": "337",
+      "epage": "339",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153596",
+      "created": "2011-08-11 14:49:06",
+      "updated": "2011-08-11 14:49:06",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30153596,
+        30153597,
+        30153598
+      ]
+    },
+    {
+      "reference_id": "73041",
+      "genre": "article",
+      "title": "Pseudoleptus arechavaletae n. gen., n. sp., nouvel Acarien Ch\u00e9l\u00e9tin\u00e9 de l'Uruguay",
+      "secondary_title": "Zoologischer Anzeige",
+      "volume": "38",
+      "spage": "340",
+      "epage": "345",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153599",
+      "created": "2011-06-04 05:28:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42301",
+          "lastname": "Bruyant",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        30153599,
+        30153600,
+        30153601,
+        30153602,
+        30153603,
+        30153604
+      ]
+    },
+    {
+      "reference_id": "66127",
+      "genre": "article",
+      "title": "Zwei neue Schlangen aus dem Katangadistrikt, Kongostaat",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "357",
+      "epage": "360",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153616",
+      "created": "2011-05-05 13:11:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40279",
+          "lastname": "M\u00fcller",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        30153616,
+        30153617,
+        30153618,
+        30153619
+      ]
+    },
+    {
+      "reference_id": "85037",
+      "genre": "article",
+      "title": "Nuovo Botriocefalo (B. andresi) e appunti Elmintologici",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "38",
+      "spage": "373",
+      "epage": "378",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153632",
+      "created": "2011-08-11 15:01:47",
+      "updated": "2011-08-11 15:01:48",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30153632,
+        30153633,
+        30153634,
+        30153635,
+        30153636,
+        30153637
+      ]
+    },
+    {
+      "reference_id": "84950",
+      "genre": "article",
+      "title": "Die Hydromedusen des Golfes von Triest",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "38",
+      "spage": "395",
+      "epage": "399",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153654",
+      "created": "2011-08-11 14:43:17",
+      "updated": "2011-08-11 14:43:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30153654,
+        30153655,
+        30153656,
+        30153657,
+        30153658
+      ]
+    },
+    {
+      "reference_id": "67002",
+      "genre": "article",
+      "title": "\u00dcber die Malphigischen Gef\u00e4sse der Myrmeleonidenlarven als Spinndr\u00fcsen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "401",
+      "epage": "417",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153660",
+      "created": "2011-05-11 19:47:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45419",
+          "lastname": "Lozinski",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        30153660,
+        30153661,
+        30153662,
+        30153663,
+        30153664,
+        30153665,
+        30153666,
+        30153667,
+        30153668,
+        30153669,
+        30153670,
+        30153671,
+        30153672,
+        30153673,
+        30153674,
+        30153675,
+        30153676
+      ]
+    },
+    {
+      "reference_id": "67276",
+      "genre": "article",
+      "title": "Eine neue Cobitinen-Gattung aus China",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "417",
+      "epage": "419",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153676",
+      "created": "2011-05-25 08:06:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45493",
+          "lastname": "Kreyenberg",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        30153676,
+        30153677,
+        30153678
+      ]
+    },
+    {
+      "reference_id": "85077",
+      "genre": "article",
+      "title": "Ueber Brachychaeteuma n. g. und Titanosoma jurassicum aus England",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "38",
+      "spage": "455",
+      "epage": "458",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153714",
+      "created": "2011-08-11 15:14:28",
+      "updated": "2011-08-11 15:14:28",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30153714,
+        30153715,
+        30153716,
+        30153717
+      ]
+    },
+    {
+      "reference_id": "102550",
+      "genre": "article",
+      "title": "A revision of the cestode family Proteocephalidae",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "473",
+      "epage": "482",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153732",
+      "created": "2012-04-27 23:26:10",
+      "updated": "2012-04-27 23:27:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53685",
+          "lastname": "La Rue",
+          "forename": "George R"
+        }
+      ],
+      "bhl_pages": [
+        30153732,
+        30153733,
+        30153734,
+        30153735,
+        30153736,
+        30153737,
+        30153738,
+        30153739,
+        30153740,
+        30153741
+      ]
+    },
+    {
+      "reference_id": "69948",
+      "genre": "article",
+      "title": "Descrizione di nuovi Polydesmoideae termitofili",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "486",
+      "epage": "492",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153745",
+      "created": "2011-06-02 07:58:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46427",
+          "lastname": "Silvestri",
+          "forename": "Filippo"
+        }
+      ],
+      "bhl_pages": [
+        30153745,
+        30153746,
+        30153747,
+        30153748,
+        30153749,
+        30153750,
+        30153751
+      ]
+    },
+    {
+      "reference_id": "58423",
+      "genre": "article",
+      "title": "Neue Phloeothripiden-Genera",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "501",
+      "epage": "504",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153760",
+      "created": "2010-11-20 21:02:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39920",
+          "lastname": "Karny",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        30153760,
+        30153761,
+        30153762,
+        30153763
+      ]
+    },
+    {
+      "reference_id": "58439",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Pontoniiden. Marygrande mirabilis nov. gen. spec",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "38",
+      "spage": "571",
+      "epage": "575",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0044-5231",
+      "PageID": "30153830",
+      "created": "2010-11-20 21:05:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42341",
+          "lastname": "Pesta",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        30153830,
+        30153831,
+        30153832,
+        30153833,
+        30153834
+      ]
+    }
+  ]
+}

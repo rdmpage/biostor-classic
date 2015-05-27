@@ -1,0 +1,70 @@
+{
+  "author": [
+    {
+      "firstname": "F W",
+      "lastname": "Gess",
+      "name": "F W Gess"
+    },
+    {
+      "firstname": "S K",
+      "lastname": "Gess",
+      "name": "S K Gess"
+    },
+    {
+      "firstname": "R W",
+      "lastname": "Gess",
+      "name": "R W Gess"
+    }
+  ],
+  "type": "article",
+  "title": "An Australian Masarine, Rolandia angulata (Richards) (Hymenoptera: Vespidae): Nesting and evaluation of association with Goodenia (Goodeniaceae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "4",
+    "pages": "25--32",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "1995",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/472"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/3387480"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 472
+    },
+    {
+      "type": "bhl",
+      "id": 3387480
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        148.5,
+        -28.05
+      ],
+      [
+        145.66666666667,
+        -28.066666666667
+      ],
+      [
+        144.98333333333,
+        -31.633333333333
+      ]
+    ]
+  }
+}

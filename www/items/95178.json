@@ -1,0 +1,536 @@
+{
+  "ItemID": "95178",
+  "FullTitle": "Spixiana.",
+  "VolumeInfo": "no. 12-16 (1987-90)",
+  "articles": [
+    {
+      "reference_id": "86140",
+      "genre": "article",
+      "title": "Die Gattung Kloosia Kruseman, 1933 mit der Neubeschreibung zweier Arten (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "35",
+      "epage": "44",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082865",
+      "created": "2011-09-20 00:46:29",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51279",
+          "lastname": "Reiss",
+          "forename": "Freidrich"
+        }
+      ],
+      "bhl_pages": [
+        30082865,
+        30082866,
+        30082867,
+        30082868,
+        30082869,
+        30082870,
+        30082871,
+        30082872,
+        30082873,
+        30082874
+      ]
+    },
+    {
+      "reference_id": "86143",
+      "genre": "article",
+      "title": "Diplosmittia recisus spec. nov. from Peru (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "45",
+      "epage": "47",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082875",
+      "created": "2011-09-20 00:46:41",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "11838",
+          "lastname": "S\u00e6ther",
+          "forename": "Ole A"
+        }
+      ],
+      "bhl_pages": [
+        30082875,
+        30082876,
+        30082877
+      ]
+    },
+    {
+      "reference_id": "86113",
+      "genre": "article",
+      "title": "Vivacricotopus, a new genus of Orthocladiinae from Norway (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "49",
+      "epage": "55",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082879",
+      "created": "2011-09-20 00:21:59",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51274",
+          "lastname": "Schnell",
+          "forename": "\u00d8yvind A"
+        },
+        {
+          "id": "11838",
+          "lastname": "S\u00e6ther",
+          "forename": "Ole A"
+        }
+      ],
+      "bhl_pages": [
+        30082879,
+        30082880,
+        30082881,
+        30082882,
+        30082883,
+        30082884,
+        30082885
+      ]
+    },
+    {
+      "reference_id": "86144",
+      "genre": "article",
+      "title": "Heterotrissocladius brundini spec. nov. from Norway (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "57",
+      "epage": "64",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082887",
+      "created": "2011-09-20 00:46:45",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "11838",
+          "lastname": "S\u00e6ther",
+          "forename": "Ole A"
+        },
+        {
+          "id": "51274",
+          "lastname": "Schnell",
+          "forename": "\u00d8yvind A"
+        }
+      ],
+      "bhl_pages": [
+        30082887,
+        30082888,
+        30082889,
+        30082890,
+        30082891,
+        30082892,
+        30082893,
+        30082894
+      ]
+    },
+    {
+      "reference_id": "86137",
+      "genre": "article",
+      "title": "Two new species of the Rheocricotopus (R.) effusus group (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "65",
+      "epage": "74",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082895",
+      "created": "2011-09-20 00:46:17",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "11838",
+          "lastname": "S\u00e6ther",
+          "forename": "Ole A"
+        },
+        {
+          "id": "51274",
+          "lastname": "Schnell",
+          "forename": "\u00d8yvind A"
+        }
+      ],
+      "bhl_pages": [
+        30082895,
+        30082896,
+        30082897,
+        30082898,
+        30082899,
+        30082900,
+        30082901,
+        30082902,
+        30082903,
+        30082904
+      ]
+    },
+    {
+      "reference_id": "86141",
+      "genre": "article",
+      "title": "A review of Lappodiamesa Serra Tosio, with the description of L. boltoni spec. nov. from Ohio, USA",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "75",
+      "epage": "84",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082905",
+      "created": "2011-09-20 00:46:33",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "11838",
+          "lastname": "S\u00e6ther",
+          "forename": "Ole A"
+        },
+        {
+          "id": "29421",
+          "lastname": "Willassen",
+          "forename": "Endre"
+        }
+      ],
+      "bhl_pages": [
+        30082905,
+        30082906,
+        30082907,
+        30082908,
+        30082909,
+        30082910,
+        30082911,
+        30082912,
+        30082913,
+        30082914
+      ]
+    },
+    {
+      "reference_id": "86112",
+      "genre": "article",
+      "title": "Tanytarsus curvicristatus spec. nov. eine neue Chironomidenart aus Kolumbien (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "101",
+      "epage": "104",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082931",
+      "created": "2011-09-20 00:21:05",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51273",
+          "lastname": "Contreras-Lichtenberg",
+          "forename": "Ruth"
+        }
+      ],
+      "bhl_pages": [
+        30082931,
+        30082932,
+        30082933,
+        30082934
+      ]
+    },
+    {
+      "reference_id": "86139",
+      "genre": "article",
+      "title": "Denopelopia atria, a new genus and species of Pentaneurini (Diptera: Chironomidae: Tanypodinae) from Florida",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "117",
+      "epage": "127",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082947",
+      "created": "2011-09-20 00:46:24",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "29815",
+          "lastname": "Roback",
+          "forename": "Selwyn S"
+        },
+        {
+          "id": "51280",
+          "lastname": "Rutter",
+          "forename": "Robert P"
+        }
+      ],
+      "bhl_pages": [
+        30082947,
+        30082948,
+        30082949,
+        30082950,
+        30082951,
+        30082952,
+        30082953,
+        30082954,
+        30082955,
+        30082956,
+        30082957
+      ]
+    },
+    {
+      "reference_id": "86142",
+      "genre": "article",
+      "title": "Aquatic xylophagous Orthocladiinae - systematics and ecology (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "143",
+      "epage": "154",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30082973",
+      "created": "2011-09-20 00:46:37",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10084",
+          "lastname": "Cranston",
+          "forename": "P S"
+        },
+        {
+          "id": "39074",
+          "lastname": "Oliver",
+          "forename": "D R"
+        }
+      ],
+      "bhl_pages": [
+        30082973,
+        30082974,
+        30082975,
+        30082976,
+        30082977,
+        30082978,
+        30082979,
+        30082980,
+        30082981,
+        30082982,
+        30082983,
+        30082984
+      ]
+    },
+    {
+      "reference_id": "86136",
+      "genre": "article",
+      "title": "Zwei neue Smittia-Arten aus dem s\u00fcddeutschen Raum (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "175",
+      "epage": "181",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30083005",
+      "created": "2011-09-20 00:46:12",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "28720",
+          "lastname": "Caspers",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        30083005,
+        30083006,
+        30083007,
+        30083008,
+        30083009,
+        30083010,
+        30083011
+      ]
+    },
+    {
+      "reference_id": "86110",
+      "genre": "article",
+      "title": "Rheomus, un nouveau genre du complexe Harnischia avec deux nouvelles especes d'Afrique du nord (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "183",
+      "epage": "190",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30083013",
+      "created": "2011-09-20 00:16:38",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51271",
+          "lastname": "Laville",
+          "forename": "Henri"
+        },
+        {
+          "id": "51272",
+          "lastname": "Reiss",
+          "forename": "Friedrich"
+        }
+      ],
+      "bhl_pages": [
+        30083013,
+        30083014,
+        30083015,
+        30083016,
+        30083017,
+        30083018,
+        30083019,
+        30083020
+      ]
+    },
+    {
+      "reference_id": "86114",
+      "genre": "article",
+      "title": "Corynoneura brundini spec. nov. Ein Beitrag zur Systematik der Gattung Corynoneura (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "213",
+      "epage": "238",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30083043",
+      "created": "2011-09-20 00:23:41",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51275",
+          "lastname": "Hirvenoja",
+          "forename": "Mauri"
+        },
+        {
+          "id": "51276",
+          "lastname": "Hirvenoja",
+          "forename": "Elina"
+        }
+      ],
+      "bhl_pages": [
+        30083043,
+        30083044,
+        30083045,
+        30083046,
+        30083047,
+        30083048,
+        30083049,
+        30083050,
+        30083051,
+        30083052,
+        30083053,
+        30083054,
+        30083055,
+        30083056,
+        30083057,
+        30083058,
+        30083059,
+        30083060,
+        30083061,
+        30083062,
+        30083063,
+        30083064,
+        30083065,
+        30083066,
+        30083067,
+        30083068
+      ]
+    },
+    {
+      "reference_id": "86111",
+      "genre": "article",
+      "title": "Schineriella schineri gen. nov., comb. nov., placement of Tanypus schineri Strobl 1880 (Diptera: Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "247",
+      "epage": "252",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30083077",
+      "created": "2011-09-20 00:18:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40461",
+          "lastname": "Murray",
+          "forename": "D A"
+        },
+        {
+          "id": "12166",
+          "lastname": "Fittkau",
+          "forename": "E J"
+        }
+      ],
+      "bhl_pages": [
+        30083077,
+        30083078,
+        30083079,
+        30083080,
+        30083081,
+        30083082
+      ]
+    },
+    {
+      "reference_id": "86138",
+      "genre": "article",
+      "title": "Bethbilbekia floridensis: a new genus and species of Macropelopiini for the south eastern Nearctic (Diptera: Chironomidae)",
+      "secondary_title": "Spixiana Supplement",
+      "volume": "14",
+      "spage": "253",
+      "epage": "259",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0177-7424",
+      "PageID": "30083083",
+      "created": "2011-09-20 00:46:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12166",
+          "lastname": "Fittkau",
+          "forename": "E J"
+        },
+        {
+          "id": "40461",
+          "lastname": "Murray",
+          "forename": "D A"
+        }
+      ],
+      "bhl_pages": [
+        30083083,
+        30083084,
+        30083085,
+        30083086,
+        30083087,
+        30083088,
+        30083089
+      ]
+    }
+  ]
+}

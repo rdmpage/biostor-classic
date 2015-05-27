@@ -1,0 +1,35 @@
+{
+  "ItemID": "95256",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 1 1878",
+  "articles": [
+    {
+      "reference_id": "65436",
+      "genre": "article",
+      "title": "Histologische Notizen \u00fcber die Myriothela",
+      "secondary_title": "Zool. Anz.",
+      "volume": "1",
+      "spage": "363",
+      "epage": "365",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0044-5231",
+      "PageID": "30123565",
+      "created": "2011-03-04 11:37:35",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44861",
+          "lastname": "Korotneff",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30123565,
+        30123566,
+        30123567
+      ]
+    }
+  ]
+}

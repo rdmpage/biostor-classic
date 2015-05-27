@@ -1,0 +1,85 @@
+{
+  "ItemID": "21157",
+  "FullTitle": "Asiatic herpetological research.",
+  "VolumeInfo": "v.8 (1999)",
+  "articles": [
+    {
+      "reference_id": "49231",
+      "genre": "article",
+      "title": "Description of a new species of Pseudorabdion (Serpentes: Colubridae) from Panay Island, Philippines with a revised key to the genus",
+      "secondary_title": "Asiatic Herpetological Research",
+      "volume": "8",
+      "spage": "7",
+      "epage": "12",
+      "year": "1999",
+      "date": "1999-00-00",
+      "issn": "1051-3825",
+      "PageID": "2807580",
+      "created": "2010-03-21 12:18:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18771",
+          "lastname": "Brown",
+          "forename": "Rafe M"
+        },
+        {
+          "id": "2074",
+          "lastname": "Leviton",
+          "forename": "A E"
+        },
+        {
+          "id": "39411",
+          "lastname": "Sison",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        2807580,
+        2807581,
+        2807582,
+        2807583,
+        2807584,
+        2807585
+      ]
+    },
+    {
+      "reference_id": "86095",
+      "genre": "article",
+      "title": "Two new subspecies of Trapelus agilis complex (Sauria: Agamidae) from lowland southwestern Iran and southeastern Pakistan",
+      "secondary_title": "Asiatic Herpetological Research",
+      "volume": "8",
+      "spage": "90",
+      "epage": "101",
+      "year": "1999",
+      "date": "1999-00-00",
+      "issn": "1051-3825",
+      "PageID": "2807664",
+      "created": "2011-09-16 13:21:24",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39430",
+          "lastname": "Rastegar-Pouyani",
+          "forename": "Nasrullah"
+        }
+      ],
+      "bhl_pages": [
+        2807664,
+        2807665,
+        2807666,
+        2807667,
+        2807668,
+        2807669,
+        2807670,
+        2807671,
+        2807672,
+        2807673,
+        2807674,
+        2807675
+      ]
+    }
+  ]
+}

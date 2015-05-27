@@ -1,0 +1,100 @@
+{
+  "ItemID": "27197",
+  "FullTitle": "Bulletin du Muse\u0301um national d'histoire naturelle.",
+  "VolumeInfo": "t.4 1898",
+  "articles": [
+    {
+      "reference_id": "97380",
+      "genre": "article",
+      "title": "Note sur les r\u00e9cifs madr\u00e9poriques observ\u00e9s \u00e0 Djibouti",
+      "secondary_title": "Bulletin du Mus\u00e9um d'Histoire Naturelle",
+      "volume": "4",
+      "spage": "38",
+      "epage": "41",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0027-4070",
+      "PageID": "5032421",
+      "created": "2011-10-15 20:45:11",
+      "updated": "2011-10-15 20:47:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "484",
+          "lastname": "Couti\u00e8re",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        5032421,
+        5032422,
+        5032423,
+        5032424
+      ]
+    },
+    {
+      "reference_id": "104984",
+      "genre": "article",
+      "title": "Description d'une esp\u00e8ce nouvelle de Murid\u00e9 provenant de Madagascar",
+      "secondary_title": "Bulletin du Museum Paris",
+      "volume": "1898",
+      "spage": "179",
+      "epage": "181",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "1148-8425",
+      "PageID": "5032562",
+      "created": "2012-06-29 14:45:43",
+      "updated": "2012-06-29 14:50:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45097",
+          "lastname": "Milne-Edwards",
+          "forename": "A"
+        },
+        {
+          "id": "53540",
+          "lastname": "Grandidier",
+          "forename": "Guillaume"
+        }
+      ],
+      "bhl_pages": [
+        5032562,
+        5032563,
+        5032564
+      ]
+    },
+    {
+      "reference_id": "61415",
+      "genre": "article",
+      "title": "Notice pr\u00e9liminaire sur les esp\u00e8ces d'Ann\u00e9lide recuellies dans les explorations sous-marines du TRAVAILLEUR et du TALISMAN",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "4",
+      "spage": "190",
+      "epage": "195",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0027-4070",
+      "PageID": "5032573",
+      "created": "2011-01-10 19:57:31",
+      "updated": "2011-09-12 18:01:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42099",
+          "lastname": "Roule",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        5032573,
+        5032574,
+        5032575,
+        5032576,
+        5032577,
+        5032578
+      ]
+    }
+  ]
+}

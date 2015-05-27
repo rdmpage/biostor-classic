@@ -1,0 +1,91 @@
+{
+  "ItemID": "46687",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.76 no.6 1994",
+  "articles": [
+    {
+      "reference_id": "62391",
+      "genre": "article",
+      "title": "Nomenclatural notes for the North American Flora. XIII",
+      "secondary_title": "Phytologia",
+      "volume": "76",
+      "spage": "441",
+      "epage": "457",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0031-9430",
+      "PageID": "12937695",
+      "created": "2011-01-26 21:00:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43385",
+          "lastname": "Gandhi",
+          "forename": "K N"
+        },
+        {
+          "id": "43476",
+          "lastname": "Kartesz",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        12937695,
+        12937694,
+        12937693,
+        12937692,
+        12937691,
+        12937690,
+        12937689,
+        12937688,
+        12937687,
+        12937686,
+        12937685,
+        12937684,
+        12937683,
+        12937650,
+        12937651,
+        12937652,
+        12937653
+      ]
+    },
+    {
+      "reference_id": "63226",
+      "genre": "article",
+      "title": "Additions to the native and adventive flora of New Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "76",
+      "spage": "473",
+      "epage": "479",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0031-9430",
+      "PageID": "12937669",
+      "created": "2011-01-26 21:49:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43631",
+          "lastname": "Lowrey",
+          "forename": "T"
+        },
+        {
+          "id": "43632",
+          "lastname": "Sivinski",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12937669,
+        12937670,
+        12937671,
+        12937672,
+        12937673,
+        12937674,
+        12937675
+      ]
+    }
+  ]
+}

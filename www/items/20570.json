@@ -1,0 +1,630 @@
+{
+  "ItemID": "20570",
+  "FullTitle": "Entomological news.",
+  "VolumeInfo": "v. 72 1961",
+  "articles": [
+    {
+      "reference_id": "73202",
+      "genre": "article",
+      "title": "Notes on the biology of Scatopse fuscipes (Meigen) (Diptera: Scatopsidae)",
+      "secondary_title": "Ent. News",
+      "volume": "72",
+      "spage": "13",
+      "epage": "18",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666381",
+      "created": "2011-06-04 08:01:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47161",
+          "lastname": "Meade",
+          "forename": "A B"
+        },
+        {
+          "id": "44756",
+          "lastname": "Cook",
+          "forename": "E F"
+        }
+      ],
+      "bhl_pages": [
+        2666381,
+        2666382,
+        2666383,
+        2666384,
+        2666385,
+        2666386
+      ]
+    },
+    {
+      "reference_id": "84416",
+      "genre": "article",
+      "title": "A new Nearctic species of Stenoscinis, with key to the species of the western Hemisphere (Diptera, Chloropidae)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "72",
+      "spage": "19",
+      "epage": "23",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666387",
+      "created": "2011-08-10 22:39:54",
+      "updated": "2011-08-10 22:39:54",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2666387,
+        2666388,
+        2666389,
+        2666390,
+        2666391
+      ]
+    },
+    {
+      "reference_id": "3814",
+      "genre": "article",
+      "title": "A catalogue of the Schendylinae of North America including Mexico with a generic key and proposal of a new Simoporus (Chilopoda: Geophilomorpha: Schendylinae)",
+      "secondary_title": "Entomological News.",
+      "volume": "72",
+      "spage": "29",
+      "epage": "36",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666401",
+      "created": "2009-12-26 19:16:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2315",
+          "lastname": "Crabill",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2666401,
+        2666402,
+        2666403,
+        2666404,
+        2666405,
+        2666406,
+        2666407,
+        2666408
+      ]
+    },
+    {
+      "reference_id": "57209",
+      "genre": "article",
+      "title": "Another record of the larva of Epiophlebia laidlawi Tillyard, (Odonata: Anisozygoptera)",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "66",
+      "epage": "67",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666442",
+      "created": "2010-11-07 11:16:59",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41977",
+          "lastname": "Svihla",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        2666442,
+        2666443
+      ]
+    },
+    {
+      "reference_id": "3812",
+      "genre": "article",
+      "title": "Notes on the geophilid chilopods of Utah",
+      "secondary_title": "Entomological News.",
+      "volume": "72",
+      "spage": "96",
+      "epage": "100",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666478",
+      "created": "2009-12-26 19:16:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2666478,
+        2666479,
+        2666480,
+        2666481,
+        2666482
+      ]
+    },
+    {
+      "reference_id": "73581",
+      "genre": "article",
+      "title": "The genus Psilocurus Loew",
+      "secondary_title": "Ent. News",
+      "volume": "72",
+      "spage": "101",
+      "epage": "104",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666483",
+      "created": "2011-06-04 09:23:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "772",
+          "lastname": "Hull",
+          "forename": "F M"
+        }
+      ],
+      "bhl_pages": [
+        2666483,
+        2666484,
+        2666485,
+        2666486
+      ]
+    },
+    {
+      "reference_id": "70533",
+      "genre": "article",
+      "title": "The type locality of Gomphocerus clavatus Thomas (Orthoptera: Acrididae)",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "107",
+      "epage": "111",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666489",
+      "created": "2011-06-03 06:41:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46579",
+          "lastname": "Alexander",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        2666489,
+        2666490,
+        2666491,
+        2666492,
+        2666493
+      ]
+    },
+    {
+      "reference_id": "13736",
+      "genre": "article",
+      "title": "New exotic crane-flies (Tipulidae: Diptera). Part III",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "113",
+      "epage": "121",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666499",
+      "created": "2010-01-13 10:36:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2666499,
+        2666500,
+        2666501,
+        2666502,
+        2666503,
+        2666504,
+        2666505,
+        2666506,
+        2666507
+      ]
+    },
+    {
+      "reference_id": "84540",
+      "genre": "article",
+      "title": "Collembola from Japan. III. Hypogstrurinae and Neanurinae",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "72",
+      "spage": "121",
+      "epage": "126",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666507",
+      "created": "2011-08-10 22:48:42",
+      "updated": "2011-08-10 22:48:42",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2666507,
+        2666508,
+        2666509,
+        2666510,
+        2666511,
+        2666512
+      ]
+    },
+    {
+      "reference_id": "84780",
+      "genre": "article",
+      "title": "Tabanus aranti sp. nov. (Diptera: Tabanidae) from Alabama",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "72",
+      "spage": "127",
+      "epage": "129",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666513",
+      "created": "2011-08-10 23:06:25",
+      "updated": "2011-08-10 23:06:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2666513,
+        2666514,
+        2666515
+      ]
+    },
+    {
+      "reference_id": "65050",
+      "genre": "article",
+      "title": "A new species of Rallicola (Mallophaga) from southeast Asia",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "130",
+      "epage": "132",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666516",
+      "created": "2011-01-31 13:41:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44728",
+          "lastname": "Emerson",
+          "forename": "Kary Cadmus"
+        },
+        {
+          "id": "44748",
+          "lastname": "Elbel",
+          "forename": "Robert Edwin"
+        }
+      ],
+      "bhl_pages": [
+        2666516,
+        2666517,
+        2666518
+      ]
+    },
+    {
+      "reference_id": "3819",
+      "genre": "article",
+      "title": "Concerning the Neogeophilidae with a proposal of a new genus (Chilopoda: Geophilomorpha: Neogeophilidae)",
+      "secondary_title": "Entomological News.",
+      "volume": "72",
+      "spage": "155",
+      "epage": "159",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666545",
+      "created": "2009-12-26 19:17:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2315",
+          "lastname": "Crabill",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2666545,
+        2666546,
+        2666547,
+        2666548,
+        2666549
+      ]
+    },
+    {
+      "reference_id": "84642",
+      "genre": "article",
+      "title": "New North American Tabanidae XIII. Change of name for a well-known species of Chrysops",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "72",
+      "spage": "160",
+      "epage": "162",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666550",
+      "created": "2011-08-10 22:56:07",
+      "updated": "2011-08-10 22:56:07",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2666550,
+        2666551,
+        2666552
+      ]
+    },
+    {
+      "reference_id": "3736",
+      "genre": "article",
+      "title": "A New Rhinotragine Cerambycid from Arizona and Sonora (Coleoptera)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "72",
+      "issue": "6",
+      "spage": "163",
+      "epage": "165",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666553",
+      "created": "2009-12-26 19:13:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2279",
+          "lastname": "Linsley",
+          "forename": "Earle"
+        }
+      ],
+      "bhl_pages": [
+        2666553,
+        2666554,
+        2666555
+      ]
+    },
+    {
+      "reference_id": "84545",
+      "genre": "article",
+      "title": "Concerning the Neogeophilidae, with proposal of a new genus (Chilopoda : Geophilomorpha : Neogeophilidae",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "177",
+      "epage": "190",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666571",
+      "created": "2011-08-10 22:48:59",
+      "updated": "2011-08-10 22:48:59",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2666571,
+        2666572,
+        2666573,
+        2666574,
+        2666575,
+        2666576,
+        2666577,
+        2666578,
+        2666579,
+        2666580,
+        2666581,
+        2666582,
+        2666583,
+        2666584
+      ]
+    },
+    {
+      "reference_id": "66957",
+      "genre": "article",
+      "title": "Psectra diptera (Burmeister) in Wisconsin (Neuroptera: Hemerobiidae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "72",
+      "spage": "193",
+      "epage": "194",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666587",
+      "created": "2011-05-11 17:54:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45393",
+          "lastname": "Throne",
+          "forename": "A L"
+        }
+      ],
+      "bhl_pages": [
+        2666587,
+        2666588
+      ]
+    },
+    {
+      "reference_id": "65198",
+      "genre": "article",
+      "title": "Corrodentia in cliff swallow nests",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "195",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666589",
+      "created": "2011-01-31 16:45:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44821",
+          "lastname": "Rapp",
+          "forename": "W F"
+        }
+      ],
+      "bhl_pages": [
+        2666589
+      ]
+    },
+    {
+      "reference_id": "104781",
+      "genre": "article",
+      "title": "The Onychophora of Jamaica",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "213",
+      "epage": "220",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666613",
+      "created": "2012-06-28 18:39:42",
+      "updated": "2012-06-28 18:39:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53041",
+          "lastname": "Arnett",
+          "forename": "Ross H"
+        }
+      ],
+      "bhl_pages": [
+        2666613,
+        2666614,
+        2666615,
+        2666616,
+        2666617,
+        2666618,
+        2666619,
+        2666620
+      ]
+    },
+    {
+      "reference_id": "12022",
+      "genre": "article",
+      "title": "Three new Nearctic acalyptrate Diptera",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "229",
+      "epage": "234",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666635",
+      "created": "2010-01-08 16:07:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1137",
+          "lastname": "Sabrosky",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        2666635,
+        2666636,
+        2666637,
+        2666638,
+        2666639,
+        2666640
+      ]
+    },
+    {
+      "reference_id": "13737",
+      "genre": "article",
+      "title": "New exotic crane-flies (Tipulidae: Diptera). Part IV",
+      "secondary_title": "Entomological News",
+      "volume": "72",
+      "spage": "235",
+      "epage": "243",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666641",
+      "created": "2010-01-13 10:36:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2666641,
+        2666642,
+        2666643,
+        2666644,
+        2666645,
+        2666646,
+        2666647,
+        2666648,
+        2666649
+      ]
+    },
+    {
+      "reference_id": "84813",
+      "genre": "article",
+      "title": "The species of Pseudometagea Ashmead (Hymenoptera, Eucharitidae)",
+      "secondary_title": "Entomological News Lancaster",
+      "volume": "72",
+      "spage": "253",
+      "epage": "257",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0013-872X",
+      "PageID": "2666663",
+      "created": "2011-08-10 23:09:02",
+      "updated": "2011-08-10 23:09:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2666663,
+        2666664,
+        2666665,
+        2666666,
+        2666667
+      ]
+    }
+  ]
+}

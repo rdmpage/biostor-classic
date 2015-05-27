@@ -1,0 +1,48 @@
+/* Page thumbnails */
+#thumbnail_list
+{
+	position:absolute;
+	left:0px;
+	width:140px;
+	height:600px;
+	text-align:center;
+	overflow:auto;
+	background-color:rgb(235,239,247);
+}
+
+.thumbnail_item
+{
+	padding:10px;
+}
+
+/* border + padding must sum to same value as in viewer.js */
+.thumbnail
+{
+	border:1px solid rgb(146,146,146);
+	padding: 2px;
+}
+
+.thumbnail_page_info
+{
+	font-size:10px;
+}
+
+/* Scanned page */
+#page
+{
+	position: absolute;
+	left: 140px;
+	height: 600px;
+	width: 400px;
+	text-align: center;
+	background-image: url(/images/loading.gif);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+
+#page_image
+{
+	margin:10px;
+	border:1px solid rgb(192,192,192);
+}
+

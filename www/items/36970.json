@@ -1,0 +1,257 @@
+{
+  "ItemID": "36970",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 10 1887",
+  "articles": [
+    {
+      "reference_id": "66986",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Verwandlung der Mantispiden-Gattung Symphrasis Hg",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "10",
+      "spage": "212",
+      "epage": "218",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9460686",
+      "created": "2011-05-11 19:45:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42793",
+          "lastname": "Brauer",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9460686,
+        9460687,
+        9460688,
+        9460689,
+        9460690,
+        9460691,
+        9460692
+      ]
+    },
+    {
+      "reference_id": "98480",
+      "genre": "article",
+      "title": "Myzostoma bucchichii (nova species)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "10",
+      "spage": "363",
+      "epage": "364",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9460837",
+      "created": "2011-11-30 15:41:48",
+      "updated": "2011-11-30 15:42:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51684",
+          "lastname": "Von Wagner",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        9460837,
+        9460838
+      ]
+    },
+    {
+      "reference_id": "21251",
+      "genre": "article",
+      "title": "Neue Wirbelthiere des Zoologisches Museums in Berlin",
+      "secondary_title": "Zool. Anz.",
+      "volume": "10",
+      "spage": "369",
+      "epage": "372",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9460843",
+      "created": "2010-02-16 12:29:10",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2652",
+          "lastname": "Reichenow",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9460843,
+        9460844,
+        9460845,
+        9460846
+      ]
+    },
+    {
+      "reference_id": "98481",
+      "genre": "article",
+      "title": "Studien uber Raderthiere.-II. Der Raum-parasitismus und die Anatomie von Discopus synaptoe, nor. gen., nov. spec",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "10",
+      "spage": "465",
+      "epage": "468",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9460939",
+      "created": "2011-11-30 15:42:46",
+      "updated": "2011-11-30 15:42:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9460939,
+        9460940,
+        9460941,
+        9460942
+      ]
+    },
+    {
+      "reference_id": "98420",
+      "genre": "article",
+      "title": "Planaria jheringii, eine neue Triclade aus Brasilien",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "10",
+      "spage": "482",
+      "epage": "484",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9460956",
+      "created": "2011-11-30 14:05:09",
+      "updated": "2011-11-30 14:05:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9460956,
+        9460957,
+        9460958
+      ]
+    },
+    {
+      "reference_id": "100858",
+      "genre": "article",
+      "title": "Notizen \u00fcber die pelagische Fauna der S\u00fcsswasserbecken",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "10",
+      "spage": "577",
+      "epage": "582",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9461051",
+      "created": "2012-03-09 10:51:23",
+      "updated": "2012-03-09 10:55:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53462",
+          "lastname": "Imhof",
+          "forename": "Emil"
+        }
+      ],
+      "bhl_pages": [
+        9461051,
+        9461052,
+        9461053,
+        9461054,
+        9461055,
+        9461056
+      ]
+    },
+    {
+      "reference_id": "100859",
+      "genre": "article",
+      "title": "Notizen \u00fcber die pelagische Fauna der S\u00fcsswasserbecken",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "10",
+      "spage": "604",
+      "epage": "606",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9461078",
+      "created": "2012-03-09 10:57:53",
+      "updated": "2012-03-09 10:57:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53462",
+          "lastname": "Imhof",
+          "forename": "Emil"
+        }
+      ],
+      "bhl_pages": [
+        9461078,
+        9461079,
+        9461080
+      ]
+    },
+    {
+      "reference_id": "14564",
+      "genre": "article",
+      "title": "Diagnoses reptilium novorum ad ill. viro Paul Hesse in finnibus fluminis Congo repetorum",
+      "secondary_title": "Zool. Anz.",
+      "volume": "10",
+      "issue": "267",
+      "spage": "649",
+      "epage": "651",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9461123",
+      "created": "2010-01-21 08:59:13",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9461123,
+        9461124,
+        9461125
+      ]
+    },
+    {
+      "reference_id": "98419",
+      "genre": "article",
+      "title": "Note on the Reproductive Organs of Moniligaster",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "10",
+      "spage": "678",
+      "epage": "681",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0044-5231",
+      "PageID": "9461152",
+      "created": "2011-11-30 14:05:04",
+      "updated": "2011-11-30 14:05:04",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9461152,
+        9461153,
+        9461154,
+        9461155
+      ]
+    }
+  ]
+}

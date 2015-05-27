@@ -1,0 +1,71 @@
+{
+  "ItemID": "17698",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 48 (1896)",
+  "articles": [
+    {
+      "reference_id": "52185",
+      "genre": "article",
+      "title": "The mesenteries of the Sauria",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1896",
+      "spage": "308",
+      "epage": "314",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0097-3157",
+      "PageID": "1675662",
+      "created": "2010-10-15 12:03:28",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1675662,
+        1675663,
+        1675664,
+        1675665,
+        1675666,
+        1675667,
+        1675668
+      ]
+    },
+    {
+      "reference_id": "49030",
+      "genre": "article",
+      "title": "On the hemipenes of the Sauria",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "48",
+      "spage": "461",
+      "epage": "467",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0097-3157",
+      "PageID": "1675844",
+      "created": "2010-03-21 11:01:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1675844,
+        1675845,
+        1675846,
+        1675847,
+        1675848,
+        1675849,
+        1675850
+      ]
+    }
+  ]
+}

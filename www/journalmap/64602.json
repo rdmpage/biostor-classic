@@ -1,0 +1,56 @@
+{
+  "author": [
+    {
+      "firstname": "G E",
+      "lastname": "Schatz",
+      "name": "G E Schatz"
+    }
+  ],
+  "type": "article",
+  "title": "New species of Sapranthus B. C. Seemann and Unonopsis R. E. Fries (Annonaceae) from Mesoamerica",
+  "journal": {
+    "name": "Novon",
+    "volume": "8",
+    "pages": "436--440",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1055-3177"
+      }
+    ]
+  },
+  "year": "1998",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/64602"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/640697"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 64602
+    },
+    {
+      "type": "bhl",
+      "id": 640697
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -85.316666666667,
+        10.8
+      ]
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "ItemID": "42359",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 41 1908",
+  "articles": [
+    {
+      "reference_id": "60933",
+      "genre": "article",
+      "title": "Descriptions of two new genera and species of Australian Eumolpini (Coleoptera Phytophaga)",
+      "secondary_title": "Entomologist",
+      "volume": "41",
+      "spage": "26",
+      "epage": "28",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0013-8878",
+      "PageID": "11408764",
+      "created": "2010-11-26 19:25:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42166",
+          "lastname": "Jacoby",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        11408764,
+        11408765,
+        11408766
+      ]
+    },
+    {
+      "reference_id": "72951",
+      "genre": "article",
+      "title": "Descriptions of two new genera and species of Ichneumonidae (Xoridini) from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "41",
+      "spage": "82",
+      "epage": "84",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0013-8878",
+      "PageID": "11408830",
+      "created": "2011-06-04 04:45:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11408830,
+        11408831,
+        11408832
+      ]
+    },
+    {
+      "reference_id": "73117",
+      "genre": "article",
+      "title": "Notes on some Transvaal mosquitoes, including two new species and a new variety",
+      "secondary_title": "Entomologist",
+      "volume": "41",
+      "spage": "106",
+      "epage": "109",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0013-8878",
+      "PageID": "11408864",
+      "created": "2011-06-04 07:46:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10022",
+          "lastname": "Theobald",
+          "forename": "F V"
+        }
+      ],
+      "bhl_pages": [
+        11408864,
+        11408865,
+        11408866,
+        11408867
+      ]
+    },
+    {
+      "reference_id": "60962",
+      "genre": "article",
+      "title": "Bibliographical and nomenclatorial notes on the Hemiptera.--No. 8",
+      "secondary_title": "Entomologist",
+      "volume": "41",
+      "spage": "123",
+      "epage": "125",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0013-8878",
+      "PageID": "11408881",
+      "created": "2010-11-26 19:27:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11408881,
+        11408882,
+        11408883
+      ]
+    },
+    {
+      "reference_id": "60956",
+      "genre": "article",
+      "title": "On two new genera of Chalcididae from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "41",
+      "spage": "151",
+      "epage": "153",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0015-4040",
+      "PageID": "11408913",
+      "created": "2010-11-26 19:26:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11408913,
+        11408914,
+        11408915
+      ]
+    },
+    {
+      "reference_id": "72983",
+      "genre": "article",
+      "title": "Description of a new genus and species of Cryptinae (Ichneumonidae) from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "41",
+      "spage": "290",
+      "epage": "291",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0013-8878",
+      "PageID": "11409084",
+      "created": "2011-06-04 04:50:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11409084,
+        11409085
+      ]
+    },
+    {
+      "reference_id": "73013",
+      "genre": "article",
+      "title": "Description of a new genus and species of Braconidae from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "41",
+      "spage": "295",
+      "epage": "296",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0013-8878",
+      "PageID": "11409089",
+      "created": "2011-06-04 04:55:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11409089,
+        11409090
+      ]
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "ItemID": "90543",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1870",
+  "articles": [
+    {
+      "reference_id": "59991",
+      "genre": "article",
+      "title": "Notes on the skulls of the genus Orca in the British Museum, and notice of a specimen of the genus from the Seychelles: O. capensis",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "70",
+      "epage": "77",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554872",
+      "created": "2010-11-22 17:29:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        28554872,
+        28554873,
+        28554874,
+        28554875,
+        28554876,
+        28554877,
+        28554878,
+        28554879
+      ]
+    },
+    {
+      "reference_id": "59769",
+      "genre": "article",
+      "title": "Descriptions of seventeen new species of land shells from the South Sea Islands, in the cabinet of Mr John Brazier of Sydney",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "81",
+      "epage": "85",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554883",
+      "created": "2010-11-22 15:52:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40858",
+          "lastname": "Cox",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        28554883,
+        28554884,
+        28554885,
+        28554886,
+        28554887
+      ]
+    },
+    {
+      "reference_id": "57332",
+      "genre": "article",
+      "title": "Monograph of the genus Idiops, including descriptions of several species new to science",
+      "secondary_title": "Proc. zool. Soc. Lond.",
+      "volume": "1870",
+      "spage": "101",
+      "epage": "108",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554911",
+      "created": "2010-11-18 13:55:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41982",
+          "lastname": "Cambridge",
+          "forename": "O P-"
+        }
+      ],
+      "bhl_pages": [
+        28554911,
+        28554912,
+        28554913,
+        28554914,
+        28554915,
+        28554916,
+        28554917,
+        28554918
+      ]
+    },
+    {
+      "reference_id": "59973",
+      "genre": "article",
+      "title": "On additions to the menagerie in February 1870",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "125",
+      "epage": "127",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554937",
+      "created": "2010-11-22 17:21:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40400",
+          "lastname": "Sclater",
+          "forename": "P L"
+        }
+      ],
+      "bhl_pages": [
+        28554937,
+        28554938,
+        28554939
+      ]
+    },
+    {
+      "reference_id": "59925",
+      "genre": "article",
+      "title": "On the plovers of the genus Aegialtis found in China",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "136",
+      "epage": "142",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554952",
+      "created": "2010-11-22 17:00:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42714",
+          "lastname": "Swinhoe",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        28554952,
+        28554953,
+        28554954,
+        28554955,
+        28554956,
+        28554957,
+        28554958
+      ]
+    },
+    {
+      "reference_id": "102043",
+      "genre": "article",
+      "title": "Notes on Prototroctes, a Fish from Fresh Waters of the Australian Region",
+      "secondary_title": "Proceedings of the Zoological Society of London.",
+      "volume": "1870",
+      "spage": "150",
+      "epage": "152",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554970",
+      "created": "2012-03-26 15:21:07",
+      "updated": "2012-03-26 15:27:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        28554970,
+        28554971,
+        28554972
+      ]
+    },
+    {
+      "reference_id": "57311",
+      "genre": "article",
+      "title": "Supplementary notice on the genus Idiops",
+      "secondary_title": "Proc. zool. Soc. Lond.",
+      "volume": "1870",
+      "spage": "152",
+      "epage": "157",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554972",
+      "created": "2010-11-18 13:48:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41982",
+          "lastname": "Cambridge",
+          "forename": "O P-"
+        }
+      ],
+      "bhl_pages": [
+        28554972,
+        28554973,
+        28554974,
+        28554975,
+        28554976,
+        28554977
+      ]
+    },
+    {
+      "reference_id": "59785",
+      "genre": "article",
+      "title": "Descriptions of eight new species of shells from Australia and the Solomon Islands",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "170",
+      "epage": "172",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28554994",
+      "created": "2010-11-22 15:54:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40858",
+          "lastname": "Cox",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        28554994,
+        28554995,
+        28554996
+      ]
+    },
+    {
+      "reference_id": "99693",
+      "genre": "article",
+      "title": "List of additional species of Land and Freshwater Shells collected by Mr. E. Bartlett in Eastern Peru, with descriptions of new species",
+      "secondary_title": "Proceedings of The Zoological Society",
+      "volume": "1870",
+      "spage": "374",
+      "epage": "376",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555222",
+      "created": "2011-12-19 12:26:31",
+      "updated": "2011-12-19 12:26:31",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        28555222,
+        28555223,
+        28555224
+      ]
+    },
+    {
+      "reference_id": "51730",
+      "genre": "article",
+      "title": "Second account of species of tailless batrachians added to the collection of the British Museum",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "401",
+      "epage": "402",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555257",
+      "created": "2010-06-27 03:50:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40211",
+          "lastname": "G\u00fcnther",
+          "forename": "A C L G"
+        }
+      ],
+      "bhl_pages": [
+        28555257,
+        28555258
+      ]
+    },
+    {
+      "reference_id": "69326",
+      "genre": "article",
+      "title": "Notes on the reptiles and batracians collected in various parts of China",
+      "secondary_title": "Proc. Zool. Soc., Lond",
+      "volume": "1870",
+      "spage": "409",
+      "epage": "412",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555269",
+      "created": "2011-06-01 08:47:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42714",
+          "lastname": "Swinhoe",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        28555269,
+        28555270,
+        28555271,
+        28555272
+      ]
+    },
+    {
+      "reference_id": "99930",
+      "genre": "article",
+      "title": "Synopsis of the Cracidae",
+      "secondary_title": "Proceedings of The Zoological Society",
+      "volume": "1870",
+      "spage": "504",
+      "epage": "544",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555364",
+      "created": "2011-12-19 12:46:14",
+      "updated": "2011-12-19 12:46:14",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        28555364,
+        28555365,
+        28555366,
+        28555367,
+        28555368,
+        28555369,
+        28555370,
+        28555371,
+        28555372,
+        28555373,
+        28555374,
+        28555375,
+        28555376,
+        28555377,
+        28555378,
+        28555379,
+        28555380,
+        28555381,
+        28555382,
+        28555383,
+        28555384,
+        28555385,
+        28555386,
+        28555387,
+        28555388,
+        28555389,
+        28555390,
+        28555391,
+        28555392,
+        28555393,
+        28555394,
+        28555395,
+        28555396,
+        28555397,
+        28555398,
+        28555399,
+        28555400,
+        28555401,
+        28555402,
+        28555403,
+        28555404
+      ]
+    },
+    {
+      "reference_id": "59791",
+      "genre": "article",
+      "title": "Descriptions of ten new species of land shells, collected by Mr W.F. Petterd, of Hobart Town, Tasmania",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "659",
+      "epage": "662",
+      "year": "1871",
+      "date": "1871-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555525",
+      "created": "2010-11-22 15:55:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40387",
+          "lastname": "Brazier",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        28555525,
+        28555526,
+        28555527,
+        28555528
+      ]
+    },
+    {
+      "reference_id": "59863",
+      "genre": "article",
+      "title": "On the fishes of the Andaman Islands",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1870",
+      "spage": "677",
+      "epage": "705",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555553",
+      "created": "2010-11-22 16:31:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42703",
+          "lastname": "Day",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        28555553,
+        28555554,
+        28555555,
+        28555556,
+        28555557,
+        28555558,
+        28555559,
+        28555560,
+        28555561,
+        28555562,
+        28555563,
+        28555564,
+        28555565,
+        28555566,
+        28555567,
+        28555568,
+        28555569,
+        28555570,
+        28555571,
+        28555572,
+        28555573,
+        28555574,
+        28555575,
+        28555576,
+        28555577,
+        28555578,
+        28555579,
+        28555580,
+        28555581
+      ]
+    },
+    {
+      "reference_id": "57295",
+      "genre": "article",
+      "title": "On some new genera and species of Araneida",
+      "secondary_title": "Proc. zool. Soc. Lond.",
+      "volume": "1870",
+      "spage": "728",
+      "epage": "747",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555612",
+      "created": "2010-11-18 13:44:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41982",
+          "lastname": "Cambridge",
+          "forename": "O P-"
+        }
+      ],
+      "bhl_pages": [
+        28555612,
+        28555613,
+        28555614,
+        28555615,
+        28555616,
+        28555617,
+        28555618,
+        28555619,
+        28555620,
+        28555621,
+        28555622,
+        28555623,
+        28555624,
+        28555625,
+        28555626,
+        28555627,
+        28555628,
+        28555629,
+        28555630,
+        28555631
+      ]
+    },
+    {
+      "reference_id": "69284",
+      "genre": "article",
+      "title": "Descriptions of a new Indian lizard of the genus Calotes",
+      "secondary_title": "Proc. Zool. Soc. London",
+      "volume": "1870",
+      "spage": "778",
+      "epage": "779",
+      "year": "1871",
+      "date": "1871-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555664",
+      "created": "2011-06-01 08:45:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        28555664,
+        28555665
+      ]
+    },
+    {
+      "reference_id": "57279",
+      "genre": "article",
+      "title": "Notes on a collection of Arachnida made by J. K. Lord, Esq., in the peninsula of Sinai and on the African borders of the Red Sea",
+      "secondary_title": "Proc. zool. Soc. Lond.",
+      "volume": "1870",
+      "spage": "818",
+      "epage": "823",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0370-2774",
+      "PageID": "28555714",
+      "created": "2010-11-18 13:40:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41982",
+          "lastname": "Cambridge",
+          "forename": "O P-"
+        }
+      ],
+      "bhl_pages": [
+        28555714,
+        28555715,
+        28555716,
+        28555717,
+        28555718,
+        28555719
+      ]
+    }
+  ]
+}

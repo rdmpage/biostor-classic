@@ -1,0 +1,93 @@
+{
+  "ItemID": "42392",
+  "FullTitle": "Entomologica Americana.  ",
+  "VolumeInfo": "v. 5 1889",
+  "articles": [
+    {
+      "reference_id": "70914",
+      "genre": "article",
+      "title": "A New Pleocoma",
+      "secondary_title": "Entomologica Americana",
+      "volume": "5",
+      "spage": "17",
+      "epage": "18",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1568003",
+      "PageID": "11422290",
+      "created": "2011-06-03 16:52:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46685",
+          "lastname": "Rivers",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11422290,
+        11422257
+      ]
+    },
+    {
+      "reference_id": "71211",
+      "genre": "article",
+      "title": "Some new species of Lachnosterna",
+      "secondary_title": "Entomologia Americana",
+      "volume": "5",
+      "spage": "93",
+      "epage": "99",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1568003",
+      "PageID": "11422357",
+      "created": "2011-06-03 18:09:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46774",
+          "lastname": "Smith",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11422357,
+        11422358,
+        11422359,
+        11422360,
+        11422361,
+        11422362,
+        11422363
+      ]
+    },
+    {
+      "reference_id": "60324",
+      "genre": "article",
+      "title": "A generic synopsis of the Bythscopidae",
+      "secondary_title": "Entomologica Americana",
+      "volume": "5",
+      "spage": "125",
+      "epage": "126",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1568003",
+      "PageID": "11422391",
+      "created": "2010-11-22 22:30:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        11422391,
+        11422392
+      ]
+    }
+  ]
+}

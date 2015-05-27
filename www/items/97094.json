@@ -1,0 +1,72 @@
+{
+  "ItemID": "97094",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1899",
+  "articles": [
+    {
+      "reference_id": "105533",
+      "genre": "article",
+      "title": "2. On Chinese Mammals, principally from Western Sechuen",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1899",
+      "spage": "572",
+      "epage": "578",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0370-2774",
+      "doi": "10.1111\/j.1469-7998.1899.tb06875.x",
+      "PageID": "30951615",
+      "created": "2012-07-28 17:53:00",
+      "updated": "2012-07-28 18:04:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42735",
+          "lastname": "De Winton",
+          "forename": "W E"
+        },
+        {
+          "id": "54042",
+          "lastname": "Styan",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        30951615,
+        30951616,
+        30951617,
+        30951618,
+        30951619,
+        30951620,
+        30951621,
+        30951622,
+        30951624
+      ]
+    },
+    {
+      "reference_id": "52162",
+      "genre": "article",
+      "title": "On the reptiles, batrachians (and fishes) collected by the late Mr. john Whitehead in the interior of Hainan",
+      "secondary_title": "Proc. Zool. Soc. London",
+      "volume": "1899",
+      "spage": "956",
+      "epage": "959",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0370-2774",
+      "PageID": "30952063",
+      "created": "2010-10-13 16:59:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30952063,
+        30952064,
+        30952065,
+        30952066
+      ]
+    }
+  ]
+}

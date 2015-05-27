@@ -1,0 +1,64 @@
+{
+  "ItemID": "47162",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.85 no.1 1998",
+  "articles": [
+    {
+      "reference_id": "63562",
+      "genre": "article",
+      "title": "New names and combinations in Asteraceae: Heliantheae-Ecliptinae",
+      "secondary_title": "Phytologia",
+      "volume": "85",
+      "spage": "19",
+      "epage": "21",
+      "issn": "0031-9430",
+      "PageID": "13075029",
+      "created": "2011-01-26 22:04:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43682",
+          "lastname": "Weber",
+          "forename": "W A"
+        }
+      ],
+      "bhl_pages": [
+        13075029,
+        13075030,
+        13075031
+      ]
+    },
+    {
+      "reference_id": "63009",
+      "genre": "article",
+      "title": "Sex morph descriptions of Malosma laurina (Anacardiaceae), a polygamodioecious species",
+      "secondary_title": "Phytologia",
+      "volume": "85",
+      "spage": "74",
+      "epage": "79",
+      "year": "1998",
+      "date": "1998-00-00",
+      "issn": "0031-9430",
+      "PageID": "13075084",
+      "created": "2011-01-26 21:39:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43584",
+          "lastname": "Perlmutter",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        13075084,
+        13075085,
+        13075086,
+        13075087,
+        13075088,
+        13075089
+      ]
+    }
+  ]
+}

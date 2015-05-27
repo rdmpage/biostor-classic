@@ -1,0 +1,70 @@
+{
+  "ItemID": "18049",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 49 (1897)",
+  "articles": [
+    {
+      "reference_id": "59737",
+      "genre": "article",
+      "title": "New Australian mollusks",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1897",
+      "spage": "360",
+      "epage": "367",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0097-3157",
+      "PageID": "1854624",
+      "created": "2010-11-22 15:44:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42094",
+          "lastname": "Pilsbry",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        1854624,
+        1854680,
+        1854681,
+        1854625,
+        1854626,
+        1854627,
+        1854628,
+        1854682
+      ]
+    },
+    {
+      "reference_id": "69206",
+      "genre": "article",
+      "title": "Reptiles from Sonora, Sinaloa, and Jalisco, Mexico, with a description of a new species of Sceloporus",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1897",
+      "spage": "460",
+      "epage": "464",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0097-3157",
+      "PageID": "1854748",
+      "created": "2011-06-01 08:39:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46217",
+          "lastname": "Denburgh",
+          "forename": "Van"
+        }
+      ],
+      "bhl_pages": [
+        1854748,
+        1854764,
+        1854765,
+        1854749,
+        1854766
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ItemID": "23802",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.37 (1904)",
+  "articles": [
+    {
+      "reference_id": "57924",
+      "genre": "article",
+      "title": "Earthworms from the Kermadecs",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "37",
+      "spage": "298",
+      "epage": "300",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1778777",
+      "PageID": "3743051",
+      "created": "2010-11-20 18:59:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40743",
+          "lastname": "Benham",
+          "forename": "W B"
+        }
+      ],
+      "bhl_pages": [
+        3743051,
+        3743066,
+        3743067
+      ]
+    },
+    {
+      "reference_id": "57855",
+      "genre": "article",
+      "title": "Further notes on the sipunculids from New Zealand",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "37",
+      "spage": "301",
+      "epage": "308",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1778777",
+      "PageID": "3743068",
+      "created": "2010-11-20 15:09:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40743",
+          "lastname": "Benham",
+          "forename": "W B"
+        }
+      ],
+      "bhl_pages": [
+        3743068,
+        3743069,
+        3743070,
+        3743071,
+        3743072,
+        3743073,
+        3743074,
+        3743075
+      ]
+    }
+  ]
+}

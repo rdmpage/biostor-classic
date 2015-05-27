@@ -1,0 +1,111 @@
+{
+  "ItemID": "119055",
+  "FullTitle": "The Australian zoologist.",
+  "VolumeInfo": "v. 1 1914-20",
+  "articles": [
+    {
+      "reference_id": "101866",
+      "genre": "article",
+      "title": "A new Victorian Araneiad",
+      "secondary_title": "Australian Zoologist",
+      "volume": "1",
+      "spage": "21",
+      "epage": "23",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0067-2238",
+      "PageID": "38668317",
+      "created": "2012-03-19 17:35:10",
+      "updated": "2012-03-19 17:35:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        38668317,
+        38668318,
+        38668319
+      ]
+    },
+    {
+      "reference_id": "101865",
+      "genre": "article",
+      "title": "Some new Arancidae from the County of Cumberland",
+      "secondary_title": "Australian Zoologist",
+      "volume": "1",
+      "spage": "58",
+      "epage": "61",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0067-2238",
+      "PageID": "38668370",
+      "created": "2012-03-19 17:35:05",
+      "updated": "2012-03-19 17:35:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        38668370,
+        38668371,
+        38668372,
+        38668373
+      ]
+    },
+    {
+      "reference_id": "101842",
+      "genre": "article",
+      "title": "The Economics of Trochus niloticus",
+      "secondary_title": "Australian Zoologist",
+      "volume": "1",
+      "spage": "69",
+      "epage": "73",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0067-2238",
+      "PageID": "38668393",
+      "created": "2012-03-19 17:30:11",
+      "updated": "2012-03-19 17:30:11",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        38668393,
+        38668394,
+        38668395,
+        38668396,
+        38668397
+      ]
+    },
+    {
+      "reference_id": "101972",
+      "genre": "article",
+      "title": "Studies in phlebotomic Diptera, No. 1. New species of Simuliid\u00e6 and Chironomid\u00e6",
+      "secondary_title": "Australian Zoologist",
+      "volume": "1",
+      "spage": "167",
+      "epage": "170",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0067-2238",
+      "PageID": "38668513",
+      "created": "2012-03-25 09:07:05",
+      "updated": "2012-03-25 09:42:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39904",
+          "lastname": "Taylor",
+          "forename": "Frank H"
+        }
+      ],
+      "bhl_pages": [
+        38668513,
+        38668514,
+        38668515,
+        38668516
+      ]
+    }
+  ]
+}

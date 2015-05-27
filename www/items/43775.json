@@ -1,0 +1,430 @@
+{
+  "ItemID": "43775",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 24 1905",
+  "articles": [
+    {
+      "reference_id": "71202",
+      "genre": "article",
+      "title": "Libellen von Tonkin",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "19",
+      "epage": "24",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1769860",
+      "PageID": "11972005",
+      "created": "2011-06-03 18:07:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46677",
+          "lastname": "Foerster",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11972005,
+        11972006,
+        11972007,
+        11972008,
+        11972009,
+        11972010
+      ]
+    },
+    {
+      "reference_id": "96645",
+      "genre": "article",
+      "title": "Vier neue H\u00f6hlenk\u00e4fer aus dem \u00f6sterr. Litorale",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "32",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972018",
+      "created": "2011-10-11 17:09:10",
+      "updated": "2011-10-11 17:09:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53158",
+          "lastname": "M\u00fcller",
+          "forename": "Josef (Giuseppe)"
+        }
+      ],
+      "bhl_pages": [
+        11972018
+      ]
+    },
+    {
+      "reference_id": "96646",
+      "genre": "article",
+      "title": "Acht neue Coleopteren aus der palaearktischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "90",
+      "epage": "94",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972101",
+      "created": "2011-10-11 17:09:27",
+      "updated": "2011-10-11 17:09:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        11972101,
+        11972102,
+        11972103,
+        11972104,
+        11972105
+      ]
+    },
+    {
+      "reference_id": "96647",
+      "genre": "article",
+      "title": "\u00dcber die Stenichnus-Arten von der Insel Cypern",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "98",
+      "epage": "99",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972109",
+      "created": "2011-10-11 17:09:38",
+      "updated": "2011-10-11 17:09:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        11972109,
+        11972110
+      ]
+    },
+    {
+      "reference_id": "96648",
+      "genre": "article",
+      "title": "Die Rassen des Dorcadion arenarium SCOP",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "129",
+      "epage": "153",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972142",
+      "created": "2011-10-11 17:09:52",
+      "updated": "2011-10-11 17:09:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53158",
+          "lastname": "M\u00fcller",
+          "forename": "Josef (Giuseppe)"
+        }
+      ],
+      "bhl_pages": [
+        11972142,
+        11972143,
+        11972144,
+        11972145,
+        11972146,
+        11972147,
+        11972148,
+        11972149,
+        11972150,
+        11972151,
+        11972152,
+        11972153,
+        11972154,
+        11972155,
+        11972156,
+        11972157,
+        11972158,
+        11972159,
+        11972160,
+        11972161,
+        11972162,
+        11972163,
+        11972164,
+        11972165,
+        11972166
+      ]
+    },
+    {
+      "reference_id": "96649",
+      "genre": "article",
+      "title": "Zur n\u00e4heren Kenntnis der Gattung Brachysomus STEPHENS",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "169",
+      "epage": "193",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972182",
+      "created": "2011-10-11 17:10:29",
+      "updated": "2011-10-11 17:10:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53157",
+          "lastname": "Form\u00e1nek",
+          "forename": "Romuald"
+        }
+      ],
+      "bhl_pages": [
+        11972182,
+        11972183,
+        11972184,
+        11972185,
+        11972186,
+        11972187,
+        11972188,
+        11972189,
+        11972190,
+        11972191,
+        11972192,
+        11972193,
+        11972194,
+        11972195,
+        11972196,
+        11972197,
+        11972198,
+        11972199,
+        11972200,
+        11972201,
+        11972202,
+        11972203,
+        11972204,
+        11972205,
+        11972206
+      ]
+    },
+    {
+      "reference_id": "96650",
+      "genre": "article",
+      "title": "\u00dcbersicht der mir bekannten Arten der Coleopteren-Gattung Epicauta REDTB. aus der palaearctischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "194",
+      "epage": "196",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972207",
+      "created": "2011-10-11 17:10:53",
+      "updated": "2011-10-11 17:10:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        11972207,
+        11972208,
+        11972209
+      ]
+    },
+    {
+      "reference_id": "71361",
+      "genre": "article",
+      "title": "Neun neue Coleopteren aus der palaearktischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "201",
+      "epage": "206",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1769860",
+      "PageID": "11972214",
+      "created": "2011-06-03 19:33:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11972214,
+        11972215,
+        11972216,
+        11972217,
+        11972218,
+        11972219
+      ]
+    },
+    {
+      "reference_id": "96651",
+      "genre": "article",
+      "title": "\u00dcbersicht der Arten der Coleopteren-Gattung Proteinus LATR. aus Europa und dem Kaukasus",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "226",
+      "epage": "228",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972241",
+      "created": "2011-10-11 17:11:50",
+      "updated": "2011-10-11 17:11:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        11972241,
+        11972242,
+        11972243
+      ]
+    },
+    {
+      "reference_id": "96652",
+      "genre": "article",
+      "title": "Zur systematischen Gruppeneinteilung des Coleopteren-Genus Dromius BONELLI und \u00dcbersicht der mir bekannten Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "229",
+      "epage": "239",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972244",
+      "created": "2011-10-11 17:13:03",
+      "updated": "2011-10-11 17:13:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        11972244,
+        11972245,
+        11972246,
+        11972247,
+        11972248,
+        11972249,
+        11972250,
+        11972251,
+        11972252,
+        11972253,
+        11972254
+      ]
+    },
+    {
+      "reference_id": "96653",
+      "genre": "article",
+      "title": "Notizen zu dem Tenebrionidenkatalog von GEMMINGER und HAROLD, Band VII und CHAMPIONS Nachtrag zu demselben",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "252",
+      "epage": "260",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972267",
+      "created": "2011-10-11 17:13:44",
+      "updated": "2011-10-11 17:13:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53179",
+          "lastname": "Gebien",
+          "forename": "Hans"
+        }
+      ],
+      "bhl_pages": [
+        11972267,
+        11972268,
+        11972269,
+        11972270,
+        11972271,
+        11972272,
+        11972273,
+        11972274,
+        11972275
+      ]
+    },
+    {
+      "reference_id": "96654",
+      "genre": "article",
+      "title": "Notiz",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "262",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "1562-0891",
+      "PageID": "11972277",
+      "created": "2011-10-11 17:14:01",
+      "updated": "2011-10-11 17:14:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53081",
+          "lastname": "Von Heyden",
+          "forename": "Lucas Friedrich Julius Dominicus"
+        }
+      ],
+      "bhl_pages": [
+        11972277
+      ]
+    },
+    {
+      "reference_id": "57942",
+      "genre": "article",
+      "title": "Neue und wenig bekannte Hemiptera",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "24",
+      "spage": "266",
+      "epage": "268",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1769860",
+      "PageID": "11972281",
+      "created": "2010-11-20 19:12:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11972281,
+        11972282,
+        11972283
+      ]
+    }
+  ]
+}

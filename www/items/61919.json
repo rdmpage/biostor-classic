@@ -1,0 +1,73 @@
+{
+  "ItemID": "61919",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "v. 9 (1842)",
+  "articles": [
+    {
+      "reference_id": "94557",
+      "genre": "article",
+      "title": "XXX.\u2014Information respecting Scientific Travellers",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "9",
+      "spage": "239",
+      "epage": "243",
+      "year": "1842",
+      "date": "1842-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745484209445332",
+      "PageID": "18684451",
+      "created": "2011-09-30 13:53:25",
+      "updated": "2011-09-30 13:53:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52856",
+          "lastname": "Forbes",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        18684451,
+        18684452,
+        18684453,
+        18684454,
+        18684455
+      ]
+    },
+    {
+      "reference_id": "94545",
+      "genre": "article",
+      "title": "XL.\u2014The Birds of Ireland",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "9",
+      "spage": "373",
+      "epage": "381",
+      "year": "1842",
+      "date": "1842-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745484209445351",
+      "PageID": "18684585",
+      "created": "2011-09-30 13:51:50",
+      "updated": "2011-09-30 13:51:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51869",
+          "lastname": "Thompson",
+          "forename": "Wm"
+        }
+      ],
+      "bhl_pages": [
+        18684585,
+        18684586,
+        18684587,
+        18684588,
+        18684589,
+        18684590,
+        18684591,
+        18684592,
+        18684593
+      ]
+    }
+  ]
+}

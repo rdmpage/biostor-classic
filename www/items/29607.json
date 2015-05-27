@@ -1,0 +1,38 @@
+{
+  "ItemID": "29607",
+  "FullTitle": "Journal de Physique, de Chimie et d'Histoire Naturelle.  ",
+  "VolumeInfo": "Tom. 88",
+  "articles": [
+    {
+      "reference_id": "103838",
+      "genre": "article",
+      "title": "M\u00e9moire sur un nouveau genre de mollusque",
+      "secondary_title": "Journal de Physique, de Chimie et d'Histoire Naturelle",
+      "volume": "88",
+      "spage": "215",
+      "epage": "219",
+      "year": "1819",
+      "date": "1819-00-00",
+      "oclc": "9363670",
+      "PageID": "6172115",
+      "created": "2012-05-30 10:14:42",
+      "updated": "2012-05-30 10:20:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53793",
+          "lastname": "Defrance",
+          "forename": "Jacques Louis Marin"
+        }
+      ],
+      "bhl_pages": [
+        6172115,
+        6172116,
+        6172117,
+        6172118,
+        6172119,
+        6172161
+      ]
+    }
+  ]
+}

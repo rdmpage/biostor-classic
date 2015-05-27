@@ -1,0 +1,795 @@
+{
+  "ItemID": "31794",
+  "FullTitle": "Proceedings of the United States National Museum.",
+  "VolumeInfo": "v. 2 1879",
+  "articles": [
+    {
+      "reference_id": "67401",
+      "genre": "article",
+      "title": "Description of a species of Lycodes (L. paxillus) obtained by the United States Fish Commission",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "44",
+      "epage": "46",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7303012",
+      "created": "2011-05-26 19:35:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45479",
+          "lastname": "Bean",
+          "forename": "G B Goode T H"
+        }
+      ],
+      "bhl_pages": [
+        7303012,
+        7303013,
+        7303014
+      ]
+    },
+    {
+      "reference_id": "14460",
+      "genre": "article",
+      "title": "Description of a new species of Liparis (L. ranula) obtained by the United States Fish Commission off Halifax, Nova Scotia",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "46",
+      "epage": "48",
+      "year": "1879",
+      "date": "1879-07-07",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:961DB40F-4909-4E07-9E60-BCAF0A066007",
+      "PageID": "7303014",
+      "created": "2010-01-14 14:34:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303014,
+        7303015,
+        7303016
+      ]
+    },
+    {
+      "reference_id": "14454",
+      "genre": "article",
+      "title": "Description of a new species of amber fish (Seriola stearnsii) obtained near Pensacola, Florida, by Mr. Silas Stearns",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "48",
+      "epage": "51",
+      "year": "1879",
+      "date": "1879-07-07",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:89072835-5127-4FBE-80F4-F1A674742AEB",
+      "PageID": "7303016",
+      "created": "2010-01-14 14:27:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303016,
+        7303017,
+        7303018,
+        7303019
+      ]
+    },
+    {
+      "reference_id": "78441",
+      "genre": "article",
+      "title": "On the birds of Heligoland",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "2",
+      "spage": "51",
+      "epage": "55",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7303019",
+      "created": "2011-06-30 15:05:53",
+      "updated": "2011-06-30 15:05:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49661",
+          "lastname": "Gdtke",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        7303019,
+        7303020,
+        7303021,
+        7303022,
+        7303023
+      ]
+    },
+    {
+      "reference_id": "67402",
+      "genre": "article",
+      "title": "Description of Alepocephalus bairdii, a new species of fish from the deep-sea fauna of the western Atlantic",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "55",
+      "epage": "57",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7303023",
+      "created": "2011-05-26 19:43:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303023,
+        7303024,
+        7303025
+      ]
+    },
+    {
+      "reference_id": "78442",
+      "genre": "article",
+      "title": "On the species of Astroscopus of the eastern United States",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "2",
+      "spage": "57",
+      "epage": "63",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7303025",
+      "created": "2011-06-30 15:05:56",
+      "updated": "2011-06-30 15:05:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2951",
+          "lastname": "Bean",
+          "forename": "Tarleton H"
+        }
+      ],
+      "bhl_pages": [
+        7303025,
+        7303026,
+        7303027,
+        7303028,
+        7303029,
+        7303030,
+        7303031
+      ]
+    },
+    {
+      "reference_id": "14425",
+      "genre": "article",
+      "title": "Description of an apparently new species of Gasterosteus (G. atkinsii) from the Schoodic Lakes, Maine",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "67",
+      "epage": "69",
+      "year": "1879",
+      "date": "1879-07-07",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:26DF889B-E39F-4373-8F73-F131E8D5424E",
+      "PageID": "7303035",
+      "created": "2010-01-14 13:51:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303035,
+        7303036,
+        7303037
+      ]
+    },
+    {
+      "reference_id": "14389",
+      "genre": "article",
+      "title": "Review of the Pleuronectidae of San Francisco",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "69",
+      "epage": "108",
+      "year": "1879",
+      "date": "1879-07-15",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:EF63B6EB-8255-40EC-9C1D-3B157AC94D73",
+      "PageID": "7303037",
+      "created": "2010-01-14 13:11:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        7303037,
+        7303038,
+        7303039,
+        7303040,
+        7303041,
+        7303042,
+        7303043,
+        7303044,
+        7303045,
+        7303046,
+        7303047,
+        7303048,
+        7303049,
+        7303050,
+        7303051,
+        7303052,
+        7303053,
+        7303054,
+        7303055,
+        7303056,
+        7303057,
+        7303058,
+        7303059,
+        7303060,
+        7303061,
+        7303062,
+        7303063,
+        7303064,
+        7303065,
+        7303066,
+        7303067,
+        7303068,
+        7303069,
+        7303070,
+        7303071,
+        7303072,
+        7303073,
+        7303074,
+        7303075,
+        7303076
+      ]
+    },
+    {
+      "reference_id": "14458",
+      "genre": "article",
+      "title": "A preliminary catalogue of the fishes of the St. John\u2019s River and the east coast of Florida, with descriptions of a new genus and three new species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "108",
+      "epage": "121",
+      "year": "1879",
+      "date": "1879-09-19",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:913A2FB5-61E3-42DC-9FAF-2E6724C6A4E6",
+      "PageID": "7303076",
+      "created": "2010-01-14 14:33:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        7303076,
+        7303077,
+        7303078,
+        7303079,
+        7303080,
+        7303081,
+        7303082,
+        7303083,
+        7303084,
+        7303085,
+        7303086,
+        7303087,
+        7303088,
+        7303089
+      ]
+    },
+    {
+      "reference_id": "14486",
+      "genre": "article",
+      "title": "Catalogue of a collection of fishes sent from Pensacola, Florida, and vicinity, by Mr. Silas Stearns, with descriptions of six new species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "121",
+      "epage": "156",
+      "year": "1879",
+      "date": "1879-11-14",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:E791CE16-D6FD-4E28-A0CB-1D435714AB91",
+      "PageID": "7303089",
+      "created": "2010-01-14 14:54:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303089,
+        7303090,
+        7303091,
+        7303092,
+        7303093,
+        7303094,
+        7303095,
+        7303096,
+        7303097,
+        7303098,
+        7303099,
+        7303100,
+        7303101,
+        7303102,
+        7303103,
+        7303104,
+        7303105,
+        7303106,
+        7303107,
+        7303108,
+        7303109,
+        7303110,
+        7303111,
+        7303112,
+        7303113,
+        7303114,
+        7303115,
+        7303116,
+        7303117,
+        7303118,
+        7303119,
+        7303120,
+        7303121,
+        7303122,
+        7303123,
+        7303124
+      ]
+    },
+    {
+      "reference_id": "67403",
+      "genre": "article",
+      "title": "Description of a new genus and species of fish, Lopholatilus chamaeleonticeps, from the south coast of New England",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "205",
+      "epage": "209",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0096-3801",
+      "PageID": "7303173",
+      "created": "2011-05-26 19:44:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45479",
+          "lastname": "Bean",
+          "forename": "G B Goode T H"
+        }
+      ],
+      "bhl_pages": [
+        7303173,
+        7303174,
+        7303175,
+        7303176,
+        7303177
+      ]
+    },
+    {
+      "reference_id": "14476",
+      "genre": "article",
+      "title": "Description of a new fish from Alaska (Anarrhichas lepturus), with notes upon other species of the genus Anarrhichas",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "212",
+      "epage": "218",
+      "year": "1879",
+      "date": "1879-12-17",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:BC141997-F049-4DAC-BBA8-D870EB73863E",
+      "PageID": "7303180",
+      "created": "2010-01-14 14:45:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303180,
+        7303181,
+        7303182,
+        7303183,
+        7303184,
+        7303185,
+        7303186
+      ]
+    },
+    {
+      "reference_id": "14324",
+      "genre": "article",
+      "title": "Notes on certain typical specimens of American fishes in the British Museum and in the Museum d\u2019Histoire Naturelle at Paris",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "218",
+      "epage": "226",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:AD0185D1-B2F7-43DC-9BA7-EF030B34BCA8",
+      "PageID": "7303186",
+      "created": "2010-01-14 13:05:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        7303186,
+        7303187,
+        7303188,
+        7303189,
+        7303190,
+        7303191,
+        7303192,
+        7303193,
+        7303194
+      ]
+    },
+    {
+      "reference_id": "14422",
+      "genre": "article",
+      "title": "Description of new species of North American fishes",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "235",
+      "epage": "241",
+      "year": "1880",
+      "date": "1880-02-03",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:2402D616-29B9-41D5-B93C-6FA97AA7B38A",
+      "PageID": "7303203",
+      "created": "2010-01-14 13:48:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        7303203,
+        7303204,
+        7303205,
+        7303206,
+        7303207,
+        7303208,
+        7303209
+      ]
+    },
+    {
+      "reference_id": "14475",
+      "genre": "article",
+      "title": "Notes on a collection of fishes from eastern Georgia",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "284",
+      "epage": "286",
+      "year": "1880",
+      "date": "1880-03-30",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:B9428D81-B876-4734-A458-5AC7CF841B1C",
+      "PageID": "7303256",
+      "created": "2010-01-14 14:44:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303256,
+        7303257,
+        7303258
+      ]
+    },
+    {
+      "reference_id": "14360",
+      "genre": "article",
+      "title": "Description of a new species of Amiurus (A. ponderosus) from the Mississippi River",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "286",
+      "epage": "290",
+      "year": "1880",
+      "date": "1880-03-30",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:D352C35C-0FA5-4977-A1E5-31827BC01B17",
+      "PageID": "7303258",
+      "created": "2010-01-14 13:08:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303258,
+        7303259,
+        7303260,
+        7303261,
+        7303262
+      ]
+    },
+    {
+      "reference_id": "67404",
+      "genre": "article",
+      "title": "Notes on a collection of fishes obtained in the streams of Guanajuato and in Chapala Lake, Mexico, by Prof. A. Dug\u00e8s",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "298",
+      "epage": "301",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "7303282",
+      "created": "2011-05-26 19:47:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        7303282,
+        7303283,
+        7303284,
+        7303285
+      ]
+    },
+    {
+      "reference_id": "14193",
+      "genre": "article",
+      "title": "Descriptions of two species of fishes collected by Prof. A. Dug\u00e8s in central Mexico",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "302",
+      "epage": "305",
+      "year": "1880",
+      "date": "1880-03-31",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:3EDB396E-DBA4-436C-97FC-BB6EB7BFDC87",
+      "PageID": "7303286",
+      "created": "2010-01-14 12:27:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303286,
+        7303287,
+        7303288,
+        7303289
+      ]
+    },
+    {
+      "reference_id": "14148",
+      "genre": "article",
+      "title": "Descriptions of new genera and species of fishes from the coast of California",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "326",
+      "epage": "332",
+      "year": "1880",
+      "date": "1880-03-31",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:1BF7A3A0-53E8-46EB-875B-6A63EC85A1DE",
+      "PageID": "7303310",
+      "created": "2010-01-14 12:19:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        7303310,
+        7303311,
+        7303312,
+        7303313,
+        7303314,
+        7303315,
+        7303316
+      ]
+    },
+    {
+      "reference_id": "14388",
+      "genre": "article",
+      "title": "Catalogue of a collection of fishes obtained in the Gulf of Mexico, by Dr. J. W. Velie, with descriptions of seven new species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "333",
+      "epage": "345",
+      "year": "1880",
+      "date": "1880-03-25",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:EF5D0F2F-A714-4F69-83A8-CDF9B87F5F17",
+      "PageID": "7303317",
+      "created": "2010-01-14 13:11:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303317,
+        7303318,
+        7303319,
+        7303320,
+        7303321,
+        7303322,
+        7303323,
+        7303324,
+        7303325,
+        7303326,
+        7303327,
+        7303328,
+        7303329
+      ]
+    },
+    {
+      "reference_id": "60176",
+      "genre": "article",
+      "title": "Notice of a new species of the `Willemoesia group of Crustacea' (recent Eryontidae)",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "345",
+      "epage": "353",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0096-3801",
+      "PageID": "7303329",
+      "created": "2010-11-22 20:14:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42768",
+          "lastname": "Smith",
+          "forename": "S I"
+        }
+      ],
+      "bhl_pages": [
+        7303329,
+        7303330,
+        7303331,
+        7303332,
+        7303333,
+        7303334,
+        7303335,
+        7303336,
+        7303337
+      ]
+    },
+    {
+      "reference_id": "14212",
+      "genre": "article",
+      "title": "Descriptions of some genera and species of Alaskan fishes",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "2",
+      "spage": "353",
+      "epage": "359",
+      "year": "1880",
+      "date": "1880-04-08",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:4DFF2D36-B3B8-47B5-9B8F-0CE3D4E2C285",
+      "PageID": "7303341",
+      "created": "2010-01-14 12:30:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        7303341,
+        7303342,
+        7303343,
+        7303344,
+        7303345,
+        7303346,
+        7303347
+      ]
+    }
+  ]
+}

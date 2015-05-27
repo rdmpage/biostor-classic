@@ -1,0 +1,151 @@
+{
+  "ItemID": "43670",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 52 1919",
+  "articles": [
+    {
+      "reference_id": "72875",
+      "genre": "article",
+      "title": "The antiquity of the Ichneumonidae",
+      "secondary_title": "Entomologist",
+      "volume": "52",
+      "spage": "121",
+      "epage": "122",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-8878",
+      "PageID": "11934957",
+      "created": "2011-06-04 04:31:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        11934957,
+        11934958
+      ]
+    },
+    {
+      "reference_id": "60952",
+      "genre": "article",
+      "title": "Some undescribed Stephanidae in the British Museum",
+      "secondary_title": "Entomologist",
+      "volume": "52",
+      "spage": "129",
+      "epage": "131",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-8878",
+      "PageID": "11934965",
+      "created": "2010-11-26 19:26:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42893",
+          "lastname": "Elliott",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        11934965,
+        11934966,
+        11934967
+      ]
+    },
+    {
+      "reference_id": "85832",
+      "genre": "article",
+      "title": "The Heteroptera of Indo-China",
+      "secondary_title": "The Entomologist",
+      "volume": "52",
+      "spage": "145",
+      "epage": "149",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-8878",
+      "PageID": "11934987",
+      "created": "2011-09-11 19:55:04",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        11934987,
+        11934988,
+        11934989,
+        11934990,
+        11934991
+      ]
+    },
+    {
+      "reference_id": "73018",
+      "genre": "article",
+      "title": "Contributions to our knowledge of the British Braconidae. No. 4. Rhogadidae",
+      "secondary_title": "Entomologist",
+      "volume": "52",
+      "spage": "149",
+      "epage": "155",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-8878",
+      "PageID": "11934991",
+      "created": "2011-06-04 04:57:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42501",
+          "lastname": "Lyle",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        11934991,
+        11934992,
+        11934993,
+        11934994,
+        11934995,
+        11934996,
+        11934997
+      ]
+    },
+    {
+      "reference_id": "71490",
+      "genre": "article",
+      "title": "A new mymarid from Java",
+      "secondary_title": "Entomologist",
+      "volume": "52",
+      "spage": "161",
+      "epage": "162",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0013-8878",
+      "PageID": "11935003",
+      "created": "2011-06-03 20:04:31",
+      "updated": "2012-01-20 02:51:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40870",
+          "lastname": "Dodd",
+          "forename": "A P"
+        }
+      ],
+      "bhl_pages": [
+        11935003,
+        11935004
+      ]
+    }
+  ]
+}

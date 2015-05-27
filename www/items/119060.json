@@ -1,0 +1,36 @@
+{
+  "ItemID": "119060",
+  "FullTitle": "Memoirs of the National Museum, Melbourne. ",
+  "VolumeInfo": "4",
+  "articles": [
+    {
+      "reference_id": "102228",
+      "genre": "article",
+      "title": "Descriptions of new Australian Cicadidae in the National Museum, Melbourne",
+      "secondary_title": "Memoirs of The National Museum of Victoria",
+      "volume": "4",
+      "spage": "30",
+      "epage": "32",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0083-5986",
+      "PageID": "38672388",
+      "created": "2012-03-31 20:19:52",
+      "updated": "2012-03-31 20:19:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46109",
+          "lastname": "Ashton",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        38672388,
+        38672387,
+        38672386,
+        38672381
+      ]
+    }
+  ]
+}

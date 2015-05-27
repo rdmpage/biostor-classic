@@ -1,0 +1,39 @@
+{
+  "ItemID": "48361",
+  "FullTitle": "M\u00e9moires de la Soci\u00e9t\u00e9 linn\u00e9enne de Paris.  ",
+  "VolumeInfo": "t.1 1822",
+  "articles": [
+    {
+      "reference_id": "99463",
+      "genre": "article",
+      "title": "Des insectes qui se voient sur la vigne ou vivent \u00e0 ses d\u00e9pens, avec l'indication des plantes parasites de cet arbuste",
+      "secondary_title": "M\u00e9moires de la Soci\u00e9t\u00e9 Linn\u00e9enne de Paris",
+      "volume": "1",
+      "spage": "248",
+      "epage": "254",
+      "year": "1822",
+      "date": "1822-00-00",
+      "oclc": "1765842",
+      "PageID": "13561712",
+      "created": "2011-12-15 15:46:51",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53375",
+          "lastname": "Vallot",
+          "forename": "J N"
+        }
+      ],
+      "bhl_pages": [
+        13561712,
+        13561713,
+        13561714,
+        13561715,
+        13561716,
+        13561717,
+        13561718
+      ]
+    }
+  ]
+}

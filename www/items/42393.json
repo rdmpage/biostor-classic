@@ -1,0 +1,61 @@
+{
+  "ItemID": "42393",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 55 1922",
+  "articles": [
+    {
+      "reference_id": "67094",
+      "genre": "article",
+      "title": "Hemerobius stigma, Steph. (Neuroptera)",
+      "secondary_title": "Entomologist",
+      "volume": "55",
+      "spage": "67",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8878",
+      "PageID": "11422669",
+      "created": "2011-05-12 13:20:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45452",
+          "lastname": "Lucas",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        11422669
+      ]
+    },
+    {
+      "reference_id": "60939",
+      "genre": "article",
+      "title": "New chalcid flies from Australia",
+      "secondary_title": "Entomologist",
+      "volume": "55",
+      "spage": "205",
+      "epage": "208",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8878",
+      "PageID": "11422833",
+      "created": "2010-11-26 19:25:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        11422833,
+        11422834,
+        11422835,
+        11422836
+      ]
+    }
+  ]
+}

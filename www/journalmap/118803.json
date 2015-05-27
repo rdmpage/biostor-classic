@@ -1,0 +1,56 @@
+{
+  "author": [
+    {
+      "firstname": "David R",
+      "lastname": "Smith",
+      "name": "David R Smith"
+    }
+  ],
+  "type": "article",
+  "title": "A synopsis of the sawflies (Hymenoptera: Symphyta) of America south of the United States: Argidae",
+  "journal": {
+    "name": "Memoirs of the American Entomological Society",
+    "volume": "39",
+    "pages": "1--201",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0065-8170"
+      }
+    ]
+  },
+  "year": "1992",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/118803"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/38911953"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 118803
+    },
+    {
+      "type": "bhl",
+      "id": 38911953
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -11.466666666667,
+        -15.75
+      ],
+      [
+        -55.616666666667,
+        -12.516666666667
+      ]
+    ]
+  }
+}

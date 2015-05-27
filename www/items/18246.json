@@ -1,0 +1,514 @@
+{
+  "ItemID": "18246",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 8 (1856)",
+  "articles": [
+    {
+      "reference_id": "69374",
+      "genre": "article",
+      "title": "Notice of three genera of Scarabaeidae found in the United States",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "19",
+      "epage": "25",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935080",
+      "created": "2011-06-01 08:51:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46256",
+          "lastname": "J.l.",
+          "forename": "Leconte"
+        }
+      ],
+      "bhl_pages": [
+        1935080,
+        1935081,
+        1935082,
+        1935083,
+        1935084,
+        1935085,
+        1935086
+      ]
+    },
+    {
+      "reference_id": "59694",
+      "genre": "article",
+      "title": "Descriptions of twenty-five new species of exotic uniones",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "92",
+      "epage": "95",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935146",
+      "created": "2010-11-22 15:32:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42667",
+          "lastname": "Lea",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        1935146,
+        1935147,
+        1935148,
+        1935149
+      ]
+    },
+    {
+      "reference_id": "49067",
+      "genre": "article",
+      "title": "Description of a new snake from Illinois",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "8",
+      "spage": "95",
+      "epage": "96",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935149",
+      "created": "2010-03-21 11:10:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39368",
+          "lastname": "Kennicott",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        1935149,
+        1935150
+      ]
+    },
+    {
+      "reference_id": "69211",
+      "genre": "article",
+      "title": "A large collection of living specimens of Sternothaerus odoratus",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "8",
+      "spage": "106",
+      "epage": "108",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935160",
+      "created": "2011-06-01 08:39:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1935160,
+        1935161,
+        1935162
+      ]
+    },
+    {
+      "reference_id": "51842",
+      "genre": "article",
+      "title": "Descriptions of two new species of urodeles, from Georgia",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "130",
+      "epage": "131",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935184",
+      "created": "2010-06-27 08:17:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1935184,
+        1935185
+      ]
+    },
+    {
+      "reference_id": "49249",
+      "genre": "article",
+      "title": "Notes on the reptiles in the collection of the museum of the Academy of Natural Sciences",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "8",
+      "issue": "4",
+      "spage": "146",
+      "epage": "153",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935201",
+      "created": "2010-03-21 12:32:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39416",
+          "lastname": "Hallowell",
+          "forename": "E D W A R D"
+        }
+      ],
+      "bhl_pages": [
+        1935201,
+        1935202,
+        1935203,
+        1935204,
+        1935205,
+        1935206,
+        1935207,
+        1935208
+      ]
+    },
+    {
+      "reference_id": "49106",
+      "genre": "article",
+      "title": "On several new species of reptiles in the collection of the Academy of Natural Sciences",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "8",
+      "spage": "153",
+      "epage": "156",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935208",
+      "created": "2010-03-21 11:18:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1935208,
+        1935209,
+        1935210,
+        1935211
+      ]
+    },
+    {
+      "reference_id": "69213",
+      "genre": "article",
+      "title": "Researches upon the cyprinoid species inhabiting the fresh waters of the United States west of the Mississippi valley, from specimens in the museum of the Smithsonian Institution",
+      "secondary_title": "Proc. Acad. Natur. Sci. Philad. (1856)",
+      "volume": "8",
+      "spage": "165",
+      "epage": "213",
+      "year": "1857",
+      "date": "1857-00-00",
+      "oclc": "1382862",
+      "PageID": "1935220",
+      "created": "2011-06-01 08:39:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42698",
+          "lastname": "Girard",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        1935220,
+        1935221,
+        1935222,
+        1935223,
+        1935224,
+        1935225,
+        1935226,
+        1935227,
+        1935228,
+        1935229,
+        1935230,
+        1935231,
+        1935232,
+        1935233,
+        1935234,
+        1935235,
+        1935236,
+        1935237,
+        1935238,
+        1935239,
+        1935240,
+        1935241,
+        1935242,
+        1935243,
+        1935244,
+        1935245,
+        1935246,
+        1935247,
+        1935248,
+        1935249,
+        1935250,
+        1935251,
+        1935252,
+        1935253,
+        1935254,
+        1935255,
+        1935256,
+        1935257,
+        1935258,
+        1935259,
+        1935260,
+        1935261,
+        1935262,
+        1935263,
+        1935264,
+        1935265,
+        1935266,
+        1935267,
+        1935268
+      ]
+    },
+    {
+      "reference_id": "67472",
+      "genre": "article",
+      "title": "Notes on the Reptiles in the collection of the Academy of Natural Sciences of Philad'a",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "221",
+      "epage": "238",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935276",
+      "created": "2011-05-27 19:59:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1935276,
+        1935277,
+        1935278,
+        1935279,
+        1935280,
+        1935281,
+        1935282,
+        1935283,
+        1935284,
+        1935285,
+        1935286,
+        1935287,
+        1935288,
+        1935289,
+        1935290,
+        1935291,
+        1935292,
+        1935293
+      ]
+    },
+    {
+      "reference_id": "14773",
+      "genre": "article",
+      "title": "Notes on the reptiles in the collection of the Academy of Natural Sciences of Philadelphia",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "221",
+      "epage": "238",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935276",
+      "created": "2010-02-01 17:10:09",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10325",
+          "lastname": "Hallowell",
+          "forename": "Edward"
+        }
+      ],
+      "bhl_pages": [
+        1935276,
+        1935277,
+        1935278,
+        1935279,
+        1935280,
+        1935281,
+        1935282,
+        1935283,
+        1935284,
+        1935285,
+        1935286,
+        1935287,
+        1935288,
+        1935289,
+        1935290,
+        1935291,
+        1935292,
+        1935293
+      ]
+    },
+    {
+      "reference_id": "40417",
+      "genre": "article",
+      "title": "Notes on the reptiles in the collection of the Academy of Natural Sciences of Philadelphia",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "221",
+      "issn": "0097-3157",
+      "url": "http:\/\/www.jstor.org\/stable\/4059157?seq=6",
+      "PageID": "1935276",
+      "created": "2010-02-19 11:30:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35740",
+          "lastname": "Hallowell",
+          "forename": "Edward M D"
+        }
+      ],
+      "bhl_pages": [
+        1935276
+      ]
+    },
+    {
+      "reference_id": "40418",
+      "genre": "article",
+      "title": "Notes on the reptiles in the collection of the Academy of Natural Sciences of Philadelphia",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "221",
+      "issn": "0097-3157",
+      "url": "http:\/\/www.jstor.org\/stable\/4059157?seq=6",
+      "PageID": "1935276",
+      "created": "2010-02-19 11:31:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35740",
+          "lastname": "Hallowell",
+          "forename": "Edward M D"
+        }
+      ],
+      "bhl_pages": [
+        1935276
+      ]
+    },
+    {
+      "reference_id": "14775",
+      "genre": "article",
+      "title": "Notice of a Collection of Reptiles from Kansas and Nebraska, presented to the Academy of Natural Sciences, by Dr. Hammond, U. S. A",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "238",
+      "epage": "253",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935293",
+      "created": "2010-02-01 17:26:54",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10325",
+          "lastname": "Hallowell",
+          "forename": "Edward"
+        }
+      ],
+      "bhl_pages": [
+        1935293,
+        1935294,
+        1935295,
+        1935296,
+        1935297,
+        1935298,
+        1935299,
+        1935300,
+        1935301,
+        1935302,
+        1935303,
+        1935304,
+        1935305,
+        1935306,
+        1935307,
+        1935308
+      ]
+    },
+    {
+      "reference_id": "14774",
+      "genre": "article",
+      "title": "On a new and remarkable genus of Ranidae, from the river Parana",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "298",
+      "epage": "298",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935354",
+      "created": "2010-02-01 17:24:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10325",
+          "lastname": "Hallowell",
+          "forename": "Edward"
+        }
+      ],
+      "bhl_pages": [
+        1935354
+      ]
+    },
+    {
+      "reference_id": "51886",
+      "genre": "article",
+      "title": "Note on the collection of reptiles from the neighborhood of San Antonio, Texas, recently presented to the Academy of Natural Sciences",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "8",
+      "spage": "306",
+      "epage": "310",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935362",
+      "created": "2010-06-27 09:38:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1935362,
+        1935363,
+        1935364,
+        1935365,
+        1935366
+      ]
+    }
+  ]
+}

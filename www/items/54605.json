@@ -1,0 +1,98 @@
+{
+  "ItemID": "54605",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "4th ser. v. 2 (1868)",
+  "articles": [
+    {
+      "reference_id": "91579",
+      "genre": "article",
+      "title": "Bibliographical notice",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "2",
+      "series": "4",
+      "spage": "62",
+      "epage": "63",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936808695747",
+      "PageID": "16104642",
+      "created": "2011-09-28 16:21:09",
+      "updated": "2011-09-28 16:21:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        16104642,
+        16104643
+      ]
+    },
+    {
+      "reference_id": "91635",
+      "genre": "article",
+      "title": "Description of two Sacculinid\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "2",
+      "series": "4",
+      "spage": "234",
+      "epage": "235",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936808695790",
+      "PageID": "16104814",
+      "created": "2011-09-28 16:28:53",
+      "updated": "2011-09-28 16:28:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52208",
+          "lastname": "Hesse",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        16104814,
+        16104815
+      ]
+    },
+    {
+      "reference_id": "91823",
+      "genre": "article",
+      "title": "LV.\u2014On the genera Cortesia and Rhabdia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "2",
+      "series": "4",
+      "spage": "427",
+      "epage": "436",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936808695846",
+      "PageID": "16105007",
+      "created": "2011-09-28 16:53:04",
+      "updated": "2011-09-28 16:53:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2779",
+          "lastname": "Miers",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        16105007,
+        16105008,
+        16105009,
+        16105010,
+        16105011,
+        16105012,
+        16105013,
+        16105014,
+        16105015,
+        16105016
+      ]
+    }
+  ]
+}

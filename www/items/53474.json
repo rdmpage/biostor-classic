@@ -1,0 +1,493 @@
+{
+  "ItemID": "53474",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "4th ser. v. 20 (1877)",
+  "articles": [
+    {
+      "reference_id": "91712",
+      "genre": "article",
+      "title": "III.\u2014Arctic and antarctic sponges &c",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "38",
+      "epage": "42",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682189",
+      "PageID": "15686144",
+      "created": "2011-09-28 16:38:35",
+      "updated": "2011-09-28 16:38:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2198",
+          "lastname": "Carter",
+          "forename": "H J"
+        }
+      ],
+      "bhl_pages": [
+        15686144,
+        15686164,
+        15686165,
+        15686166,
+        15686167
+      ]
+    },
+    {
+      "reference_id": "65471",
+      "genre": "article",
+      "title": "Descriptions of Asiatic Diurnal Lepidoptera",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "20",
+      "series": "4",
+      "spage": "43",
+      "epage": "52",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "PageID": "15686168",
+      "created": "2011-03-14 22:27:17",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40124",
+          "lastname": "Moore",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        15686168,
+        15686169,
+        15686170,
+        15686171,
+        15686172,
+        15686173,
+        15686174,
+        15686175,
+        15686176,
+        15686177
+      ]
+    },
+    {
+      "reference_id": "14667",
+      "genre": "article",
+      "title": "On a small collection of Orthopterous Insects of the Families Phasmidae and Mantidae from Australia and New Britain with Descriptions of four new Species",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "20",
+      "series": "4",
+      "spage": "74",
+      "epage": "75",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "PageID": "15686199",
+      "created": "2010-01-21 15:00:06",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10317",
+          "lastname": "Wood-Mason",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        15686199,
+        15686200
+      ]
+    },
+    {
+      "reference_id": "69698",
+      "genre": "article",
+      "title": "Descriptions of new species of New-Zealand Myriopoda",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "114",
+      "epage": "117",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "PageID": "15686239",
+      "created": "2011-06-01 11:02:56",
+      "updated": "2011-09-21 17:04:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46347",
+          "lastname": "F.w.",
+          "forename": "Hutton"
+        }
+      ],
+      "bhl_pages": [
+        15686239,
+        15686240,
+        15686241,
+        15686242
+      ]
+    },
+    {
+      "reference_id": "69662",
+      "genre": "article",
+      "title": "Description of a new species of Phasmidae from India",
+      "secondary_title": "Annals and Magazine of Natural History, London",
+      "volume": "20",
+      "series": "4",
+      "spage": "130",
+      "epage": "131",
+      "year": "1877",
+      "date": "1877-00-00",
+      "PageID": "15686255",
+      "created": "2011-06-01 10:59:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46342",
+          "lastname": "",
+          "forename": "Wood-Mason"
+        }
+      ],
+      "bhl_pages": [
+        15686255,
+        15686256
+      ]
+    },
+    {
+      "reference_id": "92697",
+      "genre": "article",
+      "title": "XXVI.\u2014Description of a new species of Batrachostomus from Central Borneo",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "178",
+      "epage": "179",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682222",
+      "PageID": "15686303",
+      "created": "2011-09-28 18:22:32",
+      "updated": "2011-09-28 18:22:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52388",
+          "lastname": "Br\u00fcggemann",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        15686303,
+        15686304
+      ]
+    },
+    {
+      "reference_id": "92767",
+      "genre": "article",
+      "title": "XXXII.\u2014Description of a new species of Helix",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "242",
+      "epage": "244",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682228",
+      "PageID": "15686367",
+      "created": "2011-09-28 18:28:13",
+      "updated": "2011-09-28 18:28:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49369",
+          "lastname": "Smith",
+          "forename": "Edgar A"
+        }
+      ],
+      "bhl_pages": [
+        15686367,
+        15686368,
+        15686369
+      ]
+    },
+    {
+      "reference_id": "92544",
+      "genre": "article",
+      "title": "XLVII.\u2014On Pteroplax cornuta, H. & A",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "369",
+      "epage": "377",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682251",
+      "PageID": "15686494",
+      "created": "2011-09-28 18:09:31",
+      "updated": "2011-09-28 18:09:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52364",
+          "lastname": "Atthey",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        15686494,
+        15686495,
+        15686496,
+        15686497,
+        15686498,
+        15686499,
+        15686500,
+        15686501,
+        15686502
+      ]
+    },
+    {
+      "reference_id": "91778",
+      "genre": "article",
+      "title": "LI.\u2014Descriptions of new species of Heterocera from Japan.\u2014Part I. Sphinges and Bombyces",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "393",
+      "epage": "404",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682255",
+      "PageID": "15686518",
+      "created": "2011-09-28 16:45:50",
+      "updated": "2011-09-28 16:45:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39940",
+          "lastname": "Butler",
+          "forename": "Arthur G"
+        }
+      ],
+      "bhl_pages": [
+        15686518,
+        15686519,
+        15686520,
+        15686521,
+        15686522,
+        15686523,
+        15686524,
+        15686525,
+        15686526,
+        15686527,
+        15686528,
+        15686529
+      ]
+    },
+    {
+      "reference_id": "91820",
+      "genre": "article",
+      "title": "LV.\u2014On a Carboniferous Hyalonema and other sponges from Ayrshire",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "425",
+      "epage": "432",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682259",
+      "PageID": "15686550",
+      "created": "2011-09-28 16:52:38",
+      "updated": "2011-09-28 16:52:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "23625",
+          "lastname": "Young",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        15686550,
+        15686551,
+        15686552,
+        15686553,
+        15686554,
+        15686555,
+        15686556,
+        15686557
+      ]
+    },
+    {
+      "reference_id": "6173",
+      "genre": "article",
+      "title": "Preliminary notes on new fishes collected in Japan during the expedition of H. M. S. 'Challenger.'",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "20",
+      "series": "4",
+      "spage": "433",
+      "epage": "447",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "PageID": "15686558",
+      "created": "2010-01-06 17:33:15",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15686558,
+        15686559,
+        15686560,
+        15686561,
+        15686562,
+        15686563,
+        15686564,
+        15686565,
+        15686566,
+        15686567,
+        15686568,
+        15686569,
+        15686570,
+        15686571,
+        15686572
+      ]
+    },
+    {
+      "reference_id": "91834",
+      "genre": "article",
+      "title": "LVII.\u2014Report on the Echinodermata collected during the Arctic Expedition, 1875\u20136",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "449",
+      "epage": "470",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682266",
+      "PageID": "15686574",
+      "created": "2011-09-28 16:56:02",
+      "updated": "2011-09-28 16:56:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51541",
+          "lastname": "Duncan",
+          "forename": "P Martin"
+        },
+        {
+          "id": "51710",
+          "lastname": "Sladen",
+          "forename": "W Percy"
+        }
+      ],
+      "bhl_pages": [
+        15686574,
+        15686575,
+        15686576,
+        15686577,
+        15686578,
+        15686579,
+        15686580,
+        15686581,
+        15686582,
+        15686583,
+        15686584,
+        15686585,
+        15686586,
+        15686587,
+        15686588,
+        15686589,
+        15686590,
+        15686591,
+        15686592,
+        15686593,
+        15686594,
+        15686595
+      ]
+    },
+    {
+      "reference_id": "91836",
+      "genre": "article",
+      "title": "LVIII.\u2014Description of a new Species of Foraminifera (Rotalia spiculotesta)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "470",
+      "epage": "473",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682267",
+      "PageID": "15686595",
+      "created": "2011-09-28 16:56:17",
+      "updated": "2011-09-28 16:56:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2198",
+          "lastname": "Carter",
+          "forename": "H J"
+        }
+      ],
+      "bhl_pages": [
+        15686595,
+        15686596,
+        15686597,
+        15686598
+      ]
+    },
+    {
+      "reference_id": "91814",
+      "genre": "article",
+      "title": "LIX.\u2014Descriptions of new species of Heterocera from Japan.\u2014Part I. Sphinges and Bombyces",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "4",
+      "spage": "473",
+      "epage": "483",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937708682268",
+      "PageID": "15686598",
+      "created": "2011-09-28 16:51:53",
+      "updated": "2011-09-28 16:51:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39940",
+          "lastname": "Butler",
+          "forename": "Arthur G"
+        }
+      ],
+      "bhl_pages": [
+        15686598,
+        15686599,
+        15686600,
+        15686601,
+        15686602,
+        15686603,
+        15686604,
+        15686605,
+        15686606,
+        15686607,
+        15686608
+      ]
+    }
+  ]
+}

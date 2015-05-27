@@ -1,0 +1,99 @@
+{
+  "ItemID": "32383",
+  "FullTitle": "Proceedings of the United States National Museum.",
+  "VolumeInfo": "v. 79 1932",
+  "articles": [
+    {
+      "reference_id": "79757",
+      "genre": "article",
+      "title": "Three new species of polychaetous annelids from Chesapeake Bay",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "79",
+      "spage": "1",
+      "epage": "5",
+      "year": "1931",
+      "date": "1931-00-00",
+      "issn": "0096-3801",
+      "PageID": "7523380",
+      "created": "2011-06-30 16:46:05",
+      "updated": "2011-06-30 16:46:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2967",
+          "lastname": "Treadwell",
+          "forename": "Aaron L"
+        }
+      ],
+      "bhl_pages": [
+        7523380,
+        7523379,
+        7523378,
+        7523377,
+        7523376
+      ]
+    },
+    {
+      "reference_id": "99461",
+      "genre": "article",
+      "title": "A new species of Tro\u00f6dont Dinosaur from the Lance Formation of Wyoming",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "79",
+      "spage": "1",
+      "epage": "6",
+      "year": "1931",
+      "date": "1931-00-00",
+      "issn": "0096-3801",
+      "PageID": "7523420",
+      "created": "2011-12-15 09:46:34",
+      "updated": "2011-12-15 09:47:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53374",
+          "lastname": "Gilmour",
+          "forename": "Charles W"
+        }
+      ],
+      "bhl_pages": [
+        7523420,
+        7523421,
+        7523422,
+        7523423,
+        7523424,
+        7523425
+      ]
+    },
+    {
+      "reference_id": "99462",
+      "genre": "article",
+      "title": "A new species of Trematode of the family Heterophyidae, with a note on the genus Apophallus and related genera",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "79",
+      "spage": "1",
+      "epage": "6",
+      "year": "1931",
+      "date": "1931-00-00",
+      "issn": "0096-3801",
+      "PageID": "7523600",
+      "created": "2011-12-15 09:49:21",
+      "updated": "2011-12-15 09:49:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47364",
+          "lastname": "Price",
+          "forename": "Emmett W"
+        }
+      ],
+      "bhl_pages": [
+        7523600,
+        7523601,
+        7523602,
+        7523603,
+        7523604,
+        7523605
+      ]
+    }
+  ]
+}

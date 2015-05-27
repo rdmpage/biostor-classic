@@ -1,0 +1,35 @@
+{
+  "ItemID": "18197",
+  "FullTitle": "Crustacea amphipoda borealia et arctica,  auctore Axel Boeck ...",
+  "VolumeInfo": "",
+  "articles": [
+    {
+      "reference_id": "101947",
+      "genre": "article",
+      "title": "Conspectus Cyamidarum borealium hujusque cognitarum",
+      "secondary_title": "Forhandlinger i Videnskabs-Selskabet i Christiania",
+      "volume": "1870",
+      "spage": "279",
+      "epage": "280",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0332-6683",
+      "oclc": "1760496",
+      "PageID": "1912594",
+      "created": "2012-03-21 15:15:26",
+      "updated": "2012-03-21 15:18:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52511",
+          "lastname": "L\u00fctken",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1912594,
+        1912595
+      ]
+    }
+  ]
+}

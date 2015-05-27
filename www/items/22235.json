@@ -1,0 +1,40 @@
+{
+  "ItemID": "22235",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 26 (1901)",
+  "articles": [
+    {
+      "reference_id": "57636",
+      "genre": "article",
+      "title": "\u00c9tude pr\u00e9liminaire des Gnathiidae recueillis dans les campagnes de l'Hirondelle et de La Princesse-Alice",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "26",
+      "spage": "239",
+      "epage": "246",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0037-962X",
+      "PageID": "3102859",
+      "created": "2010-11-20 14:21:40",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42113",
+          "lastname": "Dollfus",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        3102859,
+        3102770,
+        3102996,
+        3102771,
+        3102997,
+        3102860,
+        3102728,
+        3102729
+      ]
+    }
+  ]
+}

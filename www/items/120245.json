@@ -1,0 +1,101 @@
+{
+  "ItemID": "120245",
+  "FullTitle": "Memoirs of the Carnegie Museum. ",
+  "VolumeInfo": "v. 2 (1904-1906)",
+  "articles": [
+    {
+      "reference_id": "100855",
+      "genre": "article",
+      "title": "New Suilline remains from the Miocene of Nebraska",
+      "secondary_title": "Pittsburgh Memoirs Carnegie Museum",
+      "volume": "2",
+      "spage": "305",
+      "epage": "320",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0885-4645",
+      "PageID": "38967085",
+      "created": "2012-03-08 08:53:38",
+      "updated": "2012-03-08 08:54:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53460",
+          "lastname": "Peterson",
+          "forename": "O A"
+        }
+      ],
+      "bhl_pages": [
+        38967085,
+        38967086,
+        38967087,
+        38967088,
+        38967089,
+        38967090,
+        38967091,
+        38967092,
+        38967093,
+        38967094,
+        38967095,
+        38967096,
+        38967097,
+        38967098,
+        38967099,
+        38967100,
+        38967101,
+        38967102,
+        38967103,
+        38967106,
+        38967107
+      ]
+    },
+    {
+      "reference_id": "100856",
+      "genre": "article",
+      "title": "Notes on osteology of Baptanodon. With a description of a new species",
+      "secondary_title": "Pittsburgh Memoirs Carnegie Museum",
+      "volume": "2",
+      "spage": "325",
+      "epage": "342",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0885-4645",
+      "PageID": "38967109",
+      "created": "2012-03-08 08:59:09",
+      "updated": "2012-03-08 09:00:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49794",
+          "lastname": "Gilmore",
+          "forename": "Charles W"
+        }
+      ],
+      "bhl_pages": [
+        38967109,
+        38967110,
+        38967111,
+        38967112,
+        38967113,
+        38967114,
+        38967115,
+        38967116,
+        38967117,
+        38967118,
+        38967119,
+        38967120,
+        38967121,
+        38967122,
+        38967123,
+        38967124,
+        38967125,
+        38967126,
+        38967127,
+        38967128,
+        38967129,
+        38967130,
+        38967131
+      ]
+    }
+  ]
+}

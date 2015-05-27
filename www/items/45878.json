@@ -1,0 +1,77 @@
+{
+  "ItemID": "45878",
+  "FullTitle": "Deutsche entomologische Zeitschrift Iris \/  herausgegeben vom Entomologischen Verein Iris zu Dresden.",
+  "VolumeInfo": "bd. 15 1902",
+  "articles": [
+    {
+      "reference_id": "71079",
+      "genre": "article",
+      "title": "Neue Lepidopteren aus dem Indo-Malayischen Gebiet",
+      "secondary_title": "Deutsche Entomologische Zeitschrift Iris",
+      "volume": "15",
+      "spage": "169",
+      "epage": "178",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1695863",
+      "PageID": "12760505",
+      "created": "2011-06-03 17:39:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12760505,
+        12760506,
+        12760507,
+        12760508,
+        12760509,
+        12760510,
+        12760511,
+        12760512,
+        12760513,
+        12760514
+      ]
+    },
+    {
+      "reference_id": "71045",
+      "genre": "article",
+      "title": "Neue Papilioformen und andere Lepidopteren aus Ost-Asien und dem malayischen Archipel",
+      "secondary_title": "Deutsche Entomologische Zeitschrift Iris",
+      "volume": "15",
+      "spage": "306",
+      "epage": "315",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1695863",
+      "PageID": "12760642",
+      "created": "2011-06-03 17:36:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12760642,
+        12760643,
+        12760644,
+        12760645,
+        12760646,
+        12760647,
+        12760648,
+        12760649,
+        12760650,
+        12760651
+      ]
+    }
+  ]
+}

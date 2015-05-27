@@ -1,0 +1,43 @@
+{
+  "ItemID": "30490",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 37 (1885)",
+  "articles": [
+    {
+      "reference_id": "69190",
+      "genre": "article",
+      "title": "A review of the genus Phrynosoma",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philad. (ser. 3)",
+      "volume": "37",
+      "spage": "138",
+      "epage": "148",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "1382862",
+      "PageID": "6605295",
+      "created": "2011-06-01 08:38:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46209",
+          "lastname": "Gentry",
+          "forename": "A F"
+        }
+      ],
+      "bhl_pages": [
+        6605295,
+        6605296,
+        6605297,
+        6605298,
+        6605299,
+        6605300,
+        6605301,
+        6605307,
+        6605308,
+        6605309,
+        6605310
+      ]
+    }
+  ]
+}

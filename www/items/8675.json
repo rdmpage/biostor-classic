@@ -1,0 +1,63 @@
+{
+  "ItemID": "8675",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1906 v.53",
+  "articles": [
+    {
+      "reference_id": "14109",
+      "genre": "article",
+      "title": "Notes lich\u00e9nologiques. V",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "53",
+      "spage": "515",
+      "epage": "519",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0181-1789",
+      "PageID": "332930",
+      "created": "2010-01-14 08:55:22",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        332930,
+        332931,
+        332932,
+        332933,
+        332934
+      ]
+    },
+    {
+      "reference_id": "14110",
+      "genre": "article",
+      "title": "Notes lich\u00e9nologiques. VI",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "53",
+      "spage": "582",
+      "epage": "586",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0181-1789",
+      "PageID": "333001",
+      "created": "2010-01-14 08:56:28",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10195",
+          "lastname": "De Lesdain",
+          "forename": "M Bouly"
+        }
+      ],
+      "bhl_pages": [
+        333001,
+        333002,
+        333003,
+        333004,
+        333005
+      ]
+    }
+  ]
+}

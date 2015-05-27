@@ -1,0 +1,108 @@
+{
+  "ItemID": "22577",
+  "FullTitle": "Fishery bulletin \/  U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service.",
+  "VolumeInfo": "v. 97, no. 1-4 (1999)",
+  "articles": [
+    {
+      "reference_id": "72767",
+      "genre": "article",
+      "title": "Three new species of hagfish (Myxinidae, Eptatretus) from the Gal\u00e1pagos Islands",
+      "secondary_title": "Fish. Bull",
+      "volume": "97",
+      "spage": "110",
+      "epage": "117",
+      "year": "1999",
+      "date": "1999-00-00",
+      "issn": "0090-0656",
+      "PageID": "3231713",
+      "created": "2011-06-04 03:56:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47084",
+          "lastname": "Mcmillan",
+          "forename": "C B"
+        }
+      ],
+      "bhl_pages": [
+        3231713,
+        3231300,
+        3230875,
+        3231301,
+        3231334,
+        3231686,
+        3231665,
+        3231335
+      ]
+    },
+    {
+      "reference_id": "65908",
+      "genre": "article",
+      "title": "Population size of humpback whale, Megaptera novaeangliae, in waters off the Pacific coast of Mexico",
+      "secondary_title": "Fishery Bulletin",
+      "volume": "97",
+      "spage": "1017",
+      "epage": "1024",
+      "year": "1999",
+      "date": "1999-00-00",
+      "issn": "0090-0656",
+      "PageID": "3231868",
+      "created": "2011-05-01 16:31:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45080",
+          "lastname": "J",
+          "forename": "Urb\u00e1n"
+        },
+        {
+          "id": "45081",
+          "lastname": "C",
+          "forename": "Alvarez"
+        },
+        {
+          "id": "45082",
+          "lastname": "M",
+          "forename": "Salinas"
+        },
+        {
+          "id": "45083",
+          "lastname": "J",
+          "forename": "Jacobsen"
+        },
+        {
+          "id": "45084",
+          "lastname": "C",
+          "forename": "Balcomb K"
+        },
+        {
+          "id": "45085",
+          "lastname": "A",
+          "forename": "Jaramillo"
+        },
+        {
+          "id": "45086",
+          "lastname": "De Guevara P",
+          "forename": "Ladr\u00f3n"
+        },
+        {
+          "id": "45087",
+          "lastname": "A",
+          "forename": "Aguayo"
+        }
+      ],
+      "bhl_pages": [
+        3231868,
+        3231621,
+        3231049,
+        3231237,
+        3231622,
+        3231238,
+        3231065,
+        3230937
+      ]
+    }
+  ]
+}

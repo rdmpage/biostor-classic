@@ -1,0 +1,49 @@
+{
+  "ItemID": "97790",
+  "FullTitle": "Zeitschrift f\u00fcr die gesammten Naturwissenschaft.",
+  "VolumeInfo": "Bd.27 (1866)",
+  "articles": [
+    {
+      "reference_id": "101335",
+      "genre": "article",
+      "title": "Charakteristik neuer Federlinge",
+      "secondary_title": "Zeitschrift f\u00fcr die gesammten Naturwissenschaft",
+      "volume": "27",
+      "issue": "6",
+      "spage": "465",
+      "epage": "477",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "17423440",
+      "PageID": "31269203",
+      "created": "2012-03-15 15:41:04",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47102",
+          "lastname": "Rudow",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        31269203,
+        31269204,
+        31269205,
+        31269206,
+        31269207,
+        31269208,
+        31269209,
+        31269210,
+        31269211,
+        31269212,
+        31269213,
+        31269214,
+        31269215,
+        31269295,
+        31269297,
+        31269299
+      ]
+    }
+  ]
+}

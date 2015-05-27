@@ -1,0 +1,148 @@
+{
+  "ItemID": "53284",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "3rd ser. v. 18 (1866)",
+  "articles": [
+    {
+      "reference_id": "48949",
+      "genre": "article",
+      "title": "Fifth account of new species of snakes in the collection of the British Museum",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "18",
+      "series": "3",
+      "spage": "24",
+      "epage": "29",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0374-5481",
+      "PageID": "15603179",
+      "created": "2010-03-16 08:49:26",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10350",
+          "lastname": "G\u00fcnther",
+          "forename": "Albert"
+        }
+      ],
+      "bhl_pages": [
+        15603179,
+        15603180,
+        15603181,
+        15603182,
+        15603183,
+        15603184
+      ]
+    },
+    {
+      "reference_id": "91270",
+      "genre": "article",
+      "title": "XXV.\u2014On the dentition of Thylacoleo carnifex (Ow.)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "3",
+      "spage": "148",
+      "epage": "149",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936608679624",
+      "PageID": "15603303",
+      "created": "2011-09-28 15:07:09",
+      "updated": "2011-09-28 15:07:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52235",
+          "lastname": "Krefft",
+          "forename": "Gerard"
+        }
+      ],
+      "bhl_pages": [
+        15603303,
+        15603304
+      ]
+    },
+    {
+      "reference_id": "91377",
+      "genre": "article",
+      "title": "Scheuchzeria palustris, Linn",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "3",
+      "spage": "338",
+      "epage": "338",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936608679653",
+      "PageID": "15603493",
+      "created": "2011-09-28 15:18:37",
+      "updated": "2011-09-28 15:18:37",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        15603493
+      ]
+    },
+    {
+      "reference_id": "91322",
+      "genre": "article",
+      "title": "Note on West-African species of Hemirhamphus",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "3",
+      "spage": "427",
+      "epage": "427",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936608679676",
+      "PageID": "15603582",
+      "created": "2011-09-28 15:12:58",
+      "updated": "2011-09-28 15:12:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15603582
+      ]
+    },
+    {
+      "reference_id": "20529",
+      "genre": "article",
+      "title": "Description of a new siluroid fish from Ceylon",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "18",
+      "series": "3",
+      "spage": "473",
+      "epage": "474",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0374-5481",
+      "PageID": "15603628",
+      "created": "2010-02-09 17:41:10",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15603628,
+        15603629
+      ]
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "ItemID": "46581",
+  "FullTitle": "Transactions of the Linnean Society of London.  ",
+  "VolumeInfo": "Volume IX",
+  "articles": [
+    {
+      "reference_id": "5933",
+      "genre": "article",
+      "title": "The Genus Apion of Herbst's Natursystem considered, its Characters laid down, and many of the Species described",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "1",
+      "epage": "80",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00326.x",
+      "PageID": "12901268",
+      "created": "2010-01-06 14:15:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2706",
+          "lastname": "Kirby",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        12901268,
+        12901269,
+        12901270,
+        12901271,
+        12901272,
+        12901273,
+        12901274,
+        12901275,
+        12901276,
+        12901277,
+        12901278,
+        12901279,
+        12901280,
+        12901281,
+        12901282,
+        12901283,
+        12901284,
+        12901285,
+        12901286,
+        12901287,
+        12901288,
+        12901289,
+        12901290,
+        12901291,
+        12901292,
+        12901293,
+        12901294,
+        12901295,
+        12901296,
+        12901297,
+        12901298,
+        12901299,
+        12901300,
+        12901301,
+        12901302,
+        12901303,
+        12901304,
+        12901305,
+        12901306,
+        12901307,
+        12901308,
+        12901309,
+        12901310,
+        12901311,
+        12901312,
+        12901313,
+        12901314,
+        12901315,
+        12901316,
+        12901317,
+        12901318,
+        12901319,
+        12901320,
+        12901321,
+        12901322,
+        12901323,
+        12901324,
+        12901325,
+        12901326,
+        12901327,
+        12901328,
+        12901329,
+        12901330,
+        12901331,
+        12901332,
+        12901333,
+        12901334,
+        12901335,
+        12901336,
+        12901337,
+        12901338,
+        12901339,
+        12901340,
+        12901341,
+        12901342,
+        12901343,
+        12901344,
+        12901345,
+        12901346,
+        12901347
+      ]
+    },
+    {
+      "reference_id": "5723",
+      "genre": "article",
+      "title": "Description of several Marine Animals found on the South Coast of Devonshire",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "81",
+      "epage": "114",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00327.x",
+      "PageID": "12901350",
+      "created": "2010-01-06 14:06:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2738",
+          "lastname": "Montagu",
+          "forename": "George"
+        }
+      ],
+      "bhl_pages": [
+        12901350,
+        12901351,
+        12901352,
+        12901353,
+        12901354,
+        12901355,
+        12901356,
+        12901357,
+        12901358,
+        12901359,
+        12901360,
+        12901361,
+        12901362,
+        12901363,
+        12901364,
+        12901365,
+        12901366,
+        12901367,
+        12901368,
+        12901369,
+        12901370,
+        12901371,
+        12901372,
+        12901373,
+        12901374,
+        12901375,
+        12901376,
+        12901377,
+        12901378,
+        12901379,
+        12901380,
+        12901381,
+        12901382,
+        12901383
+      ]
+    },
+    {
+      "reference_id": "5678",
+      "genre": "article",
+      "title": "An Account of the Indian Badger: the Ursus indicus of Shau's Zoology",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "115",
+      "epage": "116",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00328.x",
+      "PageID": "12901398",
+      "created": "2010-01-06 14:02:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2737",
+          "lastname": "Hardwicke",
+          "forename": "Lieutenant Colonel Thomax"
+        }
+      ],
+      "bhl_pages": [
+        12901398,
+        12901399
+      ]
+    },
+    {
+      "reference_id": "5636",
+      "genre": "article",
+      "title": "A Botanical Sketch of the Genus Conchium",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "117",
+      "epage": "125",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00329.x",
+      "PageID": "12901402",
+      "created": "2010-01-06 13:48:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901402,
+        12901403,
+        12901404,
+        12901405,
+        12901406,
+        12901407,
+        12901408,
+        12901409,
+        12901410
+      ]
+    },
+    {
+      "reference_id": "5687",
+      "genre": "article",
+      "title": "An Inquiry into the Genus of the Tree called by Pona Abelicea cretica",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "126",
+      "epage": "130",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00330.x",
+      "PageID": "12901411",
+      "created": "2010-01-06 14:02:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901411,
+        12901412,
+        12901413,
+        12901414,
+        12901415
+      ]
+    },
+    {
+      "reference_id": "5688",
+      "genre": "article",
+      "title": "An Inquiry into the real Daucus Gingidium of Linn\u00e6us",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "131",
+      "epage": "134",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00331.x",
+      "PageID": "12901416",
+      "created": "2010-01-06 14:02:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901416,
+        12901417,
+        12901418,
+        12901419
+      ]
+    },
+    {
+      "reference_id": "5686",
+      "genre": "article",
+      "title": "An Illustration of the Species of Lycium which grow wild at the Cape of Good Hope",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "151",
+      "epage": "155",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00333.x",
+      "PageID": "12901444",
+      "created": "2010-01-06 14:02:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2743",
+          "lastname": "Thunberg",
+          "forename": "Charles Peter"
+        }
+      ],
+      "bhl_pages": [
+        12901444,
+        12901445,
+        12901446,
+        12901447,
+        12901448
+      ]
+    },
+    {
+      "reference_id": "5924",
+      "genre": "article",
+      "title": "Some Observations on an Insect that destroys the Wheat, supposed to be the Wireworm",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "156",
+      "epage": "161",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00334.x",
+      "PageID": "12901457",
+      "created": "2010-01-06 14:15:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2837",
+          "lastname": "Walford",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        12901457,
+        12901458,
+        12901459,
+        12901460,
+        12901461,
+        12901462
+      ]
+    },
+    {
+      "reference_id": "5679",
+      "genre": "article",
+      "title": "An Account of the larger and lesser Species of Horse-shoe Bats, proving them to be distinct; together with a Description of Vespertilio Barbastellus, taken in the South of Devonshire",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "162",
+      "epage": "173",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00335.x",
+      "PageID": "12901465",
+      "created": "2010-01-06 14:02:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2738",
+          "lastname": "Montagu",
+          "forename": "George"
+        }
+      ],
+      "bhl_pages": [
+        12901465,
+        12901466,
+        12901467,
+        12901468,
+        12901469,
+        12901470,
+        12901471,
+        12901472,
+        12901473,
+        12901474,
+        12901475,
+        12901476
+      ]
+    },
+    {
+      "reference_id": "5734",
+      "genre": "article",
+      "title": "Description of two new Species of Didelphis from Van Diemen's Land",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "174",
+      "epage": "178",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00336.x",
+      "PageID": "12901477",
+      "created": "2010-01-06 14:07:13",
+      "updated": "2011-09-12 18:03:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2759",
+          "lastname": "Harris",
+          "forename": "G P"
+        }
+      ],
+      "bhl_pages": [
+        12901477,
+        12901478,
+        12901479,
+        12901480,
+        12901481
+      ]
+    },
+    {
+      "reference_id": "5711",
+      "genre": "article",
+      "title": "Description of a new Species of Dimorpha",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "179",
+      "epage": "181",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00337.x",
+      "PageID": "12901484",
+      "created": "2010-01-06 14:06:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2748",
+          "lastname": "Rudge",
+          "forename": "Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901484,
+        12901485,
+        12901486
+      ]
+    },
+    {
+      "reference_id": "5923",
+      "genre": "article",
+      "title": "Some interesting Additions to the Natural History of Falco cyaneus and pygargus, together with Remarks on some other British Birds",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "182",
+      "epage": "199",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00338.x",
+      "PageID": "12901489",
+      "created": "2010-01-06 14:15:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2738",
+          "lastname": "Montagu",
+          "forename": "George"
+        }
+      ],
+      "bhl_pages": [
+        12901489,
+        12901490,
+        12901491,
+        12901492,
+        12901493,
+        12901494,
+        12901495,
+        12901496,
+        12901497,
+        12901498,
+        12901499,
+        12901500,
+        12901501,
+        12901502,
+        12901503,
+        12901504,
+        12901505,
+        12901506
+      ]
+    },
+    {
+      "reference_id": "5675",
+      "genre": "article",
+      "title": "An Account of some new Species of Piper, with a few cursory Observations on the Genus",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "200",
+      "epage": "203",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00339.x",
+      "PageID": "12901507",
+      "created": "2010-01-06 14:02:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2735",
+          "lastname": "Thompson",
+          "forename": "John Vaughan"
+        }
+      ],
+      "bhl_pages": [
+        12901507,
+        12901508,
+        12901509,
+        12901510
+      ]
+    },
+    {
+      "reference_id": "5689",
+      "genre": "article",
+      "title": "An Inquiry into the Structure of Seeds, and especially into the true Nature of that Part called by G\u00e6rtner the Vitellus",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "204",
+      "epage": "217",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00340.x",
+      "PageID": "12901513",
+      "created": "2010-01-06 14:02:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901513,
+        12901514,
+        12901515,
+        12901516,
+        12901517,
+        12901518,
+        12901519,
+        12901520,
+        12901521,
+        12901522,
+        12901523,
+        12901524,
+        12901525,
+        12901526
+      ]
+    },
+    {
+      "reference_id": "5835",
+      "genre": "article",
+      "title": "Observations on Nauclea Gambir, the Plant producing the Drug called Gutta Gambeer, two other Species",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "218",
+      "epage": "224",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00341.x",
+      "PageID": "12901527",
+      "created": "2010-01-06 14:13:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12901527,
+        12901528,
+        12901529,
+        12901530,
+        12901531,
+        12901532,
+        12901533
+      ]
+    },
+    {
+      "reference_id": "5854",
+      "genre": "article",
+      "title": "Observations respecting several British Species of Hieracium",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "225",
+      "epage": "243",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00342.x",
+      "PageID": "12901536",
+      "created": "2010-01-06 14:13:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901536,
+        12901537,
+        12901538,
+        12901539,
+        12901540,
+        12901541,
+        12901542,
+        12901543,
+        12901544,
+        12901545,
+        12901546,
+        12901547,
+        12901548,
+        12901549,
+        12901550,
+        12901551,
+        12901552,
+        12901553,
+        12901554
+      ]
+    },
+    {
+      "reference_id": "5901",
+      "genre": "article",
+      "title": "On the Variegation of Plants",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "268",
+      "epage": "271",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00344.x",
+      "PageID": "12901579",
+      "created": "2010-01-06 14:14:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2734",
+          "lastname": "Salisbury",
+          "forename": "Richard Anthony"
+        },
+        {
+          "id": "2829",
+          "lastname": "Knight",
+          "forename": "Thomas Andrew"
+        }
+      ],
+      "bhl_pages": [
+        12901579,
+        12901580,
+        12901581,
+        12901582
+      ]
+    },
+    {
+      "reference_id": "5702",
+      "genre": "article",
+      "title": "Characters of Hookeria, a new Genus of Mosses, with Descriptions of Ten Species",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "272",
+      "epage": "282",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00345.x",
+      "PageID": "12901583",
+      "created": "2010-01-06 14:04:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901583,
+        12901584,
+        12901585,
+        12901586,
+        12901587,
+        12901588,
+        12901589,
+        12901590,
+        12901591,
+        12901592,
+        12901593
+      ]
+    },
+    {
+      "reference_id": "5720",
+      "genre": "article",
+      "title": "Description of Notoclea, a new Genus of Coleopterous Insects from New Holland",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "283",
+      "epage": "295",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00346.x",
+      "PageID": "12901596",
+      "created": "2010-01-06 14:06:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2752",
+          "lastname": "Marsham",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        12901596,
+        12901597,
+        12901598,
+        12901599,
+        12901600,
+        12901601,
+        12901602,
+        12901603,
+        12901604,
+        12901605,
+        12901606,
+        12901607,
+        12901608
+      ]
+    },
+    {
+      "reference_id": "5927",
+      "genre": "article",
+      "title": "Some Remarks on the Plants now referred to Sophora, with Characters of the Genus Edwardsia",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "296",
+      "epage": "300",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00347.x",
+      "PageID": "12901613",
+      "created": "2010-01-06 14:15:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2840",
+          "lastname": "Salisbury",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        12901613,
+        12901614,
+        12901615,
+        12901616,
+        12901617
+      ]
+    },
+    {
+      "reference_id": "5703",
+      "genre": "article",
+      "title": "Characters of Platylobium, Bossi\u00e6a, and of a new Genus named Poiretia",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "301",
+      "epage": "306",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00348.x",
+      "PageID": "12901618",
+      "created": "2010-01-06 14:04:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12901618,
+        12901619,
+        12901620,
+        12901621,
+        12901622,
+        12901623
+      ]
+    },
+    {
+      "reference_id": "5825",
+      "genre": "article",
+      "title": "Musci Nepalenses; or Descriptions of several new Mosses from Nepal",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "307",
+      "epage": "322",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00349.x",
+      "PageID": "12901624",
+      "created": "2010-01-06 14:13:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2796",
+          "lastname": "Hooker",
+          "forename": "William Jackson"
+        }
+      ],
+      "bhl_pages": [
+        12901624,
+        12901625,
+        12901626,
+        12901627,
+        12901628,
+        12901629,
+        12901630,
+        12901631,
+        12901632,
+        12901633,
+        12901634,
+        12901635,
+        12901636,
+        12901637,
+        12901638,
+        12901639
+      ]
+    },
+    {
+      "reference_id": "5763",
+      "genre": "article",
+      "title": "Extracts from the Minute-Book of the Linnean Society of London",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "323",
+      "epage": "325",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00350.x",
+      "PageID": "12901646",
+      "created": "2010-01-06 14:07:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12901646,
+        12901647,
+        12901648
+      ]
+    },
+    {
+      "reference_id": "5696",
+      "genre": "article",
+      "title": "CATALOGUE OF THE LIBRARY OF THE LINNEAN SOCIETY",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "326",
+      "epage": "328",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00351.x",
+      "PageID": "12901649",
+      "created": "2010-01-06 14:04:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12901649,
+        12901650,
+        12901651
+      ]
+    },
+    {
+      "reference_id": "5823",
+      "genre": "article",
+      "title": "LIST OF DONORS TO THE LIBRARY OF THE LINNEAN SOCIETY, With References to the Numbers affixed in the foregoing Catalogue to the Books presented by them respectively",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "9",
+      "spage": "329",
+      "epage": "330",
+      "year": "1808",
+      "date": "1808-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1818.tb00352.x",
+      "PageID": "12901654",
+      "created": "2010-01-06 14:13:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12901654,
+        12901655
+      ]
+    }
+  ]
+}

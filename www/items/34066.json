@@ -1,0 +1,65 @@
+{
+  "ItemID": "34066",
+  "FullTitle": "Journal of entomology and zoology.  ",
+  "VolumeInfo": "v. 12-15 1920-23",
+  "articles": [
+    {
+      "reference_id": "57481",
+      "genre": "article",
+      "title": "Notes on the sipunculids of Laguna Beach",
+      "secondary_title": "Journal of Entomology and Zoology",
+      "volume": "12",
+      "spage": "30",
+      "epage": "31",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "8273672",
+      "PageID": "8206783",
+      "created": "2010-11-20 13:08:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42049",
+          "lastname": "Chamberlain",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        8206783,
+        8206784
+      ]
+    },
+    {
+      "reference_id": "99124",
+      "genre": "article",
+      "title": "Notes on California Bombyliidae with descriptions of new species",
+      "secondary_title": "J.Entomol. Zool.",
+      "volume": "15",
+      "spage": "21",
+      "epage": "26",
+      "year": "1923",
+      "date": "1923-00-00",
+      "issn": "0021-4914",
+      "PageID": "8207130",
+      "created": "2011-12-12 03:14:58",
+      "updated": "2011-12-12 03:17:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49443",
+          "lastname": "Cole",
+          "forename": "Frank R"
+        }
+      ],
+      "bhl_pages": [
+        8207130,
+        8207131,
+        8207132,
+        8207133,
+        8207134,
+        8207135
+      ]
+    }
+  ]
+}

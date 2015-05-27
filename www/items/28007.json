@@ -1,0 +1,38 @@
+{
+  "ItemID": "28007",
+  "FullTitle": "Journal of the Royal Microscopical Society.",
+  "VolumeInfo": "1907",
+  "articles": [
+    {
+      "reference_id": "105530",
+      "genre": "article",
+      "title": "VI. \u2014 Some Tardigrada of the Sikkim Himalaya",
+      "secondary_title": "Journal of the Royal Microscopical Society",
+      "volume": "1907",
+      "spage": "269",
+      "epage": "273",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1606258",
+      "PageID": "5445866",
+      "created": "2012-07-28 13:09:58",
+      "updated": "2012-07-28 13:10:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54038",
+          "lastname": "Murray",
+          "forename": "James"
+        }
+      ],
+      "bhl_pages": [
+        5445866,
+        5445867,
+        5445868,
+        5445869,
+        5445870,
+        5445846
+      ]
+    }
+  ]
+}

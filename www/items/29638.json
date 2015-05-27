@@ -1,0 +1,73 @@
+{
+  "ItemID": "29638",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 40, bd. 1 (1874)",
+  "articles": [
+    {
+      "reference_id": "61556",
+      "genre": "article",
+      "title": "Neue Spatangiden des Hamburger Museums",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "40",
+      "spage": "175",
+      "epage": "178",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1481990",
+      "PageID": "6185345",
+      "created": "2011-01-10 21:56:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43064",
+          "lastname": "Bolau",
+          "forename": "C C H"
+        }
+      ],
+      "bhl_pages": [
+        6185345,
+        6185346,
+        6185347,
+        6185348
+      ]
+    },
+    {
+      "reference_id": "51893",
+      "genre": "article",
+      "title": "Eine Sammlung Lurche und Kriechthiere von Westafrika",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "40",
+      "spage": "287",
+      "epage": "298",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1481990",
+      "PageID": "6185457",
+      "created": "2010-06-27 09:53:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2652",
+          "lastname": "Reichenow",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        6185457,
+        6185458,
+        6185459,
+        6185460,
+        6185461,
+        6185462,
+        6185463,
+        6185464,
+        6185465,
+        6185466,
+        6185467,
+        6185468
+      ]
+    }
+  ]
+}

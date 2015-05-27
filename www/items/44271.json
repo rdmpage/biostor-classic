@@ -1,0 +1,63 @@
+{
+  "ItemID": "44271",
+  "FullTitle": "Atti della Reale Accademia delle scienze di Torino.",
+  "VolumeInfo": "v.33",
+  "articles": [
+    {
+      "reference_id": "104922",
+      "genre": "article",
+      "title": "Nuova specie di Peripatus dell'Ecuador",
+      "secondary_title": "Atti Della Reale Accademia Delle Scienze Di Torino",
+      "volume": "33",
+      "spage": "308",
+      "epage": "310",
+      "year": "1898",
+      "date": "1898-00-00",
+      "PageID": "12147751",
+      "created": "2012-06-29 09:58:15",
+      "updated": "2012-06-29 09:58:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46430",
+          "lastname": "Camerano",
+          "forename": "Lorenzo"
+        }
+      ],
+      "bhl_pages": [
+        12147751,
+        12147752,
+        12147753
+      ]
+    },
+    {
+      "reference_id": "104921",
+      "genre": "article",
+      "title": "Sulla striatura transversale dei muscoli delle mandibole negli onicofori",
+      "secondary_title": "Atti Della Reale Accademia Delle Scienze Di Torino",
+      "volume": "33",
+      "spage": "589",
+      "epage": "593",
+      "year": "1898",
+      "date": "1898-00-00",
+      "PageID": "12148038",
+      "created": "2012-06-29 09:58:09",
+      "updated": "2012-06-29 09:58:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46430",
+          "lastname": "Camerano",
+          "forename": "Lorenzo"
+        }
+      ],
+      "bhl_pages": [
+        12148038,
+        12148039,
+        12148040,
+        12148041,
+        12148042
+      ]
+    }
+  ]
+}

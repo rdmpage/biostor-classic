@@ -1,0 +1,87 @@
+{
+  "ItemID": "17857",
+  "FullTitle": "Biologisches Zentralblatt.",
+  "VolumeInfo": "bd. 21 (1901)",
+  "articles": [
+    {
+      "reference_id": "57660",
+      "genre": "article",
+      "title": "Dybowscella baicalensis nov. gen, nov. spec., ein im S\u00fcsswassers lebendes Polychaet",
+      "secondary_title": "Biologisches Zentralblatt",
+      "volume": "21",
+      "spage": "6",
+      "epage": "18",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1536443",
+      "PageID": "1761837",
+      "created": "2010-11-20 14:27:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42121",
+          "lastname": "Nusbaum",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        1761837,
+        1761838,
+        1761839,
+        1761840,
+        1761841,
+        1761842,
+        1761843,
+        1761844,
+        1761845,
+        1761846,
+        1761847,
+        1761848,
+        1761849
+      ]
+    },
+    {
+      "reference_id": "57629",
+      "genre": "article",
+      "title": "Die Brutpflege der Actiniarian",
+      "secondary_title": "Biologisches Centralblatt",
+      "volume": "21",
+      "spage": "468",
+      "epage": "484",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1536443",
+      "PageID": "1762253",
+      "created": "2010-11-20 14:19:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42109",
+          "lastname": "Carlgren",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        1762253,
+        1762254,
+        1762255,
+        1762256,
+        1762257,
+        1762258,
+        1762259,
+        1762260,
+        1762261,
+        1762262,
+        1762263,
+        1762264,
+        1762265,
+        1762266,
+        1762267,
+        1762268,
+        1762269
+      ]
+    }
+  ]
+}

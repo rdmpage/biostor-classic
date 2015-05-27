@@ -1,0 +1,41 @@
+{
+  "ItemID": "21354",
+  "FullTitle": "A new genus and species of frog (Leptodactylidae) from Colombia,  [by] Doris M. Cochran and Coleman J. Goin.",
+  "VolumeInfo": "v.39:no.48(1961)",
+  "articles": [
+    {
+      "reference_id": "1400",
+      "genre": "article",
+      "title": "A new genus and species of frog (Leptodactylidae) from Colombia",
+      "secondary_title": "Fieldiana (Zool.)",
+      "volume": "39",
+      "spage": "543",
+      "epage": "546",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0015-0754",
+      "PageID": "2839365",
+      "created": "2009-12-23 16:11:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1077",
+          "lastname": "Cochran",
+          "forename": "D M"
+        },
+        {
+          "id": "742",
+          "lastname": "Goin",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        2839365,
+        2839348,
+        2839356,
+        2839357
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ItemID": "106155",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "t. 63 1894",
+  "articles": [
+    {
+      "reference_id": "72633",
+      "genre": "article",
+      "title": "Note sur les arthropodes cavernicoles du Transvaal",
+      "secondary_title": "Ann. Soc. ent. Fr",
+      "volume": "63",
+      "spage": "63",
+      "epage": "67",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0037-9271",
+      "PageID": "34018229",
+      "created": "2011-06-04 02:50:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        34018229,
+        34018230,
+        34018231,
+        34018270,
+        34018271
+      ]
+    }
+  ]
+}

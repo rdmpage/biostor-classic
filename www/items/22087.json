@@ -1,0 +1,280 @@
+{
+  "ItemID": "22087",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 19 (1887)",
+  "articles": [
+    {
+      "reference_id": "72117",
+      "genre": "article",
+      "title": "Collecting at the electric light, 1886",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "19",
+      "spage": "21",
+      "epage": "29",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1553087",
+      "PageID": "3041579",
+      "created": "2011-06-04 00:34:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46957",
+          "lastname": "Saunders",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        3041579,
+        3041580,
+        3041581,
+        3041582,
+        3041583,
+        3041584,
+        3041585,
+        3041586,
+        3041587
+      ]
+    },
+    {
+      "reference_id": "72504",
+      "genre": "article",
+      "title": "Elaphidion villosum, Fabr",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "19",
+      "spage": "31",
+      "epage": "34",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1553087",
+      "PageID": "3041589",
+      "created": "2011-06-04 02:16:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47048",
+          "lastname": "Clarkson",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3041589,
+        3041590,
+        3041591,
+        3041592
+      ]
+    },
+    {
+      "reference_id": "71551",
+      "genre": "article",
+      "title": "Notes on the Locustidae with description of a new species",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "19",
+      "spage": "56",
+      "epage": "57",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041614",
+      "created": "2011-06-03 20:55:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46800",
+          "lastname": "Davis",
+          "forename": "W T"
+        }
+      ],
+      "bhl_pages": [
+        3041614,
+        3041615
+      ]
+    },
+    {
+      "reference_id": "72745",
+      "genre": "article",
+      "title": "Dissosteira carolina",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "19",
+      "spage": "58",
+      "epage": "59",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041616",
+      "created": "2011-06-04 03:32:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46484",
+          "lastname": "",
+          "forename": "Mcneill"
+        }
+      ],
+      "bhl_pages": [
+        3041616,
+        3041617
+      ]
+    },
+    {
+      "reference_id": "103790",
+      "genre": "article",
+      "title": "Studies of the North American Proctotrupidae, with descriptions of new species from Florida",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "19",
+      "spage": "125",
+      "epage": "132",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041683",
+      "created": "2012-05-28 15:17:31",
+      "updated": "2012-05-28 15:17:31",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3041683,
+        3041684,
+        3041685,
+        3041686,
+        3041687,
+        3041688,
+        3041689,
+        3041690
+      ]
+    },
+    {
+      "reference_id": "72179",
+      "genre": "article",
+      "title": "Elaphidion villosum, Fab",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "19",
+      "spage": "141",
+      "epage": "145",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1553087",
+      "PageID": "3041699",
+      "created": "2011-06-04 00:43:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46923",
+          "lastname": "Hamilton",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3041699,
+        3041700,
+        3041701,
+        3041702,
+        3041703
+      ]
+    },
+    {
+      "reference_id": "21011",
+      "genre": "article",
+      "title": "Some North American Tachinae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "19",
+      "spage": "161",
+      "epage": "166",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041719",
+      "created": "2010-02-11 17:07:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18244",
+          "lastname": "Osten Sacken",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        3041719,
+        3041720,
+        3041721,
+        3041722,
+        3041723,
+        3041724
+      ]
+    },
+    {
+      "reference_id": "71474",
+      "genre": "article",
+      "title": "Studies on the North American Proctotrupidae with descriptions of new species from Florida",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "19",
+      "spage": "192",
+      "epage": "198",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041752",
+      "created": "2011-06-03 20:02:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3041752,
+        3041753,
+        3041754,
+        3041755,
+        3041756,
+        3041757,
+        3041758
+      ]
+    },
+    {
+      "reference_id": "72701",
+      "genre": "article",
+      "title": "Stray notes on Myrmeleonidae, Part 3",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "19",
+      "spage": "209",
+      "epage": "217",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041769",
+      "created": "2011-06-04 03:16:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46357",
+          "lastname": "Hagen",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        3041769,
+        3041770,
+        3041771,
+        3041772,
+        3041773,
+        3041774,
+        3041775,
+        3041776,
+        3041777
+      ]
+    }
+  ]
+}

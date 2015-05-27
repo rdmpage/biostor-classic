@@ -1,0 +1,45 @@
+{
+  "ItemID": "104640",
+  "FullTitle": "Stuttgarter Beitr\u00e4ge zur Naturkunde.",
+  "VolumeInfo": "nr. 80-124 1962-63",
+  "articles": [
+    {
+      "reference_id": "104206",
+      "genre": "article",
+      "title": "Iranische zikaden II. (Ergebnisse der entomologischen Reisen Willi Richter, Stuttgart, im Iran 1954 und 1956 - Nr. 42)",
+      "secondary_title": "Stuttgarter Beitr\u00e4ge zur Naturkunde",
+      "volume": "90",
+      "spage": "1",
+      "epage": "8",
+      "year": "1962",
+      "date": "1962-09-05",
+      "issn": "0562-4452",
+      "PageID": "33540042",
+      "created": "2012-06-11 12:22:32",
+      "updated": "2012-06-11 12:25:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53471",
+          "lastname": "Dlabola",
+          "forename": "Ji\u0159\u00ed"
+        },
+        {
+          "id": "53837",
+          "lastname": "Heller",
+          "forename": "Friedrich"
+        }
+      ],
+      "bhl_pages": [
+        33540042,
+        33540043,
+        33540044,
+        33540045,
+        33540046,
+        33540047,
+        33540048,
+        33540049
+      ]
+    }
+  ]
+}

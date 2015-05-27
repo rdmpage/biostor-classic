@@ -1,0 +1,63 @@
+{
+  "ItemID": "47465",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.85 no.4 1998",
+  "articles": [
+    {
+      "reference_id": "63014",
+      "genre": "article",
+      "title": "Solanum ortegae, a new Peruvian species from sect. Petota",
+      "secondary_title": "Phytologia",
+      "volume": "85",
+      "spage": "271",
+      "epage": "272",
+      "year": "1998",
+      "date": "1998-00-00",
+      "issn": "0031-9430",
+      "PageID": "13191741",
+      "created": "2011-01-26 21:39:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43576",
+          "lastname": "Ochoa",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        13191741,
+        13191742
+      ]
+    },
+    {
+      "reference_id": "62963",
+      "genre": "article",
+      "title": "Two new species of Erigeron (Asteraceae: Astereae) from Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "85",
+      "spage": "288",
+      "epage": "291",
+      "year": "1998",
+      "date": "1998-00-00",
+      "issn": "0031-9430",
+      "PageID": "13191758",
+      "created": "2011-01-26 21:37:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43554",
+          "lastname": "Nesom",
+          "forename": "G L"
+        }
+      ],
+      "bhl_pages": [
+        13191758,
+        13191759,
+        13191760,
+        13191761
+      ]
+    }
+  ]
+}

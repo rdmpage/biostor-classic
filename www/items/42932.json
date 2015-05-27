@@ -1,0 +1,105 @@
+{
+  "ItemID": "42932",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v. 4 (1883-85)",
+  "articles": [
+    {
+      "reference_id": "73183",
+      "genre": "article",
+      "title": "Collection and preservation of Diptera",
+      "secondary_title": "Psyche",
+      "volume": "4",
+      "spage": "130",
+      "epage": "132",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0033-2615",
+      "PageID": "11647218",
+      "created": "2011-06-04 07:58:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        11647218,
+        11647219,
+        11647220
+      ]
+    },
+    {
+      "reference_id": "72269",
+      "genre": "article",
+      "title": "Notes on some Coleoptera taken in South Louisiana",
+      "secondary_title": "Psyche. Cambridge, Massachusetts",
+      "volume": "4",
+      "spage": "219",
+      "epage": "222",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0033-2615",
+      "PageID": "11647315",
+      "created": "2011-06-04 01:00:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46958",
+          "lastname": "Townsend",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11647315,
+        11647316,
+        11647317,
+        11647318
+      ]
+    },
+    {
+      "reference_id": "72139",
+      "genre": "article",
+      "title": "The insects of Betula in North America",
+      "secondary_title": "Psyche. Cambridge, Massachusetts",
+      "volume": "4",
+      "spage": "271",
+      "epage": "286",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0033-2615",
+      "PageID": "11647367",
+      "created": "2011-06-04 00:37:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46962",
+          "lastname": "Dimmock",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        11647367,
+        11647368,
+        11647369,
+        11647370,
+        11647371,
+        11647372,
+        11647373,
+        11647374,
+        11647375,
+        11647376,
+        11647377,
+        11647378,
+        11647379,
+        11647380,
+        11647381,
+        11647382
+      ]
+    }
+  ]
+}

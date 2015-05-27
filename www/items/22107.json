@@ -1,0 +1,36 @@
+{
+  "ItemID": "22107",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 2 (1870)",
+  "articles": [
+    {
+      "reference_id": "73008",
+      "genre": "article",
+      "title": "On a species of Hemiteles (Ichneumonidae), ascertained by the editor to be parasitic in Canada on the imported currant worm fly (Nematus ventricosus, Klug.)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "2",
+      "spage": "9",
+      "epage": "12",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0008-347X",
+      "PageID": "3048634",
+      "created": "2011-06-04 04:52:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42798",
+          "lastname": "Walsh",
+          "forename": "B D"
+        }
+      ],
+      "bhl_pages": [
+        3048634,
+        3048635,
+        3048636,
+        3048637
+      ]
+    }
+  ]
+}

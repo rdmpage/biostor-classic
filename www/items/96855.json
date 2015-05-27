@@ -1,0 +1,36 @@
+{
+  "ItemID": "96855",
+  "FullTitle": "Term\u00e9szetrajzi F\u00fczetek kiadja a Magyar nemzeti Muzeum.",
+  "VolumeInfo": "v. 16-17 1893-94",
+  "articles": [
+    {
+      "reference_id": "103396",
+      "genre": "article",
+      "title": "E fauna apidarum Hung\u00e1ria",
+      "secondary_title": "Term\u00e9szetrajzi F\u00fczetek kiadja a Magyar nemzeti Muzeum",
+      "volume": "17",
+      "spage": "34",
+      "epage": "37",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1767299",
+      "PageID": "30840488",
+      "created": "2012-05-21 23:01:22",
+      "updated": "2012-05-21 23:03:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53757",
+          "lastname": "Mocs\u00e1ry",
+          "forename": "Alexandro"
+        }
+      ],
+      "bhl_pages": [
+        30840488,
+        30840489,
+        30840490,
+        30840491
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ItemID": "54554",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 3 (1849)",
+  "articles": [
+    {
+      "reference_id": "65371",
+      "genre": "article",
+      "title": "VIII. -- Descriptions of Aphides",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "3",
+      "series": "2",
+      "spage": "43",
+      "epage": "53",
+      "year": "1849",
+      "date": "1849-00-00",
+      "issn": "0374-5481",
+      "PageID": "16085334",
+      "created": "2011-02-23 20:13:21",
+      "updated": "2011-09-21 17:10:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17711",
+          "lastname": "Walker",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        16085334,
+        16085335,
+        16085336,
+        16085337,
+        16085338,
+        16085339,
+        16085340,
+        16085341,
+        16085342,
+        16085343,
+        16085344
+      ]
+    }
+  ]
+}

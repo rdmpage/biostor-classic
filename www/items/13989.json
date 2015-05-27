@@ -1,0 +1,91 @@
+{
+  "ItemID": "13989",
+  "FullTitle": "Annals of the Missouri Botanical Garden",
+  "VolumeInfo": "v.57 (1970)",
+  "articles": [
+    {
+      "reference_id": "11980",
+      "genre": "article",
+      "title": "A New Combination in Pilotrichidium Besch. (Musci)",
+      "secondary_title": "Annals of the Missouri Botanical Garden",
+      "volume": "57",
+      "spage": "257",
+      "epage": "258",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0026-6493",
+      "doi": "10.2307\/2395113",
+      "PageID": "520243",
+      "created": "2010-01-08 16:00:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8888",
+          "lastname": "Crosby",
+          "forename": "Marshall R"
+        }
+      ],
+      "bhl_pages": [
+        520243,
+        520244
+      ]
+    },
+    {
+      "reference_id": "11981",
+      "genre": "article",
+      "title": "Neanotis Prainiana (W. A. Talbot) W. H. Lewis to Oldenlandia (Rubiaceae)",
+      "secondary_title": "Annals of the Missouri Botanical Garden",
+      "volume": "57",
+      "spage": "263",
+      "epage": "264",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0026-6493",
+      "doi": "10.2307\/2395115",
+      "PageID": "520249",
+      "created": "2010-01-08 16:00:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8907",
+          "lastname": "Hemadri",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        520249,
+        520250
+      ]
+    },
+    {
+      "reference_id": "11956",
+      "genre": "article",
+      "title": "New Combinations in the Solaneae (Solanaceae) and Comments Regarding the Taxonomic Status of Leucophysalis",
+      "secondary_title": "Annals of the Missouri Botanical Garden",
+      "volume": "57",
+      "spage": "380",
+      "epage": "381",
+      "year": "1970",
+      "date": "1970-00-00",
+      "issn": "0026-6493",
+      "doi": "10.2307\/2394716",
+      "PageID": "520366",
+      "created": "2010-01-08 15:51:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8883",
+          "lastname": "Averett",
+          "forename": "John E"
+        }
+      ],
+      "bhl_pages": [
+        520366,
+        520367
+      ]
+    }
+  ]
+}

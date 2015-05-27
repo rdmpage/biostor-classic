@@ -1,0 +1,39 @@
+{
+  "ItemID": "17978",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 25 (1911-1912)",
+  "articles": [
+    {
+      "reference_id": "77779",
+      "genre": "article",
+      "title": "New Cuban Urocoptidae",
+      "secondary_title": "Nautilus",
+      "volume": "25",
+      "spage": "42",
+      "epage": "48",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0028-1344",
+      "PageID": "1818223",
+      "created": "2011-06-14 11:31:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49386",
+          "lastname": "Torre",
+          "forename": "C De La"
+        }
+      ],
+      "bhl_pages": [
+        1818223,
+        1818224,
+        1818225,
+        1818226,
+        1818227,
+        1818228,
+        1818229
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "author": [
+    {
+      "firstname": "Karen R",
+      "lastname": "Sime",
+      "name": "Karen R Sime"
+    },
+    {
+      "firstname": "David B",
+      "lastname": "Wahl",
+      "name": "David B Wahl"
+    }
+  ],
+  "type": "article",
+  "title": "Taxonomy, mature larva, and biology of Gnamptopelta obsidianator (Brull\u00e9) (Hymenoptera: Ichneumonidae, Ichneumoninae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "7",
+    "pages": "157--164",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "1998",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/470"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4490860"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 470
+    },
+    {
+      "type": "bhl",
+      "id": 4490860
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -81.783333333333,
+        29.416666666667
+      ]
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "author": [
+    {
+      "firstname": "Lawrence M",
+      "lastname": "Page",
+      "name": "Lawrence M Page"
+    },
+    {
+      "firstname": "Brooks M",
+      "lastname": "Burr",
+      "name": "Brooks M Burr"
+    }
+  ],
+  "type": "article",
+  "title": "Three new species of darters (Percidae, Etheostoma) of the subgenus Nanostoma from Kentucky and Tennessee",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "101",
+    "pages": "1--20",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1982",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/200"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4467849"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 200
+    },
+    {
+      "type": "bhl",
+      "id": 4467849
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -83.75,
+        37.316666666667
+      ],
+      [
+        -86.3,
+        36.8
+      ]
+    ]
+  }
+}

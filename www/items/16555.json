@@ -1,0 +1,41 @@
+{
+  "ItemID": "16555",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.41 (1855)",
+  "articles": [
+    {
+      "reference_id": "20884",
+      "genre": "article",
+      "title": "Extrait d'une monographie de la famille des Gorgonid\u00e9es de la classe des polypes",
+      "secondary_title": "Comptes Rendus Acad\u00e9mie des Sciences de Paris",
+      "volume": "41",
+      "spage": "7",
+      "epage": "15",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0001-4036",
+      "PageID": "1213186",
+      "created": "2010-02-10 16:50:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18065",
+          "lastname": "Valenciennes",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        1213186,
+        1213187,
+        1213188,
+        1213189,
+        1213190,
+        1213166,
+        1213191,
+        1213167,
+        1213192
+      ]
+    }
+  ]
+}

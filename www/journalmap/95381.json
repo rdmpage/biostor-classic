@@ -1,0 +1,86 @@
+{
+  "author": [
+    {
+      "firstname": "Michael W",
+      "lastname": "Gates",
+      "name": "Michael W Gates"
+    },
+    {
+      "firstname": "Paul E",
+      "lastname": "Hanson",
+      "name": "Paul E Hanson"
+    }
+  ],
+  "type": "article",
+  "title": "A revision of Bephrata and Isosomodes (Hymenoptera: Eurytomidae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "18",
+    "issue": "1",
+    "pages": "25--73",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2009",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/95381"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/35235307"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 95381
+    },
+    {
+      "type": "bhl",
+      "id": 35235307
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -76.433333333333,
+        -0.65277777777778
+      ],
+      [
+        -76.433333333333,
+        -0.65277777777778
+      ],
+      [
+        -76.144166666667,
+        -0.63194444444444
+      ],
+      [
+        -69.283333333333,
+        -12.833333333333
+      ],
+      [
+        -60.25,
+        -2.5
+      ],
+      [
+        -95.083333333333,
+        18.583333333333
+      ],
+      [
+        -72.916666666667,
+        -3.25
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ]
+    ]
+  }
+}

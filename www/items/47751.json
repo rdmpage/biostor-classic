@@ -1,0 +1,86 @@
+{
+  "ItemID": "47751",
+  "FullTitle": "Archiv fu\u0308r Naturgeschichte.",
+  "VolumeInfo": "v.78 Heft 9-12 1912",
+  "articles": [
+    {
+      "reference_id": "71708",
+      "genre": "article",
+      "title": "New chalcidoid genera and species from Paraguay",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte (A)",
+      "volume": "78",
+      "spage": "160",
+      "epage": "177",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1481989",
+      "PageID": "13317234",
+      "created": "2011-06-03 22:51:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        13317234,
+        13317235,
+        13317236,
+        13317237,
+        13317238,
+        13317239,
+        13317240,
+        13317241,
+        13317242,
+        13317243,
+        13317244,
+        13317245,
+        13317246,
+        13317247,
+        13317248,
+        13317249,
+        13317250,
+        13317251
+      ]
+    },
+    {
+      "reference_id": "61468",
+      "genre": "article",
+      "title": "Weitere Schmetterlinge aus Kamerun, gesammelt. von Herrn in genieur E. Hintz",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "78",
+      "spage": "121",
+      "epage": "131",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1481990",
+      "PageID": "13317771",
+      "created": "2011-01-10 20:42:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41987",
+          "lastname": "Strand",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        13317771,
+        13317772,
+        13317773,
+        13317774,
+        13317775,
+        13317776,
+        13317777,
+        13317778,
+        13317779,
+        13317780,
+        13317781
+      ]
+    }
+  ]
+}

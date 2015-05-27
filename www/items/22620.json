@@ -1,0 +1,107 @@
+{
+  "ItemID": "22620",
+  "FullTitle": "Fishery bulletin \/  U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service.",
+  "VolumeInfo": "v. 83 (1985)",
+  "articles": [
+    {
+      "reference_id": "59653",
+      "genre": "article",
+      "title": "Parasites of skipjack tuna, Katsuwonus pelamis: fishery implications",
+      "secondary_title": "Fishery Bulletin",
+      "volume": "83",
+      "spage": "343",
+      "epage": "356",
+      "year": "1985",
+      "date": "1985-00-00",
+      "oclc": "1783998",
+      "PageID": "3251556",
+      "created": "2010-11-21 15:57:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "31171",
+          "lastname": "Lester",
+          "forename": "R J G"
+        },
+        {
+          "id": "42650",
+          "lastname": "Barnes",
+          "forename": "A"
+        },
+        {
+          "id": "42651",
+          "lastname": "Habib",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        3251556,
+        3251557,
+        3251228,
+        3251091,
+        3251558,
+        3251559,
+        3251560,
+        3251561,
+        3251229,
+        3251230,
+        3251142,
+        3251231,
+        3251232,
+        3251140
+      ]
+    },
+    {
+      "reference_id": "65887",
+      "genre": "article",
+      "title": "Dolphin habitats in the eastern tropical Pacific",
+      "secondary_title": "Fishery Bulletin",
+      "volume": "83",
+      "spage": "623",
+      "epage": "643",
+      "year": "1985",
+      "date": "1985-00-00",
+      "issn": "0090-0656",
+      "PageID": "3251033",
+      "created": "2011-05-01 11:33:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45052",
+          "lastname": "Au",
+          "forename": "D W K"
+        },
+        {
+          "id": "45053",
+          "lastname": "Perryman",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        3251033,
+        3251071,
+        3251353,
+        3251667,
+        3250949,
+        3251668,
+        3251354,
+        3250969,
+        3250959,
+        3251355,
+        3251669,
+        3251670,
+        3251671,
+        3251356,
+        3251672,
+        3251357,
+        3251673,
+        3250945,
+        3251095,
+        3251358,
+        3251674
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemID": "45639",
+  "FullTitle": "Deutsche entomologische Zeitschrift Iris \/  herausgegeben vom Entomologischen Verein Iris zu Dresden.",
+  "VolumeInfo": "bd. 26 1912",
+  "articles": [
+    {
+      "reference_id": "71039",
+      "genre": "article",
+      "title": "Ein neuer Papilio aus Celebes",
+      "secondary_title": "Deutsche Entomologische Zeitschrift \"Iris\"",
+      "volume": "26",
+      "spage": "163",
+      "epage": "165",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1695863",
+      "PageID": "12681971",
+      "created": "2011-06-03 17:36:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10056",
+          "lastname": "Martin",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12681971,
+        12681972,
+        12681973
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "ItemID": "43643",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 1-2 1880-81",
+  "articles": [
+    {
+      "reference_id": "60728",
+      "genre": "article",
+      "title": "Genera nova Tinearum",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "2",
+      "spage": "94",
+      "epage": "97",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0013-886X",
+      "PageID": "11924582",
+      "created": "2010-11-23 04:03:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40816",
+          "lastname": "Wallengren",
+          "forename": "H D J"
+        }
+      ],
+      "bhl_pages": [
+        11924582,
+        11924583,
+        11924584,
+        11924585
+      ]
+    },
+    {
+      "reference_id": "53309",
+      "genre": "article",
+      "title": "Revision af Skandinaviens Tipulidae",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "2",
+      "series": "1",
+      "spage": "177",
+      "epage": "208",
+      "year": "1882",
+      "date": "1882-00-00",
+      "issn": "0013-886X",
+      "PageID": "11924665",
+      "created": "2010-10-26 20:05:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40816",
+          "lastname": "Wallengren",
+          "forename": "H D J"
+        }
+      ],
+      "bhl_pages": [
+        11924665,
+        11924666,
+        11924667,
+        11924668,
+        11924669,
+        11924670,
+        11924671,
+        11924672,
+        11924673,
+        11924674,
+        11924675,
+        11924676,
+        11924677,
+        11924678,
+        11924679,
+        11924680,
+        11924681,
+        11924682,
+        11924683,
+        11924684,
+        11924685,
+        11924686,
+        11924687,
+        11924688,
+        11924689,
+        11924690,
+        11924691,
+        11924692,
+        11924693,
+        11924694,
+        11924695,
+        11924696
+      ]
+    }
+  ]
+}

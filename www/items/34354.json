@@ -1,0 +1,41 @@
+{
+  "ItemID": "34354",
+  "FullTitle": "Transactions of the Kansas Academy of Science.  ",
+  "VolumeInfo": "7",
+  "articles": [
+    {
+      "reference_id": "69818",
+      "genre": "article",
+      "title": "Descriptions of new species of North American Coleoptera",
+      "secondary_title": "Transactions of the Kansas Acadamy of Science. Topeka",
+      "volume": "7",
+      "spage": "74",
+      "epage": "77",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "1280185",
+      "PageID": "8323264",
+      "created": "2011-06-02 07:36:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46256",
+          "lastname": "J.l.",
+          "forename": "Leconte"
+        },
+        {
+          "id": "46260",
+          "lastname": "G.h.",
+          "forename": "Horn"
+        }
+      ],
+      "bhl_pages": [
+        8323264,
+        8323265,
+        8323266,
+        8323267
+      ]
+    }
+  ]
+}

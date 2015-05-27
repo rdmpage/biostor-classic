@@ -1,0 +1,38 @@
+{
+  "ItemID": "27591",
+  "FullTitle": "Natural history of Victoria. Prodromus of the zoology of Victoria; or, Figures and descriptions of the living species of all classes of the Victorian indigenous animals... By Frederick McCoy...",
+  "VolumeInfo": "Dec.1-5",
+  "articles": [
+    {
+      "reference_id": "102737",
+      "genre": "article",
+      "title": "Megascolides australis (McCoy). The Giant Earth-worm",
+      "secondary_title": "Prodromus of The Zoology of Victoria",
+      "volume": "1",
+      "spage": "21",
+      "epage": "25",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "22485253",
+      "PageID": "5221087",
+      "created": "2012-05-04 15:15:01",
+      "updated": "2012-05-04 23:54:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40257",
+          "lastname": "Mccoy",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        5221087,
+        5221086,
+        5221085,
+        5221084,
+        5221083,
+        5221088
+      ]
+    }
+  ]
+}

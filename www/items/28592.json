@@ -1,0 +1,36 @@
+{
+  "ItemID": "28592",
+  "FullTitle": "The Ottawa naturalist.  ",
+  "VolumeInfo": "v. 28 (1914-1915)",
+  "articles": [
+    {
+      "reference_id": "73098",
+      "genre": "article",
+      "title": "Gall midges as forest insects",
+      "secondary_title": "Ottawa Nat",
+      "volume": "28",
+      "spage": "76",
+      "epage": "79",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "2160808",
+      "PageID": "5739328",
+      "created": "2011-06-04 07:42:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42334",
+          "lastname": "Felt",
+          "forename": "E P"
+        }
+      ],
+      "bhl_pages": [
+        5739328,
+        5739327,
+        5739326,
+        5739325
+      ]
+    }
+  ]
+}

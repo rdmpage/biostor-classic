@@ -1,0 +1,34 @@
+{
+  "ItemID": "32836",
+  "FullTitle": "Le Naturaliste canadien.",
+  "VolumeInfo": "v. 4 1872",
+  "articles": [
+    {
+      "reference_id": "71131",
+      "genre": "article",
+      "title": "Description de plusieurs H\u00e9mipt\u00e8res nouveaux",
+      "secondary_title": "Naturaliste Canadien. Quebec",
+      "volume": "4",
+      "spage": "319",
+      "epage": "320",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1605564",
+      "PageID": "7746767",
+      "created": "2011-06-03 17:56:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46760",
+          "lastname": "Provancher",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        7746767,
+        7746768
+      ]
+    }
+  ]
+}

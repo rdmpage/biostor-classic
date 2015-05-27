@@ -1,0 +1,183 @@
+{
+  "ItemID": "53343",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "3rd ser. v. 14 (1864)",
+  "articles": [
+    {
+      "reference_id": "91020",
+      "genre": "article",
+      "title": "I.\u2014Outline of the geology of the Maltese Islands, by Dr. Leith Adams, of the 22nd Regiment; and descriptions of the Brachiopoda",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "3",
+      "spage": "1",
+      "epage": "11",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936408681650",
+      "PageID": "15623448",
+      "created": "2011-09-28 14:38:36",
+      "updated": "2011-09-28 14:38:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51929",
+          "lastname": "Davidson",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        15623448,
+        15623449,
+        15623450,
+        15623451,
+        15623452,
+        15623453,
+        15623454,
+        15623455,
+        15623456,
+        15623457,
+        15623458
+      ]
+    },
+    {
+      "reference_id": "72121",
+      "genre": "article",
+      "title": "II. Contributions to an Insect Fauna of the Amazon Valley. Coleoptera : Longicornes",
+      "secondary_title": "The Annals and Magazine of Natural History, London",
+      "volume": "14",
+      "series": "3",
+      "spage": "11",
+      "epage": "24",
+      "year": "1864",
+      "date": "1864-00-00",
+      "PageID": "15623458",
+      "created": "2011-06-04 00:35:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        15623458,
+        15623459,
+        15623460,
+        15623461,
+        15623462,
+        15623463,
+        15623464,
+        15623465,
+        15623466,
+        15623467,
+        15623468,
+        15623469,
+        15623470,
+        15623471
+      ]
+    },
+    {
+      "reference_id": "91070",
+      "genre": "article",
+      "title": "XI.\u2014On the metamorphoses of the prawns. (First Memoir)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "3",
+      "spage": "104",
+      "epage": "115",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936408681668",
+      "PageID": "15623551",
+      "created": "2011-09-28 14:44:12",
+      "updated": "2011-09-28 14:44:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40042",
+          "lastname": "M\u00fcller",
+          "forename": "Fritz"
+        }
+      ],
+      "bhl_pages": [
+        15623551,
+        15623552,
+        15623553,
+        15623554,
+        15623555,
+        15623556,
+        15623557,
+        15623558,
+        15623559,
+        15623560,
+        15623561,
+        15623562
+      ]
+    },
+    {
+      "reference_id": "91002",
+      "genre": "article",
+      "title": "XXIII.\u2014On the structure of Antipathes",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "3",
+      "spage": "198",
+      "epage": "200",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936408681689",
+      "PageID": "15623645",
+      "created": "2011-09-28 14:36:34",
+      "updated": "2011-09-28 14:36:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51826",
+          "lastname": "Lacaze-Duthiers",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        15623645,
+        15623646,
+        15623647
+      ]
+    },
+    {
+      "reference_id": "90994",
+      "genre": "article",
+      "title": "XXVI.\u2014On the Antipatharian genus Gerardia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "3",
+      "spage": "241",
+      "epage": "243",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936408681701",
+      "PageID": "15623688",
+      "created": "2011-09-28 14:35:47",
+      "updated": "2011-09-28 14:35:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51826",
+          "lastname": "Lacaze-Duthiers",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        15623688,
+        15623689,
+        15623690
+      ]
+    }
+  ]
+}

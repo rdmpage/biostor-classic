@@ -1,0 +1,77 @@
+{
+  "ItemID": "44567",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 9-10 1888-89",
+  "articles": [
+    {
+      "reference_id": "53315",
+      "genre": "article",
+      "title": "On some South African Tipulidae",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "9",
+      "spage": "127",
+      "epage": "141",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0013-886X",
+      "PageID": "12256099",
+      "created": "2010-10-26 20:12:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40784",
+          "lastname": "Bergroth",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        12256099,
+        12256100,
+        12256101,
+        12256102,
+        12256103,
+        12256104,
+        12256105,
+        12256106,
+        12256107,
+        12256108,
+        12256109,
+        12256110,
+        12256111,
+        12256112,
+        12256113
+      ]
+    },
+    {
+      "reference_id": "61525",
+      "genre": "article",
+      "title": "Arrhenophagus, ett nytt sl\u00e4gte bland Encyrtiderna",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "9",
+      "spage": "143",
+      "epage": "147",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0013-886X",
+      "PageID": "12256115",
+      "created": "2011-01-10 21:36:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43056",
+          "lastname": "Aurivilius",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        12256115,
+        12256116,
+        12256117,
+        12256118,
+        12256119
+      ]
+    }
+  ]
+}

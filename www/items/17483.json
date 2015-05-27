@@ -1,0 +1,41 @@
+{
+  "ItemID": "17483",
+  "FullTitle": "Biologisches Zentralblatt.",
+  "VolumeInfo": "bd. 10 (1890-1891)",
+  "articles": [
+    {
+      "reference_id": "49190",
+      "genre": "article",
+      "title": "Das Variieren der Eidechsen-Gattung Tropidurus auf den Galapagos Inseln und Bemerkungen \u00fcber den Ursprung der Inselgruppe",
+      "secondary_title": "Biol. Centralblatt.",
+      "volume": "10",
+      "spage": "475",
+      "epage": "483",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1536443",
+      "PageID": "1586729",
+      "created": "2010-03-21 11:59:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39401",
+          "lastname": "Baur",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        1586729,
+        1586730,
+        1586731,
+        1586732,
+        1586733,
+        1586734,
+        1586735,
+        1586736,
+        1586737
+      ]
+    }
+  ]
+}

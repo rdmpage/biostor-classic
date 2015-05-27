@@ -1,0 +1,88 @@
+{
+  "ItemID": "35144",
+  "FullTitle": "Ibis.",
+  "VolumeInfo": "3, 1861",
+  "articles": [
+    {
+      "reference_id": "59951",
+      "genre": "article",
+      "title": "Remarks on the geographical distribution of the genus Turdus",
+      "secondary_title": "Ibis",
+      "volume": "3",
+      "spage": "277",
+      "epage": "283",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0019-1019",
+      "PageID": "8618803",
+      "created": "2010-11-22 17:11:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40400",
+          "lastname": "Sclater",
+          "forename": "P L"
+        }
+      ],
+      "bhl_pages": [
+        8618803,
+        8618804,
+        8618805,
+        8618806,
+        8618807,
+        8618808,
+        8618809
+      ]
+    },
+    {
+      "reference_id": "59930",
+      "genre": "article",
+      "title": "Notes on ornithology taken between Takoo and Peking, in the neighbourhood of the Peiho River, Province of Chelee, North China, from August to December, 1860",
+      "secondary_title": "Ibis",
+      "volume": "3",
+      "series": "1",
+      "spage": "323",
+      "epage": "345",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0019-1019",
+      "PageID": "8618855",
+      "created": "2010-11-22 17:02:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42714",
+          "lastname": "Swinhoe",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        8618855,
+        8618856,
+        8618857,
+        8618858,
+        8618859,
+        8618860,
+        8618861,
+        8618862,
+        8618863,
+        8618864,
+        8618865,
+        8618866,
+        8618867,
+        8618868,
+        8618869,
+        8618870,
+        8618871,
+        8618872,
+        8618873,
+        8618874,
+        8618875,
+        8618876,
+        8618877
+      ]
+    }
+  ]
+}

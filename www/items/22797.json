@@ -1,0 +1,101 @@
+{
+  "ItemID": "22797",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.49 (1916)",
+  "articles": [
+    {
+      "reference_id": "59018",
+      "genre": "article",
+      "title": "Some corals from Kermadec Islands",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "49",
+      "spage": "275",
+      "epage": "9",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1778777",
+      "PageID": "3313118",
+      "created": "2010-11-20 23:28:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42210",
+          "lastname": "Vaughan",
+          "forename": "T W"
+        }
+      ],
+      "bhl_pages": [
+        3313118
+      ]
+    },
+    {
+      "reference_id": "20959",
+      "genre": "article",
+      "title": "The Lithobiomorpha of New Zealand",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "49",
+      "spage": "303",
+      "epage": "318",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1778777",
+      "PageID": "3313135",
+      "created": "2010-02-11 16:04:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18156",
+          "lastname": "Archey",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        3313135,
+        3313394,
+        3313136,
+        3313137,
+        3313395,
+        3313138,
+        3313396,
+        3313397,
+        3313139,
+        3313140,
+        3313141,
+        3312961,
+        3313398,
+        3312967,
+        3313142,
+        3312940
+      ]
+    },
+    {
+      "reference_id": "58964",
+      "genre": "article",
+      "title": "The occurrence in New Zealand of Craterostigmus tasmanicus Pocock (Chilopoda)",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "49",
+      "spage": "319",
+      "epage": "320",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1778777",
+      "PageID": "3313143",
+      "created": "2010-11-20 23:19:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18156",
+          "lastname": "Archey",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        3313143,
+        3313144
+      ]
+    }
+  ]
+}

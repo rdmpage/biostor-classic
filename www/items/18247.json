@@ -1,0 +1,73 @@
+{
+  "ItemID": "18247",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 22 (1870)",
+  "articles": [
+    {
+      "reference_id": "70049",
+      "genre": "article",
+      "title": "Descriptions of grasshoppers from Colorado",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences, Philadelphia",
+      "volume": "22",
+      "spage": "74",
+      "epage": "84",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935591",
+      "created": "2011-06-02 15:34:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46466",
+          "lastname": "Thomas",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1935591,
+        1935592,
+        1935593,
+        1935594,
+        1935597,
+        1935598,
+        1935599,
+        1935600,
+        1935601,
+        1935602,
+        1935603
+      ]
+    },
+    {
+      "reference_id": "20517",
+      "genre": "article",
+      "title": "On some new species of fishes obtained by Prof. Orton from the Maranon, or Upper Amazon, and Napo Rivers",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences, Philadelphia",
+      "volume": "22",
+      "spage": "92",
+      "epage": "96",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0097-3157",
+      "PageID": "1935611",
+      "created": "2010-02-09 17:37:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        1935611,
+        1935612,
+        1935613,
+        1935614,
+        1935682
+      ]
+    }
+  ]
+}

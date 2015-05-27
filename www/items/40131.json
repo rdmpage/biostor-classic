@@ -1,0 +1,40 @@
+{
+  "ItemID": "40131",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique d'\u00c9gypte.  ",
+  "VolumeInfo": "v. 1 1908-09",
+  "articles": [
+    {
+      "reference_id": "57267",
+      "genre": "article",
+      "title": "Etude sur les esp\u00e8ces de la famille des Eresidae qui habitent l'Egypte",
+      "secondary_title": "Bull. Soc. ent. Egypte",
+      "volume": "1",
+      "spage": "77",
+      "epage": "84",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1765812",
+      "PageID": "10529096",
+      "created": "2010-11-18 13:38:13",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        10529096,
+        10529097,
+        10529098,
+        10529099,
+        10529100,
+        10529101,
+        10529102,
+        10529103
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "ItemID": "34395",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Vereine in Berlin.",
+  "VolumeInfo": "v. 2 1858",
+  "articles": [
+    {
+      "reference_id": "71734",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Geschichte und Synonymie der Pteromalinen (Schluss)",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "2",
+      "spage": "10",
+      "epage": "23",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0323-6145",
+      "PageID": "8339664",
+      "created": "2011-06-03 22:58:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46837",
+          "lastname": "Reinhard",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8339664,
+        8339665,
+        8339666,
+        8339667,
+        8339668,
+        8339669,
+        8339670,
+        8339671,
+        8339672,
+        8339673,
+        8339674,
+        8339675,
+        8339676,
+        8339677
+      ]
+    },
+    {
+      "reference_id": "53285",
+      "genre": "article",
+      "title": "Uber einige neue Fliegengattungen",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "2",
+      "spage": "101",
+      "epage": "122",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0323-6145",
+      "PageID": "8339759",
+      "created": "2010-10-26 19:44:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40809",
+          "lastname": "Loew",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8339759,
+        8339760,
+        8339761,
+        8339762,
+        8339763,
+        8339764,
+        8339765,
+        8339766,
+        8339767,
+        8339768,
+        8339769,
+        8339770,
+        8339771,
+        8339772,
+        8339773,
+        8339774,
+        8339775,
+        8339776,
+        8339777,
+        8339778,
+        8339779,
+        8339780
+      ]
+    }
+  ]
+}

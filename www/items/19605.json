@@ -1,0 +1,913 @@
+{
+  "ItemID": "19605",
+  "FullTitle": "Proceedings of the Biological Society of Washington.  ",
+  "VolumeInfo": "1-3",
+  "articles": [
+    {
+      "reference_id": "82191",
+      "genre": "article",
+      "title": "The Doctrine of Darwin",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "1",
+      "spage": "47",
+      "epage": "55",
+      "issn": "0006-324X",
+      "PageID": "2343991",
+      "created": "2011-07-31 03:00:39",
+      "updated": "2011-07-31 03:00:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39817",
+          "lastname": "Gill",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        2343991,
+        2343990,
+        2343989,
+        2343988,
+        2343987,
+        2343986,
+        2343985,
+        2343984,
+        2343983
+      ]
+    },
+    {
+      "reference_id": "83181",
+      "genre": "article",
+      "title": "Darwin's contributions to philosophy",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "1",
+      "spage": "60",
+      "epage": "70",
+      "issn": "0006-324X",
+      "PageID": "2343978",
+      "created": "2011-07-31 04:27:07",
+      "updated": "2011-07-31 04:27:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51045",
+          "lastname": "Powell",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        2343978,
+        2343977,
+        2343976,
+        2343975,
+        2343974,
+        2343973,
+        2343972,
+        2343971,
+        2343970,
+        2343969,
+        2343968
+      ]
+    },
+    {
+      "reference_id": "83255",
+      "genre": "article",
+      "title": "Darwin's work in entomology",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "1",
+      "spage": "70",
+      "epage": "80",
+      "issn": "0006-324X",
+      "PageID": "2343968",
+      "created": "2011-07-31 04:33:25",
+      "updated": "2011-07-31 04:33:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2455",
+          "lastname": "Riley",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        2343968,
+        2343967,
+        2343966,
+        2343965,
+        2343964,
+        2343963,
+        2343962,
+        2343961,
+        2343960,
+        2343959,
+        2343958
+      ]
+    },
+    {
+      "reference_id": "83601",
+      "genre": "article",
+      "title": "Darwin as a botanist",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "1",
+      "spage": "81",
+      "epage": "86",
+      "issn": "0006-324X",
+      "PageID": "2343957",
+      "created": "2011-07-31 04:59:30",
+      "updated": "2011-07-31 04:59:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51121",
+          "lastname": "Ward",
+          "forename": "L F"
+        }
+      ],
+      "bhl_pages": [
+        2343957,
+        2343956,
+        2343955,
+        2343954,
+        2343953,
+        2343952
+      ]
+    },
+    {
+      "reference_id": "81508",
+      "genre": "article",
+      "title": "Darwin on the expression of the emotions",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "1",
+      "spage": "87",
+      "epage": "92",
+      "issn": "0006-324X",
+      "PageID": "2343951",
+      "created": "2011-07-31 02:17:51",
+      "updated": "2011-07-31 02:17:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50782",
+          "lastname": "Baker",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        2343951,
+        2343950,
+        2343949,
+        2343948,
+        2344069,
+        2344068
+      ]
+    },
+    {
+      "reference_id": "83556",
+      "genre": "article",
+      "title": "A Darwinian bibliography",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "1",
+      "spage": "92",
+      "epage": "101",
+      "issn": "0006-324X",
+      "PageID": "2344068",
+      "created": "2011-07-31 04:56:26",
+      "updated": "2011-07-31 04:56:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "800",
+          "lastname": "True",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        2344068,
+        2344067,
+        2344066,
+        2344065,
+        2344064,
+        2344063,
+        2344062,
+        2344061,
+        2344060,
+        2344059
+      ]
+    },
+    {
+      "reference_id": "82192",
+      "genre": "article",
+      "title": "The proper use of the term biology (Appendix) (\"From the presidential address delivered January 28, 1881\")",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "1",
+      "spage": "102",
+      "epage": "104",
+      "issn": "0006-324X",
+      "PageID": "2344058",
+      "created": "2011-07-31 03:00:43",
+      "updated": "2011-07-31 03:00:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39817",
+          "lastname": "Gill",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        2344058,
+        2344057,
+        2344056
+      ]
+    },
+    {
+      "reference_id": "83650",
+      "genre": "article",
+      "title": "Certain phases in the geological history of the North American continent, biologically considered [President's address]",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "41",
+      "epage": "66",
+      "issn": "0006-324X",
+      "PageID": "2344140",
+      "created": "2011-07-31 07:51:14",
+      "updated": "2011-07-31 07:51:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51130",
+          "lastname": "White",
+          "forename": "C A"
+        }
+      ],
+      "bhl_pages": [
+        2344140,
+        2344141,
+        2344142,
+        2344143,
+        2344144,
+        2344145,
+        2344146,
+        2344147,
+        2344148,
+        2344149,
+        2344150,
+        2344151,
+        2344152,
+        2344153,
+        2344154,
+        2344155,
+        2344162,
+        2344163,
+        2344164,
+        2344165,
+        2344166,
+        2344167,
+        2344168,
+        2344169,
+        2344170,
+        2344171
+      ]
+    },
+    {
+      "reference_id": "69038",
+      "genre": "article",
+      "title": "Notes on North American Psyllidae",
+      "secondary_title": "Proceedings of the Biological Society of Washington (1882-1884)",
+      "volume": "2",
+      "spage": "67",
+      "epage": "79",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "7936023",
+      "PageID": "2344156",
+      "created": "2011-06-01 08:19:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46174",
+          "lastname": "V.",
+          "forename": "Riley C"
+        }
+      ],
+      "bhl_pages": [
+        2344156,
+        2344157,
+        2344158,
+        2344159,
+        2344160,
+        2344161,
+        2344184,
+        2344185,
+        2344186,
+        2344187,
+        2344188,
+        2344189,
+        2344190
+      ]
+    },
+    {
+      "reference_id": "83256",
+      "genre": "article",
+      "title": "Remarks on the hSig-^orm-Thyridopteryx ephemeraeformis",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "80",
+      "epage": "83",
+      "issn": "0006-324X",
+      "PageID": "2344191",
+      "created": "2011-07-31 04:33:29",
+      "updated": "2011-07-31 04:33:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2455",
+          "lastname": "Riley",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        2344191,
+        2344192,
+        2344193,
+        2344194
+      ]
+    },
+    {
+      "reference_id": "83602",
+      "genre": "article",
+      "title": "List of plants added to the flora of Washington from April 1, 1882, to April 1, 1884",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "84",
+      "epage": "87",
+      "issn": "0006-324X",
+      "PageID": "2344195",
+      "created": "2011-07-31 04:59:34",
+      "updated": "2011-07-31 04:59:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51121",
+          "lastname": "Ward",
+          "forename": "L F"
+        }
+      ],
+      "bhl_pages": [
+        2344195,
+        2344196,
+        2344197,
+        2344198
+      ]
+    },
+    {
+      "reference_id": "67216",
+      "genre": "article",
+      "title": "Description of a new genus and species of Pediculate fishes (Halieutella lappa)",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "2",
+      "spage": "88",
+      "epage": "88",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0006-324X",
+      "PageID": "2344199",
+      "created": "2011-05-20 15:47:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45479",
+          "lastname": "Bean",
+          "forename": "G B Goode T H"
+        }
+      ],
+      "bhl_pages": [
+        2344199
+      ]
+    },
+    {
+      "reference_id": "83234",
+      "genre": "article",
+      "title": "Descriptions of some new North American birds",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "89",
+      "epage": "95",
+      "issn": "0006-324X",
+      "PageID": "2344200",
+      "created": "2011-07-31 04:31:37",
+      "updated": "2011-07-31 04:31:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42344",
+          "lastname": "Ridgway",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2344200,
+        2344201,
+        2344202,
+        2344203,
+        2344204,
+        2344205,
+        2344206
+      ]
+    },
+    {
+      "reference_id": "83235",
+      "genre": "article",
+      "title": "Description of a new American kingfisher",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "95",
+      "epage": "96",
+      "issn": "0006-324X",
+      "PageID": "2344206",
+      "created": "2011-07-31 04:31:42",
+      "updated": "2011-07-31 04:31:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42344",
+          "lastname": "Ridgway",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2344206,
+        2344207
+      ]
+    },
+    {
+      "reference_id": "83449",
+      "genre": "article",
+      "title": "Diagnoses of new species of birds from Kamtschatka and the Conmiander Islands",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "97",
+      "epage": "99",
+      "issn": "0006-324X",
+      "PageID": "2344208",
+      "created": "2011-07-31 04:49:28",
+      "updated": "2011-07-31 04:49:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "498",
+          "lastname": "Stejneger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        2344208,
+        2344209,
+        2344210
+      ]
+    },
+    {
+      "reference_id": "83236",
+      "genre": "article",
+      "title": "A review of the American crossbills (Loxia) of the L. curvirostra type",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "101",
+      "epage": "107",
+      "issn": "0006-324X",
+      "PageID": "2344212",
+      "created": "2011-07-31 04:31:59",
+      "updated": "2011-07-31 04:32:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42344",
+          "lastname": "Ridgway",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2344212,
+        2344213,
+        2344214,
+        2344215,
+        2344216,
+        2344217,
+        2344218
+      ]
+    },
+    {
+      "reference_id": "83237",
+      "genre": "article",
+      "title": "Note on the Anas hyperboreus, Pall. and Anser albatus, Cass",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "107",
+      "epage": "108",
+      "issn": "0006-324X",
+      "PageID": "2344218",
+      "created": "2011-07-31 04:32:08",
+      "updated": "2011-07-31 04:32:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42344",
+          "lastname": "Ridgway",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2344218,
+        2344219
+      ]
+    },
+    {
+      "reference_id": "83238",
+      "genre": "article",
+      "title": "Remarks on the type specimens of Muscicapa fulvifrons, Giraud, and Mitrephorus pallescens, Coues",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "108",
+      "epage": "110",
+      "issn": "0006-324X",
+      "PageID": "2344219",
+      "created": "2011-07-31 04:32:12",
+      "updated": "2011-07-31 04:32:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42344",
+          "lastname": "Ridgway",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2344219,
+        2344220,
+        2344221
+      ]
+    },
+    {
+      "reference_id": "83239",
+      "genre": "article",
+      "title": "Note regarding the earliest name for Carpodacus haemorrhous (Wagler)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "110",
+      "epage": "111",
+      "issn": "0006-324X",
+      "PageID": "2344221",
+      "created": "2011-07-31 04:32:18",
+      "updated": "2011-07-31 04:32:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42344",
+          "lastname": "Ridgway",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2344221,
+        2344222
+      ]
+    },
+    {
+      "reference_id": "81947",
+      "genre": "article",
+      "title": "On some Hydrocorallinae from Alaska and California",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "111",
+      "epage": "115",
+      "issn": "0006-324X",
+      "PageID": "2344222",
+      "created": "2011-07-31 02:45:21",
+      "updated": "2011-07-31 02:45:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        2344222,
+        2344223,
+        2344224,
+        2344225,
+        2344226
+      ]
+    },
+    {
+      "reference_id": "81598",
+      "genre": "article",
+      "title": "Some results by massage et contre-coup",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "2",
+      "spage": "116",
+      "epage": "117",
+      "issn": "0006-324X",
+      "PageID": "2344227",
+      "created": "2011-07-31 02:23:46",
+      "updated": "2011-07-31 02:23:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50791",
+          "lastname": "Barnard",
+          "forename": "W S"
+        }
+      ],
+      "bhl_pages": [
+        2344227,
+        2344228
+      ]
+    },
+    {
+      "reference_id": "83651",
+      "genre": "article",
+      "title": "The application of biology to geological history",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "3",
+      "spage": "1",
+      "epage": "20",
+      "issn": "0006-324X",
+      "PageID": "2344284",
+      "created": "2011-07-31 07:51:22",
+      "updated": "2011-07-31 07:51:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51130",
+          "lastname": "White",
+          "forename": "C A"
+        }
+      ],
+      "bhl_pages": [
+        2344284,
+        2344285,
+        2344286,
+        2344287,
+        2344288,
+        2344289,
+        2344172,
+        2344179,
+        2344180,
+        2344181,
+        2344182,
+        2344183,
+        2344290,
+        2344291,
+        2344292,
+        2344293,
+        2344294,
+        2344295,
+        2344296,
+        2344297
+      ]
+    },
+    {
+      "reference_id": "83240",
+      "genre": "article",
+      "title": "Description of some new species of birds from Cozumel Island, Yucatan",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "3",
+      "spage": "21",
+      "epage": "24",
+      "issn": "0006-324X",
+      "PageID": "2344298",
+      "created": "2011-07-31 04:32:21",
+      "updated": "2011-07-31 04:32:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42344",
+          "lastname": "Ridgway",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2344298,
+        2344299,
+        2344173,
+        2344174
+      ]
+    },
+    {
+      "reference_id": "82737",
+      "genre": "article",
+      "title": "Description of a new species of chipmunk from California (Tamias macrorhabdotes sp. nov",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "3",
+      "spage": "25",
+      "epage": "28",
+      "issn": "0006-324X",
+      "PageID": "2344175",
+      "created": "2011-07-31 03:44:29",
+      "updated": "2011-07-31 03:44:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50998",
+          "lastname": "Merriam",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        2344175,
+        2344176,
+        2344177,
+        2344178
+      ]
+    },
+    {
+      "reference_id": "83325",
+      "genre": "article",
+      "title": "On a new method of producing immunity from contagious diseases",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "3",
+      "spage": "29",
+      "epage": "33",
+      "issn": "0006-324X",
+      "PageID": "2344300",
+      "created": "2011-07-31 04:41:04",
+      "updated": "2011-07-31 04:41:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51064",
+          "lastname": "Salmon",
+          "forename": "D",
+          "suffix": "E"
+        },
+        {
+          "id": "21044",
+          "lastname": "Smith",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        2344300,
+        2344301,
+        2344302,
+        2344303,
+        2344304
+      ]
+    },
+    {
+      "reference_id": "59803",
+      "genre": "article",
+      "title": "The beginnings of natural history in America",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "3",
+      "spage": "35",
+      "epage": "105",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0006-324X",
+      "PageID": "2344306",
+      "created": "2010-11-22 16:02:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "42693",
+          "lastname": "Bean",
+          "forename": "T H <I>In <\/i>Goode"
+        }
+      ],
+      "bhl_pages": [
+        2344306,
+        2344307,
+        2344308,
+        2344309,
+        2344310,
+        2344311,
+        2344312,
+        2344313,
+        2344314,
+        2344315,
+        2344316,
+        2344317,
+        2344318,
+        2344319,
+        2344320,
+        2344321,
+        2344322,
+        2344323,
+        2344324,
+        2344325,
+        2344326,
+        2344327,
+        2344328,
+        2344329,
+        2344330,
+        2344331,
+        2344332,
+        2344333,
+        2344334,
+        2344335,
+        2344336,
+        2344337,
+        2344338,
+        2344339,
+        2344340,
+        2344341,
+        2344342,
+        2344343,
+        2344344,
+        2344345,
+        2344346,
+        2344347,
+        2344348,
+        2344349,
+        2344350,
+        2344351,
+        2344352,
+        2344353,
+        2344354,
+        2344355,
+        2344356,
+        2344357,
+        2344358,
+        2344359,
+        2344360,
+        2344361,
+        2344362,
+        2344363,
+        2344381,
+        2344382,
+        2344383,
+        2344384,
+        2344385,
+        2344386,
+        2344387,
+        2344388,
+        2344389,
+        2344390,
+        2344391,
+        2344392,
+        2344393
+      ]
+    },
+    {
+      "reference_id": "82569",
+      "genre": "article",
+      "title": "Additions to the flora of Washington and vicinity, from April 1, 1884 to April 1, 1886",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "3",
+      "spage": "106",
+      "epage": "132",
+      "issn": "0006-324X",
+      "PageID": "2344394",
+      "created": "2011-07-31 03:29:12",
+      "updated": "2011-07-31 03:29:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49700",
+          "lastname": "Knowlton",
+          "forename": "F H"
+        }
+      ],
+      "bhl_pages": [
+        2344394,
+        2344395,
+        2344396,
+        2344397,
+        2344398,
+        2344399,
+        2344400,
+        2344401,
+        2344402,
+        2344403,
+        2344404,
+        2344405,
+        2344406,
+        2344407,
+        2344408,
+        2344409,
+        2344410,
+        2344411,
+        2344412,
+        2344364,
+        2344365,
+        2344366,
+        2344367,
+        2344368,
+        2344369,
+        2344370,
+        2344371
+      ]
+    }
+  ]
+}

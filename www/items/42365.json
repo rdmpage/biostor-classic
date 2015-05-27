@@ -1,0 +1,284 @@
+{
+  "ItemID": "42365",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 24 1898",
+  "articles": [
+    {
+      "reference_id": "72955",
+      "genre": "article",
+      "title": "Die Gattung Joppa",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "24",
+      "spage": "1",
+      "epage": "36",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0232-5535",
+      "PageID": "11410997",
+      "created": "2011-06-04 04:46:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11410997,
+        11410998,
+        11410999,
+        11411000,
+        11411001,
+        11411002,
+        11411003,
+        11411004,
+        11411005,
+        11411006,
+        11411007,
+        11411008,
+        11411009,
+        11411010,
+        11411011,
+        11411012,
+        11411013,
+        11411014,
+        11411015,
+        11411016,
+        11411017,
+        11411018,
+        11411019,
+        11411020,
+        11411021,
+        11411022,
+        11411023,
+        11411024,
+        11411025,
+        11411026,
+        11411027,
+        11411028,
+        11411029,
+        11411030,
+        11411031,
+        11411032
+      ]
+    },
+    {
+      "reference_id": "60419",
+      "genre": "article",
+      "title": "Studia Hemipterologica. II-III",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "24",
+      "spage": "113",
+      "epage": "120",
+      "year": "1898",
+      "date": "1898-00-00",
+      "oclc": "5844710",
+      "PageID": "11411109",
+      "created": "2010-11-23 00:20:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42159",
+          "lastname": "Breddin",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        11411109,
+        11411110,
+        11411111,
+        11411112,
+        11411113,
+        11411114,
+        11411115,
+        11411116
+      ]
+    },
+    {
+      "reference_id": "70892",
+      "genre": "article",
+      "title": "Odonaten des Transvaalstaates, II",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "24",
+      "spage": "166",
+      "epage": "172",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0232-5535",
+      "PageID": "11411162",
+      "created": "2011-06-03 16:45:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46677",
+          "lastname": "Foerster",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11411162,
+        11411163,
+        11411164,
+        11411165,
+        11411166,
+        11411167,
+        11411168
+      ]
+    },
+    {
+      "reference_id": "72807",
+      "genre": "article",
+      "title": "Ueber Diophrys caesa Klg. und inculcatrix auct. nebst einer neuen Art dieser Gattung",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "24",
+      "spage": "181",
+      "epage": "185",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0232-5535",
+      "PageID": "11411177",
+      "created": "2011-06-04 04:18:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11411177,
+        11411178,
+        11411179,
+        11411180,
+        11411181
+      ]
+    },
+    {
+      "reference_id": "73023",
+      "genre": "article",
+      "title": "Uber den Bracon (Coeloides) initiator, u. eine neue Art dieser Gattung",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "24",
+      "spage": "246",
+      "epage": "247",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0232-5535",
+      "PageID": "11411242",
+      "created": "2011-06-04 04:58:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11411242,
+        11411243
+      ]
+    },
+    {
+      "reference_id": "72932",
+      "genre": "article",
+      "title": "Ichneumonologica varia",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "24",
+      "spage": "309",
+      "epage": "314",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0232-5535",
+      "PageID": "11411305",
+      "created": "2011-06-04 04:42:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11411305,
+        11411306,
+        11411307,
+        11411308,
+        11411309,
+        11411310
+      ]
+    },
+    {
+      "reference_id": "70886",
+      "genre": "article",
+      "title": "Neue Libellen vom Bismarck-Archipel",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "24",
+      "spage": "321",
+      "epage": "327",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0232-5535",
+      "PageID": "11411317",
+      "created": "2011-06-03 16:45:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10039",
+          "lastname": "Ris",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11411317,
+        11411318,
+        11411319,
+        11411320,
+        11411321,
+        11411322,
+        11411323
+      ]
+    },
+    {
+      "reference_id": "70885",
+      "genre": "article",
+      "title": "Odonaten von Misah\u00f6he (Landschaft Agome im Togohinterlande) gesammelt von Ernst Baumann, nach E. Baumann's hinterlassenen Aufzeichnungen zusammengestellt",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "24",
+      "spage": "342",
+      "epage": "347",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0232-5535",
+      "PageID": "11411338",
+      "created": "2011-06-03 16:45:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11411338,
+        11411339,
+        11411340,
+        11411341,
+        11411342,
+        11411343
+      ]
+    }
+  ]
+}

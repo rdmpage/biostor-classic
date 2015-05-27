@@ -1,0 +1,271 @@
+{
+  "ItemID": "36036",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 58 = 3rd ser. v.8 1922",
+  "articles": [
+    {
+      "reference_id": "67199",
+      "genre": "article",
+      "title": "Dendrothrips ornatus (Jabl.), a species of Thysanoptera new to the British fauna",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "58",
+      "spage": "18",
+      "epage": "19",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1568052",
+      "PageID": "9017657",
+      "created": "2011-05-19 12:24:57",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9017657,
+        9017658
+      ]
+    },
+    {
+      "reference_id": "71409",
+      "genre": "article",
+      "title": "Three new Orthoptera from Palestine and N. W. Persia",
+      "secondary_title": "Entomologist's Monthly Magazine, London",
+      "volume": "58",
+      "spage": "83",
+      "epage": "89",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1568052",
+      "PageID": "9017734",
+      "created": "2011-06-03 19:45:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46575",
+          "lastname": "",
+          "forename": "Uvarov"
+        }
+      ],
+      "bhl_pages": [
+        9017734,
+        9017735,
+        9017736,
+        9017737,
+        9017738,
+        9017739,
+        9017740
+      ]
+    },
+    {
+      "reference_id": "59171",
+      "genre": "article",
+      "title": "A scaly-winged Psocid, new to science, discovered in Britain",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "58",
+      "spage": "101",
+      "epage": "104",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9017756",
+      "created": "2010-11-21 00:31:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9017756,
+        9017757,
+        9017758,
+        9017759
+      ]
+    },
+    {
+      "reference_id": "73475",
+      "genre": "article",
+      "title": "A new fungus-feeding Gall-midge",
+      "secondary_title": "Ent. mon. Mag",
+      "volume": "58",
+      "spage": "104",
+      "epage": "107",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8908",
+      "PageID": "9017759",
+      "created": "2011-06-04 08:45:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        9017759,
+        9017760,
+        9017761,
+        9017762
+      ]
+    },
+    {
+      "reference_id": "73108",
+      "genre": "article",
+      "title": "A third new British Plastosciara (Diptera, Sciaridae)",
+      "secondary_title": "Ent. Mon. Mag",
+      "volume": "58",
+      "spage": "160",
+      "epage": "161",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8908",
+      "PageID": "9017823",
+      "created": "2011-06-04 07:44:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        9017823,
+        9017824
+      ]
+    },
+    {
+      "reference_id": "59169",
+      "genre": "article",
+      "title": "A generic arrangement of British Jassina",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "58",
+      "spage": "204",
+      "epage": "207",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9017875",
+      "created": "2010-11-21 00:30:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42508",
+          "lastname": "Edwards",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9017875,
+        9017876,
+        9017877,
+        9017878
+      ]
+    },
+    {
+      "reference_id": "59161",
+      "genre": "article",
+      "title": "A new mymarid from Brockenhurst",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "58",
+      "spage": "229",
+      "epage": "230",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9017904",
+      "created": "2010-11-21 00:27:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42505",
+          "lastname": "Blood",
+          "forename": "B N"
+        },
+        {
+          "id": "42506",
+          "lastname": "Kryger",
+          "forename": "J P"
+        }
+      ],
+      "bhl_pages": [
+        9017904,
+        9017905
+      ]
+    },
+    {
+      "reference_id": "64972",
+      "genre": "article",
+      "title": "Observations on the life history of a liotheid (Mallophaga parasitic on the curlew (Numenius arquata Linn.)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "58",
+      "spage": "243",
+      "epage": "247",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1568052",
+      "PageID": "9017926",
+      "created": "2011-01-31 12:47:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10321",
+          "lastname": "Waterston",
+          "forename": "James"
+        }
+      ],
+      "bhl_pages": [
+        9017926,
+        9017927,
+        9017928,
+        9017929,
+        9017930
+      ]
+    },
+    {
+      "reference_id": "67198",
+      "genre": "article",
+      "title": "Drepanothrips reuteri Uzel, an addition to the British Fauna",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "58",
+      "spage": "248",
+      "epage": "248",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1568052",
+      "PageID": "9017931",
+      "created": "2011-05-19 12:24:03",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9017931
+      ]
+    }
+  ]
+}

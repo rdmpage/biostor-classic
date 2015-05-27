@@ -1,0 +1,39 @@
+{
+  "ItemID": "22950",
+  "FullTitle": "Abhandlungen herausgegeben vom Naturwissenschaftlichen Verein zu Bremen.",
+  "VolumeInfo": "v.9 1887",
+  "articles": [
+    {
+      "reference_id": "71275",
+      "genre": "article",
+      "title": "\u00dcber einige neue und minder bekannte Arthropoden des Bremer Museums",
+      "secondary_title": "Abhandlungen herausgegeben vom Naturwissenschaftlichen Vereine zu Bremen",
+      "volume": "9",
+      "spage": "65",
+      "epage": "71",
+      "year": "1884",
+      "date": "1884-00-00",
+      "oclc": "3805076",
+      "PageID": "3371386",
+      "created": "2011-06-03 18:21:33",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3371386,
+        3371796,
+        3371387,
+        3371797,
+        3371489,
+        3371478,
+        3371388
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "ItemID": "17136",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 22 (1911-1912)",
+  "articles": [
+    {
+      "reference_id": "6573",
+      "genre": "article",
+      "title": "THE CENTRAL NERVOUS SYSTEM IN TERATOPH-THALMIC AND TERATOMORPHIC FORMS OF PLANARIA DOROTOCEPHALA",
+      "secondary_title": "Biol Bull",
+      "volume": "22",
+      "spage": "39",
+      "epage": "59",
+      "year": "1911",
+      "date": "1911-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1536048",
+      "PageID": "1475779",
+      "created": "2010-01-06 20:45:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2975",
+          "lastname": "Child",
+          "forename": "C M"
+        },
+        {
+          "id": "3019",
+          "lastname": "Mckie",
+          "forename": "E V M"
+        }
+      ],
+      "bhl_pages": [
+        1475779,
+        1475999,
+        1475780,
+        1476000,
+        1475781,
+        1476001,
+        1475782,
+        1476002,
+        1475783,
+        1475784,
+        1476003,
+        1476004,
+        1475785,
+        1475786,
+        1475787,
+        1475788,
+        1475789,
+        1475790,
+        1475791,
+        1475792,
+        1475793
+      ]
+    },
+    {
+      "reference_id": "6574",
+      "genre": "article",
+      "title": "\"STRAINS\" IN HYDATINA SENTA",
+      "secondary_title": "Biol Bull",
+      "volume": "22",
+      "spage": "205",
+      "epage": "218",
+      "year": "1912",
+      "date": "1912-03-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535886",
+      "PageID": "1475891",
+      "created": "2010-01-06 20:45:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3020",
+          "lastname": "Whitney",
+          "forename": "D D"
+        }
+      ],
+      "bhl_pages": [
+        1475891,
+        1475892,
+        1475893,
+        1475894,
+        1475895,
+        1475896,
+        1476091,
+        1475897,
+        1476092,
+        1475898,
+        1475899,
+        1475900,
+        1476093,
+        1476094
+      ]
+    },
+    {
+      "reference_id": "104936",
+      "genre": "article",
+      "title": "Complete discharge of mitochondria from the spermatozoon of Peripatus",
+      "secondary_title": "Biological Bulletin",
+      "volume": "22",
+      "spage": "309",
+      "epage": "319",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535903",
+      "PageID": "1475947",
+      "created": "2012-06-29 10:17:03",
+      "updated": "2012-06-29 10:17:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53924",
+          "lastname": "Montgomery",
+          "forename": "Thomas H"
+        }
+      ],
+      "bhl_pages": [
+        1475947,
+        1475948,
+        1475949,
+        1476145,
+        1476146,
+        1476147,
+        1475950,
+        1475951,
+        1476148,
+        1475952,
+        1475953
+      ]
+    }
+  ]
+}

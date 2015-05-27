@@ -1,0 +1,34 @@
+{
+  "ItemID": "17800",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 14 (1900-1901)",
+  "articles": [
+    {
+      "reference_id": "57558",
+      "genre": "article",
+      "title": "Some names which must be discarded",
+      "secondary_title": "The Nautilus",
+      "volume": "14",
+      "spage": "44",
+      "epage": "45",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0028-1344",
+      "PageID": "1731555",
+      "created": "2010-11-20 13:53:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        1731555,
+        1731556
+      ]
+    }
+  ]
+}

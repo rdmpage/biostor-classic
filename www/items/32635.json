@@ -1,0 +1,86 @@
+{
+  "ItemID": "32635",
+  "FullTitle": "Bulletin - United States National Museum.",
+  "VolumeInfo": "no. 216 pt. 2 1960",
+  "articles": [
+    {
+      "reference_id": "72973",
+      "genre": "article",
+      "title": "The genus Delomerista",
+      "secondary_title": "United States National Museum Bulletin",
+      "volume": "216",
+      "spage": "362",
+      "epage": "373",
+      "year": "1960",
+      "date": "1960-00-00",
+      "oclc": "1284235",
+      "PageID": "7646408",
+      "created": "2011-06-04 04:48:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46150",
+          "lastname": "Walkley",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        7646408,
+        7646409,
+        7646430,
+        7646431,
+        7646432,
+        7646433,
+        7646434,
+        7646435,
+        7646436,
+        7646437,
+        7646438,
+        7646439
+      ]
+    },
+    {
+      "reference_id": "73011",
+      "genre": "article",
+      "title": "The Nearctic species of Poemenia Holmgren",
+      "secondary_title": "United States National Museum Bulletin",
+      "volume": "216",
+      "spage": "376",
+      "epage": "387",
+      "year": "1960",
+      "date": "1960-00-00",
+      "oclc": "1284235",
+      "PageID": "7646442",
+      "created": "2011-06-04 04:52:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47123",
+          "lastname": "Habeck",
+          "forename": "D"
+        },
+        {
+          "id": "2345",
+          "lastname": "Townes",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        7646442,
+        7646443,
+        7646444,
+        7646445,
+        7646446,
+        7646455,
+        7646456,
+        7646457,
+        7646597,
+        7646598,
+        7646584,
+        7646585
+      ]
+    }
+  ]
+}

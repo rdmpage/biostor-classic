@@ -1,0 +1,35 @@
+{
+  "ItemID": "18581",
+  "FullTitle": "The Journal of the Bombay Natural History Society.",
+  "VolumeInfo": "v. 15 (1903-1904)",
+  "articles": [
+    {
+      "reference_id": "51949",
+      "genre": "article",
+      "title": "Descriptions of three new frogs from southern India and Ceylon",
+      "secondary_title": "Journal of the Bombay Natural History Society",
+      "volume": "15",
+      "spage": "430",
+      "epage": "431",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0006-6982",
+      "PageID": "2097009",
+      "created": "2010-06-27 11:29:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        2097009,
+        2097010,
+        2097012
+      ]
+    }
+  ]
+}

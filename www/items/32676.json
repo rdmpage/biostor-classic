@@ -1,0 +1,71 @@
+{
+  "ItemID": "32676",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1904",
+  "articles": [
+    {
+      "reference_id": "70844",
+      "genre": "article",
+      "title": "Ueber ostafrikanische Homopteren",
+      "secondary_title": "Sitzungsberichte der Gesselschaft naturforschender Freunde zu Berlin. Berlin",
+      "volume": "1904",
+      "spage": "14",
+      "epage": "17",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1751186",
+      "PageID": "7673954",
+      "created": "2011-06-03 15:36:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46670",
+          "lastname": "A.",
+          "forename": "Jacobi"
+        }
+      ],
+      "bhl_pages": [
+        7673954,
+        7673953,
+        7673952,
+        7673951
+      ]
+    },
+    {
+      "reference_id": "70845",
+      "genre": "article",
+      "title": "Neue Cicaden und Fulgoriden Brasiliens",
+      "secondary_title": "Sitzungsberichte der Gesselschaft naturforschender Freunde zu Berlin. Berlin",
+      "volume": "1904",
+      "spage": "155",
+      "epage": "164",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1751186",
+      "PageID": "7673921",
+      "created": "2011-06-03 15:36:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46670",
+          "lastname": "A.",
+          "forename": "Jacobi"
+        }
+      ],
+      "bhl_pages": [
+        7673921,
+        7673920,
+        7674011,
+        7674010,
+        7674009,
+        7674008,
+        7674007,
+        7674006,
+        7674005,
+        7674004
+      ]
+    }
+  ]
+}

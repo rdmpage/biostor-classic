@@ -1,0 +1,120 @@
+{
+  "author": [
+    {
+      "firstname": "J E",
+      "lastname": "Keirans",
+      "name": "J E Keirans"
+    }
+  ],
+  "type": "article",
+  "title": "Amblyomma paulopunctatum Neumann (Ixodoidea, Ixodidae) - Redescription Of The Male And Female, With An Account Of Its Known Hosts And Distribution",
+  "journal": {
+    "name": "Proceedings of The Entomological Society of Washington",
+    "volume": "87",
+    "pages": "489--497",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0013-8797"
+      }
+    ]
+  },
+  "year": "1985",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/75201"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/16218790"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 75201
+    },
+    {
+      "type": "bhl",
+      "id": 16218790
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        14.25,
+        -6.2666666666667
+      ],
+      [
+        15.866666666667,
+        4.9333333333333
+      ],
+      [
+        30.5,
+        0.5
+      ],
+      [
+        31.716666666667,
+        1.05
+      ],
+      [
+        30,
+        -0.25
+      ],
+      [
+        29.433333333333,
+        -3.9833333333333
+      ],
+      [
+        17.95,
+        -3.7333333333333
+      ],
+      [
+        17.333333333333,
+        -3.6666666666667
+      ],
+      [
+        27.7,
+        4.7333333333333
+      ],
+      [
+        25.833333333333,
+        4.7166666666667
+      ],
+      [
+        29.616666666667,
+        2.75
+      ],
+      [
+        27.566666666667,
+        1.3333333333333
+      ],
+      [
+        17.8,
+        -3.6166666666667
+      ],
+      [
+        19.916666666667,
+        4.2333333333333
+      ],
+      [
+        22.883333333333,
+        0.58333333333333
+      ],
+      [
+        28.433333333333,
+        -4.45
+      ],
+      [
+        22.916666666667,
+        0.6
+      ],
+      [
+        27.3,
+        2.4166666666667
+      ]
+    ]
+  }
+}

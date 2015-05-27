@@ -1,0 +1,44 @@
+{
+  "ItemID": "35069",
+  "FullTitle": "The Proceedings of the Iowa Academy of Science.  ",
+  "VolumeInfo": "1",
+  "articles": [
+    {
+      "reference_id": "70187",
+      "genre": "article",
+      "title": "Catalogue of the Hemiptera of Iowa",
+      "secondary_title": "Proceedings of the Iowa Academy of Science. Des Moines",
+      "volume": "1",
+      "spage": "120",
+      "epage": "131",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1695497",
+      "PageID": "8589340",
+      "created": "2011-06-02 15:44:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46513",
+          "lastname": "H.",
+          "forename": "Osborn"
+        }
+      ],
+      "bhl_pages": [
+        8589340,
+        8589341,
+        8589342,
+        8589343,
+        8589344,
+        8589345,
+        8589346,
+        8589347,
+        8589348,
+        8589349,
+        8589350,
+        8589351
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "ItemID": "46826",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.53 no.2 1983",
+  "articles": [
+    {
+      "reference_id": "62343",
+      "genre": "article",
+      "title": "Plantae mesoamericanae novae. VIII",
+      "secondary_title": "Phytologia",
+      "volume": "53",
+      "spage": "97",
+      "epage": "100",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0031-9430",
+      "PageID": "12984399",
+      "created": "2011-01-26 20:56:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43454",
+          "lastname": "G\u00f3mez P.",
+          "forename": "L D"
+        }
+      ],
+      "bhl_pages": [
+        12984399,
+        12984400,
+        12984401,
+        12984402
+      ]
+    },
+    {
+      "reference_id": "63631",
+      "genre": "article",
+      "title": "Certamen Melastomataceis XXXVI",
+      "secondary_title": "Phytologia",
+      "volume": "53",
+      "spage": "121",
+      "epage": "137",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0031-9430",
+      "PageID": "12984423",
+      "created": "2011-01-26 22:06:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39755",
+          "lastname": "Wurdack",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        12984423,
+        12984424,
+        12984425,
+        12984426,
+        12984427,
+        12984428,
+        12984429,
+        12984430,
+        12984431,
+        12984432,
+        12984433,
+        12984434,
+        12984435,
+        12984436,
+        12984437,
+        12984438,
+        12984439
+      ]
+    }
+  ]
+}

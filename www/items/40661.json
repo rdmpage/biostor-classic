@@ -1,0 +1,102 @@
+{
+  "ItemID": "40661",
+  "FullTitle": "Revue suisse de zoologie.",
+  "VolumeInfo": "t. 28 (1921)",
+  "articles": [
+    {
+      "reference_id": "57498",
+      "genre": "article",
+      "title": "Collembolen aus Java",
+      "secondary_title": "Revue Suisse de Zoologie",
+      "volume": "28",
+      "spage": "135",
+      "epage": "148",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0035-418X",
+      "PageID": "10707899",
+      "created": "2010-11-20 13:21:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42054",
+          "lastname": "Handschin",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        10707899,
+        10707900,
+        10707901,
+        10707902,
+        10707903,
+        10707904,
+        10707905,
+        10707906,
+        10707907,
+        10707908,
+        10707909,
+        10707910,
+        10707911,
+        10707912
+      ]
+    },
+    {
+      "reference_id": "57528",
+      "genre": "article",
+      "title": "Phasgoneurides nouveaux du Mus\u00e9um de Gen\u00e8ve",
+      "secondary_title": "Revue Suisse de Zoologie",
+      "volume": "28",
+      "spage": "301",
+      "epage": "309",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0035-418X",
+      "PageID": "10708169",
+      "created": "2010-11-20 13:39:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "501",
+          "lastname": "Carl",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        10708169,
+        10708170,
+        10708171,
+        10708172,
+        10708173,
+        10708174,
+        10708175,
+        10708176,
+        10708177
+      ]
+    },
+    {
+      "reference_id": "57344",
+      "genre": "article",
+      "title": "Araign\u00e9es du Kilimandjaro et du Merou (suite).\n",
+      "secondary_title": "Rev. suisse zool.",
+      "year": "1926",
+      "date": "0000-00-00",
+      "PageID": "10708249",
+      "created": "2010-11-18 13:59:01",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42013",
+          "lastname": "De Lessert",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        10708249
+      ]
+    }
+  ]
+}

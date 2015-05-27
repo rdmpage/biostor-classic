@@ -1,0 +1,96 @@
+{
+  "ItemID": "38756",
+  "FullTitle": "Tijdschrift der Nederlandsche Dierkundige Vereeniging.",
+  "VolumeInfo": "Ser. 2, d. 11 (1910)",
+  "articles": [
+    {
+      "reference_id": "97201",
+      "genre": "article",
+      "title": "Eine neue Art von Macrorhamphosus und Revision dieses Genus",
+      "secondary_title": "Tijdschr. Nederl. Dierk. Ver.",
+      "volume": "11",
+      "spage": "71",
+      "epage": "79",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0371-9952",
+      "PageID": "10196851",
+      "created": "2011-10-13 11:45:38",
+      "updated": "2011-10-13 11:45:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17946",
+          "lastname": "Weber",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        10196851,
+        10196852,
+        10196853,
+        10196854,
+        10196855,
+        10196856,
+        10196857,
+        10196858,
+        10196859,
+        10197109
+      ]
+    },
+    {
+      "reference_id": "97200",
+      "genre": "article",
+      "title": "Diagnoses of new species of macrurous decapod Crustacea from the \u201eSiboga Expedition\u201f",
+      "secondary_title": "Tijdschrift der Nederlandsche Dierkundige Vereeniging",
+      "volume": "11",
+      "series": "2",
+      "issue": "2",
+      "spage": "99",
+      "epage": "125",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0371-9952",
+      "PageID": "10196879",
+      "created": "2011-10-13 11:14:14",
+      "updated": "2011-10-13 11:25:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2397",
+          "lastname": "De Man",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        10196879,
+        10196880,
+        10196881,
+        10196882,
+        10196883,
+        10196884,
+        10196885,
+        10196886,
+        10196887,
+        10196888,
+        10196889,
+        10196890,
+        10196891,
+        10196892,
+        10196893,
+        10196894,
+        10196895,
+        10196896,
+        10196897,
+        10196898,
+        10196899,
+        10196900,
+        10196901,
+        10196902,
+        10196903,
+        10196904,
+        10196905
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "ItemID": "33323",
+  "FullTitle": "Mitteilungen aus dem Naturhistorischen Museum in Hamburg.",
+  "VolumeInfo": "13",
+  "articles": [
+    {
+      "reference_id": "70017",
+      "genre": "article",
+      "title": "Beschreibung der von Dr. Stuhlmann in Ost-Afrika gesammelten Myriopoden",
+      "secondary_title": "Mitteilungen aus dem Naturhistorischen Museum in Hamburg",
+      "volume": "13",
+      "spage": "21",
+      "epage": "42",
+      "year": "1896",
+      "date": "1896-00-00",
+      "PageID": "7897434",
+      "created": "2011-06-02 13:35:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46453",
+          "lastname": "Attems",
+          "forename": "Carl Michael Theodor Graf Von"
+        }
+      ],
+      "bhl_pages": [
+        7897434,
+        7897435,
+        7897436,
+        7897437,
+        7897438,
+        7897439,
+        7897440,
+        7897441,
+        7897442,
+        7897443,
+        7897444,
+        7897445,
+        7897446,
+        7897447,
+        7897448,
+        7897449,
+        7897450,
+        7897451,
+        7897452,
+        7897453,
+        7897454,
+        7897455
+      ]
+    },
+    {
+      "reference_id": "61403",
+      "genre": "article",
+      "title": "Die von Dr Stuhlmann in den Jahren 1888 und 1889 an der Ostk\u00fcste Afrikas gesammelten Holothurien",
+      "secondary_title": "Mitteilungen aus dem Zoologischen Museum Institut in Hamburg",
+      "volume": "13",
+      "spage": "49",
+      "epage": "71",
+      "year": "1896",
+      "date": "1896-00-00",
+      "PageID": "7897464",
+      "created": "2011-01-10 19:48:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42968",
+          "lastname": "Lampert",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        7897464,
+        7897465,
+        7897466,
+        7897467,
+        7897468,
+        7897469,
+        7897470,
+        7897471,
+        7897472,
+        7897473,
+        7897474,
+        7897475,
+        7897476,
+        7897477,
+        7897478,
+        7897479,
+        7897480,
+        7897481,
+        7897482,
+        7897483,
+        7897484,
+        7897485,
+        7897486
+      ]
+    }
+  ]
+}

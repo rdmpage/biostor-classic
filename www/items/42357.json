@@ -1,0 +1,431 @@
+{
+  "ItemID": "42357",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 20-21 1894-95",
+  "articles": [
+    {
+      "reference_id": "61283",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Coleopterenfauna von Ostasien und Polynesien",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "20",
+      "spage": "9",
+      "epage": "14",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "5844710",
+      "PageID": "11406857",
+      "created": "2011-01-10 16:50:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42969",
+          "lastname": "Nonfried",
+          "forename": "A F"
+        }
+      ],
+      "bhl_pages": [
+        11406857,
+        11406858,
+        11406859,
+        11406860,
+        11406861,
+        11406862
+      ]
+    },
+    {
+      "reference_id": "71977",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Coleopterenfauna von Ostasien und Polynesien",
+      "secondary_title": "Entomologische Nachrichten, Berlin",
+      "volume": "20",
+      "spage": "45",
+      "epage": "48",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "5844710",
+      "PageID": "11406893",
+      "created": "2011-06-03 23:56:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46693",
+          "lastname": "Nonfried",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11406893,
+        11406894,
+        11406895,
+        11406896
+      ]
+    },
+    {
+      "reference_id": "72915",
+      "genre": "article",
+      "title": "Zwei neue Schlupfwespen-Gattungen",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "20",
+      "spage": "58",
+      "epage": "61",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0232-5535",
+      "PageID": "11406906",
+      "created": "2011-06-04 04:41:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11406906,
+        11406907,
+        11406908,
+        11406909
+      ]
+    },
+    {
+      "reference_id": "72025",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Coleopterenfauna von Ostasien und Polynesien",
+      "secondary_title": "Entomologische Nachrichten, Berlin",
+      "volume": "20",
+      "spage": "81",
+      "epage": "83",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "5844710",
+      "PageID": "11406929",
+      "created": "2011-06-04 00:11:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46693",
+          "lastname": "Nonfried",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11406929,
+        11406930,
+        11406931
+      ]
+    },
+    {
+      "reference_id": "70943",
+      "genre": "article",
+      "title": "Beschreibungen neuer Lamellicornien, Buprestiden und Cerambyciden aus Central und S\u00fcd America",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "20",
+      "spage": "113",
+      "epage": "142",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0232-5535",
+      "PageID": "11406961",
+      "created": "2011-06-03 16:58:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46693",
+          "lastname": "Nonfried",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11406961,
+        11406962,
+        11406963,
+        11406964,
+        11406965,
+        11406966,
+        11406967,
+        11406968,
+        11406969,
+        11406970,
+        11406971,
+        11406972,
+        11406973,
+        11406974,
+        11406975,
+        11406976,
+        11406977,
+        11406978,
+        11406979,
+        11406980,
+        11406981,
+        11406982,
+        11406983,
+        11406984,
+        11406985,
+        11406986,
+        11406987,
+        11406988,
+        11406989,
+        11406990
+      ]
+    },
+    {
+      "reference_id": "103800",
+      "genre": "article",
+      "title": "Eine neue Hymenopterengattung aus der Familie der Prototrupiden",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "20",
+      "spage": "199",
+      "epage": "202",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0232-5535",
+      "PageID": "11407047",
+      "created": "2012-05-29 09:32:56",
+      "updated": "2012-05-29 09:50:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53783",
+          "lastname": "Stadelmann",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11407047,
+        11407048,
+        11407049,
+        11407050
+      ]
+    },
+    {
+      "reference_id": "73643",
+      "genre": "article",
+      "title": "Eine neue Diptera aus Kleinasien",
+      "secondary_title": "Ent. Nachr",
+      "volume": "20",
+      "spage": "202",
+      "epage": "203",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0232-5535",
+      "PageID": "11407050",
+      "created": "2011-06-04 09:30:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47169",
+          "lastname": "Roder",
+          "forename": "V Von"
+        }
+      ],
+      "bhl_pages": [
+        11407050,
+        11407051
+      ]
+    },
+    {
+      "reference_id": "72933",
+      "genre": "article",
+      "title": "Die Gattung Tropistes und eine neue Art derselben",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "20",
+      "spage": "260",
+      "epage": "262",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0232-5535",
+      "PageID": "11407108",
+      "created": "2011-06-04 04:42:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11407108,
+        11407109,
+        11407110
+      ]
+    },
+    {
+      "reference_id": "72884",
+      "genre": "article",
+      "title": "Ichneumoniden-Studien. Untersuchung Tischbein'scher Schlupfwespen-Typen. Schluss",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "20",
+      "spage": "337",
+      "epage": "352",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0232-5535",
+      "PageID": "11407185",
+      "created": "2011-06-04 04:38:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11407185,
+        11407186,
+        11407187,
+        11407188,
+        11407189,
+        11407190,
+        11407191,
+        11407192,
+        11407193,
+        11407194,
+        11407195,
+        11407196,
+        11407197,
+        11407198,
+        11407199,
+        11407200
+      ]
+    },
+    {
+      "reference_id": "61396",
+      "genre": "article",
+      "title": "Ueber neue und wenig bekannte Schmetterlinge aus Deutsch-Neu-Guinea und Nias",
+      "secondary_title": "Entomologische Nachrichten. Dresden",
+      "volume": "20",
+      "spage": "360",
+      "epage": "368",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "5844710",
+      "PageID": "11407208",
+      "created": "2011-01-10 19:43:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43010",
+          "lastname": "R\u00f6ber",
+          "forename": "J K M"
+        }
+      ],
+      "bhl_pages": [
+        11407208,
+        11407209,
+        11407210,
+        11407211,
+        11407212,
+        11407213,
+        11407214,
+        11407215,
+        11407216
+      ]
+    },
+    {
+      "reference_id": "70866",
+      "genre": "article",
+      "title": "Libellula lugubris Ehrenberg i. litt., eine neue nubische, der Libellula trinacria Selys \u00e4hnliche Libellulidae",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "21",
+      "spage": "198",
+      "epage": "203",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0232-5535",
+      "PageID": "11407438",
+      "created": "2011-06-03 16:43:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11407438,
+        11407439,
+        11407440,
+        11407441,
+        11407442,
+        11407443
+      ]
+    },
+    {
+      "reference_id": "71312",
+      "genre": "article",
+      "title": "Aethiopische Eurybrachiden",
+      "secondary_title": "Entomologische Nachrichten. Berlin",
+      "volume": "21",
+      "spage": "209",
+      "epage": "217",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "5844710",
+      "PageID": "11407449",
+      "created": "2011-06-03 19:18:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11407449,
+        11407450,
+        11407451,
+        11407452,
+        11407453,
+        11407454,
+        11407455,
+        11407456,
+        11407457
+      ]
+    },
+    {
+      "reference_id": "71068",
+      "genre": "article",
+      "title": "Papilio neumanni, eine neue, von Herrn Oskar Neumann in Ost-Afrika erbeutete Art der echerioides-Gruppe",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "21",
+      "spage": "225",
+      "epage": "227",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0232-5535",
+      "PageID": "11407465",
+      "created": "2011-06-03 17:38:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11407465,
+        11407466,
+        11407467
+      ]
+    }
+  ]
+}

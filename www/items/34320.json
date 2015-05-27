@@ -1,0 +1,107 @@
+{
+  "ItemID": "34320",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "ser. 2, t. 3 1845",
+  "articles": [
+    {
+      "reference_id": "69489",
+      "genre": "article",
+      "title": "Catalogue des esp\u00e8ces connues qui entrent dans la famille des Lamillicornes m\u00e9litophiles",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 entomologique de France",
+      "volume": "3",
+      "series": "2",
+      "spage": "37",
+      "epage": "56",
+      "year": "1845",
+      "date": "1845-00-00",
+      "issn": "0037-9271",
+      "PageID": "8310186",
+      "created": "2011-06-01 09:38:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46293",
+          "lastname": "H.",
+          "forename": "Schaum"
+        }
+      ],
+      "bhl_pages": [
+        8310186,
+        8310187,
+        8310188,
+        8310189,
+        8310190,
+        8310191,
+        8310192,
+        8310193,
+        8310194,
+        8310195,
+        8310196,
+        8310197,
+        8310198,
+        8310199,
+        8310223,
+        8310224,
+        8310225,
+        8310226,
+        8310227,
+        8310228
+      ]
+    },
+    {
+      "reference_id": "73312",
+      "genre": "article",
+      "title": "Notes pour servir a l'histoire des insectes qui vivent dans le chardon penche (Carduus nutans)",
+      "secondary_title": "Ann. Soc. Entomol. Fr",
+      "volume": "3",
+      "series": "2",
+      "spage": "75",
+      "epage": "102",
+      "year": "1845",
+      "date": "1845-00-00",
+      "issn": "0037-9271",
+      "PageID": "8310247",
+      "created": "2011-06-04 08:16:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42972",
+          "lastname": "Goureau",
+          "forename": "C C"
+        }
+      ],
+      "bhl_pages": [
+        8310247,
+        8310248,
+        8310249,
+        8310250,
+        8310251,
+        8310252,
+        8310253,
+        8310254,
+        8310255,
+        8310256,
+        8310257,
+        8310258,
+        8310259,
+        8310260,
+        8310261,
+        8310262,
+        8310263,
+        8310264,
+        8310265,
+        8310266,
+        8310267,
+        8310268,
+        8310269,
+        8310270,
+        8310271,
+        8310272,
+        8310273,
+        8310274
+      ]
+    }
+  ]
+}

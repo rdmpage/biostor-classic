@@ -1,0 +1,72 @@
+{
+  "ItemID": "45205",
+  "FullTitle": "Bolet\u00edn de la Sociedad entomol\u00f3gica de Espa\u00f1a.  ",
+  "VolumeInfo": "t. 2 1919",
+  "articles": [
+    {
+      "reference_id": "72694",
+      "genre": "article",
+      "title": "Once Neur\u00f3pteros nuevos espa\u00f1oles",
+      "secondary_title": "Bolet\u00edn de la Sociedad Entomologica de Espa\u00f1a",
+      "volume": "2",
+      "spage": "48",
+      "epage": "56",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1765730",
+      "PageID": "12522437",
+      "created": "2011-06-04 03:14:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45425",
+          "lastname": "Nav\u00e1s",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12522437,
+        12522438,
+        12522439,
+        12522440,
+        12522441,
+        12522442,
+        12522443,
+        12522444,
+        12522445
+      ]
+    },
+    {
+      "reference_id": "72692",
+      "genre": "article",
+      "title": "Neur\u00f3pteros de Espa\u00f1a nuevos. Segunda [II] serie",
+      "secondary_title": "Bolet\u00edn de la Sociedad Entomologica de Espa\u00f1a",
+      "volume": "2",
+      "spage": "218",
+      "epage": "223",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1765730",
+      "PageID": "12522621",
+      "created": "2011-06-04 03:13:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45425",
+          "lastname": "Nav\u00e1s",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12522621,
+        12522622,
+        12522623,
+        12522624,
+        12522625,
+        12522626
+      ]
+    }
+  ]
+}

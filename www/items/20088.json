@@ -1,0 +1,73 @@
+{
+  "ItemID": "20088",
+  "FullTitle": "Natural history review.  ",
+  "VolumeInfo": "2",
+  "articles": [
+    {
+      "reference_id": "53281",
+      "genre": "article",
+      "title": "Notes on various insects captured or observed in the neighbourhood of Dingle, Co. Kerry, in July, 1854",
+      "secondary_title": "Natural History Review",
+      "volume": "2",
+      "spage": "50",
+      "epage": "55",
+      "year": "1855",
+      "date": "1855-00-00",
+      "PageID": "2512751",
+      "created": "2010-10-26 19:43:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40807",
+          "lastname": "Hogan",
+          "forename": "J N"
+        },
+        {
+          "id": "2765",
+          "lastname": "Haliday",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        2512751,
+        2512752,
+        2512753,
+        2512754,
+        2512857,
+        2512858
+      ]
+    },
+    {
+      "reference_id": "60589",
+      "genre": "article",
+      "title": "Descriptions of insects figured, and references to plates illustrating the notes on Kerry insects",
+      "secondary_title": "Natural History Review",
+      "volume": "2",
+      "series": "Proc.",
+      "spage": "59",
+      "epage": "64",
+      "year": "1855",
+      "date": "1855-00-00",
+      "PageID": "2512862",
+      "created": "2010-11-23 02:37:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2765",
+          "lastname": "Haliday",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        2512862,
+        2512863,
+        2512864,
+        2512865,
+        2512866,
+        2512867
+      ]
+    }
+  ]
+}

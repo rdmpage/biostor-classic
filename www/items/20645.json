@@ -1,0 +1,36 @@
+{
+  "ItemID": "20645",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser.2, v.19(1867)",
+  "articles": [
+    {
+      "reference_id": "50336",
+      "genre": "article",
+      "title": "Liste des reptiles nouveaux d\u00e9couverts, en 1866, sur la c\u00f4te sud-ouest de Madagascar",
+      "secondary_title": "Revue et magasin de zoologie",
+      "volume": "19",
+      "series": "2",
+      "spage": "232",
+      "epage": "234",
+      "year": "1867",
+      "date": "1867-00-00",
+      "oclc": "1764157",
+      "PageID": "2704412",
+      "created": "2010-06-03 12:42:09",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39822",
+          "lastname": "Grandidier",
+          "forename": "Alfred"
+        }
+      ],
+      "bhl_pages": [
+        2704412,
+        2704413,
+        2704414
+      ]
+    }
+  ]
+}

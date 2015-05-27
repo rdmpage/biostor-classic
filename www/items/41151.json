@@ -1,0 +1,488 @@
+{
+  "ItemID": "41151",
+  "FullTitle": "Cistula entomologica.  ",
+  "VolumeInfo": "v. 1 1869-76",
+  "articles": [
+    {
+      "reference_id": "60677",
+      "genre": "article",
+      "title": "On the generic nomenclature of Lepidoptera",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "59",
+      "epage": "71",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1554754",
+      "PageID": "10917624",
+      "created": "2010-11-23 03:39:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42853",
+          "lastname": "Crotch",
+          "forename": "M A"
+        }
+      ],
+      "bhl_pages": [
+        10917624,
+        10917625,
+        10917626,
+        10917627,
+        10917628,
+        10917629,
+        10917630,
+        10917631,
+        10917632,
+        10917633,
+        10917634,
+        10917635,
+        10917636
+      ]
+    },
+    {
+      "reference_id": "60514",
+      "genre": "article",
+      "title": "Description of Actinopteryx australis the first species of Trichopterygia discovered in Australia",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "93",
+      "epage": "94",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1554754",
+      "PageID": "10917662",
+      "created": "2010-11-23 01:17:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42833",
+          "lastname": "Matthews",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        10917662,
+        10917663
+      ]
+    },
+    {
+      "reference_id": "60676",
+      "genre": "article",
+      "title": "Descriptions of new species of Lepidoptera",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "151",
+      "epage": "177",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1554754",
+      "PageID": "10917730",
+      "created": "2010-11-23 03:39:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        10917730,
+        10917731,
+        10917732,
+        10917733,
+        10917734,
+        10917735,
+        10917736,
+        10917737,
+        10917738,
+        10917739,
+        10917740,
+        10917741,
+        10917742,
+        10917743,
+        10917744,
+        10917745,
+        10917746,
+        10917747,
+        10917748,
+        10917749,
+        10917750,
+        10917751,
+        10917752,
+        10917753,
+        10917754,
+        10917755,
+        10917756
+      ]
+    },
+    {
+      "reference_id": "60536",
+      "genre": "article",
+      "title": "Descriptions of two new species of Australian Cetoniidae",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "179",
+      "epage": "181",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1554754",
+      "PageID": "10917758",
+      "created": "2010-11-23 01:32:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41015",
+          "lastname": "Janson",
+          "forename": "O E"
+        }
+      ],
+      "bhl_pages": [
+        10917758,
+        10917759,
+        10917760
+      ]
+    },
+    {
+      "reference_id": "60561",
+      "genre": "article",
+      "title": "Descriptions of new Buprestidae",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "219",
+      "epage": "234",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1554754",
+      "PageID": "10917808",
+      "created": "2010-11-23 01:51:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42838",
+          "lastname": "Saunders",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        10917808,
+        10917809,
+        10917810,
+        10917811,
+        10917812,
+        10917813,
+        10917814,
+        10917815,
+        10917816,
+        10917817,
+        10917818,
+        10917819,
+        10917820,
+        10917821,
+        10917822,
+        10917823
+      ]
+    },
+    {
+      "reference_id": "60535",
+      "genre": "article",
+      "title": "Descriptions of new species of Australian Cetoniidae",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "237",
+      "epage": "241",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1554754",
+      "PageID": "10917826",
+      "created": "2010-11-23 01:31:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41015",
+          "lastname": "Janson",
+          "forename": "O E"
+        }
+      ],
+      "bhl_pages": [
+        10917826,
+        10917827,
+        10917828,
+        10917829,
+        10917830
+      ]
+    },
+    {
+      "reference_id": "72495",
+      "genre": "article",
+      "title": "Revision of the homopterous genera Cosmoscarta and Phymatostetha, with descriptions of new species",
+      "secondary_title": "Cistula Entomologica. London",
+      "volume": "1",
+      "spage": "245",
+      "epage": "270",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1554754",
+      "PageID": "10917840",
+      "created": "2011-06-04 02:12:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47045",
+          "lastname": "Butler",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        10917840,
+        10917841,
+        10917842,
+        10917843,
+        10917844,
+        10917845,
+        10917846,
+        10917847,
+        10917848,
+        10917849,
+        10917850,
+        10917851,
+        10917852,
+        10917853,
+        10917854,
+        10917855,
+        10917856,
+        10917857,
+        10917858,
+        10917859,
+        10917860,
+        10917861,
+        10917862,
+        10917863,
+        10917864,
+        10917865
+      ]
+    },
+    {
+      "reference_id": "60613",
+      "genre": "article",
+      "title": "Descriptions of some new Heterocerous Lepidoptera from Australia",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "291",
+      "epage": "293",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1554754",
+      "PageID": "10917886",
+      "created": "2010-11-23 03:15:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        10917886,
+        10917887,
+        10917888
+      ]
+    },
+    {
+      "reference_id": "72824",
+      "genre": "article",
+      "title": "Descriptions of some Japanese Hymenoptera",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "301",
+      "epage": "310",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1554754",
+      "PageID": "10917902",
+      "created": "2011-06-04 04:22:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17711",
+          "lastname": "Walker",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10917902,
+        10917903,
+        10917904,
+        10917905,
+        10917906,
+        10917907,
+        10917908,
+        10917909,
+        10917910,
+        10917911
+      ]
+    },
+    {
+      "reference_id": "71477",
+      "genre": "article",
+      "title": "Descriptions of Amurland Chalcidiae",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "311",
+      "epage": "321",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1554754",
+      "PageID": "10917912",
+      "created": "2011-06-03 20:03:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17711",
+          "lastname": "Walker",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10917912,
+        10917913,
+        10917914,
+        10917915,
+        10917916,
+        10917917,
+        10917918,
+        10917919,
+        10917920,
+        10917921,
+        10917922
+      ]
+    },
+    {
+      "reference_id": "72789",
+      "genre": "article",
+      "title": "Descriptions of two new species of Coleoptera, pertaining to the Families Cetoniidae and Buprestidae",
+      "secondary_title": "Cistula entomologica",
+      "volume": "1",
+      "spage": "339",
+      "epage": "341",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1554754",
+      "PageID": "10917940",
+      "created": "2011-06-04 04:07:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46691",
+          "lastname": "Janson",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        10917940,
+        10917941,
+        10917942
+      ]
+    },
+    {
+      "reference_id": "60188",
+      "genre": "article",
+      "title": "On a small collection of Arachnida from Queensland with descriptions of three apparently new species",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "349",
+      "epage": "354",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1554754",
+      "PageID": "10917958",
+      "created": "2010-11-22 20:18:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        10917958,
+        10917959,
+        10917960,
+        10917961,
+        10917962,
+        10917963
+      ]
+    },
+    {
+      "reference_id": "53305",
+      "genre": "article",
+      "title": "Contribution to the Diptera of New Zealand",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "1",
+      "spage": "355",
+      "epage": "356",
+      "year": "1875",
+      "date": "1875-00-00",
+      "oclc": "1554754",
+      "PageID": "10917964",
+      "created": "2010-10-26 20:04:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        10917964,
+        10917965
+      ]
+    },
+    {
+      "reference_id": "70944",
+      "genre": "article",
+      "title": "Descriptions of three new species of American Cetoniidae",
+      "secondary_title": "Cistula entomologica",
+      "volume": "1",
+      "spage": "373",
+      "epage": "376",
+      "year": "1875",
+      "date": "1875-00-00",
+      "oclc": "1554754",
+      "PageID": "10917982",
+      "created": "2011-06-03 16:58:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46691",
+          "lastname": "Janson",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        10917982,
+        10917983,
+        10917984,
+        10917985
+      ]
+    }
+  ]
+}

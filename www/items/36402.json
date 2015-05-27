@@ -1,0 +1,768 @@
+{
+  "ItemID": "36402",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France.  ",
+  "VolumeInfo": "1912",
+  "articles": [
+    {
+      "reference_id": "72081",
+      "genre": "article",
+      "title": "S\u00e9ance du 10 janvier 1912. Notes biologiques sur quelques Col\u00e9opt\u00e8res et Hym\u00e9nopt\u00e8res du Midi de la France",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France, Paris",
+      "volume": "1912",
+      "spage": "48",
+      "epage": "51",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1765811",
+      "PageID": "9212402",
+      "created": "2011-06-04 00:24:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46944",
+          "lastname": "Picard",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9212402,
+        9212403,
+        9212404,
+        9212405
+      ]
+    },
+    {
+      "reference_id": "103629",
+      "genre": "article",
+      "title": "Description de deux AEgeriidae nouvelles",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "54",
+      "epage": "55",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212408",
+      "created": "2012-05-24 14:33:05",
+      "updated": "2012-05-24 14:33:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212408,
+        9212409
+      ]
+    },
+    {
+      "reference_id": "4968",
+      "genre": "article",
+      "title": "Arachnides recueillis par M. L. Garreta \u00e0 l'\u00eele Grande-Salvage",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1912",
+      "spage": "59",
+      "epage": "61",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212417",
+      "created": "2010-01-04 09:50:50",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9212417,
+        9212418,
+        9212419
+      ]
+    },
+    {
+      "reference_id": "103632",
+      "genre": "article",
+      "title": "Un nouveau Mycetophilidae de l'ambre de la Baltique",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "88",
+      "epage": "90",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212450",
+      "created": "2012-05-24 14:33:25",
+      "updated": "2012-05-24 14:33:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212450,
+        9212451,
+        9212452
+      ]
+    },
+    {
+      "reference_id": "103613",
+      "genre": "article",
+      "title": "Description d'un nouvel Hesperide",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "92",
+      "epage": "92",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212454",
+      "created": "2012-05-24 14:31:43",
+      "updated": "2012-05-24 14:31:43",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212454
+      ]
+    },
+    {
+      "reference_id": "71955",
+      "genre": "article",
+      "title": "S\u00e9ance du 28 f\u00e9vrier 1912. Communications. Diagnoses pr\u00e9liminaires de C\u00e9rambycides nouveaux d'Afrique et de Madagascar [Col.]",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France, Paris",
+      "volume": "1912",
+      "spage": "94",
+      "epage": "96",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1765811",
+      "PageID": "9212458",
+      "created": "2011-06-03 23:47:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46917",
+          "lastname": "Boppe",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9212458,
+        9212459,
+        9212460
+      ]
+    },
+    {
+      "reference_id": "103617",
+      "genre": "article",
+      "title": "Description d'une espece nouvelle du genre Leptococe",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "104",
+      "epage": "105",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212468",
+      "created": "2012-05-24 14:32:02",
+      "updated": "2012-05-24 14:32:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212468,
+        9212469
+      ]
+    },
+    {
+      "reference_id": "103621",
+      "genre": "article",
+      "title": "Description d'une espece nouvelle du genre Amphionthe Bates",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "115",
+      "epage": "115",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212483",
+      "created": "2012-05-24 14:32:24",
+      "updated": "2012-05-24 14:32:24",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212483
+      ]
+    },
+    {
+      "reference_id": "72166",
+      "genre": "article",
+      "title": "Description d'un nouveau genre et d'une nouvelle esp\u00e8ce de l'Am\u00e9rique centrale appartenant au groupe des Trachyderini (Col.)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France, Paris",
+      "volume": "1912",
+      "spage": "133",
+      "epage": "135",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1765811",
+      "PageID": "9212505",
+      "created": "2011-06-04 00:42:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46947",
+          "lastname": "Gounelle",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9212505,
+        9212506,
+        9212507
+      ]
+    },
+    {
+      "reference_id": "103638",
+      "genre": "article",
+      "title": "Un Carebara americain",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "139",
+      "epage": "141",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212511",
+      "created": "2012-05-24 14:34:10",
+      "updated": "2012-05-24 14:34:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212511,
+        9212512,
+        9212513
+      ]
+    },
+    {
+      "reference_id": "103619",
+      "genre": "article",
+      "title": "Description de deux nouveaux Coleopteres du nord de l'Afrique",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "150",
+      "epage": "152",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212526",
+      "created": "2012-05-24 14:32:09",
+      "updated": "2012-05-24 14:32:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212526,
+        9212527,
+        9212528
+      ]
+    },
+    {
+      "reference_id": "103635",
+      "genre": "article",
+      "title": "Descriptions de quelques Lampyrides nouveaux de ma collection",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "170",
+      "epage": "172",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212550",
+      "created": "2012-05-24 14:33:51",
+      "updated": "2012-05-24 14:33:51",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212550,
+        9212551,
+        9212552
+      ]
+    },
+    {
+      "reference_id": "103556",
+      "genre": "article",
+      "title": "Malacodermes et Heteromeres exotiques nouveaux",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "175",
+      "epage": "176",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212555",
+      "created": "2012-05-24 14:25:38",
+      "updated": "2012-05-24 14:25:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212555,
+        9212556
+      ]
+    },
+    {
+      "reference_id": "103642",
+      "genre": "article",
+      "title": "Note sur les Insectes piqucurs de la famille des Tabanides recueillis par le Dr Regnault dans la region de la Sangha",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "183",
+      "epage": "185",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212563",
+      "created": "2012-05-24 14:34:34",
+      "updated": "2012-05-24 14:34:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212563,
+        9212564,
+        9212565
+      ]
+    },
+    {
+      "reference_id": "103606",
+      "genre": "article",
+      "title": "Description d'une nouvelle espece d'Euryphagus",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "220",
+      "epage": "221",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212608",
+      "created": "2012-05-24 14:31:06",
+      "updated": "2012-05-24 14:31:06",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212608,
+        9212609
+      ]
+    },
+    {
+      "reference_id": "103607",
+      "genre": "article",
+      "title": "Description d'un Ochodaeus et de deux Orphnus nouveaux",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "243",
+      "epage": "244",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212635",
+      "created": "2012-05-24 14:31:10",
+      "updated": "2012-05-24 14:31:11",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212635,
+        9212636
+      ]
+    },
+    {
+      "reference_id": "103611",
+      "genre": "article",
+      "title": "Diagnose d'un Closterus nouveau de Madagascar",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "261",
+      "epage": "262",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212657",
+      "created": "2012-05-24 14:31:33",
+      "updated": "2012-05-24 14:31:33",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212657,
+        9212658
+      ]
+    },
+    {
+      "reference_id": "103616",
+      "genre": "article",
+      "title": "Description d'un Asidide nouveau de Madagascar",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "262",
+      "epage": "263",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212658",
+      "created": "2012-05-24 14:31:58",
+      "updated": "2012-05-24 14:31:58",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212658,
+        9212659
+      ]
+    },
+    {
+      "reference_id": "103626",
+      "genre": "article",
+      "title": "Description de trois nouvelles especes de Lepidopteres heteroceres de Cochinchine",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "286",
+      "epage": "289",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212686",
+      "created": "2012-05-24 14:32:50",
+      "updated": "2012-05-24 14:32:50",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212686,
+        9212687,
+        9212688,
+        9212689
+      ]
+    },
+    {
+      "reference_id": "103554",
+      "genre": "article",
+      "title": "Description d'un genre nouveau du groupe des Caediaires",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "297",
+      "epage": "300",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212701",
+      "created": "2012-05-24 14:25:29",
+      "updated": "2012-05-24 14:25:29",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212701,
+        9212702,
+        9212703,
+        9212704
+      ]
+    },
+    {
+      "reference_id": "103614",
+      "genre": "article",
+      "title": "Description d'une Noctuelle nouvelle de la Guyane fran-Yaise",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "330",
+      "epage": "331",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212738",
+      "created": "2012-05-24 14:31:50",
+      "updated": "2012-05-24 14:31:50",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212738,
+        9212739
+      ]
+    },
+    {
+      "reference_id": "103627",
+      "genre": "article",
+      "title": "Description de trois especes nouvelles de Catocalinae",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "331",
+      "epage": "336",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212739",
+      "created": "2012-05-24 14:32:54",
+      "updated": "2012-05-24 14:32:54",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212739,
+        9212740,
+        9212741,
+        9212742,
+        9212743,
+        9212744
+      ]
+    },
+    {
+      "reference_id": "67014",
+      "genre": "article",
+      "title": "Deux vari\u00e9t\u00e9s nouvelles de Chrysopides [Nevr.]",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1912",
+      "spage": "351",
+      "epage": "353",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1765811",
+      "PageID": "9212763",
+      "created": "2011-05-11 21:09:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42934",
+          "lastname": "Lacroix",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        9212763,
+        9212764,
+        9212765
+      ]
+    },
+    {
+      "reference_id": "73494",
+      "genre": "article",
+      "title": "Quelques Chironomidae du copal recent de Zanzibar et de Madagascar (Dipt",
+      "secondary_title": "). Bull. Soc. Ent. France",
+      "volume": "1912",
+      "spage": "361",
+      "epage": "366",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212777",
+      "created": "2011-06-04 08:49:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10037",
+          "lastname": "Meunier",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9212777,
+        9212778,
+        9212779,
+        9212780,
+        9212781,
+        9212782
+      ]
+    },
+    {
+      "reference_id": "103540",
+      "genre": "article",
+      "title": "Deux coccides nouveaux de l'Afrique occidentale",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "366",
+      "epage": "368",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212782",
+      "created": "2012-05-24 14:24:13",
+      "updated": "2012-05-24 14:24:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212782,
+        9212783,
+        9212784
+      ]
+    },
+    {
+      "reference_id": "103608",
+      "genre": "article",
+      "title": "Note sur les Hoplopus et specialement sur leurs caracteres sexuels",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "375",
+      "epage": "376",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212795",
+      "created": "2012-05-24 14:31:19",
+      "updated": "2012-05-24 14:31:19",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212795,
+        9212796
+      ]
+    },
+    {
+      "reference_id": "103631",
+      "genre": "article",
+      "title": "Diagnose preliminaire d'un nouveau type de Psoien appartenant a la faune indienne",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "376",
+      "epage": "377",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212796",
+      "created": "2012-05-24 14:33:19",
+      "updated": "2012-05-24 14:33:19",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212796,
+        9212797
+      ]
+    },
+    {
+      "reference_id": "103630",
+      "genre": "article",
+      "title": "Description d'un Papilio du Congo franYais",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "382",
+      "epage": "383",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212802",
+      "created": "2012-05-24 14:33:10",
+      "updated": "2012-05-24 14:33:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212802,
+        9212803
+      ]
+    },
+    {
+      "reference_id": "103625",
+      "genre": "article",
+      "title": "Un nouveau Macrospongus du Mozambique",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "392",
+      "epage": "394",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212816",
+      "created": "2012-05-24 14:32:45",
+      "updated": "2012-05-24 14:32:45",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212816,
+        9212817,
+        9212818
+      ]
+    },
+    {
+      "reference_id": "103612",
+      "genre": "article",
+      "title": "Description d'un genre nouveau et d'une espece nouvelle de Cerambycides de Madagascar",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "403",
+      "epage": "404",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212831",
+      "created": "2012-05-24 14:31:38",
+      "updated": "2012-05-24 14:31:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212831,
+        9212832
+      ]
+    },
+    {
+      "reference_id": "103624",
+      "genre": "article",
+      "title": "Description de deux Curculionides nouveaux de la faune franYaise",
+      "secondary_title": "Bulletin De La Societe Entomologique Paris",
+      "volume": "1912",
+      "spage": "408",
+      "epage": "410",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0037-928X",
+      "PageID": "9212836",
+      "created": "2012-05-24 14:32:38",
+      "updated": "2012-05-24 14:32:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9212836,
+        9212837,
+        9212838
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "ItemID": "18358",
+  "FullTitle": "Journal of the Washington Academy of Sciences.",
+  "VolumeInfo": "v. 3 (1913)",
+  "articles": [
+    {
+      "reference_id": "73860",
+      "genre": "article",
+      "title": "Draconema, a remarkable genus of marine freeliving nematodes",
+      "secondary_title": "Journal of The Washington Academy of Sciences",
+      "volume": "3",
+      "spage": "145",
+      "epage": "149",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0043-0439",
+      "PageID": "1989546",
+      "created": "2011-06-06 08:08:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40853",
+          "lastname": "Cobb",
+          "forename": "N A"
+        }
+      ],
+      "bhl_pages": [
+        1989546,
+        1989547,
+        1989548,
+        1989549,
+        1989550
+      ]
+    },
+    {
+      "reference_id": "58577",
+      "genre": "article",
+      "title": "New nematode genera found inhabiting fresh water and non-brackish soils",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "3",
+      "spage": "432",
+      "epage": "444",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0043-0439",
+      "PageID": "1989179",
+      "created": "2010-11-20 21:55:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40853",
+          "lastname": "Cobb",
+          "forename": "N A"
+        }
+      ],
+      "bhl_pages": [
+        1989179,
+        1989180,
+        1989181,
+        1989182,
+        1989183,
+        1989184,
+        1989185,
+        1989186,
+        1989187,
+        1989188,
+        1989189,
+        1989190,
+        1989191
+      ]
+    }
+  ]
+}

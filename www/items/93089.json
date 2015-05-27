@@ -1,0 +1,43 @@
+{
+  "ItemID": "93089",
+  "FullTitle": "Entomological news.",
+  "VolumeInfo": "v. 112 2001",
+  "articles": [
+    {
+      "reference_id": "97268",
+      "genre": "article",
+      "title": "A study on genus Agiommatus (Hymenoptera: Pteromalidae) from China, with description of one new species",
+      "secondary_title": "Entomological News",
+      "volume": "112",
+      "issue": "2",
+      "spage": "138",
+      "epage": "142",
+      "year": "2001",
+      "date": "2001-00-00",
+      "issn": "0013-872X",
+      "PageID": "29376112",
+      "created": "2011-10-14 13:57:07",
+      "updated": "2011-10-14 13:59:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53277",
+          "lastname": "Hui",
+          "forename": "Xiao"
+        },
+        {
+          "id": "53278",
+          "lastname": "Da-Wei",
+          "forename": "Huang"
+        }
+      ],
+      "bhl_pages": [
+        29376112,
+        29376113,
+        29376114,
+        29376115,
+        29376116
+      ]
+    }
+  ]
+}

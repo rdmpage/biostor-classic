@@ -1,0 +1,203 @@
+{
+  "ItemID": "65735",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "3rd ser. v. 7 (1861)",
+  "articles": [
+    {
+      "reference_id": "61531",
+      "genre": "article",
+      "title": "On three new trachinoid fishes",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "3",
+      "spage": "85",
+      "epage": "90",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "20051524",
+      "created": "2011-01-10 21:40:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        20051524,
+        20051525,
+        20051526,
+        20051527,
+        20051528,
+        20051529
+      ]
+    },
+    {
+      "reference_id": "66543",
+      "genre": "article",
+      "title": "On the British species of Mugil",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "3",
+      "spage": "345",
+      "epage": "352",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "20051784",
+      "created": "2011-05-07 18:31:50",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        20051784,
+        20051785,
+        20051786,
+        20051787,
+        20051788,
+        20051789,
+        20051790,
+        20051791
+      ]
+    },
+    {
+      "reference_id": "50232",
+      "genre": "article",
+      "title": "Account of the reptiles sent by Dr. Wucherer from Bahia",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "7",
+      "series": "3",
+      "spage": "412",
+      "epage": "417",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "20051851",
+      "created": "2010-04-30 09:00:00",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39790",
+          "lastname": "G\u00fcnther",
+          "forename": "A L B E R T"
+        }
+      ],
+      "bhl_pages": [
+        20051851,
+        20051852,
+        20051853,
+        20051854,
+        20051855,
+        20051856
+      ]
+    },
+    {
+      "reference_id": "50238",
+      "genre": "article",
+      "title": "On the ophidian genus Helicops",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "7",
+      "series": "3",
+      "spage": "425",
+      "epage": "428",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "20051864",
+      "created": "2010-04-30 09:02:15",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        20051864,
+        20051865,
+        20051866,
+        20051867
+      ]
+    },
+    {
+      "reference_id": "72570",
+      "genre": "article",
+      "title": "Descriptions of ten new species of spiders lately discovered in England",
+      "secondary_title": "Ann. Mag. nat. Hist",
+      "volume": "7",
+      "series": "3",
+      "spage": "428",
+      "epage": "441",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "20051867",
+      "created": "2011-06-04 02:32:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41982",
+          "lastname": "Cambridge",
+          "forename": "O P-"
+        }
+      ],
+      "bhl_pages": [
+        20051867,
+        20051868,
+        20051869,
+        20051870,
+        20051871,
+        20051872,
+        20051873,
+        20051874,
+        20051875,
+        20051876,
+        20051877,
+        20051878,
+        20051879,
+        20051880
+      ]
+    },
+    {
+      "reference_id": "66550",
+      "genre": "article",
+      "title": "On a new genus of Australian freshwater fishes",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "3",
+      "spage": "490",
+      "epage": "491",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0374-5481",
+      "PageID": "20051929",
+      "created": "2011-05-07 18:35:04",
+      "updated": "2011-09-21 16:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45254",
+          "lastname": "G\u00fcnther",
+          "forename": "Albert C L G"
+        }
+      ],
+      "bhl_pages": [
+        20051929,
+        20051930
+      ]
+    }
+  ]
+}

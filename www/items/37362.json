@@ -1,0 +1,159 @@
+{
+  "ItemID": "37362",
+  "FullTitle": "Notes from the Leyden Museum.",
+  "VolumeInfo": "v.7 (1885)",
+  "articles": [
+    {
+      "reference_id": "70421",
+      "genre": "article",
+      "title": "Note III. Description de quatre esp\u00e8ces nouvelles de Coprophages appartenant au Mus\u00e9e de Leyde",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "7",
+      "spage": "17",
+      "epage": "20",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "25797076",
+      "PageID": "9647514",
+      "created": "2011-06-03 06:34:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46553",
+          "lastname": "Van",
+          "forename": "Lansberge J W"
+        }
+      ],
+      "bhl_pages": [
+        9647514,
+        9647515,
+        9647516,
+        9647517
+      ]
+    },
+    {
+      "reference_id": "70419",
+      "genre": "article",
+      "title": "Four new species of exotic Coleoptera",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "7",
+      "spage": "39",
+      "epage": "46",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "25797076",
+      "PageID": "9647536",
+      "created": "2011-06-03 06:34:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9647536,
+        9647537,
+        9647538,
+        9647539,
+        9647540,
+        9647541,
+        9647542,
+        9647543
+      ]
+    },
+    {
+      "reference_id": "65418",
+      "genre": "article",
+      "title": "Deux esp\u00e8ces nouvelles de Cucujides des \u00efles de la Sonde",
+      "secondary_title": "Notes Leyden Mus.",
+      "volume": "7",
+      "spage": "47",
+      "epage": "48",
+      "year": "1884",
+      "date": "1884-00-00",
+      "oclc": "25797076",
+      "PageID": "9647544",
+      "created": "2011-03-03 09:20:44",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41011",
+          "lastname": "Grouvelle",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9647544,
+        9647545
+      ]
+    },
+    {
+      "reference_id": "73491",
+      "genre": "article",
+      "title": "On exotic Diptera",
+      "secondary_title": "Part 2. Notes Leyden Mus",
+      "volume": "7",
+      "spage": "57",
+      "epage": "64",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "25797076",
+      "PageID": "9647554",
+      "created": "2011-06-04 08:49:25",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9955",
+          "lastname": "Wulp",
+          "forename": "F M Van Der"
+        }
+      ],
+      "bhl_pages": [
+        9647554,
+        9647555,
+        9647556,
+        9647557,
+        9647558,
+        9647559,
+        9647560,
+        9647561
+      ]
+    },
+    {
+      "reference_id": "70420",
+      "genre": "article",
+      "title": "Three new species of exotic Coleoptera",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "7",
+      "spage": "123",
+      "epage": "127",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "25797076",
+      "PageID": "9647620",
+      "created": "2011-06-03 06:34:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9647620,
+        9647621,
+        9647622,
+        9647623,
+        9647624
+      ]
+    }
+  ]
+}

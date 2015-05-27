@@ -1,0 +1,96 @@
+{
+  "ItemID": "46814",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.65 no.3 1988",
+  "articles": [
+    {
+      "reference_id": "62902",
+      "genre": "article",
+      "title": "Baccharis sect. Baccharidastrum (Compositae: Astereae), including two monoecious and one dioecious species",
+      "secondary_title": "Phytologia",
+      "volume": "65",
+      "spage": "169",
+      "epage": "173",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0031-9430",
+      "PageID": "12983247",
+      "created": "2011-01-26 21:35:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43554",
+          "lastname": "Nesom",
+          "forename": "G L"
+        }
+      ],
+      "bhl_pages": [
+        12983247,
+        12983248,
+        12983249,
+        12983250,
+        12983251
+      ]
+    },
+    {
+      "reference_id": "62523",
+      "genre": "article",
+      "title": "Contributions to the flora of the Galapagos Islands, Ecuador",
+      "secondary_title": "Phytologia",
+      "volume": "65",
+      "spage": "228",
+      "epage": "230",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0031-9430",
+      "PageID": "12983306",
+      "created": "2011-01-26 21:09:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9234",
+          "lastname": "Lawesson",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        12983306,
+        12983307,
+        12983308
+      ]
+    },
+    {
+      "reference_id": "62321",
+      "genre": "article",
+      "title": "Studies on Mikania (Compositae)--XV",
+      "secondary_title": "Phytologia",
+      "volume": "65",
+      "spage": "242",
+      "epage": "247",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0031-9430",
+      "PageID": "12983320",
+      "created": "2011-01-26 20:37:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43284",
+          "lastname": "Holmes",
+          "forename": "W C"
+        }
+      ],
+      "bhl_pages": [
+        12983320,
+        12983321,
+        12983322,
+        12983323,
+        12983324,
+        12983325
+      ]
+    }
+  ]
+}

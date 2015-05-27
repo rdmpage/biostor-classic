@@ -1,0 +1,84 @@
+{
+  "author": [
+    {
+      "firstname": "Robert B",
+      "lastname": "Faden",
+      "name": "Robert B Faden"
+    }
+  ],
+  "type": "article",
+  "title": "New Species of Commelina (Commelinaceae) from East and South-Central Africa",
+  "journal": {
+    "name": "Novon: A Journal For Botanical Nomenclature",
+    "volume": "18",
+    "pages": "469--479",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1055-3177"
+      }
+    ]
+  },
+  "year": "2008",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/137146"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/16439193"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 137146
+    },
+    {
+      "type": "bhl",
+      "id": 16439193
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        39.533333333333,
+        -4.3833333333333
+      ],
+      [
+        39.45,
+        -4.1
+      ],
+      [
+        38.733333333333,
+        -3.5833333333333
+      ],
+      [
+        38.35,
+        -3.4833333333333
+      ],
+      [
+        38.316666666667,
+        -3.5
+      ],
+      [
+        38.4,
+        -3.3333333333333
+      ],
+      [
+        38.333333333333,
+        -3.3666666666667
+      ],
+      [
+        38.6,
+        -3.5
+      ],
+      [
+        39.4,
+        -6.2666666666667
+      ]
+    ]
+  }
+}

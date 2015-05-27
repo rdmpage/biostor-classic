@@ -1,0 +1,92 @@
+{
+  "ItemID": "30051",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 44 (1907)",
+  "articles": [
+    {
+      "reference_id": "20287",
+      "genre": "article",
+      "title": "\u00dcber zwei neue Arten von S\u00fcsswasserfischen aus dem Stromgebiete des Parnahyba",
+      "secondary_title": "Anzeigerder Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "44",
+      "spage": "152",
+      "epage": "155",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "9782210",
+      "PageID": "6348272",
+      "created": "2010-02-08 16:55:31",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6348272,
+        6348273,
+        6348274,
+        6348275
+      ]
+    },
+    {
+      "reference_id": "20737",
+      "genre": "article",
+      "title": "Ueber eine neue Arges-Art aus den Hohen Anden von Cayendelet",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "44",
+      "spage": "228",
+      "epage": "229",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "9782210",
+      "PageID": "6348348",
+      "created": "2010-02-09 18:49:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6348348,
+        6348349
+      ]
+    },
+    {
+      "reference_id": "20738",
+      "genre": "article",
+      "title": "\u00dcber eine neue Coridoras [sic, Corydoras]-Art aus dem Rio Preto, einem sekund\u00e4ren Nebenflusse des Rio San Francisco, und eine Xenocara-Art aus dem Parnahyba bei Victoria und Sa. Filomena",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "44",
+      "spage": "290",
+      "epage": "293",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "9782210",
+      "PageID": "6348410",
+      "created": "2010-02-09 18:49:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6348410,
+        6348411,
+        6348412,
+        6348413
+      ]
+    }
+  ]
+}

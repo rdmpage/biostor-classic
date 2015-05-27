@@ -1,0 +1,65 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    },
+    {
+      "firstname": "Erik R",
+      "lastname": "Wild",
+      "name": "Erik R Wild"
+    }
+  ],
+  "type": "article",
+  "title": "Anuran amphibians from the Cordillera de Huancabamba, northern Peru: systematics, ecology, and biogeography",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "157",
+    "pages": "1--53",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1993",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/221"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4469099"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 221
+    },
+    {
+      "type": "bhl",
+      "id": 4469099
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -79.566666666667,
+        -5.3833333333333
+      ],
+      [
+        -79.55,
+        -5.3666666666667
+      ],
+      [
+        -79.583333333333,
+        -5.4
+      ]
+    ]
+  }
+}

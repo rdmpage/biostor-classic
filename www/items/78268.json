@@ -1,0 +1,108 @@
+{
+  "ItemID": "78268",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "4th ser. v. 11 (1873)",
+  "articles": [
+    {
+      "reference_id": "92394",
+      "genre": "article",
+      "title": "XIII.\u2014Notes on the whales and dolphins of the New-Zealand seas. With Remarks by Dr. J. E. Gray, F.R.S. &c",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "series": "4",
+      "spage": "104",
+      "epage": "112",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937308696774",
+      "PageID": "24260390",
+      "created": "2011-09-28 17:55:49",
+      "updated": "2011-09-28 17:55:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2956",
+          "lastname": "Hector",
+          "forename": "James"
+        }
+      ],
+      "bhl_pages": [
+        24260390,
+        24260391,
+        24260392,
+        24260393,
+        24260394,
+        24260395,
+        24260396,
+        24260397,
+        24260398
+      ]
+    },
+    {
+      "reference_id": "73856",
+      "genre": "article",
+      "title": "A monographic list of the species of the genus Gonyleptes, with descriptions of three remarkable new species",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "4",
+      "spage": "112",
+      "epage": "117",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0374-5481",
+      "PageID": "24260398",
+      "created": "2011-06-05 09:46:14",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        24260398,
+        24260399,
+        24260400,
+        24260401,
+        24260402,
+        24260403
+      ]
+    },
+    {
+      "reference_id": "71347",
+      "genre": "article",
+      "title": "Notes on tortoises",
+      "secondary_title": "Ann. Mag. nat. Hist",
+      "volume": "11",
+      "series": "4",
+      "spage": "143",
+      "epage": "149",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0374-5481",
+      "PageID": "24260429",
+      "created": "2011-06-03 19:30:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        24260429,
+        24260430,
+        24260431,
+        24260432,
+        24260433,
+        24260434,
+        24260435
+      ]
+    }
+  ]
+}

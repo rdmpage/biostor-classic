@@ -1,0 +1,103 @@
+{
+  "ItemID": "33366",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.9 (1948)",
+  "articles": [
+    {
+      "reference_id": "1251",
+      "genre": "article",
+      "title": "Rediscovery of the genus Pseudogekko with description of a new species from the Solomon Islands",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "9",
+      "spage": "41",
+      "epage": "45",
+      "year": "1949",
+      "date": "1949-00-00",
+      "issn": "0017-3614",
+      "PageID": "7908688",
+      "created": "2009-12-23 10:26:56",
+      "updated": "2012-03-12 19:59:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "761",
+          "lastname": "Brown",
+          "forename": "W C"
+        },
+        {
+          "id": "967",
+          "lastname": "Tanner",
+          "forename": "V M"
+        }
+      ],
+      "bhl_pages": [
+        7908688,
+        7908689,
+        7908690,
+        7908691,
+        7908692
+      ]
+    },
+    {
+      "reference_id": "1250",
+      "genre": "article",
+      "title": "Amphibians and reptiles contributed to Brigham Young University by Owen Bryant",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "9",
+      "spage": "47",
+      "epage": "49",
+      "year": "1949",
+      "date": "1949-00-00",
+      "issn": "0017-3614",
+      "PageID": "7908694",
+      "created": "2009-12-23 10:26:55",
+      "updated": "2011-12-21 07:56:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "967",
+          "lastname": "Tanner",
+          "forename": "V M"
+        }
+      ],
+      "bhl_pages": [
+        7908694,
+        7908695,
+        7908696
+      ]
+    },
+    {
+      "reference_id": "1252",
+      "genre": "article",
+      "title": "Reptiles collected in the vicinity of Las Vegas, New Mexico",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "9",
+      "spage": "55",
+      "epage": "57",
+      "year": "1949",
+      "date": "1949-00-00",
+      "issn": "0017-3614",
+      "PageID": "7908703",
+      "created": "2009-12-23 10:26:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "972",
+          "lastname": "Bragg",
+          "forename": "A N"
+        },
+        {
+          "id": "974",
+          "lastname": "Dundee",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        7908703,
+        7908704,
+        7908705
+      ]
+    }
+  ]
+}

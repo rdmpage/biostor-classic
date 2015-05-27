@@ -1,0 +1,100 @@
+{
+  "ItemID": "39502",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 11 1888",
+  "articles": [
+    {
+      "reference_id": "49214",
+      "genre": "article",
+      "title": "\u00dcber die Reptilien und Batrachier Transcaspiens",
+      "secondary_title": "Zool. Anz.",
+      "volume": "11",
+      "spage": "259",
+      "epage": "263",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0044-5231",
+      "PageID": "10294978",
+      "created": "2010-03-21 12:09:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        10294978,
+        10294979,
+        10294980,
+        10294981,
+        10294982
+      ]
+    },
+    {
+      "reference_id": "66988",
+      "genre": "article",
+      "title": "Ein Beitrag zur Entwicklung des Fl\u00fcgelge\u00e4ders der Insekten",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "11",
+      "spage": "443",
+      "epage": "447",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0044-5231",
+      "PageID": "10295162",
+      "created": "2011-05-11 19:45:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42793",
+          "lastname": "Brauer",
+          "forename": "F"
+        },
+        {
+          "id": "44832",
+          "lastname": "Redtenbacher",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        10295162,
+        10295163,
+        10295164,
+        10295165,
+        10295166
+      ]
+    },
+    {
+      "reference_id": "66987",
+      "genre": "article",
+      "title": "Bemerkungen zur Abhandlung des Herrn Prof. Grassi \u00fcber die Vorfahren der Insecten etc",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "11",
+      "spage": "598",
+      "epage": "600",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0044-5231",
+      "PageID": "10295317",
+      "created": "2011-05-11 19:45:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42793",
+          "lastname": "Brauer",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10295317,
+        10295318,
+        10295319
+      ]
+    }
+  ]
+}

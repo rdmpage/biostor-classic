@@ -1,0 +1,86 @@
+{
+  "ItemID": "38530",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1910",
+  "articles": [
+    {
+      "reference_id": "58344",
+      "genre": "article",
+      "title": "Additions to the catalogue of the marine shells of Tasmania",
+      "secondary_title": "Proceedings of the Royal Society of Tasmania",
+      "volume": "1910",
+      "spage": "306",
+      "epage": "313",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0080-4703",
+      "PageID": "10108765",
+      "created": "2010-11-20 20:46:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40741",
+          "lastname": "May",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        10108765,
+        10108766,
+        10108767,
+        10108768,
+        10108769,
+        10108770,
+        10108771,
+        10108772
+      ]
+    },
+    {
+      "reference_id": "58339",
+      "genre": "article",
+      "title": "Notes on the genus Lissotes, with descriptions of new species",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1910",
+      "spage": "346",
+      "epage": "366",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0080-4703",
+      "PageID": "10108807",
+      "created": "2010-11-20 20:45:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40955",
+          "lastname": "Lea",
+          "forename": "A M"
+        }
+      ],
+      "bhl_pages": [
+        10108807,
+        10108808,
+        10108809,
+        10108810,
+        10108811,
+        10108812,
+        10108813,
+        10108814,
+        10108815,
+        10108816,
+        10108817,
+        10108818,
+        10108819,
+        10108820,
+        10108821,
+        10108822,
+        10108823,
+        10108824,
+        10108825,
+        10108826,
+        10108827
+      ]
+    }
+  ]
+}

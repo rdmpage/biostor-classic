@@ -1,0 +1,40 @@
+{
+  "ItemID": "41745",
+  "FullTitle": "Revue d'entomologie.",
+  "VolumeInfo": "t.7-8 (1888-1889)",
+  "articles": [
+    {
+      "reference_id": "104195",
+      "genre": "article",
+      "title": "H\u00e9mipt\u00e8res nouveaux ou peu connus et notes diverses",
+      "secondary_title": "Revue d'Entomologie",
+      "volume": "7",
+      "spage": "103",
+      "epage": "110",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1624340",
+      "PageID": "11124173",
+      "created": "2012-06-11 08:19:10",
+      "updated": "2012-06-11 08:20:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53828",
+          "lastname": "Puton",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11124173,
+        11124174,
+        11124175,
+        11124176,
+        11124177,
+        11124178,
+        11124179,
+        11124180
+      ]
+    }
+  ]
+}

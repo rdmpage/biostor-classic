@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "J R Jr",
+      "lastname": "Jehl",
+      "name": "J R Jr Jehl"
+    }
+  ],
+  "type": "article",
+  "title": "A REVIEW OF NELSON'S GULL LARUS-NELSONI",
+  "journal": {
+    "name": "Bulletin of The British Ornithologists' Club",
+    "volume": "107",
+    "pages": "86--91",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0007-1595"
+      }
+    ]
+  },
+  "year": "1987",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/112365"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/40083969"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 112365
+    },
+    {
+      "type": "bhl",
+      "id": 40083969
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        40.116666666667,
+        -3.2166666666667
+      ]
+    ]
+  }
+}

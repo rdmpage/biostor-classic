@@ -1,0 +1,35 @@
+{
+  "ItemID": "34900",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 49 (1935-1936)",
+  "articles": [
+    {
+      "reference_id": "59325",
+      "genre": "article",
+      "title": "Notes on the Pectinidae of Hawaii",
+      "secondary_title": "The Nautilus",
+      "volume": "49",
+      "spage": "27",
+      "epage": "29",
+      "year": "1935",
+      "date": "1935-00-00",
+      "issn": "0028-1344",
+      "PageID": "8527658",
+      "created": "2010-11-21 02:57:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2107",
+          "lastname": "Hertlein",
+          "forename": "L G"
+        }
+      ],
+      "bhl_pages": [
+        8527658,
+        8527659,
+        8527660
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ItemID": "30144",
+  "FullTitle": "Arkiv f\u00f6r zoologi \/  utgivet af K. Svenska vetenskaps-akademien.",
+  "VolumeInfo": "Bd. 4 (1908)",
+  "articles": [
+    {
+      "reference_id": "4998",
+      "genre": "article",
+      "title": "Two new lizards (Eurydactylus and Lygosoma) from New Caledonia",
+      "secondary_title": "Arkiv for Zoologi",
+      "volume": "4",
+      "issue": "14",
+      "spage": "1",
+      "epage": "5",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0004-2110",
+      "PageID": "6400222",
+      "created": "2010-01-05 09:39:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2211",
+          "lastname": "Andersson",
+          "forename": "Lars Gabriel"
+        }
+      ],
+      "bhl_pages": [
+        6400222,
+        6400223,
+        6400224,
+        6400225,
+        6400226
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "ItemID": "33902",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.54 (1994)",
+  "articles": [
+    {
+      "reference_id": "1153",
+      "genre": "article",
+      "title": "Prevalence of ectoparasite infestation in neonate Yarrow's spiny lizards, Sceloporus jarrovii (Phrynosomatidae), from Arizona",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "54",
+      "spage": "189",
+      "epage": "190",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0017-3614",
+      "PageID": "8119291",
+      "created": "2009-12-23 10:23:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "873",
+          "lastname": "Goldberg",
+          "forename": "S R"
+        },
+        {
+          "id": "874",
+          "lastname": "Bursey",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        8119291,
+        8119292
+      ]
+    },
+    {
+      "reference_id": "1154",
+      "genre": "article",
+      "title": "Opportunistic breeding after summer rains by Arizona tiger salamanders",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "54",
+      "spage": "376",
+      "epage": "379",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0017-3614",
+      "PageID": "8119488",
+      "created": "2009-12-23 10:23:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "897",
+          "lastname": "Allison",
+          "forename": "L J"
+        },
+        {
+          "id": "898",
+          "lastname": "Brunkow",
+          "forename": "P E"
+        },
+        {
+          "id": "899",
+          "lastname": "Collins",
+          "forename": "J P"
+        }
+      ],
+      "bhl_pages": [
+        8119488,
+        8119489,
+        8119490,
+        8119491
+      ]
+    }
+  ]
+}

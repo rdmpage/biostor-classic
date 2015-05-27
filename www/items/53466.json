@@ -1,0 +1,37 @@
+{
+  "ItemID": "53466",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 20 (1872)",
+  "articles": [
+    {
+      "reference_id": "61419",
+      "genre": "article",
+      "title": "Descriptions d'esp\u00e8ces nouvelles",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "20",
+      "spage": "129",
+      "epage": "133",
+      "year": "1872",
+      "date": "1872-00-00",
+      "oclc": "1605690",
+      "PageID": "15684339",
+      "created": "2011-01-10 20:00:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43013",
+          "lastname": "M\u00f6rch",
+          "forename": "O A L"
+        }
+      ],
+      "bhl_pages": [
+        15684339,
+        15684340,
+        15684341,
+        15684342,
+        15684343
+      ]
+    }
+  ]
+}

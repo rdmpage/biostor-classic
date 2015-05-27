@@ -1,0 +1,78 @@
+{
+  "ItemID": "37036",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "8",
+  "articles": [
+    {
+      "reference_id": "70096",
+      "genre": "article",
+      "title": "On the genus Raphidophora, Serville; with descriptions of four species from the Caves of Kentucky, and from the Pacific Coast",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "8",
+      "spage": "6",
+      "epage": "14",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0270-2444",
+      "PageID": "9492420",
+      "created": "2011-06-02 15:38:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42794",
+          "lastname": "Scudder",
+          "forename": "S H"
+        }
+      ],
+      "bhl_pages": [
+        9492420,
+        9492421,
+        9492422,
+        9492423,
+        9492424,
+        9492425,
+        9492426,
+        9492427,
+        9492428
+      ]
+    },
+    {
+      "reference_id": "60273",
+      "genre": "article",
+      "title": "Descriptions of new Ophiuridae",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "8",
+      "spage": "75",
+      "epage": "86",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0270-2444",
+      "PageID": "9492489",
+      "created": "2010-11-22 21:49:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "816",
+          "lastname": "Lyman",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        9492489,
+        9492490,
+        9492491,
+        9492492,
+        9492493,
+        9492494,
+        9492495,
+        9492496,
+        9492497,
+        9492498,
+        9492499,
+        9492500
+      ]
+    }
+  ]
+}

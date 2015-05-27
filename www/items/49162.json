@@ -1,0 +1,81 @@
+{
+  "ItemID": "49162",
+  "FullTitle": "Journal of entomology and zoology.",
+  "VolumeInfo": "v.7 1915",
+  "articles": [
+    {
+      "reference_id": "53245",
+      "genre": "article",
+      "title": "The biology of the North American crane flies (Tipulidae Diptera). III. The genus Ula Haliday",
+      "secondary_title": "Journal of Entomology and Zoology",
+      "volume": "7",
+      "spage": "1",
+      "epage": "8",
+      "year": "1915",
+      "date": "1915-00-00",
+      "PageID": "13851725",
+      "created": "2010-10-26 17:21:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        13851725,
+        13851724,
+        13851723,
+        13851722,
+        13851721,
+        13851720,
+        13851719,
+        13851718
+      ]
+    },
+    {
+      "reference_id": "53246",
+      "genre": "article",
+      "title": "The biology of the North American crane flies (Tipulidae Diptera). IV. The tribe Hexatomini",
+      "secondary_title": "Journal of Entomology and Zoology",
+      "volume": "7",
+      "spage": "141",
+      "epage": "158",
+      "year": "1915",
+      "date": "1915-00-00",
+      "PageID": "13851834",
+      "created": "2010-10-26 17:21:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        13851834,
+        13851835,
+        13851836,
+        13851837,
+        13851838,
+        13851839,
+        13851840,
+        13851841,
+        13851842,
+        13851843,
+        13851844,
+        13851845,
+        13851846,
+        13851847,
+        13851848,
+        13851849,
+        13851850,
+        13851851
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "ItemID": "31692",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.168 (1919)",
+  "articles": [
+    {
+      "reference_id": "52082",
+      "genre": "article",
+      "title": "Un cas int\u00e9ressant de dimorphisme sexuel chez un serpent africain (Bothrolycus ater G\u00fcnther)",
+      "secondary_title": "Comptes Rendu de l'Academie des Sciences, Paris",
+      "volume": "168",
+      "spage": "666",
+      "epage": "669",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1124612",
+      "PageID": "7254716",
+      "created": "2010-09-16 07:54:47",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        7254716,
+        7254717,
+        7254718,
+        7254719
+      ]
+    },
+    {
+      "reference_id": "104626",
+      "genre": "article",
+      "title": "Sur uno nouvelle Coccidie parasite de la truite indigene",
+      "secondary_title": "Compte Rendu De L'academie Des Sciences Paris",
+      "volume": "168",
+      "spage": "904",
+      "epage": "906",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0001-4036",
+      "PageID": "7254954",
+      "created": "2012-06-26 10:00:43",
+      "updated": "2012-06-26 10:00:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        7254954,
+        7254955,
+        7254956
+      ]
+    }
+  ]
+}

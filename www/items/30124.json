@@ -1,0 +1,109 @@
+{
+  "ItemID": "30124",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 36 (1884)",
+  "articles": [
+    {
+      "reference_id": "67157",
+      "genre": "article",
+      "title": "A review of the American species of the genus Synodus",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "36",
+      "spage": "130",
+      "epage": "136",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0097-3157",
+      "PageID": "6387965",
+      "created": "2011-05-19 09:22:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10222",
+          "lastname": "Meek",
+          "forename": "S E"
+        }
+      ],
+      "bhl_pages": [
+        6387965,
+        6387966,
+        6387967,
+        6387968,
+        6387969,
+        6387970,
+        6387971
+      ]
+    },
+    {
+      "reference_id": "67496",
+      "genre": "article",
+      "title": "On the anacanthine fishes",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "36",
+      "spage": "167",
+      "epage": "183",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0097-3157",
+      "PageID": "6388004",
+      "created": "2011-05-28 16:54:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        6388004,
+        6388005,
+        6388006,
+        6388007,
+        6388008,
+        6388009,
+        6388010,
+        6388011,
+        6388012,
+        6388013,
+        6388014,
+        6388015,
+        6388016,
+        6388017,
+        6388018,
+        6388019,
+        6388020
+      ]
+    },
+    {
+      "reference_id": "69360",
+      "genre": "article",
+      "title": "On the wide distribution of some American sponges",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1884",
+      "spage": "215",
+      "epage": "217",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0097-3157",
+      "PageID": "6388052",
+      "created": "2011-06-01 08:50:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46251",
+          "lastname": "Potts",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        6388052,
+        6388053,
+        6388054
+      ]
+    }
+  ]
+}

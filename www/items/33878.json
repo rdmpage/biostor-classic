@@ -1,0 +1,36 @@
+{
+  "ItemID": "33878",
+  "FullTitle": "Bulletin of the Essex Institute.",
+  "VolumeInfo": "20",
+  "articles": [
+    {
+      "reference_id": "59814",
+      "genre": "article",
+      "title": "An eel from the Marshall Islands",
+      "secondary_title": "Bulletin of the Essex Institute",
+      "volume": "20",
+      "spage": "114",
+      "epage": "116",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "8112363",
+      "created": "2010-11-22 16:05:52",
+      "updated": "2012-05-11 13:16:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        8112363,
+        8112364,
+        8112365
+      ]
+    }
+  ]
+}

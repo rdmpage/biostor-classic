@@ -1,0 +1,884 @@
+{
+  "ItemID": "20297",
+  "FullTitle": "Entomological news, and proceedings of the Entomological Section of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 18 (1907)",
+  "articles": [
+    {
+      "reference_id": "70559",
+      "genre": "article",
+      "title": "Two new North American dragonflies (Odonata)",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "1",
+      "epage": "7",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612385",
+      "created": "2011-06-03 06:42:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45067",
+          "lastname": "Williamson",
+          "forename": "E B"
+        }
+      ],
+      "bhl_pages": [
+        2612385,
+        2612386,
+        2612387,
+        2612388,
+        2612389,
+        2612390,
+        2612391
+      ]
+    },
+    {
+      "reference_id": "13759",
+      "genre": "article",
+      "title": "Notes on the subapterous female of Tipula simplex Doane",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "15",
+      "epage": "16",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612469",
+      "created": "2010-01-13 10:42:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10109",
+          "lastname": "Doane",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        2612469,
+        2612468
+      ]
+    },
+    {
+      "reference_id": "61322",
+      "genre": "article",
+      "title": "Notes on American Hemiptera IV. On two Reduviidae from British Guiana",
+      "secondary_title": "Entom. News",
+      "volume": "18",
+      "issue": "2",
+      "spage": "48",
+      "epage": "51",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612562",
+      "created": "2011-01-10 17:19:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10338",
+          "lastname": "Bergroth",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        2612562,
+        2612561,
+        2612560,
+        2612559
+      ]
+    },
+    {
+      "reference_id": "70640",
+      "genre": "article",
+      "title": "Insects gathering on straw flowers",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "spage": "63",
+      "epage": "64",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612547",
+      "created": "2011-06-03 06:45:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46610",
+          "lastname": "L.",
+          "forename": "Dickerson E"
+        }
+      ],
+      "bhl_pages": [
+        2612547,
+        2612546
+      ]
+    },
+    {
+      "reference_id": "66924",
+      "genre": "article",
+      "title": "A new antlion-fly from Arizona",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "spage": "100",
+      "epage": "101",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612504",
+      "created": "2011-05-11 17:07:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2612504,
+        2612503
+      ]
+    },
+    {
+      "reference_id": "70625",
+      "genre": "article",
+      "title": "Discovery of blood-sucking Psychodidae in America",
+      "secondary_title": "Entomological News, (Philadelphia)",
+      "volume": "18",
+      "spage": "101",
+      "epage": "102",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612503",
+      "created": "2011-06-03 06:44:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40855",
+          "lastname": "W.",
+          "forename": "Coquillett D"
+        }
+      ],
+      "bhl_pages": [
+        2612503,
+        2612502
+      ]
+    },
+    {
+      "reference_id": "73356",
+      "genre": "article",
+      "title": "Check-List of North American Diptera Pupipara",
+      "secondary_title": "Ent. News",
+      "volume": "18",
+      "spage": "103",
+      "epage": "105",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612501",
+      "created": "2011-06-04 08:20:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40787",
+          "lastname": "Speiser",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        2612501,
+        2612500,
+        2612499
+      ]
+    },
+    {
+      "reference_id": "84793",
+      "genre": "article",
+      "title": "The dipterous genus Scellus, with one new species",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "18",
+      "spage": "133",
+      "epage": "136",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612451",
+      "created": "2011-08-10 23:07:18",
+      "updated": "2011-08-10 23:07:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2612451,
+        2612452,
+        2612453,
+        2612454
+      ]
+    },
+    {
+      "reference_id": "73139",
+      "genre": "article",
+      "title": "Annotated list of the species of Chrysops occurring in New Jersey and descriptions of two new species",
+      "secondary_title": "Ent. News",
+      "volume": "18",
+      "spage": "139",
+      "epage": "146",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612457",
+      "created": "2011-06-04 07:52:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10172",
+          "lastname": "Daecke",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        2612457,
+        2612458,
+        2612459,
+        2612427,
+        2612428,
+        2612429,
+        2612430,
+        2612431
+      ]
+    },
+    {
+      "reference_id": "73854",
+      "genre": "article",
+      "title": "Phalangid notes",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "issue": "4",
+      "spage": "161",
+      "epage": "161",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612579",
+      "created": "2011-06-05 09:43:56",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2324",
+          "lastname": "Crosby",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        2612579
+      ]
+    },
+    {
+      "reference_id": "70495",
+      "genre": "article",
+      "title": "A new species of Phoebolampta (Tettigonidae), Orthoptera from Cuba",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "166",
+      "epage": "167",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612613",
+      "created": "2011-06-03 06:39:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        2612613,
+        2612614
+      ]
+    },
+    {
+      "reference_id": "70638",
+      "genre": "article",
+      "title": "Coleopterological notes, synonymical and descriptive",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "spage": "174",
+      "epage": "177",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612621",
+      "created": "2011-06-03 06:45:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46445",
+          "lastname": "Clinton",
+          "forename": "Fall Henry"
+        }
+      ],
+      "bhl_pages": [
+        2612621,
+        2612622,
+        2612623,
+        2612624
+      ]
+    },
+    {
+      "reference_id": "58133",
+      "genre": "article",
+      "title": "A new genus of Atropidae",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "189",
+      "epage": "194",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612484",
+      "created": "2010-11-20 19:58:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42261",
+          "lastname": "Weber",
+          "forename": "S E"
+        }
+      ],
+      "bhl_pages": [
+        2612484,
+        2612485,
+        2612486,
+        2612487,
+        2612488,
+        2612489
+      ]
+    },
+    {
+      "reference_id": "70560",
+      "genre": "article",
+      "title": "The differentials of three North American species of Libellula",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "201",
+      "epage": "204",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612691",
+      "created": "2011-06-03 06:42:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45165",
+          "lastname": "Calvert",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        2612691,
+        2612692,
+        2612693,
+        2612694
+      ]
+    },
+    {
+      "reference_id": "84731",
+      "genre": "article",
+      "title": "Our speYies of Plagodis",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "18",
+      "spage": "206",
+      "epage": "208",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612696",
+      "created": "2011-08-10 23:02:27",
+      "updated": "2011-08-10 23:02:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2612696,
+        2612697,
+        2612698
+      ]
+    },
+    {
+      "reference_id": "70497",
+      "genre": "article",
+      "title": "Records of Orthoptera from the Vicinity of Brownsville, Texas",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "209",
+      "epage": "212",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612699",
+      "created": "2011-06-03 06:39:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        2612699,
+        2612700,
+        2612701,
+        2612702
+      ]
+    },
+    {
+      "reference_id": "3860",
+      "genre": "article",
+      "title": "A new walking-stick (Phasmidae) from British Honduras",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "229",
+      "epage": "230",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612595",
+      "created": "2009-12-26 19:18:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2326",
+          "lastname": "Rehn",
+          "forename": "James A G"
+        }
+      ],
+      "bhl_pages": [
+        2612595,
+        2612596
+      ]
+    },
+    {
+      "reference_id": "95328",
+      "genre": "article",
+      "title": "Cecidomyia acarivora n. sp",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "242",
+      "epage": "242",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612608",
+      "created": "2011-10-03 08:19:29",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42334",
+          "lastname": "Felt",
+          "forename": "E P"
+        }
+      ],
+      "bhl_pages": [
+        2612608
+      ]
+    },
+    {
+      "reference_id": "84552",
+      "genre": "article",
+      "title": "Ctenothrips, new genus",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "18",
+      "spage": "247",
+      "epage": "250",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612639",
+      "created": "2011-08-10 22:49:22",
+      "updated": "2011-08-10 22:49:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2612639,
+        2612640,
+        2612641,
+        2612642
+      ]
+    },
+    {
+      "reference_id": "70639",
+      "genre": "article",
+      "title": "Experiences in collecting along the St. Lawrence and Saguenay Rivers",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "spage": "258",
+      "epage": "259",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612650",
+      "created": "2011-06-03 06:45:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46617",
+          "lastname": "P.",
+          "forename": "Engelhardt George"
+        }
+      ],
+      "bhl_pages": [
+        2612650,
+        2612651
+      ]
+    },
+    {
+      "reference_id": "66925",
+      "genre": "article",
+      "title": "A new genus and a new species of Neuroptera",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "spage": "275",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612673",
+      "created": "2011-05-11 17:07:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2612673
+      ]
+    },
+    {
+      "reference_id": "84633",
+      "genre": "article",
+      "title": "New Micro-lepidoptera",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "18",
+      "spage": "276",
+      "epage": "279",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612674",
+      "created": "2011-08-10 22:55:26",
+      "updated": "2011-08-10 22:55:26",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2612674,
+        2612675,
+        2612676,
+        2612677
+      ]
+    },
+    {
+      "reference_id": "84784",
+      "genre": "article",
+      "title": "The bees of Nebraska.-3",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "18",
+      "spage": "293",
+      "epage": "300",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612725",
+      "created": "2011-08-10 23:06:42",
+      "updated": "2011-08-10 23:06:42",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2612725,
+        2612726,
+        2612727,
+        2612728,
+        2612729,
+        2612730,
+        2612731,
+        2612732
+      ]
+    },
+    {
+      "reference_id": "84692",
+      "genre": "article",
+      "title": "Notes on Histeridae",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "18",
+      "spage": "301",
+      "epage": "306",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612733",
+      "created": "2011-08-10 22:59:43",
+      "updated": "2011-08-10 22:59:43",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2612733,
+        2612734,
+        2612735,
+        2612736,
+        2612737,
+        2612746
+      ]
+    },
+    {
+      "reference_id": "84396",
+      "genre": "article",
+      "title": "A new geometrid moth from California",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "18",
+      "spage": "310",
+      "epage": "312",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612750",
+      "created": "2011-08-10 22:38:25",
+      "updated": "2011-08-10 22:38:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2612750,
+        2612751,
+        2612752
+      ]
+    },
+    {
+      "reference_id": "66918",
+      "genre": "article",
+      "title": "Oviposition of Chrysopa species",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "spage": "316",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612756",
+      "created": "2011-05-11 17:06:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        2612756
+      ]
+    },
+    {
+      "reference_id": "70496",
+      "genre": "article",
+      "title": "An Insect Ventriloquist",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "335",
+      "epage": "336",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612783",
+      "created": "2011-06-03 06:39:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45316",
+          "lastname": "",
+          "forename": "Caudell"
+        }
+      ],
+      "bhl_pages": [
+        2612783,
+        2612784
+      ]
+    },
+    {
+      "reference_id": "70498",
+      "genre": "article",
+      "title": "Three new species of Acrididae (Orthoptera) from California",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "350",
+      "epage": "355",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612802",
+      "created": "2011-06-03 06:39:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        2612802,
+        2612803,
+        2612804,
+        2612805,
+        2612806,
+        2612807
+      ]
+    },
+    {
+      "reference_id": "3844",
+      "genre": "article",
+      "title": "A chalcidoid parasite of a tick.",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "issue": "9",
+      "spage": "375",
+      "epage": "378",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612819",
+      "created": "2009-12-26 19:18:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2318",
+          "lastname": "Howard",
+          "forename": "L O"
+        }
+      ],
+      "bhl_pages": [
+        2612819,
+        2612820,
+        2612821,
+        2612822
+      ]
+    },
+    {
+      "reference_id": "65166",
+      "genre": "article",
+      "title": "A new parasite of the domestic fowl",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "399",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612843",
+      "created": "2011-01-31 16:29:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44804",
+          "lastname": "Cockerell",
+          "forename": "Theodore Dru Allison"
+        }
+      ],
+      "bhl_pages": [
+        2612843
+      ]
+    },
+    {
+      "reference_id": "70499",
+      "genre": "article",
+      "title": "A new species of Ceuthophilus (Orthoptera) from Kansas",
+      "secondary_title": "Entomological News",
+      "volume": "18",
+      "spage": "445",
+      "epage": "446",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612896",
+      "created": "2011-06-03 06:39:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        2612896,
+        2612897
+      ]
+    },
+    {
+      "reference_id": "66928",
+      "genre": "article",
+      "title": "Occurrence of Dilar americana McLach",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "18",
+      "spage": "450",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-872X",
+      "PageID": "2612870",
+      "created": "2011-05-11 17:52:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2612870
+      ]
+    }
+  ]
+}

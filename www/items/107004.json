@@ -1,0 +1,39 @@
+{
+  "ItemID": "107004",
+  "FullTitle": "The Philippine journal of science. ",
+  "VolumeInfo": "v. 7 pt. D 1912",
+  "articles": [
+    {
+      "reference_id": "101973",
+      "genre": "article",
+      "title": "Description of a new gecko from Botel Tobago Island",
+      "secondary_title": "Philippine Journal of Science",
+      "volume": "7",
+      "series": "D",
+      "issue": "4",
+      "spage": "241",
+      "epage": "242",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0031-7683",
+      "PageID": "34354463",
+      "created": "2012-03-25 09:16:26",
+      "updated": "2012-03-25 09:20:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53561",
+          "lastname": "Oshima",
+          "forename": "Masamitsu"
+        }
+      ],
+      "bhl_pages": [
+        34354463,
+        34354464,
+        34354465,
+        34354467,
+        34354469
+      ]
+    }
+  ]
+}

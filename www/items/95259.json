@@ -1,0 +1,736 @@
+{
+  "ItemID": "95259",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 26 1903",
+  "articles": [
+    {
+      "reference_id": "57744",
+      "genre": "article",
+      "title": "Bemerkungen zu der Arbeit des Herrn Basset Smith: \"A Systematic Description of Parasitic Copepoda found on Fishes with an enumeration of the known species\"",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "8",
+      "epage": "20",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125000",
+      "created": "2010-11-20 14:46:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40240",
+          "lastname": "Poche",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        30125000,
+        30124999,
+        30124998,
+        30124997,
+        30124996,
+        30124995,
+        30124994,
+        30124993,
+        30124992,
+        30124991,
+        30124990,
+        30124989,
+        30124988
+      ]
+    },
+    {
+      "reference_id": "65157",
+      "genre": "article",
+      "title": "Die Helminthen als Hilfsmittel der zoogeographischen Forshung",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "42",
+      "epage": "51",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0044-5231",
+      "PageID": "30124968",
+      "created": "2011-01-31 16:17:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44798",
+          "lastname": "Ihering",
+          "forename": "H Von"
+        }
+      ],
+      "bhl_pages": [
+        30124968,
+        30124969,
+        30124970,
+        30124971,
+        30124972,
+        30124973,
+        30124974,
+        30124975,
+        30124976,
+        30124977
+      ]
+    },
+    {
+      "reference_id": "98440",
+      "genre": "article",
+      "title": "Ueber eine neue Familie der gymnosomen Pteropoden aus dem Material der Deutschen Tiefseeexpedition (Pteroceaniden)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "92",
+      "epage": "99",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125058",
+      "created": "2011-11-30 14:08:38",
+      "updated": "2011-11-30 14:08:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125058,
+        30125059,
+        30125060,
+        30125061,
+        30125062,
+        30125063,
+        30125064,
+        30125065
+      ]
+    },
+    {
+      "reference_id": "57692",
+      "genre": "article",
+      "title": "Das Genus Tullbergia Lubbock",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "123",
+      "epage": "131",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125089",
+      "created": "2010-11-20 14:35:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42108",
+          "lastname": "B\u00f6rner",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        30125089,
+        30125090,
+        30125091,
+        30125092,
+        30125093,
+        30125094,
+        30125095,
+        30125096,
+        30125097
+      ]
+    },
+    {
+      "reference_id": "98441",
+      "genre": "article",
+      "title": "Eine Susswasser-Polyclade aus Borneo",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "159",
+      "epage": "161",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125125",
+      "created": "2011-11-30 14:09:09",
+      "updated": "2011-11-30 14:09:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125125,
+        30125126,
+        30125127
+      ]
+    },
+    {
+      "reference_id": "69946",
+      "genre": "article",
+      "title": "Myriapodes recueillis au Par\u00e1 par Monsieur le Prof. E. A. Goeldi, Directeur du Mus\u00e9e",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "177",
+      "epage": "191",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125143",
+      "created": "2011-06-02 07:58:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        30125143,
+        30125144,
+        30125145,
+        30125146,
+        30125147,
+        30125148,
+        30125149,
+        30125150,
+        30125151,
+        30125152,
+        30125153,
+        30125154,
+        30125155,
+        30125156,
+        30125157
+      ]
+    },
+    {
+      "reference_id": "80927",
+      "genre": "article",
+      "title": "Zur Systematik der Gattung Sternothaerus Bell",
+      "secondary_title": "Zoologische Anzeiger",
+      "volume": "26",
+      "spage": "191",
+      "epage": "199",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125157",
+      "created": "2011-07-21 22:08:04",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50539",
+          "lastname": "Siebenrock",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        30125157,
+        30125158,
+        30125159,
+        30125160,
+        30125161,
+        30125162,
+        30125163,
+        30125164,
+        30125165
+      ]
+    },
+    {
+      "reference_id": "57847",
+      "genre": "article",
+      "title": "Neue Reptilien und Batrachier aus dem Naturhistorischen Museum in Brussel",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "246",
+      "epage": "253",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125212",
+      "created": "2010-11-20 15:07:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2620",
+          "lastname": "Werner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        30125212,
+        30125213,
+        30125214,
+        30125215,
+        30125216,
+        30125217,
+        30125218,
+        30125219
+      ]
+    },
+    {
+      "reference_id": "57812",
+      "genre": "article",
+      "title": "Uber eine neue Nephthyidengattung aus dem sudatlantischen Ocean",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "272",
+      "epage": "275",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125242",
+      "created": "2010-11-20 14:59:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42143",
+          "lastname": "Kukenthal",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        30125242,
+        30125243,
+        30125244,
+        30125245
+      ]
+    },
+    {
+      "reference_id": "98430",
+      "genre": "article",
+      "title": "On Cryptogonimus (n. g.) chili (n. sp.), a fluke with two ventral suckers",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "315",
+      "epage": "318",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125285",
+      "created": "2011-11-30 14:06:44",
+      "updated": "2011-11-30 14:06:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125285,
+        30125286,
+        30125287,
+        30125288
+      ]
+    },
+    {
+      "reference_id": "57766",
+      "genre": "article",
+      "title": "Wiederentdeckung von Cephalodiscus",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "368",
+      "epage": "369",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125338",
+      "created": "2010-11-20 14:50:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42154",
+          "lastname": "Andersson",
+          "forename": "K A"
+        }
+      ],
+      "bhl_pages": [
+        30125338,
+        30125339
+      ]
+    },
+    {
+      "reference_id": "98428",
+      "genre": "article",
+      "title": "Ueber eine neues Genus der gymnosomen Pteropoden aus dem material der deutschen Tiefsee-Expedition (Schizobrachium)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "410",
+      "epage": "412",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125380",
+      "created": "2011-11-30 14:06:19",
+      "updated": "2011-11-30 14:06:19",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125380,
+        30125381,
+        30125382
+      ]
+    },
+    {
+      "reference_id": "69907",
+      "genre": "article",
+      "title": "Diagnosen von 4 neuen Gattungen der Eumastaciden (Orthoptera: Acridoidea)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "412",
+      "epage": "415",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125382",
+      "created": "2011-06-02 07:55:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46301",
+          "lastname": "",
+          "forename": "Saussure"
+        }
+      ],
+      "bhl_pages": [
+        30125382,
+        30125383,
+        30125384,
+        30125385
+      ]
+    },
+    {
+      "reference_id": "98439",
+      "genre": "article",
+      "title": "Prophysema haeckelii",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "418",
+      "epage": "419",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125388",
+      "created": "2011-11-30 14:08:33",
+      "updated": "2011-11-30 14:08:33",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125388,
+        30125389
+      ]
+    },
+    {
+      "reference_id": "73796",
+      "genre": "article",
+      "title": "Die Stimme der deutschen Lacerten",
+      "secondary_title": "Zool. Anz",
+      "volume": "26",
+      "spage": "421",
+      "epage": "422",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125391",
+      "created": "2011-06-04 09:50:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47236",
+          "lastname": "Zang",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        30125391,
+        30125392
+      ]
+    },
+    {
+      "reference_id": "65103",
+      "genre": "article",
+      "title": "\u00dcber die morphologie, gruppierung und systematische stellung der Corrodentien",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "423",
+      "epage": "437",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125393",
+      "created": "2011-01-31 14:08:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        30125393,
+        30125394,
+        30125395,
+        30125396,
+        30125397,
+        30125398,
+        30125399,
+        30125400,
+        30125401,
+        30125402,
+        30125403,
+        30125404,
+        30125405,
+        30125406,
+        30125407
+      ]
+    },
+    {
+      "reference_id": "57849",
+      "genre": "article",
+      "title": "Bemerkungen zu den Amphipoda Hyperiidea der Deutschen Tiefsee-Expedition, I. Thaumatopsidae",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "447",
+      "epage": "459",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125417",
+      "created": "2010-11-20 15:07:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42176",
+          "lastname": "Woltereck",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        30125417,
+        30125418,
+        30125419,
+        30125420,
+        30125421,
+        30125422,
+        30125423,
+        30125424,
+        30125425,
+        30125426,
+        30125427,
+        30125428,
+        30125429
+      ]
+    },
+    {
+      "reference_id": "98429",
+      "genre": "article",
+      "title": "Neue Gattungen und Arten der Reduviidengruppe Ectrichodiinae",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "508",
+      "epage": "514",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125480",
+      "created": "2011-11-30 14:06:23",
+      "updated": "2011-11-30 14:06:23",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125480,
+        30125481,
+        30125482,
+        30125483,
+        30125484,
+        30125485,
+        30125486
+      ]
+    },
+    {
+      "reference_id": "53160",
+      "genre": "article",
+      "title": "Eine neue Tipulidengattung Idiophlebia nov. gen. von den Karolinen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "524",
+      "epage": "528",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125496",
+      "created": "2010-10-26 16:52:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40773",
+          "lastname": "Grunberg",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        30125496,
+        30125497,
+        30125498,
+        30125499,
+        30125500
+      ]
+    },
+    {
+      "reference_id": "67281",
+      "genre": "article",
+      "title": "Neue Fische aus Sumatra",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "553",
+      "epage": "559",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125525",
+      "created": "2011-05-25 08:15:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45495",
+          "lastname": "Volz",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        30125525,
+        30125526,
+        30125527,
+        30125528,
+        30125529,
+        30125530,
+        30125531
+      ]
+    },
+    {
+      "reference_id": "98434",
+      "genre": "article",
+      "title": "Eine neue Cladoceren-Gattung aus der Familie der Bosminiden (Vorlaufige Mittheilung)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "594",
+      "epage": "597",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125566",
+      "created": "2011-11-30 14:07:46",
+      "updated": "2011-11-30 14:07:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125566,
+        30125567,
+        30125568,
+        30125569
+      ]
+    },
+    {
+      "reference_id": "57810",
+      "genre": "article",
+      "title": "Preliminary note on the Coralliidae of Japan",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "623",
+      "epage": "626",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125595",
+      "created": "2010-11-20 14:59:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42167",
+          "lastname": "Kishinouye",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        30125595,
+        30125596,
+        30125597,
+        30125598
+      ]
+    },
+    {
+      "reference_id": "98438",
+      "genre": "article",
+      "title": "Aphidologische Notizen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "26",
+      "spage": "685",
+      "epage": "688",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125657",
+      "created": "2011-11-30 14:08:17",
+      "updated": "2011-11-30 14:08:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30125657,
+        30125658,
+        30125659,
+        30125660
+      ]
+    },
+    {
+      "reference_id": "72366",
+      "genre": "article",
+      "title": "Einige nothwendige \u00c4nderungen in der herpetologischen Nomenklatur",
+      "secondary_title": "Zool. Anz",
+      "volume": "26",
+      "spage": "698",
+      "epage": "703",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0044-5231",
+      "PageID": "30125670",
+      "created": "2011-06-04 01:36:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40240",
+          "lastname": "Poche",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        30125670,
+        30125671,
+        30125672,
+        30125673,
+        30125674,
+        30125675
+      ]
+    }
+  ]
+}

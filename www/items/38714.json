@@ -1,0 +1,210 @@
+{
+  "ItemID": "38714",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 38 1905",
+  "articles": [
+    {
+      "reference_id": "60916",
+      "genre": "article",
+      "title": "A new genus of Culicidae",
+      "secondary_title": "The Entomologist",
+      "volume": "38",
+      "spage": "52",
+      "epage": "56",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0013-8878",
+      "PageID": "10181344",
+      "created": "2010-11-26 15:07:55",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10022",
+          "lastname": "Theobald",
+          "forename": "F V"
+        }
+      ],
+      "bhl_pages": [
+        10181344,
+        10181345,
+        10181346,
+        10181347,
+        10181348
+      ]
+    },
+    {
+      "reference_id": "60925",
+      "genre": "article",
+      "title": "Bibliographical notes on the Hemiptera.--No. 4",
+      "secondary_title": "Entomologist",
+      "volume": "38",
+      "spage": "77",
+      "epage": "79",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0013-8878",
+      "PageID": "10181373",
+      "created": "2010-11-26 19:24:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        10181373,
+        10181374,
+        10181375
+      ]
+    },
+    {
+      "reference_id": "73111",
+      "genre": "article",
+      "title": "New Culicidae from the west coast of Africa [cncl",
+      "secondary_title": "]. Entomologist",
+      "volume": "38",
+      "spage": "154",
+      "epage": "158",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "7322611",
+      "PageID": "10181462",
+      "created": "2011-06-04 07:45:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10022",
+          "lastname": "Theobald",
+          "forename": "F V"
+        }
+      ],
+      "bhl_pages": [
+        10181462,
+        10181463,
+        10181464,
+        10181465,
+        10181466
+      ]
+    },
+    {
+      "reference_id": "60944",
+      "genre": "article",
+      "title": "New Australian bees of the genus Nomia",
+      "secondary_title": "Entomologist",
+      "volume": "38",
+      "spage": "217",
+      "epage": "223",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0013-8878",
+      "PageID": "10181539",
+      "created": "2010-11-26 19:26:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        10181539,
+        10181540,
+        10181541,
+        10181542,
+        10181543,
+        10181544,
+        10181545
+      ]
+    },
+    {
+      "reference_id": "72845",
+      "genre": "article",
+      "title": "Description of a new genus and species of Braconidae from Cape Colony",
+      "secondary_title": "Entomologist",
+      "volume": "38",
+      "spage": "268",
+      "epage": "269",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0013-8878",
+      "PageID": "10181598",
+      "created": "2011-06-04 04:25:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        10181598,
+        10181599
+      ]
+    },
+    {
+      "reference_id": "60927",
+      "genre": "article",
+      "title": "New Australian bees, in the collection of the British Museum",
+      "secondary_title": "Entomologist",
+      "volume": "38",
+      "spage": "270",
+      "epage": "273",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0013-8878",
+      "PageID": "10181600",
+      "created": "2010-11-26 19:24:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        10181600,
+        10181601,
+        10181602,
+        10181603
+      ]
+    },
+    {
+      "reference_id": "73828",
+      "genre": "article",
+      "title": "On the drak form of Ischnura elegans (female)",
+      "secondary_title": "Entomologist",
+      "volume": "38",
+      "spage": "298",
+      "epage": "299",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0013-8878",
+      "PageID": "10181632",
+      "created": "2011-06-04 09:57:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47244",
+          "lastname": "Campion",
+          "forename": "F W Et Al"
+        }
+      ],
+      "bhl_pages": [
+        10181632,
+        10181633
+      ]
+    }
+  ]
+}

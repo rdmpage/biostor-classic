@@ -1,0 +1,36 @@
+{
+  "ItemID": "113468",
+  "FullTitle": "The American journal of science.",
+  "VolumeInfo": "ser.3:v.18 (1879)",
+  "articles": [
+    {
+      "reference_id": "100135",
+      "genre": "article",
+      "title": "LVII.\u2014Notice of recent additions to the marine fauna of the Eastern Coast of North America, No. 7",
+      "secondary_title": "American Journal of Science",
+      "volume": "18",
+      "series": "3",
+      "spage": "468",
+      "epage": "470",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0092-5853",
+      "PageID": "36842284",
+      "created": "2011-12-29 20:37:56",
+      "updated": "2011-12-29 20:41:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40221",
+          "lastname": "Verrill",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        36842284,
+        36842285,
+        36842286
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "ItemID": "22105",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 7 (1875)",
+  "articles": [
+    {
+      "reference_id": "67044",
+      "genre": "article",
+      "title": "On some of our common insects. The hellgrammite fly -- Corydalis cornutus Linn",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "7",
+      "spage": "64",
+      "epage": "67",
+      "year": "1875",
+      "date": "1875-00-00",
+      "issn": "0008-347X",
+      "PageID": "3048079",
+      "created": "2011-05-12 07:28:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45430",
+          "lastname": "Saunders",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3048079,
+        3048080,
+        3048081,
+        3048082
+      ]
+    },
+    {
+      "reference_id": "72263",
+      "genre": "article",
+      "title": "Correspondence. Rhagium lineatum",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "7",
+      "spage": "96",
+      "epage": "97",
+      "year": "1875",
+      "date": "1875-00-00",
+      "oclc": "1553087",
+      "PageID": "3048115",
+      "created": "2011-06-04 00:59:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46996",
+          "lastname": "Planchard",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3048115,
+        3048116
+      ]
+    },
+    {
+      "reference_id": "60714",
+      "genre": "article",
+      "title": "On certain species of months from Florida",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "7",
+      "spage": "173",
+      "epage": "176",
+      "year": "1875",
+      "date": "1875-00-00",
+      "issn": "0008-347X",
+      "PageID": "3048192",
+      "created": "2010-11-23 03:56:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18067",
+          "lastname": "Grote",
+          "forename": "A R"
+        }
+      ],
+      "bhl_pages": [
+        3048192,
+        3048193,
+        3048194,
+        3048211
+      ]
+    },
+    {
+      "reference_id": "73714",
+      "genre": "article",
+      "title": "Three new galls of Cecidomyiae",
+      "secondary_title": "Can. Ent",
+      "volume": "7",
+      "spage": "201",
+      "epage": "202",
+      "year": "1875",
+      "date": "1875-00-00",
+      "issn": "0008-347X",
+      "PageID": "3048236",
+      "created": "2011-06-04 09:40:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18244",
+          "lastname": "Osten Sacken",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        3048236,
+        3048237
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ItemID": "20877",
+  "FullTitle": "New Central American frogs of the genus Hypopachus,  by Karl P. Schmidt.",
+  "VolumeInfo": "v.24:no.1(1939)",
+  "articles": [
+    {
+      "reference_id": "51864",
+      "genre": "article",
+      "title": "New Central American frogs of the genus Hypopachus",
+      "secondary_title": "Field Museum of Natural History Publication. Zoological Series",
+      "volume": "24",
+      "spage": "1",
+      "epage": "5",
+      "year": "1939",
+      "date": "1939-00-00",
+      "PageID": "2764546",
+      "created": "2010-06-27 08:57:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1081",
+          "lastname": "Schmidt",
+          "forename": "K P"
+        }
+      ],
+      "bhl_pages": [
+        2764546,
+        2764547,
+        2764548,
+        2764549,
+        2764550
+      ]
+    }
+  ]
+}

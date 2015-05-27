@@ -1,0 +1,35 @@
+{
+  "ItemID": "33322",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1905",
+  "articles": [
+    {
+      "reference_id": "67489",
+      "genre": "article",
+      "title": "Ein neuer \u201cpseudo\u201d-elektrischer Fisch aus Kamerum, Mormyrus tapirus, sp. n",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1905",
+      "spage": "217",
+      "epage": "219",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0037-5942",
+      "PageID": "7897302",
+      "created": "2011-05-28 14:19:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17888",
+          "lastname": "Pappenheim",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        7897302,
+        7897303,
+        7897304
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "ItemID": "37585",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 15 1892",
+  "articles": [
+    {
+      "reference_id": "69934",
+      "genre": "article",
+      "title": "Zur Kenntnis der Coniferen-L\u00e4use",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "66",
+      "epage": "70",
+      "year": "YYYY",
+      "date": "0000-00-00",
+      "issn": "0044-5231",
+      "PageID": "9740959",
+      "created": "2011-06-02 07:57:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46424",
+          "lastname": "",
+          "forename": "Cholodkovsky"
+        }
+      ],
+      "bhl_pages": [
+        9740959,
+        9740960,
+        9740961,
+        9740962,
+        9740963
+      ]
+    },
+    {
+      "reference_id": "98446",
+      "genre": "article",
+      "title": "Ein fossiler Giftzahn",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "93",
+      "epage": "94",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9740986",
+      "created": "2011-11-30 14:15:00",
+      "updated": "2011-11-30 14:15:00",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9740986,
+        9740987
+      ]
+    },
+    {
+      "reference_id": "69943",
+      "genre": "article",
+      "title": "Vorl\u00e4ufige Mittheilung \u00fcber eine neue deutsche Chordeuma-Art",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "109",
+      "epage": "110",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741002",
+      "created": "2011-06-02 07:57:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46426",
+          "lastname": "Verhoeff",
+          "forename": "Karl Wilhelm"
+        }
+      ],
+      "bhl_pages": [
+        9741002,
+        9741003
+      ]
+    },
+    {
+      "reference_id": "86008",
+      "genre": "article",
+      "title": "A new lemur (Menagensis)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "147",
+      "epage": "148",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "url": "http:\/\/books.google.com\/books?id=WYVNAAAAYAAJ&pg=PA147",
+      "PageID": "9741040",
+      "created": "2011-09-15 20:12:05",
+      "updated": "2011-09-15 20:12:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51233",
+          "lastname": "Nachtrieb",
+          "forename": "Henry F"
+        }
+      ],
+      "bhl_pages": [
+        9741040,
+        9741041
+      ]
+    },
+    {
+      "reference_id": "69905",
+      "genre": "article",
+      "title": "Systematisches Verzeichnis der canarischen Dermapteren und Orthopteren mit Diagnosen der neuen Gattungen und Arten",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "163",
+      "epage": "171",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741056",
+      "created": "2011-06-02 07:55:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46409",
+          "lastname": "",
+          "forename": "Krauss"
+        }
+      ],
+      "bhl_pages": [
+        9741056,
+        9741057,
+        9741058,
+        9741059,
+        9741060,
+        9741061,
+        9741062,
+        9741063,
+        9741064
+      ]
+    },
+    {
+      "reference_id": "98451",
+      "genre": "article",
+      "title": "Ein neues Enchytroeiden-Genus",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "344",
+      "epage": "345",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741237",
+      "created": "2011-11-30 14:16:04",
+      "updated": "2011-11-30 14:16:04",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741237,
+        9741238
+      ]
+    },
+    {
+      "reference_id": "98444",
+      "genre": "article",
+      "title": "Ueber die Gattung Acanthopus und eine neue Susswassercytheride",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "393",
+      "epage": "395",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741286",
+      "created": "2011-11-30 14:13:08",
+      "updated": "2011-11-30 14:13:08",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741286,
+        9741287,
+        9741288
+      ]
+    },
+    {
+      "reference_id": "102299",
+      "genre": "article",
+      "title": "Eine neue Pedalion-Art",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "402",
+      "epage": "404",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741295",
+      "created": "2012-04-02 21:21:54",
+      "updated": "2012-04-02 21:21:54",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741295,
+        9741296,
+        9741297
+      ]
+    },
+    {
+      "reference_id": "49173",
+      "genre": "article",
+      "title": "Drei neue colubriforme Schlangen",
+      "secondary_title": "Zool. Anz.",
+      "volume": "15",
+      "spage": "417",
+      "epage": "420",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741310",
+      "created": "2010-03-21 11:53:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9741310,
+        9741311,
+        9741312,
+        9741313
+      ]
+    },
+    {
+      "reference_id": "98450",
+      "genre": "article",
+      "title": "Zwei der Euchlanis lynceus, Ehrenberg, verwandte neue Rotatorien",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "447",
+      "epage": "449",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741340",
+      "created": "2011-11-30 14:15:52",
+      "updated": "2011-11-30 14:15:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741340,
+        9741341,
+        9741342
+      ]
+    },
+    {
+      "reference_id": "98448",
+      "genre": "article",
+      "title": "Vorlaufige Mittheilung uber einige anscheinend neue Naidomorphen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "468",
+      "epage": "470",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741361",
+      "created": "2011-11-30 14:15:17",
+      "updated": "2011-11-30 14:15:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741361,
+        9741362,
+        9741363
+      ]
+    },
+    {
+      "reference_id": "98449",
+      "genre": "article",
+      "title": "Note on a new Oligochaet (Vermiculus pilosus)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "15",
+      "spage": "474",
+      "epage": "476",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741367",
+      "created": "2011-11-30 14:15:47",
+      "updated": "2011-11-30 14:15:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741367,
+        9741368,
+        9741369
+      ]
+    }
+  ]
+}

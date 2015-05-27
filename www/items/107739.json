@@ -1,0 +1,2288 @@
+{
+  "ItemID": "107739",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 72-73 1959-60",
+  "articles": [
+    {
+      "reference_id": "82348",
+      "genre": "article",
+      "title": "The scientific names of the species of capuchin monkeys (Cebus Erxleben)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "1",
+      "epage": "3",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641822",
+      "created": "2011-07-31 03:11:46",
+      "updated": "2011-07-31 03:11:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1068",
+          "lastname": "Hershkovitz",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        34641822,
+        34641821,
+        34641820
+      ]
+    },
+    {
+      "reference_id": "82349",
+      "genre": "article",
+      "title": "Two new genera of South American rodents (Cricetinae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "5",
+      "epage": "9",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641818",
+      "created": "2011-07-31 03:11:50",
+      "updated": "2011-07-31 03:11:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1068",
+          "lastname": "Hershkovitz",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        34641818,
+        34641817,
+        34641816,
+        34641815,
+        34641814
+      ]
+    },
+    {
+      "reference_id": "69120",
+      "genre": "article",
+      "title": "Description of the apterous form of Cinara pinivora (W)",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "72",
+      "spage": "11",
+      "epage": "12",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641812",
+      "created": "2011-06-01 08:22:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46179",
+          "lastname": "",
+          "forename": "Hottes"
+        }
+      ],
+      "bhl_pages": [
+        34641812,
+        34641811
+      ]
+    },
+    {
+      "reference_id": "69121",
+      "genre": "article",
+      "title": "A new species of Schizolachnus (Aphidae)",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "72",
+      "spage": "13",
+      "epage": "14",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641810",
+      "created": "2011-06-01 08:22:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46179",
+          "lastname": "",
+          "forename": "Hottes"
+        }
+      ],
+      "bhl_pages": [
+        34641810,
+        34641809
+      ]
+    },
+    {
+      "reference_id": "81754",
+      "genre": "article",
+      "title": "Two new subspecies of birds from western North America",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "15",
+      "epage": "17",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641808",
+      "created": "2011-07-31 02:32:54",
+      "updated": "2011-07-31 02:32:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50820",
+          "lastname": "Burleigh",
+          "forename": "T D"
+        }
+      ],
+      "bhl_pages": [
+        34641808,
+        34641807,
+        34641806
+      ]
+    },
+    {
+      "reference_id": "83638",
+      "genre": "article",
+      "title": "Description of a race of the shearwater Puffinus Iherminieri from Panama",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "19",
+      "epage": "21",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641804",
+      "created": "2011-07-31 07:49:53",
+      "updated": "2011-07-31 07:49:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "787",
+          "lastname": "Wetmore",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        34641804,
+        34641803,
+        34641802
+      ]
+    },
+    {
+      "reference_id": "82577",
+      "genre": "article",
+      "title": "An elucidation of the neotropical genus Chinaia with a key to males and a new allied genus [Homoptera: Cicadellidae: Neocoelidiinae]",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "23",
+      "epage": "31",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641800",
+      "created": "2011-07-31 03:29:52",
+      "updated": "2011-07-31 03:29:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47387",
+          "lastname": "Kramer",
+          "forename": "J P"
+        }
+      ],
+      "bhl_pages": [
+        34641800,
+        34641799,
+        34641766,
+        34641767,
+        34641768,
+        34641769,
+        34641770,
+        34641771,
+        34641772
+      ]
+    },
+    {
+      "reference_id": "82399",
+      "genre": "article",
+      "title": "A new spotted ground squirrel from Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "37",
+      "epage": "38",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641778",
+      "created": "2011-07-31 03:15:50",
+      "updated": "2011-07-31 03:15:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50949",
+          "lastname": "Hoffmeister",
+          "forename": "D F"
+        }
+      ],
+      "bhl_pages": [
+        34641778,
+        34641779
+      ]
+    },
+    {
+      "reference_id": "66020",
+      "genre": "article",
+      "title": "A New Crayfish of the Genus Procambarus from Alabama",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "39",
+      "epage": "44",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641780",
+      "created": "2011-05-03 16:58:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        34641780,
+        34641781,
+        34641782,
+        34641783,
+        34641784,
+        34641785
+      ]
+    },
+    {
+      "reference_id": "65906",
+      "genre": "article",
+      "title": "A new species of South American brocket, genus Mazama (Cervidae)",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "72",
+      "spage": "45",
+      "epage": "54",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641786",
+      "created": "2011-05-01 16:30:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1068",
+          "lastname": "Hershkovitz",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        34641786,
+        34641787,
+        34641788,
+        34641789,
+        34641790,
+        34641791,
+        34641792,
+        34641793,
+        34641794,
+        34641795
+      ]
+    },
+    {
+      "reference_id": "82585",
+      "genre": "article",
+      "title": "A new genus and two new species of leafhoppers from South America (Homoptera: Cicadellidae: Neocoelidiinae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "55",
+      "epage": "58",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641796",
+      "created": "2011-07-31 03:30:30",
+      "updated": "2011-07-31 03:30:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47387",
+          "lastname": "Kramer",
+          "forename": "J P"
+        },
+        {
+          "id": "39627",
+          "lastname": "Linnavuori",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        34641796,
+        34641797,
+        34641798,
+        34641837
+      ]
+    },
+    {
+      "reference_id": "82130",
+      "genre": "article",
+      "title": "A synopsis of the ostracod (Crustacea) genus Cypridopsis with the descriptiin [sic] of a new species",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "59",
+      "epage": "67",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641838",
+      "created": "2011-07-31 02:56:31",
+      "updated": "2011-07-31 02:56:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50900",
+          "lastname": "Ferguson",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        34641838,
+        34641839,
+        34641840,
+        34641841,
+        34641842,
+        34641843,
+        34641844,
+        34641845,
+        34641846
+      ]
+    },
+    {
+      "reference_id": "81777",
+      "genre": "article",
+      "title": "Two new troglodytic millipeds from Texas",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "69",
+      "epage": "73",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641848",
+      "created": "2011-07-31 02:34:24",
+      "updated": "2011-07-31 02:34:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47328",
+          "lastname": "Causey",
+          "forename": "N B"
+        }
+      ],
+      "bhl_pages": [
+        34641848,
+        34641849,
+        34641850,
+        34641851,
+        34641852
+      ]
+    },
+    {
+      "reference_id": "81778",
+      "genre": "article",
+      "title": "A second species of the milliped genus Trigenotyla (Chordeumidea: Conotylidae: Trichopetalinae: Scoterpini)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "75",
+      "epage": "77",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641854",
+      "created": "2011-07-31 02:34:27",
+      "updated": "2011-07-31 02:34:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47328",
+          "lastname": "Causey",
+          "forename": "N B"
+        }
+      ],
+      "bhl_pages": [
+        34641854,
+        34641855,
+        34641856
+      ]
+    },
+    {
+      "reference_id": "69119",
+      "genre": "article",
+      "title": "Snakes of the Chilpancingo region, Mexico",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "72",
+      "spage": "79",
+      "epage": "92",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641858",
+      "created": "2011-06-01 08:22:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46194",
+          "lastname": "Davis",
+          "forename": "William B"
+        },
+        {
+          "id": "24393",
+          "lastname": "Dixon",
+          "forename": "James R"
+        }
+      ],
+      "bhl_pages": [
+        34641858,
+        34641859,
+        34641860,
+        34641861,
+        34641862,
+        34641863,
+        34641864,
+        34641865,
+        34641866,
+        34641867,
+        34641868,
+        34641869,
+        34641870,
+        34641871
+      ]
+    },
+    {
+      "reference_id": "82350",
+      "genre": "article",
+      "title": "A new race of red brocket deer (Mazama americana) from Colombia",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "93",
+      "epage": "95",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641872",
+      "created": "2011-07-31 03:11:54",
+      "updated": "2011-07-31 03:11:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1068",
+          "lastname": "Hershkovitz",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        34641872,
+        34641873,
+        34641874
+      ]
+    },
+    {
+      "reference_id": "82351",
+      "genre": "article",
+      "title": "The type locality of Felis concolor concolor Linnaeus",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "97",
+      "epage": "99",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641876",
+      "created": "2011-07-31 03:11:59",
+      "updated": "2011-07-31 03:11:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1068",
+          "lastname": "Hershkovitz",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        34641876,
+        34641877,
+        34641878
+      ]
+    },
+    {
+      "reference_id": "82589",
+      "genre": "article",
+      "title": "Natural History of Plummers Island, Maryland XII. A biological note on Trypoxylon richardsi Sandhouse",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "101",
+      "epage": "102",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641880",
+      "created": "2011-07-31 03:30:45",
+      "updated": "2011-07-31 03:30:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41072",
+          "lastname": "Krombein",
+          "forename": "K V"
+        }
+      ],
+      "bhl_pages": [
+        34641880,
+        34641881
+      ]
+    },
+    {
+      "reference_id": "83085",
+      "genre": "article",
+      "title": "A new star-nosed mole (Condylura) from the southeastern United States",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "103",
+      "epage": "107",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641882",
+      "created": "2011-07-31 04:12:11",
+      "updated": "2011-07-31 04:12:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "48313",
+          "lastname": "Paradiso",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        34641882,
+        34641883,
+        34641884,
+        34641885,
+        34641886
+      ]
+    },
+    {
+      "reference_id": "84877",
+      "genre": "article",
+      "title": "A new species of toad, Bufo cataulaciceps, from the Isla de Pinos and Western Cuba",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "109",
+      "epage": "119",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641888",
+      "created": "2011-08-11 01:03:48",
+      "updated": "2011-08-11 01:03:48",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        34641888,
+        34641889,
+        34641890,
+        34641891,
+        34641892,
+        34641893,
+        34641894,
+        34641895,
+        34641896,
+        34641897,
+        34641898
+      ]
+    },
+    {
+      "reference_id": "83148",
+      "genre": "article",
+      "title": "Two new subspecies of birds from the San Luis Mountains of Venezuela and distributional notes",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "121",
+      "epage": "126",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641900",
+      "created": "2011-07-31 04:23:45",
+      "updated": "2011-07-31 04:23:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51037",
+          "lastname": "Phelps",
+          "forename": "W H"
+        },
+        {
+          "id": "51037",
+          "lastname": "Phelps",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        34641900,
+        34641901,
+        34641902,
+        34641903,
+        34641904,
+        34641905
+      ]
+    },
+    {
+      "reference_id": "82597",
+      "genre": "article",
+      "title": "Taxonomy and nomenclature of some pocket gophers from southeastern Arizona",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "127",
+      "epage": "132",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641906",
+      "created": "2011-07-31 03:31:48",
+      "updated": "2011-07-31 03:31:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50975",
+          "lastname": "Lange",
+          "forename": "K I"
+        }
+      ],
+      "bhl_pages": [
+        34641906,
+        34641907,
+        34641908,
+        34641909,
+        34641910,
+        34641911
+      ]
+    },
+    {
+      "reference_id": "82131",
+      "genre": "article",
+      "title": "The ostracod genus Potamocypris with the description of a new species",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "133",
+      "epage": "137",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641912",
+      "created": "2011-07-31 02:56:34",
+      "updated": "2011-07-31 02:56:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50900",
+          "lastname": "Ferguson",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        34641912,
+        34641913,
+        34641914,
+        34641915,
+        34641916
+      ]
+    },
+    {
+      "reference_id": "83679",
+      "genre": "article",
+      "title": "Three new subspecies of the lizard Leiocephalus macropus Cope from Cuba",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "139",
+      "epage": "150",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641918",
+      "created": "2011-07-31 07:54:17",
+      "updated": "2011-07-31 07:54:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "960",
+          "lastname": "Zug",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        34641918,
+        34641919,
+        34641920,
+        34641921,
+        34641922,
+        34641923,
+        34641924,
+        34641925,
+        34641926,
+        34641927,
+        34641928,
+        34641929
+      ]
+    },
+    {
+      "reference_id": "81779",
+      "genre": "article",
+      "title": "New records of Onomeris undenvoodi Cook (Diplopoda: Glomerida: Glomeridae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "151",
+      "epage": "153",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641930",
+      "created": "2011-07-31 02:34:30",
+      "updated": "2011-07-31 02:34:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47328",
+          "lastname": "Causey",
+          "forename": "N B"
+        }
+      ],
+      "bhl_pages": [
+        34641930,
+        34641931,
+        34641932
+      ]
+    },
+    {
+      "reference_id": "82818",
+      "genre": "article",
+      "title": "A new race of nighthawk from the upper Magdalena Valley of Colombia",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "155",
+      "epage": "157",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641934",
+      "created": "2011-07-31 03:51:35",
+      "updated": "2011-07-31 03:51:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1385",
+          "lastname": "Miller",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        34641934,
+        34641935,
+        34641936
+      ]
+    },
+    {
+      "reference_id": "99299",
+      "genre": "article",
+      "title": "A new Red-tailed Hawk from Honduras",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "159",
+      "epage": "159",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641938",
+      "created": "2011-12-13 21:59:44",
+      "updated": "2011-12-13 21:59:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        34641938
+      ]
+    },
+    {
+      "reference_id": "82052",
+      "genre": "article",
+      "title": "The genus Veloidea Gould (Hemiptera: Veliidae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "161",
+      "epage": "165",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641940",
+      "created": "2011-07-31 02:51:28",
+      "updated": "2011-07-31 02:51:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42507",
+          "lastname": "Drake",
+          "forename": "C J"
+        },
+        {
+          "id": "41601",
+          "lastname": "Lauck",
+          "forename": "D R"
+        }
+      ],
+      "bhl_pages": [
+        34641940,
+        34641941,
+        34641942,
+        34641943,
+        34641944
+      ]
+    },
+    {
+      "reference_id": "82400",
+      "genre": "article",
+      "title": "The baculum in the wood rat Neotoma stephensi",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "171",
+      "epage": "172",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641950",
+      "created": "2011-07-31 03:15:53",
+      "updated": "2011-07-31 03:15:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50949",
+          "lastname": "Hoffmeister",
+          "forename": "D F"
+        },
+        {
+          "id": "50950",
+          "lastname": "De La Torre",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        34641950,
+        34641951
+      ]
+    },
+    {
+      "reference_id": "82388",
+      "genre": "article",
+      "title": "A new diplopod genus from Guatemala, closely related to Desmonus, and its effect on the validity of the families Desmonidae and Cyclodesmidae (Polydesmida: Sphaeriodesmidae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "173",
+      "epage": "182",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641952",
+      "created": "2011-07-31 03:14:36",
+      "updated": "2011-07-31 03:14:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1777",
+          "lastname": "Hoffman",
+          "forename": "R L"
+        }
+      ],
+      "bhl_pages": [
+        34641952,
+        34641953,
+        34641954,
+        34641955,
+        34641956,
+        34641957,
+        34641958,
+        34641959,
+        34641960,
+        34641961
+      ]
+    },
+    {
+      "reference_id": "82529",
+      "genre": "article",
+      "title": "Four new mammals from the Northern Territory of Australia",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "72",
+      "spage": "183",
+      "epage": "187",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641962",
+      "created": "2011-07-31 03:26:11",
+      "updated": "2011-07-31 03:26:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "37304",
+          "lastname": "Johnson",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        34641962,
+        34641963,
+        34641964,
+        34641965,
+        34641966
+      ]
+    },
+    {
+      "reference_id": "83149",
+      "genre": "article",
+      "title": "A new subspecies of Furnariidae from Venezuela and extensions of ranges",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "1",
+      "epage": "3",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641994",
+      "created": "2011-07-31 04:23:51",
+      "updated": "2011-07-31 04:23:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51037",
+          "lastname": "Phelps",
+          "forename": "W H"
+        },
+        {
+          "id": "51037",
+          "lastname": "Phelps",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        34641994,
+        34641995,
+        34641996
+      ]
+    },
+    {
+      "reference_id": "82389",
+      "genre": "article",
+      "title": "Studies of spiroboloid millipeds. V. The correct identity of the genus Rhinocricus, based upon a study of its type species",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "5",
+      "epage": "14",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34641998",
+      "created": "2011-07-31 03:14:44",
+      "updated": "2011-07-31 03:14:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1777",
+          "lastname": "Hoffman",
+          "forename": "R L"
+        }
+      ],
+      "bhl_pages": [
+        34641998,
+        34641999,
+        34642000,
+        34642001,
+        34642002,
+        34642003,
+        34642004,
+        34642005,
+        34642006,
+        34642007
+      ]
+    },
+    {
+      "reference_id": "81897",
+      "genre": "article",
+      "title": "Notes on a small collection of liparid fishes from the Yellow Sea",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "15",
+      "epage": "19",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642008",
+      "created": "2011-07-31 02:42:10",
+      "updated": "2011-07-31 02:42:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1470",
+          "lastname": "Cohen",
+          "forename": "D M"
+        }
+      ],
+      "bhl_pages": [
+        34642008,
+        34642009,
+        34642010,
+        34642011,
+        34642012
+      ]
+    },
+    {
+      "reference_id": "83086",
+      "genre": "article",
+      "title": "A new white-footed mouse (Peromyscus leucopus) from southeastern Virginia",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "21",
+      "epage": "23",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642014",
+      "created": "2011-07-31 04:12:14",
+      "updated": "2011-07-31 04:12:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "48313",
+          "lastname": "Paradiso",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        34642014,
+        34642015,
+        34642016
+      ]
+    },
+    {
+      "reference_id": "81780",
+      "genre": "article",
+      "title": "Speostriaria, new genus (Diplopoda: Chordeumida: Chordeumidea: Striariidae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "25",
+      "epage": "28",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642018",
+      "created": "2011-07-31 02:34:33",
+      "updated": "2011-07-31 02:34:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47328",
+          "lastname": "Causey",
+          "forename": "N B"
+        }
+      ],
+      "bhl_pages": [
+        34642018,
+        34642019,
+        34642020,
+        34642021
+      ]
+    },
+    {
+      "reference_id": "67481",
+      "genre": "article",
+      "title": "A new cardinal fish of the genus Archamia from northern Australia",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "29",
+      "epage": "34",
+      "year": "1960",
+      "date": "1960-08-10",
+      "issn": "0006-324X",
+      "PageID": "34642022",
+      "created": "2011-05-28 10:10:39",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10239",
+          "lastname": "Lachner",
+          "forename": "Ernest A"
+        },
+        {
+          "id": "1148",
+          "lastname": "Taylor",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        34642022,
+        34642023,
+        34642024,
+        34642025,
+        34642026,
+        34642027
+      ]
+    },
+    {
+      "reference_id": "82295",
+      "genre": "article",
+      "title": "A new subspecies of pocket gopher (Thomomys umbrinus) from Sinaloa, Mexico, with comments on T. u. sinaloa and T. u. evexus",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "35",
+      "epage": "37",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642028",
+      "created": "2011-07-31 03:07:23",
+      "updated": "2011-07-31 03:07:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50931",
+          "lastname": "Hall",
+          "forename": "E R"
+        },
+        {
+          "id": "1319",
+          "lastname": "Long",
+          "forename": "C A"
+        }
+      ],
+      "bhl_pages": [
+        34642028,
+        34642029,
+        34642030
+      ]
+    },
+    {
+      "reference_id": "82079",
+      "genre": "article",
+      "title": "Two new species of Craspedorrhynchus (Mallophaga) from North America",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "39",
+      "epage": "44",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642032",
+      "created": "2011-07-31 02:53:14",
+      "updated": "2011-07-31 02:53:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10061",
+          "lastname": "Emerson",
+          "forename": "K C"
+        }
+      ],
+      "bhl_pages": [
+        34642032,
+        34642033,
+        34642034,
+        34642035,
+        34642036,
+        34642037
+      ]
+    },
+    {
+      "reference_id": "83354",
+      "genre": "article",
+      "title": "The large toads of Cuba",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "45",
+      "epage": "55",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642038",
+      "created": "2011-07-31 04:43:00",
+      "updated": "2011-07-31 04:43:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "604",
+          "lastname": "Schwartz",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        34642038,
+        34642039,
+        34642040,
+        34642041,
+        34642042,
+        34642043,
+        34642044,
+        34642045,
+        34642046,
+        34642047,
+        34642048
+      ]
+    },
+    {
+      "reference_id": "83091",
+      "genre": "article",
+      "title": "New subspecies of PhUippine birds",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "57",
+      "epage": "61",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642050",
+      "created": "2011-07-31 04:12:33",
+      "updated": "2011-07-31 04:12:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1062",
+          "lastname": "Parkes",
+          "forename": "K C"
+        }
+      ],
+      "bhl_pages": [
+        34642050,
+        34642051,
+        34642052,
+        34642053,
+        34642054
+      ]
+    },
+    {
+      "reference_id": "82578",
+      "genre": "article",
+      "title": "A remarkable new species of neotropical Agalliopsis and the previously unknown male oi Agalliopsis inscripta Oman (Homoptera: Cicadellidae: Agalliinae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "63",
+      "epage": "65",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642056",
+      "created": "2011-07-31 03:30:01",
+      "updated": "2011-07-31 03:30:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47387",
+          "lastname": "Kramer",
+          "forename": "J P"
+        }
+      ],
+      "bhl_pages": [
+        34642056,
+        34642057,
+        34642058
+      ]
+    },
+    {
+      "reference_id": "83355",
+      "genre": "article",
+      "title": "Variation in the Cuban lizard Leiocephalus raviceps Cope",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "67",
+      "epage": "82",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642060",
+      "created": "2011-07-31 04:43:05",
+      "updated": "2011-07-31 04:43:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "604",
+          "lastname": "Schwartz",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        34642060,
+        34642061,
+        34642062,
+        34642063,
+        34642064,
+        34642065,
+        34642066,
+        34642067,
+        34642068,
+        34642069,
+        34642070,
+        34642071,
+        34642072,
+        34642073,
+        34642074,
+        34642075
+      ]
+    },
+    {
+      "reference_id": "83050",
+      "genre": "article",
+      "title": "A new species of bat of the genus Antrozous from Cuba",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "83",
+      "epage": "86",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642076",
+      "created": "2011-07-31 04:09:39",
+      "updated": "2011-07-31 04:09:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2129",
+          "lastname": "Orr",
+          "forename": "R T"
+        },
+        {
+          "id": "51019",
+          "lastname": "Taboada",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        34642076,
+        34642077,
+        34642078,
+        34642079
+      ]
+    },
+    {
+      "reference_id": "69058",
+      "genre": "article",
+      "title": "On the identity of Stenophilus grenadae (Chamberlin) with a key to the known North American congeners (Chilopoda: Geophilomorpha: Himantariidae)",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "87",
+      "epage": "94",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642080",
+      "created": "2011-06-01 08:20:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45321",
+          "lastname": "Crabill",
+          "forename": "Ralph E",
+          "suffix": "Jr"
+        }
+      ],
+      "bhl_pages": [
+        34642080,
+        34642081,
+        34642082,
+        34642083,
+        34642084,
+        34642085,
+        34642086,
+        34642087
+      ]
+    },
+    {
+      "reference_id": "81768",
+      "genre": "article",
+      "title": "Octolasmis dawsoni, new species (Cirripedia: Lepadidae) from Bathynomus giganteus",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "95",
+      "epage": "98",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642088",
+      "created": "2011-07-31 02:33:52",
+      "updated": "2011-07-31 02:33:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50826",
+          "lastname": "Causey",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        34642088,
+        34642089,
+        34642090,
+        34642091
+      ]
+    },
+    {
+      "reference_id": "81438",
+      "genre": "article",
+      "title": "A new marine centiped from the California littoral",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "99",
+      "epage": "101",
+      "year": "1960",
+      "date": "1960-08-10",
+      "issn": "0006-324X",
+      "PageID": "34642092",
+      "created": "2011-07-29 15:52:54",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "500",
+          "lastname": "Chamberlin",
+          "forename": "Ralph V"
+        }
+      ],
+      "bhl_pages": [
+        34642092,
+        34642093,
+        34642094
+      ]
+    },
+    {
+      "reference_id": "69122",
+      "genre": "article",
+      "title": "A new subspecies of Leiocephalus stictigaster Schwartz from central Cuba",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "103",
+      "epage": "106",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642096",
+      "created": "2011-06-01 08:22:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "29116",
+          "lastname": "Schwartz",
+          "forename": "Albert"
+        }
+      ],
+      "bhl_pages": [
+        34642096,
+        34642097,
+        34642098,
+        34642099
+      ]
+    },
+    {
+      "reference_id": "82151",
+      "genre": "article",
+      "title": "Notes on some North American Tephritidae, with descriptions of two new genera and two new species (Diptera)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "107",
+      "epage": "117",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642100",
+      "created": "2011-07-31 02:57:58",
+      "updated": "2011-07-31 02:57:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41594",
+          "lastname": "Foote",
+          "forename": "R H"
+        }
+      ],
+      "bhl_pages": [
+        34642100,
+        34642101,
+        34642102,
+        34642103,
+        34642104,
+        34642105,
+        34642106,
+        34642107,
+        34642108,
+        34642109,
+        34642110
+      ]
+    },
+    {
+      "reference_id": "82074",
+      "genre": "article",
+      "title": "A new species of Kurodaia (Mallophaga: Amblycera) from the collared scops owl of Thailand",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "119",
+      "epage": "122",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642112",
+      "created": "2011-07-31 02:52:52",
+      "updated": "2011-07-31 02:52:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47400",
+          "lastname": "Elbel",
+          "forename": "R E"
+        },
+        {
+          "id": "50890",
+          "lastname": "Emerson",
+          "forename": "K- C"
+        }
+      ],
+      "bhl_pages": [
+        34642112,
+        34642113,
+        34642114,
+        34642115
+      ]
+    },
+    {
+      "reference_id": "82373",
+      "genre": "article",
+      "title": "A new crayfish of the genus Procambarus from southern Alabama (Decapoda, Astacidae)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "123",
+      "epage": "129",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642116",
+      "created": "2011-07-31 03:13:37",
+      "updated": "2011-07-31 03:13:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44893",
+          "lastname": "Hobbs",
+          "forename": "H H"
+        },
+        {
+          "id": "47336",
+          "lastname": "Walton",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        34642116,
+        34642117,
+        34642118,
+        34642119,
+        34642120,
+        34642121,
+        34642122
+      ]
+    },
+    {
+      "reference_id": "82541",
+      "genre": "article",
+      "title": "A new family of millipeds of the order Spirobolida, with notes on an established family",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "131",
+      "epage": "140",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642124",
+      "created": "2011-07-31 03:27:16",
+      "updated": "2011-07-31 03:27:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50965",
+          "lastname": "Keeton",
+          "forename": "W T"
+        }
+      ],
+      "bhl_pages": [
+        34642124,
+        34642125,
+        34642126,
+        34642127,
+        34642128,
+        34642129,
+        34642130,
+        34642131,
+        34642132,
+        34642133
+      ]
+    },
+    {
+      "reference_id": "81755",
+      "genre": "article",
+      "title": "Geographic variation in the western wood pewee (Contopus sordidulus)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "141",
+      "epage": "146",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642134",
+      "created": "2011-07-31 02:32:57",
+      "updated": "2011-07-31 02:32:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50820",
+          "lastname": "Burleigh",
+          "forename": "T D"
+        }
+      ],
+      "bhl_pages": [
+        34642134,
+        34642135,
+        34642136,
+        34642137,
+        34642138,
+        34642139
+      ]
+    },
+    {
+      "reference_id": "82429",
+      "genre": "article",
+      "title": "Preliminary descriptions of one new genus, twelve new species and three new subspecies of scyllarid lobsters (Crustacea Decapoda Macrura)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "147",
+      "epage": "154",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642140",
+      "created": "2011-07-31 03:17:55",
+      "updated": "2011-07-31 03:17:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "489",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        34642140,
+        34642141,
+        34642142,
+        34642143,
+        34642144,
+        34642145,
+        34642146,
+        34642147
+      ]
+    },
+    {
+      "reference_id": "82080",
+      "genre": "article",
+      "title": "Notes on the Osbom Mallophaga types",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "155",
+      "epage": "165",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642148",
+      "created": "2011-07-31 02:53:19",
+      "updated": "2011-07-31 02:53:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10061",
+          "lastname": "Emerson",
+          "forename": "K C"
+        }
+      ],
+      "bhl_pages": [
+        34642148,
+        34642149,
+        34642150,
+        34642151,
+        34642152,
+        34642153,
+        34642154,
+        34642155,
+        34642156,
+        34642157,
+        34642158
+      ]
+    },
+    {
+      "reference_id": "82601",
+      "genre": "article",
+      "title": "A new long-tailed vole (Microtus longicaudus (Merriam)) from Utah",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "167",
+      "epage": "170",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642160",
+      "created": "2011-07-31 03:32:11",
+      "updated": "2011-07-31 03:32:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45133",
+          "lastname": "Lee",
+          "forename": "M R"
+        },
+        {
+          "id": "50884",
+          "lastname": "Durrant",
+          "forename": "S D"
+        }
+      ],
+      "bhl_pages": [
+        34642160,
+        34642161,
+        34642162,
+        34642163
+      ]
+    },
+    {
+      "reference_id": "82602",
+      "genre": "article",
+      "title": "A new jumping mouse (Zapus princeps Allen) from Utah",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "171",
+      "epage": "174",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642164",
+      "created": "2011-07-31 03:32:16",
+      "updated": "2011-07-31 03:32:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45133",
+          "lastname": "Lee",
+          "forename": "M R"
+        },
+        {
+          "id": "50884",
+          "lastname": "Durrant",
+          "forename": "S D"
+        }
+      ],
+      "bhl_pages": [
+        34642164,
+        34642165,
+        34642166,
+        34642167
+      ]
+    },
+    {
+      "reference_id": "81631",
+      "genre": "article",
+      "title": "The Ellisellidae (Octocorallia) and their bearing on the zoogeography of the eastern Pacific",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "175",
+      "epage": "182",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642168",
+      "created": "2011-07-31 02:25:43",
+      "updated": "2011-07-31 02:25:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1577",
+          "lastname": "Bayer",
+          "forename": "F M"
+        },
+        {
+          "id": "2590",
+          "lastname": "Deichmann",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        34642168,
+        34642169,
+        34642170,
+        34642171,
+        34642172,
+        34642173,
+        34642174,
+        34642175
+      ]
+    },
+    {
+      "reference_id": "81632",
+      "genre": "article",
+      "title": "The discovery of a freshwater opisthobranchiate mollusk, Acochlidium amboinense Strubell, in the Palau Islands",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "183",
+      "epage": "193",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642176",
+      "created": "2011-07-31 02:25:46",
+      "updated": "2011-07-31 02:25:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1577",
+          "lastname": "Bayer",
+          "forename": "F M"
+        },
+        {
+          "id": "50794",
+          "lastname": "Fehlmann",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        34642176,
+        34642177,
+        34642178,
+        34642179,
+        34642180,
+        34642181,
+        34642182,
+        34642183,
+        34642184,
+        34642185,
+        34642186
+      ]
+    },
+    {
+      "reference_id": "82622",
+      "genre": "article",
+      "title": "Saedeleeria, new genus of the family Allogromiidae (Foraminifera)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "195",
+      "epage": "196",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642188",
+      "created": "2011-07-31 03:34:26",
+      "updated": "2011-07-31 03:34:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1406",
+          "lastname": "Loeblich",
+          "forename": "A R"
+        },
+        {
+          "id": "1407",
+          "lastname": "Tappan",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        34642188,
+        34642189
+      ]
+    },
+    {
+      "reference_id": "69123",
+      "genre": "article",
+      "title": "A new conifer feeding aphid from Washington",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "197",
+      "epage": "198",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642190",
+      "created": "2011-06-01 08:22:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46179",
+          "lastname": "",
+          "forename": "Hottes"
+        }
+      ],
+      "bhl_pages": [
+        34642190,
+        34642191
+      ]
+    },
+    {
+      "reference_id": "69124",
+      "genre": "article",
+      "title": "Notes on and a key to the species of Cinara (Family Aphidae) living on Pinus edulis",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "199",
+      "epage": "214",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642192",
+      "created": "2011-06-01 08:22:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46179",
+          "lastname": "",
+          "forename": "Hottes"
+        }
+      ],
+      "bhl_pages": [
+        34642192,
+        34642193,
+        34642194,
+        34642195,
+        34642196,
+        34642197,
+        34642198,
+        34642199,
+        34642200,
+        34642201,
+        34642202,
+        34642203,
+        34642204,
+        34642205,
+        34642206,
+        34642207
+      ]
+    },
+    {
+      "reference_id": "83092",
+      "genre": "article",
+      "title": "The races of the citrine canary flycatcher, Culidcapa helianthea",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "215",
+      "epage": "219",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642208",
+      "created": "2011-07-31 04:12:39",
+      "updated": "2011-07-31 04:12:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1062",
+          "lastname": "Parkes",
+          "forename": "K C"
+        }
+      ],
+      "bhl_pages": [
+        34642208,
+        34642209,
+        34642210,
+        34642211,
+        34642212
+      ]
+    },
+    {
+      "reference_id": "69125",
+      "genre": "article",
+      "title": "Notes on and a key to the species of Cinara (Family Aphidae) which have Abies sp. as host",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "221",
+      "epage": "233",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642214",
+      "created": "2011-06-01 08:22:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46179",
+          "lastname": "",
+          "forename": "Hottes"
+        }
+      ],
+      "bhl_pages": [
+        34642214,
+        34642215,
+        34642216,
+        34642217,
+        34642218,
+        34642219,
+        34642220,
+        34642221,
+        34642222,
+        34642223,
+        34642224,
+        34642225,
+        34642226
+      ]
+    },
+    {
+      "reference_id": "81489",
+      "genre": "article",
+      "title": "New synonymies and generic changes in the Lygaeidae (Hemiptera-Heteroptera)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "235",
+      "epage": "238",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642228",
+      "created": "2011-07-31 02:16:37",
+      "updated": "2011-07-31 02:16:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42643",
+          "lastname": "Ashlock",
+          "forename": "P D"
+        }
+      ],
+      "bhl_pages": [
+        34642228,
+        34642229,
+        34642230,
+        34642231
+      ]
+    },
+    {
+      "reference_id": "69057",
+      "genre": "article",
+      "title": "Five new western geophilid chilopods",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "239",
+      "epage": "244",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642232",
+      "created": "2011-06-01 08:20:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46178",
+          "lastname": "R.v.",
+          "forename": "Chamberlin"
+        }
+      ],
+      "bhl_pages": [
+        34642232,
+        34642233,
+        34642234,
+        34642235,
+        34642236,
+        34642237
+      ]
+    },
+    {
+      "reference_id": "83398",
+      "genre": "article",
+      "title": "Xyridaceae from Brazil~II",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "245",
+      "epage": "260",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642238",
+      "created": "2011-07-31 04:46:21",
+      "updated": "2011-07-31 04:46:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43244",
+          "lastname": "Smith",
+          "forename": "L B"
+        },
+        {
+          "id": "51081",
+          "lastname": "Downs",
+          "forename": "R J"
+        }
+      ],
+      "bhl_pages": [
+        34642238,
+        34642239,
+        34642240,
+        34642241,
+        34642242,
+        34642243,
+        34642244,
+        34642245,
+        34642246,
+        34642247,
+        34642248,
+        34642249,
+        34642250,
+        34642251,
+        34642252,
+        34642253
+      ]
+    },
+    {
+      "reference_id": "83399",
+      "genre": "article",
+      "title": "Japygidae of North America 7. A new genus in the Provalljapyginae from Missouri",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "261",
+      "epage": "266",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642254",
+      "created": "2011-07-31 04:46:24",
+      "updated": "2011-07-31 04:46:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43533",
+          "lastname": "Smith",
+          "forename": "L M"
+        }
+      ],
+      "bhl_pages": [
+        34642254,
+        34642255,
+        34642256,
+        34642257,
+        34642258,
+        34642259
+      ]
+    },
+    {
+      "reference_id": "82614",
+      "genre": "article",
+      "title": "A new subspecies of the cliff chipmunk from central Chihuahua",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "267",
+      "epage": "273",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642260",
+      "created": "2011-07-31 03:33:07",
+      "updated": "2011-07-31 03:33:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2156",
+          "lastname": "Lidicker",
+          "forename": "W Z"
+        }
+      ],
+      "bhl_pages": [
+        34642260,
+        34642261,
+        34642262,
+        34642263,
+        34642264,
+        34642265,
+        34642266
+      ]
+    },
+    {
+      "reference_id": "81781",
+      "genre": "article",
+      "title": "Millipeds collected in Guatemalan caves, including Calymmodesmus inquinatus, n. sp. (Stylodesmidae: Polydesmida)",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "73",
+      "spage": "275",
+      "epage": "279",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642268",
+      "created": "2011-07-31 02:34:36",
+      "updated": "2011-07-31 02:34:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47328",
+          "lastname": "Causey",
+          "forename": "N B"
+        }
+      ],
+      "bhl_pages": [
+        34642268,
+        34642269,
+        34642270,
+        34642271,
+        34642272
+      ]
+    },
+    {
+      "reference_id": "67172",
+      "genre": "article",
+      "title": "Garmannia saucra, a new gobiid fish from Jamaica",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "73",
+      "spage": "281",
+      "epage": "286",
+      "year": "1960",
+      "date": "1960-00-00",
+      "issn": "0006-324X",
+      "PageID": "34642274",
+      "created": "2011-05-19 09:51:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "26399",
+          "lastname": "Robins",
+          "forename": "C Richard"
+        }
+      ],
+      "bhl_pages": [
+        34642274,
+        34642275,
+        34642276,
+        34642277,
+        34642278,
+        34642279
+      ]
+    }
+  ]
+}

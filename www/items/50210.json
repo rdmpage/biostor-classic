@@ -1,0 +1,35 @@
+{
+  "ItemID": "50210",
+  "FullTitle": "Monthly microscopical journal: transactions of the Royal Microscopical Society, and record of histological research at home and abroad. ",
+  "VolumeInfo": "v.4 1870",
+  "articles": [
+    {
+      "reference_id": "72500",
+      "genre": "article",
+      "title": "On a New Anchoring Sponge, Dorvillia agariciformis",
+      "secondary_title": "Monthly Microscopical Journal",
+      "volume": "4",
+      "spage": "293",
+      "epage": "295",
+      "year": "1870",
+      "date": "1870-00-00",
+      "oclc": "1642443",
+      "PageID": "14335217",
+      "created": "2011-06-04 02:15:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42874",
+          "lastname": "Kent",
+          "forename": "W Saville"
+        }
+      ],
+      "bhl_pages": [
+        14335217,
+        14335218,
+        14335219
+      ]
+    }
+  ]
+}

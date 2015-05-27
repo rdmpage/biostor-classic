@@ -1,0 +1,80 @@
+{
+  "ItemID": "47782",
+  "FullTitle": "Verhandlungen der Kaiserlich-K\u00f6niglichen Zoologisch-Botanischen Gesellschaft in Wien.  ",
+  "VolumeInfo": "Bd. 61 (1911)",
+  "articles": [
+    {
+      "reference_id": "58424",
+      "genre": "article",
+      "title": "Descriptiones Conocephalidarum novarum",
+      "secondary_title": "Verhandlungen der Kaiserlich-K\u00f6niglichen Zoologisch-Botanischen Gesellschaft in Wien",
+      "volume": "61",
+      "spage": "334",
+      "epage": "347",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "5759771",
+      "PageID": "13333821",
+      "created": "2010-11-20 21:03:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39470",
+          "lastname": "Karny",
+          "forename": "H H"
+        }
+      ],
+      "bhl_pages": [
+        13333821,
+        13333822,
+        13333823,
+        13333824,
+        13333825,
+        13333826,
+        13333827,
+        13333828,
+        13333829,
+        13333830,
+        13333831,
+        13333832,
+        13333833,
+        13333834
+      ]
+    },
+    {
+      "reference_id": "51751",
+      "genre": "article",
+      "title": "Ueber die Synonymie und die richtigen Namen mehrerer europ\u00e4ishcher Amphibien",
+      "secondary_title": "Verhandlungen des Zoologisch-Botanischen Vereins in Wien",
+      "volume": "61",
+      "spage": "399",
+      "epage": "407",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "64144436",
+      "PageID": "13333890",
+      "created": "2010-06-27 04:34:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40240",
+          "lastname": "Poche",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        13333890,
+        13333891,
+        13333892,
+        13333893,
+        13333894,
+        13333895,
+        13333896,
+        13333897,
+        13333898
+      ]
+    }
+  ]
+}

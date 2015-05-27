@@ -1,0 +1,38 @@
+{
+  "ItemID": "33084",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.7 (1946)",
+  "articles": [
+    {
+      "reference_id": "70816",
+      "genre": "article",
+      "title": "Aphids from Mount Timpanogos, Utah Part 2",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "7",
+      "spage": "1",
+      "epage": "6",
+      "year": "1946",
+      "date": "1946-00-00",
+      "issn": "0017-3614",
+      "PageID": "7801228",
+      "created": "2011-06-03 07:12:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45351",
+          "lastname": "",
+          "forename": "Knowlton"
+        }
+      ],
+      "bhl_pages": [
+        7801228,
+        7801227,
+        7801226,
+        7801225,
+        7801224,
+        7801223
+      ]
+    }
+  ]
+}

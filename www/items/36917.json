@@ -1,0 +1,36 @@
+{
+  "ItemID": "36917",
+  "FullTitle": "The Victorian naturalist.",
+  "VolumeInfo": "v.12, 1895-1896",
+  "articles": [
+    {
+      "reference_id": "61244",
+      "genre": "article",
+      "title": "A catalogue of Victorian Heterocera. Part xix",
+      "secondary_title": "Victorian Naturalist",
+      "volume": "12",
+      "spage": "149",
+      "epage": "152",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0042-5184",
+      "PageID": "9433979",
+      "created": "2011-01-10 16:31:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40959",
+          "lastname": "Lower",
+          "forename": "O B"
+        }
+      ],
+      "bhl_pages": [
+        9433979,
+        9433980,
+        9433981,
+        9433982
+      ]
+    }
+  ]
+}

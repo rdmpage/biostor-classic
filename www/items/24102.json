@@ -1,0 +1,35 @@
+{
+  "ItemID": "24102",
+  "FullTitle": "Proceedings of the California Academy of Sciences.",
+  "VolumeInfo": "v. 2 (1858-1862)",
+  "articles": [
+    {
+      "reference_id": "70097",
+      "genre": "article",
+      "title": "Description of two new species of Cephalopods in the Museum of the California Academy of Natural Sciences",
+      "secondary_title": "Proceedings of the California Academy of Natural Sciences",
+      "volume": "2",
+      "spage": "170",
+      "epage": "172",
+      "year": "1862",
+      "date": "1862-00-00",
+      "oclc": "2302260",
+      "PageID": "3837094",
+      "created": "2011-06-02 15:38:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46473",
+          "lastname": "Gabb",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        3837094,
+        3837095,
+        3837096
+      ]
+    }
+  ]
+}

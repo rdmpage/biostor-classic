@@ -1,0 +1,80 @@
+{
+  "author": [
+    {
+      "firstname": "Alan W",
+      "lastname": "Meerow",
+      "name": "Alan W Meerow"
+    }
+  ],
+  "type": "article",
+  "title": "Systematics of the Amazon Lilies, Eucharis and Caliphruria (Amaryllidaceae)",
+  "journal": {
+    "name": "Annals of the Missouri Botanical Garden",
+    "volume": "76",
+    "pages": "136--220",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0026-6493"
+      }
+    ]
+  },
+  "year": "1989",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/12706"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/548164"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 12706
+    },
+    {
+      "type": "bhl",
+      "id": 548164
+    },
+    {
+      "type": "doi",
+      "id": "10.2307\/2399347"
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -75.416666666667,
+        -0.95
+      ],
+      [
+        -76.333333333333,
+        -6.5
+      ],
+      [
+        -79.033333333333,
+        0.083333333333333
+      ],
+      [
+        -70.25,
+        -7.5
+      ],
+      [
+        -74.5,
+        -5.0333333333333
+      ],
+      [
+        -76.45,
+        -8.15
+      ],
+      [
+        -77.2,
+        4.25
+      ]
+    ]
+  }
+}

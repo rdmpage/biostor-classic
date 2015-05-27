@@ -1,0 +1,35 @@
+{
+  "ItemID": "7989",
+  "FullTitle": "Bulletin of the Torrey Botanical Club.",
+  "VolumeInfo": "v.10-12 (1883-1885)",
+  "articles": [
+    {
+      "reference_id": "14505",
+      "genre": "article",
+      "title": "New western plants",
+      "secondary_title": "Bull. Torrey Bot. Club",
+      "volume": "10",
+      "spage": "125",
+      "epage": "127",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0040-9618",
+      "PageID": "649986",
+      "created": "2010-01-16 16:44:52",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10263",
+          "lastname": "Greene",
+          "forename": "Edward Lee"
+        }
+      ],
+      "bhl_pages": [
+        649986,
+        649987,
+        649988
+      ]
+    }
+  ]
+}

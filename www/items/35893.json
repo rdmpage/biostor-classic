@@ -1,0 +1,154 @@
+{
+  "ItemID": "35893",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 48 = 2nd ser. v. 23 1912",
+  "articles": [
+    {
+      "reference_id": "73510",
+      "genre": "article",
+      "title": "Telmatoscopus rothschildii, a new species of psychodid Diptera found in London",
+      "secondary_title": "Ent. Mon. Mag",
+      "volume": "48",
+      "spage": "7",
+      "epage": "9",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8908",
+      "PageID": "8960471",
+      "created": "2011-06-04 08:52:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39949",
+          "lastname": "Eaton",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        8960471,
+        8960472,
+        8960473
+      ]
+    },
+    {
+      "reference_id": "53217",
+      "genre": "article",
+      "title": "Another hundred new British species of Diptera",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "48",
+      "spage": "20",
+      "epage": "27",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8960484",
+      "created": "2010-10-26 17:13:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39912",
+          "lastname": "Verrall",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        8960484,
+        8960485,
+        8960486,
+        8960487,
+        8960488,
+        8960489,
+        8960490,
+        8960491
+      ]
+    },
+    {
+      "reference_id": "73652",
+      "genre": "article",
+      "title": "Three new species of the \"albimana\" group of the genus Heteroneura (Diptera)",
+      "secondary_title": "Ent. Mon. Mag",
+      "volume": "48",
+      "spage": "106",
+      "epage": "108",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8908",
+      "PageID": "8960598",
+      "created": "2011-06-04 09:31:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39852",
+          "lastname": "Collin",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        8960598,
+        8960599,
+        8960600
+      ]
+    },
+    {
+      "reference_id": "53209",
+      "genre": "article",
+      "title": "A new British tipulid",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "48",
+      "spage": "133",
+      "epage": "136",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8960629",
+      "created": "2010-10-26 17:10:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40784",
+          "lastname": "Bergroth",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        8960629,
+        8960630,
+        8960631,
+        8960632
+      ]
+    },
+    {
+      "reference_id": "73782",
+      "genre": "article",
+      "title": "Two Diptera (Cecidomyiidae) new to Britian",
+      "secondary_title": "Ent. mon. Mag",
+      "volume": "48",
+      "spage": "136",
+      "epage": "137",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-8908",
+      "PageID": "8960632",
+      "created": "2011-06-04 09:47:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        8960632,
+        8960633
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "ItemID": "34826",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 26 (1913-1914)",
+  "articles": [
+    {
+      "reference_id": "58596",
+      "genre": "article",
+      "title": "Additions to the Catalogue of Marine Shells of Victoria",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "26",
+      "spage": "71",
+      "epage": "87",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0035-9211",
+      "PageID": "8511096",
+      "created": "2010-11-20 22:03:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42096",
+          "lastname": "Gatliff",
+          "forename": "J H"
+        },
+        {
+          "id": "42305",
+          "lastname": "Gabriel",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        8511096,
+        8511097,
+        8511098,
+        8511099,
+        8511100,
+        8511101,
+        8511102,
+        8511103,
+        8511104,
+        8511105,
+        8511106,
+        8511107,
+        8511108,
+        8511109,
+        8511110,
+        8511111,
+        8511112
+      ]
+    },
+    {
+      "reference_id": "65475",
+      "genre": "article",
+      "title": "On Australian and Tasmanian Coleoptera with descriptions of new species. Part II",
+      "secondary_title": "Proceedings of The Royal Society of Victoria",
+      "volume": "26",
+      "spage": "211",
+      "epage": "227",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0035-9211",
+      "PageID": "8511264",
+      "created": "2011-03-22 23:38:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40955",
+          "lastname": "Lea",
+          "forename": "A M"
+        }
+      ],
+      "bhl_pages": [
+        8511264,
+        8511265,
+        8511266,
+        8511267,
+        8511268,
+        8511269,
+        8511270,
+        8511271,
+        8511272,
+        8511273,
+        8511274,
+        8511275,
+        8511276,
+        8511277,
+        8511278,
+        8511279,
+        8511280
+      ]
+    }
+  ]
+}

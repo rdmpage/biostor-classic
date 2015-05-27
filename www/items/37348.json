@@ -1,0 +1,135 @@
+{
+  "ItemID": "37348",
+  "FullTitle": "Notes from the Leyden Museum.",
+  "VolumeInfo": "v.14 (1892)",
+  "articles": [
+    {
+      "reference_id": "70437",
+      "genre": "article",
+      "title": "On Taeniodera quadrilineata and some allied species",
+      "secondary_title": "Notes from the Leyden Museum. Leiden",
+      "volume": "14",
+      "spage": "55",
+      "epage": "60",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "25797076",
+      "PageID": "9643072",
+      "created": "2011-06-03 06:35:15",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46541",
+          "lastname": "O.e.",
+          "forename": "Janson"
+        }
+      ],
+      "bhl_pages": [
+        9643072,
+        9643073,
+        9643074,
+        9643075,
+        9643076,
+        9643077
+      ]
+    },
+    {
+      "reference_id": "98244",
+      "genre": "article",
+      "title": "On a Collection of Birds from the Islands of Flores, Sumba, aud Rotti",
+      "secondary_title": "Notes From The Leyden Museum",
+      "volume": "14",
+      "spage": "193",
+      "epage": "206",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "25797076",
+      "PageID": "9643210",
+      "created": "2011-11-22 08:48:39",
+      "updated": "2011-11-22 08:48:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9643210,
+        9643211,
+        9643212,
+        9643213,
+        9643214,
+        9643215,
+        9643216,
+        9643217,
+        9643218,
+        9643219,
+        9643220,
+        9643221,
+        9643222,
+        9643223
+      ]
+    },
+    {
+      "reference_id": "70349",
+      "genre": "article",
+      "title": "Three new species of the longicorn genus Pachyteria",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "14",
+      "spage": "213",
+      "epage": "220",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "25797076",
+      "PageID": "9643230",
+      "created": "2011-06-03 06:31:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9643230,
+        9643231,
+        9643232,
+        9643233,
+        9643234,
+        9643235,
+        9643236,
+        9643237
+      ]
+    },
+    {
+      "reference_id": "70350",
+      "genre": "article",
+      "title": "Two new species of the longicorn genus Glenea",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "14",
+      "spage": "221",
+      "epage": "224",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "25797076",
+      "PageID": "9643238",
+      "created": "2011-06-03 06:31:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9643238,
+        9643239,
+        9643240,
+        9643241
+      ]
+    }
+  ]
+}

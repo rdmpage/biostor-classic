@@ -1,0 +1,847 @@
+{
+  "ItemID": "44204",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 37-38 1918-21",
+  "articles": [
+    {
+      "reference_id": "97082",
+      "genre": "article",
+      "title": "Eine neue Mycetophila aus \u00d6sterr.-Schlesien",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "34",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110634",
+      "created": "2011-10-11 18:01:51",
+      "updated": "2011-10-11 18:01:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53206",
+          "lastname": "Landrock",
+          "forename": "Karl"
+        }
+      ],
+      "bhl_pages": [
+        12110634
+      ]
+    },
+    {
+      "reference_id": "97083",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Arten des Genus Cryptocephalus GEOFFR",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "35",
+      "epage": "52",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110635",
+      "created": "2011-10-11 18:01:59",
+      "updated": "2011-10-11 18:01:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53208",
+          "lastname": "Breit",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12110635,
+        12110636,
+        12110660,
+        12110661,
+        12110662,
+        12110663,
+        12110664,
+        12110665,
+        12110666,
+        12110667,
+        12110668,
+        12110669,
+        12110670,
+        12110671,
+        12110672,
+        12110673,
+        12110674,
+        12110675
+      ]
+    },
+    {
+      "reference_id": "97084",
+      "genre": "article",
+      "title": "Tabellen zum Bestimmen europ\u00e4ischer Pilzm\u00fccken",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "55",
+      "epage": "72",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110678",
+      "created": "2011-10-11 18:02:05",
+      "updated": "2011-10-11 18:02:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53206",
+          "lastname": "Landrock",
+          "forename": "Karl"
+        }
+      ],
+      "bhl_pages": [
+        12110678,
+        12110679,
+        12110680,
+        12110681,
+        12110682,
+        12110683,
+        12110684,
+        12110685,
+        12110686,
+        12110687,
+        12110688,
+        12110689,
+        12110690,
+        12110691,
+        12110692,
+        12110693,
+        12110694,
+        12110695
+      ]
+    },
+    {
+      "reference_id": "97085",
+      "genre": "article",
+      "title": "\u00dcber die Gattungen der pal\u00e4arktischen Pselaphini s.str",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "73",
+      "epage": "75",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110696",
+      "created": "2011-10-11 18:02:17",
+      "updated": "2011-10-11 18:02:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12110696,
+        12110697,
+        12110698
+      ]
+    },
+    {
+      "reference_id": "97086",
+      "genre": "article",
+      "title": "Neue Aberrationen m\u00e4hrischer Coleopteren",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "76",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110699",
+      "created": "2011-10-11 18:02:33",
+      "updated": "2011-10-11 18:02:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12110699
+      ]
+    },
+    {
+      "reference_id": "72300",
+      "genre": "article",
+      "title": "Eine neue Lamellicornien-Gattung aus Sizilien",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "77",
+      "epage": "78",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1769860",
+      "PageID": "12110700",
+      "created": "2011-06-04 01:09:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12110700,
+        12110701
+      ]
+    },
+    {
+      "reference_id": "97087",
+      "genre": "article",
+      "title": "Eine neue Aberration der Coptocephala scopolina LIN. (Col. Chrysom.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "106",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110733",
+      "created": "2011-10-11 18:02:41",
+      "updated": "2011-10-11 18:02:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12110733
+      ]
+    },
+    {
+      "reference_id": "97088",
+      "genre": "article",
+      "title": "Tabellen zum Bestimmen europ\u00e4ischer Pilzm\u00fccken",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "107",
+      "epage": "120",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110734",
+      "created": "2011-10-11 18:03:23",
+      "updated": "2011-10-11 18:03:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53206",
+          "lastname": "Landrock",
+          "forename": "Karl"
+        }
+      ],
+      "bhl_pages": [
+        12110734,
+        12110735,
+        12110736,
+        12110737,
+        12110738,
+        12110739,
+        12110740,
+        12110741,
+        12110742,
+        12110743,
+        12110744,
+        12110745,
+        12110746,
+        12110747
+      ]
+    },
+    {
+      "reference_id": "97089",
+      "genre": "article",
+      "title": "Die Nichteignung des Priorit\u00e4tsprinzips zur Stabilisierung der Nomenklatur. - Das Kontinuit\u00e4tsprinzip in der Tier- und das Utilit\u00e4tsprinzip in der Autornennung",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "129",
+      "epage": "147",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110756",
+      "created": "2011-10-11 18:03:34",
+      "updated": "2011-10-11 18:03:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53210",
+          "lastname": "Heikertinger",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        12110756,
+        12110757,
+        12110758,
+        12110759,
+        12110760,
+        12110761,
+        12110762,
+        12110763,
+        12110764,
+        12110765,
+        12110766,
+        12110767,
+        12110768,
+        12110769,
+        12110770,
+        12110771,
+        12110772,
+        12110773,
+        12110774
+      ]
+    },
+    {
+      "reference_id": "97090",
+      "genre": "article",
+      "title": "Dritter Beitrag \u00fcber massenhaftes Insektenvorkommen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "149",
+      "epage": "153",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110776",
+      "created": "2011-10-11 18:03:43",
+      "updated": "2011-10-11 18:03:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53150",
+          "lastname": "Meyer",
+          "forename": "Paul"
+        }
+      ],
+      "bhl_pages": [
+        12110776,
+        12110777,
+        12110778,
+        12110779,
+        12110780
+      ]
+    },
+    {
+      "reference_id": "97091",
+      "genre": "article",
+      "title": "Vier neue Coleopteren aus Albanien",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "153",
+      "epage": "155",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110780",
+      "created": "2011-10-11 18:03:51",
+      "updated": "2011-10-11 18:03:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12110780,
+        12110781,
+        12110782
+      ]
+    },
+    {
+      "reference_id": "97092",
+      "genre": "article",
+      "title": "Zwei neue Cephenniumarten aus der Herzegowina",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "157",
+      "epage": "158",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110784",
+      "created": "2011-10-11 18:03:59",
+      "updated": "2011-10-11 18:03:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12110784,
+        12110785
+      ]
+    },
+    {
+      "reference_id": "97093",
+      "genre": "article",
+      "title": "\u00dcber Ceuthmonocharis Robici GGLB. und Freyeri L. MILL. (Coleopt. Silphidae)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "197",
+      "epage": "199",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110828",
+      "created": "2011-10-11 18:04:14",
+      "updated": "2011-10-11 18:04:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53158",
+          "lastname": "M\u00fcller",
+          "forename": "Josef (Giuseppe)"
+        }
+      ],
+      "bhl_pages": [
+        12110828,
+        12110829,
+        12110830
+      ]
+    },
+    {
+      "reference_id": "97094",
+      "genre": "article",
+      "title": "Eine neue Pedilusart (Col. Pyrochroidae)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "200",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110831",
+      "created": "2011-10-11 18:04:20",
+      "updated": "2011-10-11 18:04:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53084",
+          "lastname": "Fleischer",
+          "forename": "Antonin"
+        }
+      ],
+      "bhl_pages": [
+        12110831
+      ]
+    },
+    {
+      "reference_id": "97095",
+      "genre": "article",
+      "title": "Die Larve von Hapalothrix lugubris LW. (Dipt. Blepharoc.). Tafel III",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "201",
+      "epage": "206",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110832",
+      "created": "2011-10-11 18:04:25",
+      "updated": "2011-10-11 18:04:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53174",
+          "lastname": "Hetschko",
+          "forename": "Alfred"
+        }
+      ],
+      "bhl_pages": [
+        12110832,
+        12110833,
+        12110834,
+        12110835,
+        12110836,
+        12110837
+      ]
+    },
+    {
+      "reference_id": "97096",
+      "genre": "article",
+      "title": "Eine verschollene und eine neue Reduviiden-Gattung aus Madagaskar",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "207",
+      "epage": "211",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110840",
+      "created": "2011-10-11 18:04:29",
+      "updated": "2011-10-11 18:04:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53105",
+          "lastname": "Bergroth",
+          "forename": "Ernst Ewald"
+        }
+      ],
+      "bhl_pages": [
+        12110840,
+        12110841,
+        12110842,
+        12110843,
+        12110844
+      ]
+    },
+    {
+      "reference_id": "97097",
+      "genre": "article",
+      "title": "Ameisen und Psylliden",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "37",
+      "spage": "212",
+      "epage": "213",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110845",
+      "created": "2011-10-11 18:04:34",
+      "updated": "2011-10-11 18:04:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53174",
+          "lastname": "Hetschko",
+          "forename": "Alfred"
+        }
+      ],
+      "bhl_pages": [
+        12110845,
+        12110846
+      ]
+    },
+    {
+      "reference_id": "97098",
+      "genre": "article",
+      "title": "Nachtrag zum Verzeichnis der Schriften von Edmund REITTER",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "17",
+      "epage": "20",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110878",
+      "created": "2011-10-11 18:04:39",
+      "updated": "2011-10-11 18:04:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53174",
+          "lastname": "Hetschko",
+          "forename": "Alfred"
+        }
+      ],
+      "bhl_pages": [
+        12110878,
+        12110879,
+        12110880,
+        12110881
+      ]
+    },
+    {
+      "reference_id": "97099",
+      "genre": "article",
+      "title": "Neue Staphyliniden aus Mittelamerika",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "44",
+      "epage": "47",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110905",
+      "created": "2011-10-11 18:04:44",
+      "updated": "2011-10-11 18:04:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53020",
+          "lastname": "Bernhauer",
+          "forename": "Max"
+        }
+      ],
+      "bhl_pages": [
+        12110905,
+        12110906,
+        12110907,
+        12110908
+      ]
+    },
+    {
+      "reference_id": "97100",
+      "genre": "article",
+      "title": "Einige neue orientalische Braconiden",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "57",
+      "epage": "59",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110918",
+      "created": "2011-10-11 18:04:50",
+      "updated": "2011-10-11 18:04:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        12110918,
+        12110919,
+        12110920
+      ]
+    },
+    {
+      "reference_id": "97101",
+      "genre": "article",
+      "title": "Einige neue Sepsiden. (Dipt.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "60",
+      "epage": "61",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110921",
+      "created": "2011-10-11 18:04:56",
+      "updated": "2011-10-11 18:04:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        12110921,
+        12110922
+      ]
+    },
+    {
+      "reference_id": "97102",
+      "genre": "article",
+      "title": "Eine neue Art der Gattung Abidama (Cerop.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "100",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110965",
+      "created": "2011-10-11 18:05:04",
+      "updated": "2011-10-11 18:05:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53153",
+          "lastname": "Melichar",
+          "forename": "Leopold"
+        }
+      ],
+      "bhl_pages": [
+        12110965
+      ]
+    },
+    {
+      "reference_id": "97103",
+      "genre": "article",
+      "title": "Neue Staphyliniden aus S\u00fcdamerika, besonders aus Argentinien. (26. Beitrag)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "101",
+      "epage": "108",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110966",
+      "created": "2011-10-11 18:05:14",
+      "updated": "2011-10-11 18:05:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53020",
+          "lastname": "Bernhauer",
+          "forename": "Max"
+        }
+      ],
+      "bhl_pages": [
+        12110966,
+        12110967,
+        12110968,
+        12110969,
+        12110970,
+        12110971,
+        12110972,
+        12110973
+      ]
+    },
+    {
+      "reference_id": "97104",
+      "genre": "article",
+      "title": "Neue europ\u00e4ische Thysanopteren",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "115",
+      "epage": "122",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110980",
+      "created": "2011-10-11 18:05:19",
+      "updated": "2011-10-11 18:05:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53228",
+          "lastname": "Priesner",
+          "forename": "Hermann"
+        }
+      ],
+      "bhl_pages": [
+        12110980,
+        12110981,
+        12110982,
+        12110983,
+        12110984,
+        12110985,
+        12110986,
+        12110987
+      ]
+    },
+    {
+      "reference_id": "97105",
+      "genre": "article",
+      "title": "Ueber neue und bekannte Carabiden",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "133",
+      "epage": "141",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12110998",
+      "created": "2011-10-11 18:05:26",
+      "updated": "2011-10-11 18:05:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53158",
+          "lastname": "M\u00fcller",
+          "forename": "Josef (Giuseppe)"
+        }
+      ],
+      "bhl_pages": [
+        12110998,
+        12110999,
+        12111000,
+        12111001,
+        12111002,
+        12111003,
+        12111004,
+        12111005,
+        12111006
+      ]
+    },
+    {
+      "reference_id": "97106",
+      "genre": "article",
+      "title": "Die ostadriatischen Formen von Cantharis obscura L",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "143",
+      "epage": "144",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12111008",
+      "created": "2011-10-11 18:05:43",
+      "updated": "2011-10-11 18:05:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53204",
+          "lastname": "Depoli",
+          "forename": "Guido"
+        }
+      ],
+      "bhl_pages": [
+        12111008,
+        12111009
+      ]
+    },
+    {
+      "reference_id": "97107",
+      "genre": "article",
+      "title": "Bemerkungen zu den Curculioniden-Gattungen Microlarinus HOCHH. und Cylindropterus CHEVR",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "168",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12111037",
+      "created": "2011-10-11 18:05:51",
+      "updated": "2011-10-11 18:05:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12111037
+      ]
+    },
+    {
+      "reference_id": "97108",
+      "genre": "article",
+      "title": "Notiz \u00fcber Plectophloeus REITT. (Col. Pselaph.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "38",
+      "spage": "180",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "1562-0891",
+      "PageID": "12111049",
+      "created": "2011-10-11 18:06:03",
+      "updated": "2011-10-11 18:06:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12111049
+      ]
+    }
+  ]
+}

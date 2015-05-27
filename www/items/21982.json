@@ -1,0 +1,129 @@
+{
+  "ItemID": "21982",
+  "FullTitle": "University of Kansas publications, Museum of Natural History.",
+  "VolumeInfo": "v.7:no.2-15 (1953-1955)",
+  "articles": [
+    {
+      "reference_id": "100154",
+      "genre": "article",
+      "title": "A new sub-species of bat (Myotis velifer) from Southeastern California and Arizona",
+      "secondary_title": "Publications of the Museum of Natural History University of Kansas",
+      "volume": "7",
+      "issue": "8",
+      "spage": "507",
+      "epage": "512",
+      "year": "1954",
+      "date": "1954-07-23",
+      "issn": "0075-5036",
+      "PageID": "2992941",
+      "created": "2012-01-02 08:52:31",
+      "updated": "2012-01-02 08:53:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53396",
+          "lastname": "Vaughan",
+          "forename": "Terry A"
+        }
+      ],
+      "bhl_pages": [
+        2992941,
+        2992942,
+        2992943,
+        2992944,
+        2992945,
+        2992946
+      ]
+    },
+    {
+      "reference_id": "100153",
+      "genre": "article",
+      "title": "A new bat (genus Pipistrellus) from Northeastern Mexico",
+      "secondary_title": "Publications of the Museum of Natural History University of Kansas",
+      "volume": "7",
+      "issue": "10",
+      "spage": "583",
+      "epage": "586",
+      "year": "1954",
+      "date": "1954-11-15",
+      "issn": "0075-5036",
+      "PageID": "2993029",
+      "created": "2012-01-02 08:50:43",
+      "updated": "2012-01-02 08:51:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53395",
+          "lastname": "Baker",
+          "forename": "Rollin H"
+        }
+      ],
+      "bhl_pages": [
+        2993029,
+        2993030,
+        2993031,
+        2993032
+      ]
+    },
+    {
+      "reference_id": "100155",
+      "genre": "article",
+      "title": "A new subspecies of pocket mouse from Kansas",
+      "secondary_title": "Publications of the Museum of Natural History University of Kansas",
+      "volume": "7",
+      "issue": "11",
+      "spage": "587",
+      "epage": "590",
+      "year": "1954",
+      "date": "1954-11-15",
+      "issn": "0075-5036",
+      "PageID": "2993033",
+      "created": "2012-01-02 08:53:23",
+      "updated": "2012-01-02 08:53:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53397",
+          "lastname": "Hall",
+          "forename": "K Raymond"
+        }
+      ],
+      "bhl_pages": [
+        2993033,
+        2993034,
+        2993035,
+        2993036
+      ]
+    },
+    {
+      "reference_id": "100156",
+      "genre": "article",
+      "title": "A new cottontail (Sylvilagus floridanus) from northeastern Mexico",
+      "secondary_title": "Publications of the Museum of Natural History University of Kansas",
+      "volume": "7",
+      "issue": "13",
+      "spage": "609",
+      "epage": "612",
+      "year": "1955",
+      "date": "1955-04-08",
+      "issn": "0075-5036",
+      "PageID": "2993057",
+      "created": "2012-01-02 08:53:26",
+      "updated": "2012-01-02 08:54:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53395",
+          "lastname": "Baker",
+          "forename": "Rollin H"
+        }
+      ],
+      "bhl_pages": [
+        2993057,
+        2993058,
+        2993059,
+        2993060
+      ]
+    }
+  ]
+}

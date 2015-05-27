@@ -1,0 +1,68 @@
+{
+  "ItemID": "49308",
+  "FullTitle": "Proceedings of the Royal Society of Queensland.",
+  "VolumeInfo": "v.4 1887",
+  "articles": [
+    {
+      "reference_id": "104942",
+      "genre": "article",
+      "title": "On Peripatus and its occurrence in Australia",
+      "secondary_title": "Proceedings of The Royal Society of Queensland",
+      "volume": "4",
+      "spage": "78",
+      "epage": "85",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0080-469X",
+      "PageID": "13925380",
+      "created": "2012-06-29 10:21:49",
+      "updated": "2012-06-29 10:21:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53929",
+          "lastname": "Tryon",
+          "forename": "Henry"
+        }
+      ],
+      "bhl_pages": [
+        13925380,
+        13925381,
+        13925382,
+        13925383,
+        13925384,
+        13925385,
+        13925386,
+        13925387
+      ]
+    },
+    {
+      "reference_id": "59968",
+      "genre": "article",
+      "title": "On a third species of the Australian tree kangaroo",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "4",
+      "spage": "132",
+      "epage": "134",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0080-469X",
+      "PageID": "13925434",
+      "created": "2010-11-22 17:19:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10304",
+          "lastname": "De Vis",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13925434,
+        13925435,
+        13925436
+      ]
+    }
+  ]
+}

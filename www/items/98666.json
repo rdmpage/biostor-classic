@@ -1,0 +1,84 @@
+{
+  "ItemID": "98666",
+  "FullTitle": "Bulletin de la Socie\u0301te\u0301 philomathique de Paris.",
+  "VolumeInfo": "ser. 7, t. 1-2 (1876-78)",
+  "articles": [
+    {
+      "reference_id": "100205",
+      "genre": "article",
+      "title": "Description dun nouveau genre de phaneroglosse hylaeforme (Plectrohyla guatemalensis)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Philomathique",
+      "volume": "1",
+      "series": "7",
+      "spage": "92",
+      "epage": "93",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0366-3515",
+      "PageID": "31629004",
+      "created": "2012-01-12 23:31:59",
+      "updated": "2012-01-12 23:34:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53415",
+          "lastname": "Brocchi",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        31629004,
+        31629005
+      ]
+    },
+    {
+      "reference_id": "100206",
+      "genre": "article",
+      "title": "Sur quelques batraciens raniformes et bufoniformes de lAm\u00e9rique Centrale",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Philomathique de Paris",
+      "volume": "1",
+      "series": "7",
+      "spage": "175",
+      "epage": "197",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0366-3515",
+      "PageID": "31629087",
+      "created": "2012-01-12 23:37:03",
+      "updated": "2012-01-12 23:40:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53415",
+          "lastname": "Brocchi",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        31629087,
+        31629088,
+        31629089,
+        31629090,
+        31629091,
+        31629092,
+        31629093,
+        31629094,
+        31629095,
+        31629096,
+        31629097,
+        31629098,
+        31629099,
+        31629100,
+        31629101,
+        31629102,
+        31629103,
+        31629104,
+        31629105,
+        31629106,
+        31629107,
+        31629108,
+        31629109
+      ]
+    }
+  ]
+}

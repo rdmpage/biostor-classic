@@ -1,0 +1,57 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    },
+    {
+      "firstname": "Patricia A",
+      "lastname": "Burrowes",
+      "name": "Patricia A Burrowes"
+    }
+  ],
+  "type": "article",
+  "title": "New species of frogs, Centrolenella, from the Pacific versant of Ecuador and southern Colombia",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "132",
+    "pages": "1--14",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1989",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/211"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/6462566"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 211
+    },
+    {
+      "type": "bhl",
+      "id": 6462566
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -78.666666666667,
+        -0.11666666666667
+      ]
+    ]
+  }
+}

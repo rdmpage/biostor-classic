@@ -1,0 +1,38 @@
+{
+  "ItemID": "43410",
+  "FullTitle": "Annuario del Museo Zoologico della Universit\u00e0 di Napoli.  ",
+  "VolumeInfo": "nuova ser.:v.1 (1901-1905)",
+  "articles": [
+    {
+      "reference_id": "48929",
+      "genre": "article",
+      "title": "Alcuni distomi della collezione elmintologica del Museo Zoologico di Napoli",
+      "secondary_title": "Annuario del Museo Zoologico della Universit\u00e0 di Napoli",
+      "volume": "1",
+      "spage": "1",
+      "epage": "6",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1758997",
+      "PageID": "11821303",
+      "created": "2010-03-02 11:20:18",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39312",
+          "lastname": "Stossich",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        11821303,
+        11821304,
+        11821305,
+        11821306,
+        11821307,
+        11821308
+      ]
+    }
+  ]
+}

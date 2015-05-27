@@ -1,0 +1,35 @@
+{
+  "ItemID": "52282",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 18 (1870)",
+  "articles": [
+    {
+      "reference_id": "61512",
+      "genre": "article",
+      "title": "Note sur l'habitat exact de deux esp\u00e8ces de coquilles terrestres et de trois esp\u00e8ces de volutes",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "18",
+      "spage": "84",
+      "epage": "86",
+      "year": "1870",
+      "date": "1870-00-00",
+      "oclc": "1605690",
+      "PageID": "15160503",
+      "created": "2011-01-10 21:25:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40387",
+          "lastname": "Brazier",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        15160503,
+        15160504,
+        15160505
+      ]
+    }
+  ]
+}

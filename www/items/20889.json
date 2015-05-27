@@ -1,0 +1,37 @@
+{
+  "ItemID": "20889",
+  "FullTitle": "A new crocodile from the Philippine Islands,  by Karl P. Schmidt.",
+  "VolumeInfo": "v.20:no.8(1935)",
+  "articles": [
+    {
+      "reference_id": "49080",
+      "genre": "article",
+      "title": "A new crocodile from the Philippine Islands",
+      "secondary_title": "Field Museum of Natural History, Zoological Series, Chicago.",
+      "volume": "20",
+      "issue": "8",
+      "spage": "67",
+      "epage": "70",
+      "year": "1935",
+      "date": "1935-00-00",
+      "issn": "0895-0237",
+      "PageID": "2765260",
+      "created": "2010-03-21 11:12:17",
+      "updated": "2011-10-10 14:42:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1081",
+          "lastname": "Schmidt",
+          "forename": "K P"
+        }
+      ],
+      "bhl_pages": [
+        2765260,
+        2765261,
+        2765262,
+        2765263
+      ]
+    }
+  ]
+}

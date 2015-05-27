@@ -1,0 +1,44 @@
+{
+  "ItemID": "19604",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 1 (1849)",
+  "articles": [
+    {
+      "reference_id": "70978",
+      "genre": "article",
+      "title": "Essai sur les Coleopteres de la Polynesie",
+      "secondary_title": "Revue et Magasin de Zoologie pure et appliquee. Paris",
+      "volume": "1",
+      "spage": "410",
+      "epage": "422",
+      "year": "1849",
+      "date": "1849-00-00",
+      "PageID": "2343670",
+      "created": "2011-06-03 17:07:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42963",
+          "lastname": "Fairmaire",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        2343670,
+        2343671,
+        2343672,
+        2343673,
+        2343674,
+        2343675,
+        2343676,
+        2343677,
+        2343678,
+        2343679,
+        2343680,
+        2343681,
+        2343682
+      ]
+    }
+  ]
+}

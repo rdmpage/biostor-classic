@@ -1,0 +1,38 @@
+{
+  "ItemID": "106992",
+  "FullTitle": "The Canadian field-naturalist.",
+  "VolumeInfo": "v.105 (1991)",
+  "articles": [
+    {
+      "reference_id": "65899",
+      "genre": "article",
+      "title": "An incident of wolf, Canis lupus, predation on a river otter, Lutra canadensis, in Minnesota",
+      "secondary_title": "The Canadian Field-Naturalist",
+      "volume": "105",
+      "spage": "567",
+      "epage": "568",
+      "year": "1991",
+      "date": "1991-00-00",
+      "PageID": "34349085",
+      "created": "2011-05-01 13:57:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45069",
+          "lastname": "Route",
+          "forename": "W T"
+        },
+        {
+          "id": "45070",
+          "lastname": "Peterson",
+          "forename": "R O"
+        }
+      ],
+      "bhl_pages": [
+        34349085,
+        34349086
+      ]
+    }
+  ]
+}

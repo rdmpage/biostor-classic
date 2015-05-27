@@ -1,0 +1,116 @@
+{
+  "ItemID": "17791",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 17 (1903-1904)",
+  "articles": [
+    {
+      "reference_id": "57846",
+      "genre": "article",
+      "title": "Notes on Eastern American Ancyli",
+      "secondary_title": "The Nautilus",
+      "volume": "17",
+      "spage": "13",
+      "epage": "19",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0028-1344",
+      "PageID": "1726432",
+      "created": "2010-11-20 15:06:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42174",
+          "lastname": "Walker",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        1726432,
+        1726433,
+        1726434,
+        1726435,
+        1726436,
+        1726437,
+        1726438
+      ]
+    },
+    {
+      "reference_id": "101228",
+      "genre": "article",
+      "title": "Two new species of Eocene Fossils from the Lignitic of Alabama",
+      "secondary_title": "Nautilus",
+      "volume": "17",
+      "spage": "19",
+      "epage": "20",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0028-1344",
+      "PageID": "1726438",
+      "created": "2012-03-12 12:04:57",
+      "updated": "2012-03-12 12:04:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1726438,
+        1726439
+      ]
+    },
+    {
+      "reference_id": "57792",
+      "genre": "article",
+      "title": "A new genus of Trochidae",
+      "secondary_title": "Nautilus",
+      "volume": "17",
+      "spage": "61",
+      "epage": "62",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0028-1344",
+      "PageID": "1726484",
+      "created": "2010-11-20 14:53:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        1726484,
+        1726485
+      ]
+    },
+    {
+      "reference_id": "101227",
+      "genre": "article",
+      "title": "Notes on the Mollusca of the Bermuda Islands",
+      "secondary_title": "Nautilus",
+      "volume": "17",
+      "spage": "125",
+      "epage": "130",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0028-1344",
+      "PageID": "1726550",
+      "created": "2012-03-12 12:04:52",
+      "updated": "2012-03-12 12:04:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1726550,
+        1726551,
+        1726552,
+        1726553,
+        1726554,
+        1726555
+      ]
+    }
+  ]
+}

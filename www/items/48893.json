@@ -1,0 +1,362 @@
+{
+  "ItemID": "48893",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v.5 (1888-1890)",
+  "articles": [
+    {
+      "reference_id": "71130",
+      "genre": "article",
+      "title": "Mimicry in Hemiptera",
+      "secondary_title": "Psyche",
+      "volume": "5",
+      "spage": "27",
+      "epage": "28",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762031",
+      "created": "2011-06-03 17:56:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46258",
+          "lastname": "P.",
+          "forename": "Van Duzee E"
+        }
+      ],
+      "bhl_pages": [
+        13762031,
+        13762032
+      ]
+    },
+    {
+      "reference_id": "104164",
+      "genre": "article",
+      "title": "A new parasite of Hessian fly",
+      "secondary_title": "Psyche",
+      "volume": "5",
+      "spage": "39",
+      "epage": "40",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762043",
+      "created": "2012-06-10 17:55:08",
+      "updated": "2012-06-10 17:55:08",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        13762043,
+        13762044
+      ]
+    },
+    {
+      "reference_id": "73780",
+      "genre": "article",
+      "title": "Hilarimorpha and Apiocera",
+      "secondary_title": "Psyche (Camb)",
+      "volume": "5",
+      "spage": "99",
+      "epage": "102",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762103",
+      "created": "2011-06-04 09:46:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        13762103,
+        13762104,
+        13762105,
+        13762106
+      ]
+    },
+    {
+      "reference_id": "72777",
+      "genre": "article",
+      "title": "Some account of our species of Geotrupes",
+      "secondary_title": "Psyche",
+      "volume": "5",
+      "spage": "103",
+      "epage": "110",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762107",
+      "created": "2011-06-04 04:03:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47088",
+          "lastname": "Blanchard",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        13762107,
+        13762108,
+        13762109,
+        13762110,
+        13762111,
+        13762112,
+        13762113,
+        13762114
+      ]
+    },
+    {
+      "reference_id": "71873",
+      "genre": "article",
+      "title": "Contribution to a knowledge of the autumn life-history of certain little-known Aphididae",
+      "secondary_title": "Psyche",
+      "volume": "5",
+      "spage": "123",
+      "epage": "134",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762127",
+      "created": "2011-06-03 23:27:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46900",
+          "lastname": "",
+          "forename": "Weed"
+        }
+      ],
+      "bhl_pages": [
+        13762127,
+        13762128,
+        13762129,
+        13762130,
+        13762131,
+        13762132,
+        13762133,
+        13762134,
+        13762135,
+        13762136,
+        13762137,
+        13762138
+      ]
+    },
+    {
+      "reference_id": "71913",
+      "genre": "article",
+      "title": "Second contribution to a knowledge of the autumn life-history of certain little known Aphididae",
+      "secondary_title": "Psyche",
+      "volume": "5",
+      "spage": "208",
+      "epage": "210",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762212",
+      "created": "2011-06-03 23:32:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46900",
+          "lastname": "",
+          "forename": "Weed"
+        }
+      ],
+      "bhl_pages": [
+        13762212,
+        13762213,
+        13762214
+      ]
+    },
+    {
+      "reference_id": "72266",
+      "genre": "article",
+      "title": "Notes on the epipharynx, and the epipharyngeal organs of taste in Mandibulate insects",
+      "secondary_title": "Psyche. Cambridge, Massachusetts",
+      "volume": "5",
+      "spage": "222",
+      "epage": "228",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762226",
+      "created": "2011-06-04 00:59:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46997",
+          "lastname": "Packard",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        13762226,
+        13762227,
+        13762228,
+        13762229,
+        13762230,
+        13762231,
+        13762232
+      ]
+    },
+    {
+      "reference_id": "72135",
+      "genre": "article",
+      "title": "Contribution to a list of the Coleoptera of the Lower peninsula of Michigan",
+      "secondary_title": "Psyche. Cambridge, Massachusetts",
+      "volume": "5",
+      "spage": "231",
+      "epage": "235",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762235",
+      "created": "2011-06-04 00:37:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46958",
+          "lastname": "Townsend",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        13762235,
+        13762236,
+        13762237,
+        13762238,
+        13762239
+      ]
+    },
+    {
+      "reference_id": "73290",
+      "genre": "article",
+      "title": "Notes on Asilidae",
+      "secondary_title": "Psyche (Camb)",
+      "volume": "5",
+      "spage": "255",
+      "epage": "259",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762259",
+      "created": "2011-06-04 08:14:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        13762259,
+        13762260,
+        13762261,
+        13762262,
+        13762263
+      ]
+    },
+    {
+      "reference_id": "71880",
+      "genre": "article",
+      "title": "The strawberry root louse (Aphis forbesi N. S.)",
+      "secondary_title": "Psyche",
+      "volume": "5",
+      "spage": "273",
+      "epage": "274",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762277",
+      "created": "2011-06-03 23:28:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46900",
+          "lastname": "",
+          "forename": "Weed"
+        }
+      ],
+      "bhl_pages": [
+        13762277,
+        13762278
+      ]
+    },
+    {
+      "reference_id": "60330",
+      "genre": "article",
+      "title": "The corn delphacid, Delphax maidis",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "5",
+      "spage": "321",
+      "epage": "324",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762325",
+      "created": "2010-11-22 22:55:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        13762325,
+        13762326,
+        13762327,
+        13762328
+      ]
+    },
+    {
+      "reference_id": "71120",
+      "genre": "article",
+      "title": "Synonymy of the Homoptera described by Say, Harris and Fitch",
+      "secondary_title": "Psyche",
+      "volume": "5",
+      "spage": "387",
+      "epage": "391",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0033-2615",
+      "PageID": "13762395",
+      "created": "2011-06-03 17:55:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46258",
+          "lastname": "P.",
+          "forename": "Van Duzee E"
+        }
+      ],
+      "bhl_pages": [
+        13762395,
+        13762396,
+        13762397,
+        13762398,
+        13762399
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "ItemID": "46883",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.58 no.6 1985",
+  "articles": [
+    {
+      "reference_id": "62493",
+      "genre": "article",
+      "title": "Eragrostis mexicana, E. neomexicana, E. orcuttiana, and E. virescens: the resolution of a taxonomic problem",
+      "secondary_title": "Phytologia",
+      "volume": "58",
+      "spage": "377",
+      "epage": "381",
+      "year": "1985",
+      "date": "1985-00-00",
+      "issn": "0031-9430",
+      "PageID": "12992577",
+      "created": "2011-01-26 21:07:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43466",
+          "lastname": "Koch",
+          "forename": "S D"
+        },
+        {
+          "id": "43505",
+          "lastname": "Vega",
+          "forename": "I S\u00e1nchez"
+        }
+      ],
+      "bhl_pages": [
+        12992577,
+        12992578,
+        12992579,
+        12992580,
+        12992581
+      ]
+    },
+    {
+      "reference_id": "63582",
+      "genre": "article",
+      "title": "Additions to the flora of Colorado, U.S.A. XI",
+      "secondary_title": "Phytologia",
+      "volume": "58",
+      "spage": "385",
+      "epage": "388",
+      "year": "1985",
+      "date": "1985-00-00",
+      "issn": "0031-9430",
+      "PageID": "12992585",
+      "created": "2011-01-26 22:05:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43682",
+          "lastname": "Weber",
+          "forename": "W A"
+        },
+        {
+          "id": "43689",
+          "lastname": "Whittman",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12992585,
+        12992586,
+        12992587,
+        12992588
+      ]
+    },
+    {
+      "reference_id": "63223",
+      "genre": "article",
+      "title": "New species and combinations in Belloa (Inuleae-Asteraceae)",
+      "secondary_title": "Phytologia",
+      "volume": "58",
+      "spage": "392",
+      "epage": "400",
+      "year": "1985",
+      "date": "1985-00-00",
+      "issn": "0031-9430",
+      "PageID": "12992592",
+      "created": "2011-01-26 21:48:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43399",
+          "lastname": "Dillon",
+          "forename": "M O"
+        },
+        {
+          "id": "43424",
+          "lastname": "Sag\u00e1stegui-Alva",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        12992592,
+        12992593,
+        12992594,
+        12992595,
+        12992596,
+        12992597,
+        12992598,
+        12992599,
+        12992600
+      ]
+    }
+  ]
+}

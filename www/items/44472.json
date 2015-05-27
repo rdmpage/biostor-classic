@@ -1,0 +1,831 @@
+{
+  "ItemID": "44472",
+  "FullTitle": "The Bulletin of zoological nomenclature.",
+  "VolumeInfo": "Vol 30",
+  "articles": [
+    {
+      "reference_id": "50265",
+      "genre": "article",
+      "title": "Comment on the proposed suppression of Hyla crucialis (Amphibia). Z. N. (S.) 1982",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "4",
+      "epage": "6",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225021",
+      "created": "2010-05-01 07:33:25",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "33192",
+          "lastname": "Crombie",
+          "forename": "Ronald I"
+        }
+      ],
+      "bhl_pages": [
+        12225021,
+        12225022,
+        12225023
+      ]
+    },
+    {
+      "reference_id": "66586",
+      "genre": "article",
+      "title": "Addendum to the porposal that the genus name Teuthis Linnaeus (Pisces) be suppressed",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "6",
+      "epage": "7",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225023",
+      "created": "2011-05-07 19:21:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "31959",
+          "lastname": "Woodland",
+          "forename": "David J"
+        }
+      ],
+      "bhl_pages": [
+        12225023,
+        12225024
+      ]
+    },
+    {
+      "reference_id": "4672",
+      "genre": "article",
+      "title": "Opinion 991",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "13",
+      "epage": "14",
+      "year": "1973",
+      "date": "1973-07-06",
+      "issn": "0007-5167",
+      "PageID": "12225030",
+      "created": "2010-01-02 20:42:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225030,
+        12225031
+      ]
+    },
+    {
+      "reference_id": "4674",
+      "genre": "article",
+      "title": "Opinion 992",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "15",
+      "epage": "16",
+      "year": "1973",
+      "date": "1973-07-06",
+      "issn": "0007-5167",
+      "PageID": "12225032",
+      "created": "2010-01-02 20:42:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225032,
+        12225033
+      ]
+    },
+    {
+      "reference_id": "4676",
+      "genre": "article",
+      "title": "Opinion 993",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "17",
+      "epage": "18",
+      "year": "1973",
+      "date": "1973-07-06",
+      "issn": "0007-5167",
+      "PageID": "12225034",
+      "created": "2010-01-02 20:42:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225034,
+        12225035
+      ]
+    },
+    {
+      "reference_id": "4679",
+      "genre": "article",
+      "title": "Opinion 995",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "21",
+      "epage": "22",
+      "year": "1973",
+      "date": "1973-07-06",
+      "issn": "0007-5167",
+      "PageID": "12225038",
+      "created": "2010-01-02 20:42:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225038,
+        12225039
+      ]
+    },
+    {
+      "reference_id": "4681",
+      "genre": "article",
+      "title": "Opinion 996",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "23",
+      "epage": "24",
+      "year": "1973",
+      "date": "1973-07-06",
+      "issn": "0007-5167",
+      "PageID": "12225040",
+      "created": "2010-01-02 20:42:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225040,
+        12225041
+      ]
+    },
+    {
+      "reference_id": "4683",
+      "genre": "article",
+      "title": "Opinion 997",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "25",
+      "epage": "26",
+      "year": "1973",
+      "date": "1973-07-06",
+      "issn": "0007-5167",
+      "PageID": "12225042",
+      "created": "2010-01-02 20:42:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225042,
+        12225043
+      ]
+    },
+    {
+      "reference_id": "65127",
+      "genre": "article",
+      "title": "Haematopinus eurysternus (Denny, 1842) (Haematopinidae, Anoplura, Insecta): proposed validation under the Plenary Powers",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "42",
+      "epage": "46",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225059",
+      "created": "2011-01-31 14:30:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "30349",
+          "lastname": "Kim",
+          "forename": "Ke Chung"
+        },
+        {
+          "id": "44778",
+          "lastname": "Weisser",
+          "forename": "Christian F"
+        }
+      ],
+      "bhl_pages": [
+        12225059,
+        12225060,
+        12225061,
+        12225062,
+        12225063
+      ]
+    },
+    {
+      "reference_id": "2837",
+      "genre": "article",
+      "title": "Opinion 998. Gryllus Locusta succinctus Linnaeus, 1763 (Insecta, Orthoptera): neotype designated under the plenary powers",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "77",
+      "epage": "79",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225098",
+      "created": "2009-12-23 21:25:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "505",
+          "lastname": "Melville",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        12225098,
+        12225099,
+        12225100
+      ]
+    },
+    {
+      "reference_id": "4686",
+      "genre": "article",
+      "title": "Opinion 999",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "80",
+      "epage": "81",
+      "year": "1973",
+      "date": "1973-10-10",
+      "issn": "0007-5167",
+      "PageID": "12225101",
+      "created": "2010-01-02 20:42:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225101,
+        12225102
+      ]
+    },
+    {
+      "reference_id": "4688",
+      "genre": "article",
+      "title": "Opinion 1000",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "82",
+      "epage": "83",
+      "year": "1973",
+      "date": "1973-10-10",
+      "issn": "0007-5167",
+      "PageID": "12225103",
+      "created": "2010-01-02 20:42:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225103,
+        12225104
+      ]
+    },
+    {
+      "reference_id": "4690",
+      "genre": "article",
+      "title": "Opinion 1001",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "84",
+      "epage": "85",
+      "year": "1973",
+      "date": "1973-10-10",
+      "issn": "0007-5167",
+      "PageID": "12225105",
+      "created": "2010-01-02 20:42:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225105,
+        12225106
+      ]
+    },
+    {
+      "reference_id": "4692",
+      "genre": "article",
+      "title": "Opinion 1002",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "86",
+      "epage": "87",
+      "year": "1973",
+      "date": "1973-10-10",
+      "issn": "0007-5167",
+      "PageID": "12225107",
+      "created": "2010-01-02 20:42:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225107,
+        12225108
+      ]
+    },
+    {
+      "reference_id": "74905",
+      "genre": "article",
+      "title": "Schistodera Cobb, 1920 (Nematoda: Enoplida), A Request For Suppression; Oxystomina Filipjev, 1921 Proposed For The Official List. Z.n.(S.) 2031",
+      "secondary_title": "Bulletin Zool. Nom.",
+      "volume": "30",
+      "spage": "102",
+      "epage": "103.",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225123",
+      "created": "2011-06-10 12:02:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47863",
+          "lastname": "Hope",
+          "forename": "W D"
+        },
+        {
+          "id": "47864",
+          "lastname": "Murphy",
+          "forename": "D G"
+        }
+      ],
+      "bhl_pages": [
+        12225123,
+        12225124
+      ]
+    },
+    {
+      "reference_id": "104151",
+      "genre": "article",
+      "title": "Oscinella Becker, 1909: proposed designation of type-species, under the plenary powers (Diptera, Chloropidae). Z.N.(S.) 2037",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "issue": "2",
+      "spage": "121",
+      "epage": "123",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225142",
+      "created": "2012-06-09 11:37:16",
+      "updated": "2012-06-09 11:38:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "36562",
+          "lastname": "Sabrosky",
+          "forename": "Curtis W"
+        }
+      ],
+      "bhl_pages": [
+        12225142,
+        12225143,
+        12225144
+      ]
+    },
+    {
+      "reference_id": "72460",
+      "genre": "article",
+      "title": "|Leucospis gigas| Fabricius (Insecta, Hymenoptera, Leucospidae) proposed to be placed on the Official List of Specific Names in Zoology. Z.N.(S.) 2038",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "124",
+      "epage": "125",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225145",
+      "created": "2011-06-04 01:57:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "25550",
+          "lastname": "Bou\u010dek",
+          "forename": "Z"
+        }
+      ],
+      "bhl_pages": [
+        12225145,
+        12225146
+      ]
+    },
+    {
+      "reference_id": "11991",
+      "genre": "article",
+      "title": "Madiza Fall\u00e9n, 1810 (Diptera, Milichiidae): Proposed designation of type-species, under the plenary powers Z. N. (S.) 2040",
+      "secondary_title": "Bulletin of zoological nomenclature",
+      "volume": "30",
+      "spage": "126",
+      "epage": "128",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225147",
+      "created": "2010-01-08 16:01:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1137",
+          "lastname": "Sabrosky",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        12225147,
+        12225148,
+        12225149
+      ]
+    },
+    {
+      "reference_id": "101953",
+      "genre": "article",
+      "title": "Comment on the proposal to suppress Hyla crucialis Harlan, 1826 (Amphibia) Z.N.(S.) 1982",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "issue": "3\/4",
+      "spage": "131",
+      "epage": "132",
+      "year": "1974",
+      "date": "1974-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225156",
+      "created": "2012-03-22 13:40:04",
+      "updated": "2012-03-22 13:40:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "30618",
+          "lastname": "Tyler",
+          "forename": "Michael J"
+        }
+      ],
+      "bhl_pages": [
+        12225156,
+        12225157
+      ]
+    },
+    {
+      "reference_id": "4694",
+      "genre": "article",
+      "title": "Opinion 1003",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "142",
+      "epage": "146",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225167",
+      "created": "2010-01-02 20:42:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225167,
+        12225168,
+        12225169,
+        12225170,
+        12225171
+      ]
+    },
+    {
+      "reference_id": "4696",
+      "genre": "article",
+      "title": "Opinion 1004",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "147",
+      "epage": "150",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225172",
+      "created": "2010-01-02 20:42:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225172,
+        12225173,
+        12225174,
+        12225175
+      ]
+    },
+    {
+      "reference_id": "4698",
+      "genre": "article",
+      "title": "Opinion 1005",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "151",
+      "epage": "152",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225176",
+      "created": "2010-01-02 20:42:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225176,
+        12225177
+      ]
+    },
+    {
+      "reference_id": "4700",
+      "genre": "article",
+      "title": "Opinion 1006",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "153",
+      "epage": "154",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225178",
+      "created": "2010-01-02 20:42:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225178,
+        12225179
+      ]
+    },
+    {
+      "reference_id": "4702",
+      "genre": "article",
+      "title": "Opinion 1007",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "155",
+      "epage": "156",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225180",
+      "created": "2010-01-02 20:42:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225180,
+        12225181
+      ]
+    },
+    {
+      "reference_id": "4704",
+      "genre": "article",
+      "title": "Opinion 1008. Siphona Meigen, 1803 and Haematobia Lepeletier and Serville, 1828 (Insecta: Diptera): designations under the Plenary Powers",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "157",
+      "epage": "158",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225182",
+      "created": "2010-01-02 20:42:58",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "505",
+          "lastname": "Melville",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        12225182,
+        12225183
+      ]
+    },
+    {
+      "reference_id": "4705",
+      "genre": "article",
+      "title": "Opinion 1009",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "159",
+      "epage": "163",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225184",
+      "created": "2010-01-02 20:43:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225184,
+        12225185,
+        12225186,
+        12225187,
+        12225188
+      ]
+    },
+    {
+      "reference_id": "4708",
+      "genre": "article",
+      "title": "Opinion 1011",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "167",
+      "epage": "168",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225192",
+      "created": "2010-01-02 20:43:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225192,
+        12225193
+      ]
+    },
+    {
+      "reference_id": "4710",
+      "genre": "article",
+      "title": "Opinion 1012",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "169",
+      "epage": "170",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225194",
+      "created": "2010-01-02 20:43:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225194,
+        12225195
+      ]
+    },
+    {
+      "reference_id": "4712",
+      "genre": "article",
+      "title": "Opinion 1013",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "171",
+      "epage": "172",
+      "year": "1974",
+      "date": "1974-06-28",
+      "issn": "0007-5167",
+      "PageID": "12225196",
+      "created": "2010-01-02 20:43:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12225196,
+        12225197
+      ]
+    },
+    {
+      "reference_id": "74891",
+      "genre": "article",
+      "title": "The Type species Of The Genus Pseudanisakis Layman & Borovkova, 1926",
+      "secondary_title": "Bulletin Zool. Nom.",
+      "volume": "30",
+      "spage": "182",
+      "epage": "184",
+      "year": "1974",
+      "date": "1974-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225209",
+      "created": "2011-06-10 12:02:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47859",
+          "lastname": "Gibson",
+          "forename": "D I"
+        }
+      ],
+      "bhl_pages": [
+        12225209,
+        12225210,
+        12225211
+      ]
+    },
+    {
+      "reference_id": "59573",
+      "genre": "article",
+      "title": "Apis rotundata Fabricius, 1793 (Insecta, Hymenoptera): proposed suppression of lectotype and designation of neotype in accord with Megachile rotundata auct. Z.N.(S.) 2042",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "30",
+      "spage": "190",
+      "epage": "192",
+      "year": "1974",
+      "date": "1974-00-00",
+      "issn": "0007-5167",
+      "oclc": "1753468",
+      "PageID": "12225217",
+      "created": "2010-11-21 12:25:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42621",
+          "lastname": "Roberts",
+          "forename": "R B"
+        }
+      ],
+      "bhl_pages": [
+        12225217,
+        12225218,
+        12225219
+      ]
+    },
+    {
+      "reference_id": "104997",
+      "genre": "article",
+      "title": "\"Gen.n., sp.n.\" after 1930: is the generic name available? Z.N.(S.) 2054",
+      "secondary_title": "The Bulletin of zoological nomenclature",
+      "volume": "30",
+      "issue": "3\/4",
+      "spage": "210",
+      "epage": "216",
+      "year": "1974",
+      "date": "1974-00-00",
+      "issn": "0007-5167",
+      "PageID": "12225237",
+      "created": "2012-06-30 20:40:28",
+      "updated": "2012-06-30 20:41:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "36562",
+          "lastname": "Sabrosky",
+          "forename": "Curtis W"
+        }
+      ],
+      "bhl_pages": [
+        12225237,
+        12225238,
+        12225239,
+        12225240,
+        12225241,
+        12225242,
+        12225243
+      ]
+    }
+  ]
+}

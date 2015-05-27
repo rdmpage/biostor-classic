@@ -1,0 +1,38 @@
+{
+  "ItemID": "44368",
+  "FullTitle": "Russkoe entomologicheskoe obozrenie = Revue russe d'entomologie.",
+  "VolumeInfo": "t. 8 1908",
+  "articles": [
+    {
+      "reference_id": "58290",
+      "genre": "article",
+      "title": "Analytische Uebersicht der mir bekannten Arten der Gattung Sternolophus Solier nebst Bemerkungen \u00fcber die anderen Arten dieser Gattung (Coleoptera, Hydrophilidae)",
+      "secondary_title": "Russkoe Entomologicheskoe Obozrenie",
+      "volume": "8",
+      "spage": "228",
+      "epage": "233",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "8096567",
+      "PageID": "12186478",
+      "created": "2010-11-20 20:32:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42299",
+          "lastname": "Zaitzev",
+          "forename": "F A"
+        }
+      ],
+      "bhl_pages": [
+        12186478,
+        12186479,
+        12186480,
+        12186481,
+        12186482,
+        12186483
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ItemID": "8683",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1914 v. 61",
+  "articles": [
+    {
+      "reference_id": "14107",
+      "genre": "article",
+      "title": "Notes lich\u00e9nologiques. XVI",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "61",
+      "spage": "82",
+      "epage": "85",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0181-1789",
+      "PageID": "343563",
+      "created": "2010-01-14 08:50:55",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10195",
+          "lastname": "De Lesdain",
+          "forename": "M Bouly"
+        }
+      ],
+      "bhl_pages": [
+        343563,
+        343564,
+        343565,
+        343566
+      ]
+    }
+  ]
+}

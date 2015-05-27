@@ -1,0 +1,36 @@
+{
+  "ItemID": "34842",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 67 (1953-1954)",
+  "articles": [
+    {
+      "reference_id": "65435",
+      "genre": "article",
+      "title": "The habits and occurrence of the Nudibranch Armina tigrina, in South East United States",
+      "secondary_title": "The Nautilus",
+      "volume": "67",
+      "spage": "83",
+      "epage": "86",
+      "year": "1954",
+      "date": "1954-00-00",
+      "issn": "0028-1344",
+      "PageID": "8514713",
+      "created": "2011-03-04 11:24:16",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1315",
+          "lastname": "Abbott",
+          "forename": "R T"
+        }
+      ],
+      "bhl_pages": [
+        8514713,
+        8514714,
+        8514715,
+        8514716
+      ]
+    }
+  ]
+}

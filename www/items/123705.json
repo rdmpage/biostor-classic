@@ -1,0 +1,125 @@
+{
+  "ItemID": "123705",
+  "FullTitle": "Bulletin of the British Ornithologists' Club.",
+  "VolumeInfo": "v. 120 2000",
+  "articles": [
+    {
+      "reference_id": "105032",
+      "genre": "article",
+      "title": "A new montane subspecies of Sheppardia gunningi (east-coast akalat) from Tanzania",
+      "secondary_title": "Bulletin of The British Ornithologists' Club",
+      "volume": "120",
+      "spage": "27",
+      "epage": "33",
+      "year": "2000",
+      "date": "2000-00-00",
+      "issn": "0007-1595",
+      "PageID": "40025596",
+      "created": "2012-07-01 16:06:25",
+      "updated": "2012-07-01 16:06:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        40025596,
+        40025597,
+        40025598,
+        40025599,
+        40025600,
+        40025601,
+        40025602
+      ]
+    },
+    {
+      "reference_id": "105033",
+      "genre": "article",
+      "title": "A new subspecies of black and yellow silky flycatcher, Phainoptila melanoxantha, from Costa Rica",
+      "secondary_title": "Bulletin of The British Ornithologists' Club",
+      "volume": "120",
+      "spage": "40",
+      "epage": "46",
+      "year": "2000",
+      "date": "2000-00-00",
+      "issn": "0007-1595",
+      "PageID": "40025609",
+      "created": "2012-07-01 16:06:34",
+      "updated": "2012-07-01 16:06:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        40025609,
+        40025610,
+        40025611,
+        40025612,
+        40025613,
+        40025614,
+        40025615
+      ]
+    },
+    {
+      "reference_id": "105008",
+      "genre": "article",
+      "title": "A new genus for the Kerguelen Petrel",
+      "secondary_title": "Bulletin of the British Ornithologists' Club",
+      "volume": "120",
+      "issue": "1",
+      "spage": "59",
+      "epage": "62",
+      "year": "2000",
+      "date": "2000-00-00",
+      "issn": "0007-1595",
+      "PageID": "40025628",
+      "created": "2012-07-01 10:23:56",
+      "updated": "2012-07-01 10:25:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53941",
+          "lastname": "Olsen",
+          "forename": "Storrs L"
+        }
+      ],
+      "bhl_pages": [
+        40025628,
+        40025629,
+        40025630,
+        40025631
+      ]
+    },
+    {
+      "reference_id": "105010",
+      "genre": "article",
+      "title": "Yellow-throated Oriole, Icterus xantholaemus Gil 1918, a non-valid species",
+      "secondary_title": "Bulletin of the British Ornithologists' Club",
+      "volume": "120",
+      "spage": "62",
+      "epage": "63",
+      "year": "2000",
+      "date": "2000-00-00",
+      "issn": "0007-1595",
+      "PageID": "40025631",
+      "created": "2012-07-01 10:45:42",
+      "updated": "2012-07-01 10:46:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53942",
+          "lastname": "Barreiro",
+          "forename": "Josefina"
+        },
+        {
+          "id": "53943",
+          "lastname": "Del Val",
+          "forename": "Jaime P\u00e9rez"
+        }
+      ],
+      "bhl_pages": [
+        40025631,
+        40025632
+      ]
+    }
+  ]
+}

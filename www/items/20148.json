@@ -1,0 +1,80 @@
+{
+  "ItemID": "20148",
+  "FullTitle": "Edinburgh New Philosophical Journal.",
+  "VolumeInfo": "2",
+  "articles": [
+    {
+      "reference_id": "72328",
+      "genre": "article",
+      "title": "Observations on the Structure and Functions of theSponge",
+      "secondary_title": "Edinburgh New Philosophical Journal",
+      "volume": "2",
+      "spage": "121",
+      "epage": "141",
+      "year": "1826",
+      "date": "1826-00-00",
+      "oclc": "32831669",
+      "PageID": "2540573",
+      "created": "2011-06-04 01:24:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1350",
+          "lastname": "Grant",
+          "forename": "R E"
+        }
+      ],
+      "bhl_pages": [
+        2540573,
+        2540574,
+        2540575,
+        2540576,
+        2540577,
+        2540578,
+        2540579,
+        2540580,
+        2540581,
+        2540582,
+        2540583,
+        2540584,
+        2540585,
+        2540586,
+        2540587,
+        2540588,
+        2540589,
+        2540590,
+        2540591,
+        2540592,
+        2540593
+      ]
+    },
+    {
+      "reference_id": "72032",
+      "genre": "article",
+      "title": "Notice of two new species of British Sponges",
+      "secondary_title": "Edinburgh New Philosophical Journal",
+      "volume": "2",
+      "spage": "203",
+      "epage": "204",
+      "year": "1826",
+      "date": "1826-00-00",
+      "oclc": "32831669",
+      "PageID": "2540657",
+      "created": "2011-06-04 00:13:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1350",
+          "lastname": "Grant",
+          "forename": "R E"
+        }
+      ],
+      "bhl_pages": [
+        2540657,
+        2540658
+      ]
+    }
+  ]
+}

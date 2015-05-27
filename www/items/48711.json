@@ -1,0 +1,42 @@
+{
+  "ItemID": "48711",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 11 (1859)",
+  "articles": [
+    {
+      "reference_id": "77849",
+      "genre": "article",
+      "title": "Dipterorum aliquot nova genera",
+      "secondary_title": "Revue Et Magasin De Zoologie Pure Et Appliqu\u00e9e. Paris",
+      "volume": "11",
+      "spage": "305",
+      "epage": "315",
+      "year": "1859",
+      "date": "1859-00-00",
+      "PageID": "13713093",
+      "created": "2011-06-22 14:37:12",
+      "updated": "2011-06-22 14:37:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40416",
+          "lastname": "Bigot",
+          "forename": "J M F"
+        }
+      ],
+      "bhl_pages": [
+        13713093,
+        13713094,
+        13713095,
+        13713096,
+        13713097,
+        13713098,
+        13713099,
+        13713100,
+        13713101,
+        13713102,
+        13713103
+      ]
+    }
+  ]
+}

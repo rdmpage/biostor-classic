@@ -1,0 +1,824 @@
+{
+  "ItemID": "17396",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 97 (1949)",
+  "articles": [
+    {
+      "reference_id": "7610",
+      "genre": "article",
+      "title": "STUDIES ON THE MECHANISM OF ACTION OF IONIZING RADIATIONS. IV. EFFECT OF X-RAY IRRADIATION ON THE RESPIRATION OF SEA URCHIN SPERM",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "44",
+      "epage": "50",
+      "year": "1949",
+      "date": "1949-08-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538092",
+      "PageID": "1556769",
+      "created": "2010-01-06 21:49:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3761",
+          "lastname": "Barron",
+          "forename": "E S Guzman"
+        },
+        {
+          "id": "3799",
+          "lastname": "Gasvoda",
+          "forename": "Betty"
+        },
+        {
+          "id": "3800",
+          "lastname": "Flood",
+          "forename": "Veronica"
+        }
+      ],
+      "bhl_pages": [
+        1556769,
+        1556770,
+        1556771,
+        1556772,
+        1556773,
+        1556774,
+        1556775
+      ]
+    },
+    {
+      "reference_id": "7611",
+      "genre": "article",
+      "title": "STUDIES ON THE MECHANISM OF ACTION OF IONIZING RADIATIONS. V. THE EFFECT OF HYDROGEN PEROXIDE AND OF X-RAY IRRADIATED SEA WATER ON THE RESPIRATION OF SEA URCHIN SPERM AND EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "51",
+      "epage": "56",
+      "year": "1949",
+      "date": "1949-08-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538093",
+      "PageID": "1556776",
+      "created": "2010-01-06 21:49:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3761",
+          "lastname": "Barron",
+          "forename": "E S Guzman"
+        },
+        {
+          "id": "3800",
+          "lastname": "Flood",
+          "forename": "Veronica"
+        },
+        {
+          "id": "3799",
+          "lastname": "Gasvoda",
+          "forename": "Betty"
+        }
+      ],
+      "bhl_pages": [
+        1556776,
+        1556777,
+        1556778,
+        1556779,
+        1556780,
+        1556781
+      ]
+    },
+    {
+      "reference_id": "7612",
+      "genre": "article",
+      "title": "BACTERIA AND CELLULAR ACTIVITIES. IV. ACTION OF TOXINS ON RESPIRATION AND HEMOLYSIS OF DOGFISH ERYTHROCYTES AND ON RESPIRATION OF MARINE EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "57",
+      "epage": "63",
+      "year": "1949",
+      "date": "1949-08-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538094",
+      "PageID": "1556782",
+      "created": "2010-01-06 21:49:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3597",
+          "lastname": "Hunter",
+          "forename": "F R"
+        },
+        {
+          "id": "3801",
+          "lastname": "Bullock",
+          "forename": "Jane A"
+        },
+        {
+          "id": "3802",
+          "lastname": "Rawley",
+          "forename": "June"
+        }
+      ],
+      "bhl_pages": [
+        1556782,
+        1556783,
+        1556784,
+        1556785,
+        1556786,
+        1556787,
+        1556788
+      ]
+    },
+    {
+      "reference_id": "7613",
+      "genre": "article",
+      "title": "GROWTH OF OYSTERS, O. VIRGINICA, DURING DIFFERENT MONTHS",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "82",
+      "epage": "94",
+      "year": "1949",
+      "date": "1949-08-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538096",
+      "PageID": "1556807",
+      "created": "2010-01-06 21:49:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3459",
+          "lastname": "Loosanoff",
+          "forename": "Victor L"
+        },
+        {
+          "id": "3710",
+          "lastname": "Nomejko",
+          "forename": "Charles A"
+        }
+      ],
+      "bhl_pages": [
+        1556807,
+        1556808,
+        1556809,
+        1556810,
+        1556811,
+        1556812,
+        1556813,
+        1556814,
+        1556815,
+        1556816,
+        1556817,
+        1556818,
+        1556819
+      ]
+    },
+    {
+      "reference_id": "7614",
+      "genre": "article",
+      "title": "AN ELECTRON MICROSCOPE STUDY OF THE EGG MEMBRANES OF MELANOPLUS DIFFERENTIALIS (THOMAS)",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "100",
+      "epage": "107",
+      "year": "1949",
+      "date": "1949-08-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538098",
+      "PageID": "1556825",
+      "created": "2010-01-06 21:50:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3803",
+          "lastname": "Shutts",
+          "forename": "James Hervey"
+        }
+      ],
+      "bhl_pages": [
+        1556825,
+        1556826,
+        1556827,
+        1556828,
+        1556829,
+        1556830,
+        1556831,
+        1556832
+      ]
+    },
+    {
+      "reference_id": "7615",
+      "genre": "article",
+      "title": "PHOSPHATASES IN NORMAL AND REORGANIZING STENTORS",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "108",
+      "epage": "110",
+      "year": "1949",
+      "date": "1949-08-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538099",
+      "PageID": "1556833",
+      "created": "2010-01-06 21:50:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3713",
+          "lastname": "Weisz",
+          "forename": "Paul B"
+        }
+      ],
+      "bhl_pages": [
+        1556833,
+        1556834,
+        1556835
+      ]
+    },
+    {
+      "reference_id": "7616",
+      "genre": "article",
+      "title": "THE EFFECTS OF ATMOSPHERIC PRESSURE AND COMPOSITION ON THE FLIGHT OF DROSOPHILA",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "115",
+      "epage": "137",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538291",
+      "PageID": "1556840",
+      "created": "2010-01-06 21:50:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3741",
+          "lastname": "Chadwick",
+          "forename": "Leigh E"
+        },
+        {
+          "id": "3639",
+          "lastname": "Williams",
+          "forename": "Carroll M"
+        }
+      ],
+      "bhl_pages": [
+        1556840,
+        1556841,
+        1556842,
+        1556843,
+        1556844,
+        1556845,
+        1556846,
+        1556847,
+        1556848,
+        1556849,
+        1556850,
+        1556851,
+        1556852,
+        1556853,
+        1556854,
+        1556855,
+        1556856,
+        1556857,
+        1556858,
+        1556859,
+        1556860,
+        1556861,
+        1556862
+      ]
+    },
+    {
+      "reference_id": "7617",
+      "genre": "article",
+      "title": "ACTION OF ACETYLCHOLINE, CARBAMINOYL-CHOLINE (DORYL) AND ACETYL-B-METHYL-CHOLINE (MECHOLYL) ON THE HEART OF A CLADOCERAN",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "138",
+      "epage": "144",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538292",
+      "PageID": "1556863",
+      "created": "2010-01-06 21:50:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3804",
+          "lastname": "Ellenbogen",
+          "forename": "Saul"
+        },
+        {
+          "id": "3572",
+          "lastname": "Obreshkove",
+          "forename": "Vasil"
+        }
+      ],
+      "bhl_pages": [
+        1556863,
+        1556864,
+        1556865,
+        1556866,
+        1556867,
+        1556868,
+        1556869
+      ]
+    },
+    {
+      "reference_id": "7618",
+      "genre": "article",
+      "title": "A CYTOTOXIN FROM BLEPHARISMA",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "145",
+      "epage": "149",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538293",
+      "PageID": "1556870",
+      "created": "2010-01-06 21:50:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3478",
+          "lastname": "Giese",
+          "forename": "Arthur C"
+        }
+      ],
+      "bhl_pages": [
+        1556870,
+        1556871,
+        1556872,
+        1556873,
+        1556874
+      ]
+    },
+    {
+      "reference_id": "7619",
+      "genre": "article",
+      "title": "VIABILITY AND FERTILITY OF DROSOPHILA EXPOSED TO SUB-ZERO TEMPERATURES",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "150",
+      "epage": "157",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538294",
+      "PageID": "1556875",
+      "created": "2010-01-06 21:50:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3805",
+          "lastname": "Novitski",
+          "forename": "E"
+        },
+        {
+          "id": "3806",
+          "lastname": "Rush",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        1556875,
+        1556876,
+        1556877,
+        1556878,
+        1556879,
+        1556880,
+        1556881,
+        1556882
+      ]
+    },
+    {
+      "reference_id": "7620",
+      "genre": "article",
+      "title": "STUDIES ON MARINE BRYOZOA. IV. NOLELLA BLAKEI N. SP",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "158",
+      "epage": "168",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538295",
+      "PageID": "1556883",
+      "created": "2010-01-06 21:50:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3753",
+          "lastname": "Rogick",
+          "forename": "Mary D"
+        }
+      ],
+      "bhl_pages": [
+        1556883,
+        1556901,
+        1556902,
+        1556903,
+        1556904,
+        1556905,
+        1556906,
+        1556907,
+        1556908,
+        1556909,
+        1556910
+      ]
+    },
+    {
+      "reference_id": "7621",
+      "genre": "article",
+      "title": "STATISTICAL AND PHYSIOLOGICAL STUDIES ON THE INTERPHASIC GROWTH OF THE NUCLEUS",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "187",
+      "epage": "205",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538297",
+      "PageID": "1556929",
+      "created": "2010-01-06 21:50:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3807",
+          "lastname": "Schreiber",
+          "forename": "Giorgio"
+        }
+      ],
+      "bhl_pages": [
+        1556929,
+        1556930,
+        1556931,
+        1556932,
+        1556933,
+        1556934,
+        1556935,
+        1556936,
+        1556937,
+        1556938,
+        1556939,
+        1556940,
+        1556941,
+        1556942,
+        1556943,
+        1556944,
+        1556945,
+        1556946,
+        1556947
+      ]
+    },
+    {
+      "reference_id": "7622",
+      "genre": "article",
+      "title": "HOPKINSIAXANTHIN, A XANTHOPHYLL OF THE SEA SLUG HOPKINSIA ROSACEA",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "206",
+      "epage": "209",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538298",
+      "PageID": "1556948",
+      "created": "2010-01-06 21:50:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3670",
+          "lastname": "Strain",
+          "forename": "Harold H"
+        }
+      ],
+      "bhl_pages": [
+        1556948,
+        1556949,
+        1556950,
+        1556951
+      ]
+    },
+    {
+      "reference_id": "7623",
+      "genre": "article",
+      "title": "ANDROGENESIS, A DIFFERENTIATOR OF CYTOPLASMIC INJURY INDUCED BY X-RAYS IN HABROBRACON EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "210",
+      "epage": "220",
+      "year": "1949",
+      "date": "1949-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538299",
+      "PageID": "1556952",
+      "created": "2010-01-06 21:50:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3224",
+          "lastname": "Whiting",
+          "forename": "Anna R"
+        }
+      ],
+      "bhl_pages": [
+        1556952,
+        1556953,
+        1556954,
+        1556955,
+        1556956,
+        1556957,
+        1556958,
+        1556959,
+        1556960,
+        1556961,
+        1556962
+      ]
+    },
+    {
+      "reference_id": "7624",
+      "genre": "article",
+      "title": "COMPARATIVE SEROLOGY OF SOME BRACHYURAN CRUSTACEA AND STUDIES IN HEMOCYANIN CORRESPONDENCE",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "273",
+      "epage": "286",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538318",
+      "PageID": "1557015",
+      "created": "2010-01-06 21:50:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3734",
+          "lastname": "Leone",
+          "forename": "Charles A"
+        }
+      ],
+      "bhl_pages": [
+        1557015,
+        1557016,
+        1557017,
+        1557018,
+        1557019,
+        1557020,
+        1557021,
+        1557022,
+        1557023,
+        1557024,
+        1557025,
+        1557026,
+        1557027,
+        1557028
+      ]
+    },
+    {
+      "reference_id": "7625",
+      "genre": "article",
+      "title": "THE GROWTH AND METAMORPHOSIS OF THE ARBACIA PUNCTULATA PLUTEUS, AND LATE DEVELOPMENT OF THE WHITE HALVES OF CENTRIFUGED EGGS",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "287",
+      "epage": "299",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538319",
+      "PageID": "1557029",
+      "created": "2010-01-06 21:50:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3192",
+          "lastname": "Harvey",
+          "forename": "Ethel Browne"
+        }
+      ],
+      "bhl_pages": [
+        1557029,
+        1557030,
+        1557031,
+        1557032,
+        1557033,
+        1557034,
+        1557035,
+        1557036,
+        1557037,
+        1557038,
+        1557039,
+        1557040,
+        1557041
+      ]
+    },
+    {
+      "reference_id": "7626",
+      "genre": "article",
+      "title": "A NOTE ON THE REORIENTATION WITHIN THE SPINDLE OF THE SEX TRIVALENT IN A MANTID",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "300",
+      "epage": "301",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538320",
+      "PageID": "1557042",
+      "created": "2010-01-06 21:50:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3808",
+          "lastname": "Inamdar",
+          "forename": "N B"
+        }
+      ],
+      "bhl_pages": [
+        1557042,
+        1557043
+      ]
+    },
+    {
+      "reference_id": "7627",
+      "genre": "article",
+      "title": "MODIFICATION OF THE RESPONSES OF TWO SPECIES OF BUGULA LARVAE FROM WOODS HOLE TO LIGHT AND GRAVITY : ECOLOGICAL ASPECTS OF THE BEHAVIOR OF BUGULA LARVAE",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "302",
+      "epage": "310",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538321",
+      "PageID": "1557044",
+      "created": "2010-01-06 21:50:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3723",
+          "lastname": "Lynch",
+          "forename": "William F"
+        }
+      ],
+      "bhl_pages": [
+        1557044,
+        1557045,
+        1557046,
+        1557047,
+        1557048,
+        1557049,
+        1557050,
+        1557051,
+        1557052
+      ]
+    },
+    {
+      "reference_id": "7628",
+      "genre": "article",
+      "title": "THE RESISTANCE OF SCIARA (DIPTERA) TO THE MUTAGENIC EFFECTS OF IRRADIATION",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "311",
+      "epage": "314",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538322",
+      "PageID": "1557053",
+      "created": "2010-01-06 21:50:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3809",
+          "lastname": "Crouse",
+          "forename": "Helen V"
+        }
+      ],
+      "bhl_pages": [
+        1557053,
+        1557054,
+        1557055,
+        1557056
+      ]
+    },
+    {
+      "reference_id": "7629",
+      "genre": "article",
+      "title": "TRACHEAL FILLING IN SCIARA LARVAE",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "323",
+      "epage": "330",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538324",
+      "PageID": "1557065",
+      "created": "2010-01-06 21:50:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3810",
+          "lastname": "Keister",
+          "forename": "Margaret L"
+        },
+        {
+          "id": "3811",
+          "lastname": "Buck",
+          "forename": "John B"
+        }
+      ],
+      "bhl_pages": [
+        1557065,
+        1557066,
+        1557067,
+        1557068,
+        1557069,
+        1557070,
+        1557071,
+        1557072
+      ]
+    },
+    {
+      "reference_id": "7630",
+      "genre": "article",
+      "title": "AN ABBREVIATED CONJUGATION PROCESS IN PARAMECIUM TRICHIUM",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "331",
+      "epage": "343",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538325",
+      "PageID": "1557073",
+      "created": "2010-01-06 21:50:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3812",
+          "lastname": "Diller",
+          "forename": "William F"
+        }
+      ],
+      "bhl_pages": [
+        1557073,
+        1557074,
+        1557075,
+        1557076,
+        1557077,
+        1557078,
+        1557079,
+        1557080,
+        1557081,
+        1556692,
+        1556693,
+        1556694,
+        1556695
+      ]
+    },
+    {
+      "reference_id": "7631",
+      "genre": "article",
+      "title": "ERRATA",
+      "secondary_title": "Biol Bull",
+      "volume": "97",
+      "spage": "345",
+      "year": "1949",
+      "date": "1949-12-01",
+      "issn": "0006-3185",
+      "PageID": "1556697",
+      "created": "2010-01-06 21:50:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1556697
+      ]
+    }
+  ]
+}

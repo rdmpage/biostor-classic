@@ -1,0 +1,183 @@
+{
+  "ItemID": "32254",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 24, Bd. 1 (1858)",
+  "articles": [
+    {
+      "reference_id": "65255",
+      "genre": "article",
+      "title": "Uebersicht der Familie Gadidae",
+      "secondary_title": "Archiv F\u00fcr Naturgeschichte. Berlin",
+      "volume": "24",
+      "spage": "85",
+      "epage": "93",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "1481990",
+      "PageID": "7459760",
+      "created": "2011-02-11 17:08:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40834",
+          "lastname": "Kaup",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        7459760,
+        7459759,
+        7459758,
+        7459757,
+        7459756,
+        7459869,
+        7459868,
+        7459867,
+        7459866
+      ]
+    },
+    {
+      "reference_id": "61363",
+      "genre": "article",
+      "title": "Uebersicht der Soleinae, der vierten Subfamilie der Pleuronectidae",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "24",
+      "spage": "94",
+      "epage": "104",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "1481990",
+      "PageID": "7459865",
+      "created": "2011-01-10 19:18:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40834",
+          "lastname": "Kaup",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        7459865,
+        7459864,
+        7459863,
+        7459862,
+        7459861,
+        7459860,
+        7459859,
+        7459737,
+        7459736,
+        7459735,
+        7459734
+      ]
+    },
+    {
+      "reference_id": "67297",
+      "genre": "article",
+      "title": "Uebersicht der Plagusinae, der f\u00fcnften Subfamilie der Pleuronectidae",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "24",
+      "spage": "105",
+      "epage": "110",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0365-6136",
+      "PageID": "7459733",
+      "created": "2011-05-25 14:41:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40834",
+          "lastname": "Kaup",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        7459733,
+        7459732,
+        7459731,
+        7459727,
+        7459728,
+        7459729
+      ]
+    },
+    {
+      "reference_id": "65383",
+      "genre": "article",
+      "title": "Neue Batrachier in der Sammlung des Britischen Museums",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "24",
+      "spage": "319",
+      "epage": "328",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "1481989",
+      "PageID": "7459956",
+      "created": "2011-02-27 23:59:32",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        7459956,
+        7459957,
+        7459958,
+        7459959,
+        7459960,
+        7459961,
+        7460083,
+        7460084,
+        7460085,
+        7460086
+      ]
+    },
+    {
+      "reference_id": "65253",
+      "genre": "article",
+      "title": "Einiges \u00fcber die Acanthopterygiens \u00e0 joue cuirass\u00e9e Cuv",
+      "secondary_title": "Archiv F\u00fcr Naturgeschichte. Berlin",
+      "volume": "24",
+      "spage": "329",
+      "epage": "343",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "1481990",
+      "PageID": "7460087",
+      "created": "2011-02-11 17:01:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40834",
+          "lastname": "Kaup",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        7460087,
+        7460088,
+        7460089,
+        7460090,
+        7460091,
+        7460092,
+        7460093,
+        7460094,
+        7460095,
+        7460096,
+        7460097,
+        7460098,
+        7460099,
+        7460100,
+        7460101
+      ]
+    }
+  ]
+}

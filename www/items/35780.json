@@ -1,0 +1,43 @@
+{
+  "ItemID": "35780",
+  "FullTitle": "Great Basin naturalist memoirs.",
+  "VolumeInfo": "no.2 (1978)",
+  "articles": [
+    {
+      "reference_id": "1187",
+      "genre": "article",
+      "title": "Zoogeography of reptiles and amphibians in the Intermountian region",
+      "secondary_title": "Great Basin Naturalist Memoirs",
+      "volume": "2",
+      "spage": "43",
+      "epage": "53",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0017-3614",
+      "PageID": "8890611",
+      "created": "2009-12-23 10:25:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8890611,
+        8890612,
+        8890613,
+        8890614,
+        8890615,
+        8890616,
+        8890617,
+        8890618,
+        8890619,
+        8890620,
+        8890621
+      ]
+    }
+  ]
+}

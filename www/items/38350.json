@@ -1,0 +1,81 @@
+{
+  "ItemID": "38350",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1923",
+  "articles": [
+    {
+      "reference_id": "59257",
+      "genre": "article",
+      "title": "Mollusca of King Island with descriptions of five new species",
+      "secondary_title": "Proceedings of the Royal Society of Tasmania",
+      "volume": "1923",
+      "spage": "47",
+      "epage": "55",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0080-4703",
+      "PageID": "10049674",
+      "created": "2010-11-21 01:17:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42525",
+          "lastname": "May",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        10049674,
+        10049675,
+        10049676,
+        10049677,
+        10049678,
+        10049679,
+        10049680,
+        10049681,
+        10049682
+      ]
+    },
+    {
+      "reference_id": "59254",
+      "genre": "article",
+      "title": "Notes on Australian Bombyliidae, mostly from the manuscript papers of the late Arthur White",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1923",
+      "spage": "72",
+      "epage": "86",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0080-4703",
+      "PageID": "10049701",
+      "created": "2010-11-21 01:14:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40724",
+          "lastname": "Hardy",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        10049701,
+        10049702,
+        10049703,
+        10049704,
+        10049705,
+        10049706,
+        10049707,
+        10049708,
+        10049709,
+        10049710,
+        10049711,
+        10049712,
+        10049713,
+        10049714,
+        10049715
+      ]
+    }
+  ]
+}

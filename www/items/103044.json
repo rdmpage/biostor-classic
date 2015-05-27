@@ -1,0 +1,73 @@
+{
+  "ItemID": "103044",
+  "FullTitle": "Revue zoologique africaine.",
+  "VolumeInfo": "v.11, 1923",
+  "articles": [
+    {
+      "reference_id": "72713",
+      "genre": "article",
+      "title": "Un Planipenne nouveau du Congo Belge (Micromus weryae)",
+      "secondary_title": "Revue de Zoologie Africaines",
+      "volume": "11",
+      "spage": "196",
+      "epage": "197",
+      "year": "1923",
+      "date": "1923-00-00",
+      "issn": "0035-1814",
+      "PageID": "32989658",
+      "created": "2011-06-04 03:18:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47074",
+          "lastname": "Lestage",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        32989658,
+        32989659
+      ]
+    },
+    {
+      "reference_id": "102355",
+      "genre": "article",
+      "title": "Notes on mammals collected by Dr. H. Schouteden in the Belgian Congo",
+      "secondary_title": "Revue zoologique africaine",
+      "volume": "11",
+      "spage": "355",
+      "epage": "368",
+      "year": "1923",
+      "date": "1923-00-00",
+      "issn": "0771-0488",
+      "PageID": "32989857",
+      "created": "2012-04-06 20:43:45",
+      "updated": "2012-04-06 20:45:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51463",
+          "lastname": "Kershaw",
+          "forename": "P S"
+        }
+      ],
+      "bhl_pages": [
+        32989857,
+        32989858,
+        32989859,
+        32989860,
+        32989861,
+        32989862,
+        32989863,
+        32989864,
+        32989865,
+        32989866,
+        32989867,
+        32989868,
+        32989869,
+        32989870
+      ]
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "ItemID": "36485",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 23\/24 1886\/88",
+  "articles": [
+    {
+      "reference_id": "60351",
+      "genre": "article",
+      "title": "Note on some British Coccidae (No. 4)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "23",
+      "spage": "77",
+      "epage": "82",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9266817",
+      "created": "2010-11-22 23:28:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40123",
+          "lastname": "Douglas",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        9266817,
+        9266818,
+        9266819,
+        9266820,
+        9266821,
+        9266822
+      ]
+    },
+    {
+      "reference_id": "71169",
+      "genre": "article",
+      "title": "Two new species of Corduliina",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "23",
+      "spage": "104",
+      "epage": "105",
+      "year": "1886",
+      "date": "1886-00-00",
+      "oclc": "1568052",
+      "PageID": "9266844",
+      "created": "2011-06-03 18:02:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9266844,
+        9266845
+      ]
+    },
+    {
+      "reference_id": "53313",
+      "genre": "article",
+      "title": "List of British Tipulidae, &c. (Daddy-Longlegs), with notes",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "23",
+      "spage": "117",
+      "epage": "125",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9266857",
+      "created": "2010-10-26 20:06:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39912",
+          "lastname": "Verrall",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        9266857,
+        9266858,
+        9266859,
+        9266860,
+        9266861,
+        9266862,
+        9266863,
+        9266864,
+        9266865
+      ]
+    },
+    {
+      "reference_id": "72304",
+      "genre": "article",
+      "title": "A new species of Polyphylla from Japan",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "23",
+      "spage": "231",
+      "epage": "232",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9266971",
+      "created": "2011-06-04 01:10:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42089",
+          "lastname": "Lewis",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9266971,
+        9266972
+      ]
+    },
+    {
+      "reference_id": "60368",
+      "genre": "article",
+      "title": "Note on some British Coccidae (No. 6)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "23",
+      "spage": "239",
+      "epage": "243",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9266979",
+      "created": "2010-11-22 23:34:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40123",
+          "lastname": "Douglas",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        9266979,
+        9266980,
+        9266981,
+        9266982,
+        9266983
+      ]
+    },
+    {
+      "reference_id": "60698",
+      "genre": "article",
+      "title": "A new genus of Pierinae allied to Appias",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "23",
+      "spage": "248",
+      "epage": "249",
+      "year": "1887",
+      "date": "1887-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9266988",
+      "created": "2010-11-23 03:45:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        9266988,
+        9266989
+      ]
+    },
+    {
+      "reference_id": "72384",
+      "genre": "article",
+      "title": "Notholestes Elwesi, a new genus and species of Calopterygina",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "24",
+      "spage": "31",
+      "epage": "32",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9267073",
+      "created": "2011-06-04 01:43:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9267073,
+        9267074
+      ]
+    },
+    {
+      "reference_id": "72172",
+      "genre": "article",
+      "title": "Three new longicorn Coleoptera from South America",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "24",
+      "spage": "62",
+      "epage": "63",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9267104",
+      "created": "2011-06-04 00:43:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9267104,
+        9267105
+      ]
+    },
+    {
+      "reference_id": "67098",
+      "genre": "article",
+      "title": "Note on Nothochrysa capitata, F., and Chrysopa tenella, Schnd",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "24",
+      "spage": "69",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9267111",
+      "created": "2011-05-12 13:21:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9267111
+      ]
+    },
+    {
+      "reference_id": "72047",
+      "genre": "article",
+      "title": "A new species of Aeschna from South America",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "24",
+      "spage": "76",
+      "epage": "77",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9267118",
+      "created": "2011-06-04 00:16:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9267118,
+        9267119
+      ]
+    },
+    {
+      "reference_id": "61414",
+      "genre": "article",
+      "title": "Note on some British Coccidae (No. 8)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "24",
+      "spage": "95",
+      "epage": "101",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9267137",
+      "created": "2011-01-10 19:57:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40123",
+          "lastname": "Douglas",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        9267137,
+        9267138,
+        9267139,
+        9267140,
+        9267141,
+        9267142,
+        9267143
+      ]
+    },
+    {
+      "reference_id": "72998",
+      "genre": "article",
+      "title": "Concerning Anomalon tenuicorne, Gr., &c",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "24",
+      "spage": "149",
+      "epage": "150",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9267191",
+      "created": "2011-06-04 04:51:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47111",
+          "lastname": "Bridgman",
+          "forename": "J B"
+        }
+      ],
+      "bhl_pages": [
+        9267191,
+        9267192
+      ]
+    },
+    {
+      "reference_id": "71118",
+      "genre": "article",
+      "title": "British Hemiptera: Additional species",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "24",
+      "spage": "196",
+      "epage": "198",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568052",
+      "PageID": "9267238",
+      "created": "2011-06-03 17:55:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42508",
+          "lastname": "Edwards",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9267238,
+        9267239,
+        9267240
+      ]
+    },
+    {
+      "reference_id": "70856",
+      "genre": "article",
+      "title": "Tropical african Coleoptera chiefly from the Zanzibar mainland",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "24",
+      "spage": "200",
+      "epage": "203",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1568052",
+      "PageID": "9267242",
+      "created": "2011-06-03 16:37:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9267242,
+        9267243,
+        9267244,
+        9267245
+      ]
+    },
+    {
+      "reference_id": "67099",
+      "genre": "article",
+      "title": "Nothochrysa capitata in Norfolk",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "24",
+      "spage": "214",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1568052",
+      "PageID": "9267256",
+      "created": "2011-05-12 13:21:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9267256
+      ]
+    }
+  ]
+}

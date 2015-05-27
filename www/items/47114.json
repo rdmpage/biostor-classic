@@ -1,0 +1,95 @@
+{
+  "ItemID": "47114",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.80 no.5 1996",
+  "articles": [
+    {
+      "reference_id": "63552",
+      "genre": "article",
+      "title": "Nomenclatural combinations in Digitaria (Poaceae: Paniceae)",
+      "secondary_title": "Phytologia",
+      "volume": "80",
+      "spage": "348",
+      "epage": "349",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "13066892",
+      "created": "2011-01-26 22:04:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43480",
+          "lastname": "Wipff",
+          "forename": "J K"
+        }
+      ],
+      "bhl_pages": [
+        13066892,
+        13066893
+      ]
+    },
+    {
+      "reference_id": "63072",
+      "genre": "article",
+      "title": "A new species of Minasia from Serra do Cabral, Minas Gerais, Brazil (Vernonieae: Asteraceae)",
+      "secondary_title": "Phytologia",
+      "volume": "80",
+      "spage": "350",
+      "epage": "351",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "13066894",
+      "created": "2011-01-26 21:42:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13066894,
+        13066895
+      ]
+    },
+    {
+      "reference_id": "63502",
+      "genre": "article",
+      "title": "Synoptical study of Rhus virens (Anacardiaceae) and closely related taxa",
+      "secondary_title": "Phytologia",
+      "volume": "80",
+      "spage": "368",
+      "epage": "376",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "13066912",
+      "created": "2011-01-26 22:02:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13066912,
+        13066913,
+        13066914,
+        13066915,
+        13066916,
+        13066917,
+        13066918,
+        13066919,
+        13066920
+      ]
+    }
+  ]
+}

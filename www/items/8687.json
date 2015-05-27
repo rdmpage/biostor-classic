@@ -1,0 +1,43 @@
+{
+  "ItemID": "8687",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1920 v. 67",
+  "articles": [
+    {
+      "reference_id": "14104",
+      "genre": "article",
+      "title": "Quelques Lichens du Pas-de-Calais",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "67",
+      "spage": "217",
+      "epage": "227",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0181-1789",
+      "PageID": "332058",
+      "created": "2010-01-14 08:38:15",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10194",
+          "lastname": "Bouly De Lesdain",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        332058,
+        332059,
+        332060,
+        332061,
+        332062,
+        332063,
+        332064,
+        332065,
+        332066,
+        332067,
+        332068
+      ]
+    }
+  ]
+}

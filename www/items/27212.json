@@ -1,0 +1,513 @@
+{
+  "ItemID": "27212",
+  "FullTitle": "Bulletin du Muse\u0301um national d'histoire naturelle.",
+  "VolumeInfo": "t.13 1907",
+  "articles": [
+    {
+      "reference_id": "67261",
+      "genre": "article",
+      "title": "Silurid\u00e9 nouveau du Fouta-Djalon",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "13",
+      "spage": "23",
+      "epage": "25",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "5297845",
+      "PageID": "5042254",
+      "created": "2011-05-25 06:12:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5042254,
+        5042255,
+        5042256
+      ]
+    },
+    {
+      "reference_id": "67260",
+      "genre": "article",
+      "title": "Characinid\u00e9s am\u00e9ricains nouveaux",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "13",
+      "spage": "25",
+      "epage": "27",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "5297845",
+      "PageID": "5042256",
+      "created": "2011-05-25 06:11:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5042256,
+        5042257,
+        5042258
+      ]
+    },
+    {
+      "reference_id": "73052",
+      "genre": "article",
+      "title": "Collections de M.Maurice de Rotschild receuillis en Abyssinie et dans l'Afrique orientale anglaise et donn\u00e9s au Mus\u00e9um d'Histoire naturelle de Paris. Insectes: Scarabaeides",
+      "secondary_title": "Bulletin du Mus\u00e9um nationale d'Histoire Naturelle. Paris",
+      "volume": "13",
+      "spage": "29",
+      "epage": "30",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "4469175",
+      "PageID": "5042260",
+      "created": "2011-06-04 05:36:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47135",
+          "lastname": "Felsche",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        5042260,
+        5042261
+      ]
+    },
+    {
+      "reference_id": "104807",
+      "genre": "article",
+      "title": "Sur les Annelides polychetes recueilles par la Mission antarctique franYaise (Terebelliens, Serpuliens)",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1907",
+      "spage": "46",
+      "epage": "52",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1148-8425",
+      "PageID": "5042305",
+      "created": "2012-06-28 21:01:05",
+      "updated": "2012-06-28 21:01:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5042305,
+        5042306,
+        5042307,
+        5042308,
+        5042309,
+        5042310,
+        5042311
+      ]
+    },
+    {
+      "reference_id": "72945",
+      "genre": "article",
+      "title": "Collections faites par M.le Baron Maurice de Rothschild dans l'Afrique orientale, insectes Hymenopteres: Ichneumonides",
+      "secondary_title": "Bulletin du Museum National d'Histoire Naturelle. Paris",
+      "volume": "13",
+      "spage": "136",
+      "epage": "139",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "5297845",
+      "PageID": "5042401",
+      "created": "2011-06-04 04:43:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40390",
+          "lastname": "Sz\u00e9pligeti",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        5042401,
+        5042402,
+        5042403,
+        5042404
+      ]
+    },
+    {
+      "reference_id": "97973",
+      "genre": "article",
+      "title": "Liste des Mollusques recueillis par M. H. Gadeau de Kerville, pendant son voyage en Khroumirie",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1907",
+      "spage": "154",
+      "epage": "158",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0027-4070",
+      "PageID": "5042419",
+      "created": "2011-11-09 09:19:43",
+      "updated": "2011-11-09 09:19:43",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5042419,
+        5042420,
+        5042421,
+        5042422,
+        5042423
+      ]
+    },
+    {
+      "reference_id": "58088",
+      "genre": "article",
+      "title": "Sur les pennatulides de la famille des Kophobelemnonidae Kolliker",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle. Paris",
+      "volume": "13",
+      "spage": "161",
+      "epage": "164",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "4469175",
+      "PageID": "5042426",
+      "created": "2010-11-20 19:50:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42227",
+          "lastname": "Gravier",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        5042426,
+        5042427,
+        5042428,
+        5042429
+      ]
+    },
+    {
+      "reference_id": "67035",
+      "genre": "article",
+      "title": "Collections recueillies par M. Maurice de Rothschild dans l'Afrique Orientale Anglaise. Insectes: N\u00e9vropt\u00e8res nouveaux",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "13",
+      "spage": "256",
+      "epage": "258",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1148-8425",
+      "PageID": "5042531",
+      "created": "2011-05-12 00:48:30",
+      "updated": "2011-09-12 18:08:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45422",
+          "lastname": "Van Der Weele",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        5042531,
+        5042532,
+        5042533
+      ]
+    },
+    {
+      "reference_id": "20661",
+      "genre": "article",
+      "title": "Poissons du sud Cameroun, recueillis par la mission Cottes",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle",
+      "volume": "13",
+      "spage": "319",
+      "epage": "322",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "2391669",
+      "PageID": "5042600",
+      "created": "2010-02-09 18:24:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5042600,
+        5042601,
+        5042602,
+        5042603
+      ]
+    },
+    {
+      "reference_id": "67254",
+      "genre": "article",
+      "title": "Poissons du sud Cameroun, recueillis par la mission Cottes",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "13",
+      "spage": "319",
+      "epage": "322",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "5297845",
+      "PageID": "5042600",
+      "created": "2011-05-25 05:14:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5042600,
+        5042601,
+        5042602,
+        5042603
+      ]
+    },
+    {
+      "reference_id": "104790",
+      "genre": "article",
+      "title": "Sur quelques larves d'Eucyphotes provenant de l'exp\u00e9dition antarctique su\u00e9doise",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1907",
+      "spage": "407",
+      "epage": "412",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1148-8425",
+      "PageID": "5042698",
+      "created": "2012-06-28 20:33:47",
+      "updated": "2012-06-28 20:36:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "484",
+          "lastname": "Couti\u00e8re",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        5042698,
+        5042699,
+        5042700,
+        5042701,
+        5042702,
+        5042703
+      ]
+    },
+    {
+      "reference_id": "85437",
+      "genre": "article",
+      "title": "Diagnoses d\u2019amphipodes nouveaux recueillis dans les possessions fran\u00e7aises de l\u2019Oc\u00e9anie, par M. L. Seurat, Directeur du laboratoire de recherches biologiques de Rikitea",
+      "secondary_title": "Bulletin du Museum national d\u2019Histoire naturelle",
+      "volume": "13",
+      "issue": "6",
+      "spage": "412",
+      "epage": "417",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "2391669",
+      "PageID": "5042703",
+      "created": "2011-08-17 06:57:33",
+      "updated": "2011-08-17 06:57:33",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5042703,
+        5042704,
+        5042705,
+        5042706,
+        5042707,
+        5042708
+      ]
+    },
+    {
+      "reference_id": "58089",
+      "genre": "article",
+      "title": "Sur la biologie d'un Alcyonide (Sarcophytum mycetoides Gravier) du Golfe de Tadjourah",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle. Paris",
+      "volume": "13",
+      "spage": "434",
+      "epage": "437",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "4469175",
+      "PageID": "5042725",
+      "created": "2010-11-20 19:50:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42227",
+          "lastname": "Gravier",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        5042725,
+        5042726,
+        5042727,
+        5042728
+      ]
+    },
+    {
+      "reference_id": "97968",
+      "genre": "article",
+      "title": "Notice preliminaire sur les Alcyonaires de l'expedition Charcot",
+      "secondary_title": "Bulletin Du Museum Paris",
+      "volume": "1907",
+      "spage": "437",
+      "epage": "439",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0027-4070",
+      "PageID": "5042728",
+      "created": "2011-11-09 09:14:58",
+      "updated": "2011-11-09 09:14:58",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5042728,
+        5042729,
+        5042730
+      ]
+    },
+    {
+      "reference_id": "67265",
+      "genre": "article",
+      "title": "Mission permanente Fran\u00e7aise en Indo-Chine. Poissons du Tonkin",
+      "secondary_title": "Bulletin du Mus\u00e9um National d\u2019Histoire Naturelle",
+      "volume": "13",
+      "spage": "499",
+      "epage": "503",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "5297845",
+      "PageID": "5042854",
+      "created": "2011-05-25 07:33:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        5042854,
+        5042855,
+        5042856,
+        5042857,
+        5042858
+      ]
+    },
+    {
+      "reference_id": "104837",
+      "genre": "article",
+      "title": "Clavicornes nouvenux recueillis en Perse par Mr. Morgan",
+      "secondary_title": "Bulletin du Museum Paris",
+      "volume": "1907",
+      "spage": "506",
+      "epage": "508",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "1148-8425",
+      "PageID": "5042861",
+      "created": "2012-06-29 06:42:30",
+      "updated": "2012-06-29 06:42:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        5042861,
+        5042862,
+        5042863
+      ]
+    },
+    {
+      "reference_id": "58073",
+      "genre": "article",
+      "title": "Catalogue des Forficulides des collections du Mus\u00e9um",
+      "secondary_title": "Bulletin du Mus\u00e9um National d'Histoire Naturelle, Paris",
+      "volume": "13",
+      "spage": "508",
+      "epage": "513",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "1148-8425",
+      "PageID": "5042863",
+      "created": "2010-11-20 19:48:08",
+      "updated": "2011-09-12 18:08:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42077",
+          "lastname": "Burr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        5042863,
+        5042864,
+        5042865,
+        5042866,
+        5042867,
+        5042868
+      ]
+    },
+    {
+      "reference_id": "104832",
+      "genre": "article",
+      "title": "\u00c9ponges calcaires recueillies par le Fran\u00e7ais dans l'antarctique (Exp\u00e9dition du Dr. Charcot)",
+      "secondary_title": "Bulletin du Museum Paris",
+      "volume": "1907",
+      "spage": "539",
+      "epage": "541",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "1148-8425",
+      "PageID": "5042200",
+      "created": "2012-06-28 22:17:14",
+      "updated": "2012-06-28 22:19:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42868",
+          "lastname": "Topsent",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        5042200,
+        5042201,
+        5042202
+      ]
+    }
+  ]
+}

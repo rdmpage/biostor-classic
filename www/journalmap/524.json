@@ -1,0 +1,76 @@
+{
+  "author": [
+    {
+      "firstname": "Friedrich W",
+      "lastname": "Gess",
+      "name": "Friedrich W Gess"
+    }
+  ],
+  "type": "article",
+  "title": "Descriptions of the male of Riekia nocatunga Richards, the male and two strikingly distinct sympatric colour forms of Riekia confluens (Snelling) and the male of Rolandia an-gulata (Richards) (Hymenoptera: Vespidae: Masarinae) from Australia",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "4",
+    "pages": "33--40",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "1995",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/524"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/3387645"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 524
+    },
+    {
+      "type": "bhl",
+      "id": 3387645
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        142.66666666667,
+        -27.666666666667
+      ],
+      [
+        144.98333333333,
+        -31.633333333333
+      ],
+      [
+        116.9,
+        -25.133333333333
+      ],
+      [
+        149.5,
+        -27.933333333333
+      ],
+      [
+        148.5,
+        -28.05
+      ],
+      [
+        113.75,
+        -24.85
+      ],
+      [
+        145.66666666667,
+        -28.066666666667
+      ]
+    ]
+  }
+}

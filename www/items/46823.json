@@ -1,0 +1,82 @@
+{
+  "ItemID": "46823",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.64 no.2 1987",
+  "articles": [
+    {
+      "reference_id": "63373",
+      "genre": "article",
+      "title": "Taxonomy of Carphochaete (Asteraceae-Eupatorieae)",
+      "secondary_title": "Phytologia",
+      "volume": "64",
+      "spage": "145",
+      "epage": "162",
+      "year": "1987",
+      "date": "1987-00-00",
+      "issn": "0031-9430",
+      "PageID": "12984237",
+      "created": "2011-01-26 21:56:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12984237,
+        12984238,
+        12984239,
+        12984240,
+        12984241,
+        12984242,
+        12984243,
+        12984244,
+        12984245,
+        12984246,
+        12984247,
+        12984248,
+        12984249,
+        12984250,
+        12984251,
+        12984252,
+        12984253,
+        12984254
+      ]
+    },
+    {
+      "reference_id": "62572",
+      "genre": "article",
+      "title": "Nomenclatura plantarium americanarum VI. Gramineae",
+      "secondary_title": "Phytologia",
+      "volume": "64",
+      "spage": "163",
+      "epage": "164",
+      "year": "1988",
+      "date": "1988-00-00",
+      "issn": "0031-9430",
+      "PageID": "12984255",
+      "created": "2011-01-26 21:13:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8819",
+          "lastname": "Lourteig",
+          "forename": "A"
+        },
+        {
+          "id": "43521",
+          "lastname": "Soderstrom",
+          "forename": "Th"
+        }
+      ],
+      "bhl_pages": [
+        12984255,
+        12984256
+      ]
+    }
+  ]
+}

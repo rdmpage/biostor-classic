@@ -1,0 +1,139 @@
+{
+  "ItemID": "34404",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Verein in Berlin.",
+  "VolumeInfo": "v. 48 1903",
+  "articles": [
+    {
+      "reference_id": "67225",
+      "genre": "article",
+      "title": "Drei neue Bienen mit r\u00fcsselartiger Verl\u00e4ngerung des Kopfes",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "48",
+      "issue": "1-2",
+      "spage": "35",
+      "epage": "40",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0323-6145",
+      "PageID": "8343413",
+      "created": "2011-05-20 17:05:59",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        8343413,
+        8343414,
+        8343415,
+        8343416,
+        8343417,
+        8343418
+      ]
+    },
+    {
+      "reference_id": "67233",
+      "genre": "article",
+      "title": "Zwei neue ostafrikanische Zeuxevania-Arten",
+      "secondary_title": "Berliner Entomologische Zeitscrift",
+      "volume": "48",
+      "spage": "41",
+      "epage": "44",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1519613",
+      "PageID": "8343419",
+      "created": "2011-05-20 17:34:02",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        8343419,
+        8343420,
+        8343421,
+        8343422
+      ]
+    },
+    {
+      "reference_id": "71075",
+      "genre": "article",
+      "title": "Neue Pieriden und Uebersicht verwandter Formen",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "48",
+      "spage": "97",
+      "epage": "111",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0323-6145",
+      "PageID": "8343475",
+      "created": "2011-06-03 17:38:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8343475,
+        8343476,
+        8343477,
+        8343478,
+        8343479,
+        8343480,
+        8343481,
+        8343482,
+        8343483,
+        8343484,
+        8343485,
+        8343486,
+        8343487,
+        8343488,
+        8343489
+      ]
+    },
+    {
+      "reference_id": "70967",
+      "genre": "article",
+      "title": "Neue Cetoniden-Arten",
+      "secondary_title": "Berliner entomologische Zeitschrift",
+      "volume": "48",
+      "spage": "315",
+      "epage": "320",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0323-6145",
+      "PageID": "8343697",
+      "created": "2011-06-03 17:03:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40393",
+          "lastname": "Moser",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        8343697,
+        8343698,
+        8343699,
+        8343700,
+        8343701,
+        8343702
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2894 @@
+{
+  "ItemID": "107308",
+  "FullTitle": "Iheringia.",
+  "VolumeInfo": "no. 75-79 (1993-95)",
+  "articles": [
+    {
+      "reference_id": "80221",
+      "genre": "article",
+      "title": "La Asociacion De Laeonereis Acuta Treadwell, 1923 (Polychaeta, Nereididae) En La Bahia Blanca, Argentina",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "3",
+      "epage": "13",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486619",
+      "created": "2011-07-05 10:48:32",
+      "updated": "2011-07-05 10:48:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "21412",
+          "lastname": "El\u00edas",
+          "forename": "Rodolfo"
+        },
+        {
+          "id": "50251",
+          "lastname": "Ieno",
+          "forename": "Elena"
+        }
+      ],
+      "bhl_pages": [
+        34486619,
+        34486618,
+        34486617,
+        34486616,
+        34486615,
+        34486614,
+        34486613,
+        34486612,
+        34486611,
+        34486610,
+        34486609
+      ]
+    },
+    {
+      "reference_id": "80225",
+      "genre": "article",
+      "title": "Esponjas Do Arquipelago De Fernando De Noronha, Brasil (Porifera, Demospongiae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "15",
+      "epage": "31",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486607",
+      "created": "2011-07-05 10:49:06",
+      "updated": "2011-07-05 10:49:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "15286",
+          "lastname": "Mothes",
+          "forename": "Beatriz"
+        },
+        {
+          "id": "50253",
+          "lastname": "De A Bastian",
+          "forename": "Maria Celia K"
+        }
+      ],
+      "bhl_pages": [
+        34486607,
+        34486606,
+        34486605,
+        34486604,
+        34486603,
+        34486602,
+        34486601,
+        34486600,
+        34486599,
+        34486598,
+        34486597,
+        34486596,
+        34486595,
+        34486594,
+        34486593,
+        34486592,
+        34486591
+      ]
+    },
+    {
+      "reference_id": "80217",
+      "genre": "article",
+      "title": "Analisis Morfologico De Triops Longicaudatus (Le Conte) (Branchiopoda: Notostraca) En Argentina",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "33",
+      "epage": "46",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486557",
+      "created": "2011-07-05 10:47:55",
+      "updated": "2011-07-05 10:47:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50240",
+          "lastname": "Cesar",
+          "forename": "Ines I"
+        },
+        {
+          "id": "50241",
+          "lastname": "Hernandez",
+          "forename": "Emilia P"
+        },
+        {
+          "id": "18888",
+          "lastname": "Rumi",
+          "forename": "Alejandra"
+        }
+      ],
+      "bhl_pages": [
+        34486557,
+        34486558,
+        34486559,
+        34486560,
+        34486561,
+        34486562,
+        34486563,
+        34486564,
+        34486565,
+        34486566,
+        34486567,
+        34486568,
+        34486569,
+        34486570
+      ]
+    },
+    {
+      "reference_id": "80222",
+      "genre": "article",
+      "title": "Anemonas De Mar Del Plata Y Localidades Vecinas. 4. Tricnidactis Errans Pires, 1988 (Actinaria, Haliplanellidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "47",
+      "epage": "53",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486571",
+      "created": "2011-07-05 10:48:41",
+      "updated": "2011-07-05 10:48:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50252",
+          "lastname": "Excoffron",
+          "forename": "Adriana C"
+        },
+        {
+          "id": "50141",
+          "lastname": "Zamponi",
+          "forename": "Mauricio O"
+        }
+      ],
+      "bhl_pages": [
+        34486571,
+        34486572,
+        34486573,
+        34486574,
+        34486575,
+        34486576,
+        34486577
+      ]
+    },
+    {
+      "reference_id": "80229",
+      "genre": "article",
+      "title": "Morphologica Craneana De Chaetophractus Villosus (Desmarest, 1804)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "55",
+      "epage": "61",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486579",
+      "created": "2011-07-05 10:49:37",
+      "updated": "2011-07-05 10:49:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50259",
+          "lastname": "Squarcia",
+          "forename": "Silvia M"
+        },
+        {
+          "id": "50037",
+          "lastname": "Casanave",
+          "forename": "Emma B"
+        },
+        {
+          "id": "50260",
+          "lastname": "Cirone",
+          "forename": "Guillermina R"
+        }
+      ],
+      "bhl_pages": [
+        34486579,
+        34486580,
+        34486581,
+        34486582,
+        34486583,
+        34486584,
+        34486585
+      ]
+    },
+    {
+      "reference_id": "80223",
+      "genre": "article",
+      "title": "Revisao Do Genero Ischnolea Thomson, 1860 (Coleoptera, Cerambycidae, Lamiinae, Desmiphorini)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "63",
+      "epage": "79",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486587",
+      "created": "2011-07-05 10:48:49",
+      "updated": "2011-07-05 10:48:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20133",
+          "lastname": "Galileo",
+          "forename": "Maria Helena M"
+        },
+        {
+          "id": "20132",
+          "lastname": "Martins",
+          "forename": "Ubirajara R"
+        }
+      ],
+      "bhl_pages": [
+        34486587,
+        34486588,
+        34486589,
+        34486628,
+        34486629,
+        34486630,
+        34486631,
+        34486632,
+        34486633,
+        34486634,
+        34486635,
+        34486636,
+        34486637,
+        34486638,
+        34486639,
+        34486640,
+        34486641
+      ]
+    },
+    {
+      "reference_id": "80227",
+      "genre": "article",
+      "title": "Dados Morphologicos De Heleobia Parchappei (Orbigny, 1835)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "81",
+      "epage": "87",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486643",
+      "created": "2011-07-05 10:49:19",
+      "updated": "2011-07-05 10:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50256",
+          "lastname": "Da Silva",
+          "forename": "Maria Cristina Pons"
+        }
+      ],
+      "bhl_pages": [
+        34486643,
+        34486644,
+        34486645,
+        34486646,
+        34486647,
+        34486648,
+        34486649
+      ]
+    },
+    {
+      "reference_id": "80224",
+      "genre": "article",
+      "title": "Revisao Do Genero Panegyrtes Thomson, 1868 (Coleoptera, Cerambycidae, Lamiinae, Desmiphorini)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "89",
+      "epage": "96",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486651",
+      "created": "2011-07-05 10:48:54",
+      "updated": "2011-07-05 10:48:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20133",
+          "lastname": "Galileo",
+          "forename": "Maria Helena M"
+        },
+        {
+          "id": "20132",
+          "lastname": "Martins",
+          "forename": "Ubirajara R"
+        }
+      ],
+      "bhl_pages": [
+        34486651,
+        34486652,
+        34486653,
+        34486654,
+        34486655,
+        34486656,
+        34486657,
+        34486658
+      ]
+    },
+    {
+      "reference_id": "80226",
+      "genre": "article",
+      "title": "Descricao De Glabrogyra Subgen. N., Recaracterizacao De Austrodiscus Twomeyi (Parodiz, 1954) E Reclassificacao Das Especies Sulamericanas Dos Generos Austrodiscus Parodiz, 1957, Radioconus Baker, 1927, Radiodomus Baker, 1930 E Trochogyra Weyrauch, 1965 (Charopidae) E Zilchogyra Weyrauch, 1965 (Helicodiscidae) (Gastropoda, Stylommatophora, Endodontoidea)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "97",
+      "epage": "105",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486659",
+      "created": "2011-07-05 10:49:12",
+      "updated": "2011-07-05 10:49:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50254",
+          "lastname": "Da Fonseca",
+          "forename": "Alvaro L Muller"
+        },
+        {
+          "id": "50255",
+          "lastname": "Thome",
+          "forename": "Jose W"
+        }
+      ],
+      "bhl_pages": [
+        34486659,
+        34486660,
+        34486661,
+        34486662,
+        34486663,
+        34486664,
+        34486665,
+        34486666,
+        34486667
+      ]
+    },
+    {
+      "reference_id": "80219",
+      "genre": "article",
+      "title": "Redescripcion De Gordius Agasizzi Montgomery, 1898, De Pseudochordodes Occidentalis Comb.n. Y Nuevo Registro Para P. Bedriagae (Camerano, 1896) (Gordioidea, Nematomorpha)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "107",
+      "epage": "111",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486669",
+      "created": "2011-07-05 10:48:20",
+      "updated": "2011-07-05 10:48:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50246",
+          "lastname": "Miralles",
+          "forename": "Delma Ab De"
+        },
+        {
+          "id": "50247",
+          "lastname": "Villalobos",
+          "forename": "L Cristina De"
+        }
+      ],
+      "bhl_pages": [
+        34486669,
+        34486670,
+        34486671,
+        34486672,
+        34486673
+      ]
+    },
+    {
+      "reference_id": "95715",
+      "genre": "article",
+      "title": "Novas esp\u00e9cies do g\u00eanero Macrophyes O.P.-Cambridge da regi\u00e3o Neotropical (Araneae, Anyphaenidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "113",
+      "epage": "116",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486675",
+      "created": "2011-10-09 22:57:55",
+      "updated": "2011-10-09 23:00:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14046",
+          "lastname": "Brescovit",
+          "forename": "Antonio D"
+        }
+      ],
+      "bhl_pages": [
+        34486675,
+        34486676,
+        34486677,
+        34486678
+      ]
+    },
+    {
+      "reference_id": "80231",
+      "genre": "article",
+      "title": "Taxonomia E Distribuicao Da Familia Porcellanidae (Crustacea, Decapoda, Anomura) No Litoral Brasileiro",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "171",
+      "epage": "186",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486733",
+      "created": "2011-07-05 10:49:50",
+      "updated": "2011-07-05 10:49:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50262",
+          "lastname": "Veloso",
+          "forename": "Valeria Gomes"
+        },
+        {
+          "id": "50097",
+          "lastname": "Melo",
+          "forename": "Gustavo Augusto Schmidt De"
+        }
+      ],
+      "bhl_pages": [
+        34486733,
+        34486734,
+        34486735,
+        34486736,
+        34486737,
+        34486738,
+        34486739,
+        34486740,
+        34486741,
+        34486742,
+        34486743,
+        34486744,
+        34486745,
+        34486746,
+        34486747,
+        34486748
+      ]
+    },
+    {
+      "reference_id": "80233",
+      "genre": "article",
+      "title": "Sponges From The Flooded Sandy Beaches Of Two Amazon Clear Water Rivers",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "187",
+      "epage": "188",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486749",
+      "created": "2011-07-05 10:50:10",
+      "updated": "2011-07-05 10:50:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        },
+        {
+          "id": "50264",
+          "lastname": "Da Conceicao M Tavares",
+          "forename": "Maria"
+        }
+      ],
+      "bhl_pages": [
+        34486749,
+        34486750
+      ]
+    },
+    {
+      "reference_id": "80228",
+      "genre": "article",
+      "title": "Observacoes Sobre Algumas Aves Do Sul Do Brasil",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "75",
+      "spage": "189",
+      "epage": "190",
+      "year": "1993",
+      "date": "1993-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486751",
+      "created": "2011-07-05 10:49:25",
+      "updated": "2011-07-05 10:49:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50257",
+          "lastname": "Radtke",
+          "forename": "Rainer"
+        },
+        {
+          "id": "50258",
+          "lastname": "Weber",
+          "forename": "Erich"
+        }
+      ],
+      "bhl_pages": [
+        34486751,
+        34486752
+      ]
+    },
+    {
+      "reference_id": "80201",
+      "genre": "article",
+      "title": "Organismos Epizoicos De Amphisbetia Operculata (L.) (Cnidaria, Hydrozoa)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "3",
+      "epage": "8",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486761",
+      "created": "2011-07-05 10:46:05",
+      "updated": "2011-07-05 10:46:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50223",
+          "lastname": "Genzano",
+          "forename": "Gabriel N"
+        }
+      ],
+      "bhl_pages": [
+        34486761,
+        34486762,
+        34486763,
+        34486764,
+        34486765,
+        34486766
+      ]
+    },
+    {
+      "reference_id": "80216",
+      "genre": "article",
+      "title": "Una Metodologia Para Estudios Cuantitativos De Los Cnidocistos",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "9",
+      "epage": "13",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486767",
+      "created": "2011-07-05 10:47:47",
+      "updated": "2011-07-05 10:47:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50141",
+          "lastname": "Zamponi",
+          "forename": "Mauricio O"
+        },
+        {
+          "id": "50140",
+          "lastname": "Acuna",
+          "forename": "Fabian H"
+        }
+      ],
+      "bhl_pages": [
+        34486767,
+        34486768,
+        34486769,
+        34486770,
+        34486771
+      ]
+    },
+    {
+      "reference_id": "80209",
+      "genre": "article",
+      "title": "Una Nueva Cercaria De Tipo Cystophorous (Digenea, Hemiuriformes) En Potamolithus Agapetus (Mollusca, Hydrobiidae): Comportamiento De Atraccion Del Hospedador",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "15",
+      "epage": "19",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486773",
+      "created": "2011-07-05 10:47:07",
+      "updated": "2011-07-05 10:47:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20262",
+          "lastname": "Martorelli",
+          "forename": "Sergio R"
+        }
+      ],
+      "bhl_pages": [
+        34486773,
+        34486774,
+        34486775,
+        34486776,
+        34486777
+      ]
+    },
+    {
+      "reference_id": "80198",
+      "genre": "article",
+      "title": "Aspectos Morfologicos Do Intestino Delgado E Pancreas De Sete Especies De Tinamidae (Aves, Tinamiformes)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "21",
+      "epage": "28",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486779",
+      "created": "2011-07-05 10:45:44",
+      "updated": "2011-07-05 10:45:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50220",
+          "lastname": "Duarte",
+          "forename": "Myrian Morato"
+        },
+        {
+          "id": "50221",
+          "lastname": "Mahecha",
+          "forename": "German Bohorquez"
+        }
+      ],
+      "bhl_pages": [
+        34486779,
+        34486780,
+        34486781,
+        34486782,
+        34486783,
+        34486784,
+        34486785,
+        34486786
+      ]
+    },
+    {
+      "reference_id": "80213",
+      "genre": "article",
+      "title": "Observacoes Sobre Pipile Jacutinga Spix, 1825 (Aves, Cracidae) No Parque Estadual De Carlos Botelho, Sao Paulo, Brasil",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "29",
+      "epage": "32",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486787",
+      "created": "2011-07-05 10:47:33",
+      "updated": "2011-07-05 10:47:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50235",
+          "lastname": "Paccagnella",
+          "forename": "Sandra Giselda"
+        },
+        {
+          "id": "50236",
+          "lastname": "Filho",
+          "forename": "Roberto Antonelli"
+        },
+        {
+          "id": "50237",
+          "lastname": "Lara",
+          "forename": "Aderlene Ines"
+        },
+        {
+          "id": "50238",
+          "lastname": "Neto",
+          "forename": "Pedro Scherer"
+        }
+      ],
+      "bhl_pages": [
+        34486787,
+        34486788,
+        34486789,
+        34486790
+      ]
+    },
+    {
+      "reference_id": "80202",
+      "genre": "article",
+      "title": "The Genus Eucatops (Coleoptera, Cholevidae, Eucatopinae) - Description Of New Species And Systematic Remarks",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "33",
+      "epage": "42",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486791",
+      "created": "2011-07-05 10:46:12",
+      "updated": "2011-07-05 10:46:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50224",
+          "lastname": "Gnaspini",
+          "forename": "Pedro"
+        }
+      ],
+      "bhl_pages": [
+        34486791,
+        34486792,
+        34486793,
+        34486794,
+        34486795,
+        34486796,
+        34486797,
+        34486798,
+        34486799,
+        34486800
+      ]
+    },
+    {
+      "reference_id": "80215",
+      "genre": "article",
+      "title": "Description Of Larva And Pupa Of Xylophilus Othoides (Fleutiaux, 1899)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "43",
+      "epage": "47",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486801",
+      "created": "2011-07-05 10:47:43",
+      "updated": "2011-07-05 10:47:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "15072",
+          "lastname": "Teixeira",
+          "forename": "Edson Possidonio"
+        },
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        34486801,
+        34486802,
+        34486803,
+        34486804,
+        34486805
+      ]
+    },
+    {
+      "reference_id": "80203",
+      "genre": "article",
+      "title": "Neotibilis, Um Novo Genero De Pentatomini (Heteroptera)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "55",
+      "epage": "94",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486813",
+      "created": "2011-07-05 10:46:19",
+      "updated": "2011-07-05 10:46:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10468",
+          "lastname": "Grazia",
+          "forename": "Joc\u00e9lia"
+        },
+        {
+          "id": "15728",
+          "lastname": "Barcellos",
+          "forename": "Aline"
+        }
+      ],
+      "bhl_pages": [
+        34486813,
+        34486814,
+        34486815,
+        34486816,
+        34486817,
+        34486818,
+        34486819,
+        34486820,
+        34486821,
+        34486822,
+        34486823,
+        34486824,
+        34486825,
+        34486826,
+        34486827,
+        34486828,
+        34486829,
+        34486830,
+        34486831,
+        34486832,
+        34486833,
+        34486834,
+        34486835,
+        34486836,
+        34486837,
+        34486838,
+        34486839,
+        34486840,
+        34486841,
+        34486842,
+        34486843,
+        34486844,
+        34486845,
+        34486846,
+        34486847,
+        34486848,
+        34486849,
+        34486850,
+        34486851,
+        34486852
+      ]
+    },
+    {
+      "reference_id": "80192",
+      "genre": "article",
+      "title": "A Subfamilia Eutichurinae Na Regiao Neotropical, Com A Revisao Do Genero Eutichurus Simon, 1896 (Araneae, Miturgidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "101",
+      "epage": "159",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486859",
+      "created": "2011-07-05 10:45:08",
+      "updated": "2011-07-05 10:45:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14144",
+          "lastname": "Bonaldo",
+          "forename": "Alexandre B"
+        }
+      ],
+      "bhl_pages": [
+        34486859,
+        34486860,
+        34486861,
+        34486862,
+        34486863,
+        34486864,
+        34486865,
+        34486866,
+        34486867,
+        34486868,
+        34486869,
+        34486870,
+        34486871,
+        34486872,
+        34486873,
+        34486874,
+        34486875,
+        34486876,
+        34486877,
+        34486878,
+        34486879,
+        34486880,
+        34486881,
+        34486882,
+        34486883,
+        34486884,
+        34486885,
+        34486886,
+        34486887,
+        34486888,
+        34486889,
+        34486890,
+        34486891,
+        34486892,
+        34486893,
+        34486894,
+        34486895,
+        34486896,
+        34486897,
+        34486898,
+        34486899,
+        34486900,
+        34486901,
+        34486902,
+        34486903,
+        34486904,
+        34486905,
+        34486906,
+        34486907,
+        34486908,
+        34486909,
+        34486910,
+        34486911,
+        34486912,
+        34486913,
+        34486914,
+        34486915,
+        34486916,
+        34486917
+      ]
+    },
+    {
+      "reference_id": "80205",
+      "genre": "article",
+      "title": "Fecundidade De Cyphocharax Voga (Hensel, 1869) Na Lagoa Emboaba, Rio Grande Do Sul, Brasil. (Characiformes, Curimatidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "161",
+      "epage": "165",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486919",
+      "created": "2011-07-05 10:46:33",
+      "updated": "2011-07-05 10:46:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50227",
+          "lastname": "Hartz",
+          "forename": "Sandra M"
+        },
+        {
+          "id": "50228",
+          "lastname": "Martins",
+          "forename": "Alexandre G"
+        },
+        {
+          "id": "50229",
+          "lastname": "Peret",
+          "forename": "Alberto C"
+        }
+      ],
+      "bhl_pages": [
+        34486919,
+        34486920,
+        34486921,
+        34486922,
+        34486923
+      ]
+    },
+    {
+      "reference_id": "80195",
+      "genre": "article",
+      "title": "First Record Of Lagenophrys Discoidea Kellicott (Ciliophora, Peritricha, Lagenophryidae), Ectocommensal Of Argentinian Ostracods",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "76",
+      "spage": "167",
+      "epage": "170",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486925",
+      "created": "2011-07-05 10:45:31",
+      "updated": "2011-07-05 10:45:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50147",
+          "lastname": "Claps",
+          "forename": "Maria Cristina"
+        },
+        {
+          "id": "50217",
+          "lastname": "Sampons",
+          "forename": "Maria Raquel"
+        }
+      ],
+      "bhl_pages": [
+        34486925,
+        34486926,
+        34486927,
+        34486928
+      ]
+    },
+    {
+      "reference_id": "80194",
+      "genre": "article",
+      "title": "On Gyropus Parvus Parvus (Ewing, 1924) And Phtheiropoios Rionegrensis Sp. N. (Phthiraptera, Amblycera, Gyropidae), Parasitic On Ctenomys Haigi Thomas, 1919 (Mammalia, Rodentia, Ctenomyidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "3",
+      "epage": "14",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486941",
+      "created": "2011-07-05 10:45:24",
+      "updated": "2011-07-05 10:45:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14125",
+          "lastname": "Cicchino",
+          "forename": "Armando C"
+        },
+        {
+          "id": "23714",
+          "lastname": "Del Carmen Castro",
+          "forename": "Dolores"
+        }
+      ],
+      "bhl_pages": [
+        34486941,
+        34486942,
+        34486943,
+        34486944,
+        34486945,
+        34486946,
+        34486947,
+        34486948,
+        34486949,
+        34486950,
+        34486951,
+        34486952
+      ]
+    },
+    {
+      "reference_id": "80206",
+      "genre": "article",
+      "title": "Biologia E Comportamento De Tiaris Fuliginosa Fuliginosa (Wied, 1831) Em Cativeiro (Passeriformes, Emberizidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "15",
+      "epage": "23",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486953",
+      "created": "2011-07-05 10:46:38",
+      "updated": "2011-07-05 10:46:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        34486953,
+        34486954,
+        34486955,
+        34486956,
+        34486957,
+        34486958,
+        34486959,
+        34486960,
+        34486961
+      ]
+    },
+    {
+      "reference_id": "80199",
+      "genre": "article",
+      "title": "Densidade, Razao Sexual E Dados Biometricos De Uma Populacao De Ctenomys Minutus Nehring, 1887 (Rodentia, Caviomorpha, Ctenomyidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "25",
+      "epage": "33",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486963",
+      "created": "2011-07-05 10:45:49",
+      "updated": "2011-07-05 10:45:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50222",
+          "lastname": "De A Gastal",
+          "forename": "Maria Luiza"
+        }
+      ],
+      "bhl_pages": [
+        34486963,
+        34486964,
+        34486965,
+        34486966,
+        34486967,
+        34486968,
+        34486969,
+        34486970,
+        34486971
+      ]
+    },
+    {
+      "reference_id": "80200",
+      "genre": "article",
+      "title": "Sistemas De Tuneis E Area De Vida De Ctenomys Minutus Nehring, 1887",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "35",
+      "epage": "44",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486973",
+      "created": "2011-07-05 10:45:58",
+      "updated": "2011-07-05 10:45:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50222",
+          "lastname": "De A Gastal",
+          "forename": "Maria Luiza"
+        }
+      ],
+      "bhl_pages": [
+        34486973,
+        34486974,
+        34486975,
+        34486976,
+        34486977,
+        34486978,
+        34486979,
+        34486980,
+        34486981,
+        34486982
+      ]
+    },
+    {
+      "reference_id": "80208",
+      "genre": "article",
+      "title": "Ciclo Reprodutivo De Tadarida Brasiliensis (I. Geoffroy, 1824)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "45",
+      "epage": "56",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486983",
+      "created": "2011-07-05 10:46:57",
+      "updated": "2011-07-05 10:46:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50231",
+          "lastname": "Marques",
+          "forename": "Rosane V"
+        },
+        {
+          "id": "50232",
+          "lastname": "Fabian",
+          "forename": "Marta E"
+        }
+      ],
+      "bhl_pages": [
+        34486983,
+        34486984,
+        34486985,
+        34486986,
+        34486987,
+        34486988,
+        34486989,
+        34486990,
+        34486991,
+        34486992,
+        34486993,
+        34486994
+      ]
+    },
+    {
+      "reference_id": "80207",
+      "genre": "article",
+      "title": "Estrategias Alimentares De Aves Na Utilizacao De Frutos De Ficus Microcarpa (Moraceae) Em Uma Area Antropica",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "57",
+      "epage": "62",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34486995",
+      "created": "2011-07-05 10:46:50",
+      "updated": "2011-07-05 10:46:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        },
+        {
+          "id": "50049",
+          "lastname": "Paranhos",
+          "forename": "Sandra Jammal"
+        },
+        {
+          "id": "50230",
+          "lastname": "De Melo Barros",
+          "forename": "Yara"
+        }
+      ],
+      "bhl_pages": [
+        34486995,
+        34486996,
+        34486997,
+        34486998,
+        34486999,
+        34487000
+      ]
+    },
+    {
+      "reference_id": "80197",
+      "genre": "article",
+      "title": "O Genero Ranilia H. Milne edwards, 1837 (Crustacea, Brachyura, Raninidae) No Litoral Brasileiro, E Descricao De Uma Nova Especie",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "63",
+      "epage": "75",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487001",
+      "created": "2011-07-05 10:45:39",
+      "updated": "2011-07-05 10:45:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50219",
+          "lastname": "Melo",
+          "forename": "Gustavo Augusto S De"
+        },
+        {
+          "id": "50096",
+          "lastname": "Oswaldo",
+          "forename": "Campos"
+        }
+      ],
+      "bhl_pages": [
+        34487001,
+        34487002,
+        34487003,
+        34487004,
+        34487005,
+        34487006,
+        34487007,
+        34487008,
+        34487009,
+        34487010,
+        34487011,
+        34487012,
+        34487013
+      ]
+    },
+    {
+      "reference_id": "80210",
+      "genre": "article",
+      "title": "Novas Especies E Notas Sobre Cerambycidae E Disteniidae (Coleoptera) Do Estado Do Tocantins, Brasil",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "77",
+      "epage": "82",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487015",
+      "created": "2011-07-05 10:47:14",
+      "updated": "2011-07-05 10:47:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20132",
+          "lastname": "Martins",
+          "forename": "Ubirajara R"
+        },
+        {
+          "id": "20133",
+          "lastname": "Galileo",
+          "forename": "Maria Helena M"
+        }
+      ],
+      "bhl_pages": [
+        34487015,
+        34487016,
+        34487017,
+        34487018,
+        34487019,
+        34487020
+      ]
+    },
+    {
+      "reference_id": "80193",
+      "genre": "article",
+      "title": "Pesos Y Dimensiones Del Cuerpo Y Organos Internos De La Liebre Europea, Lepus Europaeus (Lagomorpha, Leporidae) En La Patagonia, Argentina",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "83",
+      "epage": "88",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487021",
+      "created": "2011-07-05 10:45:13",
+      "updated": "2011-07-05 10:45:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50215",
+          "lastname": "Bonino",
+          "forename": "Never"
+        },
+        {
+          "id": "50216",
+          "lastname": "Bustos",
+          "forename": "Jose Carlos"
+        }
+      ],
+      "bhl_pages": [
+        34487021,
+        34487022,
+        34487023,
+        34487024,
+        34487025,
+        34487026
+      ]
+    },
+    {
+      "reference_id": "80204",
+      "genre": "article",
+      "title": "Ocorrencia E Distribuicao De Peixes Na Estacao Ecologica Do Taim, Rio Grande Do Sul, Brasil (Pisces, Teleostomi)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "89",
+      "epage": "98",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487027",
+      "created": "2011-07-05 10:46:28",
+      "updated": "2011-07-05 10:46:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50225",
+          "lastname": "Grosser",
+          "forename": "Karin Martha"
+        },
+        {
+          "id": "50226",
+          "lastname": "Koch",
+          "forename": "Walter Rudolf"
+        },
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        34487027,
+        34487028,
+        34487029,
+        34487030,
+        34487031,
+        34487032,
+        34487033,
+        34487034,
+        34487035,
+        34487036
+      ]
+    },
+    {
+      "reference_id": "80196",
+      "genre": "article",
+      "title": "Temnocefalos Neotropicales: Temnocephala Kingsleyae Sp. N. Y T. Lutzi Monticelli, 1913 (Platyhelminthes, Temnocephalidea) Comensales De Crustaceos De Brasil",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "99",
+      "epage": "105",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487037",
+      "created": "2011-07-05 10:45:34",
+      "updated": "2011-07-05 10:45:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50218",
+          "lastname": "Damborenea",
+          "forename": "Maria Cristina"
+        }
+      ],
+      "bhl_pages": [
+        34487037,
+        34487038,
+        34487039,
+        34487040,
+        34487041,
+        34487042,
+        34487043
+      ]
+    },
+    {
+      "reference_id": "80191",
+      "genre": "article",
+      "title": "A New Suprageneric Classification Of The Scatopsidae (Diptera: Psychodomorpha)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "107",
+      "epage": "112",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487045",
+      "created": "2011-07-05 10:44:58",
+      "updated": "2011-07-05 10:44:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10531",
+          "lastname": "De Souza Amorim",
+          "forename": "Dalton"
+        }
+      ],
+      "bhl_pages": [
+        34487045,
+        34487046,
+        34487047,
+        34487048,
+        34487049,
+        34487050
+      ]
+    },
+    {
+      "reference_id": "80212",
+      "genre": "article",
+      "title": "Morfologia De Gundlachia Obliqua (Broderip & Sowerby, 1832) (Mollusca, Gastropoda, Ancylidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "113",
+      "epage": "127",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487051",
+      "created": "2011-07-05 10:47:25",
+      "updated": "2011-07-05 10:47:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50233",
+          "lastname": "Ohlweiler",
+          "forename": "Fernanda Pires"
+        },
+        {
+          "id": "50234",
+          "lastname": "Lanzer",
+          "forename": "Rosane Maria"
+        }
+      ],
+      "bhl_pages": [
+        34487051,
+        34487052,
+        34487053,
+        34487054,
+        34487055,
+        34487056,
+        34487057,
+        34487058,
+        34487059,
+        34487060,
+        34487061,
+        34487062,
+        34487063,
+        34487064,
+        34487065
+      ]
+    },
+    {
+      "reference_id": "80018",
+      "genre": "article",
+      "title": "Nova esp\u00e9cie de Trichorhina Budde-Lund, 1908 (Crustacea, Isopoda, Platyarthridae) do sul do Brasil",
+      "secondary_title": "Iheringia, S\u00e9rie Zoologia",
+      "volume": "77",
+      "spage": "129",
+      "epage": "134",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487067",
+      "created": "2011-07-05 10:06:16",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50023",
+          "lastname": "De Araujo",
+          "forename": "Paula Beatriz"
+        },
+        {
+          "id": "16507",
+          "lastname": "Buckup",
+          "forename": "Ludwig"
+        }
+      ],
+      "bhl_pages": [
+        34487067,
+        34487068,
+        34487069,
+        34487070,
+        34487071,
+        34487072
+      ]
+    },
+    {
+      "reference_id": "80214",
+      "genre": "article",
+      "title": "O Genero Zoanthus No Brasil. 1. Caracterizacao E Revisao Anatomica De Zoanthus Sociatus (Cnidaria, Zoanthinaria, Zoanthidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "77",
+      "spage": "135",
+      "epage": "144",
+      "year": "1994",
+      "date": "1994-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487073",
+      "created": "2011-07-05 10:47:37",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50239",
+          "lastname": "Rohlfs",
+          "forename": "Clarisse"
+        },
+        {
+          "id": "50156",
+          "lastname": "Belem",
+          "forename": "Maria Julia C"
+        }
+      ],
+      "bhl_pages": [
+        34487073,
+        34487074,
+        34487075,
+        34487076,
+        34487077,
+        34487078,
+        34487079,
+        34487080,
+        34487081,
+        34487082
+      ]
+    },
+    {
+      "reference_id": "80169",
+      "genre": "article",
+      "title": "Distribucion De Tres Especies Del Genero Heleobia Stimpson, 1865 Arroyos Afluentes",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "3",
+      "epage": "8",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487089",
+      "created": "2011-07-05 10:42:45",
+      "updated": "2011-07-05 10:42:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50190",
+          "lastname": "Darrigran",
+          "forename": "Gustavo"
+        }
+      ],
+      "bhl_pages": [
+        34487089,
+        34487090,
+        34487091,
+        34487092,
+        34487093,
+        34487094
+      ]
+    },
+    {
+      "reference_id": "80171",
+      "genre": "article",
+      "title": "Histologia Del Tracto Digestivo De Chaetophractus Villosus (Desmarest, 1804) Y C. Vellerosus (Gray, 1865) (Mammalia, Dasypodidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "9",
+      "epage": "18",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487095",
+      "created": "2011-07-05 10:43:00",
+      "updated": "2011-07-05 10:43:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50035",
+          "lastname": "Estecondo",
+          "forename": "Silvia"
+        },
+        {
+          "id": "50154",
+          "lastname": "Codon",
+          "forename": "Stella Maris"
+        },
+        {
+          "id": "50193",
+          "lastname": "Casanave",
+          "forename": "Emma"
+        }
+      ],
+      "bhl_pages": [
+        34487095,
+        34487096,
+        34487097,
+        34487098,
+        34487099,
+        34487100,
+        34487101,
+        34487102,
+        34487103,
+        34487104
+      ]
+    },
+    {
+      "reference_id": "80175",
+      "genre": "article",
+      "title": "Anatomia E Consideracoes Sobre Megalobulimus Proclivis (Martens, 1888)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "19",
+      "epage": "27",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487105",
+      "created": "2011-07-05 10:43:24",
+      "updated": "2011-07-05 10:43:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50197",
+          "lastname": "Leme",
+          "forename": "Jose Lm"
+        },
+        {
+          "id": "50198",
+          "lastname": "Indrusiak",
+          "forename": "Leocadia F"
+        }
+      ],
+      "bhl_pages": [
+        34487105,
+        34487106,
+        34487107,
+        34487108,
+        34487109,
+        34487110,
+        34487111,
+        34487112,
+        34487113
+      ]
+    },
+    {
+      "reference_id": "80183",
+      "genre": "article",
+      "title": "Structure And Function Of The Hemispermatophore And Spermatophore Of Bothriurus Flavidus Kraepelin, 1910 (Scorpiones, Bothriuridae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "29",
+      "epage": "37",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487115",
+      "created": "2011-07-05 10:44:06",
+      "updated": "2011-07-05 10:44:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50203",
+          "lastname": "Peretti",
+          "forename": "Alfredo Vicente"
+        }
+      ],
+      "bhl_pages": [
+        34487115,
+        34487116,
+        34487117,
+        34487118,
+        34487119,
+        34487120,
+        34487121,
+        34487122,
+        34487123
+      ]
+    },
+    {
+      "reference_id": "80173",
+      "genre": "article",
+      "title": "Novas Especies Neotropicais Da Tribo Agapanthiini (Coleoptera, Cerambycidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "39",
+      "epage": "43",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487125",
+      "created": "2011-07-05 10:43:11",
+      "updated": "2011-07-05 10:43:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20133",
+          "lastname": "Galileo",
+          "forename": "Maria Helena M"
+        },
+        {
+          "id": "20132",
+          "lastname": "Martins",
+          "forename": "Ubirajara R"
+        }
+      ],
+      "bhl_pages": [
+        34487125,
+        34487126,
+        34487127,
+        34487128,
+        34487129
+      ]
+    },
+    {
+      "reference_id": "80186",
+      "genre": "article",
+      "title": "Comparative Osteology Of The Family Creediidae (Perciformes, Trachinoidei), With Comments On The Monophyly Of The Group",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "45",
+      "epage": "66",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487131",
+      "created": "2011-07-05 10:44:23",
+      "updated": "2012-04-18 13:28:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50207",
+          "lastname": "De Lucena Rosa",
+          "forename": "Ierece"
+        }
+      ],
+      "bhl_pages": [
+        34487131,
+        34487132,
+        34487133,
+        34487134,
+        34487135,
+        34487136,
+        34487137,
+        34487138,
+        34487139,
+        34487140,
+        34487141,
+        34487142,
+        34487143,
+        34487144,
+        34487145,
+        34487146,
+        34487147,
+        34487148,
+        34487149,
+        34487150,
+        34487151,
+        34487152
+      ]
+    },
+    {
+      "reference_id": "80181",
+      "genre": "article",
+      "title": "Trochiliphagus Austini Sp. N. (Mallophaga, Trochiloecetidae) From Amazilia Candida (Aves, Trochilidae) Of Belize, With Biological Notes",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "67",
+      "epage": "71",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487153",
+      "created": "2011-07-05 10:43:53",
+      "updated": "2011-07-05 10:43:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50046",
+          "lastname": "Oniki",
+          "forename": "Yoshika"
+        }
+      ],
+      "bhl_pages": [
+        34487153,
+        34487154,
+        34487155,
+        34487156,
+        34487157
+      ]
+    },
+    {
+      "reference_id": "80184",
+      "genre": "article",
+      "title": "The Giant Psammophilous Ciliate Avelia Martinicensis (Ciliophora, Protoheterotrichida) In Guanabara Bay, Brazil, With Taxonomic And Nomenclatural Notes",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "73",
+      "epage": "83",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487159",
+      "created": "2011-07-05 10:44:11",
+      "updated": "2011-07-05 10:44:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50204",
+          "lastname": "Pettigrosso",
+          "forename": "Rosa E"
+        },
+        {
+          "id": "50205",
+          "lastname": "Cazzaniga",
+          "forename": "Nestor J"
+        },
+        {
+          "id": "50206",
+          "lastname": "De Santa Rosa",
+          "forename": "Milden Rodrigues"
+        }
+      ],
+      "bhl_pages": [
+        34487159,
+        34487160,
+        34487161,
+        34487162,
+        34487163,
+        34487164,
+        34487165,
+        34487166,
+        34487167,
+        34487168,
+        34487169
+      ]
+    },
+    {
+      "reference_id": "80187",
+      "genre": "article",
+      "title": "Fauna Of Drosophila (Diptera, Drosophilidae) In The Northern Area Of The 'cadeia Do Espinhaco', States Of Minas Gerais And Bahia, Brazil: Biogeographical And Ecological Aspects",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "85",
+      "epage": "94",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487171",
+      "created": "2011-07-05 10:44:32",
+      "updated": "2011-07-05 10:44:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        },
+        {
+          "id": "50208",
+          "lastname": "De Melo Sene",
+          "forename": "Fabio"
+        }
+      ],
+      "bhl_pages": [
+        34487171,
+        34487172,
+        34487173,
+        34487174,
+        34487175,
+        34487176,
+        34487177,
+        34487178,
+        34487179,
+        34487180
+      ]
+    },
+    {
+      "reference_id": "80189",
+      "genre": "article",
+      "title": "Black Versus White Waterbird Colonies (Aves) In The Bolivian brazilian Pantanal",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "95",
+      "epage": "97",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487181",
+      "created": "2011-07-05 10:44:45",
+      "updated": "2011-07-05 10:44:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50048",
+          "lastname": "Willis",
+          "forename": "Edwin O"
+        }
+      ],
+      "bhl_pages": [
+        34487181,
+        34487182,
+        34487183
+      ]
+    },
+    {
+      "reference_id": "80188",
+      "genre": "article",
+      "title": "Larvae Of Neotropical Coleoptera 21: Description Of Immatures And Ecology Of Efflagitatus Freudei Pacheco, 1973 (Dryopoidea, Heteroceridae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "99",
+      "epage": "112",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487185",
+      "created": "2011-07-05 10:44:38",
+      "updated": "2011-07-05 10:44:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "21782",
+          "lastname": "Vanin",
+          "forename": "Sergio A"
+        },
+        {
+          "id": "16087",
+          "lastname": "Costa",
+          "forename": "Cleide"
+        },
+        {
+          "id": "50209",
+          "lastname": "Gianuca",
+          "forename": "Norton M"
+        }
+      ],
+      "bhl_pages": [
+        34487185,
+        34487186,
+        34487187,
+        34487188,
+        34487189,
+        34487190,
+        34487191,
+        34487192,
+        34487193,
+        34487194,
+        34487195,
+        34487196,
+        34487197,
+        34487198
+      ]
+    },
+    {
+      "reference_id": "80167",
+      "genre": "article",
+      "title": "Larvae Of Neotropical Coleoptera 22. Description Of Adults And Immatures Of Lagrioida Nortoni Sp. N., And Bionomics (Coleoptera, Tenebrionoidea, Anthicidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "113",
+      "epage": "126",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487199",
+      "created": "2011-07-05 10:42:34",
+      "updated": "2011-07-05 10:42:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "16087",
+          "lastname": "Costa",
+          "forename": "Cleide"
+        },
+        {
+          "id": "21782",
+          "lastname": "Vanin",
+          "forename": "Sergio A"
+        },
+        {
+          "id": "21783",
+          "lastname": "Ide",
+          "forename": "Sergio"
+        }
+      ],
+      "bhl_pages": [
+        34487199,
+        34487200,
+        34487201,
+        34487202,
+        34487203,
+        34487204,
+        34487205,
+        34487206,
+        34487207,
+        34487208,
+        34487209,
+        34487210,
+        34487211,
+        34487212
+      ]
+    },
+    {
+      "reference_id": "80160",
+      "genre": "article",
+      "title": "Revisao Do Genero Radulphius (Araneae, Miturgidae, Eutichurinae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "127",
+      "epage": "156",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487213",
+      "created": "2011-07-05 10:41:34",
+      "updated": "2011-07-05 10:41:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14144",
+          "lastname": "Bonaldo",
+          "forename": "Alexandre B"
+        },
+        {
+          "id": "50175",
+          "lastname": "Buckup",
+          "forename": "Erica Helena"
+        }
+      ],
+      "bhl_pages": [
+        34487213,
+        34487214,
+        34487215,
+        34487216,
+        34487217,
+        34487218,
+        34487219,
+        34487220,
+        34487221,
+        34487222,
+        34487223,
+        34487224,
+        34487225,
+        34487226,
+        34487227,
+        34487228,
+        34487229,
+        34487230,
+        34487231,
+        34487232,
+        34487233,
+        34487234,
+        34487235,
+        34487236,
+        34487237,
+        34487238,
+        34487239,
+        34487240,
+        34487241,
+        34487242
+      ]
+    },
+    {
+      "reference_id": "80168",
+      "genre": "article",
+      "title": "Mesoscale Distribution Of Thecosomata (Gastropoda) In The Brazil malvinas Confluence Compared With Simultaneous Satellite Images Of Surface Temperature",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "157",
+      "epage": "160",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487243",
+      "created": "2011-07-05 10:42:40",
+      "updated": "2011-07-05 10:42:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50188",
+          "lastname": "Dadon",
+          "forename": "Jose R"
+        },
+        {
+          "id": "50189",
+          "lastname": "Magaldi",
+          "forename": "Norman H"
+        }
+      ],
+      "bhl_pages": [
+        34487243,
+        34487244,
+        34487245,
+        34487246
+      ]
+    },
+    {
+      "reference_id": "80177",
+      "genre": "article",
+      "title": "Notas E Descricoes Em Desmiphorini (Coleoptera, Cerambycidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "161",
+      "epage": "170",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487247",
+      "created": "2011-07-05 10:43:33",
+      "updated": "2011-07-05 10:43:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "20132",
+          "lastname": "Martins",
+          "forename": "Ubirajara R"
+        },
+        {
+          "id": "20133",
+          "lastname": "Galileo",
+          "forename": "Maria Helena M"
+        }
+      ],
+      "bhl_pages": [
+        34487247,
+        34487248,
+        34487249,
+        34487250,
+        34487251,
+        34487252,
+        34487253,
+        34487254,
+        34487255,
+        34487256
+      ]
+    },
+    {
+      "reference_id": "80172",
+      "genre": "article",
+      "title": "Biologia Comportamental De Juveniles De Lystrophis Dorbignyi",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "78",
+      "spage": "171",
+      "epage": "176",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487257",
+      "created": "2011-07-05 10:43:07",
+      "updated": "2011-07-05 10:43:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50194",
+          "lastname": "Francini",
+          "forename": "Flavio"
+        },
+        {
+          "id": "50195",
+          "lastname": "Grisolia",
+          "forename": "Carlos Santiago"
+        },
+        {
+          "id": "50196",
+          "lastname": "Peluso",
+          "forename": "Fabio Oscar"
+        }
+      ],
+      "bhl_pages": [
+        34487257,
+        34487258,
+        34487259,
+        34487260,
+        34487261,
+        34487262
+      ]
+    },
+    {
+      "reference_id": "80176",
+      "genre": "article",
+      "title": "Redescricao, Distribuicao E Preferencias Ambientais De Anodontites Ferrarisi (Orbigny, 1835) Revalidada (Bivalvia, Unionoida, Mycetopodidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "3",
+      "epage": "12",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487269",
+      "created": "2011-07-05 10:43:28",
+      "updated": "2011-07-05 10:43:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50199",
+          "lastname": "Mansur",
+          "forename": "Maria Cristina Dreher"
+        },
+        {
+          "id": "50200",
+          "lastname": "Olazarri",
+          "forename": "Jose"
+        }
+      ],
+      "bhl_pages": [
+        34487269,
+        34487270,
+        34487271,
+        34487272,
+        34487273,
+        34487274,
+        34487275,
+        34487276,
+        34487277,
+        34487278
+      ]
+    },
+    {
+      "reference_id": "80178",
+      "genre": "article",
+      "title": "On The Distribution Of Callinectes Ornatus And Callinectes Danae Smith 1869 (Brachyura, Portunidae) In The Fortaleza Bay, Ubatuba, Brazil",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "13",
+      "epage": "25",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487279",
+      "created": "2011-07-05 10:43:38",
+      "updated": "2011-07-05 10:43:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        },
+        {
+          "id": "50201",
+          "lastname": "Franzozo",
+          "forename": "Adilson"
+        }
+      ],
+      "bhl_pages": [
+        34487279,
+        34487280,
+        34487281,
+        34487282,
+        34487283,
+        34487284,
+        34487285,
+        34487286,
+        34487287,
+        34487288,
+        34487289,
+        34487290,
+        34487291
+      ]
+    },
+    {
+      "reference_id": "80180",
+      "genre": "article",
+      "title": "Zonacao E Estratificacao Da Macrofauna Bentica Em Um Banco Areno lodoso Do Setor Euhalino De Alta Energia Da Baia De Paranagua (Parana, Brasil)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "27",
+      "epage": "37",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487293",
+      "created": "2011-07-05 10:43:45",
+      "updated": "2011-07-05 10:43:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50202",
+          "lastname": "Netto",
+          "forename": "Sergio Antonio"
+        },
+        {
+          "id": "21414",
+          "lastname": "Da Cunha Lana",
+          "forename": "Paulo"
+        }
+      ],
+      "bhl_pages": [
+        34487293,
+        34487294,
+        34487295,
+        34487296,
+        34487297,
+        34487298,
+        34487299,
+        34487300,
+        34487301,
+        34487302,
+        34487303
+      ]
+    },
+    {
+      "reference_id": "80170",
+      "genre": "article",
+      "title": "Nest Architecture Of The Stingless Bee Plebeia Poecilochroa Moure & Camargo, 1993 And Related Considerations (Hymenoptera, Apidae, Meliponinae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "39",
+      "epage": "45",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487305",
+      "created": "2011-07-05 10:42:53",
+      "updated": "2011-07-05 10:42:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50191",
+          "lastname": "Drummond",
+          "forename": "Particia M"
+        },
+        {
+          "id": "50115",
+          "lastname": "Bego",
+          "forename": "Luci R"
+        },
+        {
+          "id": "50192",
+          "lastname": "Melo",
+          "forename": "Gabriel Ar"
+        }
+      ],
+      "bhl_pages": [
+        34487305,
+        34487306,
+        34487307,
+        34487308,
+        34487309,
+        34487310,
+        34487311
+      ]
+    },
+    {
+      "reference_id": "80161",
+      "genre": "article",
+      "title": "Ovicapsulas De Prosobranquios (Mollusca: Gastropoda) De Una Playa Arenosa Expuesta Del Sur Del Brasil",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "47",
+      "epage": "58",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487313",
+      "created": "2011-07-05 10:41:41",
+      "updated": "2011-07-05 10:41:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50061",
+          "lastname": "Borzone",
+          "forename": "Carlos Alberto"
+        }
+      ],
+      "bhl_pages": [
+        34487313,
+        34487314,
+        34487315,
+        34487316,
+        34487317,
+        34487318,
+        34487319,
+        34487320,
+        34487321,
+        34487322,
+        34487323,
+        34487324
+      ]
+    },
+    {
+      "reference_id": "80165",
+      "genre": "article",
+      "title": "Distribution And Characterization Ot The Maturity Stages Of Oikopleura Dioica (Tunicata, Appendicularia) In The Area Of Peninsula Valdes, Argentina",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "59",
+      "epage": "66",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487325",
+      "created": "2011-07-05 10:42:10",
+      "updated": "2011-07-05 10:42:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50184",
+          "lastname": "Capitanio",
+          "forename": "Fabiana Lia"
+        },
+        {
+          "id": "50185",
+          "lastname": "Marschoff",
+          "forename": "Enrique Ricardo"
+        },
+        {
+          "id": "50186",
+          "lastname": "Esnal",
+          "forename": "Graciela Beatriz"
+        }
+      ],
+      "bhl_pages": [
+        34487325,
+        34487326,
+        34487327,
+        34487328,
+        34487329,
+        34487330,
+        34487331,
+        34487332
+      ]
+    },
+    {
+      "reference_id": "80159",
+      "genre": "article",
+      "title": "Influencia De La Actividad De Cavia Aperea Sobre La Estructura Del Habitat Y La Distribucion De Akodon Azarae Y Oryzomys Flavescens Pampeana (Argentina)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "67",
+      "epage": "75",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487333",
+      "created": "2011-07-05 10:41:28",
+      "updated": "2011-07-05 10:41:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50181",
+          "lastname": "Bilenca",
+          "forename": "David N"
+        },
+        {
+          "id": "50182",
+          "lastname": "Cittadino",
+          "forename": "Emilio A"
+        },
+        {
+          "id": "50134",
+          "lastname": "Kravetz",
+          "forename": "Fernando O"
+        }
+      ],
+      "bhl_pages": [
+        34487333,
+        34487334,
+        34487335,
+        34487336,
+        34487337,
+        34487338,
+        34487339,
+        34487340,
+        34487341
+      ]
+    },
+    {
+      "reference_id": "80166",
+      "genre": "article",
+      "title": "Lumbrineridae (Polychaeta: Eunicemorpha) Da Costa Sul E Sudeste Do Brasil. 1 Lysarete, Arabelloneris, Lumbrineriopsis, Lumbrinerides, Paraninoe E Ninoe",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "77",
+      "epage": "91",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487343",
+      "created": "2011-07-05 10:42:23",
+      "updated": "2011-07-05 10:42:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50187",
+          "lastname": "Carmargo",
+          "forename": "Mauricio G"
+        },
+        {
+          "id": "22869",
+          "lastname": "Lana",
+          "forename": "Paulo C"
+        }
+      ],
+      "bhl_pages": [
+        34487343,
+        34487344,
+        34487345,
+        34487346,
+        34487347,
+        34487348,
+        34487349,
+        34487350,
+        34487351,
+        34487352,
+        34487353,
+        34487354,
+        34487355,
+        34487356,
+        34487357
+      ]
+    },
+    {
+      "reference_id": "80163",
+      "genre": "article",
+      "title": "Lumbrineridae (Polychaeta: Eunicemorpha) Da Costa Sul E Sudeste Do Brasil. 2. Lumbrineris",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "93",
+      "epage": "120",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487359",
+      "created": "2011-07-05 10:41:59",
+      "updated": "2011-07-05 10:41:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50183",
+          "lastname": "Camargo",
+          "forename": "Mauricio G"
+        },
+        {
+          "id": "22869",
+          "lastname": "Lana",
+          "forename": "Paulo C"
+        }
+      ],
+      "bhl_pages": [
+        34487359,
+        34487360,
+        34487361,
+        34487362,
+        34487363,
+        34487364,
+        34487365,
+        34487366,
+        34487367,
+        34487368,
+        34487369,
+        34487370,
+        34487371,
+        34487372,
+        34487373,
+        34487374,
+        34487375,
+        34487376,
+        34487377,
+        34487378,
+        34487379,
+        34487380,
+        34487381,
+        34487382,
+        34487383,
+        34487384,
+        34487385,
+        34487386
+      ]
+    },
+    {
+      "reference_id": "80158",
+      "genre": "article",
+      "title": "A Influencia Da Selecao Do Habitat E Do Refugio Na Distribuicao E Abundancia De Neanthes Succinea (Frey & Leuckart, 1847) (Polychaeta, Nereidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "121",
+      "epage": "127",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487387",
+      "created": "2011-07-05 10:41:17",
+      "updated": "2011-07-05 10:41:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50180",
+          "lastname": "Bemvenuti",
+          "forename": "Carlos Emilio"
+        }
+      ],
+      "bhl_pages": [
+        34487387,
+        34487388,
+        34487389,
+        34487390,
+        34487391,
+        34487392,
+        34487393
+      ]
+    },
+    {
+      "reference_id": "80174",
+      "genre": "article",
+      "title": "Abelhas Nativas (Hymenoptera, Apoidea) Numa Area Agricola No Sul Do Brasil E Sua Importancia Para A Polinizacao De Phaseolus Vulgaris",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "129",
+      "epage": "133",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487395",
+      "created": "2011-07-05 10:43:19",
+      "updated": "2011-07-05 10:43:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50038",
+          "lastname": "Hoffmann",
+          "forename": "Magali"
+        }
+      ],
+      "bhl_pages": [
+        34487395,
+        34487396,
+        34487397,
+        34487398,
+        34487399
+      ]
+    },
+    {
+      "reference_id": "80182",
+      "genre": "article",
+      "title": "Tolerancia Respiratoria De Prochilodus Lineatus (Pisces, Curimatidae) A Condiciones Criticas De Oxygeno",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "135",
+      "epage": "140",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487401",
+      "created": "2011-07-05 10:44:01",
+      "updated": "2011-07-05 10:44:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        34487401,
+        34487402,
+        34487403,
+        34487404,
+        34487405,
+        34487406
+      ]
+    },
+    {
+      "reference_id": "80190",
+      "genre": "article",
+      "title": "Ziphius Cavirostris Cuvier, 1823 (Cetacea, Ziphiidae) On The Brazilian Coast, With Notes On Biometry",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "141",
+      "epage": "147",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487407",
+      "created": "2011-07-05 10:44:52",
+      "updated": "2011-07-05 10:44:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50210",
+          "lastname": "Zanelatto",
+          "forename": "Regina Celia"
+        },
+        {
+          "id": "50211",
+          "lastname": "Bittencourt",
+          "forename": "Marcio Luiz"
+        },
+        {
+          "id": "50212",
+          "lastname": "Correa",
+          "forename": "Marco Fm"
+        },
+        {
+          "id": "50213",
+          "lastname": "Domit",
+          "forename": "Licio George"
+        }
+      ],
+      "bhl_pages": [
+        34487407,
+        34487408,
+        34487409,
+        34487410,
+        34487411,
+        34487412,
+        34487413
+      ]
+    },
+    {
+      "reference_id": "80162",
+      "genre": "article",
+      "title": "First Known Neotropical Species Of Brunettia (Diptera: Psychodidae) From Southeastern Brazil, With Description Of A New Subgenus And Systematic Comments On The Genus",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "149",
+      "epage": "158",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487415",
+      "created": "2011-07-05 10:41:46",
+      "updated": "2011-07-05 10:41:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14219",
+          "lastname": "Bravo",
+          "forename": "Freddy"
+        },
+        {
+          "id": "10531",
+          "lastname": "De Souza Amorim",
+          "forename": "Dalton"
+        }
+      ],
+      "bhl_pages": [
+        34487415,
+        34487416,
+        34487417,
+        34487418,
+        34487419,
+        34487420,
+        34487421,
+        34487422,
+        34487423,
+        34487424
+      ]
+    },
+    {
+      "reference_id": "80185",
+      "genre": "article",
+      "title": "Wagneriana Levii, A New Species Of Araneidae From Brazil (Araneae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "159",
+      "epage": "161",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487425",
+      "created": "2011-07-05 10:44:17",
+      "updated": "2011-07-05 10:44:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        },
+        {
+          "id": "50175",
+          "lastname": "Buckup",
+          "forename": "Erica Helena"
+        }
+      ],
+      "bhl_pages": [
+        34487425,
+        34487426,
+        34487427
+      ]
+    },
+    {
+      "reference_id": "80164",
+      "genre": "article",
+      "title": "Paratibraca, Un Novo Genero De Pentatomini (Heteroptera, Pentatomidae)",
+      "secondary_title": "Iheringia Serie Zoologia",
+      "volume": "79",
+      "spage": "163",
+      "epage": "171",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0073-4721",
+      "PageID": "34487429",
+      "created": "2011-07-05 10:42:04",
+      "updated": "2011-07-05 10:42:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "14034",
+          "lastname": "Campos",
+          "forename": "Luiz Alexandre"
+        },
+        {
+          "id": "10468",
+          "lastname": "Grazia",
+          "forename": "Joc\u00e9lia"
+        }
+      ],
+      "bhl_pages": [
+        34487429,
+        34487430,
+        34487431,
+        34487432,
+        34487433,
+        34487434,
+        34487435,
+        34487436,
+        34487437
+      ]
+    }
+  ]
+}

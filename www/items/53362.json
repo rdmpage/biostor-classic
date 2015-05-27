@@ -1,0 +1,306 @@
+{
+  "ItemID": "53362",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "6th ser. v. 18 (1896)",
+  "articles": [
+    {
+      "reference_id": "49045",
+      "genre": "article",
+      "title": "Descriptions of new reptiles and batrachians obtained by Mr. Alfred Everett in Celebes and Jampea",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "18",
+      "series": "6",
+      "spage": "62",
+      "epage": "64",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "PageID": "15628249",
+      "created": "2010-03-21 11:04:33",
+      "updated": "2011-09-21 17:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15628249,
+        15628250,
+        15628251
+      ]
+    },
+    {
+      "reference_id": "88562",
+      "genre": "article",
+      "title": "XIV.\u2014Descriptions of new species of Nanina, Helix, Amphidromus, and Porphyrobaphe",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "6",
+      "spage": "100",
+      "epage": "104",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939608680416",
+      "PageID": "15628287",
+      "created": "2011-09-23 13:40:14",
+      "updated": "2011-09-23 13:40:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51347",
+          "lastname": "Fulton",
+          "forename": "Hugh"
+        }
+      ],
+      "bhl_pages": [
+        15628287,
+        15628288,
+        15628289,
+        15628290,
+        15628291
+      ]
+    },
+    {
+      "reference_id": "49264",
+      "genre": "article",
+      "title": "Description of a new genus of Elapine snakes from Woolark Island, British New Guinea",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "18",
+      "series": "6",
+      "spage": "152",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "PageID": "15628339",
+      "created": "2010-03-21 12:36:49",
+      "updated": "2011-09-21 17:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15628339
+      ]
+    },
+    {
+      "reference_id": "20389",
+      "genre": "article",
+      "title": "Description of a new siluroid fish from the Organ Mountains, Brazil",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "18",
+      "series": "6",
+      "spage": "154",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "PageID": "15628341",
+      "created": "2010-02-09 16:24:59",
+      "updated": "2011-09-21 17:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15628341
+      ]
+    },
+    {
+      "reference_id": "88844",
+      "genre": "article",
+      "title": "XXVII.\u2014Descriptions of some new Lepidoptera from Nyasaland",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "6",
+      "spage": "159",
+      "epage": "163",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939608680432",
+      "PageID": "15628346",
+      "created": "2011-09-23 14:23:51",
+      "updated": "2011-09-23 14:23:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39940",
+          "lastname": "Butler",
+          "forename": "Arthur G"
+        }
+      ],
+      "bhl_pages": [
+        15628346,
+        15628347,
+        15628348,
+        15628349,
+        15628350
+      ]
+    },
+    {
+      "reference_id": "49088",
+      "genre": "article",
+      "title": "Descriptions of four new lizards from Roebuck Bay, N. W. Australia obtained by Dr. Dahl for the Christiania Museum",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "18",
+      "series": "6",
+      "spage": "232",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "PageID": "15628419",
+      "created": "2010-03-21 11:14:09",
+      "updated": "2011-09-21 17:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15628419
+      ]
+    },
+    {
+      "reference_id": "102835",
+      "genre": "article",
+      "title": "XXXVIII.\u2014 On mammals from Celebes, Borneo, and the Philippines recently received at the British Museum",
+      "secondary_title": "The Annals and magazine of natural history",
+      "volume": "18",
+      "series": "6",
+      "spage": "241",
+      "epage": "250",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939608680449",
+      "PageID": "15628428",
+      "created": "2012-05-14 18:00:32",
+      "updated": "2012-05-14 18:08:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        15628428,
+        15628429,
+        15628430,
+        15628431,
+        15628432,
+        15628433,
+        15628434,
+        15628435,
+        15628436,
+        15628437
+      ]
+    },
+    {
+      "reference_id": "88601",
+      "genre": "article",
+      "title": "XLI.\u2014Description of a new Acomys from Somaliland",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "6",
+      "spage": "269",
+      "epage": "270",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939608680452",
+      "PageID": "15628456",
+      "created": "2011-09-23 13:47:19",
+      "updated": "2011-09-23 13:47:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        15628456,
+        15628457
+      ]
+    },
+    {
+      "reference_id": "88400",
+      "genre": "article",
+      "title": "Some observations on spermatogenesis in spiders",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "6",
+      "spage": "346",
+      "epage": "348",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939608680468",
+      "PageID": "15628533",
+      "created": "2011-09-23 13:18:08",
+      "updated": "2011-09-23 13:18:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51665",
+          "lastname": "Wagner",
+          "forename": "Julius"
+        }
+      ],
+      "bhl_pages": [
+        15628533,
+        15628534,
+        15628535
+      ]
+    },
+    {
+      "reference_id": "88152",
+      "genre": "article",
+      "title": "LXIII.\u2014On the reproduction of the Tripylean Radiolaria (Ph\u0153odaria)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "6",
+      "spage": "422",
+      "epage": "426",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939608680480",
+      "PageID": "15628609",
+      "created": "2011-09-23 12:50:19",
+      "updated": "2011-09-23 12:50:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51576",
+          "lastname": "Borgert",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        15628609,
+        15628610,
+        15628611,
+        15628612,
+        15628613
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ItemID": "21234",
+  "FullTitle": "A new lizard of the genus Varanus from New Guinea.  ",
+  "VolumeInfo": "Volume 31, number 43",
+  "articles": [
+    {
+      "reference_id": "102406",
+      "genre": "article",
+      "title": "A new lizard of the genus Varanus from New Guinea",
+      "secondary_title": "Fieldiana Zoology",
+      "volume": "31",
+      "issue": "43",
+      "spage": "467",
+      "epage": "471",
+      "year": "1951",
+      "date": "1951-02-23",
+      "issn": "0015-0754",
+      "PageID": "2826577",
+      "created": "2012-04-22 16:21:14",
+      "updated": "2012-04-22 16:26:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53385",
+          "lastname": "Mertens",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        2826577,
+        2826560,
+        2826568,
+        2826569,
+        2826570
+      ]
+    }
+  ]
+}

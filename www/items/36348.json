@@ -1,0 +1,121 @@
+{
+  "ItemID": "36348",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 53 = 3rd ser. v.3 1917",
+  "articles": [
+    {
+      "reference_id": "70929",
+      "genre": "article",
+      "title": "Description of two new species of Cetoniidae",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "53",
+      "spage": "5",
+      "epage": "6",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1568052",
+      "PageID": "9186964",
+      "created": "2011-06-03 16:56:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46691",
+          "lastname": "Janson",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9186964,
+        9186965
+      ]
+    },
+    {
+      "reference_id": "67119",
+      "genre": "article",
+      "title": "Raphidia xanthostigma Schumm. in Middlesex and Essex",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "53",
+      "spage": "18",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1568052",
+      "PageID": "9186977",
+      "created": "2011-05-12 13:37:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45460",
+          "lastname": "Box",
+          "forename": "H E"
+        }
+      ],
+      "bhl_pages": [
+        9186977
+      ]
+    },
+    {
+      "reference_id": "65075",
+      "genre": "article",
+      "title": "On a new species of Docophoroides Giglioli (Eurymetopus Tasch.) from an albatross (Diomedea melanophrys)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "53",
+      "spage": "99",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9187099",
+      "created": "2011-01-31 13:47:26",
+      "updated": "2011-10-21 18:19:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10321",
+          "lastname": "Waterston",
+          "forename": "James"
+        }
+      ],
+      "bhl_pages": [
+        9187099
+      ]
+    },
+    {
+      "reference_id": "58982",
+      "genre": "article",
+      "title": "Observations on British Coccidae: With descriptions of new species",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "53",
+      "spage": "201",
+      "epage": "210",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9187221",
+      "created": "2010-11-20 23:21:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9187221,
+        9187222,
+        9187223,
+        9187224,
+        9187225,
+        9187226,
+        9187227,
+        9187228,
+        9187229,
+        9187230
+      ]
+    }
+  ]
+}

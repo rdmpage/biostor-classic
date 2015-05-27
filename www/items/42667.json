@@ -1,0 +1,117 @@
+{
+  "ItemID": "42667",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 20 1901",
+  "articles": [
+    {
+      "reference_id": "72306",
+      "genre": "article",
+      "title": "Erster Beitrag zur Coleopteren-Fauna des Kaukasus",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "20",
+      "spage": "9",
+      "epage": "10",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1769860",
+      "PageID": "11529509",
+      "created": "2011-06-04 01:10:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47006",
+          "lastname": "Konig",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11529509,
+        11529510
+      ]
+    },
+    {
+      "reference_id": "96544",
+      "genre": "article",
+      "title": "Uebersicht der Arten der Coleopteren-Gattung Pachnephorus REDT. aus der palaearctischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "20",
+      "spage": "53",
+      "epage": "54",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "1562-0891",
+      "PageID": "11529553",
+      "created": "2011-10-11 16:45:58",
+      "updated": "2011-10-11 16:45:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        11529553,
+        11529554
+      ]
+    },
+    {
+      "reference_id": "71178",
+      "genre": "article",
+      "title": "Eine neue Homopteren-Gattung und Art aus der Gruppe Delphacini",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "20",
+      "spage": "55",
+      "epage": "56",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1769860",
+      "PageID": "11529555",
+      "created": "2011-06-03 18:03:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40337",
+          "lastname": "Melichar",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        11529555,
+        11529556
+      ]
+    },
+    {
+      "reference_id": "73173",
+      "genre": "article",
+      "title": "Bemerkungen zu den Regeln uber Nomenklatur",
+      "secondary_title": "Wien. Ent. Zeitg",
+      "volume": "20",
+      "spage": "132",
+      "epage": "135",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1769860",
+      "PageID": "11529632",
+      "created": "2011-06-04 07:56:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10330",
+          "lastname": "Becker",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        11529632,
+        11529633,
+        11529634,
+        11529635
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ItemID": "22379",
+  "FullTitle": "Bulletin of the United States Fish Commission.",
+  "VolumeInfo": "v. 13 (1893)",
+  "articles": [
+    {
+      "reference_id": "104497",
+      "genre": "article",
+      "title": "Some observations concerning fish-parasites",
+      "secondary_title": "Bulletin of The United States Fish Commission",
+      "volume": "13",
+      "spage": "101",
+      "epage": "112",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1506338",
+      "PageID": "3156789",
+      "created": "2012-06-21 13:17:07",
+      "updated": "2012-06-21 13:17:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42524",
+          "lastname": "Linton",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3156789,
+        3157078,
+        3156894,
+        3156895,
+        3156896,
+        3156897,
+        3157079,
+        3157080,
+        3157081,
+        3157082,
+        3157083,
+        3156898
+      ]
+    }
+  ]
+}

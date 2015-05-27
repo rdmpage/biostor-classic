@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "R M",
+      "lastname": "Rueda",
+      "name": "R M Rueda"
+    }
+  ],
+  "type": "article",
+  "title": "A new scandent species of Aegiphila (Verbenaceae) from Costa Rica",
+  "journal": {
+    "name": "Novon",
+    "volume": "4",
+    "pages": "293--295",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1055-3177"
+      }
+    ]
+  },
+  "year": "1994",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/64674"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/639706"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 64674
+    },
+    {
+      "type": "bhl",
+      "id": 639706
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -84.016666666667,
+        10.433333333333
+      ]
+    ]
+  }
+}

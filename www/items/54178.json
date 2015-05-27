@@ -1,0 +1,37 @@
+{
+  "ItemID": "54178",
+  "FullTitle": "\u00d6fversigt af Kongl. Vetenskaps-akademiens forhandlingar.",
+  "VolumeInfo": "arg. 16 (1859)",
+  "articles": [
+    {
+      "reference_id": "72606",
+      "genre": "article",
+      "title": "Nya exotiska Epeirider",
+      "secondary_title": "\u00d6fvers. Kongl. vet. Akad. F\u00f6rh",
+      "volume": "16",
+      "spage": "299",
+      "epage": "304",
+      "year": "1859",
+      "date": "1859-00-00",
+      "PageID": "15963421",
+      "created": "2011-06-04 02:41:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9981",
+          "lastname": "Thorell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        15963421,
+        15963422,
+        15963423,
+        15963424,
+        15963425,
+        15963426
+      ]
+    }
+  ]
+}

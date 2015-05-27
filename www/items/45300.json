@@ -1,0 +1,769 @@
+{
+  "ItemID": "45300",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 32 1913",
+  "articles": [
+    {
+      "reference_id": "96932",
+      "genre": "article",
+      "title": "Eine neue Idiocerus-Art aus S\u00fcdfrankreich (Homopt.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "15",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558565",
+      "created": "2011-10-11 17:44:32",
+      "updated": "2011-10-11 17:44:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53153",
+          "lastname": "Melichar",
+          "forename": "Leopold"
+        }
+      ],
+      "bhl_pages": [
+        12558565
+      ]
+    },
+    {
+      "reference_id": "96933",
+      "genre": "article",
+      "title": "Gastrallus indicus n.sp. (Col. Anob.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "16",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558566",
+      "created": "2011-10-11 17:44:40",
+      "updated": "2011-10-11 17:44:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12558566
+      ]
+    },
+    {
+      "reference_id": "96934",
+      "genre": "article",
+      "title": "Synonymische Bemerkungen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "17",
+      "epage": "18",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558567",
+      "created": "2011-10-11 17:44:51",
+      "updated": "2011-10-11 17:44:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53060",
+          "lastname": "Weise",
+          "forename": "Julius"
+        }
+      ],
+      "bhl_pages": [
+        12558567,
+        12558568
+      ]
+    },
+    {
+      "reference_id": "96935",
+      "genre": "article",
+      "title": "Platyphora VERRALL und Psalidesma BECK",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "19",
+      "epage": "21",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558569",
+      "created": "2011-10-11 17:45:11",
+      "updated": "2011-10-11 17:45:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53119",
+          "lastname": "Becker",
+          "forename": "Theodor"
+        }
+      ],
+      "bhl_pages": [
+        12558569,
+        12558570,
+        12558571
+      ]
+    },
+    {
+      "reference_id": "96936",
+      "genre": "article",
+      "title": "Bestimmungstabellen der Otiorrhynchus-Arten mit ungez\u00e4hnten Schenkeln aus der palaearktischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "25",
+      "epage": "118",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558579",
+      "created": "2011-10-11 17:45:22",
+      "updated": "2011-10-11 17:45:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12558579,
+        12558580,
+        12558581,
+        12558582,
+        12558583,
+        12558584,
+        12558608,
+        12558609,
+        12558610,
+        12558611,
+        12558612,
+        12558613,
+        12558614,
+        12558615,
+        12558616,
+        12558617,
+        12558618,
+        12558619,
+        12558620,
+        12558621,
+        12558622,
+        12558623,
+        12558624,
+        12558625,
+        12558626,
+        12558627,
+        12558628,
+        12558629,
+        12558630,
+        12558631,
+        12558632,
+        12558633,
+        12558634,
+        12558635,
+        12558636,
+        12558637,
+        12558638,
+        12558639,
+        12558640,
+        12558641,
+        12558642,
+        12558643,
+        12558644,
+        12558645,
+        12558646,
+        12558647,
+        12558648,
+        12558649,
+        12558650,
+        12558651,
+        12558652,
+        12558653,
+        12558654,
+        12558655,
+        12558656,
+        12558657,
+        12558658,
+        12558659,
+        12558660,
+        12558661,
+        12558662,
+        12558663,
+        12558664,
+        12558665,
+        12558666,
+        12558667,
+        12558668,
+        12558669,
+        12558670,
+        12558671,
+        12558672,
+        12558673,
+        12558674,
+        12558675,
+        12558676,
+        12558677,
+        12558678,
+        12558679,
+        12558680,
+        12558681,
+        12558682,
+        12558683,
+        12558684,
+        12558685,
+        12558686,
+        12558687,
+        12558688,
+        12558689,
+        12558690,
+        12558691,
+        12558692,
+        12558693,
+        12558694,
+        12558695
+      ]
+    },
+    {
+      "reference_id": "96937",
+      "genre": "article",
+      "title": "Otiorrhynchus apulus n.sp",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "118",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558695",
+      "created": "2011-10-11 17:45:46",
+      "updated": "2011-10-11 17:45:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53215",
+          "lastname": "Solari",
+          "forename": "Angelo F"
+        }
+      ],
+      "bhl_pages": [
+        12558695
+      ]
+    },
+    {
+      "reference_id": "96938",
+      "genre": "article",
+      "title": "Ein neuer Anommatus aus der Herzegowina",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "122",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558699",
+      "created": "2011-10-11 17:45:58",
+      "updated": "2011-10-11 17:45:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53158",
+          "lastname": "M\u00fcller",
+          "forename": "Josef (Giuseppe)"
+        }
+      ],
+      "bhl_pages": [
+        12558699
+      ]
+    },
+    {
+      "reference_id": "96939",
+      "genre": "article",
+      "title": "Einige neue Lispa-Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "123",
+      "epage": "127",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558700",
+      "created": "2011-10-11 17:46:09",
+      "updated": "2011-10-11 17:46:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53119",
+          "lastname": "Becker",
+          "forename": "Theodor"
+        }
+      ],
+      "bhl_pages": [
+        12558700,
+        12558701,
+        12558702,
+        12558703,
+        12558704
+      ]
+    },
+    {
+      "reference_id": "96940",
+      "genre": "article",
+      "title": "\u00dcber die Rassen von Carabus Creutzeri FABR",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "131",
+      "epage": "133",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558708",
+      "created": "2011-10-11 17:46:17",
+      "updated": "2011-10-11 17:46:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53212",
+          "lastname": "Bernau",
+          "forename": "Gustav Karl"
+        }
+      ],
+      "bhl_pages": [
+        12558708,
+        12558709,
+        12558710
+      ]
+    },
+    {
+      "reference_id": "96941",
+      "genre": "article",
+      "title": "Coleopterologische Notiz",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "134",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558711",
+      "created": "2011-10-11 17:46:24",
+      "updated": "2011-10-11 17:46:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53212",
+          "lastname": "Bernau",
+          "forename": "Gustav Karl"
+        }
+      ],
+      "bhl_pages": [
+        12558711
+      ]
+    },
+    {
+      "reference_id": "96942",
+      "genre": "article",
+      "title": "Microlestes fulvibasis REITT. nicht aus Frankfurt",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "171",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558752",
+      "created": "2011-10-11 17:46:36",
+      "updated": "2011-10-11 17:46:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53081",
+          "lastname": "Von Heyden",
+          "forename": "Lucas Friedrich Julius Dominicus"
+        }
+      ],
+      "bhl_pages": [
+        12558752
+      ]
+    },
+    {
+      "reference_id": "96943",
+      "genre": "article",
+      "title": "Coleopterologische Notizen und Nachtr\u00e4ge",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "172",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558753",
+      "created": "2011-10-11 17:46:42",
+      "updated": "2011-10-11 17:46:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53212",
+          "lastname": "Bernau",
+          "forename": "Gustav Karl"
+        }
+      ],
+      "bhl_pages": [
+        12558753
+      ]
+    },
+    {
+      "reference_id": "96944",
+      "genre": "article",
+      "title": "Zwei neue Coptosomatiden-Gattungen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "175",
+      "epage": "177",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558756",
+      "created": "2011-10-11 17:46:46",
+      "updated": "2011-10-11 17:46:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53105",
+          "lastname": "Bergroth",
+          "forename": "Ernst Ewald"
+        }
+      ],
+      "bhl_pages": [
+        12558756,
+        12558757,
+        12558758
+      ]
+    },
+    {
+      "reference_id": "96945",
+      "genre": "article",
+      "title": "Fritz A. WACHTL. Ein Nachruf",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "187",
+      "epage": "189",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558772",
+      "created": "2011-10-11 17:46:58",
+      "updated": "2011-10-11 17:46:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12558772,
+        12558773,
+        12558774
+      ]
+    },
+    {
+      "reference_id": "96946",
+      "genre": "article",
+      "title": "\u00dcber die Rassen von Carabus cancellatus ILLIG. Ein Beitrag zu deren Kenntnis",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "191",
+      "epage": "210",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558776",
+      "created": "2011-10-11 17:47:04",
+      "updated": "2011-10-11 17:47:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53212",
+          "lastname": "Bernau",
+          "forename": "Gustav Karl"
+        }
+      ],
+      "bhl_pages": [
+        12558776,
+        12558777,
+        12558778,
+        12558779,
+        12558780,
+        12558781,
+        12558782,
+        12558783,
+        12558784,
+        12558785,
+        12558786,
+        12558787,
+        12558788,
+        12558789,
+        12558790,
+        12558791,
+        12558792,
+        12558793,
+        12558794,
+        12558795
+      ]
+    },
+    {
+      "reference_id": "96947",
+      "genre": "article",
+      "title": "Ein neuer Eccoptogaster aus der multistriatus-Gruppe",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "210",
+      "epage": "211",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558795",
+      "created": "2011-10-11 17:47:08",
+      "updated": "2011-10-11 17:47:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53201",
+          "lastname": "Wichmann",
+          "forename": "Heinrich E"
+        }
+      ],
+      "bhl_pages": [
+        12558795,
+        12558796
+      ]
+    },
+    {
+      "reference_id": "96948",
+      "genre": "article",
+      "title": "\u00dcber Choleva spadicea STRM. und zwei mit ihr verwandte neue Arten (Col. Silphidae.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "213",
+      "epage": "214",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558798",
+      "created": "2011-10-11 17:47:13",
+      "updated": "2011-10-11 17:47:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12558798,
+        12558799
+      ]
+    },
+    {
+      "reference_id": "96949",
+      "genre": "article",
+      "title": "Ein neuer Badister aus M\u00e4hren. (Col. Carabidae.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "215",
+      "epage": "216",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558800",
+      "created": "2011-10-11 17:47:19",
+      "updated": "2011-10-11 17:47:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12558800,
+        12558801
+      ]
+    },
+    {
+      "reference_id": "96950",
+      "genre": "article",
+      "title": "Neues \u00fcber afrikanische Chrysomyza-Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "217",
+      "epage": "218",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558802",
+      "created": "2011-10-11 17:47:24",
+      "updated": "2011-10-11 17:47:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53163",
+          "lastname": "Hendel",
+          "forename": "Friedrich Georg"
+        }
+      ],
+      "bhl_pages": [
+        12558802,
+        12558803
+      ]
+    },
+    {
+      "reference_id": "96951",
+      "genre": "article",
+      "title": "Zwei neue Dipteren aus dem Norden und S\u00fcden Europas",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "221",
+      "epage": "222",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558806",
+      "created": "2011-10-11 17:47:29",
+      "updated": "2011-10-11 17:47:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53216",
+          "lastname": "Schirmer",
+          "forename": "Karl"
+        }
+      ],
+      "bhl_pages": [
+        12558806,
+        12558807
+      ]
+    },
+    {
+      "reference_id": "96952",
+      "genre": "article",
+      "title": "Neue Anthiciden und Mitteilungen \u00fcber die Verbreitung bekannter Anthiciden",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "223",
+      "epage": "232",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558808",
+      "created": "2011-10-11 17:47:43",
+      "updated": "2011-10-11 17:47:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53217",
+          "lastname": "Von Treuland",
+          "forename": "Hans Krekich-Strassoldo"
+        }
+      ],
+      "bhl_pages": [
+        12558808,
+        12558809,
+        12558810,
+        12558811,
+        12558812,
+        12558813,
+        12558814,
+        12558815,
+        12558816,
+        12558817
+      ]
+    },
+    {
+      "reference_id": "96953",
+      "genre": "article",
+      "title": "Ein neuer Cupedide",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "235",
+      "epage": "237",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558824",
+      "created": "2011-10-11 17:47:50",
+      "updated": "2011-10-11 17:47:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53095",
+          "lastname": "Heller",
+          "forename": "Karl Maria"
+        }
+      ],
+      "bhl_pages": [
+        12558824,
+        12558825,
+        12558826
+      ]
+    },
+    {
+      "reference_id": "96954",
+      "genre": "article",
+      "title": "\u00dcber Cimex valdivianus PHIL",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "237",
+      "epage": "238",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558826",
+      "created": "2011-10-11 17:48:15",
+      "updated": "2011-10-11 17:48:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53059",
+          "lastname": "Reuter",
+          "forename": "Odo Morannal"
+        }
+      ],
+      "bhl_pages": [
+        12558826,
+        12558827
+      ]
+    },
+    {
+      "reference_id": "96955",
+      "genre": "article",
+      "title": "Sulla Gryllacris biguttata ST\u00c5L e sopra una sua nuova variet\u00e0",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "32",
+      "spage": "239",
+      "epage": "242",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "1562-0891",
+      "PageID": "12558828",
+      "created": "2011-10-11 17:48:20",
+      "updated": "2011-10-11 17:48:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53023",
+          "lastname": "Griffini",
+          "forename": "Achille"
+        }
+      ],
+      "bhl_pages": [
+        12558828,
+        12558829,
+        12558830,
+        12558831
+      ]
+    }
+  ]
+}

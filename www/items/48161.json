@@ -1,0 +1,99 @@
+{
+  "ItemID": "48161",
+  "FullTitle": "Natuurkundig tijdschrift voor Nederlandsch Indi\u00eb \/  uitgegeven door de Natuurkundige Vereeniging in Nederlandsch Indi\u00eb.",
+  "VolumeInfo": "v.4 1853",
+  "articles": [
+    {
+      "reference_id": "61623",
+      "genre": "article",
+      "title": "Derde bijdrage tot de kennis der ichthyologische fauna van Amboina",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "4",
+      "spage": "91",
+      "epage": "130",
+      "year": "1853",
+      "date": "1853-00-00",
+      "oclc": "7830420",
+      "PageID": "13483493",
+      "created": "2011-01-10 22:45:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13483493,
+        13483494,
+        13483495,
+        13483496,
+        13483497,
+        13483498,
+        13483499,
+        13483500,
+        13483501,
+        13483502,
+        13483503,
+        13483504,
+        13483505,
+        13483506,
+        13483507,
+        13483508,
+        13483509,
+        13483510,
+        13483511,
+        13483512,
+        13483513,
+        13483514,
+        13483515,
+        13483516,
+        13483517,
+        13483518,
+        13483519,
+        13483520,
+        13483521,
+        13483522,
+        13483523,
+        13483524,
+        13483525,
+        13483526,
+        13483527,
+        13483528,
+        13483529,
+        13483530,
+        13483531,
+        13483532
+      ]
+    },
+    {
+      "reference_id": "61420",
+      "genre": "article",
+      "title": "Exocoetus hexazona, eene nieuwe soort van Banka",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "4",
+      "spage": "206",
+      "epage": "207",
+      "year": "1853",
+      "date": "1853-00-00",
+      "oclc": "7830420",
+      "PageID": "13483608",
+      "created": "2011-01-10 20:01:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13483608,
+        13483609
+      ]
+    }
+  ]
+}

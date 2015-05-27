@@ -1,0 +1,232 @@
+{
+  "ItemID": "36504",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 21\/22 1884\/86",
+  "articles": [
+    {
+      "reference_id": "53311",
+      "genre": "article",
+      "title": "List of the Diptera of the island of Madeira, so far as they are mentioned in entomological literature",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "21",
+      "spage": "32",
+      "epage": "34",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9276376",
+      "created": "2010-10-26 20:05:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18244",
+          "lastname": "Osten Sacken",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        9276376,
+        9276377,
+        9276378
+      ]
+    },
+    {
+      "reference_id": "72958",
+      "genre": "article",
+      "title": "A synopsis of the central American species of Joppa, with diagnoses of new species",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "21",
+      "spage": "104",
+      "epage": "106",
+      "year": "1884",
+      "date": "1884-00-00",
+      "oclc": "1568052",
+      "PageID": "9276448",
+      "created": "2011-06-04 04:46:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9276448,
+        9276449,
+        9276450
+      ]
+    },
+    {
+      "reference_id": "60469",
+      "genre": "article",
+      "title": "Descriptions of a new genus and some new species of phytophagous Coleoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "21",
+      "spage": "222",
+      "epage": "226",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9276568",
+      "created": "2010-11-23 00:55:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42166",
+          "lastname": "Jacoby",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        9276568,
+        9276569,
+        9276570,
+        9276571,
+        9276572
+      ]
+    },
+    {
+      "reference_id": "71044",
+      "genre": "article",
+      "title": "Description of two new species of butterflies",
+      "secondary_title": "The Entomologist's Monthly Magazine",
+      "volume": "21",
+      "spage": "247",
+      "epage": "248",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "1568052",
+      "PageID": "9276593",
+      "created": "2011-06-03 17:36:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40933",
+          "lastname": "Smith",
+          "forename": "H G"
+        }
+      ],
+      "bhl_pages": [
+        9276593,
+        9276594
+      ]
+    },
+    {
+      "reference_id": "72045",
+      "genre": "article",
+      "title": "A new dragon-fly of the genus Anax from Madagascar",
+      "secondary_title": "Entomological Monthly Magazine",
+      "volume": "21",
+      "spage": "250",
+      "epage": "251",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "1568052",
+      "PageID": "9276596",
+      "created": "2011-06-04 00:16:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9276596,
+        9276597
+      ]
+    },
+    {
+      "reference_id": "65404",
+      "genre": "article",
+      "title": "Descriptions of Two New Species of Aradidae",
+      "secondary_title": "Entomol. Mo. Mag.",
+      "volume": "22",
+      "spage": "7",
+      "epage": "9",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0013-8908",
+      "PageID": "9276655",
+      "created": "2011-03-02 09:15:39",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10338",
+          "lastname": "Bergroth",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9276655,
+        9276656,
+        9276657
+      ]
+    },
+    {
+      "reference_id": "73203",
+      "genre": "article",
+      "title": "Description of a new maritime fly belonging to the family Scatomyzides, Fallen",
+      "secondary_title": "Ent. Mon. Mag",
+      "volume": "22",
+      "spage": "152",
+      "epage": "154",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0013-8908",
+      "PageID": "9276800",
+      "created": "2011-06-04 08:01:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47162",
+          "lastname": "Meade",
+          "forename": "R H"
+        }
+      ],
+      "bhl_pages": [
+        9276800,
+        9276801,
+        9276802
+      ]
+    },
+    {
+      "reference_id": "70968",
+      "genre": "article",
+      "title": "Description of a new species of the coleopterous genus Macronota (Cetoniades) from Ceylon",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "22",
+      "spage": "197",
+      "epage": "198",
+      "year": "1886",
+      "date": "1886-00-00",
+      "oclc": "1568052",
+      "PageID": "9276845",
+      "created": "2011-06-03 17:03:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9276845,
+        9276846
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemID": "61799",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "v. 11 (1843)",
+  "articles": [
+    {
+      "reference_id": "57213",
+      "genre": "article",
+      "title": "Description of a new genus of carabideous insects brought from the Falkland Islands by Charles Darwin, Esq",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "spage": "281",
+      "epage": "283",
+      "year": "1843",
+      "date": "1843-00-00",
+      "issn": "0374-5481",
+      "PageID": "18642186",
+      "created": "2010-11-10 16:20:31",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40179",
+          "lastname": "Waterhouse",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        18642186,
+        18642187,
+        18642188
+      ]
+    }
+  ]
+}

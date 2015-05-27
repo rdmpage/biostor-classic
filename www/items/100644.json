@@ -1,0 +1,36 @@
+{
+  "ItemID": "100644",
+  "FullTitle": "Comptes rendus des s\u00e9ances de la Soci\u00e9t\u00e9 de biologie et de ses filiales.  ",
+  "VolumeInfo": "an.1888:40th:ser.8:t.5",
+  "articles": [
+    {
+      "reference_id": "104729",
+      "genre": "article",
+      "title": "Note sur la Familie des Urc\u00e9olaires (Infusoires cili\u00e9s p\u00e9ritriches)",
+      "secondary_title": "Compte Rendu des Seances de la Societe de Biologie",
+      "volume": "5",
+      "spage": "238",
+      "epage": "241",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0037-9026",
+      "PageID": "32301182",
+      "created": "2012-06-26 13:05:28",
+      "updated": "2012-06-26 13:07:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53900",
+          "lastname": "Fabre-Domergue",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        32301182,
+        32301183,
+        32301184,
+        32301185
+      ]
+    }
+  ]
+}

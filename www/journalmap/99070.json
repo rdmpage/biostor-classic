@@ -1,0 +1,68 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    }
+  ],
+  "type": "article",
+  "title": "Frogs of the genus Colostethus (Anura; Dendrobatidae) in the Andes of northern Peru",
+  "journal": {
+    "name": "Scientific Papers Natural History Museum the University of Kansas",
+    "volume": "35",
+    "pages": "1--49",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1094-0782"
+      }
+    ]
+  },
+  "year": "2004",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/99070"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/8576330"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 99070
+    },
+    {
+      "type": "bhl",
+      "id": 8576330
+    },
+    {
+      "type": "doi",
+      "id": "10.5962\/bhl.title.8467"
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -77.7,
+        -5.7666666666667
+      ],
+      [
+        -78.033333333333,
+        -7.6
+      ],
+      [
+        -78.816666666667,
+        -6.3666666666667
+      ],
+      [
+        -79.283333333333,
+        -5.3166666666667
+      ]
+    ]
+  }
+}

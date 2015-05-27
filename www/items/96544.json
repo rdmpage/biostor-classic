@@ -1,0 +1,931 @@
+{
+  "ItemID": "96544",
+  "FullTitle": "Transactions of the Entomological Society of London.",
+  "VolumeInfo": "n.s., v. 3 1854-56",
+  "articles": [
+    {
+      "reference_id": "51482",
+      "genre": "article",
+      "title": "II. Description of a new Species of Lithocolletis",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "9",
+      "epage": "10",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb03150.x",
+      "PageID": "30707461",
+      "created": "2010-06-23 17:51:48",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2634",
+          "lastname": "Scott",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        30707461,
+        30707462
+      ]
+    },
+    {
+      "reference_id": "51483",
+      "genre": "article",
+      "title": "III. Critical Remarks upon the British Elaterid\u00e6, with Descriptions of some of the Species",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "10",
+      "epage": "17",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb03151.x",
+      "PageID": "30707462",
+      "created": "2010-06-23 17:51:50",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2686",
+          "lastname": "Curtis",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        30707462,
+        30707463,
+        30707464,
+        30707465,
+        30707466,
+        30707467,
+        30707468,
+        30707469
+      ]
+    },
+    {
+      "reference_id": "51484",
+      "genre": "article",
+      "title": "IV. Some Observations on the Excrement of Insects; in a Letter addressed to William Spence, Esq., F.R.S, &c",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "18",
+      "epage": "32",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb03152.x",
+      "PageID": "30707470",
+      "created": "2010-06-23 17:51:53",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40188",
+          "lastname": "Davy",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        30707470,
+        30707471,
+        30707472,
+        30707473,
+        30707474,
+        30707475,
+        30707476,
+        30707477,
+        30707478,
+        30707479,
+        30707480,
+        30707481,
+        30707482,
+        30707483,
+        30707484
+      ]
+    },
+    {
+      "reference_id": "51485",
+      "genre": "article",
+      "title": "V. Descriptions of some Coleopterous Larv\u00e6, &c",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "33",
+      "epage": "40",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb03153.x",
+      "PageID": "30707485",
+      "created": "2010-06-23 17:51:55",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2686",
+          "lastname": "Curtis",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        30707485,
+        30707486,
+        30707487,
+        30707488,
+        30707489,
+        30707490,
+        30707491,
+        30707492
+      ]
+    },
+    {
+      "reference_id": "51486",
+      "genre": "article",
+      "title": "VI. Observations on the Economy of Pompilus punctum and other Hymenoptera",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "41",
+      "epage": "43",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb03154.x",
+      "PageID": "30707493",
+      "created": "2010-06-23 17:51:57",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40189",
+          "lastname": "Smith",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        30707493,
+        30707532,
+        30707533
+      ]
+    },
+    {
+      "reference_id": "51487",
+      "genre": "article",
+      "title": "VII. Description of a new British Species of Ichneumon",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "44",
+      "epage": "44",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb03155.x",
+      "PageID": "30707534",
+      "created": "2010-06-23 17:52:00",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40190",
+          "lastname": "Desvignes",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        30707534
+      ]
+    },
+    {
+      "reference_id": "51479",
+      "genre": "article",
+      "title": "VIII. Characters of undescribed Lucanid\u00e6, collected in China, by R. Fortune, Esq",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "45",
+      "epage": "55",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb02659.x",
+      "PageID": "30707535",
+      "created": "2010-06-23 17:51:34",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40181",
+          "lastname": "Saunders",
+          "forename": "W Wilson"
+        }
+      ],
+      "bhl_pages": [
+        30707535,
+        30707536,
+        30707537,
+        30707538,
+        30707539,
+        30707540,
+        30707541,
+        30707542,
+        30707543,
+        30707544,
+        30707545
+      ]
+    },
+    {
+      "reference_id": "51480",
+      "genre": "article",
+      "title": "IX. Descriptions of two Species of the Genus Hemerobius of Linn\u00e6us, new to this Country, with Remarks on the Nomenclature of Coniopteryx, and on Orthot\u00e6nia Buoliana, &c",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "56",
+      "epage": "60",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb02660.x",
+      "PageID": "30707546",
+      "created": "2010-06-23 17:51:37",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2686",
+          "lastname": "Curtis",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        30707546,
+        30707547,
+        30707548,
+        30707549,
+        30707550
+      ]
+    },
+    {
+      "reference_id": "51481",
+      "genre": "article",
+      "title": "X. Supplemental Descriptions of Species of African, Asiatic and Australian Cetoniid\u00e6",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "61",
+      "epage": "74",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1854.tb02661.x",
+      "PageID": "30707551",
+      "created": "2010-06-23 17:51:40",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        30707551,
+        30707552,
+        30707553,
+        30707554,
+        30707555,
+        30707556,
+        30707557,
+        30707558,
+        30707559,
+        30707560,
+        30707561,
+        30707562,
+        30707563,
+        30707564
+      ]
+    },
+    {
+      "reference_id": "65454",
+      "genre": "article",
+      "title": "Supplemental descriptions of species of Afrian, Asiatic and Australian Cetoniidae",
+      "secondary_title": "Transactions of The Entomological Society of London",
+      "volume": "1854",
+      "spage": "61",
+      "epage": "74",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0035-8894",
+      "PageID": "30707551",
+      "created": "2011-03-06 11:14:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        30707551,
+        30707552,
+        30707553,
+        30707554,
+        30707555,
+        30707556,
+        30707557,
+        30707558,
+        30707559,
+        30707560,
+        30707561,
+        30707562,
+        30707563,
+        30707564
+      ]
+    },
+    {
+      "reference_id": "51474",
+      "genre": "article",
+      "title": "XII. Descriptions of Four New Species of Beetles, belonging to the Family Paussid\u00e6",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "81",
+      "epage": "83",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02663.x",
+      "PageID": "30707571",
+      "created": "2010-06-23 17:51:17",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        30707571,
+        30707572,
+        30707573
+      ]
+    },
+    {
+      "reference_id": "51475",
+      "genre": "article",
+      "title": "XIII. On some of the Difficulties of Entomological Students, as exemplified by recent Experience in the Genus Elachista",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "84",
+      "epage": "89",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02664.x",
+      "PageID": "30707574",
+      "created": "2010-06-23 17:51:20",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40173",
+          "lastname": "Stainton",
+          "forename": "H T"
+        }
+      ],
+      "bhl_pages": [
+        30707574,
+        30707575,
+        30707576,
+        30707577,
+        30707578,
+        30707579
+      ]
+    },
+    {
+      "reference_id": "98759",
+      "genre": "article",
+      "title": "On some of the difficulties of entomological students, as exemplified by recent experience in the genus Elachista",
+      "secondary_title": "Transactions of the Entomological Society of London",
+      "volume": "3",
+      "spage": "84",
+      "epage": "89",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "PageID": "30707574",
+      "created": "2011-12-02 15:17:14",
+      "updated": "2011-12-02 15:18:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40173",
+          "lastname": "Stainton",
+          "forename": "H T"
+        }
+      ],
+      "bhl_pages": [
+        30707574,
+        30707575,
+        30707576,
+        30707577,
+        30707578,
+        30707579
+      ]
+    },
+    {
+      "reference_id": "51476",
+      "genre": "article",
+      "title": "XIV. Description of a new Genus of Coleopterous Insects inhabiting the Interior of Ants' Nests, in Brazil",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "90",
+      "epage": "94",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02665.x",
+      "PageID": "30707580",
+      "created": "2010-06-23 17:51:23",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        30707580,
+        30707581,
+        30707582,
+        30707583,
+        30707584
+      ]
+    },
+    {
+      "reference_id": "51477",
+      "genre": "article",
+      "title": "XV. Essay on the Genera and Species of British Formicid\u00e6",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "95",
+      "epage": "135",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02666.x",
+      "PageID": "30707585",
+      "created": "2010-06-23 17:51:27",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40138",
+          "lastname": "Smith",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        30707585,
+        30707586,
+        30707587,
+        30707588,
+        30707589,
+        30707590,
+        30707591,
+        30707592,
+        30707593,
+        30707594,
+        30707595,
+        30707596,
+        30707597,
+        30707598,
+        30707599,
+        30707600,
+        30707601,
+        30707602,
+        30707603,
+        30707604,
+        30707605,
+        30707606,
+        30707607,
+        30707608,
+        30707609,
+        30707610,
+        30707611,
+        30707612,
+        30707613,
+        30707614,
+        30707615,
+        30707616,
+        30707617,
+        30707618,
+        30707619,
+        30707620,
+        30707621,
+        30707622,
+        30707623,
+        30707624,
+        30707625
+      ]
+    },
+    {
+      "reference_id": "51478",
+      "genre": "article",
+      "title": "XVI. British Species of the Genus Stenus",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "136",
+      "epage": "156",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02667.x",
+      "PageID": "30707626",
+      "created": "2010-06-23 17:51:31",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40187",
+          "lastname": "Waterhouse",
+          "forename": "Messrs G R"
+        },
+        {
+          "id": "40186",
+          "lastname": "Janson",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        30707626,
+        30707627,
+        30707628,
+        30707629,
+        30707630,
+        30707631,
+        30707632,
+        30707633,
+        30707634,
+        30707635,
+        30707636,
+        30707637,
+        30707638,
+        30707639,
+        30707640,
+        30707641,
+        30707642,
+        30707643,
+        30707644,
+        30707645,
+        30707646
+      ]
+    },
+    {
+      "reference_id": "51471",
+      "genre": "article",
+      "title": "XVII. Descriptions of some Species of Brazilian Ants belonging to the Genera Pseudomyrma, Eciton and Myrmica (with Observations on their Economy by Mr. H. W. Bates)",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "156",
+      "epage": "169",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02668.x",
+      "PageID": "30707646",
+      "created": "2010-06-23 17:51:10",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40138",
+          "lastname": "Smith",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        30707646,
+        30707647,
+        30707648,
+        30707649,
+        30707650,
+        30707651,
+        30707652,
+        30707653,
+        30707654,
+        30707655,
+        30707656,
+        30707657,
+        30707658,
+        30707659
+      ]
+    },
+    {
+      "reference_id": "51472",
+      "genre": "article",
+      "title": "XVIII. Monograph of the Australian Species of Chrysomela, Phyllocharis and allied Genera",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "170",
+      "epage": "186",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02669.x",
+      "PageID": "30707660",
+      "created": "2010-06-23 17:51:12",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40156",
+          "lastname": "Baly",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        30707660,
+        30707661,
+        30707662,
+        30707663,
+        30707664,
+        30707665,
+        30707666,
+        30707667,
+        30707668,
+        30707669,
+        30707670,
+        30707671,
+        30707672,
+        30707673,
+        30707674,
+        30707675,
+        30707676
+      ]
+    },
+    {
+      "reference_id": "51473",
+      "genre": "article",
+      "title": "XIX. Observations on the Honey Bee, in Continuation of the Prize Essay of the Entomological Society for the Year 1852",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "187",
+      "epage": "196",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02670.x",
+      "PageID": "30707677",
+      "created": "2010-06-23 17:51:14",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40171",
+          "lastname": "Desborough",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        30707677,
+        30707678,
+        30707679,
+        30707680,
+        30707681,
+        30707682,
+        30707683,
+        30707684,
+        30707685,
+        30707686
+      ]
+    },
+    {
+      "reference_id": "51467",
+      "genre": "article",
+      "title": "XX. Descriptions of some new Species of Exotic Lucanid\u00e6",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "197",
+      "epage": "221",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02671.x",
+      "PageID": "30707687",
+      "created": "2010-06-23 17:50:56",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        30707687,
+        30707688,
+        30707689,
+        30707690,
+        30707691,
+        30707692,
+        30707693,
+        30707694,
+        30707695,
+        30707696,
+        30707697,
+        30707698,
+        30707699,
+        30707700,
+        30707701,
+        30707702,
+        30707703,
+        30707704,
+        30707705,
+        30707706,
+        30707707,
+        30707708,
+        30707709,
+        30707710,
+        30707711
+      ]
+    },
+    {
+      "reference_id": "65452",
+      "genre": "article",
+      "title": "Descriptions of some new species of exotic Lucanidae",
+      "secondary_title": "Transactions of The Entomological Society of London",
+      "volume": "1855",
+      "spage": "197",
+      "epage": "221",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "PageID": "30707687",
+      "created": "2011-03-06 11:11:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        30707687,
+        30707688,
+        30707689,
+        30707690,
+        30707691,
+        30707692,
+        30707693,
+        30707694,
+        30707695,
+        30707696,
+        30707697,
+        30707698,
+        30707699,
+        30707700,
+        30707701,
+        30707702,
+        30707703,
+        30707704,
+        30707705,
+        30707706,
+        30707707,
+        30707708,
+        30707709,
+        30707710,
+        30707711
+      ]
+    },
+    {
+      "reference_id": "51468",
+      "genre": "article",
+      "title": "XXI. Observations on the Species of Elaterid\u00e6 described by Mr. Curtis in the First Part of the Third Volume of the New Series of the Transactions of the Entomological Society of London",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "222",
+      "epage": "224",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02672.x",
+      "PageID": "30707712",
+      "created": "2010-06-23 17:50:58",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40186",
+          "lastname": "Janson",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        30707712,
+        30707713,
+        30707714
+      ]
+    },
+    {
+      "reference_id": "51469",
+      "genre": "article",
+      "title": "XXII. Memorandum on the Wing-Mays of Insects",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "225",
+      "epage": "231",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02673.x",
+      "PageID": "30707715",
+      "created": "2010-06-23 17:51:00",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40184",
+          "lastname": "Newman",
+          "forename": "Edward"
+        }
+      ],
+      "bhl_pages": [
+        30707715,
+        30707716,
+        30707717,
+        30707718,
+        30707719,
+        30707720,
+        30707721
+      ]
+    },
+    {
+      "reference_id": "51470",
+      "genre": "article",
+      "title": "XXIII. On the Freshwater Entomostraca of South America",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "8",
+      "spage": "232",
+      "epage": "240",
+      "year": "1855",
+      "date": "1855-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1855.tb02674.x",
+      "PageID": "30707722",
+      "created": "2010-06-23 17:51:02",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2689",
+          "lastname": "Lubbock",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        30707722,
+        30707723,
+        30707724,
+        30707725,
+        30707726,
+        30707727,
+        30707728,
+        30707729,
+        30707730
+      ]
+    },
+    {
+      "reference_id": "71035",
+      "genre": "article",
+      "title": "Description of a New Species of Ornithoptera",
+      "secondary_title": "Trans. ent. Soc. Lond. (2)",
+      "volume": "3",
+      "spage": "104",
+      "epage": "105",
+      "oclc": "2334186",
+      "PageID": "30707898",
+      "created": "2011-06-03 17:35:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46723",
+          "lastname": "Wallace",
+          "forename": "Alfred Russel"
+        }
+      ],
+      "bhl_pages": [
+        30707898,
+        30707899
+      ]
+    }
+  ]
+}

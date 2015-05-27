@@ -1,0 +1,81 @@
+{
+  "ItemID": "48507",
+  "FullTitle": "Natuurkundig tijdschrift voor Nederlandsch Indi\u00eb \/  uitgegeven door de Natuurkundige Vereeniging in Nederlandsch Indi\u00eb.",
+  "VolumeInfo": "v.11 1856",
+  "articles": [
+    {
+      "reference_id": "61330",
+      "genre": "article",
+      "title": "Vijfde bijdrage tot de kennis der ichthyologische fauna van de Banda-eilanden",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "11",
+      "spage": "93",
+      "epage": "110",
+      "year": "1856",
+      "date": "1856-00-00",
+      "oclc": "7830420",
+      "PageID": "13641008",
+      "created": "2011-01-10 18:51:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13641008,
+        13641009,
+        13641010,
+        13641011,
+        13641012,
+        13641013,
+        13641014,
+        13641015,
+        13641016,
+        13641017,
+        13641018,
+        13641019,
+        13641020,
+        13641021,
+        13641022,
+        13641023,
+        13641024,
+        13641025
+      ]
+    },
+    {
+      "reference_id": "51952",
+      "genre": "article",
+      "title": "Besturrversgadering gehouden den 11 den Junij 1856, ten huize van den Heer",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch Indi\u00eb",
+      "volume": "11",
+      "spage": "465",
+      "epage": "470",
+      "year": "1856",
+      "date": "1856-00-00",
+      "oclc": "7830420",
+      "PageID": "13641380",
+      "created": "2010-06-27 11:41:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13641380,
+        13641381,
+        13641382,
+        13641383,
+        13641384,
+        13641385
+      ]
+    }
+  ]
+}

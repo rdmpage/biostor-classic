@@ -1,0 +1,122 @@
+{
+  "ItemID": "61863",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "4th ser. v. 3 (1869)",
+  "articles": [
+    {
+      "reference_id": "91627",
+      "genre": "article",
+      "title": "Deep-sea dredging",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "3",
+      "series": "4",
+      "spage": "168",
+      "epage": "170",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936908695905",
+      "PageID": "18662569",
+      "created": "2011-09-28 16:27:34",
+      "updated": "2011-09-28 16:27:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18662569,
+        18662570,
+        18662571
+      ]
+    },
+    {
+      "reference_id": "92717",
+      "genre": "article",
+      "title": "XXVII.\u2014On the manner of growth of Hyalonema",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "3",
+      "series": "4",
+      "spage": "192",
+      "epage": "196",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936908695917",
+      "PageID": "18662593",
+      "created": "2011-09-28 18:24:08",
+      "updated": "2011-09-28 18:24:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        18662593,
+        18662594,
+        18662595,
+        18662596,
+        18662597
+      ]
+    },
+    {
+      "reference_id": "92177",
+      "genre": "article",
+      "title": "Organogenic investigation of Eupomatia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "3",
+      "series": "4",
+      "spage": "244",
+      "epage": "245",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936908695930",
+      "PageID": "18662645",
+      "created": "2011-09-28 17:36:32",
+      "updated": "2011-09-28 17:36:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52476",
+          "lastname": "Baillon",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        18662645,
+        18662646
+      ]
+    },
+    {
+      "reference_id": "91603",
+      "genre": "article",
+      "title": "Calcareous sponges",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "3",
+      "series": "4",
+      "spage": "466",
+      "epage": "466",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936908695986",
+      "PageID": "18662867",
+      "created": "2011-09-28 16:23:53",
+      "updated": "2011-09-28 16:23:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2198",
+          "lastname": "Carter",
+          "forename": "H J"
+        }
+      ],
+      "bhl_pages": [
+        18662867
+      ]
+    }
+  ]
+}

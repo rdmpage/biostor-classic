@@ -1,0 +1,101 @@
+{
+  "ItemID": "47529",
+  "FullTitle": "Archiv fu\u0308r Naturgeschichte.",
+  "VolumeInfo": "v.78 Heft 5-8 1912",
+  "articles": [
+    {
+      "reference_id": "72808",
+      "genre": "article",
+      "title": "Neue Gattungen und Arten von Braconiden",
+      "secondary_title": "Archiv fur Naturgeschichte",
+      "volume": "78",
+      "spage": "94",
+      "epage": "100",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0365-6136",
+      "PageID": "13216316",
+      "created": "2011-06-04 04:18:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        13216316,
+        13216317,
+        13216318,
+        13216319,
+        13216320,
+        13216321,
+        13216322
+      ]
+    },
+    {
+      "reference_id": "61364",
+      "genre": "article",
+      "title": "Neue Scarabaeiden aus den Subfamilien Aphodiinae, Orphninae, und Hybosorinae",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "78",
+      "spage": "196",
+      "epage": "202",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1481990",
+      "PageID": "13216662",
+      "created": "2011-01-10 19:18:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10447",
+          "lastname": "Schmidt",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        13216662,
+        13216663,
+        13216664,
+        13216665,
+        13216666,
+        13216667,
+        13216668
+      ]
+    },
+    {
+      "reference_id": "72626",
+      "genre": "article",
+      "title": "\u00dcber einige Spinnen aus Travancore in Indien",
+      "secondary_title": "Arch. Naturg",
+      "volume": "78",
+      "spage": "144",
+      "epage": "148",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0365-6136",
+      "PageID": "13216830",
+      "created": "2011-06-04 02:47:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41987",
+          "lastname": "Strand",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        13216830,
+        13216831,
+        13216832,
+        13216833,
+        13216834
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "ItemID": "51155",
+  "FullTitle": "Fishery Board for Scotland. Scientific investigations.",
+  "VolumeInfo": "22 (1903)",
+  "articles": [
+    {
+      "reference_id": "102547",
+      "genre": "article",
+      "title": "On some parasites of fishes new to the Scottish marine fauna",
+      "secondary_title": "Fishery Board for Scotland. Scientific investigations",
+      "volume": "22",
+      "spage": "275",
+      "epage": "280",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "1589691",
+      "PageID": "14748559",
+      "created": "2012-04-26 11:53:36",
+      "updated": "2012-04-26 11:54:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42760",
+          "lastname": "Scott",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        14748559,
+        14748560,
+        14748561,
+        14748562,
+        14748563,
+        14748564,
+        14748565
+      ]
+    }
+  ]
+}

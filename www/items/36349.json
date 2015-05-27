@@ -1,0 +1,96 @@
+{
+  "ItemID": "36349",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 1\/2 1864\/66",
+  "articles": [
+    {
+      "reference_id": "60609",
+      "genre": "article",
+      "title": "On the Trichopterous genus Polycentropus, and the allied genera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "1",
+      "spage": "25",
+      "epage": "31",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9187358",
+      "created": "2010-11-23 03:10:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9187358,
+        9187359,
+        9187360,
+        9187361,
+        9187362,
+        9187363,
+        9187387
+      ]
+    },
+    {
+      "reference_id": "60517",
+      "genre": "article",
+      "title": "Description of a new species of Articerus from Australia",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "1",
+      "spage": "149",
+      "epage": "150",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9187505",
+      "created": "2010-11-23 01:18:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40179",
+          "lastname": "Waterhouse",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        9187505,
+        9187506
+      ]
+    },
+    {
+      "reference_id": "72724",
+      "genre": "article",
+      "title": "Notes on three little-known species of British Hemerobidae [sic]",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "2",
+      "spage": "268",
+      "epage": "270",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "1568052",
+      "PageID": "9187938",
+      "created": "2011-06-04 03:21:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9187938,
+        9187939,
+        9187940
+      ]
+    }
+  ]
+}

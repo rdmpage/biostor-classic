@@ -1,0 +1,94 @@
+{
+  "author": [
+    {
+      "firstname": "Julie Ann",
+      "lastname": "Haugsness",
+      "name": "Julie Ann Haugsness"
+    },
+    {
+      "firstname": "Robert R",
+      "lastname": "Hessler",
+      "name": "Robert R Hessler"
+    }
+  ],
+  "type": "article",
+  "title": "A revision of the subfamily Syneurycopinae (Isopoda: Asellota: Eucopidae) with a new genus and species (Bellibos buzwilsoni)",
+  "journal": {
+    "name": "Transactions of the San Diego Society of Natural History",
+    "volume": "19",
+    "issue": "10",
+    "pages": "121--151",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0080-5947"
+      }
+    ]
+  },
+  "year": "1979",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/40481"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/5785010"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 40481
+    },
+    {
+      "type": "bhl",
+      "id": 5785010
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -48.416666666667,
+        58.166666666667
+      ],
+      [
+        -64.36,
+        -55.715
+      ],
+      [
+        -64.125,
+        -55.526666666667
+      ],
+      [
+        -34.4,
+        -9.75
+      ],
+      [
+        156.55,
+        44.8
+      ],
+      [
+        -13.596666666667,
+        50.205
+      ],
+      [
+        -9.1616666666667,
+        47.516666666667
+      ],
+      [
+        7.8166666666667,
+        -41.05
+      ],
+      [
+        -22.266666666667,
+        40.95
+      ],
+      [
+        -151.16666666667,
+        9.4216666666667
+      ]
+    ]
+  }
+}

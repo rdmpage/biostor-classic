@@ -1,0 +1,36 @@
+{
+  "ItemID": "45717",
+  "FullTitle": "Kansas University quarterly.  ",
+  "VolumeInfo": "v.7 (1898)",
+  "articles": [
+    {
+      "reference_id": "73687",
+      "genre": "article",
+      "title": "Parasitic influences on Melanoplus",
+      "secondary_title": "Kans. Univ. Q. ser. A",
+      "volume": "7",
+      "spage": "207",
+      "epage": "210",
+      "year": "1898",
+      "date": "1898-00-00",
+      "oclc": "1608205",
+      "PageID": "12705672",
+      "created": "2011-06-04 09:36:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2973",
+          "lastname": "Hunter",
+          "forename": "S J"
+        }
+      ],
+      "bhl_pages": [
+        12705672,
+        12705673,
+        12705674,
+        12705675
+      ]
+    }
+  ]
+}

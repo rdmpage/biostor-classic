@@ -1,0 +1,36 @@
+{
+  "ItemID": "98371",
+  "FullTitle": "Journal and proceedings of the Asiatic Society of Bengal.",
+  "VolumeInfo": "new ser:v.2 (1906)",
+  "articles": [
+    {
+      "reference_id": "102842",
+      "genre": "article",
+      "title": "Parasites from the Gharial (Gavialis gangeticus, Geoffr.)",
+      "secondary_title": "Journal and Proceedings of the Asiatic Society of Bengal Calcutta",
+      "volume": "2",
+      "spage": "269",
+      "epage": "271",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "1814653",
+      "PageID": "31503413",
+      "created": "2012-05-15 01:05:55",
+      "updated": "2012-05-15 01:10:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53741",
+          "lastname": "Von Linstow",
+          "forename": "O F B"
+        }
+      ],
+      "bhl_pages": [
+        31503413,
+        31503414,
+        31503415,
+        31501957
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "ItemID": "36477",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 38 1902",
+  "articles": [
+    {
+      "reference_id": "72833",
+      "genre": "article",
+      "title": "A new species of Microgaster",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "38",
+      "spage": "4",
+      "epage": "5",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1568052",
+      "PageID": "9262551",
+      "created": "2011-06-04 04:23:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42891",
+          "lastname": "Morley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9262551,
+        9262550
+      ]
+    },
+    {
+      "reference_id": "57737",
+      "genre": "article",
+      "title": "An Australian species of Micropterygidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "38",
+      "spage": "60",
+      "epage": "61",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9262574",
+      "created": "2010-11-20 14:45:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39893",
+          "lastname": "Meyrick",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9262574,
+        9262575
+      ]
+    },
+    {
+      "reference_id": "104770",
+      "genre": "article",
+      "title": "New British fleas",
+      "secondary_title": "The Entomologist's monthly magazine",
+      "volume": "38",
+      "spage": "225",
+      "epage": "225",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1568052",
+      "PageID": "9262745",
+      "created": "2012-06-27 14:04:10",
+      "updated": "2012-06-27 14:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39962",
+          "lastname": "Rothschild",
+          "forename": "N Charles"
+        }
+      ],
+      "bhl_pages": [
+        9262745,
+        9262744
+      ]
+    },
+    {
+      "reference_id": "72723",
+      "genre": "article",
+      "title": "A second African species of Psychopsis: Ps. marshalli, McLach",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "38",
+      "spage": "234",
+      "epage": "235",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1568052",
+      "PageID": "9262754",
+      "created": "2011-06-04 03:20:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9262754,
+        9262755
+      ]
+    },
+    {
+      "reference_id": "57711",
+      "genre": "article",
+      "title": "Three new genera of Coccidae from Ceylon",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "38",
+      "spage": "260",
+      "epage": "263",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9262780",
+      "created": "2010-11-20 14:41:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9262780,
+        9262781,
+        9262782,
+        9262783
+      ]
+    },
+    {
+      "reference_id": "57712",
+      "genre": "article",
+      "title": "Note on Orthezia floccosa, De Geer",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "38",
+      "spage": "284",
+      "epage": "285",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9262804",
+      "created": "2010-11-20 14:41:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9262804,
+        9262805
+      ]
+    }
+  ]
+}

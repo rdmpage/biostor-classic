@@ -1,0 +1,44 @@
+{
+  "ItemID": "42554",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 15 1882",
+  "articles": [
+    {
+      "reference_id": "72905",
+      "genre": "article",
+      "title": "Introductory papers on Ichneumonidae",
+      "secondary_title": "Entomologist",
+      "volume": "15",
+      "spage": "222",
+      "epage": "228",
+      "year": "1882",
+      "date": "1882-00-00",
+      "issn": "0013-8878",
+      "PageID": "11487578",
+      "created": "2011-06-04 04:40:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47111",
+          "lastname": "Bridgman",
+          "forename": "J B"
+        },
+        {
+          "id": "47112",
+          "lastname": "Fitch",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        11487578,
+        11487579,
+        11487580,
+        11487581,
+        11487582,
+        11487583,
+        11487584
+      ]
+    }
+  ]
+}

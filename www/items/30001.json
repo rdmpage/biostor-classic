@@ -1,0 +1,128 @@
+{
+  "ItemID": "30001",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 46, bd. 1 (1880)",
+  "articles": [
+    {
+      "reference_id": "51908",
+      "genre": "article",
+      "title": "Neue Amphibien und Reptilien",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "46",
+      "spage": "215",
+      "epage": "226",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "1481990",
+      "PageID": "6324417",
+      "created": "2010-06-27 10:17:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39338",
+          "lastname": "Fischer",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        6324417,
+        6324418,
+        6324419,
+        6324420,
+        6324421,
+        6324422,
+        6324423,
+        6324424,
+        6324425,
+        6324426,
+        6324427,
+        6324428
+      ]
+    },
+    {
+      "reference_id": "4981",
+      "genre": "article",
+      "title": "Zur Kenntnis der Galeodiden",
+      "secondary_title": "Archiv fur Naturgeschichte",
+      "volume": "46",
+      "issue": "1",
+      "spage": "228",
+      "epage": "243",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0365-6136",
+      "PageID": "6324430",
+      "created": "2010-01-04 11:42:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6324430,
+        6324431,
+        6324432,
+        6324433,
+        6324434,
+        6324435,
+        6324436,
+        6324437,
+        6324438,
+        6324439,
+        6324440,
+        6324441,
+        6324442,
+        6324443,
+        6324444,
+        6324445
+      ]
+    },
+    {
+      "reference_id": "4980",
+      "genre": "article",
+      "title": "Ueber die Mundteile der Arachniden",
+      "secondary_title": "Archiv fur Naturgeschichte",
+      "volume": "46",
+      "issue": "1",
+      "spage": "285",
+      "epage": "300",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0365-6136",
+      "PageID": "6324487",
+      "created": "2010-01-04 11:41:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2640",
+          "lastname": "Croneberg",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        6324487,
+        6324488,
+        6324489,
+        6324490,
+        6324491,
+        6324492,
+        6324493,
+        6324494,
+        6324495,
+        6324496,
+        6324497,
+        6324498,
+        6324499,
+        6324500,
+        6324501,
+        6324502
+      ]
+    }
+  ]
+}

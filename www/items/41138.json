@@ -1,0 +1,43 @@
+{
+  "ItemID": "41138",
+  "FullTitle": "Bullettino della Societ\u00e0 entomologica italiana.",
+  "VolumeInfo": "v. 21 1889",
+  "articles": [
+    {
+      "reference_id": "61261",
+      "genre": "article",
+      "title": "Tavola analitica dei Tisanuri italiani da noi finora riscontrati",
+      "secondary_title": "Bullettino della Societ\u00e0 Entomologica Italiana",
+      "volume": "21",
+      "spage": "3",
+      "epage": "8",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1765746",
+      "PageID": "10912057",
+      "created": "2011-01-10 16:42:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42961",
+          "lastname": "Grassi",
+          "forename": "B"
+        },
+        {
+          "id": "42962",
+          "lastname": "Rovelli",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        10912057,
+        10912056,
+        10912055,
+        10912054,
+        10912053,
+        10912052
+      ]
+    }
+  ]
+}

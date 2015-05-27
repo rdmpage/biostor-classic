@@ -1,0 +1,41 @@
+{
+  "ItemID": "30199",
+  "FullTitle": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 34 (1859)",
+  "articles": [
+    {
+      "reference_id": "61251",
+      "genre": "article",
+      "title": "\u00dcber Trachypterus altivelis und Chaetodon truncatus, n. sp",
+      "secondary_title": "Sitzungsberichte der Akademie der Wissenschaften in Wien",
+      "volume": "34",
+      "spage": "437",
+      "epage": "445",
+      "year": "1859",
+      "date": "1859-00-00",
+      "oclc": "5882578",
+      "PageID": "6435658",
+      "created": "2011-01-10 16:36:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42957",
+          "lastname": "Kner",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        6435658,
+        6435659,
+        6435660,
+        6435661,
+        6435662,
+        6435663,
+        6435664,
+        6435665,
+        6435666
+      ]
+    }
+  ]
+}

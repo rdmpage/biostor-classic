@@ -1,0 +1,38 @@
+{
+  "ItemID": "30278",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 48, bd. 1 (1882)",
+  "articles": [
+    {
+      "reference_id": "61476",
+      "genre": "article",
+      "title": "Ein stomiatide aus Japan",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "48",
+      "spage": "26",
+      "epage": "31",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "1481990",
+      "PageID": "6482466",
+      "created": "2011-01-10 20:49:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42196",
+          "lastname": "D\u00f6derlein",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        6482466,
+        6482467,
+        6482468,
+        6482469,
+        6482470,
+        6482471
+      ]
+    }
+  ]
+}

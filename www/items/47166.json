@@ -1,0 +1,96 @@
+{
+  "ItemID": "47166",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.81 no.1 1996",
+  "articles": [
+    {
+      "reference_id": "62244",
+      "genre": "article",
+      "title": "A new species of Tetraneuris (Asteraceae, Helenieae) from the Late Tertiary Verde Formation of central Arizona",
+      "secondary_title": "Phytologia",
+      "volume": "81",
+      "spage": "5",
+      "epage": "9",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "13076141",
+      "created": "2011-01-26 20:24:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43393",
+          "lastname": "Denham",
+          "forename": "R A"
+        },
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13076141,
+        13076142,
+        13076143,
+        13076144,
+        13076145
+      ]
+    },
+    {
+      "reference_id": "63521",
+      "genre": "article",
+      "title": "Russelia manantlana (Scrophulariaceae), a new species from Jalisco, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "81",
+      "spage": "22",
+      "epage": "23",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "13076158",
+      "created": "2011-01-26 22:03:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13076158,
+        13076159
+      ]
+    },
+    {
+      "reference_id": "62323",
+      "genre": "article",
+      "title": "Paepalanthus subg. Xeractis (Eriocaulaceae): notes and nomenclatural changes",
+      "secondary_title": "Phytologia",
+      "volume": "81",
+      "spage": "24",
+      "epage": "27",
+      "issn": "0031-9430",
+      "PageID": "13076160",
+      "created": "2011-01-26 20:40:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43440",
+          "lastname": "Hensold",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        13076160,
+        13076161,
+        13076162,
+        13076163
+      ]
+    }
+  ]
+}

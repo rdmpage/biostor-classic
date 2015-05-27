@@ -1,0 +1,39 @@
+{
+  "ItemID": "31080",
+  "FullTitle": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "Bd. 85 (1882)",
+  "articles": [
+    {
+      "reference_id": "51890",
+      "genre": "article",
+      "title": "Batrachologische Beitr\u00e4ge",
+      "secondary_title": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe",
+      "volume": "85",
+      "spage": "188",
+      "epage": "194",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "5882985",
+      "PageID": "6903794",
+      "created": "2010-06-27 09:51:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6903794,
+        6903795,
+        6903796,
+        6903797,
+        6903798,
+        6903799,
+        6903800
+      ]
+    }
+  ]
+}

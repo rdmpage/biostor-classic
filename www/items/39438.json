@@ -1,0 +1,41 @@
+{
+  "ItemID": "39438",
+  "FullTitle": "Buletinul Societatii de Stiinte din Cluj.",
+  "VolumeInfo": "t.1, 1921-23",
+  "articles": [
+    {
+      "reference_id": "66738",
+      "genre": "article",
+      "title": "Description de trois Asellus cavernicoles nouveaux",
+      "secondary_title": "Buletinul Societatii De Stiinte Din Cluj",
+      "volume": "1",
+      "spage": "401",
+      "epage": "410",
+      "year": "1922",
+      "date": "1922-00-00",
+      "PageID": "10271786",
+      "created": "2011-05-09 20:31:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45310",
+          "lastname": "Racovitza",
+          "forename": "E G"
+        }
+      ],
+      "bhl_pages": [
+        10271786,
+        10271787,
+        10271788,
+        10271789,
+        10271790,
+        10271791,
+        10271792,
+        10271793,
+        10271794,
+        10271795
+      ]
+    }
+  ]
+}

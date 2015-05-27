@@ -1,0 +1,34 @@
+{
+  "ItemID": "22349",
+  "FullTitle": "Proceedings of the California Academy of Sciences.",
+  "VolumeInfo": "v. 3 (1863-1867)",
+  "articles": [
+    {
+      "reference_id": "69397",
+      "genre": "article",
+      "title": "New species of Scarabaeidae",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "3",
+      "spage": "97",
+      "epage": "98",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0068-547X",
+      "PageID": "3148149",
+      "created": "2011-06-01 08:55:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46263",
+          "lastname": "J.j.",
+          "forename": "Rivers"
+        }
+      ],
+      "bhl_pages": [
+        3148149,
+        3148150
+      ]
+    }
+  ]
+}

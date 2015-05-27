@@ -1,0 +1,56 @@
+{
+  "author": [
+    {
+      "firstname": "J P V",
+      "lastname": "Lith",
+      "name": "J P V Lith"
+    }
+  ],
+  "type": "article",
+  "title": "Neotropical species of Psen and Pseneo (Hymenoptera, Sphecidae, Psenini)",
+  "journal": {
+    "name": "Tijdschrift Voor Entomologie",
+    "volume": "118",
+    "pages": "1--41",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0040-7496"
+      }
+    ]
+  },
+  "year": "1975",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/49862"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/28195289"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 49862
+    },
+    {
+      "type": "bhl",
+      "id": 28195289
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -52.383333333333,
+        -27.183333333333
+      ],
+      [
+        -51.783333333333,
+        -12.833333333333
+      ]
+    ]
+  }
+}

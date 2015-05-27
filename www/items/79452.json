@@ -1,0 +1,144 @@
+{
+  "ItemID": "79452",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 52 (1900)",
+  "articles": [
+    {
+      "reference_id": "13680",
+      "genre": "article",
+      "title": "Mallophaga from Alaskan birds",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "52",
+      "spage": "151",
+      "epage": "159",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0097-3157",
+      "PageID": "24694031",
+      "created": "2010-01-12 18:12:44",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10104",
+          "lastname": "Kellogg",
+          "forename": "Vernon L"
+        },
+        {
+          "id": "10103",
+          "lastname": "Kuwana",
+          "forename": "Shinkai I"
+        }
+      ],
+      "bhl_pages": [
+        24694031,
+        24694032,
+        24694033,
+        24694034,
+        24694035,
+        24694036,
+        24694037,
+        24694038,
+        24694039
+      ]
+    },
+    {
+      "reference_id": "57589",
+      "genre": "article",
+      "title": "Note on the Australian Pupidae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1900",
+      "spage": "426",
+      "epage": "430",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0097-3157",
+      "PageID": "24694306",
+      "created": "2010-11-20 14:05:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42094",
+          "lastname": "Pilsbry",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        24694306,
+        24694307,
+        24694308,
+        24694309,
+        24694310
+      ]
+    },
+    {
+      "reference_id": "57588",
+      "genre": "article",
+      "title": "Notes on Polynesian and East Indian Pupidae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1900",
+      "spage": "431",
+      "epage": "433",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0097-3157",
+      "PageID": "24694311",
+      "created": "2010-11-20 14:05:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42094",
+          "lastname": "Pilsbry",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        24694311,
+        24694312,
+        24694313
+      ]
+    },
+    {
+      "reference_id": "57300",
+      "genre": "article",
+      "title": "Some Arachnida from Alabama",
+      "secondary_title": "Proc. Acad. nat. Sci. Philad.",
+      "volume": "52",
+      "spage": "529",
+      "epage": "543",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0097-3157",
+      "PageID": "24694409",
+      "created": "2010-11-18 13:46:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        24694409,
+        24694410,
+        24694411,
+        24694412,
+        24694413,
+        24694414,
+        24694415,
+        24694416,
+        24694417,
+        24694418,
+        24694419,
+        24694420,
+        24694421,
+        24694422,
+        24694423
+      ]
+    }
+  ]
+}

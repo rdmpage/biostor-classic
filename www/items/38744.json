@@ -1,0 +1,80 @@
+{
+  "ItemID": "38744",
+  "FullTitle": "Pomona College journal of entomology.",
+  "VolumeInfo": "v. 1-2 1909-1910",
+  "articles": [
+    {
+      "reference_id": "103407",
+      "genre": "article",
+      "title": "Some new Thysanoptera from southern California. 1",
+      "secondary_title": "Pomona Journal of Entomology",
+      "volume": "1",
+      "spage": "100",
+      "epage": "108",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "8273744",
+      "PageID": "10190908",
+      "created": "2012-05-22 20:54:07",
+      "updated": "2012-05-22 20:54:07",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        10190908,
+        10190909,
+        10190910,
+        10190911,
+        10190912,
+        10190913,
+        10190914,
+        10190915,
+        10190916
+      ]
+    },
+    {
+      "reference_id": "103399",
+      "genre": "article",
+      "title": "Thysanoptera of Mexico and the south. 2",
+      "secondary_title": "Pomona College Journal of Entomology",
+      "volume": "2",
+      "spage": "153",
+      "epage": "170",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "8273697",
+      "PageID": "10190965",
+      "created": "2012-05-22 18:07:06",
+      "updated": "2012-05-22 20:33:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10311",
+          "lastname": "Crawford",
+          "forename": "D L"
+        }
+      ],
+      "bhl_pages": [
+        10190965,
+        10190966,
+        10190967,
+        10190968,
+        10190969,
+        10190970,
+        10190971,
+        10190972,
+        10190973,
+        10190974,
+        10190975,
+        10190976,
+        10190977,
+        10190978,
+        10190979,
+        10190980,
+        10190981,
+        10190982
+      ]
+    }
+  ]
+}

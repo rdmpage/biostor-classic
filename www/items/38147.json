@@ -1,0 +1,37 @@
+{
+  "ItemID": "38147",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.45 (1912)",
+  "articles": [
+    {
+      "reference_id": "58633",
+      "genre": "article",
+      "title": "[1912] Some notes on Rotifera not previously recorded as occurring in New Zealand",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "45",
+      "spage": "163",
+      "epage": "167",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1778777",
+      "PageID": "9975902",
+      "created": "2010-11-20 22:17:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42393",
+          "lastname": "Morris",
+          "forename": "C B"
+        }
+      ],
+      "bhl_pages": [
+        9975902,
+        9975903,
+        9975904,
+        9975905,
+        9975906
+      ]
+    }
+  ]
+}

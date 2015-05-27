@@ -1,0 +1,78 @@
+{
+  "ItemID": "47368",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.62 no.1 1987",
+  "articles": [
+    {
+      "reference_id": "63324",
+      "genre": "article",
+      "title": "The distribution of Ophioglossum petiolatum Hooker in the United States with a report of it from Virginia",
+      "secondary_title": "Phytologia",
+      "volume": "62",
+      "spage": "1",
+      "epage": "4",
+      "year": "1987",
+      "date": "1987-00-00",
+      "issn": "0031-9430",
+      "PageID": "13153184",
+      "created": "2011-01-26 21:54:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43655",
+          "lastname": "Cox",
+          "forename": "P B"
+        },
+        {
+          "id": "43656",
+          "lastname": "Landry",
+          "forename": "G P"
+        },
+        {
+          "id": "43388",
+          "lastname": "Thomas",
+          "forename": "R D"
+        }
+      ],
+      "bhl_pages": [
+        13153184,
+        13153185,
+        13153186,
+        13153187
+      ]
+    },
+    {
+      "reference_id": "62347",
+      "genre": "article",
+      "title": "A new Coccoloba (Polygonaceae) from Costa Rica",
+      "secondary_title": "Phytologia",
+      "volume": "62",
+      "spage": "7",
+      "epage": "8",
+      "year": "1987",
+      "date": "1987-00-00",
+      "issn": "0031-9430",
+      "PageID": "13153190",
+      "created": "2011-01-26 20:56:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43457",
+          "lastname": "G\u00f3mez-Laurito",
+          "forename": "J"
+        },
+        {
+          "id": "43458",
+          "lastname": "Zamora",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        13153190,
+        13153191
+      ]
+    }
+  ]
+}

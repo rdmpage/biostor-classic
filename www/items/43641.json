@@ -1,0 +1,93 @@
+{
+  "ItemID": "43641",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 33 1900",
+  "articles": [
+    {
+      "reference_id": "60926",
+      "genre": "article",
+      "title": "On a new Genus of Lycaenidae hitherto confounded with Catochrysops",
+      "secondary_title": "Entomologist",
+      "volume": "33",
+      "spage": "1",
+      "epage": "2",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0013-8878",
+      "PageID": "11923530",
+      "created": "2010-11-26 19:24:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        11923530,
+        11923529
+      ]
+    },
+    {
+      "reference_id": "60923",
+      "genre": "article",
+      "title": "Bibliographical and nomenclatorial notes on Rhynchota No. 1",
+      "secondary_title": "Entomologist",
+      "volume": "33",
+      "spage": "238",
+      "epage": "243",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0013-8878",
+      "PageID": "11923754",
+      "created": "2010-11-26 19:24:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11923754,
+        11923755,
+        11923756,
+        11923757,
+        11923758,
+        11923759
+      ]
+    },
+    {
+      "reference_id": "60918",
+      "genre": "article",
+      "title": "Notes on some Sinhalese Rhynchota",
+      "secondary_title": "The Entomologist",
+      "volume": "33",
+      "spage": "293",
+      "epage": "295",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0013-8878",
+      "PageID": "11923811",
+      "created": "2010-11-26 19:24:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39954",
+          "lastname": "Kirkaldy",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        11923811,
+        11923812,
+        11923813
+      ]
+    }
+  ]
+}

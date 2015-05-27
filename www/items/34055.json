@@ -1,0 +1,130 @@
+{
+  "ItemID": "34055",
+  "FullTitle": "Journal of the New York Entomological Society.",
+  "VolumeInfo": "v. 15 1907",
+  "articles": [
+    {
+      "reference_id": "71041",
+      "genre": "article",
+      "title": "Descriptions of new American Lepidoptera",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "15",
+      "spage": "50",
+      "epage": "53",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0028-7199",
+      "PageID": "8203399",
+      "created": "2011-06-03 17:36:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42164",
+          "lastname": "Dyar",
+          "forename": "H G"
+        }
+      ],
+      "bhl_pages": [
+        8203399,
+        8203400,
+        8203401,
+        8203402
+      ]
+    },
+    {
+      "reference_id": "72174",
+      "genre": "article",
+      "title": "New Genera and Species of North American Cerambycid\u00e6",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "15",
+      "spage": "80",
+      "epage": "87",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0028-7199",
+      "PageID": "8203433",
+      "created": "2011-06-04 00:43:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2313",
+          "lastname": "Fall",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8203433,
+        8203434,
+        8203435,
+        8203436,
+        8203437,
+        8203438,
+        8203439,
+        8203440
+      ]
+    },
+    {
+      "reference_id": "72468",
+      "genre": "article",
+      "title": "|Trichogramma pretiosa| Riley. Miscellaneous habits of the adult, with a list of hosts",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "15",
+      "spage": "117",
+      "epage": "120",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0028-7199",
+      "PageID": "8203476",
+      "created": "2011-06-04 01:59:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        8203476,
+        8203477,
+        8203478,
+        8203479
+      ]
+    },
+    {
+      "reference_id": "58080",
+      "genre": "article",
+      "title": "New North American Hymenoptera",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "15",
+      "spage": "177",
+      "epage": "183",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0028-7199",
+      "PageID": "8203540",
+      "created": "2010-11-20 19:48:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2353",
+          "lastname": "Crawford",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        8203540,
+        8203541,
+        8203542,
+        8203543,
+        8203544,
+        8203545,
+        8203546
+      ]
+    }
+  ]
+}

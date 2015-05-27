@@ -1,0 +1,88 @@
+{
+  "ItemID": "24299",
+  "FullTitle": "Bulletin of the Museum of Comparative Zoology at Harvard College.",
+  "VolumeInfo": "v.13 (1886-1888)",
+  "articles": [
+    {
+      "reference_id": "61482",
+      "genre": "article",
+      "title": "Reports on the results of dredging, under the supervision of Alexander Agassiz, in the Gulf of Mexico (1877-78) in the Caribbean Sea (1879-80), and along the eastern coast of the United States during the summer of 1880, by the U.S. Coast Survey steamer Blake, Lieut.-Commander C.D. Sigsbee, U.S.N., and Commander J.R. Bartlett, U.S.N., commanding. XXX. Report on the Holothuroidea",
+      "secondary_title": "Bulletin of the Museum of Comparative Zoology, Harvard",
+      "volume": "13",
+      "spage": "1",
+      "epage": "21",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0027-4100",
+      "PageID": "3897381",
+      "created": "2011-01-10 20:54:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43035",
+          "lastname": "Th\u00e9el",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        3897381,
+        3897382,
+        3897383,
+        3897384,
+        3897385,
+        3897386,
+        3897387,
+        3897388,
+        3897389,
+        3897390,
+        3897391,
+        3897392,
+        3897393,
+        3897394,
+        3897395,
+        3897396,
+        3897397,
+        3897398,
+        3897399,
+        3897400,
+        3897401
+      ]
+    },
+    {
+      "reference_id": "978",
+      "genre": "article",
+      "title": "The rattle of the rattlesnake",
+      "secondary_title": "Bulletin of The Museum of Comparative Zoology",
+      "volume": "13",
+      "spage": "259",
+      "epage": "268",
+      "year": "1888",
+      "date": "1888-00-00",
+      "issn": "0027-4100",
+      "PageID": "3897679",
+      "created": "2009-12-23 04:30:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "811",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        3897679,
+        3897680,
+        3897681,
+        3897682,
+        3897683,
+        3897684,
+        3897685,
+        3897686,
+        3897687,
+        3897688
+      ]
+    }
+  ]
+}

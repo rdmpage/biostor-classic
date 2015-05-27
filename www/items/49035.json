@@ -1,0 +1,65 @@
+{
+  "ItemID": "49035",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v.11 (1904)",
+  "articles": [
+    {
+      "reference_id": "73375",
+      "genre": "article",
+      "title": "Some notes, and descriptions of four new Diptera",
+      "secondary_title": "Psyche",
+      "volume": "11",
+      "spage": "15",
+      "epage": "20",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0033-2615",
+      "PageID": "13809385",
+      "created": "2011-06-04 08:25:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13809385,
+        13809386,
+        13809387,
+        13809388,
+        13809389,
+        13809390
+      ]
+    },
+    {
+      "reference_id": "73391",
+      "genre": "article",
+      "title": "Some of the Diptera to be collected during April and May",
+      "secondary_title": "Psyche",
+      "volume": "11",
+      "spage": "37",
+      "epage": "38",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0033-2615",
+      "PageID": "13809411",
+      "created": "2011-06-04 08:28:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13809411,
+        13809412
+      ]
+    }
+  ]
+}

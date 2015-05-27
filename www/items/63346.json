@@ -1,0 +1,125 @@
+{
+  "ItemID": "63346",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "6th ser. v. 20 (1897)",
+  "articles": [
+    {
+      "reference_id": "98188",
+      "genre": "article",
+      "title": "The Actiniarian Family Aliciidae",
+      "secondary_title": "Annals of Natural History",
+      "volume": "20",
+      "spage": "1",
+      "epage": "15",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0374-5481",
+      "PageID": "19213454",
+      "created": "2011-11-19 14:31:42",
+      "updated": "2011-11-19 14:31:42",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        19213454,
+        19213455,
+        19213456,
+        19213457,
+        19213458,
+        19213459,
+        19213460,
+        19213461,
+        19213462,
+        19213463,
+        19213464,
+        19213465,
+        19213466,
+        19213467,
+        19213468
+      ]
+    },
+    {
+      "reference_id": "88384",
+      "genre": "article",
+      "title": "Proceedings of Learned Societies",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "6",
+      "spage": "248",
+      "epage": "248",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939708680622",
+      "PageID": "19213703",
+      "created": "2011-09-23 13:15:59",
+      "updated": "2011-09-23 13:15:59",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        19213703
+      ]
+    },
+    {
+      "reference_id": "88961",
+      "genre": "article",
+      "title": "XXXVI.\u2014On the excretory organs and blood-vascular system of Tetrastemma graecense, B\u00f6hmig. (A Provisional Communication)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "6",
+      "spage": "324",
+      "epage": "326",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939708680635",
+      "PageID": "19213793",
+      "created": "2011-09-23 14:37:22",
+      "updated": "2011-09-23 14:37:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51760",
+          "lastname": "B\u00f6hmig",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        19213793,
+        19213794,
+        19213795
+      ]
+    },
+    {
+      "reference_id": "88206",
+      "genre": "article",
+      "title": "Note on the dates of \"The Zoology of the \u2018Beagle\u2019\"",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "20",
+      "series": "6",
+      "spage": "483",
+      "epage": "483",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939708680665",
+      "PageID": "19213954",
+      "created": "2011-09-23 12:55:16",
+      "updated": "2011-09-23 12:55:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51315",
+          "lastname": "Sherborn",
+          "forename": "C Davies"
+        }
+      ],
+      "bhl_pages": [
+        19213954
+      ]
+    }
+  ]
+}

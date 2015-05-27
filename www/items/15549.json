@@ -1,0 +1,110 @@
+{
+  "ItemID": "15549",
+  "FullTitle": "The Journal of the Quekett Microscopical Club.",
+  "VolumeInfo": "ser. 2, v. 12 (1913)",
+  "articles": [
+    {
+      "reference_id": "102283",
+      "genre": "article",
+      "title": "The Rotifera of Devils Lake, with description of a new Brachionus",
+      "secondary_title": "Journal of The Quekett Microscopical Club",
+      "volume": "12",
+      "spage": "57",
+      "epage": "64",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0368-3915",
+      "PageID": "816524",
+      "created": "2012-04-02 18:20:30",
+      "updated": "2012-04-02 18:20:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        816524,
+        816661,
+        816394,
+        816677,
+        816181,
+        816305,
+        816435,
+        816404
+      ]
+    },
+    {
+      "reference_id": "58572",
+      "genre": "article",
+      "title": "On five new species of Bdelloid Rotifer",
+      "secondary_title": "Journal of the Quekett Microscopical Club",
+      "volume": "12",
+      "spage": "83",
+      "epage": "94",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1763306",
+      "PageID": "816246",
+      "created": "2010-11-20 21:54:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42380",
+          "lastname": "Bryce",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        816246,
+        816036,
+        816135,
+        815979,
+        816242,
+        816250,
+        816285,
+        816139,
+        815988,
+        816011,
+        816047,
+        816701
+      ]
+    },
+    {
+      "reference_id": "58785",
+      "genre": "article",
+      "title": "On five new species of the genus Habrotrocha",
+      "secondary_title": "Journal of the Quekett Microscopical Club",
+      "volume": "12",
+      "spage": "631",
+      "epage": "642",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "1763306",
+      "PageID": "816662",
+      "created": "2010-11-20 22:51:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42380",
+          "lastname": "Bryce",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        816662,
+        816582,
+        816471,
+        816708,
+        815966,
+        815976,
+        815983,
+        816420,
+        815924,
+        816552,
+        816028,
+        816453
+      ]
+    }
+  ]
+}

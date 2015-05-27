@@ -1,0 +1,41 @@
+{
+  "ItemID": "8649",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1879 v. 26",
+  "articles": [
+    {
+      "reference_id": "14101",
+      "genre": "article",
+      "title": "Diagnoses nouvelles de quelques esp\u00e8ces critiques de champignons",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "26",
+      "spage": "228",
+      "epage": "236",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0181-1789",
+      "PageID": "260513",
+      "created": "2010-01-14 08:35:12",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10193",
+          "lastname": "Qu\u00e9let",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        260513,
+        260514,
+        260515,
+        260516,
+        260517,
+        260518,
+        260519,
+        260520,
+        260521
+      ]
+    }
+  ]
+}

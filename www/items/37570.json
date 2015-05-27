@@ -1,0 +1,85 @@
+{
+  "ItemID": "37570",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 5 1882",
+  "articles": [
+    {
+      "reference_id": "98478",
+      "genre": "article",
+      "title": "Uber eine Ubergangsform zwischen Semostomen und Rhizostomen (Pseudorhiza aurosa, g. & sp. nn.)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "5",
+      "spage": "380",
+      "epage": "383",
+      "year": "1882",
+      "date": "1882-00-00",
+      "issn": "0044-5231",
+      "PageID": "9734451",
+      "created": "2011-11-30 15:39:55",
+      "updated": "2011-11-30 15:44:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9734451,
+        9734452,
+        9734453,
+        9734454
+      ]
+    },
+    {
+      "reference_id": "98459",
+      "genre": "article",
+      "title": "Ueber die rosettenformigen Leuchtorgane der Tomopteriden und zwei neue Arten von Tomopteris",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "5",
+      "spage": "384",
+      "epage": "387",
+      "year": "1882",
+      "date": "1882-00-00",
+      "issn": "0044-5231",
+      "PageID": "9734455",
+      "created": "2011-11-30 14:18:58",
+      "updated": "2011-11-30 14:18:58",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9734455,
+        9734456,
+        9734457,
+        9734458
+      ]
+    },
+    {
+      "reference_id": "49000",
+      "genre": "article",
+      "title": "Diagnoses Reptilium et Batrachiorum Novorum insulae Nossi-B\u00e9 Madagascariensis",
+      "secondary_title": "Zool. Anz.",
+      "volume": "5",
+      "spage": "478",
+      "epage": "480",
+      "year": "1882",
+      "date": "1882-00-00",
+      "issn": "0044-5231",
+      "PageID": "9734549",
+      "created": "2010-03-21 10:40:01",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9734549,
+        9734550,
+        9734551
+      ]
+    }
+  ]
+}

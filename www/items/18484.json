@@ -1,0 +1,37 @@
+{
+  "ItemID": "18484",
+  "FullTitle": "The Journal of the Quekett Microscopical Club.",
+  "VolumeInfo": "v. 5 (1878-1879)",
+  "articles": [
+    {
+      "reference_id": "72034",
+      "genre": "article",
+      "title": "On a new British sponge of the genus Microciona",
+      "secondary_title": "Journal of the Quekett Microscopical Club",
+      "volume": "5",
+      "spage": "1",
+      "epage": "5",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "1763306",
+      "PageID": "2051266",
+      "created": "2011-06-04 00:13:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46831",
+          "lastname": "Waller",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        2051266,
+        2051267,
+        2051268,
+        2051269,
+        2051270
+      ]
+    }
+  ]
+}

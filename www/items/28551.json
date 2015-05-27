@@ -1,0 +1,39 @@
+{
+  "ItemID": "28551",
+  "FullTitle": "Occasional papers of the Museum of Natural History, the University of Kansas.",
+  "VolumeInfo": "no.138 (1990)",
+  "articles": [
+    {
+      "reference_id": "215",
+      "genre": "article",
+      "title": "A new species of leptodactylid frog, genus Ischnocnema, from Peru",
+      "secondary_title": "Occasional Papers of the Museum of Natural History University of Kansas",
+      "volume": "138",
+      "spage": "1",
+      "epage": "7",
+      "year": "1990",
+      "date": "1990-09-06",
+      "issn": "0091-7958",
+      "PageID": "5721321",
+      "created": "2009-12-21 23:38:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "5",
+          "lastname": "Duellman",
+          "forename": "William E"
+        }
+      ],
+      "bhl_pages": [
+        5721321,
+        5721315,
+        5721320,
+        5721313,
+        5721312,
+        5721311,
+        5721310
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ItemID": "28778",
+  "FullTitle": "The Ohio journal of science.",
+  "VolumeInfo": "v. 22 (1921-1922)",
+  "articles": [
+    {
+      "reference_id": "72848",
+      "genre": "article",
+      "title": "A new hymenopterous parasite upon adult beetles",
+      "secondary_title": "Ohio Journal of Science",
+      "volume": "22",
+      "spage": "140",
+      "epage": "142",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0030-0950",
+      "PageID": "5821077",
+      "created": "2011-06-04 04:25:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2352",
+          "lastname": "Gahan",
+          "forename": "A B"
+        }
+      ],
+      "bhl_pages": [
+        5821077,
+        5821078,
+        5821079
+      ]
+    },
+    {
+      "reference_id": "73091",
+      "genre": "article",
+      "title": "Descriptions of Alaskan Diptera of the family Syrphidae",
+      "secondary_title": "Ohio J. Sci",
+      "volume": "22",
+      "spage": "143",
+      "epage": "147",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0030-0950",
+      "PageID": "5821080",
+      "created": "2011-06-04 07:42:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47141",
+          "lastname": "Hine",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        5821080,
+        5821081,
+        5821082,
+        5821083,
+        5821084
+      ]
+    }
+  ]
+}

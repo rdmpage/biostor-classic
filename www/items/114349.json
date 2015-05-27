@@ -1,0 +1,75 @@
+{
+  "ItemID": "114349",
+  "FullTitle": "Liangqi baxing dongwu yanjiu = Acta herpetologica Sinica.",
+  "VolumeInfo": "new ser.:v.6 (1987)",
+  "articles": [
+    {
+      "reference_id": "102032",
+      "genre": "article",
+      "title": "\u5357\u660c\u7d2f\u667a\u5c5e\u5438\u866b\u4e00\u65b0\u79cd (\u590d\u6b96\u76ee:\u4f3c\u5de8\u9888\u79d1)",
+      "secondary_title": "Acta Herpetologica Sinica",
+      "volume": "6",
+      "issue": "3",
+      "spage": "67",
+      "epage": "70",
+      "year": "1987",
+      "date": "1987-00-00",
+      "issn": "1000-3215",
+      "PageID": "37170576",
+      "created": "2012-03-26 14:35:30",
+      "updated": "2012-03-26 14:36:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53568",
+          "lastname": "",
+          "forename": "\u5468\u9759\u4eea"
+        },
+        {
+          "id": "53569",
+          "lastname": "",
+          "forename": "\u738b\u6eaa\u4e91"
+        }
+      ],
+      "bhl_pages": [
+        37170576,
+        37170577,
+        37170578,
+        37170579
+      ]
+    },
+    {
+      "reference_id": "100144",
+      "genre": "article",
+      "title": "\u4e24\u6816\u3001\u722c\u884c\u52a8\u7269\u7684\u5bc4\u751f\u590d\u6b96\u5438\u866b\u56db\u65b0\u79cd",
+      "secondary_title": "Acta Herpetologica Sinica",
+      "volume": "6",
+      "spage": "71",
+      "epage": "77",
+      "year": "1987",
+      "date": "1987-00-00",
+      "issn": "1000-3215",
+      "oclc": "9661040",
+      "PageID": "37170580",
+      "created": "2012-01-01 18:04:10",
+      "updated": "2012-01-01 18:13:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53394",
+          "lastname": "",
+          "forename": "\u6c6a\u6ea5\u94a6"
+        }
+      ],
+      "bhl_pages": [
+        37170580,
+        37170581,
+        37170582,
+        37170583,
+        37170584,
+        37170585,
+        37170586
+      ]
+    }
+  ]
+}

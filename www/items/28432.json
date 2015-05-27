@@ -1,0 +1,99 @@
+{
+  "ItemID": "28432",
+  "FullTitle": "Archives de zoologie exp\u00e9rimentale et g\u00e9n\u00e9rale.",
+  "VolumeInfo": "t. 33; (ser. 4, t. 3) (1905)",
+  "articles": [
+    {
+      "reference_id": "100711",
+      "genre": "article",
+      "title": "Zur Kenntnis der skandinavischen und arktischen",
+      "secondary_title": "Archives de Zoologie Experimentale",
+      "volume": "33",
+      "series": "4",
+      "spage": "133",
+      "epage": "164",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1482076",
+      "PageID": "5656169",
+      "created": "2012-02-24 10:51:06",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53444",
+          "lastname": "\u00d6stergren",
+          "forename": "Hjalmar"
+        }
+      ],
+      "bhl_pages": [
+        5656169,
+        5656170,
+        5656171,
+        5656172,
+        5656173,
+        5656174,
+        5656234,
+        5656235,
+        5656236,
+        5656237,
+        5656238,
+        5656239,
+        5656240,
+        5656241,
+        5656242,
+        5656243,
+        5656175,
+        5656176,
+        5656177,
+        5656178,
+        5656179,
+        5656180,
+        5656181,
+        5656182,
+        5656183,
+        5656184,
+        5656185,
+        5656186,
+        5656187,
+        5656188,
+        5656189,
+        5656190
+      ]
+    },
+    {
+      "reference_id": "100710",
+      "genre": "article",
+      "title": "Zwei koreanische Holothurien",
+      "secondary_title": "Archives de zoologie exp\u00e9rimentale et g\u00e9n\u00e9rale",
+      "volume": "33",
+      "series": "4",
+      "spage": "192",
+      "epage": "199",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1482076",
+      "PageID": "5656218",
+      "created": "2012-02-24 08:58:19",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53444",
+          "lastname": "\u00d6stergren",
+          "forename": "Hjalmar"
+        }
+      ],
+      "bhl_pages": [
+        5656218,
+        5656219,
+        5656220,
+        5656221,
+        5656222,
+        5656223,
+        5656224,
+        5656225
+      ]
+    }
+  ]
+}

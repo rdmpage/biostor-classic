@@ -1,0 +1,42 @@
+{
+  "ItemID": "29351",
+  "FullTitle": "Annales des sciences naturelles : comprenant La physiologie animale et v\u00e9g\u00e9tale, l'anatomie compar\u00e9e des deux r\u00e8gnes, la zoologie, la botanique, la min\u00e9ralogie et la g\u00e9ologie ",
+  "VolumeInfo": "Tome 19",
+  "articles": [
+    {
+      "reference_id": "61635",
+      "genre": "article",
+      "title": "M\u00e9moire sur une disposition particuli\u00e9re d'appareil branchial chez quelques Crustacea",
+      "secondary_title": "Annales des Sciences Naturelles, Paris",
+      "volume": "19",
+      "spage": "451",
+      "epage": "460",
+      "year": "1830",
+      "date": "1830-00-00",
+      "oclc": "43211156",
+      "PageID": "6050000",
+      "created": "2011-01-10 22:57:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42770",
+          "lastname": "Edwards",
+          "forename": "H Milne"
+        }
+      ],
+      "bhl_pages": [
+        6050000,
+        6050001,
+        6050002,
+        6049939,
+        6049940,
+        6049941,
+        6049942,
+        6049943,
+        6049944,
+        6049945
+      ]
+    }
+  ]
+}

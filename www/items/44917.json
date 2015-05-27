@@ -1,0 +1,37 @@
+{
+  "ItemID": "44917",
+  "FullTitle": "Journal de zoologie.  ",
+  "VolumeInfo": "t.6 1877",
+  "articles": [
+    {
+      "reference_id": "100663",
+      "genre": "article",
+      "title": "\u00c9chidn\u00e9 de la Nouvelle-Guin\u00e9e",
+      "secondary_title": "Journal de zoologie",
+      "volume": "6",
+      "spage": "375",
+      "epage": "379",
+      "year": "1887",
+      "date": "1887-00-00",
+      "oclc": "1754368",
+      "PageID": "12390521",
+      "created": "2012-01-26 09:40:58",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52290",
+          "lastname": "Gervais",
+          "forename": "Paul"
+        }
+      ],
+      "bhl_pages": [
+        12390521,
+        12390522,
+        12390523,
+        12390524,
+        12390525
+      ]
+    }
+  ]
+}

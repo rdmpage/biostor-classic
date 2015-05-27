@@ -1,0 +1,81 @@
+{
+  "ItemID": "49279",
+  "FullTitle": "Proceedings of the Royal Society of Queensland.",
+  "VolumeInfo": "v.29 1917",
+  "articles": [
+    {
+      "reference_id": "58980",
+      "genre": "article",
+      "title": "The anatomy of Hyla caerulea White. 1. The pectoral girdle and vertebral column",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "29",
+      "spage": "45",
+      "epage": "54",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0080-469X",
+      "PageID": "13908189",
+      "created": "2010-11-20 23:21:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41004",
+          "lastname": "Gillies",
+          "forename": "C D"
+        },
+        {
+          "id": "42464",
+          "lastname": "Peberdy",
+          "forename": "E F"
+        }
+      ],
+      "bhl_pages": [
+        13908189,
+        13908190,
+        13908191,
+        13908192,
+        13908193,
+        13908194,
+        13908195,
+        13908196,
+        13908197,
+        13908198
+      ]
+    },
+    {
+      "reference_id": "58990",
+      "genre": "article",
+      "title": "A new species of Pedicellina from Sydney Harbour",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "29",
+      "spage": "60",
+      "epage": "63",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0080-469X",
+      "PageID": "13908204",
+      "created": "2010-11-20 23:22:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41019",
+          "lastname": "Johnston",
+          "forename": "T H"
+        },
+        {
+          "id": "42467",
+          "lastname": "Walker",
+          "forename": "M J"
+        }
+      ],
+      "bhl_pages": [
+        13908204,
+        13908205,
+        13908206,
+        13908207
+      ]
+    }
+  ]
+}

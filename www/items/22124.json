@@ -1,0 +1,115 @@
+{
+  "ItemID": "22124",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 35 (1910)",
+  "articles": [
+    {
+      "reference_id": "49202",
+      "genre": "article",
+      "title": "Description d'une vari\u00e9t\u00e9 nouvelle de l'Oligodon herberti Boulenger, Provenant du Tonkin",
+      "secondary_title": "Bull. Soc. Zool. Fr.",
+      "volume": "35",
+      "spage": "30",
+      "epage": "32",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1715809",
+      "PageID": "3055309",
+      "created": "2010-03-21 12:02:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17889",
+          "lastname": "Pellegrin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3055309,
+        3055310,
+        3055311
+      ]
+    },
+    {
+      "reference_id": "103305",
+      "genre": "article",
+      "title": "Un cas d'hybridation entre Loup et Chien",
+      "secondary_title": "Bulletin De La Societe Zoologique Paris",
+      "volume": "35",
+      "spage": "58",
+      "epage": "59",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0037-962X",
+      "PageID": "3055341",
+      "created": "2012-05-21 12:52:51",
+      "updated": "2012-05-21 12:52:51",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3055341,
+        3055342
+      ]
+    },
+    {
+      "reference_id": "103308",
+      "genre": "article",
+      "title": "Divers Coleopteres exotiques nouveaux on peu connus",
+      "secondary_title": "Bulletin De La Societe Zoologique Paris",
+      "volume": "35",
+      "spage": "60",
+      "epage": "61",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0037-962X",
+      "PageID": "3055343",
+      "created": "2012-05-21 12:53:16",
+      "updated": "2012-05-21 12:53:16",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3055343,
+        3055344
+      ]
+    },
+    {
+      "reference_id": "72766",
+      "genre": "article",
+      "title": "Archiloa riyularis n. g. n. sp. Turbellarie alloeocoele d'eau douce",
+      "secondary_title": "Bull Soc zool Fr",
+      "volume": "35",
+      "spage": "211",
+      "epage": "219",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1715809",
+      "PageID": "3055494",
+      "created": "2011-06-04 03:51:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47083",
+          "lastname": "Beauchamp",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        3055494,
+        3055495,
+        3055496,
+        3055497,
+        3055498,
+        3055499,
+        3055500,
+        3055501,
+        3055502
+      ]
+    }
+  ]
+}

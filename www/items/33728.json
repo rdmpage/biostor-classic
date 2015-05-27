@@ -1,0 +1,74 @@
+{
+  "ItemID": "33728",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "11",
+  "articles": [
+    {
+      "reference_id": "57347",
+      "genre": "article",
+      "title": "Supplement to the descriptions and figures of the araneides of the United States by Nicholas Marcellus Hentz (edited by S. H. Scudder, after death of Hentz)",
+      "secondary_title": "Proc. Boston Soc. nat. Hist.",
+      "volume": "11",
+      "spage": "103",
+      "epage": "111",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0270-2444",
+      "PageID": "8059434",
+      "created": "2010-11-18 13:59:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18086",
+          "lastname": "Hentz",
+          "forename": "N M"
+        }
+      ],
+      "bhl_pages": [
+        8059434,
+        8059435,
+        8059436,
+        8059437,
+        8059438,
+        8059439,
+        8059440,
+        8059441,
+        8059442
+      ]
+    },
+    {
+      "reference_id": "70093",
+      "genre": "article",
+      "title": "Notes on the stridulation of some New England Orthoptera",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "11",
+      "spage": "306",
+      "epage": "313",
+      "year": "YYYY",
+      "date": "0000-00-00",
+      "issn": "0270-2444",
+      "PageID": "8059641",
+      "created": "2011-06-02 15:38:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42794",
+          "lastname": "Scudder",
+          "forename": "S H"
+        }
+      ],
+      "bhl_pages": [
+        8059641,
+        8059642,
+        8059643,
+        8059644,
+        8059645,
+        8059646,
+        8059647,
+        8059648
+      ]
+    }
+  ]
+}

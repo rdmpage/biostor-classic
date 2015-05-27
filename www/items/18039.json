@@ -1,0 +1,64 @@
+{
+  "ItemID": "18039",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 41 (1889)",
+  "articles": [
+    {
+      "reference_id": "105260",
+      "genre": "article",
+      "title": "Notes on a small Collection of Myriopods from the Bermuda Islands",
+      "secondary_title": "Proceedings of the Academy Philadelphia",
+      "volume": "1889",
+      "spage": "127",
+      "epage": "129",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0097-3157",
+      "PageID": "1849515",
+      "created": "2012-07-13 08:07:52",
+      "updated": "2012-07-13 08:11:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49704",
+          "lastname": "Bollman",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        1849515,
+        1849516,
+        1849531
+      ]
+    },
+    {
+      "reference_id": "57407",
+      "genre": "article",
+      "title": "On the new spider of the genus Dinopis, from the southern United States",
+      "secondary_title": "Proc. Acad. nat. Sci. Philad.",
+      "volume": "1889",
+      "spage": "341",
+      "epage": "343",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0097-3157",
+      "PageID": "1849747",
+      "created": "2010-11-18 14:17:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42026",
+          "lastname": "Marx",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        1849747,
+        1849748,
+        1849749,
+        1849905
+      ]
+    }
+  ]
+}

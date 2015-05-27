@@ -1,0 +1,40 @@
+{
+  "ItemID": "29641",
+  "FullTitle": "The Irish naturalist.  ",
+  "VolumeInfo": "v. 5 (1896)",
+  "articles": [
+    {
+      "reference_id": "53326",
+      "genre": "article",
+      "title": "On the exploration of the caves of Ennikillen and Mitchelstown for the R.I.A. Flora and Fauna Committee",
+      "secondary_title": "Irish Naturalist",
+      "volume": "5",
+      "spage": "93",
+      "epage": "100",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1753950",
+      "PageID": "6187635",
+      "created": "2010-10-26 20:15:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40821",
+          "lastname": "Jameson",
+          "forename": "H L"
+        }
+      ],
+      "bhl_pages": [
+        6187635,
+        6187636,
+        6187637,
+        6187638,
+        6187639,
+        6187640,
+        6187641,
+        6187642
+      ]
+    }
+  ]
+}

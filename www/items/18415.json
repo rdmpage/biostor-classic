@@ -1,0 +1,60 @@
+{
+  "ItemID": "18415",
+  "FullTitle": "Journal of the Washington Academy of Sciences.",
+  "VolumeInfo": "v. 7 (1917)",
+  "articles": [
+    {
+      "reference_id": "58969",
+      "genre": "article",
+      "title": "A revision of the crinoid family Antedonidae, with the diagnoses of nine new genera",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "7",
+      "spage": "127",
+      "epage": "131",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0043-0439",
+      "PageID": "2016564",
+      "created": "2010-11-20 23:20:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "798",
+          "lastname": "Clark",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        2016564,
+        2016565,
+        2016566,
+        2016567,
+        2016568
+      ]
+    },
+    {
+      "reference_id": "103221",
+      "genre": "article",
+      "title": "Diagnosis of a new pycnonotine family of Passeriformes",
+      "secondary_title": "Washington Dc J Acad Sci",
+      "volume": "7",
+      "spage": "537",
+      "epage": "538",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0043-0439",
+      "PageID": "2016974",
+      "created": "2012-05-15 08:27:01",
+      "updated": "2012-05-15 08:27:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2016974,
+        2016975
+      ]
+    }
+  ]
+}

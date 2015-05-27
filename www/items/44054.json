@@ -1,0 +1,128 @@
+{
+  "ItemID": "44054",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 2 1906",
+  "articles": [
+    {
+      "reference_id": "71492",
+      "genre": "article",
+      "title": "??ber die Lebensweise zweier |Pachymerus| (Bruchidae) und ihrer Parasiten",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie, Berlin",
+      "volume": "2",
+      "spage": "98",
+      "epage": "102",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "1770562",
+      "PageID": "12066107",
+      "created": "2011-06-03 20:04:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46838",
+          "lastname": "Schrottky",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        12066107,
+        12066108,
+        12066109,
+        12066110,
+        12066111
+      ]
+    },
+    {
+      "reference_id": "65194",
+      "genre": "article",
+      "title": "\u00dcber den Stech- und Saugapparat der Pediculiden",
+      "secondary_title": "Zeitschrift F\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "2",
+      "spage": "156",
+      "epage": "162,198-204",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "1770562",
+      "PageID": "12066169",
+      "created": "2011-01-31 16:41:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44819",
+          "lastname": "Pawlowsky",
+          "forename": "E N"
+        }
+      ],
+      "bhl_pages": [
+        12066169,
+        12066170,
+        12066171,
+        12066172,
+        12066173,
+        12066174,
+        12066175
+      ]
+    },
+    {
+      "reference_id": "95330",
+      "genre": "article",
+      "title": "Beitrag zur Biologie der Blattwespen (Chalastogastra)",
+      "secondary_title": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie",
+      "volume": "2",
+      "spage": "347",
+      "epage": "351",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "1770562",
+      "PageID": "12066382",
+      "created": "2011-10-03 11:22:48",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53001",
+          "lastname": "J\u00f6rgensen",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        12066382,
+        12066383,
+        12066384,
+        12066385,
+        12066386
+      ]
+    },
+    {
+      "reference_id": "58018",
+      "genre": "article",
+      "title": "Eine neue gallenerzeugende Psyllide aus Vorder-Indien",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "2",
+      "spage": "387",
+      "epage": "390",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "1770562",
+      "PageID": "12066426",
+      "created": "2010-11-20 19:38:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42058",
+          "lastname": "Kieffer",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        12066426,
+        12066427,
+        12066428,
+        12066429
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemID": "44519",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v. 2 (1877-79)",
+  "articles": [
+    {
+      "reference_id": "72287",
+      "genre": "article",
+      "title": "Coleoptera of the White Mountains",
+      "secondary_title": "Psyche. Cambridge, Massachusetts",
+      "volume": "2",
+      "spage": "211",
+      "epage": "213",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0033-2615",
+      "PageID": "12241944",
+      "created": "2011-06-04 01:04:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47004",
+          "lastname": "Gardiner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12241944,
+        12241945,
+        12241946
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemID": "35086",
+  "FullTitle": "Transactions of the ... annual meetings of the Kansas Academy of Science.  ",
+  "VolumeInfo": "12",
+  "articles": [
+    {
+      "reference_id": "65188",
+      "genre": "article",
+      "title": "Some notes on the Mallophaga",
+      "secondary_title": "Transactions of The 23Rd Annual Meeting of The Kansas Academy of Science",
+      "volume": "12",
+      "spage": "46",
+      "epage": "48",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1280157",
+      "PageID": "8595859",
+      "created": "2011-01-31 16:39:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44746",
+          "lastname": "Kellogg",
+          "forename": "Vernon Lyman"
+        }
+      ],
+      "bhl_pages": [
+        8595859,
+        8595860,
+        8595861
+      ]
+    }
+  ]
+}

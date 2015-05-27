@@ -1,0 +1,487 @@
+{
+  "ItemID": "44189",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v. 26-27 (1919-20)",
+  "articles": [
+    {
+      "reference_id": "73274",
+      "genre": "article",
+      "title": "Notes on South African Phoridae (Diptera)",
+      "secondary_title": "Psyche, Camb",
+      "volume": "26",
+      "spage": "39",
+      "epage": "44",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106529",
+      "created": "2011-06-04 08:11:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "796",
+          "lastname": "Brues",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        12106529,
+        12106530,
+        12106531,
+        12106532,
+        12106556,
+        12106557
+      ]
+    },
+    {
+      "reference_id": "53096",
+      "genre": "article",
+      "title": "A phylogenetic study of the mesothoracic terga and wing bases in Hymenoptera, Neuroptera, Mecoptera, Diptera, Trichoptera and Lepidoptera",
+      "secondary_title": "Psyche",
+      "volume": "26",
+      "spage": "58",
+      "epage": "64",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106575",
+      "created": "2010-10-26 16:31:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9006",
+          "lastname": "Crampton",
+          "forename": "G C"
+        }
+      ],
+      "bhl_pages": [
+        12106575,
+        12106576,
+        12106577,
+        12106578,
+        12106579,
+        12106580,
+        12106581
+      ]
+    },
+    {
+      "reference_id": "72822",
+      "genre": "article",
+      "title": "Note on the genus Liobracon, with the description of a new species (Hymenoptera; Braconidae)",
+      "secondary_title": "Psyche",
+      "volume": "26",
+      "spage": "68",
+      "epage": "71",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "doi": "10.1155\/1919\/23727",
+      "PageID": "12106589",
+      "created": "2011-06-04 04:21:53",
+      "updated": "2012-07-08 15:23:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "796",
+          "lastname": "Brues",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        12106589,
+        12106592,
+        12106593,
+        12106594
+      ]
+    },
+    {
+      "reference_id": "59127",
+      "genre": "article",
+      "title": "The ant genus Lordomyrma Emery",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "26",
+      "spage": "97",
+      "epage": "106",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106626",
+      "created": "2010-11-20 23:58:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "788",
+          "lastname": "Wheeler",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        12106626,
+        12106627,
+        12106628,
+        12106629,
+        12106630,
+        12106631,
+        12106632,
+        12106633,
+        12106634,
+        12106635
+      ]
+    },
+    {
+      "reference_id": "21212",
+      "genre": "article",
+      "title": "A new paper-making Crematogaster from the southeastern United States",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "26",
+      "spage": "107",
+      "epage": "112",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106636",
+      "created": "2010-02-11 17:28:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "788",
+          "lastname": "Wheeler",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        12106636,
+        12106637,
+        12106638,
+        12106639,
+        12106640,
+        12106641
+      ]
+    },
+    {
+      "reference_id": "59119",
+      "genre": "article",
+      "title": "[1920]. A new species closely resembling Drosophila melanogaster",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "26",
+      "spage": "153",
+      "epage": "155",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106704",
+      "created": "2010-11-20 23:56:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3007",
+          "lastname": "Sturtevant",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        12106704,
+        12106705,
+        12106706
+      ]
+    },
+    {
+      "reference_id": "73010",
+      "genre": "article",
+      "title": "Descriptions of new Tryphoninae of the tribe Ctenopelmini (Hymenoptera; Ichneumonidae)",
+      "secondary_title": "Psyche",
+      "volume": "26",
+      "spage": "155",
+      "epage": "159",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106706",
+      "created": "2011-06-04 04:52:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47122",
+          "lastname": "Hall",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        12106706,
+        12106707,
+        12106708,
+        12106709,
+        12106710
+      ]
+    },
+    {
+      "reference_id": "73093",
+      "genre": "article",
+      "title": "On the variation of Tabanus atratus Fabricius",
+      "secondary_title": "Psyche (Camb)",
+      "volume": "26",
+      "spage": "163",
+      "epage": "165",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106714",
+      "created": "2011-06-04 07:42:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        12106714,
+        12106715,
+        12106716
+      ]
+    },
+    {
+      "reference_id": "73071",
+      "genre": "article",
+      "title": "A new species of the genus Ulidia",
+      "secondary_title": "Psyche (Camb)",
+      "volume": "26",
+      "spage": "165",
+      "epage": "166",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106716",
+      "created": "2011-06-04 07:36:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        12106716,
+        12106717
+      ]
+    },
+    {
+      "reference_id": "65151",
+      "genre": "article",
+      "title": "Entomological notes from the Museum of Comparative Zoology",
+      "secondary_title": "Psyche",
+      "volume": "27",
+      "spage": "20",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106755",
+      "created": "2011-01-31 16:15:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2234",
+          "lastname": "Banks",
+          "forename": "Nathan"
+        }
+      ],
+      "bhl_pages": [
+        12106755
+      ]
+    },
+    {
+      "reference_id": "80277",
+      "genre": "article",
+      "title": "A Comparison of the genitalia of male Hymenoptera, Mecoptera, Neuroptera, Diptera, Trichoptera, Lepidoptera, Homoptera, and Strepsiptera, with those of lower insects",
+      "secondary_title": "Psyche",
+      "volume": "27",
+      "spage": "34",
+      "epage": "45",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106775",
+      "created": "2011-07-05 13:04:27",
+      "updated": "2011-07-05 13:04:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50306",
+          "lastname": "Crampton",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        12106775,
+        12106776,
+        12106777,
+        12106778,
+        12106779,
+        12106780,
+        12106781,
+        12106782,
+        12106783,
+        12106784,
+        12106785,
+        12106786
+      ]
+    },
+    {
+      "reference_id": "57522",
+      "genre": "article",
+      "title": "The Subfamilies of Formicidae, and other taxonomic notes",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "27",
+      "spage": "46",
+      "epage": "55",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106789",
+      "created": "2010-11-20 13:31:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "788",
+          "lastname": "Wheeler",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        12106789,
+        12106790,
+        12106791,
+        12106792,
+        12106793,
+        12106794,
+        12106795,
+        12106796,
+        12106797,
+        12106798
+      ]
+    },
+    {
+      "reference_id": "71298",
+      "genre": "article",
+      "title": "Two new schendyloid chilopods from Guatemala",
+      "secondary_title": "Psyche",
+      "volume": "27",
+      "spage": "63",
+      "epage": "66",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106806",
+      "created": "2011-06-03 18:25:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12106806,
+        12106807,
+        12106808,
+        12106809
+      ]
+    },
+    {
+      "reference_id": "103850",
+      "genre": "article",
+      "title": "Notes and descriptions of species of Telenomus having ten-jointed antennae (Hymenoptera: Scelionidae)",
+      "secondary_title": "Psyche",
+      "volume": "27",
+      "spage": "78",
+      "epage": "81",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106827",
+      "created": "2012-05-30 13:36:41",
+      "updated": "2012-05-30 13:36:41",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12106827,
+        12106828,
+        12106829,
+        12106830
+      ]
+    },
+    {
+      "reference_id": "73527",
+      "genre": "article",
+      "title": "Description of some new tropical Pachygastrinae",
+      "secondary_title": "Psyche",
+      "volume": "27",
+      "spage": "112",
+      "epage": "115",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106865",
+      "created": "2011-06-04 08:54:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        12106865,
+        12106866,
+        12106867,
+        12106868
+      ]
+    },
+    {
+      "reference_id": "71270",
+      "genre": "article",
+      "title": "A new genus in the chilopod family Mecistocephalidae",
+      "secondary_title": "Psyche",
+      "volume": "27",
+      "spage": "144",
+      "epage": "146",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0033-2615",
+      "PageID": "12106901",
+      "created": "2011-06-03 18:20:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12106901,
+        12106902,
+        12106903
+      ]
+    }
+  ]
+}

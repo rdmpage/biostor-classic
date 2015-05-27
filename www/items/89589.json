@@ -1,0 +1,829 @@
+{
+  "ItemID": "89589",
+  "FullTitle": "Spixiana.",
+  "VolumeInfo": "Bd.1 (1977-1978)",
+  "articles": [
+    {
+      "reference_id": "52201",
+      "genre": "article",
+      "title": "Zur Einf\u00fchrung",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "1",
+      "epage": "2",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201609",
+      "created": "2010-10-21 10:11:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12166",
+          "lastname": "Fittkau",
+          "forename": "E J"
+        }
+      ],
+      "bhl_pages": [
+        28201609,
+        28201610
+      ]
+    },
+    {
+      "reference_id": "52202",
+      "genre": "article",
+      "title": "\u00dcber den funktionalen Zusammenhang zwischen Populationsdichte, Ausbreitungsverm\u00f6gen und Fangmenge bei Bodenfallen",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "3",
+      "epage": "15",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201611",
+      "created": "2010-10-21 10:13:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40417",
+          "lastname": "Fechter",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        28201611,
+        28201612,
+        28201613,
+        28201614,
+        28201615,
+        28201616,
+        28201617,
+        28201618,
+        28201619,
+        28201620,
+        28201621,
+        28201622,
+        28201623
+      ]
+    },
+    {
+      "reference_id": "52203",
+      "genre": "article",
+      "title": "Die geographische Variabilit\u00e4t von Flugzeit und Augenh\u00f6he der Megalophanes viciella-Gruppe (Lepidoptera, Psychidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "17",
+      "epage": "26",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201625",
+      "created": "2010-10-21 10:14:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40418",
+          "lastname": "Dierl",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28201625,
+        28201626,
+        28201627,
+        28201628,
+        28201629,
+        28201630,
+        28201631,
+        28201632,
+        28201633,
+        28201634
+      ]
+    },
+    {
+      "reference_id": "52204",
+      "genre": "article",
+      "title": "Die Fl\u00fcgelreduktion bei Schmetterlingen als Anpassungsstrategie",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "27",
+      "epage": "40",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201635",
+      "created": "2010-10-21 10:16:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40418",
+          "lastname": "Dierl",
+          "forename": "W"
+        },
+        {
+          "id": "40419",
+          "lastname": "Reichholf",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        28201635,
+        28201636,
+        28201637,
+        28201638,
+        28201639,
+        28201640,
+        28201641,
+        28201642,
+        28201643,
+        28201644,
+        28201645,
+        28201646,
+        28201647,
+        28201648
+      ]
+    },
+    {
+      "reference_id": "52205",
+      "genre": "article",
+      "title": "Mimikry bei Spilarctia lubricipeda L. (Lepidoptera, Arctiidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "41",
+      "epage": "44",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201649",
+      "created": "2010-10-21 10:16:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40419",
+          "lastname": "Reichholf",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        28201649,
+        28201650,
+        28201651,
+        28201652
+      ]
+    },
+    {
+      "reference_id": "52206",
+      "genre": "article",
+      "title": "Biologie, Verbreitung und Morphologie von Praezygaena (Epizyganella) caschmirensis (Kollar 1848) (Lepidoptera, Zygaenidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "45",
+      "epage": "84",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201653",
+      "created": "2010-10-21 10:17:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "25963",
+          "lastname": "Naumann",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        28201653,
+        28201654,
+        28201655,
+        28201656,
+        28201657,
+        28201658,
+        28201659,
+        28201660,
+        28201661,
+        28201662,
+        28201663,
+        28201664,
+        28201665,
+        28201666,
+        28201667,
+        28201668,
+        28201669,
+        28201670,
+        28201671,
+        28201672,
+        28201673,
+        28201674,
+        28201675,
+        28201676,
+        28201677,
+        28201678,
+        28201679,
+        28201680,
+        28201681,
+        28201682,
+        28201683,
+        28201684,
+        28201685,
+        28201686,
+        28201687,
+        28201688,
+        28201689,
+        28201690,
+        28201691,
+        28201692
+      ]
+    },
+    {
+      "reference_id": "52207",
+      "genre": "article",
+      "title": "Verbreitungsmuster bei pal\u00e4arktischen Chironomidenarten (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "85",
+      "epage": "97",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201693",
+      "created": "2010-10-21 10:17:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40420",
+          "lastname": "Reiss",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        28201693,
+        28201694,
+        28201695,
+        28201696,
+        28201697,
+        28201698,
+        28201699,
+        28201700,
+        28201701,
+        28201702,
+        28201703,
+        28201704,
+        28201705
+      ]
+    },
+    {
+      "reference_id": "52208",
+      "genre": "article",
+      "title": "Zur Kenntnis des Wanderigels (Erinaceus algirus Lereboullet, 1842) auf der Insel Formentera (Pityusen) und im nordafrikanischen Verbreitungsgebiet",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "105",
+      "epage": "135",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201717",
+      "created": "2010-10-21 10:17:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40421",
+          "lastname": "Kahmann",
+          "forename": "H"
+        },
+        {
+          "id": "40422",
+          "lastname": "Vesmanis",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        28201717,
+        28201718,
+        28201719,
+        28201720,
+        28201721,
+        28201722,
+        28201723,
+        28201724,
+        28201725,
+        28201726,
+        28201727,
+        28201728,
+        28201729,
+        28201730,
+        28201731,
+        28201732,
+        28201733,
+        28201734,
+        28201735,
+        28201736,
+        28201737,
+        28201738,
+        28201739,
+        28201740,
+        28201741,
+        28201742,
+        28201743,
+        28201744,
+        28201745,
+        28201746,
+        28201747
+      ]
+    },
+    {
+      "reference_id": "52209",
+      "genre": "article",
+      "title": "Die Avifauna der zentralasiatischen Republiken der UdSSR: ornithogeographische Aspekte",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "137",
+      "epage": "139",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201749",
+      "created": "2010-10-21 10:17:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40419",
+          "lastname": "Reichholf",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        28201749,
+        28201750,
+        28201751
+      ]
+    },
+    {
+      "reference_id": "52210",
+      "genre": "article",
+      "title": "Zwei bemerkenswerte Muriciden (Mollusca Gastropoda) aus dem mittleren Ostatlantik",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "151",
+      "epage": "164",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201763",
+      "created": "2010-10-21 10:18:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40423",
+          "lastname": "Fechter",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        28201763,
+        28201764,
+        28201765,
+        28201766,
+        28201767,
+        28201768,
+        28201769,
+        28201770,
+        28201771,
+        28201772,
+        28201773,
+        28201774,
+        28201775,
+        28201776
+      ]
+    },
+    {
+      "reference_id": "52211",
+      "genre": "article",
+      "title": "Intraspezifische Untersuchungen an Cyrtodactylus kotschyi (Steindachner, 1870); Reptilia: Gekkonidae",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "165",
+      "epage": "202",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201777",
+      "created": "2010-10-21 10:18:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40424",
+          "lastname": "Beutler",
+          "forename": "A"
+        },
+        {
+          "id": "40425",
+          "lastname": "Gruber",
+          "forename": "U"
+        }
+      ],
+      "bhl_pages": [
+        28201777,
+        28201778,
+        28201779,
+        28201780,
+        28201781,
+        28201782,
+        28201783,
+        28201784,
+        28201785,
+        28201786,
+        28201787,
+        28201788,
+        28201789,
+        28201790,
+        28201791,
+        28201792,
+        28201793,
+        28201794,
+        28201795,
+        28201796,
+        28201797,
+        28201798,
+        28201799,
+        28201800,
+        28201801,
+        28201802,
+        28201803,
+        28201804,
+        28201805,
+        28201806,
+        28201807,
+        28201808,
+        28201809,
+        28201810,
+        28201811,
+        28201812,
+        28201813,
+        28201814
+      ]
+    },
+    {
+      "reference_id": "52212",
+      "genre": "article",
+      "title": "Photorezeptor cells in Chiton aesthetes (Mollusca, Polyplacophora, Chitonidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "209",
+      "epage": "213",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201825",
+      "created": "2010-10-21 10:18:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40426",
+          "lastname": "Fischer",
+          "forename": "F P"
+        }
+      ],
+      "bhl_pages": [
+        28201825,
+        28201826,
+        28201827,
+        28201828,
+        28201829
+      ]
+    },
+    {
+      "reference_id": "52213",
+      "genre": "article",
+      "title": "The Taxonomic and Nomenclatorial Status of the Milliped Generic Names Parafontaria Verhoeff, Caphonaria Verhoeff, and Japonaria Attems (Polydesmida, Xystodesmidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "215",
+      "epage": "224",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201831",
+      "created": "2010-10-21 10:19:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40427",
+          "lastname": "Hoffmann",
+          "forename": "R L"
+        }
+      ],
+      "bhl_pages": [
+        28201831,
+        28201832,
+        28201833,
+        28201834,
+        28201835,
+        28201836,
+        28201837,
+        28201838,
+        28201839,
+        28201840
+      ]
+    },
+    {
+      "reference_id": "52214",
+      "genre": "article",
+      "title": "Revision der orientalischen Bombycidae (Lepidoptera). Teil I: Die Ocinara-Gruppe",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "225",
+      "epage": "268",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201841",
+      "created": "2010-10-21 10:19:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40418",
+          "lastname": "Dierl",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28201841,
+        28201842,
+        28201843,
+        28201844,
+        28201845,
+        28201846,
+        28201847,
+        28201848,
+        28201849,
+        28201850,
+        28201851,
+        28201852,
+        28201853,
+        28201854,
+        28201855,
+        28201856,
+        28201857,
+        28201858,
+        28201859,
+        28201860,
+        28201861,
+        28201862,
+        28201863,
+        28201864,
+        28201865,
+        28201866,
+        28201867,
+        28201868,
+        28201869,
+        28201870,
+        28201871,
+        28201872,
+        28201873,
+        28201874,
+        28201875,
+        28201876,
+        28201877,
+        28201878,
+        28201879,
+        28201880,
+        28201881,
+        28201882,
+        28201883,
+        28201884
+      ]
+    },
+    {
+      "reference_id": "52215",
+      "genre": "article",
+      "title": "Jumnos ruckeri pfanneri, eine neue Subspezies aus Malaya (Scarabaeidae, Cetoninae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "269",
+      "epage": "273",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201885",
+      "created": "2010-10-21 10:20:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "31414",
+          "lastname": "Scherer",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        28201885,
+        28201886,
+        28201887,
+        28201888,
+        28201889
+      ]
+    },
+    {
+      "reference_id": "52216",
+      "genre": "article",
+      "title": "Podontia affinis (Gr\u00f6ndal) a Polytypic Species (Coleoptera, Chrysomelidae, Alticinae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "275",
+      "epage": "280",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201891",
+      "created": "2010-10-21 10:20:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "31414",
+          "lastname": "Scherer",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        28201891,
+        28201892,
+        28201893,
+        28201894,
+        28201895,
+        28201896
+      ]
+    },
+    {
+      "reference_id": "52217",
+      "genre": "article",
+      "title": "A study on Orthocladiinae of India Part III. Genus Metriocnemus Van der Wulp (Diptera, Chironomidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "281",
+      "epage": "286",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201897",
+      "created": "2010-10-21 10:20:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40428",
+          "lastname": "Sinhary",
+          "forename": "D C"
+        },
+        {
+          "id": "21925",
+          "lastname": "Chaudhuri",
+          "forename": "P K"
+        }
+      ],
+      "bhl_pages": [
+        28201897,
+        28201898,
+        28201899,
+        28201900,
+        28201901,
+        28201902
+      ]
+    },
+    {
+      "reference_id": "52218",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis des Ctenopoma multispinis W. Peters, 1844 (Pisces, Perciformes, Anabantoidei, Anabantidae)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "287",
+      "epage": "299",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201903",
+      "created": "2010-10-21 10:20:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40429",
+          "lastname": "Benl",
+          "forename": "G"
+        },
+        {
+          "id": "40430",
+          "lastname": "Foersch",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        28201903,
+        28201904,
+        28201905,
+        28201906,
+        28201907,
+        28201908,
+        28201909,
+        28201910,
+        28201911,
+        28201912,
+        28201913,
+        28201914,
+        28201915
+      ]
+    },
+    {
+      "reference_id": "52219",
+      "genre": "article",
+      "title": "The herpetofauna of the oceanic islands in the Santorini-archipelago, Greece (Reptilia)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "spage": "301",
+      "epage": "308",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201917",
+      "created": "2010-10-21 10:21:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40431",
+          "lastname": "Fr\u00f6r",
+          "forename": "E"
+        },
+        {
+          "id": "40424",
+          "lastname": "Beutler",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        28201917,
+        28201918,
+        28201919,
+        28201920,
+        28201921,
+        28201922,
+        28201923,
+        28201924
+      ]
+    },
+    {
+      "reference_id": "52200",
+      "genre": "article",
+      "title": "Geographische Variation der Hirngr\u00f6\u00dfe im Sus scrofa- und Sus verrucosus-Kreis (Beitrag zum Problem der Schweinedomestikation)",
+      "secondary_title": "Spixiana",
+      "volume": "1",
+      "issue": "3",
+      "spage": "309",
+      "epage": "320",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0341-8391",
+      "PageID": "28201925",
+      "created": "2010-10-21 09:57:42",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1227",
+          "lastname": "Hemmer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        28201925,
+        28201926,
+        28201927,
+        28201928,
+        28201929,
+        28201930,
+        28201931,
+        28201932,
+        28201933,
+        28201934,
+        28201935,
+        28201936
+      ]
+    }
+  ]
+}

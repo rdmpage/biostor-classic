@@ -1,0 +1,69 @@
+{
+  "ItemID": "123322",
+  "FullTitle": "Journal of the Washington Academy of Sciences.",
+  "VolumeInfo": "v. 22 1932",
+  "articles": [
+    {
+      "reference_id": "105408",
+      "genre": "article",
+      "title": "New genera and species of leafhoppers related to Scaphoideus",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "22",
+      "spage": "9",
+      "epage": "19",
+      "year": "1932",
+      "date": "1932-00-00",
+      "issn": "0043-0439",
+      "PageID": "39917727",
+      "created": "2012-07-25 09:37:07",
+      "updated": "2012-07-25 09:37:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50784",
+          "lastname": "Ball",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        39917727,
+        39917728,
+        39917729,
+        39917730,
+        39917731,
+        39917732,
+        39917733,
+        39917734,
+        39917735,
+        39917736,
+        39917737
+      ]
+    },
+    {
+      "reference_id": "105409",
+      "genre": "article",
+      "title": "A new species of Cancer from the Pliocene of the Los Angeles basin",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "22",
+      "spage": "19",
+      "epage": "19",
+      "year": "1932",
+      "date": "1932-00-00",
+      "issn": "0043-0439",
+      "PageID": "39917737",
+      "created": "2012-07-25 09:43:36",
+      "updated": "2012-07-25 09:44:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54028",
+          "lastname": "Rathbun",
+          "forename": "Mary"
+        }
+      ],
+      "bhl_pages": [
+        39917737
+      ]
+    }
+  ]
+}

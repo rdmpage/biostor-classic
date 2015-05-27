@@ -1,0 +1,122 @@
+{
+  "ItemID": "36027",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 35 1899",
+  "articles": [
+    {
+      "reference_id": "67105",
+      "genre": "article",
+      "title": "Trichoptera, Planipennia, and Pseudo-Neuroptera, collected in the district of the Lac de Joux (Swiss Jura) in 1898",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "35",
+      "spage": "60",
+      "epage": "65",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "1568052",
+      "PageID": "9014209",
+      "created": "2011-05-12 13:21:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9014209,
+        9014210,
+        9014211,
+        9014212,
+        9014213,
+        9014214
+      ]
+    },
+    {
+      "reference_id": "73832",
+      "genre": "article",
+      "title": "Notes on certain Palaearctic species of the genus Hemerobius. No. 1. Introductory remarks and the group of H. nervosus",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "35",
+      "spage": "77",
+      "epage": "80",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "1568052",
+      "PageID": "9014226",
+      "created": "2011-06-04 09:58:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9014226,
+        9014227,
+        9014228,
+        9014229
+      ]
+    },
+    {
+      "reference_id": "72734",
+      "genre": "article",
+      "title": "A new species of Stenosmylus from New Zealand",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "35",
+      "spage": "259",
+      "epage": "260",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "1568052",
+      "PageID": "9014408",
+      "created": "2011-06-04 03:24:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9014408,
+        9014409
+      ]
+    },
+    {
+      "reference_id": "60302",
+      "genre": "article",
+      "title": "Ectopsocus briggsi, a new genus and species of Psocidae found in England",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "35",
+      "spage": "277",
+      "epage": "278",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9014426",
+      "created": "2010-11-22 22:12:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9014426,
+        9014427
+      ]
+    }
+  ]
+}

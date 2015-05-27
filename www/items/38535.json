@@ -1,0 +1,37 @@
+{
+  "ItemID": "38535",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1864-1866",
+  "articles": [
+    {
+      "reference_id": "60983",
+      "genre": "article",
+      "title": "The frogs of Australia",
+      "secondary_title": "Papers and Proceedings of the Royal Society of Tasmania",
+      "volume": "1865",
+      "spage": "16",
+      "epage": "20",
+      "year": "1865",
+      "date": "1865-00-00",
+      "issn": "0080-4703",
+      "PageID": "10110941",
+      "created": "2010-11-29 16:20:51",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42901",
+          "lastname": "Kreft",
+          "forename": "Gerard"
+        }
+      ],
+      "bhl_pages": [
+        10110941,
+        10110942,
+        10110943,
+        10110944,
+        10110945
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ItemID": "42352",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 43 1922",
+  "articles": [
+    {
+      "reference_id": "73551",
+      "genre": "article",
+      "title": "Lispa litorea Fall, und pilosa Loew",
+      "secondary_title": "Ent. Tidskr",
+      "volume": "43",
+      "spage": "176",
+      "epage": "177",
+      "year": "1922",
+      "date": "1922-00-00",
+      "issn": "0013-886X",
+      "PageID": "11405620",
+      "created": "2011-06-04 09:18:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47206",
+          "lastname": "Ringdahl",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        11405620,
+        11405621
+      ]
+    }
+  ]
+}

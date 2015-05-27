@@ -1,0 +1,819 @@
+{
+  "ItemID": "44375",
+  "FullTitle": "Wiener entomologische Zeitung.",
+  "VolumeInfo": "v. 14 1895",
+  "articles": [
+    {
+      "reference_id": "96400",
+      "genre": "article",
+      "title": "Eine zweite Paramalthodes-Art",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "17",
+      "epage": "19",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189074",
+      "created": "2011-10-11 16:16:24",
+      "updated": "2011-10-11 16:16:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53060",
+          "lastname": "Weise",
+          "forename": "Julius"
+        }
+      ],
+      "bhl_pages": [
+        12189074,
+        12189075,
+        12189076
+      ]
+    },
+    {
+      "reference_id": "96401",
+      "genre": "article",
+      "title": "Neue pal\u00e4arctische Blattwespen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "71",
+      "epage": "78",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189151",
+      "created": "2011-10-11 16:16:35",
+      "updated": "2011-10-11 16:16:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53100",
+          "lastname": "Konow",
+          "forename": "Friedrich Wilhelm"
+        }
+      ],
+      "bhl_pages": [
+        12189151,
+        12189152,
+        12189153,
+        12189154,
+        12189155,
+        12189156,
+        12189157,
+        12189158
+      ]
+    },
+    {
+      "reference_id": "70989",
+      "genre": "article",
+      "title": "Beschreibung neuer oder wenig gekannter Coleoptera aus der Umgebung von Akbes in Syrien",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "14",
+      "spage": "79",
+      "epage": "88",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1769860",
+      "PageID": "12189159",
+      "created": "2011-06-03 17:08:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12189159,
+        12189160,
+        12189161,
+        12189162,
+        12189163,
+        12189164,
+        12189165,
+        12189166,
+        12189167,
+        12189168
+      ]
+    },
+    {
+      "reference_id": "96402",
+      "genre": "article",
+      "title": "Eine neue europ\u00e4ische Liparthrum-Art aus Griechenland",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "89",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189169",
+      "created": "2011-10-11 16:16:41",
+      "updated": "2011-10-11 16:16:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53148",
+          "lastname": "Knotek",
+          "forename": "Johann"
+        }
+      ],
+      "bhl_pages": [
+        12189169
+      ]
+    },
+    {
+      "reference_id": "96403",
+      "genre": "article",
+      "title": "Ueber die Gattung Ceropales",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "90",
+      "epage": "92",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189170",
+      "created": "2011-10-11 16:16:52",
+      "updated": "2011-10-11 16:16:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53092",
+          "lastname": "Von Dalla Torre",
+          "forename": "Carl Wilhelm"
+        }
+      ],
+      "bhl_pages": [
+        12189170,
+        12189171,
+        12189172
+      ]
+    },
+    {
+      "reference_id": "96404",
+      "genre": "article",
+      "title": "Dipterologische Miscellen. (2. Serie)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "93",
+      "epage": "98",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189173",
+      "created": "2011-10-11 16:16:58",
+      "updated": "2011-10-11 16:16:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12189173,
+        12189174,
+        12189175,
+        12189176,
+        12189177,
+        12189178
+      ]
+    },
+    {
+      "reference_id": "96405",
+      "genre": "article",
+      "title": "Ueber Tachiniden, deren drittes F\u00fchlerglied gespalten ist",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "101",
+      "epage": "103",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189181",
+      "created": "2011-10-11 16:17:04",
+      "updated": "2011-10-11 16:17:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12189181,
+        12189182,
+        12189183
+      ]
+    },
+    {
+      "reference_id": "96406",
+      "genre": "article",
+      "title": "Species nova generis Harpactor",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "116",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189196",
+      "created": "2011-10-11 16:17:10",
+      "updated": "2011-10-11 16:17:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53059",
+          "lastname": "Reuter",
+          "forename": "Odo Morannal"
+        }
+      ],
+      "bhl_pages": [
+        12189196
+      ]
+    },
+    {
+      "reference_id": "96407",
+      "genre": "article",
+      "title": "Synoptische Uebersicht der Chrysobothris-Arten mit Gruben auf den Fl\u00fcgeldecken, aus der palaearctischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "127",
+      "epage": "130",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189207",
+      "created": "2011-10-11 16:17:18",
+      "updated": "2011-10-11 16:17:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12189207,
+        12189208,
+        12189209,
+        12189210
+      ]
+    },
+    {
+      "reference_id": "96408",
+      "genre": "article",
+      "title": "Eine neue Art der Dipterengattung Psilopa FLL",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "137",
+      "epage": "139",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189217",
+      "created": "2011-10-11 16:17:25",
+      "updated": "2011-10-11 16:17:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39924",
+          "lastname": "Bezzi",
+          "forename": "Mario"
+        }
+      ],
+      "bhl_pages": [
+        12189217,
+        12189218,
+        12189219
+      ]
+    },
+    {
+      "reference_id": "72062",
+      "genre": "article",
+      "title": "Zw\u00f6lfter Beitrag zur Coleopteren-Fauna des russischen Reiches",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "149",
+      "epage": "162",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1769860",
+      "PageID": "12189229",
+      "created": "2011-06-04 00:19:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12189229,
+        12189230,
+        12189231,
+        12189232,
+        12189233,
+        12189234,
+        12189235,
+        12189236,
+        12189237,
+        12189238,
+        12189239,
+        12189240,
+        12189241,
+        12189242
+      ]
+    },
+    {
+      "reference_id": "96409",
+      "genre": "article",
+      "title": "Eine neue Reduviiden-Gattung aus West-Afrika",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "165",
+      "epage": "166",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189245",
+      "created": "2011-10-11 16:17:31",
+      "updated": "2011-10-11 16:17:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53105",
+          "lastname": "Bergroth",
+          "forename": "Ernst Ewald"
+        }
+      ],
+      "bhl_pages": [
+        12189245,
+        12189246
+      ]
+    },
+    {
+      "reference_id": "96410",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur geographischen Verbreitung der Tenthrediniden. II. Theil",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "171",
+      "epage": "175",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189251",
+      "created": "2011-10-11 16:17:36",
+      "updated": "2011-10-11 16:17:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53142",
+          "lastname": "Strobl",
+          "forename": "Gabriel"
+        }
+      ],
+      "bhl_pages": [
+        12189251,
+        12189252,
+        12189253,
+        12189254,
+        12189255
+      ]
+    },
+    {
+      "reference_id": "70981",
+      "genre": "article",
+      "title": "Einige neue Coleopteren aus Korea und China",
+      "secondary_title": "Wiener Entomologische Zeitung. Wien",
+      "volume": "14",
+      "spage": "208",
+      "epage": "210",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1769860",
+      "PageID": "12189290",
+      "created": "2011-06-03 17:07:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9994",
+          "lastname": "Reitter",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12189290,
+        12189291,
+        12189292
+      ]
+    },
+    {
+      "reference_id": "96411",
+      "genre": "article",
+      "title": "Commentar zu den Arbeiten von HARTIG und RATZEBURG \u00fcber Raupenfliegen (Tachiniden). Auf Grund einer Revision der HARTIG'schen Tachiniden-Sammlung",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "213",
+      "epage": "250",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189295",
+      "created": "2011-10-11 16:17:42",
+      "updated": "2011-10-11 16:17:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        },
+        {
+          "id": "53067",
+          "lastname": "Wachtl",
+          "forename": "Friedrich (Fritz(=Fyderyk) A (= Bedrich)"
+        }
+      ],
+      "bhl_pages": [
+        12189295,
+        12189296,
+        12189297,
+        12189298,
+        12189299,
+        12189300,
+        12189301,
+        12189302,
+        12189303,
+        12189304,
+        12189305,
+        12189306,
+        12189307,
+        12189308,
+        12189309,
+        12189310,
+        12189311,
+        12189312,
+        12189313,
+        12189314,
+        12189315,
+        12189316,
+        12189317,
+        12189318,
+        12189319,
+        12189320,
+        12189321,
+        12189322,
+        12189323,
+        12189324,
+        12189325,
+        12189326,
+        12189327,
+        12189328,
+        12189329,
+        12189330,
+        12189331,
+        12189332
+      ]
+    },
+    {
+      "reference_id": "96412",
+      "genre": "article",
+      "title": "Drei neue Adoretus-Arten",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "250",
+      "epage": "252",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189332",
+      "created": "2011-10-11 16:17:47",
+      "updated": "2011-10-11 16:17:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53117",
+          "lastname": "Kraatz",
+          "forename": "Gustav"
+        }
+      ],
+      "bhl_pages": [
+        12189332,
+        12189333,
+        12189334
+      ]
+    },
+    {
+      "reference_id": "96413",
+      "genre": "article",
+      "title": "Uebersicht der Elateriden- (Coleopteren-) Arten aus der Verwandtschaft des Limonius (Pheletes) aeneo-niger DEG. aus der palaearctischen Fauna",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "256",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189338",
+      "created": "2011-10-11 16:17:57",
+      "updated": "2011-10-11 16:17:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12189338
+      ]
+    },
+    {
+      "reference_id": "96414",
+      "genre": "article",
+      "title": "Die palaearctischen Arten der Coleopt.-Gattung Bangasternus GOZIS (Coelosthetus CAP.)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "257",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189339",
+      "created": "2011-10-11 16:18:01",
+      "updated": "2011-10-11 16:18:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12189339
+      ]
+    },
+    {
+      "reference_id": "96415",
+      "genre": "article",
+      "title": "Statistischer Ausweis \u00fcber die Zahl der Arten im Catalogus Coleopterorum Europae, Caucasi et Armeniae rossicae (edit. 1891)",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "259",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189341",
+      "created": "2011-10-11 16:18:05",
+      "updated": "2011-10-11 16:18:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53149",
+          "lastname": "Von Varrendorff",
+          "forename": "Richard"
+        }
+      ],
+      "bhl_pages": [
+        12189341
+      ]
+    },
+    {
+      "reference_id": "96416",
+      "genre": "article",
+      "title": "Zwei neue Anophtalmen",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "261",
+      "epage": "263",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189343",
+      "created": "2011-10-11 16:18:10",
+      "updated": "2011-10-11 16:18:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53052",
+          "lastname": "Ganglbauer",
+          "forename": "Ludwig"
+        }
+      ],
+      "bhl_pages": [
+        12189343,
+        12189344,
+        12189345
+      ]
+    },
+    {
+      "reference_id": "96417",
+      "genre": "article",
+      "title": "Beobachtungen \u00fcber die Nymphen der Gallm\u00fccken",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "266",
+      "epage": "270",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189348",
+      "created": "2011-10-11 16:18:14",
+      "updated": "2011-10-11 16:18:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50214",
+          "lastname": "Kieffer",
+          "forename": "Jean-Jacques"
+        }
+      ],
+      "bhl_pages": [
+        12189348,
+        12189349,
+        12189350,
+        12189351,
+        12189352
+      ]
+    },
+    {
+      "reference_id": "96418",
+      "genre": "article",
+      "title": "Neue Fundorte der Diptere Neottiophilum praeustum MEIG",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "270",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189352",
+      "created": "2011-10-11 16:18:18",
+      "updated": "2011-10-11 16:18:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53076",
+          "lastname": "R\u00f6der",
+          "forename": "Victor Eduard V"
+        }
+      ],
+      "bhl_pages": [
+        12189352
+      ]
+    },
+    {
+      "reference_id": "96419",
+      "genre": "article",
+      "title": "Beschreibungen mit Abbildungen neuer Coleopteren, gesammelt von Herrn Hans LEDER bei Urga in der n\u00f6rdlichen Mongolei. Tafel II",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "280",
+      "epage": "286",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189362",
+      "created": "2011-10-11 16:18:23",
+      "updated": "2011-10-11 16:18:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53056",
+          "lastname": "Reitter",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        12189362,
+        12189363,
+        12189364,
+        12189365,
+        12189366,
+        12189367,
+        12189368
+      ]
+    },
+    {
+      "reference_id": "96420",
+      "genre": "article",
+      "title": "Ueber eine bereits bekannte Cecidomyiden-Galle an den Bl\u00fcthen von Medicago sativa L. Tafel III",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "287",
+      "epage": "290",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189373",
+      "created": "2011-10-11 16:18:28",
+      "updated": "2011-10-11 16:18:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12189373,
+        12189374,
+        12189375,
+        12189376
+      ]
+    },
+    {
+      "reference_id": "96421",
+      "genre": "article",
+      "title": "Eine Vorarbeit f\u00fcr eine Tabelle der palaearctischen Cryptorrhynchiden",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "293",
+      "epage": "295",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189379",
+      "created": "2011-10-11 16:18:33",
+      "updated": "2011-10-11 16:18:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53150",
+          "lastname": "Meyer",
+          "forename": "Paul"
+        }
+      ],
+      "bhl_pages": [
+        12189379,
+        12189380,
+        12189381
+      ]
+    },
+    {
+      "reference_id": "96422",
+      "genre": "article",
+      "title": "Synonymisches \u00fcber die Coleopteren-Gattung Danacaea LAP",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "295",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189381",
+      "created": "2011-10-11 16:18:38",
+      "updated": "2011-10-11 16:18:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53151",
+          "lastname": "Prochazka",
+          "forename": "Joh"
+        }
+      ],
+      "bhl_pages": [
+        12189381
+      ]
+    },
+    {
+      "reference_id": "96423",
+      "genre": "article",
+      "title": "Zur Biologie von Chirosia trollii ZETT. Tafel IV",
+      "secondary_title": "Wiener Entomologische Zeitung",
+      "volume": "14",
+      "spage": "296",
+      "epage": "300",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "1562-0891",
+      "PageID": "12189382",
+      "created": "2011-10-11 16:18:42",
+      "updated": "2011-10-11 16:18:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53061",
+          "lastname": "Mik",
+          "forename": "Josef"
+        }
+      ],
+      "bhl_pages": [
+        12189382,
+        12189383,
+        12189384,
+        12189385,
+        12189386
+      ]
+    }
+  ]
+}

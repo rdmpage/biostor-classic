@@ -1,0 +1,61 @@
+{
+  "ItemID": "37546",
+  "FullTitle": "The Victorian naturalist.",
+  "VolumeInfo": "v.19, 1902-1903",
+  "articles": [
+    {
+      "reference_id": "61416",
+      "genre": "article",
+      "title": "Descriptions of some new mallophaga from marsupials",
+      "secondary_title": "Victorian Naturalist",
+      "volume": "19",
+      "spage": "50",
+      "epage": "51",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0042-5184",
+      "PageID": "9725249",
+      "created": "2011-01-10 19:58:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42994",
+          "lastname": "Le Sou\u00ebf",
+          "forename": "S A"
+        }
+      ],
+      "bhl_pages": [
+        9725249,
+        9725250
+      ]
+    },
+    {
+      "reference_id": "61575",
+      "genre": "article",
+      "title": "Descriptions of some new species of Mallophaga from Australian birds. - Part IV",
+      "secondary_title": "Victorian Naturalist",
+      "volume": "19",
+      "spage": "90",
+      "epage": "91",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0042-5184",
+      "PageID": "9725301",
+      "created": "2011-01-10 22:10:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42994",
+          "lastname": "Le Sou\u00ebf",
+          "forename": "S A"
+        }
+      ],
+      "bhl_pages": [
+        9725301,
+        9725302
+      ]
+    }
+  ]
+}

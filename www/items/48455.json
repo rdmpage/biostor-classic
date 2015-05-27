@@ -1,0 +1,126 @@
+{
+  "ItemID": "48455",
+  "FullTitle": "Natuurkundig tijdschrift voor Nederlandsch Indi\u00eb \/  uitgegeven door de Natuurkundige Vereeniging in Nederlandsch Indi\u00eb.",
+  "VolumeInfo": "v.10 1856",
+  "articles": [
+    {
+      "reference_id": "61568",
+      "genre": "article",
+      "title": "Zevende bijdrage tot de kennis der ichthyologische fauna van Ternate",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "10",
+      "spage": "357",
+      "epage": "386",
+      "year": "1856",
+      "date": "1856-00-00",
+      "oclc": "7830420",
+      "PageID": "13612915",
+      "created": "2011-01-10 22:04:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13612915,
+        13612916,
+        13612917,
+        13612918,
+        13612919,
+        13612920,
+        13612921,
+        13612922,
+        13612923,
+        13612924,
+        13612925,
+        13612926,
+        13612927,
+        13612928,
+        13612929,
+        13612930,
+        13612931,
+        13612932,
+        13612933,
+        13612934,
+        13612935,
+        13612936,
+        13612937,
+        13612938,
+        13612939,
+        13612940,
+        13612941,
+        13612942,
+        13612943,
+        13612944
+      ]
+    },
+    {
+      "reference_id": "53282",
+      "genre": "article",
+      "title": "Eerste bijdrage tot de kennis der dipterologische fauna van Nederlandsch Indie",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch Indi\u00eb",
+      "volume": "10",
+      "spage": "403",
+      "epage": "414",
+      "year": "1856",
+      "date": "1856-00-00",
+      "oclc": "7830420",
+      "PageID": "13612961",
+      "created": "2010-10-26 19:43:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40808",
+          "lastname": "Doleschall",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13612961,
+        13612962,
+        13612963,
+        13612964,
+        13612965,
+        13612966,
+        13612967,
+        13612968,
+        13612969,
+        13612970,
+        13612971,
+        13612972
+      ]
+    },
+    {
+      "reference_id": "61680",
+      "genre": "article",
+      "title": "Carcharias Prionodon amblyrhynchos, eene nieuwe haaisoort, gevangen nabij het eiland Solombo",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "10",
+      "spage": "467",
+      "epage": "468",
+      "year": "1856",
+      "date": "1856-00-00",
+      "oclc": "7830420",
+      "PageID": "13613025",
+      "created": "2011-01-10 23:43:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13613025,
+        13613026
+      ]
+    }
+  ]
+}

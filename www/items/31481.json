@@ -1,0 +1,41 @@
+{
+  "ItemID": "31481",
+  "FullTitle": "Bulletin of the California Academy of Sciences.  ",
+  "VolumeInfo": "v. 2 (1886-1887)",
+  "articles": [
+    {
+      "reference_id": "72224",
+      "genre": "article",
+      "title": "Contributions to the larval history of Pacific Coast Coleoptera",
+      "secondary_title": "Bulletin of the California Academy of Sciences",
+      "volume": "2",
+      "spage": "64",
+      "epage": "72",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0038-3872",
+      "PageID": "7134275",
+      "created": "2011-06-04 00:49:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46685",
+          "lastname": "Rivers",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        7134275,
+        7134276,
+        7134277,
+        7134278,
+        7134279,
+        7134280,
+        7134281,
+        7134282,
+        7134283
+      ]
+    }
+  ]
+}

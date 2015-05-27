@@ -1,0 +1,149 @@
+{
+  "ItemID": "23637",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 14 (1889)",
+  "articles": [
+    {
+      "reference_id": "103366",
+      "genre": "article",
+      "title": "Note sur les Micro-organismes de la Panse des Ruminants",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "14",
+      "spage": "70",
+      "epage": "73",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0037-962X",
+      "PageID": "3646904",
+      "created": "2012-05-21 13:22:18",
+      "updated": "2012-05-21 13:22:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3646904,
+        3646905,
+        3646906,
+        3646907
+      ]
+    },
+    {
+      "reference_id": "66709",
+      "genre": "article",
+      "title": "Description d'un isopode fluviatile du genre Jaera provenant de l'ile de Flores (Acores)",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "14",
+      "spage": "133",
+      "epage": "134",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0037-962X",
+      "PageID": "3646967",
+      "created": "2011-05-09 17:46:30",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42113",
+          "lastname": "Dollfus",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        3646967,
+        3646968
+      ]
+    },
+    {
+      "reference_id": "61436",
+      "genre": "article",
+      "title": "Amphipodes nouveaux provenant des campagnes de l'Hirondelle 1887-1888",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "14",
+      "spage": "283",
+      "epage": "289",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0037-962X",
+      "PageID": "3647117",
+      "created": "2011-01-10 20:16:00",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18122",
+          "lastname": "Chevreux",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3647117,
+        3647118,
+        3647119,
+        3647120,
+        3647121,
+        3647122,
+        3647123
+      ]
+    },
+    {
+      "reference_id": "57264",
+      "genre": "article",
+      "title": "Arachnides recueillis au Groenland, en 1888, par M. Ch. Rabot",
+      "secondary_title": "Bull. Soc. zool. France",
+      "volume": "14",
+      "spage": "289",
+      "epage": "291",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1715809",
+      "PageID": "3647123",
+      "created": "2010-11-18 13:37:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3647123,
+        3647124,
+        3647125
+      ]
+    },
+    {
+      "reference_id": "57351",
+      "genre": "article",
+      "title": "Liste des arachnides recueillis aux \u00eeles Canaries, en 1888, par M. le Dr Verneau",
+      "secondary_title": "Bull. Soc. zool. France",
+      "volume": "14",
+      "spage": "300",
+      "epage": "304",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1715809",
+      "PageID": "3647134",
+      "created": "2010-11-18 14:00:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3647134,
+        3647135,
+        3647136,
+        3647137,
+        3647138
+      ]
+    }
+  ]
+}

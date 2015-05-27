@@ -1,0 +1,101 @@
+{
+  "author": [
+    {
+      "firstname": "J Mark",
+      "lastname": "Ritchie",
+      "name": "J Mark Ritchie"
+    }
+  ],
+  "type": "article",
+  "title": "A taxonomic revision of the genus Gastrimargus Saussure (Orthoptera: Acrididae)",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Entomology",
+    "volume": "44",
+    "issue": "4",
+    "pages": "239--329",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1982",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/171"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2359422"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 171
+    },
+    {
+      "type": "bhl",
+      "id": 2359422
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        37.983333333333,
+        -1.3666666666667
+      ],
+      [
+        36.916666666667,
+        2.5833333333333
+      ],
+      [
+        37.283333333333,
+        -0.96666666666667
+      ],
+      [
+        36.1,
+        -1.1
+      ],
+      [
+        37.466666666667,
+        -0.68333333333333
+      ],
+      [
+        38.066666666667,
+        0.016666666666667
+      ],
+      [
+        38.233333333333,
+        -3.5333333333333
+      ],
+      [
+        38.183333333333,
+        -3.55
+      ],
+      [
+        37.45,
+        -0.58333333333333
+      ],
+      [
+        38.216666666667,
+        -3.55
+      ],
+      [
+        29.433333333333,
+        -16.833333333333
+      ],
+      [
+        29.5,
+        -16.5
+      ],
+      [
+        33.75,
+        -10.583333333333
+      ]
+    ]
+  }
+}

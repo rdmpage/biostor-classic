@@ -1,0 +1,798 @@
+{
+  "ItemID": "46220",
+  "FullTitle": "Transactions of the Linnean Society of London.  ",
+  "VolumeInfo": "Volume 1",
+  "articles": [
+    {
+      "reference_id": "5796",
+      "genre": "article",
+      "title": "Introductory discourse on the rise and progress of Natural History",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "1",
+      "epage": "55",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00380.x",
+      "PageID": "12864138",
+      "created": "2010-01-06 14:12:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12864138,
+        12864139,
+        12864140,
+        12864141,
+        12864142,
+        12864143,
+        12864144,
+        12864145,
+        12864146,
+        12864147,
+        12864148,
+        12864149,
+        12864150,
+        12864151,
+        12864152,
+        12864153,
+        12864154,
+        12864155,
+        12864156,
+        12864157,
+        12864158,
+        12864159,
+        12864160,
+        12864161,
+        12864162,
+        12864163,
+        12864164,
+        12864165,
+        12864166,
+        12864167,
+        12864168,
+        12864169,
+        12864193,
+        12864194,
+        12864195,
+        12864196,
+        12864197,
+        12864198,
+        12864199,
+        12864200,
+        12864201,
+        12864202,
+        12864203,
+        12864204,
+        12864205,
+        12864206,
+        12864207,
+        12864208,
+        12864209,
+        12864210,
+        12864211,
+        12864212,
+        12864213,
+        12864214,
+        12864215
+      ]
+    },
+    {
+      "reference_id": "6164",
+      "genre": "article",
+      "title": "II. Observations on fame Extraneous Fossils of Switzerland",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "57",
+      "epage": "66",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00381.x",
+      "PageID": "12864217",
+      "created": "2010-01-06 14:47:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2943",
+          "lastname": "Tingry",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        12864217,
+        12864218,
+        12864219,
+        12864220,
+        12864221,
+        12864222,
+        12864223,
+        12864224,
+        12864225,
+        12864226
+      ]
+    },
+    {
+      "reference_id": "5792",
+      "genre": "article",
+      "title": "III. Observations on the Phalaena Bombyx Lubricipeda of Linneus, and some other Moths allied to it",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "67",
+      "epage": "75",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00382.x",
+      "PageID": "12864227",
+      "created": "2010-01-06 14:12:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2752",
+          "lastname": "Marsham",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        12864227,
+        12864228,
+        12864229,
+        12864230,
+        12864231,
+        12864232,
+        12864233,
+        12864234,
+        12864235
+      ]
+    },
+    {
+      "reference_id": "5801",
+      "genre": "article",
+      "title": "IV. Descriptions of four Species of Cypripedium",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "76",
+      "epage": "80",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00383.x",
+      "PageID": "12864238",
+      "created": "2010-01-06 14:12:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2734",
+          "lastname": "Salisbury",
+          "forename": "Richard Anthony"
+        }
+      ],
+      "bhl_pages": [
+        12864238,
+        12864239,
+        12864240,
+        12864241,
+        12864242
+      ]
+    },
+    {
+      "reference_id": "5948",
+      "genre": "article",
+      "title": "V. Descriptions of ten Species of Lichen collected in the South of Europe",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "81",
+      "epage": "85",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00384.x",
+      "PageID": "12864245",
+      "created": "2010-01-06 14:15:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12864245,
+        12864246,
+        12864247,
+        12864248,
+        12864249
+      ]
+    },
+    {
+      "reference_id": "5814",
+      "genre": "article",
+      "title": "IX. The Botanical History of the Canella alba, by Olof Swartz, M.D. Foreign Member of the Linnean Society",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "96",
+      "epage": "102",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00388.x",
+      "PageID": "12864268",
+      "created": "2010-01-06 14:13:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12864268,
+        12864269,
+        12864270,
+        12864271,
+        12864272,
+        12864273,
+        12864274
+      ]
+    },
+    {
+      "reference_id": "5668",
+      "genre": "article",
+      "title": "Additional Remarks",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "115",
+      "epage": "117",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00391.x",
+      "PageID": "12864291",
+      "created": "2010-01-06 14:02:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12864291,
+        12864292,
+        12864293
+      ]
+    },
+    {
+      "reference_id": "5999",
+      "genre": "article",
+      "title": "XII. On tbe Migration of certain Bird, and on other. Mniicrs relating to the fiaihered fribes",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "118",
+      "epage": "130",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00392.x",
+      "PageID": "12864296",
+      "created": "2010-01-06 14:16:30",
+      "updated": "2011-09-12 18:03:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2864",
+          "lastname": "Markwick",
+          "forename": "Wiiliam"
+        }
+      ],
+      "bhl_pages": [
+        12864296,
+        12864297,
+        12864298,
+        12864299,
+        12864300,
+        12864301,
+        12864302,
+        12864303,
+        12864304,
+        12864305,
+        12864306,
+        12864307,
+        12864308
+      ]
+    },
+    {
+      "reference_id": "6167",
+      "genre": "article",
+      "title": "XIII. The History and Description of a new Species of Fucus. By Thomas Woodward, Esq. Fellow of the Linnean Society",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "131",
+      "epage": "134",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00393.x",
+      "PageID": "12864313",
+      "created": "2010-01-06 14:48:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12864313,
+        12864314,
+        12864315,
+        12864316
+      ]
+    },
+    {
+      "reference_id": "6011",
+      "genre": "article",
+      "title": "XIV. Account of a sngular Conformation in the Wings of some Species of Moths",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "135",
+      "epage": "146",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00394.x",
+      "PageID": "12864319",
+      "created": "2010-01-06 14:16:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2872",
+          "lastname": "Giorna",
+          "forename": "Mr Esprit"
+        }
+      ],
+      "bhl_pages": [
+        12864319,
+        12864320,
+        12864321,
+        12864322,
+        12864323,
+        12864324,
+        12864325,
+        12864326,
+        12864327,
+        12864328,
+        12864329,
+        12864330
+      ]
+    },
+    {
+      "reference_id": "6034",
+      "genre": "article",
+      "title": "XV. Observations on the Language of Botany",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "147",
+      "epage": "154",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00395.x",
+      "PageID": "12864333",
+      "created": "2010-01-06 14:17:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2882",
+          "lastname": "Martyn",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        12864333,
+        12864334,
+        12864335,
+        12864336,
+        12864337,
+        12864338,
+        12864339,
+        12864340
+      ]
+    },
+    {
+      "reference_id": "6041",
+      "genre": "article",
+      "title": "XVI. Observations on the Genus of Begonia",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "155",
+      "epage": "173",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00396.x",
+      "PageID": "12864341",
+      "created": "2010-01-06 14:17:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2813",
+          "lastname": "Dryander",
+          "forename": "Jonas"
+        }
+      ],
+      "bhl_pages": [
+        12864341,
+        12864342,
+        12864343,
+        12864344,
+        12864345,
+        12864346,
+        12864347,
+        12864348,
+        12864349,
+        12864350,
+        12864351,
+        12864352,
+        12864353,
+        12864354,
+        12864355,
+        12864356,
+        12864357,
+        12864358,
+        12864359
+      ]
+    },
+    {
+      "reference_id": "6051",
+      "genre": "article",
+      "title": "XVII. On the Genus of Symplocos, comprehending Hopea, Alstonia, and Ciponima",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "174",
+      "epage": "176",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00397.x",
+      "PageID": "12864366",
+      "created": "2010-01-06 14:17:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2897",
+          "lastname": "L'hertier",
+          "forename": "Mr Charles Louis"
+        }
+      ],
+      "bhl_pages": [
+        12864366,
+        12864367,
+        12864368
+      ]
+    },
+    {
+      "reference_id": "5836",
+      "genre": "article",
+      "title": "Observations on Polypodium Oreopteris, accompanied with a Specimen from Scotland",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "181",
+      "epage": "182",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00399.x",
+      "PageID": "12864373",
+      "created": "2010-01-06 14:13:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2802",
+          "lastname": "Dickfon",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12864373,
+        12864374
+      ]
+    },
+    {
+      "reference_id": "6062",
+      "genre": "article",
+      "title": "XX. Account of a spinning Limax, or Slug",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "183",
+      "epage": "186",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00400.x",
+      "PageID": "12864375",
+      "created": "2010-01-06 14:17:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2904",
+          "lastname": "Hoy",
+          "forename": "Mr Thomas"
+        }
+      ],
+      "bhl_pages": [
+        12864375,
+        12864376,
+        12864377,
+        12864378
+      ]
+    },
+    {
+      "reference_id": "6073",
+      "genre": "article",
+      "title": "XXI. Descriptions of three new Animals found in the Pacific Ocean",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "187",
+      "epage": "188",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00401.x",
+      "PageID": "12864379",
+      "created": "2010-01-06 14:17:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2911",
+          "lastname": "Merizies",
+          "forename": "Mr Archibald"
+        }
+      ],
+      "bhl_pages": [
+        12864379,
+        12864380
+      ]
+    },
+    {
+      "reference_id": "6087",
+      "genre": "article",
+      "title": "XXII. Remarks on the Genus Veronica",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "189",
+      "epage": "195",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00402.x",
+      "PageID": "12864381",
+      "created": "2010-01-06 14:18:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2701",
+          "lastname": "Smith",
+          "forename": "James Edward"
+        }
+      ],
+      "bhl_pages": [
+        12864381,
+        12864382,
+        12864383,
+        12864384,
+        12864385,
+        12864386,
+        12864387
+      ]
+    },
+    {
+      "reference_id": "6161",
+      "genre": "article",
+      "title": "XXIII. Descriptions. of two new Species of Phal\u00e6na",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "196",
+      "epage": "197",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00403.x",
+      "PageID": "12864388",
+      "created": "2010-01-06 14:42:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2940",
+          "lastname": "Bosc",
+          "forename": "Mr Louis"
+        }
+      ],
+      "bhl_pages": [
+        12864388,
+        12864389
+      ]
+    },
+    {
+      "reference_id": "6156",
+      "genre": "article",
+      "title": "XXIV. The Botanical History of the Genus Dillenia, with an Addition of several nondescript Species",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "198",
+      "epage": "201",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00404.x",
+      "PageID": "12864394",
+      "created": "2010-01-06 14:32:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2743",
+          "lastname": "Thunberg",
+          "forename": "Charles Peter"
+        }
+      ],
+      "bhl_pages": [
+        12864394,
+        12864395,
+        12864396,
+        12864397
+      ]
+    },
+    {
+      "reference_id": "6155",
+      "genre": "article",
+      "title": "XXV. The Botanical History of Trifolium alpestre, medium, and pratense",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "202",
+      "epage": "248",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00405.x",
+      "PageID": "12864404",
+      "created": "2010-01-06 14:31:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2937",
+          "lastname": "Afzelius",
+          "forename": "Adam"
+        }
+      ],
+      "bhl_pages": [
+        12864404,
+        12864405,
+        12864406,
+        12864407,
+        12864408,
+        12864409,
+        12864410,
+        12864411,
+        12864412,
+        12864413,
+        12864414,
+        12864415,
+        12864416,
+        12864417,
+        12864418,
+        12864419,
+        12864420,
+        12864421,
+        12864422,
+        12864423,
+        12864424,
+        12864425,
+        12864426,
+        12864427,
+        12864428,
+        12864429,
+        12864430,
+        12864431,
+        12864432,
+        12864433,
+        12864434,
+        12864435,
+        12864436,
+        12864437,
+        12864438,
+        12864439,
+        12864440,
+        12864441,
+        12864442,
+        12864443,
+        12864444,
+        12864445,
+        12864446,
+        12864447,
+        12864448,
+        12864449,
+        12864450
+      ]
+    },
+    {
+      "reference_id": "6153",
+      "genre": "article",
+      "title": "XXVI. An Account of several Plants presented to the Linnean Society, at different 'Times",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "249",
+      "epage": "254",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00406.x",
+      "PageID": "12864451",
+      "created": "2010-01-06 14:25:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2936",
+          "lastname": "Fairbairn",
+          "forename": "Mr John"
+        },
+        {
+          "id": "2904",
+          "lastname": "Hoy",
+          "forename": "Mr Thomas"
+        }
+      ],
+      "bhl_pages": [
+        12864451,
+        12864452,
+        12864453,
+        12864454,
+        12864455,
+        12864456
+      ]
+    },
+    {
+      "reference_id": "6122",
+      "genre": "article",
+      "title": "XXVII. Extracts from the Minute Book of the Linnean Society",
+      "secondary_title": "Transactions of The Linnean Society of London",
+      "volume": "1",
+      "spage": "255",
+      "epage": "257",
+      "year": "1791",
+      "date": "1791-00-00",
+      "issn": "1945-9432",
+      "doi": "10.1111\/j.1096-3642.1791.tb00407.x",
+      "PageID": "12864457",
+      "created": "2010-01-06 14:18:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12864457,
+        12864458,
+        12864459
+      ]
+    }
+  ]
+}

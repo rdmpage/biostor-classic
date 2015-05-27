@@ -1,0 +1,94 @@
+{
+  "ItemID": "31346",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 35, Bd. 1 (1869)",
+  "articles": [
+    {
+      "reference_id": "51986",
+      "genre": "article",
+      "title": "ueber einige Thiere von Mendoza",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "35",
+      "spage": "38",
+      "epage": "51",
+      "year": "1869",
+      "date": "1869-00-00",
+      "oclc": "1481990",
+      "PageID": "7058381",
+      "created": "2010-06-27 13:22:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39406",
+          "lastname": "Philippi",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        7058381,
+        7058382,
+        7058383,
+        7058384,
+        7058385,
+        7058386,
+        7058387,
+        7058388,
+        7058389,
+        7058390,
+        7058391,
+        7058392,
+        7058393,
+        7058394
+      ]
+    },
+    {
+      "reference_id": "71326",
+      "genre": "article",
+      "title": "Beitrag zur Insekten-Fauna von Zanzibar. No. II. Orthoptera et Neuroptera",
+      "secondary_title": "Archiv fur Naturgeschichte, Berlin",
+      "volume": "35",
+      "spage": "201",
+      "epage": "223",
+      "year": "1869",
+      "date": "1869-00-00",
+      "oclc": "1481990",
+      "PageID": "7058544",
+      "created": "2011-06-03 19:23:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46799",
+          "lastname": "",
+          "forename": "Gerstaecker"
+        }
+      ],
+      "bhl_pages": [
+        7058544,
+        7058545,
+        7058546,
+        7058547,
+        7058548,
+        7058549,
+        7058550,
+        7058551,
+        7058552,
+        7058553,
+        7058554,
+        7058555,
+        7058556,
+        7058557,
+        7058558,
+        7058559,
+        7058560,
+        7058561,
+        7058562,
+        7058563,
+        7058564,
+        7058565,
+        7058566
+      ]
+    }
+  ]
+}

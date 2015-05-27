@@ -1,0 +1,84 @@
+{
+  "ItemID": "52229",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 13 (1865)",
+  "articles": [
+    {
+      "reference_id": "59721",
+      "genre": "article",
+      "title": "Notice preliminaire sur la famille des Diplommatinacees",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "13",
+      "spage": "289",
+      "epage": "294",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "1605690",
+      "PageID": "15133900",
+      "created": "2010-11-22 15:40:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42678",
+          "lastname": "Semper",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        15133900,
+        15133901,
+        15133902,
+        15133903,
+        15133904,
+        15133905
+      ]
+    },
+    {
+      "reference_id": "61595",
+      "genre": "article",
+      "title": "Quelques mots sur un arrangement des mollusques pulmon\u00e9s terrestres (G\u00e9ophiles, F\u00e9r.) bas\u00e9 sur le syst\u00e8me naturelle",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "13",
+      "spage": "376",
+      "epage": "396",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "1605690",
+      "PageID": "15133987",
+      "created": "2011-01-10 22:22:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43013",
+          "lastname": "M\u00f6rch",
+          "forename": "O A L"
+        }
+      ],
+      "bhl_pages": [
+        15133987,
+        15133988,
+        15133989,
+        15133990,
+        15133991,
+        15133992,
+        15133993,
+        15133994,
+        15133995,
+        15133996,
+        15133997,
+        15133998,
+        15133999,
+        15134000,
+        15134001,
+        15134002,
+        15134003,
+        15134004,
+        15134005,
+        15134006,
+        15134007
+      ]
+    }
+  ]
+}

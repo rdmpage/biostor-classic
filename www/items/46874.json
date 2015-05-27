@@ -1,0 +1,104 @@
+{
+  "ItemID": "46874",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.78 no.6 1995",
+  "articles": [
+    {
+      "reference_id": "62996",
+      "genre": "article",
+      "title": "The resurrection of a species: Muhlenbergia straminea (Gramineae)",
+      "secondary_title": "Phytologia",
+      "volume": "78",
+      "spage": "417",
+      "epage": "427",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12990607",
+      "created": "2011-01-26 21:38:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43578",
+          "lastname": "Reeder",
+          "forename": "C G"
+        },
+        {
+          "id": "43234",
+          "lastname": "Reeder",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        12990607,
+        12990608,
+        12990609,
+        12990610,
+        12990611,
+        12990612,
+        12990613,
+        12990614,
+        12990615,
+        12990616,
+        12990617
+      ]
+    },
+    {
+      "reference_id": "63520",
+      "genre": "article",
+      "title": "Paronychia virginica (Caryophyllaceae), a first report of its occurrence in Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "78",
+      "spage": "446",
+      "epage": "447",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12990636",
+      "created": "2011-01-26 22:03:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12990636,
+        12990637
+      ]
+    },
+    {
+      "reference_id": "63516",
+      "genre": "article",
+      "title": "Synoptical study of Rhododon (Lamiaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "78",
+      "spage": "448",
+      "epage": "451",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12990638",
+      "created": "2011-01-26 22:03:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12990638,
+        12990639,
+        12990640,
+        12990641
+      ]
+    }
+  ]
+}

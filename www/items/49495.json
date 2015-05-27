@@ -1,0 +1,70 @@
+{
+  "ItemID": "49495",
+  "FullTitle": "Archiv f\u00fcr mikroskopische Anatomie.",
+  "VolumeInfo": "bd. 18 (1880)",
+  "articles": [
+    {
+      "reference_id": "61306",
+      "genre": "article",
+      "title": "Neue Coelenteraten aus dem Golf von Neapel",
+      "secondary_title": "Archiv f\u00fcr Mikroskopische Anatomie",
+      "volume": "18",
+      "spage": "271",
+      "epage": "280",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "6201139",
+      "PageID": "13986466",
+      "created": "2011-01-10 17:05:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42979",
+          "lastname": "Keller",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        13986466,
+        13986467,
+        13986468,
+        13986469,
+        13986470,
+        13986471,
+        13986472,
+        13986473,
+        13986474,
+        13986475
+      ]
+    },
+    {
+      "reference_id": "61658",
+      "genre": "article",
+      "title": "Zusatz zu obiger Abhandlung (von Keller)",
+      "secondary_title": "Archiv f\u00fcr Mikroskopische Anatomie",
+      "volume": "18",
+      "spage": "280",
+      "epage": "282",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "6201139",
+      "PageID": "13986475",
+      "created": "2011-01-10 23:20:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43089",
+          "lastname": "Schmidt",
+          "forename": "E O"
+        }
+      ],
+      "bhl_pages": [
+        13986475,
+        13986476,
+        13986477
+      ]
+    }
+  ]
+}

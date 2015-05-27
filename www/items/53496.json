@@ -1,0 +1,36 @@
+{
+  "ItemID": "53496",
+  "FullTitle": "The London and Edinburgh philosophical magazine and journal of science.",
+  "VolumeInfo": "Vol 1 (3rd Series)",
+  "articles": [
+    {
+      "reference_id": "103799",
+      "genre": "article",
+      "title": "Descriptions of several new British forms amongst the parasitic hymenopterous insects",
+      "secondary_title": "London and Edinburgh Philosophical Magazine and Journal of Science",
+      "volume": "1",
+      "spage": "127",
+      "epage": "129",
+      "year": "1832",
+      "date": "1832-00-00",
+      "issn": "1941-5966",
+      "doi": "10.1080\/14786443208647849",
+      "PageID": "15699063",
+      "created": "2012-05-29 09:25:52",
+      "updated": "2012-05-29 09:29:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        15699063,
+        15699064,
+        15699065
+      ]
+    }
+  ]
+}

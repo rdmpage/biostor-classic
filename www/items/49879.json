@@ -1,0 +1,785 @@
+{
+  "ItemID": "49879",
+  "FullTitle": "Memo\u0301rias do Instituto Oswaldo Cruz.",
+  "VolumeInfo": "t.1-2 1909-1910",
+  "articles": [
+    {
+      "reference_id": "101522",
+      "genre": "article",
+      "title": "Sobre a ultrafilta\u00e7\u00e3o: pesquizas tendentes a obter a concentra\u00e7\u00e3o do s\u00f4ro antidifterico",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "1",
+      "spage": "3",
+      "epage": "11",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761909000100001",
+      "PageID": "14174076",
+      "created": "2012-03-19 11:36:16",
+      "updated": "2012-03-19 11:36:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53478",
+          "lastname": "Giemsa",
+          "forename": "G"
+        },
+        {
+          "id": "53479",
+          "lastname": "Godoy",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        14174076,
+        14174077,
+        14174078,
+        14174079,
+        14174080,
+        14174081,
+        14174082,
+        14174083,
+        14174084
+      ]
+    },
+    {
+      "reference_id": "101523",
+      "genre": "article",
+      "title": "Contribui\u00e7\u00f5es para o conhecimento da fauna indijena de Tabanidas",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "1",
+      "spage": "28",
+      "epage": "32",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761909000100004",
+      "PageID": "14174103",
+      "created": "2012-03-19 11:36:32",
+      "updated": "2012-03-19 11:36:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53480",
+          "lastname": "Lutz",
+          "forename": "Adolpho"
+        },
+        {
+          "id": "53481",
+          "lastname": "Neiva",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        14174103,
+        14174104,
+        14174105,
+        14174106,
+        14174107
+      ]
+    },
+    {
+      "reference_id": "99083",
+      "genre": "article",
+      "title": "Sobre a Amoeba diplomitotica n. sp.: contribui\u00e7\u00e3o para o estudo da diviz\u00e3o nuclear nas amebas",
+      "secondary_title": "Mem\u00f3rias do Instituto Oswaldo Cruz",
+      "volume": "1",
+      "issue": "1",
+      "spage": "33",
+      "epage": "43",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0074-0276",
+      "PageID": "14174108",
+      "created": "2011-12-11 17:05:03",
+      "updated": "2011-12-11 17:05:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53356",
+          "lastname": "De Beaurepaire Arag\u00e3o",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        14174108,
+        14174109,
+        14174110,
+        14174111,
+        14174112,
+        14174113,
+        14174114,
+        14174115,
+        14174116,
+        14174117,
+        14174118
+      ]
+    },
+    {
+      "reference_id": "99084",
+      "genre": "article",
+      "title": "Contribui\u00e7\u00e3o para o estudo dos parazitas intraglobulares dos lac\u00e9rtidas: Plasmodium diploglossi n. sp. Plasmodium tropiduri n. sp",
+      "secondary_title": "Mem\u00f3rias do Instituto Oswaldo Cruz",
+      "volume": "1",
+      "issue": "1",
+      "spage": "44",
+      "epage": "50",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0074-0276",
+      "PageID": "14174121",
+      "created": "2011-12-11 17:05:45",
+      "updated": "2011-12-11 17:05:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53356",
+          "lastname": "De Beaurepaire Arag\u00e3o",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        14174121,
+        14174122,
+        14174123,
+        14174124,
+        14174125,
+        14174126,
+        14174127
+      ]
+    },
+    {
+      "reference_id": "101524",
+      "genre": "article",
+      "title": "Contribui\u00e7\u00e3o para o estudo dos dipteros: observa\u00e7\u00f5es sobre a biolojia e sistematica das anofelinas brazileiras e suas rela\u00e7\u00f5es com o impaludismo",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "1",
+      "spage": "69",
+      "epage": "77",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761909000100008",
+      "PageID": "14174148",
+      "created": "2012-03-19 11:36:44",
+      "updated": "2012-03-19 11:36:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53482",
+          "lastname": "Neiva",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        14174148,
+        14174149,
+        14174150,
+        14174151,
+        14174152,
+        14174153,
+        14174154,
+        14174155,
+        14174156
+      ]
+    },
+    {
+      "reference_id": "99085",
+      "genre": "article",
+      "title": "Echinostomum crotophagae, n. sp.: novo parazito do an\u00fa azul: crotophaga maior. L",
+      "secondary_title": "Mem\u00f3rias do Instituto Oswaldo Cruz",
+      "volume": "1",
+      "issue": "2",
+      "spage": "99",
+      "epage": "104",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0074-0276",
+      "PageID": "14174182",
+      "created": "2011-12-11 17:06:23",
+      "updated": "2011-12-11 17:06:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53357",
+          "lastname": "De Faria",
+          "forename": "Gomes"
+        }
+      ],
+      "bhl_pages": [
+        14174182,
+        14174183,
+        14174184,
+        14174185,
+        14174186,
+        14174187
+      ]
+    },
+    {
+      "reference_id": "101525",
+      "genre": "article",
+      "title": "Estudos sobre a Variola",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "1",
+      "spage": "147",
+      "epage": "158",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761909000200007",
+      "PageID": "14174238",
+      "created": "2012-03-19 11:37:10",
+      "updated": "2012-03-19 11:37:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53483",
+          "lastname": "Von Prowazek",
+          "forename": "S"
+        },
+        {
+          "id": "53356",
+          "lastname": "De Beaurepaire Arag\u00e3o",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        14174238,
+        14174239,
+        14174240,
+        14174241,
+        14174242,
+        14174243,
+        14174244,
+        14174245,
+        14174246,
+        14174247,
+        14174248,
+        14174249
+      ]
+    },
+    {
+      "reference_id": "101526",
+      "genre": "article",
+      "title": "Nova ameba intestinal, Emtamoeba testudinis n. sp",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "3",
+      "epage": "10",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100001",
+      "PageID": "14174342",
+      "created": "2012-03-19 11:37:18",
+      "updated": "2012-03-19 11:37:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53484",
+          "lastname": "Hartmann",
+          "forename": "Max"
+        }
+      ],
+      "bhl_pages": [
+        14174342,
+        14174343,
+        14174344,
+        14174345,
+        14174346,
+        14174347,
+        14174348,
+        14174349
+      ]
+    },
+    {
+      "reference_id": "101527",
+      "genre": "article",
+      "title": "Contribui\u00e7\u00e3o para a sistematica helmintolojica brazileira: II Dicrocoelium infidum n. sp. Parazito da vesicula biliar da Eunectes murina. L",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "22",
+      "epage": "28",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100003",
+      "PageID": "14174363",
+      "created": "2012-03-19 11:37:26",
+      "updated": "2012-03-19 11:37:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53357",
+          "lastname": "De Faria",
+          "forename": "Gomes"
+        }
+      ],
+      "bhl_pages": [
+        14174363,
+        14174364,
+        14174365,
+        14174366,
+        14174367,
+        14174368,
+        14174369
+      ]
+    },
+    {
+      "reference_id": "101528",
+      "genre": "article",
+      "title": "Pesquizas sobre a Polytomella agilis n. g., n. sp",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "42",
+      "epage": "57",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100005",
+      "PageID": "14174387",
+      "created": "2012-03-19 11:37:34",
+      "updated": "2012-03-19 11:37:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53356",
+          "lastname": "De Beaurepaire Arag\u00e3o",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        14174387,
+        14174388,
+        14174389,
+        14174390,
+        14174391,
+        14174392,
+        14174393,
+        14174394,
+        14174395,
+        14174396,
+        14174397,
+        14174398,
+        14174399,
+        14174400,
+        14174401,
+        14174402
+      ]
+    },
+    {
+      "reference_id": "101529",
+      "genre": "article",
+      "title": "Notas dipterolojicas",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "58",
+      "epage": "63",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100006",
+      "PageID": "14174405",
+      "created": "2012-03-19 11:37:43",
+      "updated": "2012-03-19 11:37:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53480",
+          "lastname": "Lutz",
+          "forename": "Adolpho"
+        }
+      ],
+      "bhl_pages": [
+        14174405,
+        14174406,
+        14174407,
+        14174408,
+        14174409,
+        14174410
+      ]
+    },
+    {
+      "reference_id": "101530",
+      "genre": "article",
+      "title": "Estudos sobre flajelados",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "64",
+      "epage": "125",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100007",
+      "PageID": "14174411",
+      "created": "2012-03-19 11:37:53",
+      "updated": "2012-03-19 11:37:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53484",
+          "lastname": "Hartmann",
+          "forename": "Max"
+        },
+        {
+          "id": "53485",
+          "lastname": "Chagas",
+          "forename": "Carlos"
+        }
+      ],
+      "bhl_pages": [
+        14174411,
+        14174412,
+        14174413,
+        14174414,
+        14174415,
+        14174416,
+        14174417,
+        14174418,
+        14174419,
+        14174420,
+        14174421,
+        14174422,
+        14174423,
+        14174424,
+        14174425,
+        14174426,
+        14174427,
+        14174428,
+        14174429,
+        14174430,
+        14174431,
+        14174432,
+        14174433,
+        14174434,
+        14174435,
+        14174436,
+        14174437,
+        14174438,
+        14174439,
+        14174440,
+        14174441,
+        14174442,
+        14174443,
+        14174444,
+        14174445,
+        14174446,
+        14174447,
+        14174448,
+        14174449,
+        14174450,
+        14174451,
+        14174452,
+        14174453,
+        14174454,
+        14174455,
+        14174456,
+        14174457,
+        14174458,
+        14174459,
+        14174460,
+        14174461,
+        14174462,
+        14174463,
+        14174464,
+        14174465,
+        14174466,
+        14174467,
+        14174468,
+        14174469,
+        14174470,
+        14174471,
+        14174472
+      ]
+    },
+    {
+      "reference_id": "101531",
+      "genre": "article",
+      "title": "Estudo quantitativo sobre a germina\u00e7\u00e3o dos esporos",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "126",
+      "epage": "130",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100008",
+      "PageID": "14174485",
+      "created": "2012-03-19 11:38:19",
+      "updated": "2012-03-19 11:38:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53479",
+          "lastname": "Godoy",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        14174485,
+        14174486,
+        14174487,
+        14174488,
+        14174489
+      ]
+    },
+    {
+      "reference_id": "101532",
+      "genre": "article",
+      "title": "Forma\u00e7\u00e3o de ra\u00e7a do hematozoario do impaludismo rezistente \u00e1 quinina",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "131",
+      "epage": "140",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100009",
+      "PageID": "14174490",
+      "created": "2012-03-19 11:38:33",
+      "updated": "2012-03-19 11:38:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53482",
+          "lastname": "Neiva",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        14174490,
+        14174491,
+        14174492,
+        14174493,
+        14174494,
+        14174495,
+        14174496,
+        14174497,
+        14174498,
+        14174499
+      ]
+    },
+    {
+      "reference_id": "101533",
+      "genre": "article",
+      "title": "Algumas considera\u00e7\u00f5es sobre a infe\u00e7\u00e3o tuberculoza e o seu respetivo virus",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "141",
+      "epage": "146",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000100010",
+      "PageID": "14174500",
+      "created": "2012-03-19 11:39:11",
+      "updated": "2012-03-19 11:39:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53486",
+          "lastname": "Fontes",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        14174500,
+        14174501,
+        14174502,
+        14174503,
+        14174504,
+        14174505
+      ]
+    },
+    {
+      "reference_id": "101534",
+      "genre": "article",
+      "title": "Contribui\u00e7\u00e3o para o conhecimento da fauna de protozoarios do Brazil",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "149",
+      "epage": "158",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000200001",
+      "PageID": "14174508",
+      "created": "2012-03-19 11:39:51",
+      "updated": "2012-03-19 11:39:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53483",
+          "lastname": "Von Prowazek",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        14174508,
+        14174509,
+        14174510,
+        14174511,
+        14174512,
+        14174513,
+        14174514,
+        14174515,
+        14174516,
+        14174517
+      ]
+    },
+    {
+      "reference_id": "101535",
+      "genre": "article",
+      "title": "Sobre a diviz\u00e3o nuclear da Amoeba hyalina Dang",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "159",
+      "epage": "167",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000200002",
+      "PageID": "14174518",
+      "created": "2012-03-19 11:40:32",
+      "updated": "2012-03-19 11:40:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53484",
+          "lastname": "Hartmann",
+          "forename": "Max"
+        },
+        {
+          "id": "53485",
+          "lastname": "Chagas",
+          "forename": "Carlos"
+        }
+      ],
+      "bhl_pages": [
+        14174518,
+        14174519,
+        14174520,
+        14174521,
+        14174522,
+        14174523,
+        14174524,
+        14174525,
+        14174526
+      ]
+    },
+    {
+      "reference_id": "101536",
+      "genre": "article",
+      "title": "Estudos sobre a tuberculoze",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "186",
+      "epage": "205",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000200004",
+      "PageID": "14174557",
+      "created": "2012-03-19 11:40:57",
+      "updated": "2012-03-19 11:40:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53486",
+          "lastname": "Fontes",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        14174557,
+        14174558,
+        14174559,
+        14174560,
+        14174561,
+        14174562,
+        14174563,
+        14174564,
+        14174565,
+        14174566,
+        14174567,
+        14174568,
+        14174569,
+        14174570,
+        14174571,
+        14174572,
+        14174573,
+        14174574,
+        14174575,
+        14174576
+      ]
+    },
+    {
+      "reference_id": "101537",
+      "genre": "article",
+      "title": "Informa\u00e7\u00f5is sobre a biolojia do Conorhinus megistus Burm",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "206",
+      "epage": "212",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000200005",
+      "PageID": "14174581",
+      "created": "2012-03-19 11:41:27",
+      "updated": "2012-03-19 11:41:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53482",
+          "lastname": "Neiva",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        14174581,
+        14174582,
+        14174583,
+        14174584,
+        14174585,
+        14174586,
+        14174587
+      ]
+    },
+    {
+      "reference_id": "101538",
+      "genre": "article",
+      "title": "Contribui\u00e7\u00e3o para a sistematica helmintolojica brazileira: III. Ancylostomum braziliense n. sp. Parazito dos gatos e c\u00e3is",
+      "secondary_title": "Mem\u00f3rias Do Instituto Oswaldo Cruz",
+      "volume": "2",
+      "spage": "286",
+      "epage": "293",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0074-0276",
+      "doi": "10.1590\/S0074-02761910000200008",
+      "PageID": "14174669",
+      "created": "2012-03-19 11:43:08",
+      "updated": "2012-03-19 11:43:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53357",
+          "lastname": "De Faria",
+          "forename": "Gomes"
+        }
+      ],
+      "bhl_pages": [
+        14174669,
+        14174670,
+        14174671,
+        14174672,
+        14174673,
+        14174674,
+        14174675,
+        14174676
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ItemID": "110329",
+  "FullTitle": "Stuttgarter Beitr\u00e4ge zur Naturkunde.",
+  "VolumeInfo": "nr. 173 1967",
+  "articles": [
+    {
+      "reference_id": "105523",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der europ\u00e4ischen Raupenfliegen (Dipt., Tachinidae)",
+      "secondary_title": "Stuttgarter Beitraege zur Naturkunde",
+      "volume": "173",
+      "spage": "1",
+      "epage": "11",
+      "year": "1967",
+      "date": "1967-05-15",
+      "issn": "0562-4452",
+      "PageID": "35667210",
+      "created": "2012-07-27 06:44:22",
+      "updated": "2012-07-27 06:46:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47945",
+          "lastname": "Herting",
+          "forename": "Benno"
+        }
+      ],
+      "bhl_pages": [
+        35667210,
+        35667211,
+        35667212,
+        35667213,
+        35667214,
+        35667215,
+        35667216,
+        35667217,
+        35667218,
+        35667219,
+        35667220
+      ]
+    }
+  ]
+}

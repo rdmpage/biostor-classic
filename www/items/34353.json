@@ -1,0 +1,77 @@
+{
+  "ItemID": "34353",
+  "FullTitle": "Transactions of the Kansas Academy of Science.  ",
+  "VolumeInfo": "6",
+  "articles": [
+    {
+      "reference_id": "69832",
+      "genre": "article",
+      "title": "The insects of Wallace County, Kansas",
+      "secondary_title": "Transactions of the Kansas Academy of Science, Topeka",
+      "volume": "6",
+      "spage": "61",
+      "epage": "70",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "8506593",
+      "PageID": "8323145",
+      "created": "2011-06-02 07:37:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46380",
+          "lastname": "Huntington",
+          "forename": "Snow Francis"
+        }
+      ],
+      "bhl_pages": [
+        8323145,
+        8323146,
+        8323147,
+        8323148,
+        8323149,
+        8323150,
+        8323151,
+        8323152,
+        8323153,
+        8323154
+      ]
+    },
+    {
+      "reference_id": "69833",
+      "genre": "article",
+      "title": "Additions to the catalogue of Kansas Coleoptera",
+      "secondary_title": "Transactions of the Kansas Academy of Science, Topeka",
+      "volume": "6",
+      "spage": "77",
+      "epage": "86",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "8506593",
+      "PageID": "8323161",
+      "created": "2011-06-02 07:37:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46382",
+          "lastname": "Alonzo",
+          "forename": "Popenoe Edwin"
+        }
+      ],
+      "bhl_pages": [
+        8323161,
+        8323162,
+        8323163,
+        8323164,
+        8323165,
+        8323166,
+        8323167,
+        8323168,
+        8323169,
+        8323170
+      ]
+    }
+  ]
+}

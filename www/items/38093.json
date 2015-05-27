@@ -1,0 +1,258 @@
+{
+  "ItemID": "38093",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 44 1911",
+  "articles": [
+    {
+      "reference_id": "65205",
+      "genre": "article",
+      "title": "Rhynchota Indica (Heteroptera)",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "22",
+      "epage": "25",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948055",
+      "created": "2011-02-04 13:05:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        9948055,
+        9948056,
+        9948057,
+        9948058
+      ]
+    },
+    {
+      "reference_id": "72982",
+      "genre": "article",
+      "title": "On two undescribed genera and three new species of Ichneumonidae from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "63",
+      "epage": "65",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948102",
+      "created": "2011-06-04 04:50:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9948102,
+        9948103,
+        9948104
+      ]
+    },
+    {
+      "reference_id": "60934",
+      "genre": "article",
+      "title": "Some new Culicidae from Western Australia, South Queensland, and Tasmania. New species found in a small collection of mosquitoes from Western Australia",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "130",
+      "epage": "134",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948183",
+      "created": "2010-11-26 19:25:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3018",
+          "lastname": "Strickland",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        9948183,
+        9948184,
+        9948185,
+        9948186,
+        9948187
+      ]
+    },
+    {
+      "reference_id": "60945",
+      "genre": "article",
+      "title": "A new genus of Australian bees",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "140",
+      "epage": "142",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948195",
+      "created": "2010-11-26 19:26:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        9948195,
+        9948196,
+        9948197
+      ]
+    },
+    {
+      "reference_id": "72916",
+      "genre": "article",
+      "title": "A new species of Pimplinae",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "161",
+      "epage": "162",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948222",
+      "created": "2011-06-04 04:41:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42891",
+          "lastname": "Morley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9948222,
+        9948223
+      ]
+    },
+    {
+      "reference_id": "72400",
+      "genre": "article",
+      "title": "A new aphid-infesting |Aphelinus| which is not black",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "178",
+      "epage": "179",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948239",
+      "created": "2011-06-04 01:46:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        9948239,
+        9948240
+      ]
+    },
+    {
+      "reference_id": "60950",
+      "genre": "article",
+      "title": "Two new species of Trichogrammidae from the United States and West Australia",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "197",
+      "epage": "198",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948262",
+      "created": "2010-11-26 19:26:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        9948262,
+        9948263
+      ]
+    },
+    {
+      "reference_id": "60994",
+      "genre": "article",
+      "title": "Some new Culicidae from Western Australia, South Queensland, and Tasmania. New species found in a small collection of mosquitoes from Tasmanis",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "249",
+      "epage": "251",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948318",
+      "created": "2010-12-02 20:37:46",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3018",
+          "lastname": "Strickland",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        9948318,
+        9948319,
+        9948320
+      ]
+    },
+    {
+      "reference_id": "73775",
+      "genre": "article",
+      "title": "A new mosquito from Paraguay",
+      "secondary_title": "Entomologist",
+      "volume": "44",
+      "spage": "268",
+      "epage": "269",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0013-8878",
+      "PageID": "9948343",
+      "created": "2011-06-04 09:46:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3018",
+          "lastname": "Strickland",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        9948343,
+        9948344
+      ]
+    }
+  ]
+}

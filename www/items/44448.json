@@ -1,0 +1,35 @@
+{
+  "ItemID": "44448",
+  "FullTitle": "Atti della Reale Accademia delle scienze di Torino.",
+  "VolumeInfo": "v.32",
+  "articles": [
+    {
+      "reference_id": "104920",
+      "genre": "article",
+      "title": "Sul Peripatus quitensis Schmarda",
+      "secondary_title": "Atti Della Reale Accademia Delle Scienze Di Torino",
+      "volume": "32",
+      "spage": "395",
+      "epage": "398",
+      "year": "1897",
+      "date": "1897-00-00",
+      "PageID": "12211920",
+      "created": "2012-06-29 09:58:00",
+      "updated": "2012-06-29 09:58:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46430",
+          "lastname": "Camerano",
+          "forename": "Lorenzo"
+        }
+      ],
+      "bhl_pages": [
+        12211920,
+        12211921,
+        12211922,
+        12211923
+      ]
+    }
+  ]
+}

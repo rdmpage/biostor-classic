@@ -1,0 +1,138 @@
+{
+  "ItemID": "44303",
+  "FullTitle": "The Bulletin of zoological nomenclature.",
+  "VolumeInfo": "Vol 16",
+  "articles": [
+    {
+      "reference_id": "2274",
+      "genre": "article",
+      "title": "Proposed use of the Plenary Powers to validate a neotype for the nominal species Cancer oculatus Fabricius (O.), 1780, to designate the species so named to be the type species of the genus Mysis Latreille [1802-1803] (Class Crustacea, Order Mysi-dacea) a",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "16",
+      "spage": "51",
+      "epage": "61",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0007-5167",
+      "PageID": "12164853",
+      "created": "2009-12-23 18:20:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1474",
+          "lastname": "Holmquist",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        12164853,
+        12164854,
+        12164855,
+        12164856,
+        12164857,
+        12164858,
+        12164859,
+        12164860,
+        12164861,
+        12164862,
+        12164863
+      ]
+    },
+    {
+      "reference_id": "2271",
+      "genre": "article",
+      "title": "Proposed addition to the Official List of Family-Group Names in Zoology of certain Family-Group Names for Ammonoidea, generally accepted in corrected form, but originally mis-spelt or incorrectly formed",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "16",
+      "spage": "62",
+      "epage": "66",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0007-5167",
+      "PageID": "12164864",
+      "created": "2009-12-23 18:20:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1472",
+          "lastname": "Arkell",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        12164864,
+        12164865,
+        12164866,
+        12164867,
+        12164868
+      ]
+    },
+    {
+      "reference_id": "2270",
+      "genre": "article",
+      "title": "Proposed use of the Plenary Powers to designate a type species for the genus Dactylioceras Hyatt. 1867 (Class Cephalopoda, Order Ammonoidea: Jurassic) in harmony with accustomed usage",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "16",
+      "spage": "67",
+      "epage": "70",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0007-5167",
+      "PageID": "12164869",
+      "created": "2009-12-23 18:20:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1458",
+          "lastname": "Sylvester-Bradley",
+          "forename": "P C"
+        }
+      ],
+      "bhl_pages": [
+        12164869,
+        12164870,
+        12164871,
+        12164872
+      ]
+    },
+    {
+      "reference_id": "2268",
+      "genre": "article",
+      "title": "Request for a ruling as to the species to be accepted as the type species of the nominal genus Bathylagus Gunther (A.C.L.G.),1878(Class Pisces)",
+      "secondary_title": "Bull. Zool. Nom.",
+      "volume": "16",
+      "spage": "73",
+      "epage": "78",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0007-5167",
+      "PageID": "12164875",
+      "created": "2009-12-23 18:20:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1414",
+          "lastname": "Follett",
+          "forename": "W I"
+        },
+        {
+          "id": "1470",
+          "lastname": "Cohen",
+          "forename": "D M"
+        }
+      ],
+      "bhl_pages": [
+        12164875,
+        12164876,
+        12164877,
+        12164878,
+        12164879,
+        12164880
+      ]
+    }
+  ]
+}

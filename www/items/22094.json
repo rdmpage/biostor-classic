@@ -1,0 +1,567 @@
+{
+  "ItemID": "22094",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 43 (1911)",
+  "articles": [
+    {
+      "reference_id": "73852",
+      "genre": "article",
+      "title": "A new species of Phalangida from Missouri",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "43",
+      "issue": "1",
+      "spage": "20",
+      "epage": "22",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044127",
+      "created": "2011-06-05 09:40:43",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2324",
+          "lastname": "Crosby",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        3044127,
+        3044128,
+        3044129
+      ]
+    },
+    {
+      "reference_id": "85219",
+      "genre": "article",
+      "title": "Notes on the breeding of Tropidopria conica Fabr",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "48",
+      "epage": "50",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044155",
+      "created": "2011-08-11 17:59:45",
+      "updated": "2011-08-11 17:59:45",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3044155,
+        3044156,
+        3044157
+      ]
+    },
+    {
+      "reference_id": "71879",
+      "genre": "article",
+      "title": "Two new genera and seven new species of the family Aphididae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "59",
+      "epage": "65",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "doi": "10.4039\/Ent4359-2",
+      "PageID": "3044166",
+      "created": "2011-06-03 23:28:42",
+      "updated": "2011-10-03 14:12:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42276",
+          "lastname": "Wilson",
+          "forename": "H F"
+        }
+      ],
+      "bhl_pages": [
+        3044166,
+        3044167,
+        3044168,
+        3044169,
+        3044170,
+        3044171,
+        3044172
+      ]
+    },
+    {
+      "reference_id": "71286",
+      "genre": "article",
+      "title": "The Lithobiomorpha of Colorado",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "67",
+      "epage": "70",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044174",
+      "created": "2011-06-03 18:23:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        3044174,
+        3044175,
+        3044176,
+        3044177
+      ]
+    },
+    {
+      "reference_id": "71293",
+      "genre": "article",
+      "title": "The Lithobiomorpha of Wisconsin and neighbouring states",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "98",
+      "epage": "104",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044205",
+      "created": "2011-06-03 18:24:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        3044205,
+        3044206,
+        3044207,
+        3044208,
+        3044209,
+        3044210,
+        3044211
+      ]
+    },
+    {
+      "reference_id": "85174",
+      "genre": "article",
+      "title": "Four new species of Asilidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "128",
+      "epage": "130",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "doi": "10.4039\/Ent43128-4",
+      "PageID": "3044235",
+      "created": "2011-08-11 17:48:47",
+      "updated": "2012-03-28 11:48:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2234",
+          "lastname": "Banks",
+          "forename": "Nathan"
+        }
+      ],
+      "bhl_pages": [
+        3044235,
+        3044236,
+        3044237
+      ]
+    },
+    {
+      "reference_id": "71703",
+      "genre": "article",
+      "title": "An egg-parasite of the codling moth belonging to the family Mymaridae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "133",
+      "epage": "134",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044240",
+      "created": "2011-06-03 22:50:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        3044240,
+        3044241
+      ]
+    },
+    {
+      "reference_id": "71581",
+      "genre": "article",
+      "title": "Description of a New Speciesof Orthoptera from Texas",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "137",
+      "epage": "138",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044244",
+      "created": "2011-06-03 21:34:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45316",
+          "lastname": "",
+          "forename": "Caudell"
+        }
+      ],
+      "bhl_pages": [
+        3044244,
+        3044245
+      ]
+    },
+    {
+      "reference_id": "71792",
+      "genre": "article",
+      "title": "The chalcidoid parasites of the coccid |Kermes pubescens| Bogue, with descriptions of two new genera and three new species of Encyrtidae from Illinois",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "168",
+      "epage": "178",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044277",
+      "created": "2011-06-03 23:10:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        3044277,
+        3044278,
+        3044279,
+        3044280,
+        3044281,
+        3044282,
+        3044283,
+        3044284,
+        3044285,
+        3044286,
+        3044287
+      ]
+    },
+    {
+      "reference_id": "85258",
+      "genre": "article",
+      "title": "Two new gall midges",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "194",
+      "epage": "196",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044303",
+      "created": "2011-08-11 18:09:32",
+      "updated": "2011-08-11 18:09:32",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3044303,
+        3044304,
+        3044305
+      ]
+    },
+    {
+      "reference_id": "85159",
+      "genre": "article",
+      "title": "Additions to the jassid fauna of N. A. (Homoptera)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "197",
+      "epage": "204",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044306",
+      "created": "2011-08-11 17:43:27",
+      "updated": "2011-08-11 17:43:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3044306,
+        3044307,
+        3044308,
+        3044309,
+        3044310,
+        3044311,
+        3044312,
+        3044313
+      ]
+    },
+    {
+      "reference_id": "85145",
+      "genre": "article",
+      "title": "A few new Ipidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "213",
+      "epage": "224",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044322",
+      "created": "2011-08-11 17:36:30",
+      "updated": "2011-08-11 17:36:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3044322,
+        3044323,
+        3044324,
+        3044325,
+        3044326,
+        3044327,
+        3044328,
+        3044329,
+        3044330,
+        3044331,
+        3044332,
+        3044333
+      ]
+    },
+    {
+      "reference_id": "13814",
+      "genre": "article",
+      "title": "A list of Diptera taken at Kearney, Ontario, in July, 1909",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "237",
+      "epage": "244",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044346",
+      "created": "2010-01-13 11:10:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3044346,
+        3044347,
+        3044348,
+        3044349,
+        3044350,
+        3044351,
+        3044352,
+        3044353
+      ]
+    },
+    {
+      "reference_id": "73348",
+      "genre": "article",
+      "title": "Tachinidae, new and old",
+      "secondary_title": "Can. Ent",
+      "volume": "43",
+      "spage": "265",
+      "epage": "272",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044376",
+      "created": "2011-06-04 08:20:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18261",
+          "lastname": "Thompson",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        3044376,
+        3044377,
+        3044378,
+        3044379,
+        3044380,
+        3044381,
+        3044382,
+        3044383
+      ]
+    },
+    {
+      "reference_id": "13781",
+      "genre": "article",
+      "title": "New Tipulidae (Diptera)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "286",
+      "epage": "288",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044397",
+      "created": "2010-01-13 10:55:41",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3044397,
+        3044398,
+        3044399
+      ]
+    },
+    {
+      "reference_id": "103794",
+      "genre": "article",
+      "title": "A new species of the scelionid genus Acoloides Howard",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "43",
+      "spage": "292",
+      "epage": "294",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044403",
+      "created": "2012-05-28 15:18:22",
+      "updated": "2012-05-28 15:18:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3044403,
+        3044404,
+        3044405
+      ]
+    },
+    {
+      "reference_id": "103755",
+      "genre": "article",
+      "title": "On Coelopisthia nematicida Pack., a chalcid parasite of the large larch sawfly, Lygaeonematus erichsonii Hartig",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "43",
+      "spage": "297",
+      "epage": "303",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "doi": "10.4039\/Ent43297-9",
+      "lsid": "urn:lsid:biosci.ohio-state.edu:osuc_pubs:7935",
+      "PageID": "3044408",
+      "created": "2012-05-27 17:31:10",
+      "updated": "2012-05-27 17:34:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53773",
+          "lastname": "Hewitt",
+          "forename": "C Gordon"
+        }
+      ],
+      "bhl_pages": [
+        3044408,
+        3044409,
+        3044410,
+        3044411,
+        3044412,
+        3044413,
+        3044414
+      ]
+    },
+    {
+      "reference_id": "71578",
+      "genre": "article",
+      "title": "On the Habits and Stridulation of Idionatus brevipes Caudell, and other notes on Orthoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "303",
+      "epage": "304",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044414",
+      "created": "2011-06-03 21:33:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39836",
+          "lastname": "Walker",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        3044414,
+        3044415
+      ]
+    },
+    {
+      "reference_id": "71257",
+      "genre": "article",
+      "title": "Some Lithobiomorpha from the region of San Francisco Bay",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "43",
+      "spage": "378",
+      "epage": "385",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0008-347X",
+      "PageID": "3044489",
+      "created": "2011-06-03 18:18:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        3044489,
+        3044490,
+        3044491,
+        3044492,
+        3044493,
+        3044494,
+        3044495,
+        3044496
+      ]
+    }
+  ]
+}

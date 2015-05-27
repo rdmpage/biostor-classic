@@ -1,0 +1,35 @@
+{
+  "ItemID": "54552",
+  "FullTitle": "American journal of conchology.",
+  "VolumeInfo": "v 1 (1865)",
+  "articles": [
+    {
+      "reference_id": "102411",
+      "genre": "article",
+      "title": "Diagnoses of newly discovered genera of gasteropods, belonging to the sub-family Hydrobiinae, of the family Rissoidae",
+      "secondary_title": "American journal of conchology",
+      "volume": "1",
+      "spage": "52",
+      "epage": "54",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "5437585",
+      "PageID": "16084571",
+      "created": "2012-04-23 14:44:26",
+      "updated": "2012-04-23 15:05:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53670",
+          "lastname": "Stimpson",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        16084571,
+        16084572,
+        16084573
+      ]
+    }
+  ]
+}

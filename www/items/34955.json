@@ -1,0 +1,93 @@
+{
+  "ItemID": "34955",
+  "FullTitle": "Proceedings of the Linnean Society of London.",
+  "VolumeInfo": "v.1 (1838 -1848)",
+  "articles": [
+    {
+      "reference_id": "70192",
+      "genre": "article",
+      "title": "Descriptions of some new insects collected in Assam, by William Griffith, Esq., assistant surgeon in the Madras Medical Service",
+      "secondary_title": "Proceedings of the Linnean Society of London",
+      "volume": "1",
+      "spage": "42",
+      "epage": "44",
+      "year": "1839",
+      "date": "1839-00-00",
+      "oclc": "1755949",
+      "PageID": "8549966",
+      "created": "2011-06-02 15:44:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46515",
+          "lastname": "William",
+          "forename": "Hope Frederic"
+        }
+      ],
+      "bhl_pages": [
+        8549966,
+        8549967,
+        8549968
+      ]
+    },
+    {
+      "reference_id": "60332",
+      "genre": "article",
+      "title": "Observations on the genus Derbe of Fabricius",
+      "secondary_title": "Proceedings of the Linnean Society of London",
+      "volume": "1",
+      "spage": "82",
+      "epage": "85",
+      "year": "1840",
+      "date": "1840-00-00",
+      "oclc": "1755949",
+      "PageID": "8550006",
+      "created": "2010-11-22 23:02:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        8550006,
+        8550007,
+        8550008,
+        8550009
+      ]
+    },
+    {
+      "reference_id": "70191",
+      "genre": "article",
+      "title": "Descriptions of some new or imperfectly known species of Bolboceras",
+      "secondary_title": "Proceedings of the Linnaean Society London",
+      "volume": "1",
+      "spage": "384",
+      "epage": "387",
+      "year": "1848",
+      "date": "1848-00-00",
+      "oclc": "1755949",
+      "PageID": "8550308",
+      "created": "2011-06-02 15:44:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46374",
+          "lastname": "J.o.",
+          "forename": "Westwood"
+        }
+      ],
+      "bhl_pages": [
+        8550308,
+        8550309,
+        8550310,
+        8550311
+      ]
+    }
+  ]
+}

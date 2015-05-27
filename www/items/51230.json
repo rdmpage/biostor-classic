@@ -1,0 +1,37 @@
+{
+  "ItemID": "51230",
+  "FullTitle": "Rivista di patologia vegetale.  ",
+  "VolumeInfo": "ser.2 v.3 1908-1909",
+  "articles": [
+    {
+      "reference_id": "58235",
+      "genre": "article",
+      "title": "Intorno a due nuovi generi e a tre specie nuove di afidi di California",
+      "secondary_title": "Rivista di Patologia Vegetale",
+      "volume": "3",
+      "spage": "328",
+      "epage": "332",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "2396127",
+      "PageID": "14781396",
+      "created": "2010-11-20 20:18:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42283",
+          "lastname": "Del Guercio",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        14781396,
+        14781397,
+        14781398,
+        14781399,
+        14781400
+      ]
+    }
+  ]
+}

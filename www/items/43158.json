@@ -1,0 +1,78 @@
+{
+  "ItemID": "43158",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 10 1914",
+  "articles": [
+    {
+      "reference_id": "58734",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der Gallen von Java. Zweite Mitteilung \u00fcber die javanischen Thysanopterocecidien und deren Bewohner",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie",
+      "volume": "10",
+      "spage": "201",
+      "epage": "208",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1770562",
+      "PageID": "11719818",
+      "created": "2010-11-20 22:38:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39920",
+          "lastname": "Karny",
+          "forename": "H"
+        },
+        {
+          "id": "42409",
+          "lastname": "Van Leeuwen-Reijnvaan",
+          "forename": "J Doctors"
+        }
+      ],
+      "bhl_pages": [
+        11719818,
+        11719819,
+        11719820,
+        11719821,
+        11719822,
+        11719823,
+        11719824,
+        11719825
+      ]
+    },
+    {
+      "reference_id": "72757",
+      "genre": "article",
+      "title": "Bau und Wirkungsweise der Punkaugen bei Acridium aegypteum L",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insekten-Biologie",
+      "volume": "10",
+      "spage": "275",
+      "epage": "282",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1770562",
+      "PageID": "11719902",
+      "created": "2011-06-04 03:43:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47079",
+          "lastname": "",
+          "forename": "Tumpel"
+        }
+      ],
+      "bhl_pages": [
+        11719902,
+        11719903,
+        11719904,
+        11719905,
+        11719906,
+        11719907,
+        11719908,
+        11719909
+      ]
+    }
+  ]
+}

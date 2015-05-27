@@ -1,0 +1,81 @@
+{
+  "ItemID": "22097",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 43 (1918)",
+  "articles": [
+    {
+      "reference_id": "51788",
+      "genre": "article",
+      "title": "Aper\u00e7u des principes qui doivent regir la classification naturelle des esp\u00e8ces du genre Rana",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "43",
+      "spage": "111",
+      "epage": "121",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0037-962X",
+      "PageID": "3045433",
+      "created": "2010-06-27 05:48:33",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        3045433,
+        3045434,
+        3045435,
+        3045436,
+        3045437,
+        3045438,
+        3045439,
+        3045440,
+        3045441,
+        3045442,
+        3045443
+      ]
+    },
+    {
+      "reference_id": "48975",
+      "genre": "article",
+      "title": "Sur les l\u00e9zards du genre Acanthodactylus Wiegm.",
+      "secondary_title": "Bull. Soc. zool. France",
+      "volume": "43",
+      "spage": "143",
+      "epage": "155",
+      "year": "1918",
+      "date": "1918-10-22",
+      "oclc": "1715809",
+      "PageID": "3045465",
+      "created": "2010-03-21 10:10:23",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        3045465,
+        3045466,
+        3045467,
+        3045468,
+        3045469,
+        3045470,
+        3045471,
+        3045472,
+        3045473,
+        3045474,
+        3045475,
+        3045476,
+        3045477
+      ]
+    }
+  ]
+}

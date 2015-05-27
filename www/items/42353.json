@@ -1,0 +1,37 @@
+{
+  "ItemID": "42353",
+  "FullTitle": "Entomologische Nachrichten.",
+  "VolumeInfo": "v. 3 1877",
+  "articles": [
+    {
+      "reference_id": "72999",
+      "genre": "article",
+      "title": "Die Gattung Scolobates Gr. I",
+      "secondary_title": "Entomologische Nachrichten",
+      "volume": "3",
+      "spage": "133",
+      "epage": "137",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0232-5535",
+      "PageID": "11405807",
+      "created": "2011-06-04 04:51:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46459",
+          "lastname": "Kriechbaumer",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11405807,
+        11405808,
+        11405809,
+        11405810,
+        11405811
+      ]
+    }
+  ]
+}

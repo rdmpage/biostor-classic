@@ -1,0 +1,168 @@
+{
+  "ItemID": "42138",
+  "FullTitle": "Revue zoologique africaine.",
+  "VolumeInfo": "v.9, 1921",
+  "articles": [
+    {
+      "reference_id": "14",
+      "genre": "article",
+      "title": "Batraciens nouveaux du Congo Belge",
+      "secondary_title": "Revue zoologique africaine",
+      "volume": "9",
+      "spage": "1",
+      "epage": "22",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0771-0488",
+      "PageID": "11299754",
+      "created": "2009-12-21 18:48:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "21",
+          "lastname": "De Witte",
+          "forename": "Gaston-Fr"
+        }
+      ],
+      "bhl_pages": [
+        11299754,
+        11299753,
+        11299752,
+        11299751,
+        11299750,
+        11299749,
+        11299748,
+        11299747,
+        11299746,
+        11299745,
+        11299744,
+        11299743,
+        11299742,
+        11299709,
+        11299710,
+        11299711,
+        11299712,
+        11299713,
+        11299714,
+        11299715,
+        11299716,
+        11299717
+      ]
+    },
+    {
+      "reference_id": "73124",
+      "genre": "article",
+      "title": "Descriptions de Tachinaires africains nouveaux",
+      "secondary_title": "Revue zool. afr",
+      "volume": "9",
+      "spage": "29",
+      "epage": "32",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0251-074X",
+      "PageID": "11299734",
+      "created": "2011-06-04 07:49:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39857",
+          "lastname": "Villeneuve",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11299734,
+        11299735,
+        11299736,
+        11299737
+      ]
+    },
+    {
+      "reference_id": "99565",
+      "genre": "article",
+      "title": "Descriptions de Tachinaires Africains nouveaux",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "9",
+      "spage": "29",
+      "epage": "32",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0771-0488",
+      "PageID": "11299734",
+      "created": "2011-12-17 21:12:18",
+      "updated": "2011-12-17 21:12:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39857",
+          "lastname": "Villeneuve",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11299734,
+        11299735,
+        11299736,
+        11299737
+      ]
+    },
+    {
+      "reference_id": "103277",
+      "genre": "article",
+      "title": "A new horseshoe bat from West Africa",
+      "secondary_title": "Rev. zool. afr.",
+      "volume": "9",
+      "spage": "193",
+      "epage": "196",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0251-074X",
+      "PageID": "11299923",
+      "created": "2012-05-18 08:07:24",
+      "updated": "2012-05-18 08:08:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53663",
+          "lastname": "Allen",
+          "forename": "Glover M"
+        }
+      ],
+      "bhl_pages": [
+        11299923,
+        11299924,
+        11299925,
+        11299926
+      ]
+    },
+    {
+      "reference_id": "67125",
+      "genre": "article",
+      "title": "Description d\u2019un poisson aveugle d\u00e9couvert par M. G. Geerts dans la grotte de Thysville (Bas-Congo)",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "9",
+      "spage": "252",
+      "epage": "253",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0771-0488",
+      "PageID": "11299982",
+      "created": "2011-05-14 07:47:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        11299982,
+        11299983
+      ]
+    }
+  ]
+}

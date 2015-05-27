@@ -1,0 +1,57 @@
+{
+  "author": [
+    {
+      "firstname": "John Clay",
+      "lastname": "Bruner",
+      "name": "John Clay Bruner"
+    },
+    {
+      "firstname": "Steven",
+      "lastname": "Arnam",
+      "name": "Steven Arnam"
+    }
+  ],
+  "type": "article",
+  "title": "Chromis woodsi, a new species of damselfish (Pomacentridae) from the western Indian Ocean with a redescription of Chromis axillaris (Bennett), 1831",
+  "journal": {
+    "name": "Fieldiana Zoology",
+    "volume": "73",
+    "pages": "49--63",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0015-0754"
+      }
+    ]
+  },
+  "year": "1979",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/13"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/778208"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 13
+    },
+    {
+      "type": "bhl",
+      "id": 778208
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        36.916666666667,
+        -19.15
+      ]
+    ]
+  }
+}

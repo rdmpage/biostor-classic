@@ -1,0 +1,132 @@
+{
+  "ItemID": "22108",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 21 (1889)",
+  "articles": [
+    {
+      "reference_id": "72043",
+      "genre": "article",
+      "title": "Hemiptera from Muskoka Lake District",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "21",
+      "spage": "1",
+      "epage": "11",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0008-347X",
+      "PageID": "3048833",
+      "created": "2011-06-04 00:16:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46258",
+          "lastname": "P.",
+          "forename": "Van Duzee E"
+        }
+      ],
+      "bhl_pages": [
+        3048833,
+        3048834,
+        3048835,
+        3048836,
+        3048837,
+        3048838,
+        3048839,
+        3048840,
+        3048841,
+        3048842,
+        3048843
+      ]
+    },
+    {
+      "reference_id": "71784",
+      "genre": "article",
+      "title": "A final word about the genus |Rileya|",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "21",
+      "spage": "37",
+      "epage": "38",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0008-347X",
+      "PageID": "3048869",
+      "created": "2011-06-03 23:09:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3048869,
+        3048870
+      ]
+    },
+    {
+      "reference_id": "72195",
+      "genre": "article",
+      "title": "Corrections and additions to previous papers",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "21",
+      "spage": "101",
+      "epage": "108",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1553087",
+      "PageID": "3048935",
+      "created": "2011-06-04 00:46:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46923",
+          "lastname": "Hamilton",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3048935,
+        3048936,
+        3048937,
+        3048938,
+        3048939,
+        3048940,
+        3048941,
+        3048942
+      ]
+    },
+    {
+      "reference_id": "72104",
+      "genre": "article",
+      "title": "Additions to the list of Canadian Coleoptera",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "21",
+      "spage": "134",
+      "epage": "137",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1553087",
+      "PageID": "3048968",
+      "created": "2011-06-04 00:32:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46952",
+          "lastname": "Kilman",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        3048968,
+        3048969,
+        3048970,
+        3048971
+      ]
+    }
+  ]
+}

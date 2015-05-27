@@ -1,0 +1,39 @@
+{
+  "ItemID": "94471",
+  "FullTitle": "Treubia",
+  "VolumeInfo": "v. 1 (1919-21)",
+  "articles": [
+    {
+      "reference_id": "85738",
+      "genre": "article",
+      "title": "Javanese Chalcid-flies",
+      "secondary_title": "Treubia",
+      "volume": "1",
+      "spage": "53",
+      "epage": "59",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0082-6340",
+      "PageID": "29859109",
+      "created": "2011-09-04 11:23:58",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        29859109,
+        29859110,
+        29859111,
+        29859112,
+        29859113,
+        29859114,
+        29859115
+      ]
+    }
+  ]
+}

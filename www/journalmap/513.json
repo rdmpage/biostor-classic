@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "S R",
+      "lastname": "Shaw",
+      "name": "S R Shaw"
+    }
+  ],
+  "type": "article",
+  "title": "Plynops, a peculiar new genus and ten new species in the tribe Euphorini (Hymenoptera: Braconidae: Euphorinae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research.",
+    "volume": "5",
+    "pages": "166--183",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "1996",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/513"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4491334"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 513
+    },
+    {
+      "type": "bhl",
+      "id": 4491334
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -84.083333333333,
+        10.45
+      ]
+    ]
+  }
+}

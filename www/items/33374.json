@@ -1,0 +1,40 @@
+{
+  "ItemID": "33374",
+  "FullTitle": "Bulletin of the Essex Institute.",
+  "VolumeInfo": "29",
+  "articles": [
+    {
+      "reference_id": "60234",
+      "genre": "article",
+      "title": "Japanese Collembola",
+      "secondary_title": "Bulletin of the Essex Institute",
+      "volume": "29",
+      "spage": "51",
+      "epage": "57",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0732-4952",
+      "oclc": "1568255",
+      "PageID": "7910341",
+      "created": "2010-11-22 21:23:22",
+      "updated": "2012-05-11 13:16:31",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18035",
+          "lastname": "Folsom",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        7910341,
+        7910342,
+        7910343,
+        7910344,
+        7910345,
+        7910346,
+        7910347
+      ]
+    }
+  ]
+}

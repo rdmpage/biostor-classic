@@ -1,0 +1,100 @@
+{
+  "ItemID": "100497",
+  "FullTitle": "\u00d6fversigt af Kongl. Vetenskaps-akademiens forhandlingar.",
+  "VolumeInfo": "arg. 28 (1871)",
+  "articles": [
+    {
+      "reference_id": "65492",
+      "genre": "article",
+      "title": "Acanthiidae americanae, descriptae ab",
+      "secondary_title": "\u00d6fversigt af Kongl. Vetenskaps-akademiens forhandlingar",
+      "volume": "28",
+      "spage": "557",
+      "epage": "567",
+      "year": "1871",
+      "date": "1871-00-00",
+      "oclc": "6303212",
+      "PageID": "32234870",
+      "created": "2011-03-31 08:24:42",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39812",
+          "lastname": "Reuter",
+          "forename": "O M"
+        }
+      ],
+      "bhl_pages": [
+        32234870,
+        32234871,
+        32234872,
+        32234873,
+        32234874,
+        32234875,
+        32234876,
+        32234877,
+        32234878,
+        32234879,
+        32234880
+      ]
+    },
+    {
+      "reference_id": "71259",
+      "genre": "article",
+      "title": "Myriopoda Africae australis in Museo Regio Holmiensi asservata recensuit. Pars I. Chilopoda",
+      "secondary_title": "\u00d6fversigt af Kongliga Vetenskaps-Akademiens F\u00f6rhandlingar",
+      "volume": "28",
+      "spage": "1135",
+      "epage": "1167",
+      "year": "1871",
+      "date": "1871-00-00",
+      "PageID": "32235485",
+      "created": "2011-06-03 18:18:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46786",
+          "lastname": "Porath",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        32235485,
+        32235486,
+        32235487,
+        32235488,
+        32235489,
+        32235490,
+        32235491,
+        32235492,
+        32235493,
+        32235494,
+        32235495,
+        32235496,
+        32235497,
+        32235498,
+        32235499,
+        32235500,
+        32235501,
+        32235502,
+        32235503,
+        32235504,
+        32235505,
+        32235506,
+        32235507,
+        32235508,
+        32235509,
+        32235510,
+        32235511,
+        32235512,
+        32235513,
+        32235514,
+        32235515,
+        32235516,
+        32235517
+      ]
+    }
+  ]
+}

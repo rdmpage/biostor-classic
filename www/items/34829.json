@@ -1,0 +1,34 @@
+{
+  "ItemID": "34829",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 87 (1973)",
+  "articles": [
+    {
+      "reference_id": "105358",
+      "genre": "article",
+      "title": "Spread of Melanoides tuberculata",
+      "secondary_title": "The Nautilus",
+      "volume": "87",
+      "issue": "1",
+      "spage": "29",
+      "epage": "29",
+      "year": "1973",
+      "date": "1973-00-00",
+      "issn": "0028-1344",
+      "PageID": "8511798",
+      "created": "2012-07-18 23:15:40",
+      "updated": "2012-07-18 23:15:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1315",
+          "lastname": "Abbott",
+          "forename": "R T"
+        }
+      ],
+      "bhl_pages": [
+        8511798
+      ]
+    }
+  ]
+}

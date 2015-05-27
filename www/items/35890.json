@@ -1,0 +1,68 @@
+{
+  "ItemID": "35890",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 52 = 3rd ser. v.2 1916",
+  "articles": [
+    {
+      "reference_id": "58900",
+      "genre": "article",
+      "title": "Notes of a voyage to Australia, Ceylon and the Malay Archipelago, July-November, 1914",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "52",
+      "spage": "10",
+      "epage": "13",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8958598",
+      "created": "2010-11-20 23:09:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39868",
+          "lastname": "Dixey",
+          "forename": "F A"
+        }
+      ],
+      "bhl_pages": [
+        8958598,
+        8958599,
+        8958600,
+        8958601
+      ]
+    },
+    {
+      "reference_id": "53257",
+      "genre": "article",
+      "title": "On the correct names of some common British Diptera",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "52",
+      "spage": "59",
+      "epage": "63",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8958655",
+      "created": "2010-10-26 17:30:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        8958655,
+        8958656,
+        8958657,
+        8958658,
+        8958659
+      ]
+    }
+  ]
+}

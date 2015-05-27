@@ -1,0 +1,374 @@
+{
+  "ItemID": "53331",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "8th ser. v. 8 (1911)",
+  "articles": [
+    {
+      "reference_id": "20398",
+      "genre": "article",
+      "title": "Description of a new African fish of the genus Clarias from Lake Rukwa",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "54",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15616847",
+      "created": "2010-02-09 16:56:29",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15616847
+      ]
+    },
+    {
+      "reference_id": "51913",
+      "genre": "article",
+      "title": "Descriptions of three new tree-frogs discovered by Mr. A.E. Pratt in Dutch New Guinea",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "55",
+      "epage": "56",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15616848",
+      "created": "2010-06-27 10:24:58",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15616848,
+        15616849
+      ]
+    },
+    {
+      "reference_id": "20399",
+      "genre": "article",
+      "title": "Further descriptions of new freshwater fishes discovered by Dr. W. J. Ansorge in Portuguese Guinea",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "56",
+      "epage": "57",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15616849",
+      "created": "2010-02-09 16:56:40",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15616849,
+        15616850
+      ]
+    },
+    {
+      "reference_id": "98824",
+      "genre": "article",
+      "title": "On new species of Histeridae, and notices of others, xxxvii",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "8",
+      "spage": "73",
+      "epage": "89",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693002",
+      "PageID": "15616866",
+      "created": "2011-12-05 21:12:39",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        15616866,
+        15616867,
+        15616868,
+        15616869,
+        15616870,
+        15616871,
+        15616872,
+        15616873,
+        15616874,
+        15616875,
+        15616876,
+        15616877,
+        15616878,
+        15616879,
+        15616880,
+        15616881,
+        15616882
+      ]
+    },
+    {
+      "reference_id": "49220",
+      "genre": "article",
+      "title": "Descriptions of three new snakes discovered by Mr. G.L. Bates in South Cameroon",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "8",
+      "series": "8",
+      "spage": "370",
+      "epage": "371",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15617171",
+      "created": "2010-03-21 12:13:20",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15617171,
+        15617172
+      ]
+    },
+    {
+      "reference_id": "20400",
+      "genre": "article",
+      "title": "Descriptions of three new freshwater fishes discovered by Mr. G. L. Bates in South Cameroon",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "372",
+      "epage": "373",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15617173",
+      "created": "2010-02-09 16:56:59",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15617173,
+        15617174
+      ]
+    },
+    {
+      "reference_id": "52048",
+      "genre": "article",
+      "title": "Rhynchota from the Solomon Islands",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "384",
+      "epage": "388",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15617185",
+      "created": "2010-07-09 12:35:07",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        15617185,
+        15617186,
+        15617187,
+        15617188,
+        15617189
+      ]
+    },
+    {
+      "reference_id": "58418",
+      "genre": "article",
+      "title": "Descriptions of new genera and species of Syntomidae, Arctiadae, Agaristidae, and Noctuidae",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "393",
+      "epage": "445",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15617198",
+      "created": "2010-11-20 21:01:19",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42336",
+          "lastname": "Hampson",
+          "forename": "G F"
+        }
+      ],
+      "bhl_pages": [
+        15617198,
+        15617199,
+        15617200,
+        15617201,
+        15617202,
+        15617203,
+        15617204,
+        15617205,
+        15617206,
+        15617207,
+        15617208,
+        15617209,
+        15617210,
+        15617211,
+        15617212,
+        15617213,
+        15617214,
+        15617215,
+        15617216,
+        15617217,
+        15617218,
+        15617219,
+        15617220,
+        15617221,
+        15617222,
+        15617223,
+        15617224,
+        15617225,
+        15617226,
+        15617227,
+        15617228,
+        15617229,
+        15617230,
+        15617231,
+        15617232,
+        15617233,
+        15617234,
+        15617235,
+        15617236,
+        15617237,
+        15617238,
+        15617239,
+        15617240,
+        15617241,
+        15617242,
+        15617243,
+        15617244,
+        15617245,
+        15617246,
+        15617247,
+        15617248,
+        15617249,
+        15617250
+      ]
+    },
+    {
+      "reference_id": "20694",
+      "genre": "article",
+      "title": "The classification of the teleostean fishes of the order Ostariophysi. 2. Siluroidea",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "553",
+      "epage": "577",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108693067",
+      "PageID": "15617362",
+      "created": "2010-02-09 18:36:17",
+      "updated": "2012-05-20 20:24:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        15617362,
+        15617363,
+        15617364,
+        15617365,
+        15617366,
+        15617367,
+        15617368,
+        15617369,
+        15617370,
+        15617371,
+        15617372,
+        15617373,
+        15617374,
+        15617375,
+        15617376,
+        15617377,
+        15617378,
+        15617379,
+        15617380,
+        15617381,
+        15617382,
+        15617383,
+        15617384,
+        15617385,
+        15617386
+      ]
+    },
+    {
+      "reference_id": "66614",
+      "genre": "article",
+      "title": "A new Poeciliid fish from the Amazon, with notes on the genera Petalosoma and Tomeurus",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "8",
+      "series": "8",
+      "spage": "659",
+      "epage": "660",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "15617468",
+      "created": "2011-05-07 23:51:40",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        15617468,
+        15617469
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ItemID": "31261",
+  "FullTitle": "American journal of conchology.",
+  "VolumeInfo": "v 5 (1869-70)",
+  "articles": [
+    {
+      "reference_id": "59684",
+      "genre": "article",
+      "title": "Descriptions of new fossil Mollusca, pricipally Cretaceous",
+      "secondary_title": "American Journal of Conchology",
+      "volume": "5",
+      "spage": "96",
+      "epage": "103",
+      "year": "1869",
+      "date": "1869-00-00",
+      "PageID": "7005085",
+      "created": "2010-11-22 15:31:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42666",
+          "lastname": "Conrad",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        7005085,
+        7005086,
+        7005087,
+        7005088,
+        7005089,
+        7005090,
+        7005091,
+        7005092
+      ]
+    },
+    {
+      "reference_id": "59740",
+      "genre": "article",
+      "title": "On the Pterocerae of Lamarck, and their mutual relationships",
+      "secondary_title": "American Journal of Conchology",
+      "volume": "5",
+      "spage": "120",
+      "epage": "140",
+      "year": "1870",
+      "date": "1870-00-00",
+      "PageID": "7005177",
+      "created": "2010-11-22 15:45:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39817",
+          "lastname": "Gill",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        7005177,
+        7005178,
+        7005179,
+        7005180,
+        7005181,
+        7005182,
+        7005183,
+        7005184,
+        7005185,
+        7005186,
+        7005187,
+        7005188,
+        7005189,
+        7005190,
+        7005191,
+        7005192,
+        7005193,
+        7005194,
+        7005195,
+        7005196,
+        7005197
+      ]
+    }
+  ]
+}

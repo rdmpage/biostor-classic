@@ -1,0 +1,531 @@
+{
+  "ItemID": "35879",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 13\/14 1876\/78",
+  "articles": [
+    {
+      "reference_id": "60454",
+      "genre": "article",
+      "title": "Descriptions of some new genera and species of New Zealand Coleoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "20",
+      "epage": "28",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8951195",
+      "created": "2010-11-23 00:48:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        8951195,
+        8951196,
+        8951197,
+        8951198,
+        8951199,
+        8951200,
+        8951201,
+        8951225,
+        8951226
+      ]
+    },
+    {
+      "reference_id": "71985",
+      "genre": "article",
+      "title": "New Species of Longicorn Coleoptera from New Zealand",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "13",
+      "spage": "52",
+      "epage": "56",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1568052",
+      "PageID": "8951250",
+      "created": "2011-06-03 23:59:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8951250,
+        8951251,
+        8951252,
+        8951253,
+        8951254
+      ]
+    },
+    {
+      "reference_id": "71038",
+      "genre": "article",
+      "title": "Descriptions of three new species of Papilio from the collection of Mr. Herbert Druce",
+      "secondary_title": "The Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "56",
+      "epage": "57",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1568052",
+      "PageID": "8951254",
+      "created": "2011-06-03 17:36:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        8951254,
+        8951255
+      ]
+    },
+    {
+      "reference_id": "60527",
+      "genre": "article",
+      "title": "Descriptions of some new genera and species of New Zealand Coleoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "70",
+      "epage": "72",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8951268",
+      "created": "2010-11-23 01:25:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        8951268,
+        8951269,
+        8951270
+      ]
+    },
+    {
+      "reference_id": "60473",
+      "genre": "article",
+      "title": "Diagnoses of undescribed species of Phytophaga",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "79",
+      "epage": "82",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8951277",
+      "created": "2010-11-23 00:57:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40156",
+          "lastname": "Baly",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        8951277,
+        8951278,
+        8951279,
+        8951280
+      ]
+    },
+    {
+      "reference_id": "60323",
+      "genre": "article",
+      "title": "Descriptions of three new species of European Hemiptera-Homoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "83",
+      "epage": "85",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8951281",
+      "created": "2010-11-22 22:28:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42803",
+          "lastname": "Scott",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        8951281,
+        8951282,
+        8951283
+      ]
+    },
+    {
+      "reference_id": "60411",
+      "genre": "article",
+      "title": "Descriptions of three new species of Hemiptera-Heteroptera from New Zealand",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "105",
+      "epage": "107",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8951303",
+      "created": "2010-11-23 00:11:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42815",
+          "lastname": "White",
+          "forename": "F B"
+        }
+      ],
+      "bhl_pages": [
+        8951303,
+        8951304,
+        8951305
+      ]
+    },
+    {
+      "reference_id": "65348",
+      "genre": "article",
+      "title": "Descriptions of hitherto uncharacterized Phytophaga. Fam. Hispidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "6",
+      "epage": "10",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1568052",
+      "PageID": "8951324",
+      "created": "2011-02-20 19:18:34",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40156",
+          "lastname": "Baly",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        8951324,
+        8951325,
+        8951326,
+        8951327,
+        8951328
+      ]
+    },
+    {
+      "reference_id": "60568",
+      "genre": "article",
+      "title": "Descriptions of nine new species of Buprestidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "155",
+      "epage": "158",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8951353",
+      "created": "2010-11-23 01:57:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42838",
+          "lastname": "Saunders",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        8951353,
+        8951354,
+        8951355,
+        8951356
+      ]
+    },
+    {
+      "reference_id": "72926",
+      "genre": "article",
+      "title": "Descriptions of Hymenoptera from Spitzbergen, collected by the Rev. A.E. Eaton",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "241",
+      "epage": "242",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "1568052",
+      "PageID": "8951439",
+      "created": "2011-06-04 04:42:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40022",
+          "lastname": "Marshall",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        8951439,
+        8951440
+      ]
+    },
+    {
+      "reference_id": "72030",
+      "genre": "article",
+      "title": "Three new species of Longicorn Coleoptera from Japan",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "14",
+      "spage": "37",
+      "epage": "38",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "1568052",
+      "PageID": "8951541",
+      "created": "2011-06-04 00:12:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8951541,
+        8951542
+      ]
+    },
+    {
+      "reference_id": "61391",
+      "genre": "article",
+      "title": "Descriptions of new Coleoptera from various localities",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "14",
+      "spage": "72",
+      "epage": "75",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "1568052",
+      "PageID": "8951576",
+      "created": "2011-01-10 19:39:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42194",
+          "lastname": "Waterhouse",
+          "forename": "C O"
+        }
+      ],
+      "bhl_pages": [
+        8951576,
+        8951577,
+        8951578,
+        8951579
+      ]
+    },
+    {
+      "reference_id": "72715",
+      "genre": "article",
+      "title": "Description of a new neuropterous insect from New Guinea, belonging to the genus Myiodactylus, Brauer",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "14",
+      "spage": "85",
+      "epage": "86",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "1568052",
+      "PageID": "8951589",
+      "created": "2011-06-04 03:19:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        8951589,
+        8951590
+      ]
+    },
+    {
+      "reference_id": "72052",
+      "genre": "article",
+      "title": "On some new and little-known forms of Agrionina (l\u00e9gion Pseudostigma, de Selys)",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "14",
+      "spage": "86",
+      "epage": "88",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "1568052",
+      "PageID": "8951590",
+      "created": "2011-06-04 00:16:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        8951590,
+        8951591,
+        8951592
+      ]
+    },
+    {
+      "reference_id": "65419",
+      "genre": "article",
+      "title": "Diagnosis of a new genus and some undescribed species of African Phytophaga",
+      "secondary_title": "Ent. mon. Mag.",
+      "volume": "14",
+      "spage": "177",
+      "epage": "179",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0013-8908",
+      "PageID": "8951681",
+      "created": "2011-03-03 10:11:42",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40156",
+          "lastname": "Baly",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        8951681,
+        8951682,
+        8951683
+      ]
+    },
+    {
+      "reference_id": "60543",
+      "genre": "article",
+      "title": "Descriptions of a new genus and some new species of New Zealand Coleoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "13",
+      "spage": "190",
+      "epage": "196",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8951694",
+      "created": "2010-11-23 01:37:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        8951694,
+        8951695,
+        8951696,
+        8951697,
+        8951698,
+        8951699,
+        8951700
+      ]
+    },
+    {
+      "reference_id": "65420",
+      "genre": "article",
+      "title": "Diagnosis of a new genus and some undescribed species of African Phytophaga",
+      "secondary_title": "Ent. mon. Mag.",
+      "volume": "14",
+      "spage": "204",
+      "epage": "206",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0013-8908",
+      "PageID": "8951708",
+      "created": "2011-03-03 10:16:24",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44849",
+          "lastname": "Baly",
+          "forename": "J F"
+        }
+      ],
+      "bhl_pages": [
+        8951708,
+        8951709,
+        8951710
+      ]
+    },
+    {
+      "reference_id": "72001",
+      "genre": "article",
+      "title": "New genera and species of longicorn Coleoptera",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "14",
+      "spage": "272",
+      "epage": "274",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "1568052",
+      "PageID": "8951776",
+      "created": "2011-06-04 00:02:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8951776,
+        8951777,
+        8951778
+      ]
+    }
+  ]
+}

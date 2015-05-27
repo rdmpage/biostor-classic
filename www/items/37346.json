@@ -1,0 +1,544 @@
+{
+  "ItemID": "37346",
+  "FullTitle": "Notes from the Leyden Museum.",
+  "VolumeInfo": "v.3 (1881)",
+  "articles": [
+    {
+      "reference_id": "70409",
+      "genre": "article",
+      "title": "On a new species of Cetonide from the Aru Islands",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "1",
+      "epage": "4",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642705",
+      "created": "2011-06-03 06:34:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46547",
+          "lastname": "C.",
+          "forename": "Ritsema"
+        }
+      ],
+      "bhl_pages": [
+        9642705,
+        9642704,
+        9642703,
+        9642702
+      ]
+    },
+    {
+      "reference_id": "70395",
+      "genre": "article",
+      "title": "Description of a new species of the Longicorn genus Cereopsius, Thoms",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "5",
+      "epage": "6",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642701",
+      "created": "2011-06-03 06:33:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642701,
+        9642700
+      ]
+    },
+    {
+      "reference_id": "70396",
+      "genre": "article",
+      "title": "A new species of the longicorn genus Bacchisa, Pasc",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "7",
+      "epage": "9",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642699",
+      "created": "2011-06-03 06:33:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642699,
+        9642666,
+        9642667
+      ]
+    },
+    {
+      "reference_id": "70391",
+      "genre": "article",
+      "title": "On a new genus of longicorn Coleoptera belonging to the group of the Batoceridae",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "11",
+      "epage": "14",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642669",
+      "created": "2011-06-03 06:33:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642669,
+        9642670,
+        9642671,
+        9642672
+      ]
+    },
+    {
+      "reference_id": "70392",
+      "genre": "article",
+      "title": "Description of a new species of the longicorn genus Praonetha, Pasc",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "15",
+      "epage": "16",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642673",
+      "created": "2011-06-03 06:33:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642673,
+        9642674
+      ]
+    },
+    {
+      "reference_id": "70393",
+      "genre": "article",
+      "title": "New species of Pachyteria, a genus of longicorn Coleoptera",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "31",
+      "epage": "38",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642689",
+      "created": "2011-06-03 06:33:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642689,
+        9642690,
+        9642691,
+        9642692,
+        9642693,
+        9642694,
+        9642695,
+        9642696
+      ]
+    },
+    {
+      "reference_id": "70394",
+      "genre": "article",
+      "title": "Description of a new species of the longicorn genus Melanauster, Thoms",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "39",
+      "epage": "40",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642697",
+      "created": "2011-06-03 06:33:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642697,
+        9642698
+      ]
+    },
+    {
+      "reference_id": "66688",
+      "genre": "article",
+      "title": "On a new genus and species of Agamidae from Sumatra",
+      "secondary_title": "Notes Leyden Mus., Leiden",
+      "volume": "3",
+      "spage": "51",
+      "epage": "52",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642732",
+      "created": "2011-05-09 16:46:36",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45294",
+          "lastname": "Hubrecht",
+          "forename": "A A W"
+        }
+      ],
+      "bhl_pages": [
+        9642732,
+        9642733
+      ]
+    },
+    {
+      "reference_id": "52148",
+      "genre": "article",
+      "title": "Description of a new African bat, Leiponyx b\u00fcttikoferi",
+      "secondary_title": "Notes Leyden Mus",
+      "volume": "3",
+      "spage": "59",
+      "epage": "62",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642742",
+      "created": "2010-10-06 08:55:02",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40405",
+          "lastname": "Jentink",
+          "forename": "F A"
+        }
+      ],
+      "bhl_pages": [
+        9642742,
+        9642743,
+        9642744,
+        9642745
+      ]
+    },
+    {
+      "reference_id": "20551",
+      "genre": "article",
+      "title": "On a collection of fishes from the St. Paul's River, Liberia, with description of three new species",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "66",
+      "epage": "71",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642749",
+      "created": "2010-02-09 17:51:11",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1307",
+          "lastname": "Hubbs",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        9642749,
+        9642750,
+        9642751,
+        9642752,
+        9642753,
+        9642754
+      ]
+    },
+    {
+      "reference_id": "70397",
+      "genre": "article",
+      "title": "Synonymical remarks about certain Coleoptera and Heterocerous Lepidopteron",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "82",
+      "epage": "84",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642765",
+      "created": "2011-06-03 06:33:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642765,
+        9642766,
+        9642767
+      ]
+    },
+    {
+      "reference_id": "60132",
+      "genre": "article",
+      "title": "On a new collection of Podophthalmous Crustacea, presented by Mr J.A. Kruyt, collected in the Red Sea near the town of Djeddah",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "93",
+      "epage": "107",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642776",
+      "created": "2010-11-22 19:38:19",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2397",
+          "lastname": "De Man",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        9642776,
+        9642777,
+        9642778,
+        9642779,
+        9642780,
+        9642781,
+        9642782,
+        9642783,
+        9642784,
+        9642785,
+        9642786,
+        9642787,
+        9642788,
+        9642789,
+        9642790
+      ]
+    },
+    {
+      "reference_id": "65217",
+      "genre": "article",
+      "title": "Carcinological studies in the Leyden Musesum. No. 1",
+      "secondary_title": "Notes From The Leyden Museum",
+      "volume": "3",
+      "spage": "121",
+      "epage": "144",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642806",
+      "created": "2011-02-04 15:09:58",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2397",
+          "lastname": "De Man",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        9642806,
+        9642807,
+        9642808,
+        9642809,
+        9642810,
+        9642811,
+        9642812,
+        9642813,
+        9642814,
+        9642815,
+        9642816,
+        9642817,
+        9642818,
+        9642819,
+        9642820,
+        9642821,
+        9642822,
+        9642823,
+        9642824,
+        9642825,
+        9642826,
+        9642827,
+        9642828,
+        9642829
+      ]
+    },
+    {
+      "reference_id": "70398",
+      "genre": "article",
+      "title": "Four new species and a new genus of longicorn Coleoptera",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "145",
+      "epage": "150",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642830",
+      "created": "2011-06-03 06:33:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642830,
+        9642831,
+        9642832,
+        9642833,
+        9642834,
+        9642835
+      ]
+    },
+    {
+      "reference_id": "70399",
+      "genre": "article",
+      "title": "Three new species of Sumatran Longicorn Coleoptera from the collections of the Sumatra-Expedition",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "3",
+      "spage": "151",
+      "epage": "157",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642836",
+      "created": "2011-06-03 06:33:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9642836,
+        9642837,
+        9642838,
+        9642839,
+        9642840,
+        9642841,
+        9642842
+      ]
+    },
+    {
+      "reference_id": "65288",
+      "genre": "article",
+      "title": "The Comatulae of the Leyden Museum",
+      "secondary_title": "Notes From The Leyden Museum",
+      "volume": "3",
+      "spage": "173",
+      "epage": "217",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "25797076",
+      "PageID": "9642860",
+      "created": "2011-02-17 14:08:52",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42788",
+          "lastname": "Carpenter",
+          "forename": "P H"
+        }
+      ],
+      "bhl_pages": [
+        9642860,
+        9642861,
+        9642862,
+        9642863,
+        9642864,
+        9642865,
+        9642866,
+        9642867,
+        9642868,
+        9642869,
+        9642870,
+        9642871,
+        9642872,
+        9642873,
+        9642874,
+        9642875,
+        9642876,
+        9642877,
+        9642878,
+        9642879,
+        9642880,
+        9642881,
+        9642882,
+        9642883,
+        9642884,
+        9642885,
+        9642886,
+        9642887,
+        9642888,
+        9642889,
+        9642890,
+        9642891,
+        9642892,
+        9642893,
+        9642894,
+        9642895,
+        9642896,
+        9642897,
+        9642898,
+        9642899,
+        9642900,
+        9642901,
+        9642902,
+        9642903,
+        9642904
+      ]
+    }
+  ]
+}

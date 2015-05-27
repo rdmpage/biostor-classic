@@ -1,0 +1,957 @@
+{
+  "ItemID": "17176",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 114 (1958)",
+  "articles": [
+    {
+      "reference_id": "8068",
+      "genre": "article",
+      "title": "WATER DRIVE STUDIES ON HYPOPHYSECTOMIZED EFTS OF DIEMYCTYLUS VIRIDESCENS. PART I. THE ROLE OF THE LACTOGENIC HORMONE",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "1",
+      "epage": "9",
+      "year": "1958",
+      "date": "1958-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538960",
+      "PageID": "1496928",
+      "created": "2010-01-06 22:44:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4225",
+          "lastname": "Grant",
+          "forename": "William C"
+        },
+        {
+          "id": "4226",
+          "lastname": "Grant",
+          "forename": "Joan A"
+        }
+      ],
+      "bhl_pages": [
+        1496928,
+        1496929,
+        1496930,
+        1496931,
+        1496932,
+        1496933,
+        1496934,
+        1496935,
+        1496936
+      ]
+    },
+    {
+      "reference_id": "8069",
+      "genre": "article",
+      "title": "THE SENSITIVITY OF ECHOLOCATION IN BATS",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "10",
+      "epage": "22",
+      "year": "1958",
+      "date": "1958-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538961",
+      "PageID": "1496937",
+      "created": "2010-01-06 22:44:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4227",
+          "lastname": "Grinnell",
+          "forename": "Alan D"
+        },
+        {
+          "id": "4084",
+          "lastname": "Griffin",
+          "forename": "Donald R"
+        }
+      ],
+      "bhl_pages": [
+        1496937,
+        1496938,
+        1496939,
+        1496940,
+        1496941,
+        1496810,
+        1496811,
+        1496812,
+        1496813,
+        1496814,
+        1496815,
+        1496816,
+        1496817
+      ]
+    },
+    {
+      "reference_id": "8070",
+      "genre": "article",
+      "title": "PHYSIOLOGY OF INSECT DIAPAUSE. XI. CYANIDE-SENSITIVITY OF THE HEARTBEAT OF THE CECROPIA SILKWORM, WITH SPECIAL REFERENCE TO THE ANAEROBIC CAPACITY OF THE HEART",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "23",
+      "epage": "35",
+      "year": "1958",
+      "date": "1958-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538962",
+      "PageID": "1496818",
+      "created": "2010-01-06 22:44:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4228",
+          "lastname": "Harvey",
+          "forename": "William R"
+        },
+        {
+          "id": "3639",
+          "lastname": "Williams",
+          "forename": "Carroll M"
+        }
+      ],
+      "bhl_pages": [
+        1496818,
+        1496819,
+        1496820,
+        1496821,
+        1496822,
+        1496823,
+        1496824,
+        1496825,
+        1496826,
+        1496827,
+        1496828,
+        1496829,
+        1496830
+      ]
+    },
+    {
+      "reference_id": "8071",
+      "genre": "article",
+      "title": "PHYSIOLOGY OF INSECT DIAPAUSE. XII. THE MECHANISM OF CARBON MONOXIDE-SENSITIVITY AND -INSENSITIVITY DURING THE PUPAL DIAPAUSE OF THE CECROPIA SILKWORM",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "36",
+      "epage": "53",
+      "year": "1958",
+      "date": "1958-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538963",
+      "PageID": "1496831",
+      "created": "2010-01-06 22:44:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4228",
+          "lastname": "Harvey",
+          "forename": "William R"
+        },
+        {
+          "id": "3639",
+          "lastname": "Williams",
+          "forename": "Carroll M"
+        }
+      ],
+      "bhl_pages": [
+        1496831,
+        1496832,
+        1496833,
+        1496834,
+        1496835,
+        1496836,
+        1496837,
+        1496838,
+        1496839,
+        1496840,
+        1496841,
+        1496842,
+        1496843,
+        1496844,
+        1496845,
+        1496846,
+        1496847,
+        1496848
+      ]
+    },
+    {
+      "reference_id": "8072",
+      "genre": "article",
+      "title": "SOME ASPECTS OF BEHAVIOR OF OYSTERS AT DIFFERENT TEMPERATURES",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "57",
+      "epage": "70",
+      "year": "1958",
+      "date": "1958-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538965",
+      "PageID": "1496852",
+      "created": "2010-01-06 22:44:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3912",
+          "lastname": "Loosanoff",
+          "forename": "V L"
+        }
+      ],
+      "bhl_pages": [
+        1496852,
+        1496853,
+        1496854,
+        1496855,
+        1496856,
+        1496857,
+        1496858,
+        1496859,
+        1496860,
+        1496861,
+        1496862,
+        1496863,
+        1496864,
+        1496865
+      ]
+    },
+    {
+      "reference_id": "8073",
+      "genre": "article",
+      "title": "QUANTITATIVE ASPECTS OF DEOXYRIBOSE NUCLEIC ACID (DNA) METABOLISM IN AN AMICRONUCLEATE STRAIN OF TETRAHYMENA",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "71",
+      "epage": "94",
+      "year": "1958",
+      "date": "1958-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538966",
+      "PageID": "1496866",
+      "created": "2010-01-06 22:44:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4229",
+          "lastname": "Mcdonald",
+          "forename": "Barbara Brown"
+        }
+      ],
+      "bhl_pages": [
+        1496866,
+        1496867,
+        1496868,
+        1496869,
+        1496870,
+        1496871,
+        1496872,
+        1496873,
+        1496874,
+        1496875,
+        1496876,
+        1496877,
+        1496878,
+        1496879,
+        1496880,
+        1496881,
+        1496882,
+        1496883,
+        1496884,
+        1496885,
+        1496886,
+        1496887,
+        1496888,
+        1496889
+      ]
+    },
+    {
+      "reference_id": "8074",
+      "genre": "article",
+      "title": "CONTRACTILE PROTEIN FROM CRAYFISH TAIL MUSCLE",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "95",
+      "epage": "105",
+      "year": "1958",
+      "date": "1958-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538967",
+      "PageID": "1496890",
+      "created": "2010-01-06 22:44:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4230",
+          "lastname": "Maruyama",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        1496890,
+        1496891,
+        1496892,
+        1496893,
+        1496894,
+        1496895,
+        1496896,
+        1496897,
+        1496898,
+        1496899,
+        1496900
+      ]
+    },
+    {
+      "reference_id": "8075",
+      "genre": "article",
+      "title": "THE DEPENDENCE OF PIGMENT GRANULE MIGRATION ON THE CORTICAL REACTION IN THE EGGS OF ARBACIA PUNCTULATA",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "113",
+      "epage": "117",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538842",
+      "PageID": "1496908",
+      "created": "2010-01-06 22:44:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4231",
+          "lastname": "Allen",
+          "forename": "Robert D"
+        },
+        {
+          "id": "4232",
+          "lastname": "Rowe",
+          "forename": "Edward C"
+        }
+      ],
+      "bhl_pages": [
+        1496908,
+        1496909,
+        1496910,
+        1496911,
+        1496912
+      ]
+    },
+    {
+      "reference_id": "8076",
+      "genre": "article",
+      "title": "LIFE-HISTORY AND BIOLOGY OF THE OYSTER CRAB, PINNOTHERES OSTREUM SAY",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "146",
+      "epage": "179",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "PageID": "1496965",
+      "created": "2010-01-06 22:44:52",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4233",
+          "lastname": "Christensen",
+          "forename": "Aage Moller"
+        },
+        {
+          "id": "4234",
+          "lastname": "Mcdermott",
+          "forename": "John J"
+        }
+      ],
+      "bhl_pages": [
+        1496965,
+        1496966,
+        1496967,
+        1496968,
+        1496969,
+        1496970,
+        1496971,
+        1496972,
+        1496973,
+        1496974,
+        1496975,
+        1496976,
+        1496977,
+        1496978,
+        1496979,
+        1496980,
+        1496981,
+        1496982,
+        1496983,
+        1496984,
+        1496985,
+        1496986,
+        1496987,
+        1496988,
+        1496989,
+        1496990,
+        1496991,
+        1496992,
+        1496993,
+        1496994,
+        1496995,
+        1496996,
+        1496997,
+        1496998
+      ]
+    },
+    {
+      "reference_id": "8077",
+      "genre": "article",
+      "title": "SOME EFFECTS OF OXYGEN UPON THE WHITE PUPAE OF HABROBRACON",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "180",
+      "epage": "187",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538846",
+      "PageID": "1496999",
+      "created": "2010-01-06 22:44:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "102",
+          "lastname": "Clark",
+          "forename": "A M"
+        },
+        {
+          "id": "4235",
+          "lastname": "Papa",
+          "forename": "M J"
+        }
+      ],
+      "bhl_pages": [
+        1496999,
+        1497000,
+        1497001,
+        1497002,
+        1497003,
+        1497004,
+        1497005,
+        1497006
+      ]
+    },
+    {
+      "reference_id": "8078",
+      "genre": "article",
+      "title": "ON DEVELOPMENT OF EARLY STAGES OF UROSALPINX CINEREA (SAY) AT CONSTANT TEMPERATURES AND THEIR TOLERANCE TO LOW TEMPERATURES",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "188",
+      "epage": "195",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538847",
+      "PageID": "1497007",
+      "created": "2010-01-06 22:44:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4236",
+          "lastname": "Ganaros",
+          "forename": "Anthony E"
+        }
+      ],
+      "bhl_pages": [
+        1497007,
+        1497008,
+        1497009,
+        1497010,
+        1497011,
+        1497012,
+        1497013,
+        1497014
+      ]
+    },
+    {
+      "reference_id": "8079",
+      "genre": "article",
+      "title": "A FUNGUS PARASITE IN OVA OF THE BARNACLE CHTHAMALUS FRAGILIS DENTICULATA",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "205",
+      "epage": "214",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538849",
+      "PageID": "1497024",
+      "created": "2010-01-06 22:44:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4237",
+          "lastname": "Johnson",
+          "forename": "T W"
+        }
+      ],
+      "bhl_pages": [
+        1497024,
+        1497025,
+        1497026,
+        1497027,
+        1497028,
+        1497029,
+        1497030,
+        1497031,
+        1497032,
+        1497033
+      ]
+    },
+    {
+      "reference_id": "8080",
+      "genre": "article",
+      "title": "THE EFFECT OF X-RAYS, IRRADIATED SEA WATER, AND OXIDIZING AGENTS ON THE RATE OF ATTACHMENT OF BUGULA LARVAE",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "215",
+      "epage": "225",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538850",
+      "PageID": "1497034",
+      "created": "2010-01-06 22:45:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3723",
+          "lastname": "Lynch",
+          "forename": "William F"
+        }
+      ],
+      "bhl_pages": [
+        1497034,
+        1497035,
+        1497036,
+        1497037,
+        1497038,
+        1497039,
+        1497040,
+        1497041,
+        1497042,
+        1497043,
+        1497044
+      ]
+    },
+    {
+      "reference_id": "8081",
+      "genre": "article",
+      "title": "GASTRULAR BLOCKAGE IN FROGS' EGGS PRODUCED BY OXYGEN POISONING",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "226",
+      "epage": "246",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538851",
+      "PageID": "1497045",
+      "created": "2010-01-06 22:45:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4238",
+          "lastname": "Malamed",
+          "forename": "Sasha"
+        }
+      ],
+      "bhl_pages": [
+        1497045,
+        1497046,
+        1497047,
+        1497048,
+        1497049,
+        1497050,
+        1497051,
+        1497052,
+        1497053,
+        1497054,
+        1497055,
+        1497056,
+        1497057,
+        1497058,
+        1497059,
+        1497060,
+        1497061,
+        1497062,
+        1497063,
+        1497064,
+        1497065
+      ]
+    },
+    {
+      "reference_id": "8082",
+      "genre": "article",
+      "title": "THE PRODUCTION OF TWIN EMBRYOS IN DENDRASTER BY MEANS OF MERCAPTOETHANOL (MONOTHIOETHYLENE GLYCOL)",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "247",
+      "epage": "254",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538852",
+      "PageID": "1497066",
+      "created": "2010-01-06 22:45:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3942",
+          "lastname": "Mazia",
+          "forename": "Daniel"
+        }
+      ],
+      "bhl_pages": [
+        1497066,
+        1497067,
+        1497068,
+        1497069,
+        1497070,
+        1497071,
+        1497072,
+        1497073
+      ]
+    },
+    {
+      "reference_id": "8083",
+      "genre": "article",
+      "title": "INHIBITORS OF REGENERATION IN TUBULARIA",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "255",
+      "epage": "269",
+      "year": "1958",
+      "date": "1958-04-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538853",
+      "PageID": "1497074",
+      "created": "2010-01-06 22:45:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4239",
+          "lastname": "Tweedell",
+          "forename": "Kenyon S"
+        }
+      ],
+      "bhl_pages": [
+        1497074,
+        1497075,
+        1497076,
+        1497077,
+        1497078,
+        1497079,
+        1497080,
+        1497081,
+        1497082,
+        1497083,
+        1497084,
+        1497085,
+        1497086,
+        1497087,
+        1497088
+      ]
+    },
+    {
+      "reference_id": "8084",
+      "genre": "article",
+      "title": "THE EFFECTS OF 2560 r OF X-RAYS ON SPERMATOGENESIS IN THE MOUSE",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "271",
+      "epage": "283",
+      "year": "1958",
+      "date": "1958-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538984",
+      "PageID": "1497090",
+      "created": "2010-01-06 22:45:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4038",
+          "lastname": "Bryan",
+          "forename": "John H D"
+        },
+        {
+          "id": "4115",
+          "lastname": "Gowen",
+          "forename": "John W"
+        }
+      ],
+      "bhl_pages": [
+        1497090,
+        1497091,
+        1497092,
+        1497093,
+        1497094,
+        1497095,
+        1497096,
+        1497097,
+        1497098,
+        1497099,
+        1497100,
+        1497101,
+        1497102
+      ]
+    },
+    {
+      "reference_id": "8085",
+      "genre": "article",
+      "title": "SURVIVAL AND GROWTH OF CLAM AND OYSTER LARVAE AT DIFFERENT SALINITIES",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "296",
+      "epage": "307",
+      "year": "1958",
+      "date": "1958-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538986",
+      "PageID": "1497115",
+      "created": "2010-01-06 22:45:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3913",
+          "lastname": "Davis",
+          "forename": "H C"
+        }
+      ],
+      "bhl_pages": [
+        1497115,
+        1497116,
+        1497117,
+        1497118,
+        1497119,
+        1497120,
+        1497121,
+        1497122,
+        1497123,
+        1497124,
+        1497125,
+        1497126
+      ]
+    },
+    {
+      "reference_id": "8086",
+      "genre": "article",
+      "title": "POTASSIUM AND SODIUM REGULATION IN AN INTERTIDAL CRAB",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "334",
+      "epage": "347",
+      "year": "1958",
+      "date": "1958-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538989",
+      "PageID": "1497153",
+      "created": "2010-01-06 22:45:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4161",
+          "lastname": "Gross",
+          "forename": "Warren J"
+        }
+      ],
+      "bhl_pages": [
+        1497153,
+        1497154,
+        1497155,
+        1497156,
+        1497157,
+        1497158,
+        1497159,
+        1497160,
+        1497161,
+        1497162,
+        1497163,
+        1497164,
+        1497165,
+        1497166
+      ]
+    },
+    {
+      "reference_id": "8087",
+      "genre": "article",
+      "title": "A RE-EXAMINATION OF THE OSMOTIC PROPERTIES OF THE PACIFIC HAGFISH, POLISTOTREMA STOUTI",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "348",
+      "epage": "356",
+      "year": "1958",
+      "date": "1958-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538990",
+      "PageID": "1497167",
+      "created": "2010-01-06 22:45:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4240",
+          "lastname": "Mcfarland",
+          "forename": "William N"
+        },
+        {
+          "id": "4241",
+          "lastname": "Munz",
+          "forename": "Frederick W"
+        }
+      ],
+      "bhl_pages": [
+        1497167,
+        1497168,
+        1497169,
+        1497170,
+        1497171,
+        1497172,
+        1497173,
+        1497174,
+        1497175
+      ]
+    },
+    {
+      "reference_id": "8088",
+      "genre": "article",
+      "title": "THE ACOUSTICAL BEHAVIOR OF SOME FISHES IN THE BIMINI AREA",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "357",
+      "epage": "374",
+      "year": "1958",
+      "date": "1958-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538991",
+      "PageID": "1497176",
+      "created": "2010-01-06 22:45:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4150",
+          "lastname": "Moulton",
+          "forename": "James M"
+        }
+      ],
+      "bhl_pages": [
+        1497176,
+        1497177,
+        1497178,
+        1497179,
+        1497180,
+        1497181,
+        1497182,
+        1497183,
+        1497184,
+        1497185,
+        1497186,
+        1497187,
+        1497188,
+        1497189,
+        1497190,
+        1497191,
+        1497192,
+        1497193
+      ]
+    },
+    {
+      "reference_id": "8089",
+      "genre": "article",
+      "title": "EFFECT OF PLANT HORMONES ON ULVA",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "375",
+      "epage": "384",
+      "year": "1958",
+      "date": "1958-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538992",
+      "PageID": "1497194",
+      "created": "2010-01-06 22:45:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4242",
+          "lastname": "Provasoli",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        1497194,
+        1497195,
+        1497196,
+        1497197,
+        1497198,
+        1497199,
+        1497200,
+        1497201,
+        1497202,
+        1497203
+      ]
+    },
+    {
+      "reference_id": "8090",
+      "genre": "article",
+      "title": "DEVELOPMENT OF PIGMENT IN THE LARVA OF THE SEA URCHIN, LYTECHINUS VARIEGATUS",
+      "secondary_title": "Biol Bull",
+      "volume": "114",
+      "spage": "394",
+      "epage": "403",
+      "year": "1958",
+      "date": "1958-06-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1538994",
+      "PageID": "1497213",
+      "created": "2010-01-06 22:45:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "4243",
+          "lastname": "Young",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        1497213,
+        1497214,
+        1497215,
+        1497216,
+        1497217,
+        1497218,
+        1497219,
+        1497220,
+        1497221,
+        1497222
+      ]
+    }
+  ]
+}

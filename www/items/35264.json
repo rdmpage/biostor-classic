@@ -1,0 +1,90 @@
+{
+  "ItemID": "35264",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 7 (1895)",
+  "articles": [
+    {
+      "reference_id": "60049",
+      "genre": "article",
+      "title": "Preliminary notes on Tasmanian earthworms",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "7",
+      "spage": "33",
+      "epage": "54",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0035-9211",
+      "PageID": "8659581",
+      "created": "2010-11-22 17:59:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42101",
+          "lastname": "Spencer",
+          "forename": "W B"
+        }
+      ],
+      "bhl_pages": [
+        8659581,
+        8659582,
+        8659583,
+        8659584,
+        8659585,
+        8659586,
+        8659587,
+        8659588,
+        8659612,
+        8659613,
+        8659614,
+        8659615,
+        8659616,
+        8659617,
+        8659618,
+        8659619,
+        8659620,
+        8659621,
+        8659622,
+        8659623,
+        8659624,
+        8659625
+      ]
+    },
+    {
+      "reference_id": "49197",
+      "genre": "article",
+      "title": "Preliminary notice of certain new species of lizards from central Australia",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "7",
+      "spage": "264",
+      "epage": "269",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0035-9211",
+      "PageID": "8659871",
+      "created": "2010-03-21 12:00:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39353",
+          "lastname": "Lucas",
+          "forename": "A H S"
+        },
+        {
+          "id": "39382",
+          "lastname": "Frost.",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8659871,
+        8659872,
+        8659873,
+        8659874,
+        8659875,
+        8659876
+      ]
+    }
+  ]
+}

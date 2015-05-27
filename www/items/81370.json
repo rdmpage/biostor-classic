@@ -1,0 +1,41 @@
+{
+  "ItemID": "81370",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 40 (1892)",
+  "articles": [
+    {
+      "reference_id": "52193",
+      "genre": "article",
+      "title": "Diagnoses d'esp\u00e8ces nouvelles des Mollusques C\u00e9phalopodes, recueillis dans le cours de l'Expedition Scientifique du Talisman (1883)",
+      "secondary_title": "Journal de  Conchyliologie",
+      "volume": "40",
+      "spage": "297",
+      "epage": "300",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1605690",
+      "PageID": "25234604",
+      "created": "2010-10-18 00:24:51",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40414",
+          "lastname": "Fischer",
+          "forename": "P"
+        },
+        {
+          "id": "40415",
+          "lastname": "Fischer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        25234604,
+        25234605,
+        25234606,
+        25234607
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "ItemID": "47137",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.85 no.5 1998",
+  "articles": [
+    {
+      "reference_id": "63525",
+      "genre": "article",
+      "title": "Atlas of the Texas species of Phlox (Polemoniaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "85",
+      "spage": "309",
+      "epage": "326",
+      "issn": "0031-9430",
+      "PageID": "13070947",
+      "created": "2011-01-26 22:03:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13070947,
+        13070948,
+        13070949,
+        13070950,
+        13070951,
+        13070952,
+        13070953,
+        13070954,
+        13070955,
+        13070956,
+        13070957,
+        13070958,
+        13070959,
+        13070960,
+        13070961,
+        13070962,
+        13070963,
+        13070964
+      ]
+    },
+    {
+      "reference_id": "63526",
+      "genre": "article",
+      "title": "Cymopteris [sic] (Apiaceae) in Trans-Pecos, Texas",
+      "secondary_title": "Phytologia",
+      "volume": "85",
+      "spage": "327",
+      "epage": "335",
+      "issn": "0031-9430",
+      "PageID": "13070965",
+      "created": "2011-01-26 22:03:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13070965,
+        13070966,
+        13070967,
+        13070968,
+        13070969,
+        13070970,
+        13070971,
+        13070972,
+        13070973
+      ]
+    },
+    {
+      "reference_id": "63527",
+      "genre": "article",
+      "title": "A new species of Verbesina (Asteraceae: Heliantheae) from Nuevo Leon, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "85",
+      "spage": "336",
+      "epage": "340",
+      "issn": "0031-9430",
+      "PageID": "13070974",
+      "created": "2011-01-26 22:03:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13070974,
+        13070975,
+        13070976,
+        13070977,
+        13070978
+      ]
+    }
+  ]
+}

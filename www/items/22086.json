@@ -1,0 +1,399 @@
+{
+  "ItemID": "22086",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 42 (1910)",
+  "articles": [
+    {
+      "reference_id": "103865",
+      "genre": "article",
+      "title": "A new proctotrypid in the family Scelioninae",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "42",
+      "spage": "15",
+      "epage": "16",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041089",
+      "created": "2012-05-30 13:44:57",
+      "updated": "2012-05-30 13:44:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3041089,
+        3041090
+      ]
+    },
+    {
+      "reference_id": "73682",
+      "genre": "article",
+      "title": "Some new and rare Diptera from Wisconsin",
+      "secondary_title": "Can. Ent",
+      "volume": "42",
+      "spage": "26",
+      "epage": "29",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041100",
+      "created": "2011-06-04 09:36:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47209",
+          "lastname": "Graenicher",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        3041100,
+        3041101,
+        3041102,
+        3041103
+      ]
+    },
+    {
+      "reference_id": "65312",
+      "genre": "article",
+      "title": "A new wax scale from the Argentine",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "74",
+      "epage": "76",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041152",
+      "created": "2011-02-18 18:05:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3041152,
+        3041153,
+        3041154
+      ]
+    },
+    {
+      "reference_id": "85144",
+      "genre": "article",
+      "title": "A decennial confession",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "99",
+      "epage": "101",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041177",
+      "created": "2011-08-11 17:36:17",
+      "updated": "2011-08-11 17:36:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3041177,
+        3041178,
+        3041179
+      ]
+    },
+    {
+      "reference_id": "105331",
+      "genre": "article",
+      "title": "Synonymical and other notes on Coleoptera",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "42",
+      "spage": "105",
+      "epage": "114",
+      "date": "0000-00-00",
+      "issn": "0008-347X",
+      "doi": "10.4039\/Ent42105-4",
+      "PageID": "3041183",
+      "created": "2012-07-17 16:24:08",
+      "updated": "2012-07-17 16:26:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10152",
+          "lastname": "Casey",
+          "forename": "Thos L"
+        }
+      ],
+      "bhl_pages": [
+        3041183,
+        3041184,
+        3041185,
+        3041186,
+        3041187,
+        3041188,
+        3041189,
+        3041190,
+        3041191,
+        3041192
+      ]
+    },
+    {
+      "reference_id": "85210",
+      "genre": "article",
+      "title": "Notes on a few Scolytidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "161",
+      "epage": "165",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041243",
+      "created": "2011-08-11 17:58:16",
+      "updated": "2011-08-11 17:58:16",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3041243,
+        3041244,
+        3041245,
+        3041246,
+        3041247
+      ]
+    },
+    {
+      "reference_id": "85235",
+      "genre": "article",
+      "title": "Some new American bees",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "169",
+      "epage": "171",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041251",
+      "created": "2011-08-11 18:04:38",
+      "updated": "2011-08-11 18:04:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3041251,
+        3041252,
+        3041253
+      ]
+    },
+    {
+      "reference_id": "71440",
+      "genre": "article",
+      "title": "Four new species of Hymenoptera, Chalcidoidea, Encyrtidae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "205",
+      "epage": "207",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041287",
+      "created": "2011-06-03 19:59:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2352",
+          "lastname": "Gahan",
+          "forename": "A B"
+        }
+      ],
+      "bhl_pages": [
+        3041287,
+        3041288,
+        3041289
+      ]
+    },
+    {
+      "reference_id": "71866",
+      "genre": "article",
+      "title": "Two new species of African parasitic Hymenoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "222",
+      "epage": "223",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041306",
+      "created": "2011-06-03 23:24:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2353",
+          "lastname": "Crawford",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        3041306,
+        3041307
+      ]
+    },
+    {
+      "reference_id": "72454",
+      "genre": "article",
+      "title": "A new pteromalid parasitic on |Tortrix fumiferana|",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "259",
+      "epage": "260",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041343",
+      "created": "2011-06-04 01:56:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "796",
+          "lastname": "Brues",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        3041343,
+        3041344
+      ]
+    },
+    {
+      "reference_id": "71558",
+      "genre": "article",
+      "title": "The Orthoptera of Western Canada",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "269",
+      "epage": "276",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041353",
+      "created": "2011-06-03 20:55:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39836",
+          "lastname": "Walker",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        3041353,
+        3041354,
+        3041355,
+        3041356,
+        3041357,
+        3041358,
+        3041359,
+        3041360
+      ]
+    },
+    {
+      "reference_id": "85178",
+      "genre": "article",
+      "title": "Geometrid notes. New Hydriomena varieties",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "277",
+      "epage": "283",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041361",
+      "created": "2011-08-11 17:49:28",
+      "updated": "2011-08-11 17:49:28",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3041361,
+        3041362,
+        3041363,
+        3041364,
+        3041365,
+        3041366,
+        3041367
+      ]
+    },
+    {
+      "reference_id": "72440",
+      "genre": "article",
+      "title": "New parasites of the genus |Meraporus|",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "42",
+      "spage": "341",
+      "epage": "346",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041429",
+      "created": "2011-06-04 01:53:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40785",
+          "lastname": "Tucker",
+          "forename": "E S"
+        }
+      ],
+      "bhl_pages": [
+        3041429,
+        3041430,
+        3041431,
+        3041432,
+        3041433,
+        3041434
+      ]
+    },
+    {
+      "reference_id": "73181",
+      "genre": "article",
+      "title": "Corrections to my paper on the type-species of the North American genera of Diptera",
+      "secondary_title": "Can. Ent",
+      "volume": "42",
+      "spage": "375",
+      "epage": "378",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0008-347X",
+      "PageID": "3041463",
+      "created": "2011-06-04 07:57:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8729",
+          "lastname": "Coquillett",
+          "forename": "D W"
+        }
+      ],
+      "bhl_pages": [
+        3041463,
+        3041464,
+        3041465,
+        3041466
+      ]
+    }
+  ]
+}

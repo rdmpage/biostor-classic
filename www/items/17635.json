@@ -1,0 +1,73 @@
+{
+  "ItemID": "17635",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 34 (1882)",
+  "articles": [
+    {
+      "reference_id": "69359",
+      "genre": "article",
+      "title": "Three more Fresh-water Sponges",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1882",
+      "spage": "12",
+      "epage": "14",
+      "year": "1882",
+      "date": "1882-00-00",
+      "issn": "0097-3157",
+      "PageID": "1643728",
+      "created": "2011-06-01 08:50:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46251",
+          "lastname": "Potts",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1643728,
+        1643729,
+        1643730
+      ]
+    },
+    {
+      "reference_id": "20747",
+      "genre": "article",
+      "title": "A review of Swainson's genera of fishes",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences, Philadelphia",
+      "volume": "1882",
+      "spage": "272",
+      "epage": "284",
+      "year": "1882",
+      "date": "1882-00-00",
+      "issn": "0097-3157",
+      "PageID": "1643992",
+      "created": "2010-02-09 18:51:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10200",
+          "lastname": "Swain",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        1643992,
+        1643993,
+        1643994,
+        1643995,
+        1643996,
+        1643997,
+        1643998,
+        1643999,
+        1644000,
+        1644001,
+        1644002,
+        1644003,
+        1644004
+      ]
+    }
+  ]
+}

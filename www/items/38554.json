@@ -1,0 +1,81 @@
+{
+  "ItemID": "38554",
+  "FullTitle": "Me\u0301moires de la Socie\u0301te\u0301 zoologique de France.",
+  "VolumeInfo": "9, 1896",
+  "articles": [
+    {
+      "reference_id": "70872",
+      "genre": "article",
+      "title": "Odonates des \u00eeles S\u00e9chelles",
+      "secondary_title": "Memoires Societe Zoologique France",
+      "volume": "9",
+      "spage": "101",
+      "epage": "112",
+      "year": "1896",
+      "date": "1896-00-00",
+      "PageID": "10116984",
+      "created": "2011-06-03 16:43:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45170",
+          "lastname": "Martin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        10116984,
+        10116985,
+        10116986,
+        10116987,
+        10116988,
+        10116989,
+        10116990,
+        10116991,
+        10116992,
+        10116993,
+        10116994,
+        10116995
+      ]
+    },
+    {
+      "reference_id": "71292",
+      "genre": "article",
+      "title": "Sur quelques myriapodes de Chine",
+      "secondary_title": "M\u00e9moires de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "9",
+      "spage": "349",
+      "epage": "362",
+      "year": "1896",
+      "date": "1896-00-00",
+      "PageID": "10117240",
+      "created": "2011-06-03 18:24:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        10117240,
+        10117241,
+        10117242,
+        10117243,
+        10117244,
+        10117245,
+        10117246,
+        10117247,
+        10117248,
+        10117249,
+        10117250,
+        10117251,
+        10117252,
+        10117253
+      ]
+    }
+  ]
+}

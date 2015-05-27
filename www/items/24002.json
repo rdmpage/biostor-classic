@@ -1,0 +1,40 @@
+{
+  "ItemID": "24002",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 6 (1890-1891)",
+  "articles": [
+    {
+      "reference_id": "81950",
+      "genre": "article",
+      "title": "On dynamic influences in evolution",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "6",
+      "spage": "1",
+      "epage": "10",
+      "issn": "0006-324X",
+      "PageID": "3805069",
+      "created": "2011-07-31 02:45:33",
+      "updated": "2011-07-31 02:45:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3805069,
+        3805070,
+        3805071,
+        3805072,
+        3805073,
+        3805074,
+        3805075,
+        3805076,
+        3805077,
+        3805078
+      ]
+    }
+  ]
+}

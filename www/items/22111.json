@@ -1,0 +1,249 @@
+{
+  "ItemID": "22111",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 28 (1896)",
+  "articles": [
+    {
+      "reference_id": "60322",
+      "genre": "article",
+      "title": "The North American species of Gnathodus",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "28",
+      "spage": "35",
+      "epage": "42",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049821",
+      "created": "2010-11-22 22:28:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42157",
+          "lastname": "Baker",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        3049821,
+        3049822,
+        3049823,
+        3049824,
+        3049825,
+        3049826,
+        3049827,
+        3049828
+      ]
+    },
+    {
+      "reference_id": "72594",
+      "genre": "article",
+      "title": "A few new spiders",
+      "secondary_title": "Canad. Ent",
+      "volume": "28",
+      "spage": "62",
+      "epage": "65",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049850",
+      "created": "2011-06-04 02:37:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3049850,
+        3049851,
+        3049852,
+        3049853
+      ]
+    },
+    {
+      "reference_id": "73009",
+      "genre": "article",
+      "title": "Canadian Hymenoptera, No. 7",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "28",
+      "spage": "75",
+      "epage": "80",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049863",
+      "created": "2011-06-04 04:52:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47121",
+          "lastname": "Harrington",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3049863,
+        3049864,
+        3049865,
+        3049866,
+        3049867,
+        3049868
+      ]
+    },
+    {
+      "reference_id": "60230",
+      "genre": "article",
+      "title": "Two new species of Papirius",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "28",
+      "spage": "119",
+      "epage": "121",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049909",
+      "created": "2010-11-22 21:19:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18035",
+          "lastname": "Folsom",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        3049909,
+        3049910,
+        3049911
+      ]
+    },
+    {
+      "reference_id": "73007",
+      "genre": "article",
+      "title": "Trychosis tunicula-rubra, n.s",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "28",
+      "spage": "148",
+      "epage": "150",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049938",
+      "created": "2011-06-04 04:52:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47098",
+          "lastname": "Fyles",
+          "forename": "T W"
+        }
+      ],
+      "bhl_pages": [
+        3049938,
+        3049939,
+        3049940
+      ]
+    },
+    {
+      "reference_id": "60770",
+      "genre": "article",
+      "title": "On two interesting new genera of scale insect parasites",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "28",
+      "spage": "165",
+      "epage": "167",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0008-347X",
+      "PageID": "3049955",
+      "created": "2010-11-23 04:35:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2318",
+          "lastname": "Howard",
+          "forename": "L O"
+        }
+      ],
+      "bhl_pages": [
+        3049955,
+        3049956,
+        3049957
+      ]
+    },
+    {
+      "reference_id": "73068",
+      "genre": "article",
+      "title": "A summary of the members of the genus Chilosia, Meig., in North America, with descriptions of new species",
+      "secondary_title": "Can. Ent",
+      "volume": "28",
+      "spage": "227",
+      "epage": "233",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0008-347X",
+      "PageID": "3050017",
+      "created": "2011-06-04 07:36:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42085",
+          "lastname": "Hunter",
+          "forename": "W D"
+        }
+      ],
+      "bhl_pages": [
+        3050017,
+        3050018,
+        3050019,
+        3050020,
+        3050021,
+        3050022,
+        3050023
+      ]
+    },
+    {
+      "reference_id": "72246",
+      "genre": "article",
+      "title": "Some notes on insect enemies of trees",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "28",
+      "spage": "243",
+      "epage": "250",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1553087",
+      "PageID": "3050033",
+      "created": "2011-06-04 00:56:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46989",
+          "lastname": "Hopkins",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        3050033,
+        3050034,
+        3050035,
+        3050036,
+        3050037,
+        3050038,
+        3050039,
+        3050040
+      ]
+    }
+  ]
+}

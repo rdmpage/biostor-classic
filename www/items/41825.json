@@ -1,0 +1,39 @@
+{
+  "ItemID": "41825",
+  "FullTitle": "Spolia zeylanica.",
+  "VolumeInfo": "v. 7 (1910-1911)",
+  "articles": [
+    {
+      "reference_id": "73715",
+      "genre": "article",
+      "title": "A new genus of short-beaked gnats from Ceylon",
+      "secondary_title": "Spolia Zeylan",
+      "volume": "7",
+      "spage": "187",
+      "epage": "193",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0081-3745",
+      "PageID": "11166485",
+      "created": "2011-06-04 09:40:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47227",
+          "lastname": "Annandale",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        11166485,
+        11166486,
+        11166487,
+        11166488,
+        11166489,
+        11166490,
+        11166491
+      ]
+    }
+  ]
+}

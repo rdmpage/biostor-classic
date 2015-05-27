@@ -1,0 +1,96 @@
+{
+  "ItemID": "30033",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 20 (1883)",
+  "articles": [
+    {
+      "reference_id": "67148",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntniss der Fische Japans (I.)",
+      "secondary_title": "Anzeiger der Akademie f\u00fcr Wissenschaftlichen, Wien",
+      "volume": "20",
+      "spage": "49",
+      "epage": "50",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "9782210",
+      "PageID": "6340549",
+      "created": "2011-05-19 08:32:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        },
+        {
+          "id": "45468",
+          "lastname": "D\u00f6derlein",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        6340549,
+        6340550
+      ]
+    },
+    {
+      "reference_id": "70010",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntniss der Fische Japan's (II)",
+      "secondary_title": "Anzeiger Der Akademie Der Wissenschaften In Wien",
+      "volume": "20",
+      "spage": "123",
+      "epage": "125",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "9782210",
+      "PageID": "6340633",
+      "created": "2011-06-02 12:24:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42196",
+          "lastname": "D\u00f6derlein",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        6340633,
+        6340634,
+        6340635
+      ]
+    },
+    {
+      "reference_id": "70009",
+      "genre": "article",
+      "title": "Ichthyologische Beitr\u00e4ge (XIII)",
+      "secondary_title": "Anzeiger Der Akademie Der Wissenschaften In Wien",
+      "volume": "20",
+      "spage": "194",
+      "epage": "197",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "9782210",
+      "PageID": "6340714",
+      "created": "2011-06-02 12:22:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6340714,
+        6340715,
+        6340716,
+        6340717
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "author": [
+    {
+      "firstname": "M",
+      "lastname": "Grayum",
+      "name": "M Grayum"
+    }
+  ],
+  "type": "article",
+  "title": "New species of Philodendron subgenus Pteromischum (Araceae) from Mesoamerica and Pacific South America",
+  "journal": {
+    "name": "Phytologia",
+    "volume": "73",
+    "pages": "30--39",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0031-9430"
+      }
+    ]
+  },
+  "year": "1992",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/62348"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/12984982"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 62348
+    },
+    {
+      "type": "bhl",
+      "id": 12984982
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -84.783333333333,
+        10.3
+      ]
+    ]
+  }
+}

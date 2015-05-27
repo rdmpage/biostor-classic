@@ -1,0 +1,69 @@
+{
+  "author": [
+    {
+      "firstname": "P F S",
+      "lastname": "Cornelius",
+      "name": "P F S Cornelius"
+    }
+  ],
+  "type": "article",
+  "title": "Hydroids and medusae of the family Companulariidae recorded from the eastern north Atlantic, with a world synopsis of genera",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Zoology",
+    "volume": "42",
+    "issue": "2",
+    "pages": "37--148",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0007-1498"
+      }
+    ]
+  },
+  "year": "1982",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/76"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2273804"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 76
+    },
+    {
+      "type": "bhl",
+      "id": 2273804
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        30.524444444444,
+        74.147222222222
+      ],
+      [
+        4.3666666666667,
+        53.016666666667
+      ],
+      [
+        25.666666666667,
+        -34.716666666667
+      ],
+      [
+        77.566666666667,
+        -38.666666666667
+      ],
+      [
+        -8.6666666666667,
+        35.7
+      ]
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "ItemID": "19999",
+  "FullTitle": "Edinburgh New Philosophical Journal.",
+  "VolumeInfo": "1",
+  "articles": [
+    {
+      "reference_id": "60856",
+      "genre": "article",
+      "title": "Notice of a new zoophyte (Cliona celata, Gr.) from the Firth of Forth",
+      "secondary_title": "Edinburgh Philosophical Journal",
+      "volume": "1",
+      "spage": "78",
+      "epage": "81",
+      "year": "1826",
+      "date": "1826-00-00",
+      "oclc": "32831669",
+      "PageID": "2471191",
+      "created": "2010-11-23 04:50:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1350",
+          "lastname": "Grant",
+          "forename": "R E"
+        }
+      ],
+      "bhl_pages": [
+        2471191,
+        2471190,
+        2471189,
+        2471188
+      ]
+    },
+    {
+      "reference_id": "72508",
+      "genre": "article",
+      "title": "Remarks on the structures of some Calcareous Sponges",
+      "secondary_title": "Edinburgh New Philosophical Journal",
+      "volume": "1",
+      "spage": "166",
+      "epage": "170",
+      "year": "1826",
+      "date": "1826-00-00",
+      "oclc": "32831669",
+      "PageID": "2471375",
+      "created": "2011-06-04 02:17:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1350",
+          "lastname": "Grant",
+          "forename": "R E"
+        }
+      ],
+      "bhl_pages": [
+        2471375,
+        2471376,
+        2471377,
+        2471378,
+        2471379
+      ]
+    },
+    {
+      "reference_id": "49034",
+      "genre": "article",
+      "title": "On the snakes of Southern Africa",
+      "secondary_title": "Edinburgh New Philos. J.",
+      "volume": "1",
+      "spage": "248",
+      "epage": "254",
+      "year": "1826",
+      "date": "1826-00-00",
+      "oclc": "32831669",
+      "PageID": "2471500",
+      "created": "2010-03-21 11:01:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "26526",
+          "lastname": "Smith",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        2471500,
+        2471501,
+        2471502,
+        2471503,
+        2471504,
+        2471505,
+        2471448
+      ]
+    }
+  ]
+}

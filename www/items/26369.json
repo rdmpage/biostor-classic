@@ -1,0 +1,65 @@
+{
+  "ItemID": "26369",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 3 (1871)",
+  "articles": [
+    {
+      "reference_id": "72111",
+      "genre": "article",
+      "title": "List of Coleoptera taken at Grimsby, Ontario. Cerambycidae",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "3",
+      "spage": "105",
+      "epage": "107",
+      "year": "1871",
+      "date": "1871-00-00",
+      "oclc": "1553087",
+      "PageID": "4611672",
+      "created": "2011-06-04 00:32:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45429",
+          "lastname": "Pettit",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        4611672,
+        4611671,
+        4611670
+      ]
+    },
+    {
+      "reference_id": "100665",
+      "genre": "article",
+      "title": "Micro-lepidoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "3",
+      "issue": "12",
+      "spage": "221",
+      "epage": "224",
+      "year": "1871",
+      "date": "1871-00-00",
+      "issn": "0008-347X",
+      "PageID": "4611905",
+      "created": "2012-01-26 16:53:46",
+      "updated": "2012-01-26 16:55:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42860",
+          "lastname": "Chambers",
+          "forename": "V T"
+        }
+      ],
+      "bhl_pages": [
+        4611905,
+        4611906,
+        4611907,
+        4611908
+      ]
+    }
+  ]
+}

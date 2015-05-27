@@ -1,0 +1,40 @@
+{
+  "ItemID": "35076",
+  "FullTitle": "The Proceedings of the Iowa Academy of Science.  ",
+  "VolumeInfo": "26",
+  "articles": [
+    {
+      "reference_id": "70188",
+      "genre": "article",
+      "title": "Notes on the Cercopidae with descriptions of some news species",
+      "secondary_title": "Proceedings of the Iowa Academy of Science. Des Moines",
+      "volume": "26",
+      "spage": "143",
+      "epage": "150",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1695497",
+      "PageID": "8592209",
+      "created": "2011-06-02 15:44:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46203",
+          "lastname": "D.",
+          "forename": "Ball E"
+        }
+      ],
+      "bhl_pages": [
+        8592209,
+        8592210,
+        8592211,
+        8592212,
+        8592213,
+        8592214,
+        8592215,
+        8592216
+      ]
+    }
+  ]
+}

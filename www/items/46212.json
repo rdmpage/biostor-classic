@@ -1,0 +1,257 @@
+{
+  "ItemID": "46212",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "pt. 18 (1850)",
+  "articles": [
+    {
+      "reference_id": "52159",
+      "genre": "article",
+      "title": "Description of a new genus of batrachians from Swan River. By Dr. H. Schlegel, Curator of the Royal Zoological Museum, Leyden. (Extracted from a letter to J. E. Gray, Esq.)",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "9",
+      "epage": "10",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0370-2774",
+      "PageID": "12858682",
+      "created": "2010-10-13 11:16:56",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        12858682,
+        12858649
+      ]
+    },
+    {
+      "reference_id": "59931",
+      "genre": "article",
+      "title": "Descriptions of new Birds",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "91",
+      "epage": "95",
+      "year": "1851",
+      "date": "1851-00-00",
+      "issn": "0370-2774",
+      "PageID": "12858787",
+      "created": "2010-11-22 17:04:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12858787,
+        12858788,
+        12858789,
+        12858790,
+        12858791
+      ]
+    },
+    {
+      "reference_id": "59724",
+      "genre": "article",
+      "title": "Description of a new Pupina and two new Helicinas, from the collection of H. Cuming, Esq",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "97",
+      "epage": "98",
+      "year": "1851",
+      "date": "1851-00-00",
+      "issn": "0370-2774",
+      "PageID": "12858799",
+      "created": "2010-11-22 15:41:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42679",
+          "lastname": "Pfeiffer",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12858799,
+        12858800
+      ]
+    },
+    {
+      "reference_id": "59733",
+      "genre": "article",
+      "title": "Description of a new genus of the family Melaniana and many new species of the genus Melania chiefly collected by Hugh Cuming Esq., during his zoological voyage in the east and now first described",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "179",
+      "epage": "197",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0370-2774",
+      "PageID": "12858889",
+      "created": "2010-11-22 15:42:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42667",
+          "lastname": "Lea",
+          "forename": "I"
+        },
+        {
+          "id": "42684",
+          "lastname": "Lea",
+          "forename": "H C"
+        }
+      ],
+      "bhl_pages": [
+        12858889,
+        12858890,
+        12858891,
+        12858892,
+        12858893,
+        12858894,
+        12858895,
+        12858896,
+        12858897,
+        12858898,
+        12858899,
+        12858900,
+        12858901,
+        12858902,
+        12858903,
+        12858904,
+        12858905,
+        12858906,
+        12858907
+      ]
+    },
+    {
+      "reference_id": "59945",
+      "genre": "article",
+      "title": "On new species of birds from Australia",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "200",
+      "epage": "201",
+      "year": "1851",
+      "date": "1851-00-00",
+      "issn": "0370-2774",
+      "PageID": "12858910",
+      "created": "2010-11-22 17:09:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12858910,
+        12858911
+      ]
+    },
+    {
+      "reference_id": "67319",
+      "genre": "article",
+      "title": "An account of fishes discovered or observed in Madeira since the year 1842",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "247",
+      "epage": "253",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0370-2774",
+      "PageID": "12858989",
+      "created": "2011-05-26 00:02:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2815",
+          "lastname": "Lowe",
+          "forename": "R T"
+        }
+      ],
+      "bhl_pages": [
+        12858989,
+        12858990,
+        12858991,
+        12858992,
+        12858993,
+        12858994,
+        12858995
+      ]
+    },
+    {
+      "reference_id": "60059",
+      "genre": "article",
+      "title": "Descriptions of several new species of Entomostraca",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "254",
+      "epage": "257",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0370-2774",
+      "PageID": "12858996",
+      "created": "2010-11-22 18:05:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42741",
+          "lastname": "Baird",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        12858996,
+        12858997,
+        12858998,
+        12858999
+      ]
+    },
+    {
+      "reference_id": "59950",
+      "genre": "article",
+      "title": "On new Australian Birds in the Collection of the Zoological Society of London",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1850",
+      "spage": "276",
+      "epage": "279",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0370-2774",
+      "PageID": "12859030",
+      "created": "2010-11-22 17:10:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12859030,
+        12859031,
+        12859032,
+        12859033
+      ]
+    }
+  ]
+}

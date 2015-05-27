@@ -1,0 +1,69 @@
+{
+  "ItemID": "47142",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.84 no.2 1998",
+  "articles": [
+    {
+      "reference_id": "63471",
+      "genre": "article",
+      "title": "Podach[a]enium chimalapanum (Asteraceae), a new species from easternmost Oaxaca, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "84",
+      "spage": "61",
+      "epage": "63",
+      "year": "1998",
+      "date": "1998-00-00",
+      "issn": "0031-9430",
+      "PageID": "13071559",
+      "created": "2011-01-26 22:01:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13071559,
+        13071560,
+        13071561
+      ]
+    },
+    {
+      "reference_id": "62324",
+      "genre": "article",
+      "title": "Parakeelya: a new genus segregated from Calandrinia (Portulacaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "84",
+      "spage": "98",
+      "epage": "106",
+      "year": "1998",
+      "date": "1998-00-00",
+      "issn": "0031-9430",
+      "PageID": "13071596",
+      "created": "2011-01-26 20:41:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43441",
+          "lastname": "Hershkovitz",
+          "forename": "M A"
+        }
+      ],
+      "bhl_pages": [
+        13071596,
+        13071597,
+        13071598,
+        13071599,
+        13071600,
+        13071601,
+        13071602,
+        13071603,
+        13071604
+      ]
+    }
+  ]
+}

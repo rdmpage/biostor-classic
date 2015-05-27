@@ -1,0 +1,105 @@
+{
+  "ItemID": "97672",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1909, pp. 545-952 (May-Dec.)",
+  "articles": [
+    {
+      "reference_id": "69325",
+      "genre": "article",
+      "title": "The Batrachians and Reptiles of Matabeleland",
+      "secondary_title": "Proc. Zool. Soc. London",
+      "volume": "1909",
+      "spage": "590",
+      "epage": "597",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0370-2774",
+      "PageID": "31210097",
+      "created": "2011-06-01 08:47:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46244",
+          "lastname": "Chubb",
+          "forename": "E C"
+        }
+      ],
+      "bhl_pages": [
+        31210097,
+        31210098,
+        31210099,
+        31210100,
+        31210101,
+        31210102,
+        31210103,
+        31210104
+      ]
+    },
+    {
+      "reference_id": "58234",
+      "genre": "article",
+      "title": "Description of a new species of the genus Alpheus Fabr. from the Bay of Batavia",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1909",
+      "spage": "663",
+      "epage": "666",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0370-2774",
+      "PageID": "31210172",
+      "created": "2010-11-20 20:18:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2397",
+          "lastname": "De Man",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        31210172,
+        31210173,
+        31210174,
+        31210175
+      ]
+    },
+    {
+      "reference_id": "58215",
+      "genre": "article",
+      "title": "On Decapod Crustacea from Christmas Island, collected by Dr. C.W. Andrews, F.R.S., F.Z.S",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1909",
+      "spage": "703",
+      "epage": "713",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0370-2774",
+      "PageID": "31210216",
+      "created": "2010-11-20 20:16:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39788",
+          "lastname": "Calman",
+          "forename": "W T"
+        }
+      ],
+      "bhl_pages": [
+        31210216,
+        31210217,
+        31210218,
+        31210219,
+        31210220,
+        31210221,
+        31210222,
+        31210223,
+        31210224,
+        31210225,
+        31210226
+      ]
+    }
+  ]
+}

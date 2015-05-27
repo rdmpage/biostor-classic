@@ -1,0 +1,42 @@
+{
+  "ItemID": "50873",
+  "FullTitle": "Anales del Museo Nacional de Historia Natural de Buenos Aires.",
+  "VolumeInfo": "t.23 1912",
+  "articles": [
+    {
+      "reference_id": "58523",
+      "genre": "article",
+      "title": "Nota preliminar sobre una nueva especie de Marsopa del rio dela Plata. (Phocaena dioptrica)",
+      "secondary_title": "Anales del Museo Nacional de Historia Natural de Buenos Aires",
+      "volume": "23",
+      "spage": "269",
+      "epage": "278",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "6210197",
+      "PageID": "14613525",
+      "created": "2010-11-20 21:36:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42365",
+          "lastname": "Lahille",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        14613525,
+        14613526,
+        14613527,
+        14613528,
+        14613529,
+        14613530,
+        14613531,
+        14613532,
+        14613533,
+        14613534
+      ]
+    }
+  ]
+}

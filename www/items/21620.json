@@ -1,0 +1,40 @@
+{
+  "ItemID": "21620",
+  "FullTitle": "A new race of crow. Corvus enca, from the Philippines [by] Austin L. Rand and Dioscoro S. Rabor.",
+  "VolumeInfo": "v.39:no.52(1961)",
+  "articles": [
+    {
+      "reference_id": "1392",
+      "genre": "article",
+      "title": "A new race of crow, Carvus erica, from the Philippines",
+      "secondary_title": "Fieldiana (Zool.)",
+      "volume": "39",
+      "spage": "577",
+      "epage": "579",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0015-0754",
+      "PageID": "2866715",
+      "created": "2009-12-23 16:10:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1057",
+          "lastname": "Rand",
+          "forename": "A L"
+        },
+        {
+          "id": "1058",
+          "lastname": "Rabor",
+          "forename": "D S"
+        }
+      ],
+      "bhl_pages": [
+        2866715,
+        2866698,
+        2866706
+      ]
+    }
+  ]
+}

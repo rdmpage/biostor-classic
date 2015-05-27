@@ -1,0 +1,42 @@
+{
+  "ItemID": "21298",
+  "FullTitle": "A new toad from western China,  by Karl P. Schmidt and Ch'eng-chao Liu.",
+  "VolumeInfo": "v.24:no.13(1940)",
+  "articles": [
+    {
+      "reference_id": "51926",
+      "genre": "article",
+      "title": "A new toad from western China",
+      "secondary_title": "Field Museum of Natural History Publication. Zoological Series",
+      "volume": "24",
+      "issue": "13",
+      "spage": "151",
+      "epage": "154",
+      "year": "1940",
+      "date": "1940-05-31",
+      "issn": "0895-0237",
+      "PageID": "2835485",
+      "created": "2010-06-27 10:42:42",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39365",
+          "lastname": "Schmidt",
+          "forename": "Karl P"
+        },
+        {
+          "id": "40299",
+          "lastname": "Liu",
+          "forename": "Ch'eng-Chao"
+        }
+      ],
+      "bhl_pages": [
+        2835485,
+        2835477,
+        2835478,
+        2835479
+      ]
+    }
+  ]
+}

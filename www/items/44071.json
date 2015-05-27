@@ -1,0 +1,36 @@
+{
+  "ItemID": "44071",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 3 1907",
+  "articles": [
+    {
+      "reference_id": "72663",
+      "genre": "article",
+      "title": "Beitrag zur Hemipternfauna zu Corfu",
+      "secondary_title": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie. Schoneberg-Berlin",
+      "volume": "3",
+      "spage": "92",
+      "epage": "95",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1770562",
+      "PageID": "12071789",
+      "created": "2011-06-04 03:06:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47065",
+          "lastname": "G.",
+          "forename": "Paganetti-Hummler"
+        }
+      ],
+      "bhl_pages": [
+        12071789,
+        12071790,
+        12071791,
+        12071792
+      ]
+    }
+  ]
+}

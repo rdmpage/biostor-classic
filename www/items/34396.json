@@ -1,0 +1,154 @@
+{
+  "ItemID": "34396",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Vereine in Berlin.",
+  "VolumeInfo": "v. 10 1866",
+  "articles": [
+    {
+      "reference_id": "53296",
+      "genre": "article",
+      "title": "Beschreibung einiger afrikanischen Diptera nemocera",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "10",
+      "spage": "55",
+      "epage": "62",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0323-6145",
+      "PageID": "8340183",
+      "created": "2010-10-26 19:49:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40809",
+          "lastname": "Loew",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8340183,
+        8340184,
+        8340185,
+        8340186,
+        8340187,
+        8340188,
+        8340189,
+        8340190
+      ]
+    },
+    {
+      "reference_id": "73739",
+      "genre": "article",
+      "title": "Psilopus opacus nov",
+      "secondary_title": "sp. Berlin. Ent. Zeitschr",
+      "volume": "10",
+      "spage": "63",
+      "epage": "64",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "1519613",
+      "PageID": "8340191",
+      "created": "2011-06-04 09:42:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40809",
+          "lastname": "Loew",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8340191,
+        8340192
+      ]
+    },
+    {
+      "reference_id": "61028",
+      "genre": "article",
+      "title": "Analecta hemipterologica",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "10",
+      "spage": "151",
+      "epage": "172",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0323-6145",
+      "PageID": "8340279",
+      "created": "2010-12-06 11:45:03",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42907",
+          "lastname": "St\u00e5l",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8340279,
+        8340280,
+        8340281,
+        8340282,
+        8340283,
+        8340284,
+        8340285,
+        8340286,
+        8340287,
+        8340288,
+        8340289,
+        8340290,
+        8340291,
+        8340292,
+        8340293,
+        8340294,
+        8340295,
+        8340296,
+        8340297,
+        8340298,
+        8340299,
+        8340300
+      ]
+    },
+    {
+      "reference_id": "65262",
+      "genre": "article",
+      "title": "Analecta Hemipterologica",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "10",
+      "spage": "381",
+      "epage": "394",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0323-6145",
+      "doi": "10.1002\/mmnd.18660100410",
+      "PageID": "8340513",
+      "created": "2011-02-13 13:09:00",
+      "updated": "2012-04-14 19:11:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42907",
+          "lastname": "St\u00e5l",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8340513,
+        8340514,
+        8340515,
+        8340516,
+        8340517,
+        8340518,
+        8340519,
+        8340520,
+        8340521,
+        8340522,
+        8340523,
+        8340524,
+        8340525,
+        8340526
+      ]
+    }
+  ]
+}

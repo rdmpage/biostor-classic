@@ -1,0 +1,38 @@
+{
+  "ItemID": "8678",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1909 v. 56",
+  "articles": [
+    {
+      "reference_id": "14105",
+      "genre": "article",
+      "title": "Notes lich\u00e9nologiques. IX",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "56",
+      "spage": "170",
+      "epage": "175",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0181-1789",
+      "PageID": "327826",
+      "created": "2010-01-14 08:47:01",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10194",
+          "lastname": "Bouly De Lesdain",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        327826,
+        327827,
+        327828,
+        327829,
+        327830,
+        327831
+      ]
+    }
+  ]
+}

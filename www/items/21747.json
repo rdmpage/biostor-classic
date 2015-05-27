@@ -1,0 +1,34 @@
+{
+  "ItemID": "21747",
+  "FullTitle": "The Ohio journal of science.",
+  "VolumeInfo": "v. 17 (1916-1917)",
+  "articles": [
+    {
+      "reference_id": "73086",
+      "genre": "article",
+      "title": "Descriptions of robber flies of the genus Erax",
+      "secondary_title": "Ohio J. Sci",
+      "volume": "17",
+      "spage": "21",
+      "epage": "22",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0030-0950",
+      "PageID": "2906633",
+      "created": "2011-06-04 07:41:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47141",
+          "lastname": "Hine",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        2906633,
+        2906634
+      ]
+    }
+  ]
+}

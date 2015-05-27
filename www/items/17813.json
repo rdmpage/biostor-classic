@@ -1,0 +1,39 @@
+{
+  "ItemID": "17813",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 26 (1912-1913)",
+  "articles": [
+    {
+      "reference_id": "77768",
+      "genre": "article",
+      "title": "Two new Cuban Urocoptidae",
+      "secondary_title": "Nautilus",
+      "volume": "26",
+      "spage": "109",
+      "epage": "110",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0028-1344",
+      "PageID": "1738320",
+      "created": "2011-06-14 10:33:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49379",
+          "lastname": "Pilsbry",
+          "forename": "H H"
+        },
+        {
+          "id": "49380",
+          "lastname": "Henderson",
+          "forename": "B B"
+        }
+      ],
+      "bhl_pages": [
+        1738320,
+        1738321
+      ]
+    }
+  ]
+}

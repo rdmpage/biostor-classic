@@ -1,0 +1,37 @@
+{
+  "ItemID": "19588",
+  "FullTitle": "Magazine of natural history and journal of zoology, botany, mineralogy, geology and meteorology  ",
+  "VolumeInfo": "1 New Series",
+  "articles": [
+    {
+      "reference_id": "65334",
+      "genre": "article",
+      "title": "Description of some singularly formed Orthopterous Insects",
+      "secondary_title": "Magazine of Natural History",
+      "volume": "2",
+      "spage": "141",
+      "epage": "145",
+      "year": "1837",
+      "date": "1837-00-00",
+      "oclc": "7516255",
+      "PageID": "2334489",
+      "created": "2011-02-20 10:30:19",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39342",
+          "lastname": "Gray",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        2334489,
+        2334490,
+        2334491,
+        2334492,
+        2334493
+      ]
+    }
+  ]
+}

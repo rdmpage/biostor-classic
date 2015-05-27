@@ -1,0 +1,97 @@
+{
+  "author": [
+    {
+      "firstname": "D V",
+      "lastname": "Logunov",
+      "name": "D V Logunov"
+    },
+    {
+      "firstname": "G N",
+      "lastname": "Azarkina",
+      "name": "G N Azarkina"
+    }
+  ],
+  "type": "article",
+  "title": "New species and records of Phlegra from Africa (Araneae, Salticidae)",
+  "journal": {
+    "name": "Revue Suisse De Zoologie",
+    "volume": "113",
+    "pages": "727--746",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0035-418X"
+      }
+    ]
+  },
+  "year": "2006",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/115598"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/41227237"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 115598
+    },
+    {
+      "type": "bhl",
+      "id": 41227237
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -5.1,
+        7.8666666666667
+      ],
+      [
+        15.65,
+        18.583333333333
+      ],
+      [
+        -5.9333333333333,
+        6.1333333333333
+      ],
+      [
+        -5.9333333333333,
+        8.2833333333333
+      ],
+      [
+        -14.883333333333,
+        12.816666666667
+      ],
+      [
+        -15.583333333333,
+        13.666666666667
+      ],
+      [
+        32.583333333333,
+        0.31666666666667
+      ],
+      [
+        33.466666666667,
+        0.43333333333333
+      ],
+      [
+        37.783333333333,
+        3.9833333333333
+      ],
+      [
+        15.666666666667,
+        13.75
+      ],
+      [
+        29.7,
+        3.6833333333333
+      ]
+    ]
+  }
+}

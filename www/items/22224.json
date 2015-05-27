@@ -1,0 +1,94 @@
+{
+  "ItemID": "22224",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 15 (1883)",
+  "articles": [
+    {
+      "reference_id": "73662",
+      "genre": "article",
+      "title": "The North American species of Nemestrinidae",
+      "secondary_title": "Can. Ent",
+      "volume": "15",
+      "spage": "69",
+      "epage": "72",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0008-347X",
+      "PageID": "3099035",
+      "created": "2011-06-04 09:33:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        3099035,
+        3099181,
+        3099036,
+        3099037
+      ]
+    },
+    {
+      "reference_id": "72192",
+      "genre": "article",
+      "title": "Correspondence",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "15",
+      "spage": "79",
+      "epage": "80",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "1553087",
+      "PageID": "3099098",
+      "created": "2011-06-04 00:45:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46949",
+          "lastname": "Harrington",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3099098,
+        3099099
+      ]
+    },
+    {
+      "reference_id": "60423",
+      "genre": "article",
+      "title": "Notes on Thripidae, with descriptions of new species",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "15",
+      "spage": "151",
+      "epage": "156",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0008-347X",
+      "PageID": "3099127",
+      "created": "2010-11-23 00:24:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42061",
+          "lastname": "Osborn",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        3099127,
+        3099128,
+        3099013,
+        3099014,
+        3099211,
+        3099212
+      ]
+    }
+  ]
+}

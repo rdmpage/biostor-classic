@@ -1,0 +1,36 @@
+{
+  "ItemID": "97351",
+  "FullTitle": "Bulletin of the Museum of Comparative Zoology at Harvard College.",
+  "VolumeInfo": "v.6 (1879-1880)",
+  "articles": [
+    {
+      "reference_id": "71601",
+      "genre": "article",
+      "title": "On certain species of Chelonioidae",
+      "secondary_title": "Bull. Mus. Comp. Zool. Harvard",
+      "volume": "6",
+      "spage": "123",
+      "epage": "126",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0027-4100",
+      "PageID": "31068798",
+      "created": "2011-06-03 22:11:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        31068798,
+        31068799,
+        31068800,
+        31068801
+      ]
+    }
+  ]
+}

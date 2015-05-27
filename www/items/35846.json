@@ -1,0 +1,38 @@
+{
+  "ItemID": "35846",
+  "FullTitle": "The Entomologist's record and journal of variation.",
+  "VolumeInfo": "v. 26 1914",
+  "articles": [
+    {
+      "reference_id": "58685",
+      "genre": "article",
+      "title": "Variation in the Dermaptera",
+      "secondary_title": "Entomologist's Record and Journal of Variation",
+      "volume": "26",
+      "spage": "213",
+      "epage": "218",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1568053",
+      "PageID": "8930979",
+      "created": "2010-11-20 22:28:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42077",
+          "lastname": "Burr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        8930979,
+        8930980,
+        8930981,
+        8930982,
+        8930983,
+        8930984
+      ]
+    }
+  ]
+}

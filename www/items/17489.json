@@ -1,0 +1,36 @@
+{
+  "ItemID": "17489",
+  "FullTitle": "Biologisches Zentralblatt.",
+  "VolumeInfo": "bd. 12 (1892)",
+  "articles": [
+    {
+      "reference_id": "103936",
+      "genre": "article",
+      "title": "Die periodische Regeneration der oberen K\u00f6rperh\u00e4lfte bei den Diplosomiden",
+      "secondary_title": "Biologisches Zentralblatt",
+      "volume": "12",
+      "spage": "265",
+      "epage": "268",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1536443",
+      "PageID": "1589913",
+      "created": "2012-06-06 14:11:40",
+      "updated": "2012-06-06 14:13:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53813",
+          "lastname": "Oka",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        1589913,
+        1589914,
+        1589915,
+        1589916
+      ]
+    }
+  ]
+}

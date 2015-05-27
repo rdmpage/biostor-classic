@@ -1,0 +1,88 @@
+{
+  "ItemID": "23924",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 7 (1892)",
+  "articles": [
+    {
+      "reference_id": "82641",
+      "genre": "article",
+      "title": "On Carcharodon mortoni Gibbes",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "7",
+      "spage": "151",
+      "epage": "152",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0006-324X",
+      "PageID": "3783359",
+      "created": "2011-07-31 03:36:36",
+      "updated": "2011-07-31 03:36:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49771",
+          "lastname": "Lucas",
+          "forename": "F A"
+        }
+      ],
+      "bhl_pages": [
+        3783359,
+        3783360
+      ]
+    },
+    {
+      "reference_id": "82570",
+      "genre": "article",
+      "title": "The fossil flora of the Bozeman coal field",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "7",
+      "spage": "153",
+      "epage": "154",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0006-324X",
+      "PageID": "3783361",
+      "created": "2011-07-31 03:29:17",
+      "updated": "2011-07-31 03:29:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49700",
+          "lastname": "Knowlton",
+          "forename": "F H"
+        }
+      ],
+      "bhl_pages": [
+        3783361,
+        3783362
+      ]
+    },
+    {
+      "reference_id": "82743",
+      "genre": "article",
+      "title": "Description of a new prairie dog (Cynomys mexicanus) from Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "7",
+      "spage": "157",
+      "epage": "158",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0006-324X",
+      "PageID": "3783365",
+      "created": "2011-07-31 03:44:56",
+      "updated": "2011-07-31 03:44:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50998",
+          "lastname": "Merriam",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        3783365,
+        3783366
+      ]
+    }
+  ]
+}

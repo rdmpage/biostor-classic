@@ -1,0 +1,52 @@
+{
+  "ItemID": "17212",
+  "FullTitle": "Oceanus.",
+  "VolumeInfo": "v. 32, no. 1 (1989)",
+  "articles": [
+    {
+      "reference_id": "81439",
+      "genre": "article",
+      "title": "The Plight of the 'Forgotten' Whales",
+      "secondary_title": "Oceanus",
+      "volume": "32",
+      "issue": "1",
+      "spage": "5",
+      "epage": "13",
+      "year": "1989",
+      "date": "1989-00-00",
+      "issn": "0029-8182",
+      "PageID": "1507974",
+      "created": "2011-07-29 15:56:59",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50769",
+          "lastname": "Brownwell",
+          "forename": "Robert L"
+        },
+        {
+          "id": "50770",
+          "lastname": "Ralls",
+          "forename": "Katherine"
+        },
+        {
+          "id": "50771",
+          "lastname": "Perrin",
+          "forename": "William F"
+        }
+      ],
+      "bhl_pages": [
+        1507974,
+        1507975,
+        1507976,
+        1507977,
+        1507978,
+        1507979,
+        1507980,
+        1507981,
+        1507982
+      ]
+    }
+  ]
+}

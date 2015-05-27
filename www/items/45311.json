@@ -1,0 +1,92 @@
+{
+  "ItemID": "45311",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de Belgique.",
+  "VolumeInfo": "t. 11 1867-68",
+  "articles": [
+    {
+      "reference_id": "69509",
+      "genre": "article",
+      "title": "Additions Et Corrections an Catalogue Raisonn\u00e9 Des Orthopera de Belgique",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de Belgique",
+      "volume": "11",
+      "spage": "23",
+      "epage": "42",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0774-5915",
+      "PageID": "12563593",
+      "created": "2011-06-01 10:29:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46305",
+          "lastname": "",
+          "forename": "Selys-Longchamps"
+        }
+      ],
+      "bhl_pages": [
+        12563593,
+        12563594,
+        12563595,
+        12563596,
+        12563597,
+        12563598,
+        12563599,
+        12563600,
+        12563601,
+        12563602,
+        12563603,
+        12563604,
+        12563605,
+        12563606,
+        12563607,
+        12563608,
+        12563609,
+        12563610,
+        12563611,
+        12563612
+      ]
+    },
+    {
+      "reference_id": "61650",
+      "genre": "article",
+      "title": "Note sur le genre Carenum, Bonelli",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de Belgique",
+      "volume": "11",
+      "spage": "137",
+      "epage": "151",
+      "year": "1868",
+      "date": "1868-00-00",
+      "oclc": "18759618",
+      "PageID": "12563730",
+      "created": "2011-01-10 23:14:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43014",
+          "lastname": "De Chaudoir",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        12563730,
+        12563731,
+        12563732,
+        12563733,
+        12563734,
+        12563735,
+        12563736,
+        12563737,
+        12563738,
+        12563739,
+        12563740,
+        12563741,
+        12563742,
+        12563743,
+        12563744
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "ItemID": "36488",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 28 1892",
+  "articles": [
+    {
+      "reference_id": "67101",
+      "genre": "article",
+      "title": "Neuroptera observed in the Channel Islands in September 1891",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "4",
+      "epage": "6",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1568052",
+      "PageID": "9268412",
+      "created": "2011-05-12 13:21:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9268412,
+        9268413,
+        9268414
+      ]
+    },
+    {
+      "reference_id": "72795",
+      "genre": "article",
+      "title": "Description of three new species of the genus Phanaeus Maclay",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "33",
+      "epage": "35",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1568052",
+      "PageID": "9268443",
+      "created": "2011-06-04 04:09:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47092",
+          "lastname": "Nevinson",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        9268443,
+        9268444,
+        9268445
+      ]
+    },
+    {
+      "reference_id": "67097",
+      "genre": "article",
+      "title": "A list of Neuroptera collected in the island of Guernsey",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "72",
+      "epage": "74",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1568052",
+      "PageID": "9268482",
+      "created": "2011-05-12 13:21:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45453",
+          "lastname": "Luff",
+          "forename": "W A"
+        }
+      ],
+      "bhl_pages": [
+        9268482,
+        9268483,
+        9268484
+      ]
+    },
+    {
+      "reference_id": "60352",
+      "genre": "article",
+      "title": "On new or little known Coccidae, chiefly English (No. 2)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "141",
+      "epage": "147",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9268553",
+      "created": "2010-11-22 23:28:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39855",
+          "lastname": "Newstead",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9268553,
+        9268554,
+        9268555,
+        9268556,
+        9268557,
+        9268558,
+        9268559
+      ]
+    },
+    {
+      "reference_id": "60358",
+      "genre": "article",
+      "title": "Notes on some British and exotic Coccidae (No. 23)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "207",
+      "epage": "209",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9268625",
+      "created": "2010-11-22 23:30:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40123",
+          "lastname": "Douglas",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        9268625,
+        9268626,
+        9268627
+      ]
+    },
+    {
+      "reference_id": "67087",
+      "genre": "article",
+      "title": "Introduction of Raphidia into New Zealand and Australia",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "220",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1568052",
+      "PageID": "9268640",
+      "created": "2011-05-12 13:17:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2073",
+          "lastname": "",
+          "forename": "Anonymous"
+        }
+      ],
+      "bhl_pages": [
+        9268640
+      ]
+    },
+    {
+      "reference_id": "60519",
+      "genre": "article",
+      "title": "Descriptions of two new Pselaphidae found by Mr. J. J. Walker in Australia and China",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "240",
+      "epage": "242",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9268660",
+      "created": "2010-11-23 01:18:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9268660,
+        9268661,
+        9268662
+      ]
+    },
+    {
+      "reference_id": "103859",
+      "genre": "article",
+      "title": "On a new genus and species of Belytidae from New Zealand",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "28",
+      "spage": "275",
+      "epage": "277",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1568052",
+      "PageID": "9268695",
+      "created": "2012-05-30 13:42:53",
+      "updated": "2012-05-30 13:42:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9268695,
+        9268696,
+        9268697
+      ]
+    },
+    {
+      "reference_id": "67107",
+      "genre": "article",
+      "title": "Notes on Trichoptera and Neuroptera from Ireland",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "28",
+      "spage": "301",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "1568052",
+      "PageID": "9268721",
+      "created": "2011-05-12 13:21:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45455",
+          "lastname": "Morton",
+          "forename": "K J"
+        }
+      ],
+      "bhl_pages": [
+        9268721
+      ]
+    }
+  ]
+}

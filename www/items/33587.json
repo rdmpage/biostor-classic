@@ -1,0 +1,92 @@
+{
+  "ItemID": "33587",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 9-10 1928-29",
+  "articles": [
+    {
+      "reference_id": "61807",
+      "genre": "article",
+      "title": "Sinojackia, a New Genus of Styracaceae from Southeastern China",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "9",
+      "spage": "130",
+      "epage": "131",
+      "year": "1928",
+      "date": "1928-00-00",
+      "issn": "0004-2625",
+      "PageID": "8369212",
+      "created": "2011-01-26 18:54:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43171",
+          "lastname": "Hu",
+          "forename": "H H"
+        }
+      ],
+      "bhl_pages": [
+        8369212,
+        8369213
+      ]
+    },
+    {
+      "reference_id": "61760",
+      "genre": "article",
+      "title": "Two new bamboos from New Guinea",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "9",
+      "spage": "144",
+      "epage": "145",
+      "year": "1928",
+      "date": "1928-00-00",
+      "issn": "0004-2625",
+      "PageID": "8369226",
+      "created": "2011-01-26 18:02:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43116",
+          "lastname": "Camus",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8369226,
+        8369227
+      ]
+    },
+    {
+      "reference_id": "62044",
+      "genre": "article",
+      "title": "Orchids collected by J. F. Rock on the Arnold Arboretum expedition to northwestern China and northeastern Tibet",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "10",
+      "spage": "169",
+      "epage": "174",
+      "year": "1929",
+      "date": "1929-00-00",
+      "issn": "0004-2625",
+      "PageID": "8369461",
+      "created": "2011-01-26 19:46:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43262",
+          "lastname": "Schweinfurth",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8369461,
+        8369462,
+        8369463,
+        8369464,
+        8369465,
+        8369466
+      ]
+    }
+  ]
+}

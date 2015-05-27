@@ -1,0 +1,89 @@
+{
+  "ItemID": "39678",
+  "FullTitle": "Bullettino della Societ\u00e0 entomologica italiana.",
+  "VolumeInfo": "v. 16 1884",
+  "articles": [
+    {
+      "reference_id": "72826",
+      "genre": "article",
+      "title": "Nota d'Imenotteri raccolti dal F. Piccioli nei d'intorni di Firenze, colla descrizione di alcune nuove species e di un genere nuovo",
+      "secondary_title": "Bollettino della Societa Entomologica Italiana",
+      "volume": "16",
+      "spage": "97",
+      "epage": "122",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0373-3491",
+      "PageID": "10371783",
+      "created": "2011-06-04 04:22:24",
+      "updated": "2012-02-16 16:48:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47095",
+          "lastname": "Magretti",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        10371783,
+        10371784,
+        10371785,
+        10371786,
+        10371787,
+        10371788,
+        10371789,
+        10371790,
+        10371791,
+        10371792,
+        10371793,
+        10371794,
+        10371795,
+        10371796,
+        10371797,
+        10371798,
+        10371799,
+        10371800,
+        10371801,
+        10371802,
+        10371803,
+        10371804,
+        10371805,
+        10371806,
+        10371807,
+        10371808
+      ]
+    },
+    {
+      "reference_id": "61357",
+      "genre": "article",
+      "title": "La sistematica dei Sarcoptidi",
+      "secondary_title": "Bollettino della Societ\u00e0 Entomologica Italiana",
+      "volume": "16",
+      "spage": "287",
+      "epage": "292",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0373-3491",
+      "PageID": "10371973",
+      "created": "2011-01-10 19:13:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42106",
+          "lastname": "Berlese",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        10371973,
+        10371974,
+        10371975,
+        10371976,
+        10371977,
+        10371978
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "author": [
+    
+  ],
+  "type": "article",
+  "title": "New upland stream frogs of the Eleutherodactylus rugulosus group (Amphibia: Anura: Leptodactylidae) from Honduras",
+  "journal": {
+    "name": "Bulletin Southern California Academy of Sciences",
+    "volume": "87",
+    "pages": "50--56",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0038-3872"
+      }
+    ]
+  },
+  "year": "1988",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/103993"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/34152336"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 103993
+    },
+    {
+      "type": "bhl",
+      "id": 34152336
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -86.783333333333,
+        15.633333333333
+      ],
+      [
+        -88.8,
+        14.5
+      ],
+      [
+        -88.8,
+        14.5
+      ]
+    ]
+  }
+}

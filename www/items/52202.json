@@ -1,0 +1,72 @@
+{
+  "ItemID": "52202",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 75:bd. 1:heft 1-3 - Jahrg. 75:bd. 2:heft 1 ",
+  "articles": [
+    {
+      "reference_id": "71051",
+      "genre": "article",
+      "title": "Lepidoptera von Ober-Guinea und Sudan, gesammelt von Herrn Leo Frobenius",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte (A)",
+      "volume": "75",
+      "spage": "303",
+      "epage": "311",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1481989",
+      "PageID": "15112372",
+      "created": "2011-06-03 17:37:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41987",
+          "lastname": "Strand",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        15112372,
+        15112373,
+        15112374,
+        15112375,
+        15112376,
+        15112377,
+        15112378,
+        15112379,
+        15112380
+      ]
+    },
+    {
+      "reference_id": "51701",
+      "genre": "article",
+      "title": "\u00dcber westafrikanische Hylambates-Arten nebst Beschreibung einer neuen Art",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "75",
+      "spage": "361",
+      "epage": "366",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1481990",
+      "PageID": "15112430",
+      "created": "2010-06-27 03:00:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40225",
+          "lastname": "Nieden",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        15112430,
+        15112431,
+        15112432,
+        15112433,
+        15112434,
+        15112435
+      ]
+    }
+  ]
+}

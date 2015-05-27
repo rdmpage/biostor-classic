@@ -1,0 +1,121 @@
+{
+  "ItemID": "43665",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 50 1917",
+  "articles": [
+    {
+      "reference_id": "60929",
+      "genre": "article",
+      "title": "Some Stephanidae: with descriptions of new species",
+      "secondary_title": "Entomologist",
+      "volume": "50",
+      "spage": "33",
+      "epage": "36",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0013-8878",
+      "PageID": "11932621",
+      "created": "2010-11-26 19:25:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42891",
+          "lastname": "Morley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11932621,
+        11932622,
+        11932623,
+        11932624
+      ]
+    },
+    {
+      "reference_id": "71483",
+      "genre": "article",
+      "title": "Notes on some parasites of sugar-cane insects in Java, with descriptions of new Hymenoptera Chalcidoidea",
+      "secondary_title": "Entomologist",
+      "volume": "50",
+      "spage": "134",
+      "epage": "136",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0013-8878",
+      "PageID": "11932730",
+      "created": "2011-06-03 20:03:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        11932730,
+        11932731,
+        11932732
+      ]
+    },
+    {
+      "reference_id": "103780",
+      "genre": "article",
+      "title": "A new Embidobia from India",
+      "secondary_title": "The Entomologist",
+      "volume": "50",
+      "spage": "152",
+      "epage": "153",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0013-8878",
+      "PageID": "11932750",
+      "created": "2012-05-28 15:14:29",
+      "updated": "2012-05-28 15:14:29",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11932750,
+        11932751
+      ]
+    },
+    {
+      "reference_id": "72803",
+      "genre": "article",
+      "title": "Contributions to our knowledge of the British Braconidae. No. 3. Microgasteridae",
+      "secondary_title": "Entomologist",
+      "volume": "50",
+      "spage": "193",
+      "epage": "201",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0013-8878",
+      "PageID": "11932795",
+      "created": "2011-06-04 04:16:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42501",
+          "lastname": "Lyle",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        11932795,
+        11932796,
+        11932797,
+        11932798,
+        11932799,
+        11932800,
+        11932801,
+        11932802,
+        11932803
+      ]
+    }
+  ]
+}

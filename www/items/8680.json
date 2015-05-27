@@ -1,0 +1,35 @@
+{
+  "ItemID": "8680",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1911 v. 58",
+  "articles": [
+    {
+      "reference_id": "14103",
+      "genre": "article",
+      "title": "Notes lich\u00e9nologiques. XIV",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "58",
+      "spage": "660",
+      "epage": "662",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0181-1789",
+      "PageID": "330458",
+      "created": "2010-01-14 08:36:47",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10194",
+          "lastname": "Bouly De Lesdain",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        330458,
+        330459,
+        330460
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ItemID": "39619",
+  "FullTitle": "Entomologische Rundschau.  ",
+  "VolumeInfo": "jahrg. 30-31 1913-14",
+  "articles": [
+    {
+      "reference_id": "102421",
+      "genre": "article",
+      "title": "Mallophagen. 1. Beitrag: Neue formen von S\u00e4ugetieren (Trichophilopterus und Eurytrichodectes nn. gen.)",
+      "secondary_title": "Entomologische Rundschau",
+      "volume": "30",
+      "spage": "105",
+      "epage": "106",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "27025673",
+      "PageID": "10354935",
+      "created": "2012-04-24 16:10:33",
+      "updated": "2012-04-24 16:10:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53676",
+          "lastname": "Stobbe",
+          "forename": "Rudolf"
+        }
+      ],
+      "bhl_pages": [
+        10354935,
+        10354936
+      ]
+    },
+    {
+      "reference_id": "102422",
+      "genre": "article",
+      "title": "Mallophagen. 1. Beitrag: Neue formen von S\u00e4ugetieren (Trichophilopterus und Eurytrichodectes nn. gen.)",
+      "secondary_title": "Entomologische Rundschau",
+      "volume": "30",
+      "spage": "111",
+      "epage": "112",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "27025673",
+      "PageID": "10354941",
+      "created": "2012-04-24 16:11:39",
+      "updated": "2012-04-24 16:11:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53676",
+          "lastname": "Stobbe",
+          "forename": "Rudolf"
+        }
+      ],
+      "bhl_pages": [
+        10354941,
+        10354942
+      ]
+    }
+  ]
+}

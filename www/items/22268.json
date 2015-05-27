@@ -1,0 +1,43 @@
+{
+  "ItemID": "22268",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 25 (1900)",
+  "articles": [
+    {
+      "reference_id": "57598",
+      "genre": "article",
+      "title": "Notice sur les anthozoaires des cotes de la Corse",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "25",
+      "spage": "125",
+      "epage": "135",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0037-962X",
+      "PageID": "3119021",
+      "created": "2010-11-20 14:07:27",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42099",
+          "lastname": "Roule",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        3119021,
+        3119022,
+        3118893,
+        3119023,
+        3119024,
+        3118953,
+        3119097,
+        3119098,
+        3119025,
+        3118954,
+        3119099
+      ]
+    }
+  ]
+}

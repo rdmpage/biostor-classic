@@ -1,0 +1,597 @@
+{
+  "ItemID": "17888",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 6 (1852-1853)",
+  "articles": [
+    {
+      "reference_id": "60573",
+      "genre": "article",
+      "title": "Synopsis of the Eucnemides of temperate North America",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "45",
+      "epage": "49",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779581",
+      "created": "2010-11-23 02:04:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42828",
+          "lastname": "Leconte",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        1779581,
+        1779582,
+        1779583,
+        1779584,
+        1779585
+      ]
+    },
+    {
+      "reference_id": "69369",
+      "genre": "article",
+      "title": "Remarks on some Coleopterous insects collected by S. W. Woodhouse, M. D., in Missouri Territory and New Mexico",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "65",
+      "epage": "68",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779601",
+      "created": "2011-06-01 08:50:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46249",
+          "lastname": "Lawrence",
+          "forename": "Leconte John"
+        }
+      ],
+      "bhl_pages": [
+        1779601,
+        1779602,
+        1779603,
+        1779604
+      ]
+    },
+    {
+      "reference_id": "49072",
+      "genre": "article",
+      "title": "Characteristics of some new reptiles in the Museum of the Smithsonian Institution",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "6",
+      "spage": "68",
+      "epage": "70",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779604",
+      "created": "2010-03-21 11:11:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39367",
+          "lastname": "Baird",
+          "forename": "S F"
+        },
+        {
+          "id": "39356",
+          "lastname": "Girard",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1779604,
+        1779605,
+        1779606
+      ]
+    },
+    {
+      "reference_id": "60140",
+      "genre": "article",
+      "title": "Conspectus Crustaceorum, etc. Conspectus of the Crustacea of the Exploring Expedition under Capt Wilkes, U.S.N., including the Crustacea Cancroidea Corystoidea",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "73",
+      "epage": "86",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779609",
+      "created": "2010-11-22 19:49:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2398",
+          "lastname": "Dana",
+          "forename": "J D"
+        }
+      ],
+      "bhl_pages": [
+        1779609,
+        1779610,
+        1779611,
+        1779612,
+        1779613,
+        1779614,
+        1779615,
+        1779616,
+        1779617,
+        1779618,
+        1779619,
+        1779620,
+        1779621,
+        1779622
+      ]
+    },
+    {
+      "reference_id": "49070",
+      "genre": "article",
+      "title": "Characteristics of some new reptiles in the Museum of the Smithsonian Institution, part 2",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "6",
+      "spage": "125",
+      "epage": "129",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779661",
+      "created": "2010-03-21 11:10:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39367",
+          "lastname": "Baird",
+          "forename": "S F"
+        },
+        {
+          "id": "39356",
+          "lastname": "Girard",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1779661,
+        1779662,
+        1779663,
+        1779664,
+        1779665
+      ]
+    },
+    {
+      "reference_id": "49066",
+      "genre": "article",
+      "title": "Descriptions of new species of reptiles, collected by the U.S. exploring expedition under the command of Capt. Charles Wilkes, U.S.N. First part. - Including the species from the Western coast of America",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "6",
+      "spage": "174",
+      "epage": "177",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779710",
+      "created": "2010-03-21 11:10:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39367",
+          "lastname": "Baird",
+          "forename": "S F"
+        },
+        {
+          "id": "39356",
+          "lastname": "Girard",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1779710,
+        1779711,
+        1779712,
+        1779713
+      ]
+    },
+    {
+      "reference_id": "49185",
+      "genre": "article",
+      "title": "Descriptions of new species of reptiles inhabiting North America",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "6",
+      "spage": "177",
+      "epage": "182",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779713",
+      "created": "2010-03-21 11:58:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1779713,
+        1779714,
+        1779715,
+        1779716,
+        1779717,
+        1779718
+      ]
+    },
+    {
+      "reference_id": "51988",
+      "genre": "article",
+      "title": "Descriptions of new species of reptiles from Oregon",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "182",
+      "epage": "183",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779718",
+      "created": "2010-06-27 13:26:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1779718,
+        1779719
+      ]
+    },
+    {
+      "reference_id": "49263",
+      "genre": "article",
+      "title": "On a new genus and two new species of African serpents",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1852",
+      "spage": "203",
+      "epage": "205",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779739",
+      "created": "2010-03-21 12:36:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1779739,
+        1779740,
+        1779741
+      ]
+    },
+    {
+      "reference_id": "51948",
+      "genre": "article",
+      "title": "On a new genus and three new species of reptiles inhabiting North America",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "206",
+      "epage": "209",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779742",
+      "created": "2010-06-27 11:26:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1779742,
+        1779743,
+        1779744,
+        1779745
+      ]
+    },
+    {
+      "reference_id": "59692",
+      "genre": "article",
+      "title": "A synopsis of the family of naiades of North America with notes, etc",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "243",
+      "epage": "269",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779779",
+      "created": "2010-11-22 15:32:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42666",
+          "lastname": "Conrad",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        1779779,
+        1779780,
+        1779781,
+        1779782,
+        1779783,
+        1779784,
+        1779785,
+        1779786,
+        1779787,
+        1779788,
+        1779789,
+        1779790,
+        1779791,
+        1779792,
+        1779793,
+        1779794,
+        1779795,
+        1779796,
+        1779797,
+        1779798,
+        1779799,
+        1779800,
+        1779801,
+        1779802,
+        1779803,
+        1779804,
+        1779805
+      ]
+    },
+    {
+      "reference_id": "60499",
+      "genre": "article",
+      "title": "Synopsis of the species of the histeroid genus Abraeus (Leach) inhabiting the United States, with descriptions of two nearly allied new genera",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "287",
+      "epage": "292",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779823",
+      "created": "2010-11-23 01:10:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42828",
+          "lastname": "Leconte",
+          "forename": "J L"
+        }
+      ],
+      "bhl_pages": [
+        1779823,
+        1779824,
+        1779825,
+        1779826,
+        1779827,
+        1779828
+      ]
+    },
+    {
+      "reference_id": "51838",
+      "genre": "article",
+      "title": "List of reptiles collected in California by Dr. John L. Le Conte, with description of new species",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "300",
+      "epage": "302",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779836",
+      "created": "2010-06-27 08:09:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39367",
+          "lastname": "Baird",
+          "forename": "S F"
+        },
+        {
+          "id": "40270",
+          "lastname": "Girard",
+          "forename": "And C"
+        }
+      ],
+      "bhl_pages": [
+        1779836,
+        1779837,
+        1779838
+      ]
+    },
+    {
+      "reference_id": "69370",
+      "genre": "article",
+      "title": "Descriptions of some new species of insects, with observations on described species",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "361",
+      "epage": "365",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779897",
+      "created": "2011-06-01 08:50:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46254",
+          "lastname": "S.s.",
+          "forename": "Haldeman"
+        }
+      ],
+      "bhl_pages": [
+        1779897,
+        1779898,
+        1779899,
+        1779900,
+        1779901
+      ]
+    },
+    {
+      "reference_id": "67144",
+      "genre": "article",
+      "title": "Descriptions of some new fishes from the River Zuni",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "368",
+      "epage": "369",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779904",
+      "created": "2011-05-19 07:39:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39367",
+          "lastname": "Baird",
+          "forename": "S F"
+        },
+        {
+          "id": "45466",
+          "lastname": "Girard",
+          "forename": "Charles F"
+        }
+      ],
+      "bhl_pages": [
+        1779904,
+        1779905
+      ]
+    },
+    {
+      "reference_id": "50263",
+      "genre": "article",
+      "title": "Untitled",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "378",
+      "epage": "379",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779914",
+      "created": "2010-04-30 15:24:25",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39367",
+          "lastname": "Baird",
+          "forename": "S F"
+        },
+        {
+          "id": "39356",
+          "lastname": "Girard",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1779914,
+        1779915
+      ]
+    },
+    {
+      "reference_id": "59890",
+      "genre": "article",
+      "title": "Descriptions of new species of reptiles, collected by the U.S. Exploring Expedition, under the command of Capt. Charles Wilkes, U.S.N. Second Part. Including the species of batrachians, exotic to North America",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "420",
+      "epage": "424",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779956",
+      "created": "2010-11-22 16:45:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39356",
+          "lastname": "Girard",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1779956,
+        1779957,
+        1779958,
+        1779959,
+        1779960
+      ]
+    },
+    {
+      "reference_id": "69371",
+      "genre": "article",
+      "title": "Descriptions of some new Coleoptera from Texas, chiefly collected by the Mexican Boundary Commission",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "6",
+      "spage": "439",
+      "epage": "448",
+      "year": "1853",
+      "date": "1853-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779975",
+      "created": "2011-06-01 08:51:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46256",
+          "lastname": "J.l.",
+          "forename": "Leconte"
+        }
+      ],
+      "bhl_pages": [
+        1779975,
+        1779976,
+        1779977,
+        1779978,
+        1779979,
+        1779980,
+        1779981,
+        1779982,
+        1779983,
+        1779984
+      ]
+    }
+  ]
+}

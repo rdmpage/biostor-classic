@@ -1,0 +1,41 @@
+{
+  "ItemID": "106620",
+  "FullTitle": "Bulletin of the Southern California Academy of Sciences",
+  "VolumeInfo": "v.84 no.1 1985",
+  "articles": [
+    {
+      "reference_id": "104005",
+      "genre": "article",
+      "title": "A new species of Pseudeurythoe (Polychaeta: Amphinomidae) from central California",
+      "secondary_title": "Bulletin Southern California Academy of Sciences",
+      "volume": "84",
+      "issue": "1",
+      "spage": "38",
+      "epage": "40",
+      "year": "1985",
+      "date": "1985-00-00",
+      "issn": "0038-3872",
+      "PageID": "34192388",
+      "created": "2012-06-07 08:37:05",
+      "updated": "2012-06-07 08:37:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53816",
+          "lastname": "Kudenov",
+          "forename": "Jerry D"
+        },
+        {
+          "id": "4733",
+          "lastname": "Blake",
+          "forename": "James A"
+        }
+      ],
+      "bhl_pages": [
+        34192388,
+        34192389,
+        34192390
+      ]
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "ItemID": "53354",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "6th ser. v. 14 (1894)",
+  "articles": [
+    {
+      "reference_id": "87946",
+      "genre": "article",
+      "title": "I.\u2014On Lepidosiren paradoxa, Fitzinger, and Lepidosiren articulata, sp. n., from Paraguay",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "1",
+      "epage": "8",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677755",
+      "PageID": "15625818",
+      "created": "2011-09-23 12:29:07",
+      "updated": "2011-09-23 12:29:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51538",
+          "lastname": "Ehlers",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        15625818,
+        15625819,
+        15625820,
+        15625821,
+        15625822,
+        15625823,
+        15625824,
+        15625825
+      ]
+    },
+    {
+      "reference_id": "88457",
+      "genre": "article",
+      "title": "V.\u2014Descriptions of some new species of Agaristid\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "21",
+      "epage": "24",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677759",
+      "PageID": "15625838",
+      "created": "2011-09-23 13:25:43",
+      "updated": "2011-09-23 13:25:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40147",
+          "lastname": "Druce",
+          "forename": "Herbert"
+        }
+      ],
+      "bhl_pages": [
+        15625838,
+        15625839,
+        15625840,
+        15625841
+      ]
+    },
+    {
+      "reference_id": "88503",
+      "genre": "article",
+      "title": "VIII.\u2014On a Medusa observed by Dr. Tautain in the river Niger at Bamakou (French Soudan)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "29",
+      "epage": "34",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677762",
+      "PageID": "15625846",
+      "created": "2011-09-23 13:32:14",
+      "updated": "2011-09-23 13:32:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51691",
+          "lastname": "Jules De Guerne",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        15625846,
+        15625847,
+        15625848,
+        15625849,
+        15625850,
+        15625851
+      ]
+    },
+    {
+      "reference_id": "88189",
+      "genre": "article",
+      "title": "Miscellaneous",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "72",
+      "epage": "74",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677768",
+      "PageID": "15625889",
+      "created": "2011-09-23 12:53:39",
+      "updated": "2011-09-23 12:53:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "486",
+          "lastname": "Rathbun",
+          "forename": "Mary J"
+        }
+      ],
+      "bhl_pages": [
+        15625889,
+        15625890,
+        15625891
+      ]
+    },
+    {
+      "reference_id": "88421",
+      "genre": "article",
+      "title": "The dipterous parasites (Sarcophagid\u00e6) of locusts.\u2014Apteny and parasitic sterilization",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "74",
+      "epage": "76",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677769",
+      "PageID": "15625891",
+      "created": "2011-09-23 13:20:21",
+      "updated": "2011-09-23 13:20:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51673",
+          "lastname": "D'herculais",
+          "forename": "M J K\u00fcnchel"
+        }
+      ],
+      "bhl_pages": [
+        15625891,
+        15625892,
+        15625893
+      ]
+    },
+    {
+      "reference_id": "88422",
+      "genre": "article",
+      "title": "The distribution of Coccid\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "76",
+      "epage": "80",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677770",
+      "PageID": "15625893",
+      "created": "2011-09-23 13:20:27",
+      "updated": "2011-09-23 13:20:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        15625893,
+        15625894,
+        15625895,
+        15625896,
+        15625897
+      ]
+    },
+    {
+      "reference_id": "21243",
+      "genre": "article",
+      "title": "On the herpetological fauna of Palawan and Balabac",
+      "secondary_title": "Ann. Mag. nat. Hist.",
+      "volume": "14",
+      "series": "6",
+      "spage": "81",
+      "epage": "90",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "PageID": "15625900",
+      "created": "2010-02-16 09:58:05",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15625900,
+        15625901,
+        15625902,
+        15625903,
+        15625904,
+        15625905,
+        15625906,
+        15625907,
+        15625908,
+        15625909
+      ]
+    },
+    {
+      "reference_id": "88713",
+      "genre": "article",
+      "title": "XV.\u2014Descriptions of fifteen new species of south-African terrestrial mollusca",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "90",
+      "epage": "95",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677773",
+      "PageID": "15625909",
+      "created": "2011-09-23 14:04:20",
+      "updated": "2011-09-23 14:04:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40069",
+          "lastname": "Melvill",
+          "forename": "James Cosmo"
+        },
+        {
+          "id": "51307",
+          "lastname": "Ponsonby",
+          "forename": "John Henry"
+        }
+      ],
+      "bhl_pages": [
+        15625909,
+        15625910,
+        15625911,
+        15625912,
+        15625913,
+        15625914
+      ]
+    },
+    {
+      "reference_id": "20387",
+      "genre": "article",
+      "title": "Description of a new siluroid fish from Burma",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "196",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "PageID": "15626017",
+      "created": "2010-02-09 16:21:49",
+      "updated": "2011-09-21 17:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15626017
+      ]
+    },
+    {
+      "reference_id": "87900",
+      "genre": "article",
+      "title": "Branchiate pulmonates",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "236",
+      "epage": "236",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677798",
+      "PageID": "15626057",
+      "created": "2011-09-23 12:24:49",
+      "updated": "2011-09-23 12:24:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51529",
+          "lastname": "Pelseneer",
+          "forename": "M Paul"
+        }
+      ],
+      "bhl_pages": [
+        15626057
+      ]
+    },
+    {
+      "reference_id": "88607",
+      "genre": "article",
+      "title": "XLI.\u2014On Euskelesaurus Brownii (Huxley)",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "317",
+      "epage": "340",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677811",
+      "PageID": "15626142",
+      "created": "2011-09-23 13:47:57",
+      "updated": "2011-09-23 13:47:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51294",
+          "lastname": "Seeley",
+          "forename": "H G"
+        }
+      ],
+      "bhl_pages": [
+        15626142,
+        15626143,
+        15626144,
+        15626145,
+        15626146,
+        15626147,
+        15626148,
+        15626149,
+        15626150,
+        15626151,
+        15626152,
+        15626153,
+        15626154,
+        15626155,
+        15626156,
+        15626157,
+        15626158,
+        15626159,
+        15626160,
+        15626161,
+        15626162,
+        15626163,
+        15626164,
+        15626165
+      ]
+    },
+    {
+      "reference_id": "49015",
+      "genre": "article",
+      "title": "Description of a new Anolis from Antigua, West Indies",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "14",
+      "series": "6",
+      "spage": "375",
+      "epage": "376",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "PageID": "15626200",
+      "created": "2010-03-21 10:57:39",
+      "updated": "2011-09-21 17:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15626200,
+        15626201
+      ]
+    },
+    {
+      "reference_id": "88709",
+      "genre": "article",
+      "title": "XLVIII.\u2014On two new species of Agamoid lizards from the Hadramut, South-eastern Arabia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "376",
+      "epage": "378",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677818",
+      "PageID": "15626201",
+      "created": "2011-09-23 14:03:37",
+      "updated": "2011-09-23 14:03:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51363",
+          "lastname": "Anderson",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        15626201,
+        15626202,
+        15626203
+      ]
+    },
+    {
+      "reference_id": "88652",
+      "genre": "article",
+      "title": "XLIX.\u2014Descriptions of new Coleoptera from New Zealand",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "379",
+      "epage": "386",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677819",
+      "PageID": "15626204",
+      "created": "2011-09-23 13:54:10",
+      "updated": "2011-09-23 13:54:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51465",
+          "lastname": "Broun",
+          "forename": "Thos"
+        }
+      ],
+      "bhl_pages": [
+        15626204,
+        15626205,
+        15626206,
+        15626207,
+        15626208,
+        15626209,
+        15626210,
+        15626211
+      ]
+    },
+    {
+      "reference_id": "88428",
+      "genre": "article",
+      "title": "The faunal regions of Australia",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "390",
+      "epage": "392",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677821",
+      "PageID": "15626215",
+      "created": "2011-09-23 13:21:05",
+      "updated": "2011-09-23 13:21:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41002",
+          "lastname": "Hedley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        15626215,
+        15626216,
+        15626217
+      ]
+    },
+    {
+      "reference_id": "88029",
+      "genre": "article",
+      "title": "LII.\u2014On some new Longicorn Coleoptera obtained by Mr. Th. Greenfield in Somali",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "407",
+      "epage": "411",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677827",
+      "PageID": "15626234",
+      "created": "2011-09-23 12:37:28",
+      "updated": "2011-09-23 12:37:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40837",
+          "lastname": "Gahan",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        15626234,
+        15626235,
+        15626236,
+        15626237,
+        15626238
+      ]
+    },
+    {
+      "reference_id": "88068",
+      "genre": "article",
+      "title": "LIX.\u2014Descriptions of two new bats of the genus Kerivoula",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "460",
+      "epage": "462",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677834",
+      "PageID": "15626287",
+      "created": "2011-09-23 12:42:05",
+      "updated": "2011-09-23 12:42:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        15626287,
+        15626288,
+        15626289
+      ]
+    },
+    {
+      "reference_id": "49258",
+      "genre": "article",
+      "title": "Description of a new lizard and a new fish obtained in Formosa by Mr. Holst",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "14",
+      "series": "6",
+      "spage": "462",
+      "epage": "463",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "PageID": "15626289",
+      "created": "2010-03-21 12:35:31",
+      "updated": "2011-09-21 17:05:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15626289,
+        15626290
+      ]
+    },
+    {
+      "reference_id": "87892",
+      "genre": "article",
+      "title": "Bibliographical notice",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "463",
+      "epage": "464",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677836",
+      "PageID": "15626290",
+      "created": "2011-09-23 12:23:56",
+      "updated": "2011-09-23 12:23:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        15626290,
+        15626291
+      ]
+    },
+    {
+      "reference_id": "88208",
+      "genre": "article",
+      "title": "Note on the Japanese species of Cistelid\u00e6 and Melandryid\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "14",
+      "series": "6",
+      "spage": "466",
+      "epage": "466",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222939408677839",
+      "PageID": "15626293",
+      "created": "2011-09-23 12:55:27",
+      "updated": "2011-09-23 12:55:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        15626293
+      ]
+    }
+  ]
+}

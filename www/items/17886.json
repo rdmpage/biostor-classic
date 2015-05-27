@@ -1,0 +1,69 @@
+{
+  "ItemID": "17886",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 1 (1841-1843)",
+  "articles": [
+    {
+      "reference_id": "49056",
+      "genre": "article",
+      "title": "Description of a new species of Chameleon from Western African",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philad.",
+      "volume": "1841",
+      "spage": "111",
+      "epage": "115",
+      "year": "1844",
+      "date": "1844-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779213",
+      "created": "2010-03-21 11:08:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39346",
+          "lastname": "Hallowell",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1779213,
+        1779214,
+        1779215,
+        1779216,
+        1779217
+      ]
+    },
+    {
+      "reference_id": "69366",
+      "genre": "article",
+      "title": "Description of North American species of Coleoptera, presumed to be undescribed",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1",
+      "spage": "298",
+      "epage": "304",
+      "year": "1843",
+      "date": "1843-00-00",
+      "issn": "0097-3157",
+      "PageID": "1779398",
+      "created": "2011-06-01 08:50:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46254",
+          "lastname": "S.s.",
+          "forename": "Haldeman"
+        }
+      ],
+      "bhl_pages": [
+        1779398,
+        1779399,
+        1779400,
+        1779401,
+        1779402,
+        1779403,
+        1779404
+      ]
+    }
+  ]
+}

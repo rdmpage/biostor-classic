@@ -1,0 +1,109 @@
+{
+  "ItemID": "22778",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.34 (1901)",
+  "articles": [
+    {
+      "reference_id": "57718",
+      "genre": "article",
+      "title": "On a small collection of Diptera from the southern islands of New Zealand",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "34",
+      "spage": "169",
+      "epage": "175",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1778777",
+      "PageID": "3306653",
+      "created": "2010-11-20 14:42:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40768",
+          "lastname": "Hutton",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        3306653,
+        3307037,
+        3306743,
+        3306744,
+        3307038,
+        3306629,
+        3307039
+      ]
+    },
+    {
+      "reference_id": "53156",
+      "genre": "article",
+      "title": "Additions to the Diptera fauna of New Zealand",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "34",
+      "spage": "179",
+      "epage": "196",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1778777",
+      "PageID": "3306747",
+      "created": "2010-10-26 16:50:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40768",
+          "lastname": "Hutton",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        3306747,
+        3307041,
+        3307042,
+        3307043,
+        3306570,
+        3306748,
+        3306749,
+        3306588,
+        3306750,
+        3306632,
+        3306621,
+        3306661,
+        3307044,
+        3307045,
+        3306751,
+        3307046,
+        3306752,
+        3306753
+      ]
+    },
+    {
+      "reference_id": "57758",
+      "genre": "article",
+      "title": "On a new polynoid (Polynoe comma n.sp.)",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "34",
+      "spage": "241",
+      "epage": "242",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1778777",
+      "PageID": "3307060",
+      "created": "2010-11-20 14:49:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42103",
+          "lastname": "Thomson",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        3307060,
+        3306772
+      ]
+    }
+  ]
+}

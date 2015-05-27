@@ -1,0 +1,190 @@
+{
+  "ItemID": "44366",
+  "FullTitle": "Russkoe entomologicheskoe obozrenie = Revue russe d'entomologie.",
+  "VolumeInfo": "t. 13 1913",
+  "articles": [
+    {
+      "reference_id": "71091",
+      "genre": "article",
+      "title": "Notes on Pteromalidae (Hymenoptera, Chalcidoidea)",
+      "secondary_title": "Russkoe Entomologicheskoe Obozrenie",
+      "volume": "13",
+      "spage": "1",
+      "epage": "24",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "8096567",
+      "PageID": "12184956",
+      "created": "2011-06-03 17:40:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42389",
+          "lastname": "Kurdjumov",
+          "forename": "N V"
+        }
+      ],
+      "bhl_pages": [
+        12184956,
+        12184955,
+        12184954,
+        12184953,
+        12184952,
+        12184951,
+        12184950,
+        12184949,
+        12184948,
+        12184947,
+        12184946,
+        12184945,
+        12184944,
+        12184943,
+        12184942,
+        12184909,
+        12184910,
+        12184911,
+        12184912,
+        12184913,
+        12184914,
+        12184915,
+        12184916,
+        12184917
+      ]
+    },
+    {
+      "reference_id": "70998",
+      "genre": "article",
+      "title": "F\u00fcnfter Beitrag zur Kenntnis der Aphodiini",
+      "secondary_title": "Russkoe Entomologicheskoe Obozrenie",
+      "volume": "13",
+      "spage": "257",
+      "epage": "265",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "8096567",
+      "PageID": "12185177",
+      "created": "2011-06-03 17:12:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46705",
+          "lastname": "Koshantschikov",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        12185177,
+        12185178,
+        12185179,
+        12185180,
+        12185181,
+        12185182,
+        12185183,
+        12185184,
+        12185185
+      ]
+    },
+    {
+      "reference_id": "58620",
+      "genre": "article",
+      "title": "Notes on European species of the genus Aphelinus Dalm., parasitic upon the plant-lice",
+      "secondary_title": "Russkoe Entomologicheskoe Obozrenie",
+      "volume": "13",
+      "spage": "266",
+      "epage": "270",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "8096567",
+      "PageID": "12185186",
+      "created": "2010-11-20 22:14:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42389",
+          "lastname": "Kurdjumov",
+          "forename": "N V"
+        }
+      ],
+      "bhl_pages": [
+        12185186,
+        12185187,
+        12185188,
+        12185189,
+        12185190
+      ]
+    },
+    {
+      "reference_id": "53225",
+      "genre": "article",
+      "title": "Sur les Dipteres du genre Chionea Dalm. observes en Russie (Diptera, Limoniidae)",
+      "secondary_title": "Entomologicheskoe Obozrenie",
+      "volume": "13",
+      "spage": "308",
+      "epage": "322",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "8096567",
+      "PageID": "12185228",
+      "created": "2010-10-26 17:14:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40795",
+          "lastname": "Boldyrev",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        12185228,
+        12185229,
+        12185230,
+        12185231,
+        12185232,
+        12185233,
+        12185234,
+        12185235,
+        12185236,
+        12185237,
+        12185238,
+        12185239,
+        12185240,
+        12185241,
+        12185242
+      ]
+    },
+    {
+      "reference_id": "71280",
+      "genre": "article",
+      "title": "[Contribution \u00e0 la faune des myriopodes du gouvernement de Smolensk]",
+      "secondary_title": "Entomologicheskoe Obozrenie",
+      "volume": "13",
+      "spage": "501",
+      "epage": "505",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "8096567",
+      "PageID": "12185425",
+      "created": "2011-06-03 18:22:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46788",
+          "lastname": "Muralewitsch",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        12185425,
+        12185426,
+        12185427,
+        12185428,
+        12185429
+      ]
+    }
+  ]
+}

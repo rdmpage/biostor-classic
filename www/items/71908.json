@@ -1,0 +1,916 @@
+{
+  "ItemID": "71908",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "8th ser. v. 7 (1911)",
+  "articles": [
+    {
+      "reference_id": "66634",
+      "genre": "article",
+      "title": "The anatomy and classification of the teleostean fishes of the orders Berycomorphi and Xenoberyces",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "1",
+      "epage": "9",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22097985",
+      "created": "2011-05-08 00:39:22",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        22097985,
+        22097984,
+        22097983,
+        22097982,
+        22097981,
+        22097948,
+        22097949,
+        22097950,
+        22097951
+      ]
+    },
+    {
+      "reference_id": "69659",
+      "genre": "article",
+      "title": "Descriptions of new reptiles from the Andes of South America, preserved in the British Museum",
+      "secondary_title": "Annals and Magazine of Natural History ser. 8",
+      "volume": "7",
+      "spage": "19",
+      "epage": "25",
+      "year": "1911",
+      "date": "1911-00-00",
+      "PageID": "22097961",
+      "created": "2011-06-01 10:56:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        22097961,
+        22097962,
+        22097963,
+        22097964,
+        22097965,
+        22097966,
+        22097967
+      ]
+    },
+    {
+      "reference_id": "98911",
+      "genre": "article",
+      "title": "Two new genera of starfishes",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "7",
+      "spage": "89",
+      "epage": "92",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692907",
+      "PageID": "22098050",
+      "created": "2011-12-05 22:12:00",
+      "updated": "2011-12-05 22:12:00",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098050,
+        22098051,
+        22098052,
+        22098053
+      ]
+    },
+    {
+      "reference_id": "98916",
+      "genre": "article",
+      "title": "Some new Curculioninae from Central and South America",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "7",
+      "spage": "94",
+      "epage": "98",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692909",
+      "PageID": "22098055",
+      "created": "2011-12-05 22:12:52",
+      "updated": "2011-12-05 22:12:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098055,
+        22098056,
+        22098057,
+        22098058,
+        22098059
+      ]
+    },
+    {
+      "reference_id": "60786",
+      "genre": "article",
+      "title": "New species of Diploptera in the collection of the British Museum. iii",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "98",
+      "epage": "113",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098059",
+      "created": "2010-11-23 04:40:01",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42315",
+          "lastname": "Meade-Waldo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        22098059,
+        22098060,
+        22098061,
+        22098062,
+        22098063,
+        22098064,
+        22098065,
+        22098066,
+        22098067,
+        22098068,
+        22098069,
+        22098070,
+        22098071,
+        22098072,
+        22098073,
+        22098074
+      ]
+    },
+    {
+      "reference_id": "58444",
+      "genre": "article",
+      "title": "The anatomy and classification of the teleostean fishes of the order Iniomi",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "120",
+      "epage": "133",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098081",
+      "created": "2010-11-20 21:07:13",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        22098081,
+        22098082,
+        22098083,
+        22098084,
+        22098085,
+        22098086,
+        22098087,
+        22098088,
+        22098089,
+        22098090,
+        22098091,
+        22098092,
+        22098093,
+        22098094
+      ]
+    },
+    {
+      "reference_id": "66642",
+      "genre": "article",
+      "title": "A synopsis of the marsipobranchs of the order Hyperoartii",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "193",
+      "epage": "204",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098154",
+      "created": "2011-05-08 00:44:21",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        22098154,
+        22098155,
+        22098156,
+        22098157,
+        22098158,
+        22098159,
+        22098160,
+        22098161,
+        22098162,
+        22098163,
+        22098164,
+        22098165
+      ]
+    },
+    {
+      "reference_id": "97681",
+      "genre": "article",
+      "title": "Description of a new genus of Molossine Bats from West Africa",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "210",
+      "epage": "212",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098171",
+      "created": "2011-10-25 12:04:00",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098171,
+        22098172,
+        22098173
+      ]
+    },
+    {
+      "reference_id": "66611",
+      "genre": "article",
+      "title": "Descriptions of three new characinid fishes from south-western Colombia",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "212",
+      "epage": "213",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098173",
+      "created": "2011-05-07 23:50:50",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        22098173,
+        22098174
+      ]
+    },
+    {
+      "reference_id": "66620",
+      "genre": "article",
+      "title": "Descriptions of two new tetragonopterid fishes in the British Museum",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "215",
+      "epage": "216",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098176",
+      "created": "2011-05-08 00:30:20",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10214",
+          "lastname": "Eigenmann",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        22098176,
+        22098177
+      ]
+    },
+    {
+      "reference_id": "97674",
+      "genre": "article",
+      "title": "Scorpions and Solifugae collected by Captain S. S. Flower in the Anglo-Egyptian Sudan",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "217",
+      "epage": "222",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098178",
+      "created": "2011-10-25 12:02:28",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098178,
+        22098179,
+        22098180,
+        22098181,
+        22098182,
+        22098183
+      ]
+    },
+    {
+      "reference_id": "98921",
+      "genre": "article",
+      "title": "Notes on the cocoons and descriptions of four new species of the genus Trichostibas",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "7",
+      "spage": "237",
+      "epage": "241",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692934",
+      "PageID": "22098198",
+      "created": "2011-12-05 22:14:17",
+      "updated": "2011-12-05 22:14:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098198,
+        22098199,
+        22098200,
+        22098201,
+        22098202
+      ]
+    },
+    {
+      "reference_id": "98817",
+      "genre": "article",
+      "title": "Descriptions of some new species of Heterocera from tropical South America, and two new species of Geometridae from West Africa",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "7",
+      "spage": "287",
+      "epage": "293",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692938",
+      "PageID": "22098248",
+      "created": "2011-12-05 21:09:25",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098248,
+        22098249,
+        22098250,
+        22098251,
+        22098252,
+        22098253,
+        22098254
+      ]
+    },
+    {
+      "reference_id": "58397",
+      "genre": "article",
+      "title": "Descriptions and records of bees. XXXV",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "310",
+      "epage": "319",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098271",
+      "created": "2010-11-20 20:58:12",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        22098271,
+        22098272,
+        22098273,
+        22098274,
+        22098275,
+        22098276,
+        22098277,
+        22098278,
+        22098279,
+        22098280
+      ]
+    },
+    {
+      "reference_id": "66618",
+      "genre": "article",
+      "title": "XXXV.\u2014The osteology and classification of the teleostean fishes of the order Microcyprini",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "320",
+      "epage": "327",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692944",
+      "PageID": "22098281",
+      "created": "2011-05-08 00:10:04",
+      "updated": "2012-03-26 15:39:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        22098281,
+        22098282,
+        22098283,
+        22098284,
+        22098285,
+        22098286,
+        22098287,
+        22098288
+      ]
+    },
+    {
+      "reference_id": "66659",
+      "genre": "article",
+      "title": "The classification of the teleostean fishes of the order Synentognathi",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "327",
+      "epage": "335",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098288",
+      "created": "2011-05-08 00:55:08",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        22098288,
+        22098289,
+        22098290,
+        22098291,
+        22098292,
+        22098293,
+        22098294,
+        22098295,
+        22098296
+      ]
+    },
+    {
+      "reference_id": "66594",
+      "genre": "article",
+      "title": "Description of a new fish of the genus Polypterus from Liberia",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "377",
+      "epage": "378",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098338",
+      "created": "2011-05-07 23:43:12",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        22098338,
+        22098339
+      ]
+    },
+    {
+      "reference_id": "80334",
+      "genre": "article",
+      "title": "Description of a new cichlid fish from Mashonaland",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "377",
+      "epage": "377",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098338",
+      "created": "2011-07-05 14:33:48",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        22098338
+      ]
+    },
+    {
+      "reference_id": "73490",
+      "genre": "article",
+      "title": "A new African Corethra",
+      "secondary_title": "Ann. Mag. nat. hist",
+      "volume": "7",
+      "series": "8",
+      "spage": "399",
+      "epage": "400",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098360",
+      "created": "2011-06-04 08:49:23",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10022",
+          "lastname": "Theobald",
+          "forename": "F V"
+        }
+      ],
+      "bhl_pages": [
+        22098360,
+        22098361
+      ]
+    },
+    {
+      "reference_id": "77769",
+      "genre": "article",
+      "title": "Descriptions of thirty-six new species of land and freshwater shells from British East Africa, chiefly from Mount Kenia and the neighbouring district",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "463",
+      "epage": "476",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098424",
+      "created": "2011-06-14 10:33:34",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49381",
+          "lastname": "Preston",
+          "forename": "H H"
+        }
+      ],
+      "bhl_pages": [
+        22098424,
+        22098425,
+        22098426,
+        22098427,
+        22098428,
+        22098429,
+        22098430,
+        22098431,
+        22098432,
+        22098433,
+        22098434,
+        22098435,
+        22098436,
+        22098437
+      ]
+    },
+    {
+      "reference_id": "66597",
+      "genre": "article",
+      "title": "Descriptions of three new species of freshwater fishes from South Africa",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "477",
+      "epage": "478",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098438",
+      "created": "2011-05-07 23:44:32",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17817",
+          "lastname": "Gilchrist",
+          "forename": "J D F"
+        },
+        {
+          "id": "17818",
+          "lastname": "Thompson",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        22098438,
+        22098439
+      ]
+    },
+    {
+      "reference_id": "98819",
+      "genre": "article",
+      "title": "Descriptions of new African Heterocera",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "7",
+      "spage": "530",
+      "epage": "576",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692974",
+      "PageID": "22098491",
+      "created": "2011-12-05 21:10:25",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098491,
+        22098492,
+        22098493,
+        22098494,
+        22098495,
+        22098496,
+        22098497,
+        22098498,
+        22098499,
+        22098500,
+        22098501,
+        22098502,
+        22098503,
+        22098504,
+        22098505,
+        22098506,
+        22098507,
+        22098508,
+        22098509,
+        22098510,
+        22098511,
+        22098512,
+        22098513,
+        22098514,
+        22098515,
+        22098516,
+        22098517,
+        22098518,
+        22098519,
+        22098520,
+        22098521,
+        22098522,
+        22098523,
+        22098524,
+        22098525,
+        22098526,
+        22098527,
+        22098528,
+        22098529,
+        22098530,
+        22098531,
+        22098532,
+        22098533,
+        22098534,
+        22098535,
+        22098536,
+        22098537
+      ]
+    },
+    {
+      "reference_id": "97675",
+      "genre": "article",
+      "title": "Some Barnacles of the Genus Scalpellum from Irish Seas",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "588",
+      "epage": "590",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098549",
+      "created": "2011-10-25 12:02:40",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098549,
+        22098550,
+        22098551
+      ]
+    },
+    {
+      "reference_id": "58395",
+      "genre": "article",
+      "title": "The genera of Recent Clypeastroids",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "593",
+      "epage": "605",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098554",
+      "created": "2010-11-20 20:57:39",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "775",
+          "lastname": "Clark",
+          "forename": "H L"
+        }
+      ],
+      "bhl_pages": [
+        22098554,
+        22098555,
+        22098556,
+        22098557,
+        22098558,
+        22098559,
+        22098560,
+        22098561,
+        22098562,
+        22098563,
+        22098564,
+        22098565,
+        22098566
+      ]
+    },
+    {
+      "reference_id": "58463",
+      "genre": "article",
+      "title": "A new kangaroo from the Northern Territory of Western Australia",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "609",
+      "epage": "610",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098570",
+      "created": "2010-11-20 21:17:01",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42066",
+          "lastname": "Thomas",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        22098570,
+        22098571
+      ]
+    },
+    {
+      "reference_id": "98912",
+      "genre": "article",
+      "title": "Upon the Dynamopinae, a new subfamily of Lamellicorn beetles",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "7",
+      "spage": "610",
+      "epage": "612",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931108692984",
+      "PageID": "22098571",
+      "created": "2011-12-05 22:12:05",
+      "updated": "2011-12-05 22:12:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        22098571,
+        22098572,
+        22098573
+      ]
+    },
+    {
+      "reference_id": "58379",
+      "genre": "article",
+      "title": "Six new fruit-bats of the genera Macroglossus and Syconycteris",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "641",
+      "epage": "643",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098602",
+      "created": "2010-11-20 20:54:46",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42277",
+          "lastname": "Andersen",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        22098602,
+        22098603,
+        22098604
+      ]
+    },
+    {
+      "reference_id": "58394",
+      "genre": "article",
+      "title": "A new unstalked crinoid from Christmas Island",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "7",
+      "series": "8",
+      "spage": "644",
+      "epage": "645",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0374-5481",
+      "PageID": "22098605",
+      "created": "2010-11-20 20:57:32",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "798",
+          "lastname": "Clark",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        22098605,
+        22098606
+      ]
+    }
+  ]
+}

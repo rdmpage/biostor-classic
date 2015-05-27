@@ -1,0 +1,64 @@
+{
+  "author": [
+    {
+      "firstname": "C L",
+      "lastname": "Staines",
+      "name": "C L Staines"
+    }
+  ],
+  "type": "article",
+  "title": "New distributional records of new world cassidinae (Coleoptera: Chrysomelidae)",
+  "journal": {
+    "name": "Proceedings of the Entomological Society of Washington",
+    "volume": "109",
+    "pages": "160--165",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0013-8797"
+      }
+    ]
+  },
+  "year": "2007",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/55117"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/31078669"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 55117
+    },
+    {
+      "type": "bhl",
+      "id": 31078669
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -76.6,
+        -0.4
+      ],
+      [
+        -84.338333333333,
+        10.973333333333
+      ],
+      [
+        -85.908833333333,
+        12.999833333333
+      ],
+      [
+        -79.916666666667,
+        8.75
+      ]
+    ]
+  }
+}

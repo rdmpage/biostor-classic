@@ -1,0 +1,406 @@
+{
+  "ItemID": "37557",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd.18 1895",
+  "articles": [
+    {
+      "reference_id": "60062",
+      "genre": "article",
+      "title": "Microcrustacea from New Mexico",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "40",
+      "epage": "47",
+      "year": "1894",
+      "date": "1894-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728383",
+      "created": "2010-11-22 18:12:02",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42748",
+          "lastname": "Herrick",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        9728383,
+        9728384,
+        9728385,
+        9728386,
+        9728387,
+        9728388,
+        9728389,
+        9728390
+      ]
+    },
+    {
+      "reference_id": "71544",
+      "genre": "article",
+      "title": "Bermerkung zur Eintheilung der Chelydidae",
+      "secondary_title": "Zool. Anz",
+      "volume": "18",
+      "spage": "51",
+      "epage": "53",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728394",
+      "created": "2011-06-03 20:22:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46854",
+          "lastname": "Bohls",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9728394,
+        9728395,
+        9728396
+      ]
+    },
+    {
+      "reference_id": "49093",
+      "genre": "article",
+      "title": "Zwei neue Reptilien vom Zambesi",
+      "secondary_title": "Zool. Anz.",
+      "volume": "18",
+      "spage": "62",
+      "epage": "63",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728405",
+      "created": "2010-03-21 11:16:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39376",
+          "lastname": "Boettger",
+          "forename": "O S K A R"
+        }
+      ],
+      "bhl_pages": [
+        9728405,
+        9728406
+      ]
+    },
+    {
+      "reference_id": "72372",
+      "genre": "article",
+      "title": "2. Erwiderung",
+      "secondary_title": "Zool. Anz",
+      "volume": "18",
+      "spage": "104",
+      "epage": "105",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728447",
+      "created": "2011-06-04 01:39:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2620",
+          "lastname": "Werner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9728447,
+        9728448
+      ]
+    },
+    {
+      "reference_id": "49117",
+      "genre": "article",
+      "title": "Liste der Amphibien und Batrachier des Insel Halmaheira nach den Sammlungen Prof. Dr. W. K\u00fckenthal's",
+      "secondary_title": "Zool. Anz.",
+      "volume": "18",
+      "spage": "116",
+      "epage": "121",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728459",
+      "created": "2010-03-21 11:32:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9728459,
+        9728460,
+        9728461,
+        9728462,
+        9728463,
+        9728464
+      ]
+    },
+    {
+      "reference_id": "51822",
+      "genre": "article",
+      "title": "Liste der Reptilien und Batrachier der Insel Halmaheira nach den Sammlungen Prof. Dr. W. K\u00fckenthals",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "129",
+      "epage": "138",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728472",
+      "created": "2010-06-27 07:15:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9728472,
+        9728473,
+        9728474,
+        9728475,
+        9728476,
+        9728477,
+        9728478,
+        9728479,
+        9728480,
+        9728481
+      ]
+    },
+    {
+      "reference_id": "98442",
+      "genre": "article",
+      "title": "Die Schwarmbildung pelagischer Thiere",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "168",
+      "epage": "170",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728511",
+      "created": "2011-11-30 14:11:57",
+      "updated": "2011-11-30 14:11:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9728511,
+        9728512,
+        9728513
+      ]
+    },
+    {
+      "reference_id": "103828",
+      "genre": "article",
+      "title": "Aphorismen zur Biologie, Morphologie, Gattungs- und Art-Systematik der Diplopoden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "203",
+      "epage": "211",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728546",
+      "created": "2012-05-29 15:12:19",
+      "updated": "2012-05-29 15:13:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53788",
+          "lastname": "Verhoeff",
+          "forename": "Carl"
+        }
+      ],
+      "bhl_pages": [
+        9728546,
+        9728547,
+        9728548,
+        9728549,
+        9728550,
+        9728551,
+        9728552,
+        9728553,
+        9728554
+      ]
+    },
+    {
+      "reference_id": "103829",
+      "genre": "article",
+      "title": "Aphorismen zur Biologie, Morphologie, Gattungs- und Art-Systematik der Diplopoden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "213",
+      "epage": "226",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728556",
+      "created": "2012-05-29 15:14:04",
+      "updated": "2012-05-29 15:17:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53788",
+          "lastname": "Verhoeff",
+          "forename": "Carl"
+        }
+      ],
+      "bhl_pages": [
+        9728556,
+        9728557,
+        9728558,
+        9728559,
+        9728560,
+        9728561,
+        9728562,
+        9728563,
+        9728564,
+        9728565,
+        9728566,
+        9728567,
+        9728568,
+        9728569
+      ]
+    },
+    {
+      "reference_id": "103830",
+      "genre": "article",
+      "title": "Aphorismen zur Biologie, Morphologie, Gattungs- und Art-Systematik der Diplopoden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "237",
+      "epage": "244",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728580",
+      "created": "2012-05-29 15:17:40",
+      "updated": "2012-05-29 15:18:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53788",
+          "lastname": "Verhoeff",
+          "forename": "Carl"
+        }
+      ],
+      "bhl_pages": [
+        9728580,
+        9728581,
+        9728582,
+        9728583,
+        9728584,
+        9728585,
+        9728586,
+        9728587
+      ]
+    },
+    {
+      "reference_id": "104932",
+      "genre": "article",
+      "title": "Preliminary notes on the reproductive organs of Peripatus oviparus",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "264",
+      "epage": "266",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728607",
+      "created": "2012-06-29 10:12:20",
+      "updated": "2012-06-29 10:12:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51493",
+          "lastname": "Dendy",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        9728607,
+        9728608,
+        9728609
+      ]
+    },
+    {
+      "reference_id": "49170",
+      "genre": "article",
+      "title": "Neue Fr\u00f6sche und Schlangen von den Liukiu-Inseln",
+      "secondary_title": "Zool. Anz.",
+      "volume": "18",
+      "spage": "266",
+      "epage": "270",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728609",
+      "created": "2010-03-21 11:51:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9728609,
+        9728610,
+        9728611,
+        9728612,
+        9728613
+      ]
+    },
+    {
+      "reference_id": "5012",
+      "genre": "article",
+      "title": "On a new Pseudochirus from N. W. Australia",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "18",
+      "spage": "464",
+      "epage": "468",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0044-5231",
+      "PageID": "9728807",
+      "created": "2010-01-05 13:35:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2655",
+          "lastname": "Collett",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9728807,
+        9728808,
+        9728809,
+        9728810,
+        9728811
+      ]
+    }
+  ]
+}

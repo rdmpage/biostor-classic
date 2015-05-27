@@ -1,0 +1,182 @@
+{
+  "ItemID": "36398",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France.  ",
+  "VolumeInfo": "1897",
+  "articles": [
+    {
+      "reference_id": "61605",
+      "genre": "article",
+      "title": "\u00c9claircissements sur le genre Scrapter et description d'une esp\u00e8ce nouvelle de Dufourea (Hym\u00e9n.)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1897",
+      "spage": "61",
+      "epage": "64",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0037-928X",
+      "PageID": "9210545",
+      "created": "2011-01-10 22:26:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43071",
+          "lastname": "Vachal",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9210545,
+        9210546,
+        9210547,
+        9210548
+      ]
+    },
+    {
+      "reference_id": "61345",
+      "genre": "article",
+      "title": "Description de six col\u00e9opt\u00e8res de l'\u00cesle Ishigaki-Sima",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1897",
+      "spage": "68",
+      "epage": "72",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0037-928X",
+      "PageID": "9210552",
+      "created": "2011-01-10 19:04:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42990",
+          "lastname": "Fairmaire",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9210552,
+        9210553,
+        9210554,
+        9210555,
+        9210556
+      ]
+    },
+    {
+      "reference_id": "52028",
+      "genre": "article",
+      "title": "Deux Iulides nouveaux de la r\u00e9gion m\u00e9diterran\u00e9ene",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France",
+      "volume": "1897",
+      "issue": "10",
+      "spage": "157",
+      "epage": "163",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0037-928X",
+      "PageID": "9210645",
+      "created": "2010-07-07 12:42:05",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40327",
+          "lastname": "Br\u00f6lemann",
+          "forename": "Henry Wilfred"
+        }
+      ],
+      "bhl_pages": [
+        9210645,
+        9210646,
+        9210647,
+        9210648,
+        9210649,
+        9210650,
+        9210651
+      ]
+    },
+    {
+      "reference_id": "72247",
+      "genre": "article",
+      "title": "Description d'un Longicorne nouveau de genre Hebestola [Col.]",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France, Paris",
+      "volume": "1897",
+      "spage": "186",
+      "epage": "188",
+      "year": "1897",
+      "date": "1897-00-00",
+      "oclc": "1765811",
+      "PageID": "9210674",
+      "created": "2011-06-04 00:56:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46990",
+          "lastname": "Belon",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9210674,
+        9210675,
+        9210676
+      ]
+    },
+    {
+      "reference_id": "72891",
+      "genre": "article",
+      "title": "Supplement aux Ichneumonides d'Europe",
+      "secondary_title": "Bulletin de la Societe Entomologique de France",
+      "volume": "1897",
+      "spage": "254",
+      "epage": "256",
+      "year": "1897",
+      "date": "1897-00-00",
+      "oclc": "1765811",
+      "PageID": "9210742",
+      "created": "2011-06-04 04:39:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46280",
+          "lastname": "Berthoumieu",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        9210742,
+        9210743,
+        9210744
+      ]
+    },
+    {
+      "reference_id": "61515",
+      "genre": "article",
+      "title": "Sur genre nouveau d'H\u00e9mipt\u00e8re de la tribu des Scutellerinae [Solenotichus]",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1897",
+      "spage": "263",
+      "epage": "264",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0037-928X",
+      "PageID": "9210751",
+      "created": "2011-01-10 21:28:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "28812",
+          "lastname": "Martin",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9210751,
+        9210752
+      ]
+    }
+  ]
+}

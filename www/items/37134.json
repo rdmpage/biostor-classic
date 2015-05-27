@@ -1,0 +1,69 @@
+{
+  "ItemID": "37134",
+  "FullTitle": "Journal of economic entomology.  ",
+  "VolumeInfo": "7, 1914",
+  "articles": [
+    {
+      "reference_id": "71891",
+      "genre": "article",
+      "title": "Plant-louse notes from California",
+      "secondary_title": "Journal of Economic Entomology",
+      "volume": "7",
+      "spage": "127",
+      "epage": "136",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0022-0493",
+      "PageID": "9534302",
+      "created": "2011-06-03 23:30:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46841",
+          "lastname": "",
+          "forename": "Davidson"
+        }
+      ],
+      "bhl_pages": [
+        9534302,
+        9534303,
+        9534304,
+        9534305,
+        9534306,
+        9534307,
+        9534308,
+        9534309,
+        9534310,
+        9534311
+      ]
+    },
+    {
+      "reference_id": "58716",
+      "genre": "article",
+      "title": "List of zoophagous Itonididae",
+      "secondary_title": "Journal of Economic Entomology",
+      "volume": "7",
+      "spage": "458",
+      "epage": "459",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0022-0493",
+      "PageID": "9534681",
+      "created": "2010-11-20 22:35:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42334",
+          "lastname": "Felt",
+          "forename": "E P"
+        }
+      ],
+      "bhl_pages": [
+        9534681,
+        9534682
+      ]
+    }
+  ]
+}

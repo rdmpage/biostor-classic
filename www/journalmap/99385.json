@@ -1,0 +1,76 @@
+{
+  "author": [
+    
+  ],
+  "type": "article",
+  "title": "Two new species of Palingonalia (Hemiptera: Cicadellidae: Cicadellinae) from Colombia",
+  "journal": {
+    "name": "Entomological News",
+    "volume": "118",
+    "pages": "223--226",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0013-872X"
+      }
+    ]
+  },
+  "year": "2007",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/99385"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/37000373"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 99385
+    },
+    {
+      "type": "bhl",
+      "id": 37000373
+    },
+    {
+      "type": "doi",
+      "id": "10.3157\/0013-872X(2007)118[223:TNSOPH]2.0.CO;2"
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -69.516666666667,
+        -1.0666666666667
+      ],
+      [
+        -69.983333333333,
+        -3
+      ],
+      [
+        -70.1,
+        -3.3833333333333
+      ],
+      [
+        -72.4,
+        1.2
+      ],
+      [
+        -72.616666666667,
+        0.5
+      ],
+      [
+        -72.933333333333,
+        0.23333333333333
+      ],
+      [
+        -72.4,
+        0.2
+      ]
+    ]
+  }
+}

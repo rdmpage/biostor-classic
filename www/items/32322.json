@@ -1,0 +1,73 @@
+{
+  "ItemID": "32322",
+  "FullTitle": "Transactions of the American Entomological Society",
+  "VolumeInfo": "v. 17 1890",
+  "articles": [
+    {
+      "reference_id": "69734",
+      "genre": "article",
+      "title": "Notes on some North American Odonata with descriptions of three new species",
+      "secondary_title": "Transactions American Entomological Society",
+      "volume": "17",
+      "spage": "33",
+      "epage": "40",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0002-8320",
+      "PageID": "7490863",
+      "created": "2011-06-02 06:52:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45165",
+          "lastname": "Calvert",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        7490863,
+        7490864,
+        7490865,
+        7490866,
+        7490867,
+        7490868,
+        7490869,
+        7490870
+      ]
+    },
+    {
+      "reference_id": "69733",
+      "genre": "article",
+      "title": "A synopsis of the Odonat genus Leucorhinia Britt",
+      "secondary_title": "Transactions American Entomological Society",
+      "volume": "17",
+      "spage": "229",
+      "epage": "236",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0002-8320",
+      "PageID": "7491071",
+      "created": "2011-06-02 06:52:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46357",
+          "lastname": "Hagen",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        7491071,
+        7491072,
+        7491073,
+        7491074,
+        7491075,
+        7491076,
+        7491077,
+        7491078
+      ]
+    }
+  ]
+}

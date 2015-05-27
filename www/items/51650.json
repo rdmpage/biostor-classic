@@ -1,0 +1,898 @@
+{
+  "ItemID": "51650",
+  "FullTitle": "Transactions of the Entomological Society of London.",
+  "VolumeInfo": "1874",
+  "articles": [
+    {
+      "reference_id": "51298",
+      "genre": "article",
+      "title": "III. Notes on the Habits of Papilio Merope, with a description of its Larva and Pupa",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "131",
+      "epage": "136",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00161.x",
+      "PageID": "14921445",
+      "created": "2010-06-23 17:40:38",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40137",
+          "lastname": "Weale",
+          "forename": "J P Mansel"
+        }
+      ],
+      "bhl_pages": [
+        14921445,
+        14921446,
+        14921447,
+        14921448,
+        14921449,
+        14921450
+      ]
+    },
+    {
+      "reference_id": "51299",
+      "genre": "article",
+      "title": "IV. Observations on the Case of Papilio Merope, Auct.; with an account of the various known forms of that Butterfly",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "137",
+      "epage": "153",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00162.x",
+      "PageID": "14921451",
+      "created": "2010-06-23 17:40:45",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39918",
+          "lastname": "Trimen",
+          "forename": "Roland"
+        }
+      ],
+      "bhl_pages": [
+        14921451,
+        14921452,
+        14921453,
+        14921454,
+        14921455,
+        14921456,
+        14921457,
+        14921458,
+        14921459,
+        14921460,
+        14921461,
+        14921462,
+        14921463,
+        14921464,
+        14921465,
+        14921466,
+        14921467
+      ]
+    },
+    {
+      "reference_id": "51300",
+      "genre": "article",
+      "title": "V. Descriptions of Fifteen new species of Diurnal Lepi-doptera, chiefly from South America",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "155",
+      "epage": "160",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00163.x",
+      "PageID": "14921469",
+      "created": "2010-06-23 17:40:46",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40147",
+          "lastname": "Druce",
+          "forename": "Herbert"
+        }
+      ],
+      "bhl_pages": [
+        14921469,
+        14921470,
+        14921471,
+        14921472,
+        14921473,
+        14921474
+      ]
+    },
+    {
+      "reference_id": "51293",
+      "genre": "article",
+      "title": "VI. Catalogue of the Phytophagous Coleoptera of Japan, with descriptions of the species new to science",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "161",
+      "epage": "217",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00164.x",
+      "PageID": "14921475",
+      "created": "2010-06-23 17:40:12",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40095",
+          "lastname": "Baly",
+          "forename": "Joseph S"
+        }
+      ],
+      "bhl_pages": [
+        14921475,
+        14921476,
+        14921477,
+        14921478,
+        14921479,
+        14921480,
+        14921481,
+        14921482,
+        14921483,
+        14921484,
+        14921485,
+        14921486,
+        14921487,
+        14921488,
+        14921489,
+        14921490,
+        14921491,
+        14921492,
+        14921493,
+        14921494,
+        14921495,
+        14921496,
+        14921497,
+        14921498,
+        14921499,
+        14921500,
+        14921501,
+        14921502,
+        14921503,
+        14921504,
+        14921505,
+        14921506,
+        14921507,
+        14921508,
+        14921509,
+        14921510,
+        14921511,
+        14921512,
+        14921513,
+        14921514,
+        14921515,
+        14921516,
+        14921517,
+        14921518,
+        14921519,
+        14921520,
+        14921521,
+        14921522,
+        14921523,
+        14921524,
+        14921525,
+        14921526,
+        14921527,
+        14921528,
+        14921529,
+        14921530,
+        14921531
+      ]
+    },
+    {
+      "reference_id": "51294",
+      "genre": "article",
+      "title": "Supplement to the Longicorn Coleoptera of Chon-tales, Nicaragua",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "219",
+      "epage": "235",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00165.x",
+      "PageID": "14921533",
+      "created": "2010-06-23 17:40:18",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40116",
+          "lastname": "Bates",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        14921533,
+        14921534,
+        14921535,
+        14921536,
+        14921537,
+        14921538,
+        14921539,
+        14921540,
+        14921541,
+        14921542,
+        14921543,
+        14921544,
+        14921545,
+        14921546,
+        14921547,
+        14921548,
+        14921549
+      ]
+    },
+    {
+      "reference_id": "51295",
+      "genre": "article",
+      "title": "VIII. Note on Mynes Guerini, Wallace",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "237",
+      "epage": "240",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00166.x",
+      "PageID": "14921551",
+      "created": "2010-06-23 17:40:22",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40111",
+          "lastname": "Miskin",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        14921551,
+        14921552,
+        14921553,
+        14921554
+      ]
+    },
+    {
+      "reference_id": "51296",
+      "genre": "article",
+      "title": "IX. Note on &quot;A Catalogue of the described Diurnal Lepidoptera of Australia, by Mr. George Masters, of the Sydney Museum.&quot;",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "241",
+      "epage": "246",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00167.x",
+      "PageID": "14921555",
+      "created": "2010-06-23 17:40:26",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40111",
+          "lastname": "Miskin",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        14921555,
+        14921556,
+        14921557,
+        14921558,
+        14921559,
+        14921560
+      ]
+    },
+    {
+      "reference_id": "51297",
+      "genre": "article",
+      "title": "X. Monograph of the Genus Xylocopa, Lair",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "247",
+      "epage": "302",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00168.x",
+      "PageID": "14921561",
+      "created": "2010-06-23 17:40:30",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40138",
+          "lastname": "Smith",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        14921561,
+        14921562,
+        14921563,
+        14921564,
+        14921565,
+        14921566,
+        14921567,
+        14921568,
+        14921569,
+        14921570,
+        14921571,
+        14921572,
+        14921573,
+        14921574,
+        14921575,
+        14921576,
+        14921577,
+        14921578,
+        14921579,
+        14921580,
+        14921581,
+        14921582,
+        14921583,
+        14921584,
+        14921585,
+        14921586,
+        14921587,
+        14921588,
+        14921589,
+        14921590,
+        14921591,
+        14921592,
+        14921593,
+        14921594,
+        14921595,
+        14921596,
+        14921597,
+        14921598,
+        14921599,
+        14921600,
+        14921601,
+        14921602,
+        14921603,
+        14921604,
+        14921605,
+        14921606,
+        14921607,
+        14921608,
+        14921609,
+        14921610,
+        14921611,
+        14921612,
+        14921613,
+        14921614,
+        14921615,
+        14921616
+      ]
+    },
+    {
+      "reference_id": "51290",
+      "genre": "article",
+      "title": "XII.: On some new species of South African Lyc\u00e6nid\u00e6",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "329",
+      "epage": "341",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00863.x",
+      "PageID": "14921643",
+      "created": "2010-06-23 17:39:50",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39918",
+          "lastname": "Trimen",
+          "forename": "Roland"
+        }
+      ],
+      "bhl_pages": [
+        14921643,
+        14921644,
+        14921645,
+        14921646,
+        14921647,
+        14921648,
+        14921649,
+        14921650,
+        14921651,
+        14921652,
+        14921653,
+        14921654,
+        14921655
+      ]
+    },
+    {
+      "reference_id": "51291",
+      "genre": "article",
+      "title": "XIII.: Descriptions of new species of Lyc\u00e6nid\u00e6, from his own Collection",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "343",
+      "epage": "355",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00864.x",
+      "PageID": "14921657",
+      "created": "2010-06-23 17:39:53",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40146",
+          "lastname": "Hewitson",
+          "forename": "W C"
+        }
+      ],
+      "bhl_pages": [
+        14921657,
+        14921658,
+        14921659,
+        14921660,
+        14921661,
+        14921662,
+        14921663,
+        14921664,
+        14921665,
+        14921666,
+        14921667,
+        14921668,
+        14921669
+      ]
+    },
+    {
+      "reference_id": "51292",
+      "genre": "article",
+      "title": "XIV.: Illustrations of several additional species of Lucanid\u00e6 in the Collection of Major F. J. Sidney Parry",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "357",
+      "epage": "363",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00865.x",
+      "PageID": "14921671",
+      "created": "2010-06-23 17:39:57",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        14921671,
+        14921672,
+        14921673,
+        14921674,
+        14921675,
+        14921676,
+        14921677
+      ]
+    },
+    {
+      "reference_id": "51279",
+      "genre": "article",
+      "title": "XVII. Descriptions of new species of Lucanid\u00e6",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "411",
+      "epage": "415",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00170.x",
+      "PageID": "14921725",
+      "created": "2010-06-23 17:39:02",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40143",
+          "lastname": "Deyrolle",
+          "forename": "Henri"
+        }
+      ],
+      "bhl_pages": [
+        14921725,
+        14921726,
+        14921727,
+        14921728,
+        14921729
+      ]
+    },
+    {
+      "reference_id": "51280",
+      "genre": "article",
+      "title": "XVIII. Some Additions to the Coleopterous Fauna of Japan",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "417",
+      "epage": "422",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00171.x",
+      "PageID": "14921731",
+      "created": "2010-06-23 17:39:04",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        14921731,
+        14921732,
+        14921733,
+        14921734,
+        14921735,
+        14921736
+      ]
+    },
+    {
+      "reference_id": "51281",
+      "genre": "article",
+      "title": "XIX. Descriptions of some new species and a new genus of Diurnal Lepidoptera, in the collection of Herbert Druce, Esq",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "423",
+      "epage": "436",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00172.x",
+      "PageID": "14921737",
+      "created": "2010-06-23 17:39:08",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        14921737,
+        14921738,
+        14921739,
+        14921740,
+        14921741,
+        14921742,
+        14921743,
+        14921744,
+        14921745,
+        14921746,
+        14921747,
+        14921748,
+        14921749,
+        14921750
+      ]
+    },
+    {
+      "reference_id": "51282",
+      "genre": "article",
+      "title": "XX. Descriptions of new species of Endomycici",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "437",
+      "epage": "446",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00173.x",
+      "PageID": "14921751",
+      "created": "2010-06-23 17:39:14",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40136",
+          "lastname": "Gorham",
+          "forename": "Rev H S"
+        }
+      ],
+      "bhl_pages": [
+        14921751,
+        14921752,
+        14921753,
+        14921754,
+        14921755,
+        14921756,
+        14921757,
+        14921758,
+        14921759,
+        14921760
+      ]
+    },
+    {
+      "reference_id": "51283",
+      "genre": "article",
+      "title": "XXI. Observations on the genus Helota, M'Leay, with description of a new species from Japan",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "447",
+      "epage": "449",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00174.x",
+      "PageID": "14921761",
+      "created": "2010-06-23 17:39:18",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40114",
+          "lastname": "Gorham",
+          "forename": "H S"
+        }
+      ],
+      "bhl_pages": [
+        14921761,
+        14921762,
+        14921763
+      ]
+    },
+    {
+      "reference_id": "51284",
+      "genre": "article",
+      "title": "XXXII. A Rivision of the Hymenopterous genera Clepts, Parnopes, Anthracias, Priya and Stilbum with descriptions of new species of those genera, and also of new species of the genus Chrysis from North China and Australia",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "451",
+      "epage": "471",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00175.x",
+      "PageID": "14921765",
+      "created": "2010-06-23 17:39:23",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40138",
+          "lastname": "Smith",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        14921765,
+        14921766,
+        14921767,
+        14921768,
+        14921769,
+        14921770,
+        14921771,
+        14921772,
+        14921773,
+        14921774,
+        14921775,
+        14921776,
+        14921777,
+        14921778,
+        14921779,
+        14921780,
+        14921781,
+        14921782,
+        14921783,
+        14921784,
+        14921785
+      ]
+    },
+    {
+      "reference_id": "51285",
+      "genre": "article",
+      "title": "XXIII. Descriptions of some new species of Exotic Cetoniid\u00e6",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "473",
+      "epage": "481",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00176.x",
+      "PageID": "14921787",
+      "created": "2010-06-23 17:39:32",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        14921787,
+        14921788,
+        14921789,
+        14921790,
+        14921791,
+        14921792,
+        14921793,
+        14921794,
+        14921795
+      ]
+    },
+    {
+      "reference_id": "51286",
+      "genre": "article",
+      "title": "XXIV. Descriptions of new genera and species of Pselaphid\u00e6 and Scydm\u00e6nid\u00e6 from Australia and New Zealand",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "483",
+      "epage": "518",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00177.x",
+      "PageID": "14921797",
+      "created": "2010-06-23 17:39:35",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        14921797,
+        14921798,
+        14921799,
+        14921800,
+        14921801,
+        14921802,
+        14921803,
+        14921804,
+        14921805,
+        14921806,
+        14921807,
+        14921808,
+        14921809,
+        14921810,
+        14921811,
+        14921812,
+        14921813,
+        14921814,
+        14921815,
+        14921816,
+        14921817,
+        14921818,
+        14921819,
+        14921820,
+        14921821,
+        14921822,
+        14921823,
+        14921824,
+        14921825,
+        14921826,
+        14921827,
+        14921828,
+        14921829,
+        14921830,
+        14921831,
+        14921832
+      ]
+    },
+    {
+      "reference_id": "51287",
+      "genre": "article",
+      "title": "XXV. Notes on the peculiar habits and changes which take place in the larva and pupa of Papilio Nireus",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "519",
+      "epage": "521",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00178.x",
+      "PageID": "14921833",
+      "created": "2010-06-23 17:39:38",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40144",
+          "lastname": "Barber",
+          "forename": "M E"
+        }
+      ],
+      "bhl_pages": [
+        14921833,
+        14921834,
+        14921835
+      ]
+    },
+    {
+      "reference_id": "51288",
+      "genre": "article",
+      "title": "XXVI. Descriptions of some new species belonging to the genus Lyc\u00e6na",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "523",
+      "epage": "529",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00179.x",
+      "PageID": "14921837",
+      "created": "2010-06-23 17:39:42",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40145",
+          "lastname": "Mur-Ray",
+          "forename": "R P"
+        }
+      ],
+      "bhl_pages": [
+        14921837,
+        14921838,
+        14921839,
+        14921840,
+        14921841,
+        14921842,
+        14921843
+      ]
+    },
+    {
+      "reference_id": "51289",
+      "genre": "article",
+      "title": "XXVII. Descriptions of three new species and a new genus of Diurnal Lepidoptera, from the collection of Andrew Swanzy, Esq",
+      "secondary_title": "Transactions of The Royal Entomological Society of London",
+      "volume": "22",
+      "spage": "531",
+      "epage": "533",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0035-8894",
+      "doi": "10.1111\/j.1365-2311.1874.tb00180.x",
+      "PageID": "14921845",
+      "created": "2010-06-23 17:39:45",
+      "updated": "2012-05-25 09:14:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40125",
+          "lastname": "Butler",
+          "forename": "Arthur Gardiner"
+        }
+      ],
+      "bhl_pages": [
+        14921845,
+        14921846,
+        14921847
+      ]
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "ItemID": "19516",
+  "FullTitle": "Proceedings of the Entomological Society of Washington.",
+  "VolumeInfo": "v. 4 1896-1900",
+  "articles": [
+    {
+      "reference_id": "66876",
+      "genre": "article",
+      "title": "Semi-tropical Texas",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "1",
+      "epage": "3",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299526",
+      "created": "2011-05-11 14:16:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45323",
+          "lastname": "Amandus",
+          "forename": "Schwarz Eugene"
+        }
+      ],
+      "bhl_pages": [
+        2299526,
+        2299525,
+        2299524
+      ]
+    },
+    {
+      "reference_id": "60766",
+      "genre": "article",
+      "title": "On the genera of the Eupelminae",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "4",
+      "epage": "20",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299523",
+      "created": "2010-11-23 04:33:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        2299523,
+        2299522,
+        2299521,
+        2299520,
+        2299519,
+        2299518,
+        2299517,
+        2299516,
+        2299515,
+        2299514,
+        2299513,
+        2299512,
+        2299511,
+        2299510,
+        2299509,
+        2299508,
+        2299507
+      ]
+    },
+    {
+      "reference_id": "66879",
+      "genre": "article",
+      "title": "A pod-inhabiting longicorn found at the Columbian Exposition",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "42",
+      "epage": "43",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299485",
+      "created": "2011-05-11 14:16:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45356",
+          "lastname": "H.",
+          "forename": "Chittenden F"
+        },
+        {
+          "id": "45357",
+          "lastname": "L.",
+          "forename": "Linell M"
+        }
+      ],
+      "bhl_pages": [
+        2299485,
+        2299484
+      ]
+    },
+    {
+      "reference_id": "14655",
+      "genre": "article",
+      "title": "Notes on the lerp insects (Psyllidae) of Australia",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "66",
+      "epage": "73",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299596",
+      "created": "2010-01-21 11:39:48",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10312",
+          "lastname": "Schwarz",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        2299596,
+        2299595,
+        2299594,
+        2299593,
+        2299592,
+        2299591,
+        2299590,
+        2299574
+      ]
+    },
+    {
+      "reference_id": "68933",
+      "genre": "article",
+      "title": "Descriptions of five new Hymenopterous parasites on Canarsia hammondi (Riley)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "124",
+      "epage": "131",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299611",
+      "created": "2011-06-01 08:14:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        2299611,
+        2299612,
+        2299613,
+        2299614,
+        2299615,
+        2299616,
+        2299617,
+        2299648
+      ]
+    },
+    {
+      "reference_id": "103844",
+      "genre": "article",
+      "title": "A new species of Roptronia",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "4",
+      "spage": "132",
+      "epage": "133",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299649",
+      "created": "2012-05-30 13:33:43",
+      "updated": "2012-05-30 13:33:43",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2299649,
+        2299650
+      ]
+    },
+    {
+      "reference_id": "60759",
+      "genre": "article",
+      "title": "On some parasites of Coccidae with descriptions of two new genera of Aphelininae",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "133",
+      "epage": "139",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299650",
+      "created": "2010-11-23 04:28:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2318",
+          "lastname": "Howard",
+          "forename": "L O"
+        }
+      ],
+      "bhl_pages": [
+        2299650,
+        2299651,
+        2299652,
+        2299653,
+        2299654,
+        2299655,
+        2299656
+      ]
+    },
+    {
+      "reference_id": "68934",
+      "genre": "article",
+      "title": "Part 2. - Descriptions of new parasitic Hymenoptera",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "155",
+      "epage": "171",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299672",
+      "created": "2011-06-01 08:14:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        2299672,
+        2299673,
+        2299674,
+        2299675,
+        2299676,
+        2299677,
+        2299678,
+        2299679,
+        2299680,
+        2299681,
+        2299682,
+        2299683,
+        2299684,
+        2299685,
+        2299686,
+        2299687,
+        2299688
+      ]
+    },
+    {
+      "reference_id": "66837",
+      "genre": "article",
+      "title": "Three new species of Chrysopidae",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "173",
+      "epage": "175",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299690",
+      "created": "2011-05-11 13:39:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2299690,
+        2299691,
+        2299692
+      ]
+    },
+    {
+      "reference_id": "13202",
+      "genre": "article",
+      "title": "Some spiders from northern Louisiana",
+      "secondary_title": "Proc. ent. Soc. Wash.",
+      "volume": "4",
+      "spage": "188",
+      "epage": "195",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299619",
+      "created": "2010-01-11 10:38:18",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2234",
+          "lastname": "Banks",
+          "forename": "Nathan"
+        }
+      ],
+      "bhl_pages": [
+        2299619,
+        2299620,
+        2299621,
+        2299622,
+        2299623,
+        2299624,
+        2299625,
+        2299626
+      ]
+    },
+    {
+      "reference_id": "68881",
+      "genre": "article",
+      "title": "Note on the Cedrela psyllids (genus Freysuila Aleman)",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "195",
+      "epage": "197",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299626",
+      "created": "2011-06-01 08:12:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46139",
+          "lastname": "A.",
+          "forename": "Schwarz E"
+        }
+      ],
+      "bhl_pages": [
+        2299626,
+        2299627,
+        2299628
+      ]
+    },
+    {
+      "reference_id": "60769",
+      "genre": "article",
+      "title": "On the genera of the Cleonymidae",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "200",
+      "epage": "206",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299631",
+      "created": "2010-11-23 04:35:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        2299631,
+        2299632,
+        2299633,
+        2299634,
+        2299635,
+        2299636,
+        2299637
+      ]
+    },
+    {
+      "reference_id": "99234",
+      "genre": "article",
+      "title": "New Dicellura",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "4",
+      "spage": "222",
+      "epage": "229",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299564",
+      "created": "2011-12-13 17:26:27",
+      "updated": "2011-12-13 17:26:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2299564,
+        2299565,
+        2299566,
+        2299567,
+        2299568,
+        2299569,
+        2299570,
+        2299571
+      ]
+    },
+    {
+      "reference_id": "97408",
+      "genre": "article",
+      "title": "Hubbardia, a new genus of Pedipalpi",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "249",
+      "epage": "261",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299753",
+      "created": "2011-10-18 16:37:42",
+      "updated": "2011-10-18 16:37:42",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2299753,
+        2299754,
+        2299755,
+        2299756,
+        2299757,
+        2299758,
+        2299759,
+        2299760,
+        2299761,
+        2299762,
+        2299763,
+        2299764,
+        2299765
+      ]
+    },
+    {
+      "reference_id": "60217",
+      "genre": "article",
+      "title": "Tarsonemus in America",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "294",
+      "epage": "296",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299739",
+      "created": "2010-11-22 20:45:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2299739,
+        2299740,
+        2299741
+      ]
+    },
+    {
+      "reference_id": "99235",
+      "genre": "article",
+      "title": "A new Mexican Diplopod, Decaporodesmus motzoranginis, type of a new Family, Decaporodesmidae",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "4",
+      "spage": "299",
+      "epage": "300",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299744",
+      "created": "2011-12-13 17:26:32",
+      "updated": "2011-12-13 17:26:32",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2299744,
+        2299745
+      ]
+    },
+    {
+      "reference_id": "68932",
+      "genre": "article",
+      "title": "The Geophiloidea of Florida Keys",
+      "secondary_title": "Proceedings of the entomological Society of Washington",
+      "volume": "4",
+      "spage": "303",
+      "epage": "312",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299748",
+      "created": "2011-06-01 08:14:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46147",
+          "lastname": "O.f.",
+          "forename": "Cook"
+        }
+      ],
+      "bhl_pages": [
+        2299748,
+        2299749,
+        2299750,
+        2299751,
+        2299770,
+        2299771,
+        2299772,
+        2299773,
+        2299774,
+        2299775
+      ]
+    },
+    {
+      "reference_id": "4983",
+      "genre": "article",
+      "title": "A new solpugid from California",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "314",
+      "epage": "315",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299777",
+      "created": "2010-01-04 12:07:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2234",
+          "lastname": "Banks",
+          "forename": "Nathan"
+        }
+      ],
+      "bhl_pages": [
+        2299777,
+        2299778
+      ]
+    },
+    {
+      "reference_id": "66877",
+      "genre": "article",
+      "title": "Letters from the Southwest. Insect fauna in the burrows of desert rodents",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "361",
+      "epage": "364",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299832",
+      "created": "2011-05-11 14:16:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45355",
+          "lastname": "Guernsey",
+          "forename": "Hubbard Henry"
+        }
+      ],
+      "bhl_pages": [
+        2299832,
+        2299833,
+        2299834,
+        2299835
+      ]
+    },
+    {
+      "reference_id": "99232",
+      "genre": "article",
+      "title": "List of North American Apatela",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "4",
+      "spage": "365",
+      "epage": "368",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299836",
+      "created": "2011-12-13 17:25:50",
+      "updated": "2011-12-13 17:25:50",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2299836,
+        2299837,
+        2299838,
+        2299823
+      ]
+    },
+    {
+      "reference_id": "66878",
+      "genre": "article",
+      "title": "Letters from the Southwest. Insect fauna of Dasylirion wheeleri",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "381",
+      "epage": "382",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299846",
+      "created": "2011-05-11 14:16:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45355",
+          "lastname": "Guernsey",
+          "forename": "Hubbard Henry"
+        }
+      ],
+      "bhl_pages": [
+        2299846,
+        2299847
+      ]
+    },
+    {
+      "reference_id": "99233",
+      "genre": "article",
+      "title": "Duoporus, a new Diplopod from Mexico",
+      "secondary_title": "Proceedings of The Entomological Society of Washington",
+      "volume": "4",
+      "spage": "402",
+      "epage": "404",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299915",
+      "created": "2011-12-13 17:26:23",
+      "updated": "2011-12-13 17:26:23",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2299915,
+        2299916,
+        2299917
+      ]
+    },
+    {
+      "reference_id": "66819",
+      "genre": "article",
+      "title": "A dwarf ant-lion fly",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "435",
+      "epage": "437",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299884",
+      "created": "2011-05-11 13:37:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45315",
+          "lastname": "Currie",
+          "forename": "R P"
+        }
+      ],
+      "bhl_pages": [
+        2299884,
+        2299885,
+        2299886
+      ]
+    },
+    {
+      "reference_id": "73533",
+      "genre": "article",
+      "title": "[Recent trip in the West to investigate parasites of domestic animals]",
+      "secondary_title": "Proc.Ent. Soc. Washington",
+      "volume": "4",
+      "spage": "491",
+      "epage": "492",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299962",
+      "created": "2011-06-04 09:15:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42776",
+          "lastname": "Stiles",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        2299962,
+        2299963
+      ]
+    },
+    {
+      "reference_id": "73195",
+      "genre": "article",
+      "title": "The ant-decapitating fly",
+      "secondary_title": "Proc. Ent. Soc. Wash",
+      "volume": "4",
+      "spage": "497",
+      "epage": "501",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299952",
+      "created": "2011-06-04 07:59:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42093",
+          "lastname": "Pergande",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        2299952,
+        2299953,
+        2299954,
+        2299955,
+        2299956
+      ]
+    },
+    {
+      "reference_id": "68882",
+      "genre": "article",
+      "title": "Some new genera and species of North American Hemiptera",
+      "secondary_title": "Proceedings of the Entomological Society of Washington",
+      "volume": "4",
+      "spage": "507",
+      "epage": "515",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8797",
+      "PageID": "2299972",
+      "created": "2011-06-01 08:12:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46140",
+          "lastname": "R.",
+          "forename": "Uhler P"
+        }
+      ],
+      "bhl_pages": [
+        2299972,
+        2299973,
+        2299974,
+        2299975,
+        2299976,
+        2299977,
+        2299978,
+        2299979,
+        2299980
+      ]
+    }
+  ]
+}

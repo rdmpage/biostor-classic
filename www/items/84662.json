@@ -1,0 +1,41 @@
+{
+  "ItemID": "84662",
+  "FullTitle": "Transactions of the Royal Society of South Australia",
+  "VolumeInfo": "v.26 (1902)",
+  "articles": [
+    {
+      "reference_id": "69857",
+      "genre": "article",
+      "title": "List of described genera and species of the Australian and Polynesian Phasmidae (Spectre-insects)",
+      "secondary_title": "Transactions of the Royal Society of Southern Australia",
+      "volume": "26",
+      "spage": "278",
+      "epage": "287",
+      "year": "1903",
+      "date": "1903-00-00",
+      "PageID": "26250133",
+      "created": "2011-06-02 07:44:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46390",
+          "lastname": "",
+          "forename": "Tepper"
+        }
+      ],
+      "bhl_pages": [
+        26250133,
+        26250134,
+        26250135,
+        26250136,
+        26250137,
+        26250138,
+        26250139,
+        26250140,
+        26250141,
+        26250142
+      ]
+    }
+  ]
+}

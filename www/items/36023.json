@@ -1,0 +1,93 @@
+{
+  "ItemID": "36023",
+  "FullTitle": "Entomologische Zeitung.",
+  "VolumeInfo": "jahrg. 71 1910",
+  "articles": [
+    {
+      "reference_id": "102762",
+      "genre": "article",
+      "title": "Neue Fulgoriden (Hemiptera\u2014Homoptera)",
+      "secondary_title": "Stettin Entomologische Zeitung",
+      "volume": "71",
+      "spage": "305",
+      "epage": "323",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "9106309",
+      "PageID": "9012868",
+      "created": "2012-05-09 12:37:02",
+      "updated": "2012-05-09 12:37:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53712",
+          "lastname": "Schmidt",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        9012868,
+        9012869,
+        9012870,
+        9012871,
+        9012872,
+        9012873,
+        9012874,
+        9012875,
+        9012876,
+        9012877,
+        9012878,
+        9012879,
+        9012880,
+        9012881,
+        9012882,
+        9012883,
+        9012884,
+        9012885,
+        9012886
+      ]
+    },
+    {
+      "reference_id": "104237",
+      "genre": "article",
+      "title": "Zur Kenntnis indoaustralischer und s\u00fcdamerikanischer Cercopiden (Hemiptera-Homoptera)",
+      "secondary_title": "Entomologische Zeitung",
+      "volume": "71",
+      "spage": "324",
+      "epage": "340",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "8441524",
+      "PageID": "9012887",
+      "created": "2012-06-12 22:40:38",
+      "updated": "2012-06-12 22:41:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53712",
+          "lastname": "Schmidt",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        9012887,
+        9012888,
+        9012889,
+        9012890,
+        9012891,
+        9012892,
+        9012893,
+        9012894,
+        9012895,
+        9012896,
+        9012897,
+        9012898,
+        9012899,
+        9012900,
+        9012901,
+        9012902,
+        9012903
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ItemID": "34883",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 40 (1926-1927)",
+  "articles": [
+    {
+      "reference_id": "59283",
+      "genre": "article",
+      "title": "Dates of publication of the parts of the Manual of Conchology, First Series (Cephalopoda, Marine Gastropoda, Polyplacophora, Scaphopoda)",
+      "secondary_title": "The Nautilus",
+      "volume": "40",
+      "spage": "96",
+      "epage": "99",
+      "year": "1927",
+      "date": "1927-00-00",
+      "issn": "0028-1344",
+      "PageID": "8523231",
+      "created": "2010-11-21 01:49:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42530",
+          "lastname": "Vanatta",
+          "forename": "E G"
+        }
+      ],
+      "bhl_pages": [
+        8523231,
+        8523232,
+        8523233,
+        8523234
+      ]
+    }
+  ]
+}

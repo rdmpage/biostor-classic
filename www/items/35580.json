@@ -1,0 +1,36 @@
+{
+  "ItemID": "35580",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1889",
+  "articles": [
+    {
+      "reference_id": "104934",
+      "genre": "article",
+      "title": "Die Bewegungen von Peripatus",
+      "secondary_title": "Sitzungsberichte Der Gesellschaft Naturforschender Freunde Zu Berlin",
+      "volume": "1889",
+      "spage": "148",
+      "epage": "151",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0037-5942",
+      "PageID": "8790072",
+      "created": "2012-06-29 10:13:57",
+      "updated": "2012-06-29 10:13:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51743",
+          "lastname": "Haase",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        8790072,
+        8790073,
+        8790074,
+        8790075
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "ItemID": "107531",
+  "FullTitle": "Transactions of the Kentucky Academy of Science.",
+  "VolumeInfo": "v. 35-39 1974-78",
+  "articles": [
+    {
+      "reference_id": "69838",
+      "genre": "article",
+      "title": "Distribution and life history notes on the southeastern five-lined skink, Eumeces inexpectatus Taylor, in Kentucky",
+      "secondary_title": "Transactions of the Kentucky Academy of Science",
+      "volume": "35",
+      "spage": "79",
+      "epage": "80",
+      "year": "1974",
+      "date": "1974-00-00",
+      "PageID": "34569789",
+      "created": "2011-06-02 07:38:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46385",
+          "lastname": "Rundquist",
+          "forename": "Eric M"
+        },
+        {
+          "id": "14826",
+          "lastname": "Collins",
+          "forename": "Joseph T"
+        }
+      ],
+      "bhl_pages": [
+        34569789,
+        34569790
+      ]
+    },
+    {
+      "reference_id": "105405",
+      "genre": "article",
+      "title": "External morphology of adult leafhoppers of the genus Scaphoideus",
+      "secondary_title": "Transactions of the Kentucky Academy of Science",
+      "volume": "38",
+      "issue": "1-2",
+      "spage": "26",
+      "epage": "37",
+      "year": "1977",
+      "date": "1977-00-00",
+      "issn": "0023-0081",
+      "PageID": "34570062",
+      "created": "2012-07-25 08:46:23",
+      "updated": "2012-07-25 08:49:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54027",
+          "lastname": "Barnett",
+          "forename": "Douglas E"
+        }
+      ],
+      "bhl_pages": [
+        34570062,
+        34570063,
+        34570064,
+        34570065,
+        34570066,
+        34570067,
+        34570068,
+        34570069,
+        34570070,
+        34570071,
+        34570072,
+        34570073
+      ]
+    }
+  ]
+}

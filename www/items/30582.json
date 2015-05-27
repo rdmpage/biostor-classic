@@ -1,0 +1,35 @@
+{
+  "ItemID": "30582",
+  "FullTitle": "American journal of conchology.",
+  "VolumeInfo": "v 2 (1866)",
+  "articles": [
+    {
+      "reference_id": "59730",
+      "genre": "article",
+      "title": "Descriptions of new exotic fresh-water Mollusca",
+      "secondary_title": "American Journal of Conchology",
+      "volume": "2",
+      "spage": "8",
+      "epage": "11",
+      "year": "1866",
+      "date": "1866-00-00",
+      "PageID": "6660216",
+      "created": "2010-11-22 15:41:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42682",
+          "lastname": "Tryon",
+          "forename": "G W"
+        }
+      ],
+      "bhl_pages": [
+        6660216,
+        6660215,
+        6660214,
+        6660213
+      ]
+    }
+  ]
+}

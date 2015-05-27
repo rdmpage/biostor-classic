@@ -1,0 +1,35 @@
+{
+  "ItemID": "37968",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "Bd.56, 1923",
+  "articles": [
+    {
+      "reference_id": "65158",
+      "genre": "article",
+      "title": "\u00dcber die Blutaufnahme als Nahrung bei den Mallophagen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "56",
+      "spage": "231",
+      "epage": "233",
+      "year": "1923",
+      "date": "1923-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898169",
+      "created": "2011-01-31 16:18:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44799",
+          "lastname": "Kotl\u00e1n",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        9898169,
+        9898170,
+        9898171
+      ]
+    }
+  ]
+}

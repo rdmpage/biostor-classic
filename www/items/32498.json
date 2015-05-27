@@ -1,0 +1,37 @@
+{
+  "ItemID": "32498",
+  "FullTitle": "Le Naturaliste canadien.",
+  "VolumeInfo": "v. 10 1878",
+  "articles": [
+    {
+      "reference_id": "71383",
+      "genre": "article",
+      "title": "Additions et corrections aux Neuropteres de la Province de Quebec",
+      "secondary_title": "Naturaliste canad",
+      "volume": "10",
+      "spage": "124",
+      "epage": "128",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "1605564",
+      "PageID": "7570466",
+      "created": "2011-06-03 19:38:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46817",
+          "lastname": "",
+          "forename": "Provancher"
+        }
+      ],
+      "bhl_pages": [
+        7570466,
+        7570467,
+        7570468,
+        7570469,
+        7570470
+      ]
+    }
+  ]
+}

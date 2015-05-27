@@ -1,0 +1,61 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    },
+    {
+      "firstname": "Marinus S",
+      "lastname": "Hoogmoed",
+      "name": "Marinus S Hoogmoed"
+    }
+  ],
+  "type": "article",
+  "title": "Some hylid frogs from the Guiana Highlands, northeastern South America: new species, distributional records, and a generic reallocation",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "147",
+    "pages": "1--21",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1992",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/217"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4467277"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 217
+    },
+    {
+      "type": "bhl",
+      "id": 4467277
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -58,
+        2
+      ],
+      [
+        -60.733333333333,
+        5.6333333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ItemID": "8647",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1877 v. 24",
+  "articles": [
+    {
+      "reference_id": "14102",
+      "genre": "article",
+      "title": "De quelques especes nouvelle de champignons",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "24",
+      "spage": "307",
+      "epage": "314",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0181-1789",
+      "PageID": "259008",
+      "created": "2010-01-14 08:36:04",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10191",
+          "lastname": "Boudier",
+          "forename": "J L \u00c9"
+        }
+      ],
+      "bhl_pages": [
+        259008,
+        259009,
+        259010,
+        259011,
+        259012,
+        259013,
+        259014,
+        259015
+      ]
+    }
+  ]
+}

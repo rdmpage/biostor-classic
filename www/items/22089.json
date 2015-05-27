@@ -1,0 +1,661 @@
+{
+  "ItemID": "22089",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 51 (1919)",
+  "articles": [
+    {
+      "reference_id": "59108",
+      "genre": "article",
+      "title": "Notes on the Delphacidae in the British Museum",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "6",
+      "epage": "8",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042136",
+      "created": "2010-11-20 23:54:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39860",
+          "lastname": "Muir",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3042136,
+        3042137,
+        3042138
+      ]
+    },
+    {
+      "reference_id": "72338",
+      "genre": "article",
+      "title": "A new species of Argia (Odonata)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "17",
+      "epage": "18",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042147",
+      "created": "2011-06-04 01:27:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17799",
+          "lastname": "Kennedy",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        3042147,
+        3042148
+      ]
+    },
+    {
+      "reference_id": "71523",
+      "genre": "article",
+      "title": "Some new lachnids of the genus Lachniella (Homoptera - Hemiptera)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "18",
+      "epage": "22",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042148",
+      "created": "2011-06-03 20:13:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45326",
+          "lastname": "",
+          "forename": "Wilson"
+        }
+      ],
+      "bhl_pages": [
+        3042148,
+        3042149,
+        3042150,
+        3042151,
+        3042152
+      ]
+    },
+    {
+      "reference_id": "72278",
+      "genre": "article",
+      "title": "Some new or scarce Coleoptera from western and southern Florida",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "51",
+      "spage": "28",
+      "epage": "32",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1553087",
+      "PageID": "3042160",
+      "created": "2011-06-04 01:01:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46688",
+          "lastname": "Blatchley",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3042160,
+        3042161,
+        3042162,
+        3042163,
+        3042164
+      ]
+    },
+    {
+      "reference_id": "71126",
+      "genre": "article",
+      "title": "Some new American Delphacidae",
+      "secondary_title": "The Canadian Entomologist",
+      "volume": "51",
+      "spage": "35",
+      "epage": "39",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042167",
+      "created": "2011-06-03 17:56:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39860",
+          "lastname": "Muir",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3042167,
+        3042168,
+        3042169,
+        3042170,
+        3042171
+      ]
+    },
+    {
+      "reference_id": "72136",
+      "genre": "article",
+      "title": "Popular and practical Entomology. Dog days",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "51",
+      "spage": "49",
+      "epage": "53",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1553087",
+      "PageID": "3042181",
+      "created": "2011-06-04 00:37:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46956",
+          "lastname": "Morris",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3042181,
+        3042182,
+        3042183,
+        3042184,
+        3042185
+      ]
+    },
+    {
+      "reference_id": "72501",
+      "genre": "article",
+      "title": "Some new or scarce Coleoptera from western and southern Florida.- II",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "51",
+      "spage": "65",
+      "epage": "69",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1553087",
+      "PageID": "3042197",
+      "created": "2011-06-04 02:15:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46688",
+          "lastname": "Blatchley",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        3042197,
+        3042198,
+        3042199,
+        3042200,
+        3042201
+      ]
+    },
+    {
+      "reference_id": "73174",
+      "genre": "article",
+      "title": "A new species of Hylemyia from Canada (Diptera, Anthomyiidae)",
+      "secondary_title": "Can. Ent",
+      "volume": "51",
+      "spage": "95",
+      "epage": "96",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042235",
+      "created": "2011-06-04 07:56:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        3042235,
+        3042236
+      ]
+    },
+    {
+      "reference_id": "72595",
+      "genre": "article",
+      "title": "New spiders from Canada and the adjoining states, No. 2",
+      "secondary_title": "Canad. Ent",
+      "volume": "51",
+      "spage": "105",
+      "epage": "108",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042247",
+      "created": "2011-06-04 02:37:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41983",
+          "lastname": "Emerton",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        3042247,
+        3042248,
+        3042249,
+        3042250
+      ]
+    },
+    {
+      "reference_id": "85150",
+      "genre": "article",
+      "title": "A new Parajulus from British Columbia",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "119",
+      "epage": "120",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042261",
+      "created": "2011-08-11 17:38:29",
+      "updated": "2011-08-11 17:38:29",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042261,
+        3042262
+      ]
+    },
+    {
+      "reference_id": "72865",
+      "genre": "article",
+      "title": "Descriptions of four new parasitic Hymenoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "160",
+      "epage": "162",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042302",
+      "created": "2011-06-04 04:27:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42321",
+          "lastname": "Rohwer",
+          "forename": "S A"
+        }
+      ],
+      "bhl_pages": [
+        3042302,
+        3042303,
+        3042304
+      ]
+    },
+    {
+      "reference_id": "13803",
+      "genre": "article",
+      "title": "New Nearctic crane-flies (Rhyphidae and Tipulidae, Diptera). Part VII",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "162",
+      "epage": "172",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042304",
+      "created": "2010-01-13 11:08:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3042304,
+        3042305,
+        3042306,
+        3042307,
+        3042308,
+        3042309,
+        3042310,
+        3042311,
+        3042312,
+        3042313,
+        3042314
+      ]
+    },
+    {
+      "reference_id": "85223",
+      "genre": "article",
+      "title": "Notes on Thysanoptera from British Columbia",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "181",
+      "epage": "190",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042323",
+      "created": "2011-08-11 18:00:31",
+      "updated": "2011-08-11 18:00:31",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042323,
+        3042324,
+        3042325,
+        3042326,
+        3042327,
+        3042328,
+        3042329,
+        3042330,
+        3042331,
+        3042332
+      ]
+    },
+    {
+      "reference_id": "13804",
+      "genre": "article",
+      "title": "New Nearctic crane-flies (Tipulidae, Diptera). Part VIII",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "191",
+      "epage": "199",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042335",
+      "created": "2010-01-13 11:08:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3042335,
+        3042336,
+        3042337,
+        3042338,
+        3042339,
+        3042340,
+        3042341,
+        3042342,
+        3042343
+      ]
+    },
+    {
+      "reference_id": "85251",
+      "genre": "article",
+      "title": "The panurgine bees of North Dakota and a new Epeolus",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "205",
+      "epage": "210",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042351",
+      "created": "2011-08-11 18:08:09",
+      "updated": "2011-08-11 18:08:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042351,
+        3042352,
+        3042353,
+        3042354,
+        3042355,
+        3042356
+      ]
+    },
+    {
+      "reference_id": "85187",
+      "genre": "article",
+      "title": "New Coleoptera. viii",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "212",
+      "epage": "216",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042358",
+      "created": "2011-08-11 17:53:02",
+      "updated": "2011-08-11 17:53:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042358,
+        3042359,
+        3042360,
+        3042361,
+        3042362
+      ]
+    },
+    {
+      "reference_id": "85173",
+      "genre": "article",
+      "title": "Four new african. Membracidac",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "220",
+      "epage": "224",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042366",
+      "created": "2011-08-11 17:48:36",
+      "updated": "2011-08-11 17:48:36",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042366,
+        3042367,
+        3042368,
+        3042369,
+        3042370
+      ]
+    },
+    {
+      "reference_id": "85230",
+      "genre": "article",
+      "title": "Report on a second collection of nova-scotian eupterygid leaf-hoppers, including descriptions of new varieties",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "225",
+      "epage": "226",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042371",
+      "created": "2011-08-11 18:02:25",
+      "updated": "2011-08-11 18:02:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042371,
+        3042372
+      ]
+    },
+    {
+      "reference_id": "60341",
+      "genre": "article",
+      "title": "Miscellaneous Aphid notes 1",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "228",
+      "epage": "234",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042374",
+      "created": "2010-11-22 23:22:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42281",
+          "lastname": "Davis",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        3042374,
+        3042375,
+        3042376,
+        3042377,
+        3042378,
+        3042379,
+        3042380
+      ]
+    },
+    {
+      "reference_id": "71890",
+      "genre": "article",
+      "title": "New aphids from oaks",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "245",
+      "epage": "248",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042391",
+      "created": "2011-06-03 23:30:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46841",
+          "lastname": "",
+          "forename": "Davidson"
+        }
+      ],
+      "bhl_pages": [
+        3042391,
+        3042392,
+        3042393,
+        3042394
+      ]
+    },
+    {
+      "reference_id": "85215",
+      "genre": "article",
+      "title": "Notes on Coccidae. iv",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "249",
+      "epage": "253",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042395",
+      "created": "2011-08-11 17:58:57",
+      "updated": "2011-08-11 17:58:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042395,
+        3042396,
+        3042397,
+        3042398,
+        3042399
+      ]
+    },
+    {
+      "reference_id": "85246",
+      "genre": "article",
+      "title": "The bees of Gold hill, Colorado",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "51",
+      "spage": "271",
+      "epage": "273",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042417",
+      "created": "2011-08-11 18:07:02",
+      "updated": "2011-08-11 18:07:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3042417,
+        3042418,
+        3042419
+      ]
+    },
+    {
+      "reference_id": "73569",
+      "genre": "article",
+      "title": "Three new Canadian Anthomyiidae (Diptera)",
+      "secondary_title": "Can. Ent",
+      "volume": "51",
+      "spage": "274",
+      "epage": "276",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0008-347X",
+      "PageID": "3042420",
+      "created": "2011-06-04 09:20:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        3042420,
+        3042421,
+        3042422
+      ]
+    }
+  ]
+}

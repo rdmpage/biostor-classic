@@ -1,0 +1,37 @@
+{
+  "ItemID": "30062",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 41 (1904)",
+  "articles": [
+    {
+      "reference_id": "85740",
+      "genre": "article",
+      "title": "Die Clupeinen des westlichen Teiles des Schwarzen Meeres und der Donaum\u00fcndungen",
+      "secondary_title": "Anzeiger der Akademie f\u00fcr Wissenschaftlichen, Wien",
+      "volume": "41",
+      "spage": "299",
+      "epage": "303",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "9782210",
+      "PageID": "6351732",
+      "created": "2011-09-08 14:25:47",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51162",
+          "lastname": "Antipa",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        6351732,
+        6351733,
+        6351734,
+        6351735,
+        6351736
+      ]
+    }
+  ]
+}

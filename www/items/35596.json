@@ -1,0 +1,34 @@
+{
+  "ItemID": "35596",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1873",
+  "articles": [
+    {
+      "reference_id": "50130",
+      "genre": "article",
+      "title": "\u00dcber eine neue Art von Cnemidophorus",
+      "secondary_title": "Sitzungsber. Ges. naturforsch. Freunde Berlin",
+      "volume": "1873",
+      "spage": "76",
+      "epage": "77",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0037-5942",
+      "PageID": "8795410",
+      "created": "2010-04-10 16:27:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17898",
+          "lastname": "Peters",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        8795410,
+        8795411
+      ]
+    }
+  ]
+}

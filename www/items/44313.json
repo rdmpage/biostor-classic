@@ -1,0 +1,90 @@
+{
+  "ItemID": "44313",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 28 1895",
+  "articles": [
+    {
+      "reference_id": "72794",
+      "genre": "article",
+      "title": "Gymnopleurus; correction of nomenclature",
+      "secondary_title": "The Entomologist",
+      "volume": "28",
+      "spage": "2",
+      "epage": "3",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0013-8878",
+      "PageID": "12170765",
+      "created": "2011-06-04 04:09:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46678",
+          "lastname": "Shipp",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12170765,
+        12170764
+      ]
+    },
+    {
+      "reference_id": "70921",
+      "genre": "article",
+      "title": "The coprophagous Lamellicornia: a list of species belonging to the genera Circellium and Sceliages, with notes on Ateuchidae",
+      "secondary_title": "The Entomologist",
+      "volume": "28",
+      "spage": "37",
+      "epage": "40",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0013-8878",
+      "PageID": "12170789",
+      "created": "2011-06-03 16:54:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46678",
+          "lastname": "Shipp",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12170789,
+        12170790,
+        12170791,
+        12170792
+      ]
+    },
+    {
+      "reference_id": "70899",
+      "genre": "article",
+      "title": "Notes on Onthophagus Latr., with corrections of nomenclature, and a description of a new genus",
+      "secondary_title": "The Entomologist",
+      "volume": "28",
+      "spage": "178",
+      "epage": "179",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0013-8878",
+      "PageID": "12170930",
+      "created": "2011-06-03 16:47:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46678",
+          "lastname": "Shipp",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12170930,
+        12170931
+      ]
+    }
+  ]
+}

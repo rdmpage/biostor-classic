@@ -1,0 +1,113 @@
+{
+  "ItemID": "48988",
+  "FullTitle": "Zoological Journal.  ",
+  "VolumeInfo": "Volume I",
+  "articles": [
+    {
+      "reference_id": "72782",
+      "genre": "article",
+      "title": "Descriptions of some rare, interesting, or hitherto uncharacterized subjects in zoology",
+      "secondary_title": "Zoological Journal",
+      "volume": "1",
+      "spage": "409",
+      "epage": "418",
+      "year": "1825",
+      "date": "1825-00-00",
+      "issn": "0024-4082",
+      "PageID": "13793319",
+      "created": "2011-06-04 04:05:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46701",
+          "lastname": "Vigors",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        13793319,
+        13793320,
+        13793321,
+        13793322,
+        13793323,
+        13793324,
+        13793325,
+        13793326,
+        13793327,
+        13793328
+      ]
+    },
+    {
+      "reference_id": "71386",
+      "genre": "article",
+      "title": "Some remarks on the nomenclature of the Gryllina of MacLeay, with the characters of a new genus in that tribe",
+      "secondary_title": "Zoological Journal",
+      "volume": "1",
+      "spage": "429",
+      "epage": "432",
+      "year": "1825",
+      "date": "1825-00-00",
+      "issn": "0024-4082",
+      "PageID": "13793347",
+      "created": "2011-06-03 19:38:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10320",
+          "lastname": "Kirby",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        13793347,
+        13793348,
+        13793349,
+        13793350
+      ]
+    },
+    {
+      "reference_id": "61628",
+      "genre": "article",
+      "title": "Descriptions of some rare, interesting, or hitherto uncharacterized subjects of zoology",
+      "secondary_title": "Zoological Journal London",
+      "volume": "1",
+      "spage": "526",
+      "epage": "542",
+      "year": "1825",
+      "date": "1825-00-00",
+      "issn": "0024-4082",
+      "PageID": "13793450",
+      "created": "2011-01-10 22:47:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2705",
+          "lastname": "Vigors",
+          "forename": "N A"
+        }
+      ],
+      "bhl_pages": [
+        13793450,
+        13793451,
+        13793452,
+        13793453,
+        13793454,
+        13793455,
+        13793456,
+        13793457,
+        13793458,
+        13793459,
+        13793460,
+        13793461,
+        13793462,
+        13793463,
+        13793464,
+        13793465,
+        13793466
+      ]
+    }
+  ]
+}

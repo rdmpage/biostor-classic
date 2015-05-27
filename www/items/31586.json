@@ -1,0 +1,112 @@
+{
+  "ItemID": "31586",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 31, Bd. 1 (1865)",
+  "articles": [
+    {
+      "reference_id": "65284",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntniss der Decapoden-Krebse Ost-Australiens",
+      "secondary_title": "Archiv F\u00fcr Naturgeschichte. Berlin",
+      "volume": "31",
+      "spage": "127",
+      "epage": "173",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "1481990",
+      "PageID": "7202499",
+      "created": "2011-02-17 08:37:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44829",
+          "lastname": "Hess",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        7202499,
+        7202500,
+        7202460,
+        7202571,
+        7202572,
+        7202573,
+        7202574,
+        7202575,
+        7202576,
+        7202577,
+        7202578,
+        7202579,
+        7202580,
+        7202581,
+        7202780,
+        7202781,
+        7202782,
+        7202783,
+        7202784,
+        7202785,
+        7202786,
+        7202787,
+        7202788,
+        7202789,
+        7202790,
+        7202582,
+        7202583,
+        7202584,
+        7202585,
+        7202586,
+        7202587,
+        7202588,
+        7202589,
+        7202590,
+        7202591,
+        7202592,
+        7202758,
+        7202759,
+        7202760,
+        7202761,
+        7202762,
+        7202763,
+        7202764,
+        7202765,
+        7202766,
+        7202767,
+        7202768
+      ]
+    },
+    {
+      "reference_id": "72765",
+      "genre": "article",
+      "title": "Zur Naturgeschichte der Rhabdocoelen",
+      "secondary_title": "Arch. Naturg",
+      "volume": "31",
+      "spage": "174",
+      "epage": "181",
+      "year": "1865",
+      "date": "1865-00-00",
+      "issn": "0365-6136",
+      "PageID": "7202593",
+      "created": "2011-06-04 03:51:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47082",
+          "lastname": "",
+          "forename": "M E T S C H N I K O W"
+        }
+      ],
+      "bhl_pages": [
+        7202593,
+        7202594,
+        7202595,
+        7202596,
+        7202597,
+        7202598,
+        7202599,
+        7202600
+      ]
+    }
+  ]
+}

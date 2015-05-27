@@ -1,0 +1,88 @@
+{
+  "author": [
+    {
+      "firstname": "T B",
+      "lastname": "Croat",
+      "name": "T B Croat"
+    }
+  ],
+  "type": "article",
+  "title": "New species of Central American Araceae",
+  "journal": {
+    "name": "Novon",
+    "volume": "9",
+    "pages": "491--502",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1055-3177"
+      }
+    ]
+  },
+  "year": "1999",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/63875"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/641223"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 63875
+    },
+    {
+      "type": "bhl",
+      "id": 641223
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -83.566666666667,
+        10.083333333333
+      ],
+      [
+        -83.533333333333,
+        8.5416666666667
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -83.75,
+        10.633333333333
+      ],
+      [
+        -84.175,
+        10.258333333333
+      ],
+      [
+        -82.65,
+        9.5833333333333
+      ],
+      [
+        -82.25,
+        8.75
+      ],
+      [
+        -84.466666666667,
+        10.366666666667
+      ],
+      [
+        -84.5,
+        10.466666666667
+      ],
+      [
+        -84.55,
+        10.383333333333
+      ]
+    ]
+  }
+}

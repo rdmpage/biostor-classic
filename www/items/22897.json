@@ -1,0 +1,35 @@
+{
+  "ItemID": "22897",
+  "FullTitle": "The Ohio journal of science.",
+  "VolumeInfo": "v. 4-6 (1903-1906)",
+  "articles": [
+    {
+      "reference_id": "73450",
+      "genre": "article",
+      "title": "On Diptera of the family Ephydridae",
+      "secondary_title": "Ohio J. Sci",
+      "volume": "4",
+      "spage": "63",
+      "epage": "65",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0030-0950",
+      "PageID": "3346135",
+      "created": "2011-06-04 08:40:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47141",
+          "lastname": "Hine",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        3346135,
+        3346136,
+        3346145
+      ]
+    }
+  ]
+}

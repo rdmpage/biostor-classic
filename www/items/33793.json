@@ -1,0 +1,67 @@
+{
+  "ItemID": "33793",
+  "FullTitle": "Bericht \u00fcber die Senckenbergische Naturforschende Gesellschaft in Frankfurt am Main.",
+  "VolumeInfo": "1893",
+  "articles": [
+    {
+      "reference_id": "100184",
+      "genre": "article",
+      "title": "Reptilien und Batrachier aus Venezuela",
+      "secondary_title": "Bericht der Senckenbergischen Naturforschenden Gesellschaft in Frankfurt am Main",
+      "volume": "1893",
+      "spage": "35",
+      "epage": "42",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "7602121",
+      "PageID": "8091276",
+      "created": "2012-01-07 09:55:09",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        8091276,
+        8091277,
+        8091278,
+        8091279,
+        8091280,
+        8091281,
+        8091282,
+        8091283
+      ]
+    },
+    {
+      "reference_id": "100185",
+      "genre": "article",
+      "title": "Ein neuer Laubfrosch aus Costa Rica",
+      "secondary_title": "Bericht der Senckenbergischen Naturforschenden Gesellschaft in Frankfurt am Main",
+      "volume": "1893",
+      "spage": "251",
+      "epage": "252",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "7602121",
+      "PageID": "8091492",
+      "created": "2012-01-07 10:05:08",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        8091492,
+        8091493
+      ]
+    }
+  ]
+}

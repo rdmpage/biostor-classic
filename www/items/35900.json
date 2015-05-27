@@ -1,0 +1,171 @@
+{
+  "ItemID": "35900",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 49 = 2nd ser. v. 24 1913",
+  "articles": [
+    {
+      "reference_id": "65176",
+      "genre": "article",
+      "title": "What is the true host of Nirmus interruptus Piaget?",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "49",
+      "spage": "18",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1568052",
+      "PageID": "8964144",
+      "created": "2011-01-31 16:34:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10321",
+          "lastname": "Waterston",
+          "forename": "James"
+        }
+      ],
+      "bhl_pages": [
+        8964144
+      ]
+    },
+    {
+      "reference_id": "65177",
+      "genre": "article",
+      "title": "A suggestion for securing certain Liotheidae (Mallophaga)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "49",
+      "spage": "36",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1568052",
+      "PageID": "8964168",
+      "created": "2011-01-31 16:34:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10321",
+          "lastname": "Waterston",
+          "forename": "James"
+        }
+      ],
+      "bhl_pages": [
+        8964168
+      ]
+    },
+    {
+      "reference_id": "53227",
+      "genre": "article",
+      "title": "Two Diptera new to Britain",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "49",
+      "spage": "180",
+      "epage": "181",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8964342",
+      "created": "2010-10-26 17:15:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40796",
+          "lastname": "Carter",
+          "forename": "A E J"
+        }
+      ],
+      "bhl_pages": [
+        8964342,
+        8964343
+      ]
+    },
+    {
+      "reference_id": "73526",
+      "genre": "article",
+      "title": "Sexual dimorphism in a species of Sciara",
+      "secondary_title": "Ent. mon. Mag",
+      "volume": "49",
+      "spage": "209",
+      "epage": "211",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8908",
+      "PageID": "8964377",
+      "created": "2011-06-04 08:54:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        8964377,
+        8964378,
+        8964379
+      ]
+    },
+    {
+      "reference_id": "58568",
+      "genre": "article",
+      "title": "Tribolium castaneum, Herbst = ferrugineum, auct. (nec Fab.)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "49",
+      "spage": "222",
+      "epage": "224",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8964394",
+      "created": "2010-11-20 21:53:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39861",
+          "lastname": "Blair",
+          "forename": "K G"
+        }
+      ],
+      "bhl_pages": [
+        8964394,
+        8964395,
+        8964396
+      ]
+    },
+    {
+      "reference_id": "67117",
+      "genre": "article",
+      "title": "The Odonata, Trichoptera, Neuroptera and Plecoptera of Wood Walton Fen, Huntingdonshire",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "49",
+      "spage": "271",
+      "epage": "274",
+      "year": "1913",
+      "date": "1913-00-00",
+      "oclc": "1568052",
+      "PageID": "8964453",
+      "created": "2011-05-12 13:33:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45455",
+          "lastname": "Morton",
+          "forename": "K J"
+        }
+      ],
+      "bhl_pages": [
+        8964453,
+        8964454,
+        8964455,
+        8964456
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "author": [
+    {
+      "firstname": "J E",
+      "lastname": "Hill",
+      "name": "J E Hill"
+    },
+    {
+      "firstname": "W N",
+      "lastname": "Beckon",
+      "name": "W N Beckon"
+    }
+  ],
+  "type": "article",
+  "title": "A new species of Pteralopex Thomas, 1888 (Chiroptera: Pteropodidae) from the Fiji Islands",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History). Zoology",
+    "volume": "34",
+    "issue": "2",
+    "pages": "65--82",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0007-1498"
+      }
+    ]
+  },
+  "year": "1978",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/8"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2261841"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 8
+    },
+    {
+      "type": "bhl",
+      "id": 2261841
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -157.91666666667,
+        -21.916666666667
+      ],
+      [
+        -179.96666666667,
+        -16.833333333333
+      ]
+    ]
+  }
+}

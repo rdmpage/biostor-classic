@@ -1,0 +1,62 @@
+{
+  "author": [
+    {
+      "firstname": "J R",
+      "lastname": "Mccranie",
+      "name": "J R Mccranie"
+    },
+    {
+      "firstname": "J M",
+      "lastname": "Savage",
+      "name": "J M Savage"
+    },
+    {
+      "firstname": "L D",
+      "lastname": "Wilson",
+      "name": "L D Wilson"
+    }
+  ],
+  "type": "article",
+  "title": "Description Of 2 New Species Of The Eleutherodactylus milesi Group",
+  "journal": {
+    "name": "Proceedings of The Biological Society of Washington",
+    "volume": "102",
+    "pages": "483--490",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0006-324X"
+      }
+    ]
+  },
+  "year": "1989",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/74616"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/34607080"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 74616
+    },
+    {
+      "type": "bhl",
+      "id": 34607080
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -86.783333333333,
+        15.633333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ItemID": "88646",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "jahrg. 48 1911",
+  "articles": [
+    {
+      "reference_id": "100187",
+      "genre": "article",
+      "title": "Vorlaufiger Bericht \u00fcber drei neue Arten aus der Familie der Chamaeleontidae",
+      "secondary_title": "Wien Anzeiger der Akademie der Wissenschaften",
+      "volume": "1911",
+      "spage": "177",
+      "epage": "179",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "9782210",
+      "PageID": "27838691",
+      "created": "2012-01-07 18:00:38",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39815",
+          "lastname": "Steindachner",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        27838691,
+        27838692,
+        27838693
+      ]
+    }
+  ]
+}

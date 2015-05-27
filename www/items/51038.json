@@ -1,0 +1,35 @@
+{
+  "ItemID": "51038",
+  "FullTitle": "Quarterly journal of microscopical science.",
+  "VolumeInfo": "new ser.:v.19 (1879)",
+  "articles": [
+    {
+      "reference_id": "104905",
+      "genre": "article",
+      "title": "On certain points in the anatomy of Peripatus capensis",
+      "secondary_title": "Quarterly Journal of Microscopical Science, Ns",
+      "volume": "19",
+      "spage": "431",
+      "epage": "433",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1763236",
+      "PageID": "14704642",
+      "created": "2012-06-29 09:53:58",
+      "updated": "2012-06-29 09:53:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53920",
+          "lastname": "Balfour",
+          "forename": "Francis Maitland"
+        }
+      ],
+      "bhl_pages": [
+        14704642,
+        14704643,
+        14704644
+      ]
+    }
+  ]
+}

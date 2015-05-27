@@ -1,0 +1,119 @@
+{
+  "ItemID": "32352",
+  "FullTitle": "Transactions of the American Entomological Society",
+  "VolumeInfo": "v. 1 1867\/68",
+  "articles": [
+    {
+      "reference_id": "69771",
+      "genre": "article",
+      "title": "On a new genus of Aphidae",
+      "secondary_title": "Transactions of the American Entomological Society",
+      "volume": "1",
+      "spage": "283",
+      "epage": "285",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0002-8320",
+      "PageID": "7507001",
+      "created": "2011-06-02 06:56:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46253",
+          "lastname": "",
+          "forename": "Shimer"
+        }
+      ],
+      "bhl_pages": [
+        7507001,
+        7507002,
+        7507003
+      ]
+    },
+    {
+      "reference_id": "69795",
+      "genre": "article",
+      "title": "A list of the Ichneumonidae of North America, with descriptions of new species. Part 1",
+      "secondary_title": "Transactions of the American Entomological Society",
+      "volume": "1",
+      "spage": "289",
+      "epage": "312",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0002-8320",
+      "PageID": "7506876",
+      "created": "2011-06-02 06:57:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18299",
+          "lastname": "Cresson",
+          "forename": "E T"
+        }
+      ],
+      "bhl_pages": [
+        7506876,
+        7506877,
+        7506878,
+        7506879,
+        7506880,
+        7506881,
+        7506882,
+        7506883,
+        7506884,
+        7506885,
+        7506886,
+        7506887,
+        7506888,
+        7506889,
+        7506890,
+        7506891,
+        7506892,
+        7506893,
+        7506894,
+        7506815,
+        7506816,
+        7506817,
+        7506818,
+        7506819
+      ]
+    },
+    {
+      "reference_id": "69772",
+      "genre": "article",
+      "title": "Geotrupes of boreal America",
+      "secondary_title": "Transactions of the American Entomological Society",
+      "volume": "1",
+      "spage": "313",
+      "epage": "322",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0002-8320",
+      "PageID": "7506820",
+      "created": "2011-06-02 06:56:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46260",
+          "lastname": "G.h.",
+          "forename": "Horn"
+        }
+      ],
+      "bhl_pages": [
+        7506820,
+        7506821,
+        7506822,
+        7506903,
+        7506904,
+        7506905,
+        7506906,
+        7506907,
+        7506908,
+        7506909
+      ]
+    }
+  ]
+}

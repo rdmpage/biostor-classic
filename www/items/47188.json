@@ -1,0 +1,211 @@
+{
+  "ItemID": "47188",
+  "FullTitle": "Invertebrata pacifica.  Edited by C. F. Baker ...",
+  "VolumeInfo": "v. 1 1903-07",
+  "articles": [
+    {
+      "reference_id": "57772",
+      "genre": "article",
+      "title": "On the Gnathodus species of the abdominalis group",
+      "secondary_title": "Invertebrata Pacifica",
+      "volume": "1",
+      "spage": "1",
+      "epage": "2",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "6184640",
+      "PageID": "13085210",
+      "created": "2010-11-20 14:51:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42157",
+          "lastname": "Baker",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        13085210,
+        13085209
+      ]
+    },
+    {
+      "reference_id": "73059",
+      "genre": "article",
+      "title": "The genus Erythria in America",
+      "secondary_title": "invertebrata Pacifica",
+      "volume": "1",
+      "spage": "3",
+      "epage": "5",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "6184640",
+      "PageID": "13085208",
+      "created": "2011-06-04 05:42:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42157",
+          "lastname": "Baker",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        13085208,
+        13085207,
+        13085206
+      ]
+    },
+    {
+      "reference_id": "57864",
+      "genre": "article",
+      "title": "Diptera.  Reports on Californian and Nevadan Diptera, I",
+      "secondary_title": "Invertebrata Pacifica",
+      "volume": "1",
+      "spage": "17",
+      "epage": "39",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "6184640",
+      "PageID": "13085194",
+      "created": "2010-11-20 15:10:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42157",
+          "lastname": "Baker",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        13085194,
+        13085161,
+        13085162,
+        13085163,
+        13085164,
+        13085165,
+        13085166,
+        13085167,
+        13085168,
+        13085169,
+        13085170,
+        13085171,
+        13085172,
+        13085173,
+        13085174,
+        13085175,
+        13085176,
+        13085177,
+        13085178,
+        13085179,
+        13085180,
+        13085181,
+        13085182
+      ]
+    },
+    {
+      "reference_id": "72707",
+      "genre": "article",
+      "title": "Notes on neuropteroid insects of the Pacific Coast of North America with descriptions of new species by Nathan Banks",
+      "secondary_title": "Invertebrata Pacifica",
+      "volume": "1",
+      "spage": "85",
+      "epage": "91",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "6184640",
+      "PageID": "13085255",
+      "created": "2011-06-04 03:17:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42157",
+          "lastname": "Baker",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        13085255,
+        13085256,
+        13085257,
+        13085258,
+        13085259,
+        13085260,
+        13085261
+      ]
+    },
+    {
+      "reference_id": "72961",
+      "genre": "article",
+      "title": "On some Hymenoptera collected by Prof. C.F. Baker in Nicaragua",
+      "secondary_title": "Invertebrata Pacifica",
+      "volume": "1",
+      "spage": "99",
+      "epage": "104",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "6184640",
+      "PageID": "13085269",
+      "created": "2011-06-04 04:46:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13085269,
+        13085270,
+        13085271,
+        13085272,
+        13085273,
+        13085274
+      ]
+    },
+    {
+      "reference_id": "72416",
+      "genre": "article",
+      "title": "On some Hymenoptera (chiefly undescribed) collected by Prof. C.F. Baker in Nevada and southern California",
+      "secondary_title": "Invertebrata Pacifica",
+      "volume": "1",
+      "spage": "120",
+      "epage": "132",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "6184640",
+      "PageID": "13085290",
+      "created": "2011-06-04 01:49:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13085290,
+        13085291,
+        13085292,
+        13085293,
+        13085294,
+        13085295,
+        13085296,
+        13085297,
+        13085298,
+        13085299,
+        13085300,
+        13085301,
+        13085302
+      ]
+    }
+  ]
+}

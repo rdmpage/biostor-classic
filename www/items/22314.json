@@ -1,0 +1,471 @@
+{
+  "ItemID": "22314",
+  "FullTitle": "Proceedings of the California Academy of Sciences, 4th series.",
+  "VolumeInfo": "4th ser. v. 10 (1920)",
+  "articles": [
+    {
+      "reference_id": "77952",
+      "genre": "article",
+      "title": "A further study of varia-tion in the gopher-snakes of Western North America",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "10",
+      "series": "4",
+      "spage": "1",
+      "epage": "27",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137359",
+      "created": "2011-06-28 12:09:02",
+      "updated": "2011-06-28 12:09:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40832",
+          "lastname": "Van Denburgh",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        3137359,
+        3137428,
+        3137429,
+        3137360,
+        3137514,
+        3137381,
+        3137361,
+        3137430,
+        3137382,
+        3137431,
+        3137515,
+        3137432,
+        3137516,
+        3137356,
+        3137517,
+        3137433,
+        3137383,
+        3137434,
+        3137435,
+        3137384,
+        3137362,
+        3137518,
+        3137436,
+        3137437,
+        3137438,
+        3137519,
+        3137439
+      ]
+    },
+    {
+      "reference_id": "69226",
+      "genre": "article",
+      "title": "Description of a new species of rattlesnake (Crotalus lucasensis) from Lower California",
+      "secondary_title": "Proc. Calif. Acad. Sci., San Francisco",
+      "volume": "10",
+      "series": "4",
+      "spage": "29",
+      "epage": "30",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137521",
+      "created": "2011-06-01 08:41:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40287",
+          "lastname": "Van Denburgh",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3137521,
+        3137522
+      ]
+    },
+    {
+      "reference_id": "69227",
+      "genre": "article",
+      "title": "Description of a new subspecies of boa (Charina bottae utahensis) from Utah",
+      "secondary_title": "Proc. Calif. Acad. Sci., San Francisco",
+      "volume": "10",
+      "series": "4",
+      "spage": "31",
+      "epage": "34",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137386",
+      "created": "2011-06-01 08:41:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46217",
+          "lastname": "Denburgh",
+          "forename": "Van"
+        }
+      ],
+      "bhl_pages": [
+        3137386,
+        3137445,
+        3137387,
+        3137388
+      ]
+    },
+    {
+      "reference_id": "77953",
+      "genre": "article",
+      "title": "Description of a new lizard (Dipsosaurus dorsalis lucasensis) from Lower California",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "10",
+      "series": "4",
+      "spage": "33",
+      "epage": "34",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137387",
+      "created": "2011-06-28 12:09:06",
+      "updated": "2011-06-28 12:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40832",
+          "lastname": "Van Denburgh",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        3137387,
+        3137388
+      ]
+    },
+    {
+      "reference_id": "77954",
+      "genre": "article",
+      "title": "Undescribed Tipulidae (Diptera) from Western North America",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "10",
+      "series": "4",
+      "spage": "35",
+      "epage": "46",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137363",
+      "created": "2011-06-28 12:09:09",
+      "updated": "2011-06-28 12:09:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10073",
+          "lastname": "Alexander",
+          "forename": "Charles P"
+        }
+      ],
+      "bhl_pages": [
+        3137363,
+        3137446,
+        3137389,
+        3137354,
+        3137364,
+        3137447,
+        3137390,
+        3137391,
+        3137392,
+        3137523,
+        3137448,
+        3137393
+      ]
+    },
+    {
+      "reference_id": "73349",
+      "genre": "article",
+      "title": "Three new species of Dolichopodidae (Diptera) from California and Nevada",
+      "secondary_title": "Proc. Calif. Acad. Sci. ser. 4",
+      "volume": "10",
+      "spage": "47",
+      "epage": "49",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137394",
+      "created": "2011-06-04 08:20:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9219",
+          "lastname": "Van Duzee",
+          "forename": "M C"
+        }
+      ],
+      "bhl_pages": [
+        3137394,
+        3137449,
+        3137395
+      ]
+    },
+    {
+      "reference_id": "73069",
+      "genre": "article",
+      "title": "Two new species of Syrphidae (Diptera)",
+      "secondary_title": "Proc. Calif. Acad. Sci. ser. 4",
+      "volume": "10",
+      "spage": "51",
+      "epage": "52",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137450",
+      "created": "2011-06-04 07:36:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40759",
+          "lastname": "Lovett",
+          "forename": "A L"
+        }
+      ],
+      "bhl_pages": [
+        3137450,
+        3137396
+      ]
+    },
+    {
+      "reference_id": "77955",
+      "genre": "article",
+      "title": "Notes on some undescribed Californian Helices",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "10",
+      "series": "4",
+      "spage": "53",
+      "epage": "70",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137451",
+      "created": "2011-06-28 12:09:13",
+      "updated": "2011-06-28 12:09:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "3108",
+          "lastname": "Berry",
+          "forename": "S Stillman"
+        }
+      ],
+      "bhl_pages": [
+        3137451,
+        3137525,
+        3137452,
+        3137397,
+        3137453,
+        3137398,
+        3137526,
+        3137454,
+        3137365,
+        3137455,
+        3137399,
+        3137400,
+        3137349,
+        3137527,
+        3137357,
+        3137456,
+        3137366,
+        3137457
+      ]
+    },
+    {
+      "reference_id": "69220",
+      "genre": "article",
+      "title": "A new genus and species of grasshopper from California",
+      "secondary_title": "Proc. Calif. Acad. Sci",
+      "volume": "10",
+      "spage": "71",
+      "epage": "75",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137529",
+      "created": "2011-06-01 08:40:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46223",
+          "lastname": "",
+          "forename": "Hebard"
+        }
+      ],
+      "bhl_pages": [
+        3137529,
+        3137530,
+        3137460,
+        3137531,
+        3137402
+      ]
+    },
+    {
+      "reference_id": "69398",
+      "genre": "article",
+      "title": "Color changes and structure of the skin of Anolis carolinensis",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "10",
+      "spage": "77",
+      "epage": "117",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137348",
+      "created": "2011-06-01 08:55:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46264",
+          "lastname": "Von Geldern",
+          "forename": "Charles E"
+        }
+      ],
+      "bhl_pages": [
+        3137348,
+        3137404,
+        3137532,
+        3137462,
+        3137463,
+        3137369,
+        3137370,
+        3137464,
+        3137465,
+        3137533,
+        3137371,
+        3137405,
+        3137534,
+        3137466,
+        3137406,
+        3137535,
+        3137407,
+        3137467,
+        3137408,
+        3137409,
+        3137468,
+        3137469,
+        3137536,
+        3137470,
+        3137471,
+        3137410,
+        3137537,
+        3137411,
+        3137472,
+        3137473,
+        3137412,
+        3137474,
+        3137538,
+        3137413,
+        3137475,
+        3137350,
+        3137476,
+        3137477,
+        3137539,
+        3137478,
+        3137479
+      ]
+    },
+    {
+      "reference_id": "77956",
+      "genre": "article",
+      "title": "Report of the President of the Academy for the year 1920",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "10",
+      "series": "4",
+      "spage": "119",
+      "epage": "127",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137545",
+      "created": "2011-06-28 12:09:16",
+      "updated": "2011-06-28 12:09:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49418",
+          "lastname": "Grunsky",
+          "forename": "Charles E"
+        }
+      ],
+      "bhl_pages": [
+        3137545,
+        3137353,
+        3137355,
+        3137485,
+        3137376,
+        3137486,
+        3137417,
+        3137546,
+        3137487
+      ]
+    },
+    {
+      "reference_id": "78306",
+      "genre": "article",
+      "title": "Report of the director of the museum for the year 1920",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "10",
+      "series": "4",
+      "spage": "128",
+      "epage": "158",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0068-547X",
+      "PageID": "3137547",
+      "created": "2011-06-28 17:10:17",
+      "updated": "2011-06-28 17:10:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49447",
+          "lastname": "Evermann",
+          "forename": "Barton Warren"
+        }
+      ],
+      "bhl_pages": [
+        3137547,
+        3137488,
+        3137489,
+        3137548,
+        3137490,
+        3137491,
+        3137492,
+        3137549,
+        3137550,
+        3137493,
+        3137551,
+        3137552,
+        3137418,
+        3137494,
+        3137419,
+        3137553,
+        3137495,
+        3137496,
+        3137554,
+        3137555,
+        3137556,
+        3137351,
+        3137497,
+        3137498,
+        3137499,
+        3137557,
+        3137352,
+        3137500,
+        3137501,
+        3137502,
+        3137503
+      ]
+    }
+  ]
+}

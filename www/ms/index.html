@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<base href="http://biostor.org/" />
+<link rel="shortcut icon" href="http://biostor.org/images/biostor-shadow32x32.ico" />
+<link type="text/css" href="http://biostor.org/css/main.css" rel="stylesheet" />
+<title>Supplementary data and results - BioStor</title>
+</head>
+<body>
+<div style="border-bottom:1px dotted rgb(128,128,128);padding-bottom:15px;"><a href="http://biostor.org/"><img src="http://biostor.org/images/biostor-shadow32x32.png" border="0" align="top" />&nbsp;<span style="font-size:32px;">BioStor</span></a></div>
+
+<h1>Supplementary data and results for BioStor manuscript</h1>
+
+<h2>Data and code</h2>
+
+<p>The following files are supplementary for the manuscript describing BioStor.</p>
+
+<ul>
+<li><a href="ms/all.ris">Contents of <i>Tijdschrift voor Entomologie</i> in RIS format</a></li>
+
+<!!-- tar -zcvf scripts.tar.gz *.php -->
+
+<li><a href="ms/scripts.tar.gz">Scripts used to measure success in retrieving articles from BHL content</a></li>
+</ul>
+
+<p>The file <code>test.php</code> reads the RIS file <code>all.ris</code> and attempts to find each article in BHL using the BioStor OpenURL resolver. The script outputs the article, if found, and on completion dumps three arrays:</p>
+<ul>
+<li>For each year how many articles are in the RIS file</li>
+<li>For each year how many articles were found</li>
+<li>For each year how many articles had pagination in Roman numerals (BioStor doesn't support Roman numerals, hence didn't search for these references).</li>
+</ul>
+
+<p>For each year the file also outputs an HTML listing each article found and displaying the corresponding page in BHL.</p>
+
+<h2>Results</h2>
+<p>The output of the above script can be viewed <a href="http://biostor.org/ms/tve.html">here</a>.
+</body>
+</html>

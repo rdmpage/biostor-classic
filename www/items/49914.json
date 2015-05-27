@@ -1,0 +1,99 @@
+{
+  "ItemID": "49914",
+  "FullTitle": "Zoologische Jahrb\u00fccher.  ",
+  "VolumeInfo": "suppl. bd. 15, pt. 1 (1912)",
+  "articles": [
+    {
+      "reference_id": "105153",
+      "genre": "article",
+      "title": "\u00dcber die Metamorphose von Puliciphora und \u00fcber neue Arten der Gattung Puliciphora Dahl und Chonocephalus Wandolleck",
+      "secondary_title": "Zoologische Jahrb\u00fccher. Supplementheft",
+      "volume": "15",
+      "spage": "141",
+      "epage": "154",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1645063",
+      "PageID": "14196552",
+      "created": "2012-07-04 19:52:58",
+      "updated": "2012-07-04 19:55:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9954",
+          "lastname": "De Meijere",
+          "forename": "J C H"
+        }
+      ],
+      "bhl_pages": [
+        14196552,
+        14196553,
+        14196554,
+        14196555,
+        14196556,
+        14196557,
+        14196558,
+        14196559,
+        14196560,
+        14196561,
+        14196562,
+        14196563,
+        14196564,
+        14196565,
+        14197034
+      ]
+    },
+    {
+      "reference_id": "101336",
+      "genre": "article",
+      "title": "Helminthologische Beitr\u00e4ge",
+      "secondary_title": "Zoologische Jahrbuecher Jena Supplement",
+      "volume": "15",
+      "issue": "1",
+      "spage": "439",
+      "epage": "464",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "1770667",
+      "PageID": "14196850",
+      "created": "2012-03-15 16:59:55",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2397",
+          "lastname": "De Man",
+          "forename": "J G"
+        }
+      ],
+      "bhl_pages": [
+        14196850,
+        14196851,
+        14196852,
+        14196853,
+        14196854,
+        14196855,
+        14196856,
+        14196857,
+        14196858,
+        14196859,
+        14196860,
+        14196861,
+        14196862,
+        14196863,
+        14196864,
+        14196865,
+        14196866,
+        14196867,
+        14196868,
+        14196869,
+        14196870,
+        14196871,
+        14196872,
+        14196873,
+        14196874,
+        14196875
+      ]
+    }
+  ]
+}

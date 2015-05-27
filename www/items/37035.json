@@ -1,0 +1,44 @@
+{
+  "ItemID": "37035",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "10",
+  "articles": [
+    {
+      "reference_id": "69340",
+      "genre": "article",
+      "title": "Notes upon some Odonata from the Isles of Pines",
+      "secondary_title": "Proceedings Boston Society Natural History",
+      "volume": "10",
+      "spage": "187",
+      "epage": "198",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0270-2444",
+      "PageID": "9492169",
+      "created": "2011-06-01 08:49:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42794",
+          "lastname": "Scudder",
+          "forename": "S H"
+        }
+      ],
+      "bhl_pages": [
+        9492169,
+        9492170,
+        9492171,
+        9492172,
+        9492173,
+        9492174,
+        9492175,
+        9492176,
+        9492177,
+        9492178,
+        9492179,
+        9492180
+      ]
+    }
+  ]
+}

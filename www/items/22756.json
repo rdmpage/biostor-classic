@@ -1,0 +1,96 @@
+{
+  "ItemID": "22756",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.46 (1913)",
+  "articles": [
+    {
+      "reference_id": "58749",
+      "genre": "article",
+      "title": "Descriptions of New Zealand Lepidoptera",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "46",
+      "spage": "101",
+      "epage": "118",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1778777",
+      "PageID": "3297313",
+      "created": "2010-11-20 22:42:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39893",
+          "lastname": "Meyrick",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3297313,
+        3297051,
+        3297085,
+        3297202,
+        3297324,
+        3297307,
+        3297325,
+        3297258,
+        3297012,
+        3297239,
+        3296976,
+        3297205,
+        3296983,
+        3297020,
+        3297070,
+        3297056,
+        3297232,
+        3297289
+      ]
+    },
+    {
+      "reference_id": "102816",
+      "genre": "article",
+      "title": "Notes on a Collection of Cephalopods from the Kermadec Islands",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "46",
+      "issue": "24",
+      "spage": "134",
+      "epage": "149",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "1778777",
+      "PageID": "3297023",
+      "created": "2012-05-13 11:42:29",
+      "updated": "2012-05-13 11:44:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42048",
+          "lastname": "Berry",
+          "forename": "S S"
+        }
+      ],
+      "bhl_pages": [
+        3297023,
+        3297024,
+        3297025,
+        3297014,
+        3297256,
+        3297066,
+        3296986,
+        3297220,
+        3296957,
+        3297054,
+        3297089,
+        3297329,
+        3297271,
+        3297330,
+        3297317,
+        3297060,
+        3297331,
+        3297111,
+        3297108,
+        3297332
+      ]
+    }
+  ]
+}

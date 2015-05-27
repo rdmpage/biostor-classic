@@ -1,0 +1,36 @@
+{
+  "ItemID": "53857",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 31 (1883)",
+  "articles": [
+    {
+      "reference_id": "100136",
+      "genre": "article",
+      "title": "Note pr\u00e9liminaire dur une novelle esp\u00e8ce du genre Cirroteuthis",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "31",
+      "issue": "4",
+      "spage": "402",
+      "epage": "404",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0021-7719",
+      "PageID": "15857425",
+      "created": "2011-12-29 21:31:56",
+      "updated": "2011-12-29 21:35:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40414",
+          "lastname": "Fischer",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        15857425,
+        15857426,
+        15857427
+      ]
+    }
+  ]
+}

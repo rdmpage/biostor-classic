@@ -1,0 +1,96 @@
+{
+  "ItemID": "101293",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "t.11 (1842)",
+  "articles": [
+    {
+      "reference_id": "73050",
+      "genre": "article",
+      "title": "Essai d'une classification m\u00e9thodique de la tribu des Coprophages, famille des Lamellicornes, Division des Scarabaeoides, Col\u00e9opt\u00e8res, Pentam\u00e8res",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 entomologique de France. Paris",
+      "volume": "11",
+      "spage": "59",
+      "epage": "94",
+      "year": "1842",
+      "date": "1842-00-00",
+      "oclc": "1765810",
+      "PageID": "32541177",
+      "created": "2011-06-04 05:33:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47086",
+          "lastname": "Reiche",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        32541177,
+        32541178,
+        32541179,
+        32541180,
+        32541181,
+        32541220,
+        32541221,
+        32541222,
+        32541223,
+        32541224,
+        32541225,
+        32541226,
+        32541227,
+        32541228,
+        32541229,
+        32541230,
+        32541231,
+        32541232,
+        32541233,
+        32541234,
+        32541235,
+        32541236,
+        32541237,
+        32541238,
+        32541239,
+        32541240,
+        32541241,
+        32541242,
+        32541243,
+        32541244,
+        32541245,
+        32541246,
+        32541247,
+        32541248,
+        32541249,
+        32541250
+      ]
+    },
+    {
+      "reference_id": "72154",
+      "genre": "article",
+      "title": "Description d'une esp\u00e8ce nouvelle de Prionien du genre Derobrachus (Dejean, Serville)",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de France, Paris",
+      "volume": "11",
+      "series": "1",
+      "spage": "203",
+      "epage": "204",
+      "year": "1842",
+      "date": "1842-00-00",
+      "oclc": "1765810",
+      "PageID": "32541369",
+      "created": "2011-06-04 00:40:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46967",
+          "lastname": "Buquet",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        32541369,
+        32541370
+      ]
+    }
+  ]
+}

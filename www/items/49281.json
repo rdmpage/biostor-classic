@@ -1,0 +1,36 @@
+{
+  "ItemID": "49281",
+  "FullTitle": "Proceedings of the Royal Society of Queensland.",
+  "VolumeInfo": "v.28 1916",
+  "articles": [
+    {
+      "reference_id": "58941",
+      "genre": "article",
+      "title": "Three undescribed Queensland fishes",
+      "secondary_title": "Proceedings of the Royal Society of Queensland",
+      "volume": "28",
+      "spage": "112",
+      "epage": "115",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0080-469X",
+      "PageID": "13908654",
+      "created": "2010-11-20 23:15:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10305",
+          "lastname": "Ogilby",
+          "forename": "J D"
+        }
+      ],
+      "bhl_pages": [
+        13908654,
+        13908655,
+        13908656,
+        13908657
+      ]
+    }
+  ]
+}

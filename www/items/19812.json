@@ -1,0 +1,547 @@
+{
+  "ItemID": "19812",
+  "FullTitle": "Entomological news, and proceedings of the Entomological Section of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 15 (1903)",
+  "articles": [
+    {
+      "reference_id": "73217",
+      "genre": "article",
+      "title": "Anopheles in California, with description of a new species",
+      "secondary_title": "Ent. News",
+      "volume": "15",
+      "spage": "9",
+      "epage": "14",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404143",
+      "created": "2011-06-04 08:02:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47164",
+          "lastname": "Mccracken",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        2404143,
+        2404142,
+        2404141,
+        2404140,
+        2404139,
+        2404131
+      ]
+    },
+    {
+      "reference_id": "3742",
+      "genre": "article",
+      "title": "Destructive beetles, a note on landscape gardening",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "15",
+      "issue": "1",
+      "spage": "19",
+      "epage": "20",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404120",
+      "created": "2009-12-26 19:13:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2284",
+          "lastname": "Melander",
+          "forename": "Axel"
+        }
+      ],
+      "bhl_pages": [
+        2404120,
+        2404119
+      ]
+    },
+    {
+      "reference_id": "3674",
+      "genre": "article",
+      "title": "A new beetle from New Jersey",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "15",
+      "issue": "1",
+      "spage": "34",
+      "epage": "35",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404023",
+      "created": "2009-12-26 19:10:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2248",
+          "lastname": "Davis",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        2404023,
+        2404022
+      ]
+    },
+    {
+      "reference_id": "70483",
+      "genre": "article",
+      "title": "A new Melanoplus from New Jersey",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "85",
+      "epage": "87",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2403956",
+      "created": "2011-06-03 06:39:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        2403956,
+        2403955,
+        2403954
+      ]
+    },
+    {
+      "reference_id": "3712",
+      "genre": "article",
+      "title": "The Coleoptera of the Sacramento Mountains of New Mexico - II",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "15",
+      "issue": "4",
+      "spage": "152",
+      "epage": "157",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404013",
+      "created": "2009-12-26 19:11:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2273",
+          "lastname": "Knaus",
+          "forename": "Warren"
+        }
+      ],
+      "bhl_pages": [
+        2404013,
+        2404014,
+        2404015,
+        2403888,
+        2403889,
+        2403890
+      ]
+    },
+    {
+      "reference_id": "12164",
+      "genre": "article",
+      "title": "A supplementary list of the Diptera of New Jersey",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "157",
+      "epage": "163",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2403890",
+      "created": "2010-01-08 16:26:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9025",
+          "lastname": "Johnson",
+          "forename": "Charles W"
+        }
+      ],
+      "bhl_pages": [
+        2403890,
+        2403891,
+        2403892,
+        2403893,
+        2403894,
+        2403895,
+        2403896
+      ]
+    },
+    {
+      "reference_id": "66917",
+      "genre": "article",
+      "title": "Two rare neuropteroid insects",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "15",
+      "spage": "171",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404035",
+      "created": "2011-05-11 17:06:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2404035
+      ]
+    },
+    {
+      "reference_id": "103763",
+      "genre": "article",
+      "title": "On Ropronia garmani Ashm",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "212",
+      "epage": "214",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404078",
+      "created": "2012-05-28 15:10:18",
+      "updated": "2012-05-28 15:10:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2404078,
+        2404079,
+        2404080
+      ]
+    },
+    {
+      "reference_id": "66890",
+      "genre": "article",
+      "title": "Robert M'Lachlan",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "15",
+      "spage": "226",
+      "epage": "227",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404096",
+      "created": "2011-05-11 17:04:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45165",
+          "lastname": "Calvert",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        2404096,
+        2404097
+      ]
+    },
+    {
+      "reference_id": "3728",
+      "genre": "article",
+      "title": "Protective resemblance",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "15",
+      "issue": "7",
+      "spage": "239",
+      "epage": "244",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404147",
+      "created": "2009-12-26 19:12:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2275",
+          "lastname": "Kunze",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2404147,
+        2404148,
+        2404149,
+        2404150,
+        2404151,
+        2404152
+      ]
+    },
+    {
+      "reference_id": "70557",
+      "genre": "article",
+      "title": "A new species of Psolodesmus (order Odonata) from Formosa",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "247",
+      "epage": "250",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404155",
+      "created": "2011-06-03 06:42:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45067",
+          "lastname": "Williamson",
+          "forename": "E B"
+        }
+      ],
+      "bhl_pages": [
+        2404155,
+        2403989,
+        2403990,
+        2403991
+      ]
+    },
+    {
+      "reference_id": "57389",
+      "genre": "article",
+      "title": "Four new spiders from Kansas",
+      "secondary_title": "Ent. News",
+      "volume": "15",
+      "spage": "257",
+      "epage": "260",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404261",
+      "created": "2010-11-18 14:09:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42024",
+          "lastname": "Scheffer",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        2404261,
+        2404262,
+        2404263,
+        2404264
+      ]
+    },
+    {
+      "reference_id": "70484",
+      "genre": "article",
+      "title": "Two new species of North American Stenopelmatinae (Orthoptera)",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "280",
+      "epage": "282",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404254",
+      "created": "2011-06-03 06:39:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9076",
+          "lastname": "Rehn",
+          "forename": "J A G"
+        }
+      ],
+      "bhl_pages": [
+        2404254,
+        2404255,
+        2404256
+      ]
+    },
+    {
+      "reference_id": "57871",
+      "genre": "article",
+      "title": "New California Thysanoptera",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "293",
+      "epage": "297",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404165",
+      "created": "2010-11-20 15:12:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42180",
+          "lastname": "Daniel",
+          "forename": "S M"
+        }
+      ],
+      "bhl_pages": [
+        2404165,
+        2404166,
+        2404167,
+        2404168,
+        2404169
+      ]
+    },
+    {
+      "reference_id": "3696",
+      "genre": "article",
+      "title": "Dysphaga tenuipes Hald., brief notes; record of a parasite",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "15",
+      "issue": "9",
+      "spage": "299",
+      "epage": "300",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404171",
+      "created": "2009-12-26 19:10:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2263",
+          "lastname": "Girault",
+          "forename": "Alexander"
+        }
+      ],
+      "bhl_pages": [
+        2404171,
+        2404172
+      ]
+    },
+    {
+      "reference_id": "3837",
+      "genre": "article",
+      "title": "A new torymid from Utah.",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "issue": "9",
+      "spage": "302",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404174",
+      "created": "2009-12-26 19:17:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2293",
+          "lastname": "Ashmead",
+          "forename": "William H"
+        }
+      ],
+      "bhl_pages": [
+        2404174
+      ]
+    },
+    {
+      "reference_id": "70482",
+      "genre": "article",
+      "title": "Copulation and Ovulation in Anabrus simplex Hald",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "321",
+      "epage": "324",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404195",
+      "created": "2011-06-03 06:39:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46571",
+          "lastname": "",
+          "forename": "Gillete"
+        }
+      ],
+      "bhl_pages": [
+        2404195,
+        2404196,
+        2404197,
+        2404198
+      ]
+    },
+    {
+      "reference_id": "70697",
+      "genre": "article",
+      "title": "A new Cryptine from the nest of Ceratina dupla",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "spage": "333",
+      "epage": "335",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404207",
+      "created": "2011-06-03 06:48:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42352",
+          "lastname": "Viereck",
+          "forename": "H L"
+        }
+      ],
+      "bhl_pages": [
+        2404207,
+        2404208,
+        2404209
+      ]
+    },
+    {
+      "reference_id": "3761",
+      "genre": "article",
+      "title": "On the discovery of fig-insects in the Philippines.",
+      "secondary_title": "Entomological News",
+      "volume": "15",
+      "issue": "10",
+      "spage": "342",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-872X",
+      "PageID": "2404218",
+      "created": "2009-12-26 19:14:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2293",
+          "lastname": "Ashmead",
+          "forename": "William H"
+        }
+      ],
+      "bhl_pages": [
+        2404218
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ItemID": "25520",
+  "FullTitle": "The University of Kansas science bulletin.",
+  "VolumeInfo": "v.2 (1903-1904)",
+  "articles": [
+    {
+      "reference_id": "53165",
+      "genre": "article",
+      "title": "A preliminary list of the Diptera of Kansas",
+      "secondary_title": "Kansas University Science Bulletin",
+      "volume": "2",
+      "spage": "211",
+      "epage": "223",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1440932",
+      "PageID": "4346533",
+      "created": "2010-10-26 16:54:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40777",
+          "lastname": "Snow",
+          "forename": "F H"
+        }
+      ],
+      "bhl_pages": [
+        4346533,
+        4346534,
+        4346535,
+        4346536,
+        4346537,
+        4346538,
+        4346539,
+        4346540,
+        4346541,
+        4346542,
+        4346543,
+        4346544,
+        4346545
+      ]
+    }
+  ]
+}

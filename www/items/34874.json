@@ -1,0 +1,38 @@
+{
+  "ItemID": "34874",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 48 (1934-1935)",
+  "articles": [
+    {
+      "reference_id": "59324",
+      "genre": "article",
+      "title": "Jamaican land snails, 3",
+      "secondary_title": "The Nautilus",
+      "volume": "48",
+      "spage": "83",
+      "epage": "88",
+      "year": "1935",
+      "date": "1935-00-00",
+      "issn": "0028-1344",
+      "PageID": "8520918",
+      "created": "2010-11-21 02:55:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1450",
+          "lastname": "Baker",
+          "forename": "H B"
+        }
+      ],
+      "bhl_pages": [
+        8520918,
+        8520919,
+        8520920,
+        8520921,
+        8520922,
+        8520923
+      ]
+    }
+  ]
+}

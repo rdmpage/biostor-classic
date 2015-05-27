@@ -1,0 +1,63 @@
+{
+  "author": [
+    {
+      "firstname": "Gordon L J",
+      "lastname": "Paterson",
+      "name": "Gordon L J Paterson"
+    },
+    {
+      "firstname": "Paul A",
+      "lastname": "Tyler",
+      "name": "Paul A Tyler"
+    },
+    {
+      "firstname": "John D",
+      "lastname": "Gage",
+      "name": "John D Gage"
+    }
+  ],
+  "type": "article",
+  "title": "The taxonomy and zoogeography of the genus Ophiocten (Echinodermata: Ophiuroidea) in the north Atlantic Ocean",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Zoology",
+    "volume": "43",
+    "issue": "3",
+    "pages": "109--128",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0007-1498"
+      }
+    ]
+  },
+  "year": "1982",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/78"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2260548"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 78
+    },
+    {
+      "type": "bhl",
+      "id": 2260548
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -23.433333333333,
+        42.316666666667
+      ]
+    ]
+  }
+}

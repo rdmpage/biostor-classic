@@ -1,0 +1,38 @@
+{
+  "ItemID": "20103",
+  "FullTitle": "Natural history review.  ",
+  "VolumeInfo": "4",
+  "articles": [
+    {
+      "reference_id": "53284",
+      "genre": "article",
+      "title": "Entomological notes",
+      "secondary_title": "Natural History Review",
+      "volume": "4",
+      "series": "1",
+      "spage": "31",
+      "epage": "36",
+      "year": "1857",
+      "date": "1857-00-00",
+      "PageID": "2520110",
+      "created": "2010-10-26 19:44:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2765",
+          "lastname": "Haliday",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        2520110,
+        2520111,
+        2520112,
+        2520113,
+        2520114,
+        2520115
+      ]
+    }
+  ]
+}

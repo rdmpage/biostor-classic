@@ -1,0 +1,63 @@
+{
+  "ItemID": "23727",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.109 (1889)",
+  "articles": [
+    {
+      "reference_id": "102820",
+      "genre": "article",
+      "title": "Sur un nouvel Entoniscien (Pinnotherion vermiforme, n. g. & sp.) parasite du Pinnothere des Modioles",
+      "secondary_title": "Compte Rendu",
+      "volume": "109",
+      "spage": "914",
+      "epage": "916",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0001-4036",
+      "PageID": "3700012",
+      "created": "2012-05-14 08:54:47",
+      "updated": "2012-05-14 08:56:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42115",
+          "lastname": "Giard",
+          "forename": "A"
+        },
+        {
+          "id": "42763",
+          "lastname": "Bonnier",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3700012,
+        3700013,
+        3700014
+      ]
+    },
+    {
+      "reference_id": "104666",
+      "genre": "article",
+      "title": "Sur le Dolichopithecus ruscinensis, nouveau Singe fossile du Pliocene du Roussillon",
+      "secondary_title": "Compte Rendu",
+      "volume": "109",
+      "spage": "982",
+      "epage": "983",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0001-4036",
+      "PageID": "3700088",
+      "created": "2012-06-26 10:29:05",
+      "updated": "2012-06-26 10:29:05",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3700088,
+        3700089
+      ]
+    }
+  ]
+}

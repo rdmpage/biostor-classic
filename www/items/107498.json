@@ -1,0 +1,788 @@
+{
+  "ItemID": "107498",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 37 1924",
+  "articles": [
+    {
+      "reference_id": "82325",
+      "genre": "article",
+      "title": "Description of some fossil vertebrates from the Upper Miocene of Texas",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "1",
+      "epage": "19",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552505",
+      "created": "2011-07-31 03:09:57",
+      "updated": "2011-07-31 03:09:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10202",
+          "lastname": "Hay",
+          "forename": "O P"
+        }
+      ],
+      "bhl_pages": [
+        34552505,
+        34552506,
+        34552507,
+        34552508,
+        34552509,
+        34552510,
+        34552511,
+        34552512,
+        34552513,
+        34552514,
+        34552515,
+        34552516,
+        34552517,
+        34552518,
+        34552519,
+        34552520,
+        34552521,
+        34552522,
+        34552523
+      ]
+    },
+    {
+      "reference_id": "67224",
+      "genre": "article",
+      "title": "New Gulf races of a Pacific Scorpaena and Prionotus, with notes on other Gulf of Mexico fishes",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "37",
+      "spage": "21",
+      "epage": "24",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552537",
+      "created": "2011-05-20 16:36:58",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17863",
+          "lastname": "Nichols",
+          "forename": "J T"
+        },
+        {
+          "id": "17763",
+          "lastname": "Breder",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        34552537,
+        34552538,
+        34552539,
+        34552540
+      ]
+    },
+    {
+      "reference_id": "73088",
+      "genre": "article",
+      "title": "Flies of the family Drosophilidae of the District of Columbia region, with keys to genera, and other notes, of broader application",
+      "secondary_title": "Proc. Biol. Soc. Wash",
+      "volume": "37",
+      "spage": "25",
+      "epage": "41",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552543",
+      "created": "2011-06-04 07:41:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        },
+        {
+          "id": "2411",
+          "lastname": "Mcatee",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        34552543,
+        34552544,
+        34552545,
+        34552546,
+        34552547,
+        34552548,
+        34552549,
+        34552550,
+        34552551,
+        34552552,
+        34552553,
+        34552554,
+        34552555,
+        34552556,
+        34552557,
+        34552558,
+        34552559
+      ]
+    },
+    {
+      "reference_id": "83438",
+      "genre": "article",
+      "title": "Eight new species of plants from Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "43",
+      "epage": "47",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552565",
+      "created": "2011-07-31 04:48:42",
+      "updated": "2011-07-31 04:48:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43250",
+          "lastname": "Standley",
+          "forename": "P C"
+        }
+      ],
+      "bhl_pages": [
+        34552565,
+        34552566,
+        34552567,
+        34552568,
+        34552569
+      ]
+    },
+    {
+      "reference_id": "83439",
+      "genre": "article",
+      "title": "Nine new species of plants from Central America",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "49",
+      "epage": "53",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552571",
+      "created": "2011-07-31 04:48:47",
+      "updated": "2011-07-31 04:48:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43250",
+          "lastname": "Standley",
+          "forename": "P C"
+        }
+      ],
+      "bhl_pages": [
+        34552571,
+        34552572,
+        34552573,
+        34552574,
+        34552575
+      ]
+    },
+    {
+      "reference_id": "81676",
+      "genre": "article",
+      "title": "Eight new Asteraceae from Mexico, Guatemala, and Hispaniola",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "55",
+      "epage": "61",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552577",
+      "created": "2011-07-31 02:28:14",
+      "updated": "2011-07-31 02:28:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49903",
+          "lastname": "Blake",
+          "forename": "S F"
+        }
+      ],
+      "bhl_pages": [
+        34552577,
+        34552578,
+        34552579,
+        34552580,
+        34552581,
+        34552582,
+        34552583
+      ]
+    },
+    {
+      "reference_id": "82688",
+      "genre": "article",
+      "title": "A third species of Atalopteris",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "63",
+      "epage": "64",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552585",
+      "created": "2011-07-31 03:41:22",
+      "updated": "2011-07-31 03:41:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50989",
+          "lastname": "Maxon",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        34552585,
+        34552586
+      ]
+    },
+    {
+      "reference_id": "65668",
+      "genre": "article",
+      "title": "Some neotropical batrachians preserved in the United States National Museum with a note on the secondary sexual characters of these and other amphibians",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "65",
+      "epage": "72",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552587",
+      "created": "2011-04-14 15:01:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "785",
+          "lastname": "Noble",
+          "forename": "G K"
+        }
+      ],
+      "bhl_pages": [
+        34552587,
+        34552588,
+        34552589,
+        34552590,
+        34552591,
+        34552592,
+        34552593,
+        34552594
+      ]
+    },
+    {
+      "reference_id": "83452",
+      "genre": "article",
+      "title": "The woodfrogs of Japan",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "73",
+      "epage": "77",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552595",
+      "created": "2011-07-31 04:49:42",
+      "updated": "2011-07-31 04:49:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "498",
+          "lastname": "Stejneger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        34552595,
+        34552596,
+        34552597,
+        34552598,
+        34552599
+      ]
+    },
+    {
+      "reference_id": "81796",
+      "genre": "article",
+      "title": "A new freshwater nereid from China",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "79",
+      "epage": "82",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552601",
+      "created": "2011-07-31 02:35:33",
+      "updated": "2011-07-31 02:35:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "789",
+          "lastname": "Chamberlin",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        34552601,
+        34552602,
+        34552603,
+        34552604
+      ]
+    },
+    {
+      "reference_id": "83406",
+      "genre": "article",
+      "title": "An extraordinary new Rhinotermes from Panama",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "83",
+      "epage": "85",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552605",
+      "created": "2011-07-31 04:46:51",
+      "updated": "2011-07-31 04:46:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51083",
+          "lastname": "Snyder",
+          "forename": "T",
+          "suffix": "E."
+        }
+      ],
+      "bhl_pages": [
+        34552605,
+        34552606,
+        34552607
+      ]
+    },
+    {
+      "reference_id": "81961",
+      "genre": "article",
+      "title": "Notes on molluscan nomenclature",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "87",
+      "epage": "90",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552611",
+      "created": "2011-07-31 02:46:11",
+      "updated": "2011-07-31 02:46:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        34552611,
+        34552612,
+        34552613,
+        34552614
+      ]
+    },
+    {
+      "reference_id": "83169",
+      "genre": "article",
+      "title": "New flowering plants of the Pacific Coast",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "91",
+      "epage": "95",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552615",
+      "created": "2011-07-31 04:25:32",
+      "updated": "2011-07-31 04:25:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51041",
+          "lastname": "Piper",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        34552615,
+        34552616,
+        34552617,
+        34552618,
+        34552619
+      ]
+    },
+    {
+      "reference_id": "82689",
+      "genre": "article",
+      "title": "New or noteworthy ferns from the Dominican Republic",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "97",
+      "epage": "104",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552621",
+      "created": "2011-07-31 03:41:25",
+      "updated": "2011-07-31 03:41:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50989",
+          "lastname": "Maxon",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        34552621,
+        34552622,
+        34552623,
+        34552624,
+        34552625,
+        34552626,
+        34552627,
+        34552628
+      ]
+    },
+    {
+      "reference_id": "83231",
+      "genre": "article",
+      "title": "Descriptions of three new birds from Gonave Island, Haiti",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "105",
+      "epage": "107",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552629",
+      "created": "2011-07-31 04:31:20",
+      "updated": "2011-07-31 04:31:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51052",
+          "lastname": "Richmond",
+          "forename": "C W"
+        },
+        {
+          "id": "51053",
+          "lastname": "Swales",
+          "forename": "B H"
+        }
+      ],
+      "bhl_pages": [
+        34552629,
+        34552630,
+        34552631
+      ]
+    },
+    {
+      "reference_id": "82326",
+      "genre": "article",
+      "title": "On the status of privately issued papers on systematic zoology",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "109",
+      "epage": "112",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552633",
+      "created": "2011-07-31 03:10:06",
+      "updated": "2011-07-31 03:10:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10202",
+          "lastname": "Hay",
+          "forename": "O P"
+        }
+      ],
+      "bhl_pages": [
+        34552633,
+        34552634,
+        34552635,
+        34552636
+      ]
+    },
+    {
+      "reference_id": "83524",
+      "genre": "article",
+      "title": "Remarks on the genus ylmfcfycercus and its allies",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "113",
+      "epage": "117",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552637",
+      "created": "2011-07-31 04:54:32",
+      "updated": "2011-07-31 04:54:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49937",
+          "lastname": "Todd",
+          "forename": "W E C"
+        }
+      ],
+      "bhl_pages": [
+        34552637,
+        34552638,
+        34552639,
+        34552640,
+        34552641
+      ]
+    },
+    {
+      "reference_id": "83525",
+      "genre": "article",
+      "title": "Descriptions of eight new neotropical birds",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "121",
+      "epage": "124",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552645",
+      "created": "2011-07-31 04:54:34",
+      "updated": "2011-07-31 04:54:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51108",
+          "lastname": "Todd",
+          "forename": "W",
+          "suffix": "E. C."
+        }
+      ],
+      "bhl_pages": [
+        34552645,
+        34552646,
+        34552647,
+        34552648
+      ]
+    },
+    {
+      "reference_id": "65666",
+      "genre": "article",
+      "title": "A new Gymnophis from Colombia",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "125",
+      "epage": "126",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552649",
+      "created": "2011-04-14 15:01:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "537",
+          "lastname": "Barbour",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        34552649,
+        34552650
+      ]
+    },
+    {
+      "reference_id": "83206",
+      "genre": "article",
+      "title": "New species of crabs from Samoa",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "127",
+      "epage": "128",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552651",
+      "created": "2011-07-31 04:29:28",
+      "updated": "2011-07-31 04:29:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1",
+          "lastname": "Rathbun",
+          "forename": "M J"
+        }
+      ],
+      "bhl_pages": [
+        34552651,
+        34552652
+      ]
+    },
+    {
+      "reference_id": "83278",
+      "genre": "article",
+      "title": "A new spotted babbler from Siam",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "129",
+      "epage": "130",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552653",
+      "created": "2011-07-31 04:35:19",
+      "updated": "2011-07-31 04:35:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49793",
+          "lastname": "Riley",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        34552653,
+        34552654
+      ]
+    },
+    {
+      "reference_id": "69034",
+      "genre": "article",
+      "title": "Records of species of the genus Erythroneura (Homoptera; Eupterygidae) with descriptions of new forms",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "37",
+      "spage": "131",
+      "epage": "134",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552655",
+      "created": "2011-06-01 08:19:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2411",
+          "lastname": "Mcatee",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        34552655,
+        34552656,
+        34552657,
+        34552658
+      ]
+    },
+    {
+      "reference_id": "83039",
+      "genre": "article",
+      "title": "Notes on the races of i?awp\/ifl\/cyon cape\/uw",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "135",
+      "epage": "138",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552659",
+      "created": "2011-07-31 04:08:52",
+      "updated": "2011-07-31 04:08:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42234",
+          "lastname": "Oberholser",
+          "forename": "H C"
+        }
+      ],
+      "bhl_pages": [
+        34552659,
+        34552660,
+        34552661,
+        34552662
+      ]
+    },
+    {
+      "reference_id": "101779",
+      "genre": "article",
+      "title": "A new Antarctic form of Lams dominicansus Lichtenstein",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "139",
+      "epage": "139",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552663",
+      "created": "2012-03-19 14:05:40",
+      "updated": "2012-03-19 14:05:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50904",
+          "lastname": "Fleming",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        34552663
+      ]
+    },
+    {
+      "reference_id": "65667",
+      "genre": "article",
+      "title": "A new bullfrog (Rana heckscheri) from Georgia and Florida",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "37",
+      "spage": "141",
+      "epage": "152",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0006-324X",
+      "PageID": "34552665",
+      "created": "2011-04-14 15:01:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44954",
+          "lastname": "Wright",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        34552665,
+        34552666,
+        34552667,
+        34552668,
+        34552669,
+        34552670,
+        34552671,
+        34552672,
+        34552673,
+        34552674,
+        34552675,
+        34552676
+      ]
+    }
+  ]
+}

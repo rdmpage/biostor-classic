@@ -1,0 +1,36 @@
+{
+  "ItemID": "38546",
+  "FullTitle": "Me\u0301moires de la Socie\u0301te\u0301 zoologique de France.",
+  "VolumeInfo": "4, 1891",
+  "articles": [
+    {
+      "reference_id": "71423",
+      "genre": "article",
+      "title": "Voyage de la Go\u00eblette \u2018Melita\u2019 aux Canaries et au S\u00e9n\u00e9gal, 1889-1890. Spongiaires",
+      "secondary_title": "M\u00e9moires de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "4",
+      "spage": "11",
+      "epage": "15",
+      "year": "1891",
+      "date": "1891-00-00",
+      "PageID": "10114220",
+      "created": "2011-06-03 19:50:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42868",
+          "lastname": "Topsent",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        10114220,
+        10114221,
+        10114222,
+        10114223,
+        10114224
+      ]
+    }
+  ]
+}

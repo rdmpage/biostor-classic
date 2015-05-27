@@ -1,0 +1,61 @@
+{
+  "ItemID": "38565",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1902",
+  "articles": [
+    {
+      "reference_id": "57720",
+      "genre": "article",
+      "title": "New Tasmanian fish",
+      "secondary_title": "Abstracts of Proceedings of Royal Society of Tasmania",
+      "volume": "1902",
+      "spage": "6",
+      "epage": "7",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0080-4703",
+      "PageID": "10121567",
+      "created": "2010-11-20 14:43:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42140",
+          "lastname": "Johnston",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        10121567,
+        10121568
+      ]
+    },
+    {
+      "reference_id": "14664",
+      "genre": "article",
+      "title": "Notes on some remarkable Tasmanian invertebrates",
+      "secondary_title": "Pap. Proc. Royal Society of Tasmania",
+      "volume": "1902",
+      "spage": "81",
+      "epage": "82",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0080-4703",
+      "PageID": "10121690",
+      "created": "2010-01-21 13:30:54",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8514",
+          "lastname": "Lea",
+          "forename": "Arthur M"
+        }
+      ],
+      "bhl_pages": [
+        10121690,
+        10121691
+      ]
+    }
+  ]
+}

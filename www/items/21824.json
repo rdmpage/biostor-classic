@@ -1,0 +1,36 @@
+{
+  "ItemID": "21824",
+  "FullTitle": "Bulletin of the Museum of Comparative Zoology at Harvard College.",
+  "VolumeInfo": "v.36 (1900-1901)",
+  "articles": [
+    {
+      "reference_id": "14719",
+      "genre": "article",
+      "title": "Descriptions of two new lizards of the genus Anolis from Cocos and Malpelo islands",
+      "secondary_title": "Bull. Mus. Comp. Zool.",
+      "volume": "36",
+      "spage": "161",
+      "epage": "164",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0027-4100",
+      "PageID": "2947321",
+      "created": "2010-01-24 15:13:45",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "485",
+          "lastname": "Stejneger",
+          "forename": "Leonhard"
+        }
+      ],
+      "bhl_pages": [
+        2947321,
+        2947322,
+        2947323,
+        2947324
+      ]
+    }
+  ]
+}

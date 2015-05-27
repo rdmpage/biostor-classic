@@ -1,0 +1,178 @@
+{
+  "ItemID": "37589",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 13 1890",
+  "articles": [
+    {
+      "reference_id": "49280",
+      "genre": "article",
+      "title": "Eine neue Viper aus Armenien",
+      "secondary_title": "Zool. Anz.",
+      "volume": "13",
+      "spage": "62",
+      "epage": "64",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0044-5231",
+      "PageID": "9743217",
+      "created": "2010-03-21 12:41:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9743217,
+        9743218,
+        9743219
+      ]
+    },
+    {
+      "reference_id": "60337",
+      "genre": "article",
+      "title": "Zur Biologie der gattung Chermes L",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "13",
+      "spage": "86",
+      "epage": "90",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0044-5231",
+      "PageID": "9743241",
+      "created": "2010-11-22 23:20:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42807",
+          "lastname": "Eckstein",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        9743241,
+        9743242,
+        9743243,
+        9743244,
+        9743245
+      ]
+    },
+    {
+      "reference_id": "4974",
+      "genre": "article",
+      "title": "Zur Kenntnis der russischen Galeodiden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "13",
+      "spage": "204",
+      "epage": "209",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0044-5231",
+      "PageID": "9743359",
+      "created": "2010-01-04 10:45:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2639",
+          "lastname": "Virula",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9743359,
+        9743360,
+        9743361,
+        9743362,
+        9743363,
+        9743364
+      ]
+    },
+    {
+      "reference_id": "98452",
+      "genre": "article",
+      "title": "Sul valore fisiologico della Vescicola di Swammerdam delle Aplysiae (Tasca Copulatrice di Meckel)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "13",
+      "spage": "391",
+      "epage": "399",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0044-5231",
+      "PageID": "9743546",
+      "created": "2011-11-30 14:17:58",
+      "updated": "2011-11-30 14:17:58",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9743546,
+        9743547,
+        9743548,
+        9743549,
+        9743550,
+        9743551,
+        9743552,
+        9743553,
+        9743554
+      ]
+    },
+    {
+      "reference_id": "4950",
+      "genre": "article",
+      "title": "Preliminary note upon Heliodrilus, a new genus of Eudrilidae",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "13",
+      "spage": "627",
+      "epage": "629",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0044-5231",
+      "PageID": "9743782",
+      "created": "2010-01-02 23:14:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2627",
+          "lastname": "Beddard",
+          "forename": "F E"
+        }
+      ],
+      "bhl_pages": [
+        9743782,
+        9743783,
+        9743784
+      ]
+    },
+    {
+      "reference_id": "98453",
+      "genre": "article",
+      "title": "Ueber einige Aetherien aus den Congofallen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "13",
+      "spage": "662",
+      "epage": "664",
+      "year": "1890",
+      "date": "1890-00-00",
+      "issn": "0044-5231",
+      "PageID": "9743817",
+      "created": "2011-11-30 14:18:07",
+      "updated": "2011-11-30 14:18:07",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9743817,
+        9743818,
+        9743819
+      ]
+    }
+  ]
+}

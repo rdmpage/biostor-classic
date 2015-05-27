@@ -1,0 +1,35 @@
+{
+  "ItemID": "34893",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 38 (1924-1925)",
+  "articles": [
+    {
+      "reference_id": "59678",
+      "genre": "article",
+      "title": "New shells from Japan",
+      "secondary_title": "The Nautilus",
+      "volume": "38",
+      "spage": "95",
+      "epage": "97",
+      "year": "1925",
+      "date": "1925-00-00",
+      "issn": "0028-1344",
+      "PageID": "8525076",
+      "created": "2010-11-22 15:27:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        8525076,
+        8525077,
+        8525078
+      ]
+    }
+  ]
+}

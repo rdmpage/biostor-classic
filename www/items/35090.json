@@ -1,0 +1,83 @@
+{
+  "ItemID": "35090",
+  "FullTitle": "Transactions of the Kansas Academy of Science.  ",
+  "VolumeInfo": "5",
+  "articles": [
+    {
+      "reference_id": "69830",
+      "genre": "article",
+      "title": "List of Coleoptera collected in Colorado in june, july and august, 1876 by the Kansas University scientific expedition",
+      "secondary_title": "Transactions of the Kansas Academy of Science, Topeka",
+      "volume": "5",
+      "spage": "15",
+      "epage": "20",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "8506593",
+      "PageID": "8596201",
+      "created": "2011-06-02 07:37:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46380",
+          "lastname": "Huntington",
+          "forename": "Snow Francis"
+        }
+      ],
+      "bhl_pages": [
+        8596201,
+        8596202,
+        8596203,
+        8596204,
+        8596205,
+        8596206
+      ]
+    },
+    {
+      "reference_id": "69831",
+      "genre": "article",
+      "title": "A list of Kansas Coleoptera",
+      "secondary_title": "Transactions of the Kansas Academy of Science, Topeka",
+      "volume": "5",
+      "spage": "21",
+      "epage": "40",
+      "year": "1877",
+      "date": "1877-00-00",
+      "oclc": "8506593",
+      "PageID": "8596207",
+      "created": "2011-06-02 07:37:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46382",
+          "lastname": "Alonzo",
+          "forename": "Popenoe Edwin"
+        }
+      ],
+      "bhl_pages": [
+        8596207,
+        8596208,
+        8596209,
+        8596210,
+        8596211,
+        8596212,
+        8596213,
+        8596214,
+        8596215,
+        8596216,
+        8596217,
+        8596218,
+        8596219,
+        8596220,
+        8596221,
+        8596222,
+        8596223,
+        8596224,
+        8596225,
+        8596226
+      ]
+    }
+  ]
+}

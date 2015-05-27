@@ -1,0 +1,92 @@
+{
+  "ItemID": "33882",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.3 (1942)",
+  "articles": [
+    {
+      "reference_id": "73504",
+      "genre": "article",
+      "title": "A new Cyrtopogon (Asilidae, Diptera) from Utah",
+      "secondary_title": "Great Basin Nat",
+      "volume": "3",
+      "spage": "1",
+      "epage": "4",
+      "year": "1942",
+      "date": "1942-00-00",
+      "issn": "0017-3614",
+      "PageID": "8113752",
+      "created": "2011-06-04 08:51:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44207",
+          "lastname": "Johnson",
+          "forename": "D E"
+        }
+      ],
+      "bhl_pages": [
+        8113752,
+        8113753,
+        8113754,
+        8113755
+      ]
+    },
+    {
+      "reference_id": "70805",
+      "genre": "article",
+      "title": "Aphids from Mount Timpanogos, Utah",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "3",
+      "spage": "5",
+      "epage": "8",
+      "year": "1942",
+      "date": "1942-00-00",
+      "issn": "0017-3614",
+      "PageID": "8113756",
+      "created": "2011-06-03 07:12:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45351",
+          "lastname": "",
+          "forename": "Knowlton"
+        }
+      ],
+      "bhl_pages": [
+        8113756,
+        8113757,
+        8113758,
+        8113759
+      ]
+    },
+    {
+      "reference_id": "85296",
+      "genre": "article",
+      "title": "Areviewofthe genus Notolepidomyzon with a descrip-tion of a new species (Pisces, Catosto-midae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "3",
+      "spage": "27",
+      "epage": "32",
+      "year": "1942",
+      "date": "1942-00-00",
+      "issn": "0017-3614",
+      "PageID": "8113782",
+      "created": "2011-08-12 09:18:56",
+      "updated": "2011-08-12 09:18:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8113782,
+        8113783,
+        8113784,
+        8113785,
+        8113786,
+        8113787
+      ]
+    }
+  ]
+}

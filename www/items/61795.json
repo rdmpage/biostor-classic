@@ -1,0 +1,78 @@
+{
+  "ItemID": "61795",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 19 (1857)",
+  "articles": [
+    {
+      "reference_id": "90456",
+      "genre": "article",
+      "title": "XXXIII.\u2014Researches on the development of the Pectinibranchiata",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "19",
+      "series": "2",
+      "spage": "433",
+      "epage": "442",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935708693965",
+      "PageID": "18639950",
+      "created": "2011-09-28 13:22:19",
+      "updated": "2011-09-28 13:22:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42739",
+          "lastname": "Koren",
+          "forename": "J"
+        },
+        {
+          "id": "42738",
+          "lastname": "Danielssen",
+          "forename": "D C"
+        }
+      ],
+      "bhl_pages": [
+        18639950,
+        18639951,
+        18639952,
+        18639953,
+        18639954,
+        18639955,
+        18639956,
+        18639957,
+        18639958,
+        18639959
+      ]
+    },
+    {
+      "reference_id": "90493",
+      "genre": "article",
+      "title": "The blacks of Moreton Bay and the Porpoises",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "19",
+      "series": "2",
+      "spage": "497",
+      "epage": "498",
+      "year": "1857",
+      "date": "1857-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935708693977",
+      "PageID": "18640014",
+      "created": "2011-09-28 13:26:10",
+      "updated": "2011-09-28 13:26:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52098",
+          "lastname": "",
+          "forename": "Fairholme"
+        }
+      ],
+      "bhl_pages": [
+        18640014,
+        18640015
+      ]
+    }
+  ]
+}

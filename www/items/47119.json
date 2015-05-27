@@ -1,0 +1,64 @@
+{
+  "ItemID": "47119",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.83 no.2 1997",
+  "articles": [
+    {
+      "reference_id": "63227",
+      "genre": "article",
+      "title": "Taxonomic notes on Schedonorus, a segregate genus from Festuca or Lolium, with a new nothogenus, X Schedololium, and new combination",
+      "secondary_title": "Phytologia",
+      "volume": "83",
+      "spage": "85",
+      "epage": "88",
+      "issn": "0031-9430",
+      "PageID": "13067315",
+      "created": "2011-01-26 21:49:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43633",
+          "lastname": "Soreng",
+          "forename": "R J"
+        },
+        {
+          "id": "43634",
+          "lastname": "Terrell",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        13067315,
+        13067316,
+        13067317,
+        13067318
+      ]
+    },
+    {
+      "reference_id": "62897",
+      "genre": "article",
+      "title": "Lectotypification of Coscinodon calyptratus (Musci, Grimmiaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "83",
+      "spage": "100",
+      "epage": "101",
+      "issn": "0031-9430",
+      "PageID": "13067330",
+      "created": "2011-01-26 21:35:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43566",
+          "lastname": "Mu\u00f1oz",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        13067330,
+        13067331
+      ]
+    }
+  ]
+}

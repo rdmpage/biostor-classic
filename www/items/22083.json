@@ -1,0 +1,123 @@
+{
+  "ItemID": "22083",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 8 (1876)",
+  "articles": [
+    {
+      "reference_id": "72753",
+      "genre": "article",
+      "title": "New species of Acridini from Nebraska",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "8",
+      "spage": "9",
+      "epage": "12",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0008-347X",
+      "PageID": "3040038",
+      "created": "2011-06-04 03:38:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47077",
+          "lastname": "Dodge",
+          "forename": "G M"
+        }
+      ],
+      "bhl_pages": [
+        3040038,
+        3040039,
+        3040040,
+        3040041
+      ]
+    },
+    {
+      "reference_id": "60669",
+      "genre": "article",
+      "title": "New Californian and Texas moths",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "8",
+      "spage": "35",
+      "epage": "38",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0008-347X",
+      "PageID": "3040064",
+      "created": "2010-11-23 03:34:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42852",
+          "lastname": "Harvey",
+          "forename": "L F"
+        }
+      ],
+      "bhl_pages": [
+        3040064,
+        3040065,
+        3040066,
+        3040067
+      ]
+    },
+    {
+      "reference_id": "72751",
+      "genre": "article",
+      "title": "New species of Nebraska Acrididae",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "8",
+      "spage": "123",
+      "epage": "125",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0008-347X",
+      "PageID": "3040152",
+      "created": "2011-06-04 03:38:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46503",
+          "lastname": "Bruner",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        3040152,
+        3040153,
+        3040154
+      ]
+    },
+    {
+      "reference_id": "72108",
+      "genre": "article",
+      "title": "Synonymy of the Coleoptera of the Fauna Boreali-Americana, Kirby",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "8",
+      "spage": "166",
+      "epage": "170",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1553087",
+      "PageID": "3040195",
+      "created": "2011-06-04 00:32:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46849",
+          "lastname": "Horn",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        3040195,
+        3040196,
+        3040197,
+        3040198,
+        3040199
+      ]
+    }
+  ]
+}

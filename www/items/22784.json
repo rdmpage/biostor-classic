@@ -1,0 +1,100 @@
+{
+  "ItemID": "22784",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.53 (1920)",
+  "articles": [
+    {
+      "reference_id": "20969",
+      "genre": "article",
+      "title": "Notes on New Zealand Chilopoda",
+      "secondary_title": "Transactionsand Proceedings of the New Zealand Institute",
+      "volume": "53",
+      "spage": "181",
+      "epage": "195",
+      "year": "1921",
+      "date": "1921-00-00",
+      "oclc": "1778777",
+      "PageID": "3309600",
+      "created": "2010-02-11 16:40:50",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3309600,
+        3309856,
+        3309601,
+        3309602,
+        3309603,
+        3309604,
+        3309605,
+        3309606,
+        3309607,
+        3309968,
+        3309499,
+        3309969,
+        3309970,
+        3309501,
+        3309971
+      ]
+    },
+    {
+      "reference_id": "57524",
+      "genre": "article",
+      "title": "A new species of shark",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "53",
+      "spage": "195",
+      "epage": "196",
+      "year": "1921",
+      "date": "1921-00-00",
+      "oclc": "1778777",
+      "PageID": "3309971",
+      "created": "2010-11-20 13:38:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18156",
+          "lastname": "Archey",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        3309971,
+        3309608
+      ]
+    },
+    {
+      "reference_id": "59154",
+      "genre": "article",
+      "title": "Studies of New Zealand Trichoptera or caddis-flies. No. 1, description of a new genus and species belonging to the family Sericostomatidae",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "53",
+      "spage": "346",
+      "epage": "350",
+      "year": "1921",
+      "date": "1921-00-00",
+      "oclc": "1778777",
+      "PageID": "3309987",
+      "created": "2010-11-21 00:24:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9012",
+          "lastname": "Tillyard",
+          "forename": "R J"
+        }
+      ],
+      "bhl_pages": [
+        3309987,
+        3309486,
+        3309684,
+        3309319,
+        3309345
+      ]
+    }
+  ]
+}

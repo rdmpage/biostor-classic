@@ -1,0 +1,67 @@
+{
+  "ItemID": "19636",
+  "FullTitle": "Magazine of natural history and journal of zoology, botany, mineralogy, geology and meteorology  ",
+  "VolumeInfo": "6",
+  "articles": [
+    {
+      "reference_id": "71127",
+      "genre": "article",
+      "title": "Additional observations upon the insect which infests the sugar canes in Grenada",
+      "secondary_title": "The Magazine of Natural History and Journal of Zoology, Botany, Mineralogy, Geology, and Meteorology. London",
+      "volume": "6",
+      "spage": "409",
+      "epage": "413",
+      "year": "1833",
+      "date": "1833-00-00",
+      "PageID": "2357839",
+      "created": "2011-06-03 17:56:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46758",
+          "lastname": "Westwood",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        2357839,
+        2357840,
+        2357841,
+        2357842,
+        2357843
+      ]
+    },
+    {
+      "reference_id": "60762",
+      "genre": "article",
+      "title": "Notice of the habits of a cynipideous insect, parasitic upon the rose louse (Aphis rosae); with descriptions of several other parasitic Hymenoptera",
+      "secondary_title": "Magazine of Natural History and Journal of Zoology, Botany, Mineralogy, Geology and Meteorology",
+      "volume": "6",
+      "spage": "491",
+      "epage": "497",
+      "year": "1833",
+      "date": "1833-00-00",
+      "PageID": "2357904",
+      "created": "2010-11-23 04:29:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        2357904,
+        2357905,
+        2357906,
+        2357907,
+        2357908,
+        2357909,
+        2357910
+      ]
+    }
+  ]
+}

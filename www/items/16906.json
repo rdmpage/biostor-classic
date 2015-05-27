@@ -1,0 +1,218 @@
+{
+  "ItemID": "16906",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 8 (1904-1905)",
+  "articles": [
+    {
+      "reference_id": "98095",
+      "genre": "article",
+      "title": "A new Myzostoma parasitic in a Starfish",
+      "secondary_title": "Biol Bull",
+      "volume": "8",
+      "spage": "75",
+      "epage": "78",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0006-3185",
+      "PageID": "1369300",
+      "created": "2011-11-10 22:59:10",
+      "updated": "2011-11-10 22:59:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1369300,
+        1369301,
+        1369482,
+        1369302
+      ]
+    },
+    {
+      "reference_id": "6527",
+      "genre": "article",
+      "title": "FORM-REGULATION IN CERIANTHUS, VIII: SUPPLEMENTARY PARTIAL DISCS AND HETEROMORPHIC TENTACLES",
+      "secondary_title": "Biol Bull",
+      "volume": "8",
+      "spage": "93",
+      "epage": "122",
+      "year": "1905",
+      "date": "1905-01-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535858",
+      "PageID": "1369310",
+      "created": "2010-01-06 20:44:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2975",
+          "lastname": "Child",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        1369310,
+        1369311,
+        1369490,
+        1369312,
+        1369491,
+        1369313,
+        1369492,
+        1369493,
+        1369494,
+        1369314,
+        1369315,
+        1369316,
+        1369495,
+        1369496,
+        1369497,
+        1369317,
+        1369498,
+        1369499,
+        1369318,
+        1369500,
+        1369319,
+        1369320,
+        1369501,
+        1369321,
+        1369502,
+        1369322,
+        1369323,
+        1369324,
+        1369503,
+        1369325
+      ]
+    },
+    {
+      "reference_id": "6528",
+      "genre": "article",
+      "title": "THE SPERMATOGENESIS OF THE SPIDER: WITH PLATES IX. AND X",
+      "secondary_title": "Biol Bull",
+      "volume": "8",
+      "spage": "169",
+      "epage": "188",
+      "year": "1905",
+      "date": "1905-02-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535830",
+      "PageID": "1369533",
+      "created": "2010-01-06 20:44:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2980",
+          "lastname": "Wallace",
+          "forename": "Louise Baird"
+        }
+      ],
+      "bhl_pages": [
+        1369533,
+        1369534,
+        1369535,
+        1369353,
+        1369354,
+        1369355,
+        1369356,
+        1369357,
+        1369358,
+        1369359,
+        1369360,
+        1369536,
+        1369537,
+        1369538,
+        1369539,
+        1369361,
+        1369540,
+        1369362,
+        1369541,
+        1369363
+      ]
+    },
+    {
+      "reference_id": "6529",
+      "genre": "article",
+      "title": "THE OSMOTIC PRESSURE OF SEA WATER AND OF THE BLOOD OF MARINE ANIMALS: INCLUDING SOME OBSERVATIONS ON THE PERMEABILITY OF ANIMAL MEMBRANES",
+      "secondary_title": "Biol Bull",
+      "volume": "8",
+      "spage": "257",
+      "epage": "270",
+      "year": "1905",
+      "date": "1905-03-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535881",
+      "PageID": "1369405",
+      "created": "2010-01-06 20:44:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2981",
+          "lastname": "Garrey",
+          "forename": "Walter E"
+        }
+      ],
+      "bhl_pages": [
+        1369405,
+        1369406,
+        1369407,
+        1369575,
+        1369408,
+        1369409,
+        1369576,
+        1369577,
+        1369410,
+        1369411,
+        1369578,
+        1369579,
+        1369580,
+        1369412
+      ]
+    },
+    {
+      "reference_id": "6530",
+      "genre": "article",
+      "title": "SOME FURTHER EXPERIMENTS ON SELFFERTILIZATION IN CIONA",
+      "secondary_title": "Biol Bull",
+      "volume": "8",
+      "spage": "313",
+      "epage": "330",
+      "year": "1905",
+      "date": "1905-05-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535576",
+      "PageID": "1369605",
+      "created": "2010-01-06 20:44:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2982",
+          "lastname": "Morgan",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        1369605,
+        1369433,
+        1369434,
+        1369435,
+        1369606,
+        1369607,
+        1369608,
+        1369609,
+        1369436,
+        1369437,
+        1369610,
+        1369438,
+        1369439,
+        1369440,
+        1369611,
+        1369612,
+        1369613,
+        1369614
+      ]
+    }
+  ]
+}

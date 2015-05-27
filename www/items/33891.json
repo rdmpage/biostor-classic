@@ -1,0 +1,41 @@
+{
+  "ItemID": "33891",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.1 (1939)",
+  "articles": [
+    {
+      "reference_id": "1257",
+      "genre": "article",
+      "title": "Notes on Charina bottae in Utah: reproduction",
+      "secondary_title": "The Great Basin Naturalist",
+      "volume": "1",
+      "spage": "27",
+      "epage": "30",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0017-3614",
+      "PageID": "8115967",
+      "created": "2009-12-23 10:27:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "967",
+          "lastname": "Tanner",
+          "forename": "V M"
+        },
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8115967,
+        8115968,
+        8115969,
+        8115970
+      ]
+    }
+  ]
+}

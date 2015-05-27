@@ -1,0 +1,68 @@
+{
+  "author": [
+    {
+      "firstname": "Robert A",
+      "lastname": "Johnson",
+      "name": "Robert A Johnson"
+    }
+  ],
+  "type": "article",
+  "title": "Reproductive Biology of the Seed-harvester Ants Messor julianus (Pergande) and Messor pergandei (Mayr) (Hymenoptera: Formicidae) in Baja California, Mexico",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "9",
+    "pages": "377--384",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2000",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/288"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2858492"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 288
+    },
+    {
+      "type": "bhl",
+      "id": 2858492
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -112.21666666667,
+        26.15
+      ],
+      [
+        -113.73333333333,
+        28.983333333333
+      ],
+      [
+        -114.16666666667,
+        29
+      ],
+      [
+        -112.46666666667,
+        27.383333333333
+      ],
+      [
+        -114.71666666667,
+        30.916666666667
+      ]
+    ]
+  }
+}

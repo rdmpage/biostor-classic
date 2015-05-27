@@ -1,0 +1,53 @@
+{
+  "ItemID": "31343",
+  "FullTitle": "The Journal of the College of Science, Imperial University of  Tokyo, Japan = Tokyo Teikoku Daigaku kiyo.  Rika.",
+  "VolumeInfo": "v. 8 (1895)",
+  "articles": [
+    {
+      "reference_id": "102414",
+      "genre": "article",
+      "title": "Description of Opisthoteuthis depressa n. sp",
+      "secondary_title": "Journal of the College of Science, Imperial University of Tokyo",
+      "volume": "8",
+      "spage": "323",
+      "epage": "337",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1641681",
+      "PageID": "7057146",
+      "created": "2012-04-23 21:57:10",
+      "updated": "2012-04-23 21:59:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42165",
+          "lastname": "Ijima",
+          "forename": "I"
+        },
+        {
+          "id": "53672",
+          "lastname": "Ikeda",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        7057146,
+        7057147,
+        7057148,
+        7057149,
+        7057150,
+        7057151,
+        7057152,
+        7057153,
+        7057154,
+        7057155,
+        7057156,
+        7057157,
+        7057158,
+        7057159,
+        7057160,
+        7057214
+      ]
+    }
+  ]
+}

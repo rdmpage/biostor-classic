@@ -1,0 +1,295 @@
+{
+  "ItemID": "21200",
+  "FullTitle": "Journal of Hymenoptera research.",
+  "VolumeInfo": "v. 14, no. 2, 2005",
+  "articles": [
+    {
+      "reference_id": "354",
+      "genre": "article",
+      "title": "Cladistic Assessment, Key and Description of Two New Neotropical Genera and Species of Gabuniina (Hymenoptera: Ichneumonidae: Cryptinae)",
+      "secondary_title": "Journal of Hymenoptera Research",
+      "volume": "14",
+      "spage": "121",
+      "epage": "136",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "1070-9428",
+      "PageID": "2823474",
+      "created": "2009-12-22 16:02:59",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "334",
+          "lastname": "Aguiar",
+          "forename": "Alexandre P"
+        }
+      ],
+      "bhl_pages": [
+        2823474,
+        2823475,
+        2823476,
+        2823477,
+        2823478,
+        2823479,
+        2823480,
+        2823481,
+        2823482,
+        2823483,
+        2823484,
+        2823485,
+        2823486,
+        2823487,
+        2823488,
+        2823489
+      ]
+    },
+    {
+      "reference_id": "355",
+      "genre": "article",
+      "title": "A Review of the Species of the New World Braconid Genus Cyclaulacidea (Hymenoptera) with Key and Descriptions of Nine New Species",
+      "secondary_title": "Journal of Hymenoptera Research",
+      "volume": "14",
+      "spage": "151",
+      "epage": "176",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "1070-9428",
+      "PageID": "2823504",
+      "created": "2009-12-22 16:03:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "353",
+          "lastname": "Leathers",
+          "forename": "Jason W"
+        },
+        {
+          "id": "354",
+          "lastname": "Judd",
+          "forename": "Darlene D"
+        },
+        {
+          "id": "355",
+          "lastname": "Brower",
+          "forename": "Andrew V Z"
+        }
+      ],
+      "bhl_pages": [
+        2823504,
+        2823505,
+        2823506,
+        2823507,
+        2823508,
+        2823509,
+        2823510,
+        2823511,
+        2823512,
+        2823513,
+        2823514,
+        2823515,
+        2823516,
+        2823517,
+        2823518,
+        2823519,
+        2823520,
+        2823521,
+        2823522,
+        2823523,
+        2823524,
+        2823525,
+        2823526,
+        2823527,
+        2823528,
+        2823529
+      ]
+    },
+    {
+      "reference_id": "356",
+      "genre": "article",
+      "title": "Notes on Host Searching by the Parasitic Wasp Zaglyptogastra Ashmead (Hymenoptera: Braconidae: Braconinae) in Kibale Forest, Uganda",
+      "secondary_title": "Journal of Hymenoptera Research",
+      "volume": "14",
+      "spage": "177",
+      "epage": "181",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "1070-9428",
+      "PageID": "2823530",
+      "created": "2009-12-22 16:03:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "209",
+          "lastname": "Quicke",
+          "forename": "Donald L J"
+        },
+        {
+          "id": "227",
+          "lastname": "Laurenne",
+          "forename": "Nina M"
+        }
+      ],
+      "bhl_pages": [
+        2823530,
+        2823531,
+        2823532,
+        2823533,
+        2823534
+      ]
+    },
+    {
+      "reference_id": "357",
+      "genre": "article",
+      "title": "Trigastrotheca laikipiensis sp. nov. (Hymenoptera: Braconidae): A New Species of Brood Parasitic Wasp that Attacks Foundress Queens of Three Coexisting Acacia-ant Species in Kenya",
+      "secondary_title": "Journal of Hymenoptera Research",
+      "volume": "14",
+      "spage": "182",
+      "epage": "190",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "1070-9428",
+      "PageID": "2823535",
+      "created": "2009-12-22 16:03:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "209",
+          "lastname": "Quicke",
+          "forename": "Donald L J"
+        },
+        {
+          "id": "356",
+          "lastname": "Stanton",
+          "forename": "Maureen L"
+        }
+      ],
+      "bhl_pages": [
+        2823535,
+        2823536,
+        2823537,
+        2823538,
+        2823539,
+        2823540,
+        2823541,
+        2823542,
+        2823543
+      ]
+    },
+    {
+      "reference_id": "358",
+      "genre": "article",
+      "title": "Pappognatha Mickel (Hymenoptera: Mutillidae: Sphaeropthalminae): New Species, Sex Associations, Hosts, and New Distribution Records",
+      "secondary_title": "Journal of Hymenoptera Research",
+      "volume": "14",
+      "spage": "191",
+      "epage": "199",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "1070-9428",
+      "PageID": "2823544",
+      "created": "2009-12-22 16:03:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "357",
+          "lastname": "A",
+          "forename": "Diomedes Quintero"
+        },
+        {
+          "id": "358",
+          "lastname": "T",
+          "forename": "Roberto A Cambra"
+        }
+      ],
+      "bhl_pages": [
+        2823544,
+        2823545,
+        2823546,
+        2823547,
+        2823548,
+        2823549,
+        2823550,
+        2823551,
+        2823552
+      ]
+    },
+    {
+      "reference_id": "359",
+      "genre": "article",
+      "title": "Redescription of Pelicope yuccamica Mason (Hymenoptera: Braconidae: Microgastrinae), With Notes on its Unusual Biology and Relationships",
+      "secondary_title": "Journal of Hymenoptera Research",
+      "volume": "14",
+      "spage": "200",
+      "epage": "205",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "1070-9428",
+      "PageID": "2823553",
+      "created": "2009-12-22 16:03:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "234",
+          "lastname": "Whitfield",
+          "forename": "J B"
+        },
+        {
+          "id": "233",
+          "lastname": "Valerio",
+          "forename": "A A"
+        },
+        {
+          "id": "359",
+          "lastname": "Choi",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2823553,
+        2823554,
+        2823555,
+        2823556,
+        2823557,
+        2823558
+      ]
+    },
+    {
+      "reference_id": "72425",
+      "genre": "article",
+      "title": "\u00a6Ormyrus salmanticus\u00a6 Nieves-Aldrey, 1984 (Hymenoptera: Chalcidoidea: Ormyridae), a valid species",
+      "secondary_title": "Journal of Hymenoptera Research",
+      "volume": "14",
+      "spage": "206",
+      "epage": "207",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "1070-9428",
+      "PageID": "2823559",
+      "created": "2011-06-04 01:51:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47033",
+          "lastname": "Nieves Aldrey",
+          "forename": "J L"
+        },
+        {
+          "id": "47034",
+          "lastname": "Hern\u00e1ndez Nieves",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        2823559,
+        2823560
+      ]
+    }
+  ]
+}

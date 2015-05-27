@@ -1,0 +1,104 @@
+{
+  "ItemID": "45912",
+  "FullTitle": "Russkoe entomologicheskoe obozrenie = Revue russe d'entomologie.",
+  "VolumeInfo": "t. 12 1912",
+  "articles": [
+    {
+      "reference_id": "71696",
+      "genre": "article",
+      "title": "Six new species of chalcid flies parasitic upon |Ericoccus greeni| Newstead",
+      "secondary_title": "Russkoe Entomologicheskoe Obozrenie",
+      "volume": "12",
+      "spage": "329",
+      "epage": "335",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "8096567",
+      "PageID": "12774767",
+      "created": "2011-06-03 22:49:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42389",
+          "lastname": "Kurdjumov",
+          "forename": "N V"
+        }
+      ],
+      "bhl_pages": [
+        12774767,
+        12774768,
+        12774769,
+        12774770,
+        12774771,
+        12774772,
+        12774773
+      ]
+    },
+    {
+      "reference_id": "72971",
+      "genre": "article",
+      "title": "Duo Hemiptera [recte: Hymenoptera] nova faunae turanicae a J.V. Vasiljev collecta",
+      "secondary_title": "Russkoe Entomologicheskoye Obozreniye",
+      "volume": "12",
+      "spage": "407",
+      "epage": "408",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "8096567",
+      "PageID": "12774849",
+      "created": "2011-06-04 04:48:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47118",
+          "lastname": "Kokujev",
+          "forename": "N R"
+        }
+      ],
+      "bhl_pages": [
+        12774849,
+        12774850
+      ]
+    },
+    {
+      "reference_id": "70987",
+      "genre": "article",
+      "title": "Vierter Beitrag zur Kenntnis der Aphodiini",
+      "secondary_title": "Russkoe Entomologicheskoe Obozrenie. St.Petersburg",
+      "volume": "12",
+      "spage": "511",
+      "epage": "523",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "8096567",
+      "PageID": "12774953",
+      "created": "2011-06-03 17:08:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46705",
+          "lastname": "Koshantschikov",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        12774953,
+        12774954,
+        12774955,
+        12774956,
+        12774957,
+        12774958,
+        12774959,
+        12774960,
+        12774961,
+        12774962,
+        12774963,
+        12774964,
+        12774965
+      ]
+    }
+  ]
+}

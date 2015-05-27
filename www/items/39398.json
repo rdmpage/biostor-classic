@@ -1,0 +1,34 @@
+{
+  "ItemID": "39398",
+  "FullTitle": "Monitore zoologico italiano.",
+  "VolumeInfo": "v. 12 (1901)",
+  "articles": [
+    {
+      "reference_id": "57661",
+      "genre": "article",
+      "title": "Sopra una nuova specie di oligochete marino (Enchytraeus macrochaetus n. sp.)",
+      "secondary_title": "Monitore Zoologico Italiano",
+      "volume": "12",
+      "spage": "201",
+      "epage": "202",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "819064",
+      "PageID": "10258002",
+      "created": "2010-11-20 14:28:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42122",
+          "lastname": "Pierantoni",
+          "forename": "U"
+        }
+      ],
+      "bhl_pages": [
+        10258002,
+        10258003
+      ]
+    }
+  ]
+}

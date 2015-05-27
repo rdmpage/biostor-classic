@@ -1,0 +1,66 @@
+{
+  "ItemID": "45635",
+  "FullTitle": "Deutsche entomologische Zeitschrift Iris \/  herausgegeben vom Entomologischen Verein Iris zu Dresden.",
+  "VolumeInfo": "bd. 19 1906",
+  "articles": [
+    {
+      "reference_id": "102636",
+      "genre": "article",
+      "title": "Luperina dumetorum H. G. und aberr. bleonnensis",
+      "secondary_title": "Deutsche Entomologische Zeitschrift Iris",
+      "volume": "19",
+      "spage": "38",
+      "epage": "41",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "1695863",
+      "PageID": "12679590",
+      "created": "2012-05-03 10:02:52",
+      "updated": "2012-05-03 10:10:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53696",
+          "lastname": "Schulz",
+          "forename": "Gustav Leo"
+        }
+      ],
+      "bhl_pages": [
+        12679590,
+        12679591,
+        12679592,
+        12679593,
+        12679828,
+        12679829
+      ]
+    },
+    {
+      "reference_id": "58114",
+      "genre": "article",
+      "title": "Neue Aberrationen aus meiner Sammlung",
+      "secondary_title": "Deutsche Entomologische Zeitschrift, Iris",
+      "volume": "19",
+      "spage": "213",
+      "epage": "215",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1695863",
+      "PageID": "12679779",
+      "created": "2010-11-20 19:55:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42253",
+          "lastname": "Pfitzner",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12679779,
+        12679780,
+        12679781
+      ]
+    }
+  ]
+}

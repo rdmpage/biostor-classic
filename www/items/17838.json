@@ -1,0 +1,37 @@
+{
+  "ItemID": "17838",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 27 (1913-1914)",
+  "articles": [
+    {
+      "reference_id": "77745",
+      "genre": "article",
+      "title": "List of land shells from Swan Island, with descriptions of five new species",
+      "secondary_title": "Nautilus",
+      "volume": "27",
+      "spage": "97",
+      "epage": "101",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0028-1344",
+      "PageID": "1752620",
+      "created": "2011-06-14 10:29:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49370",
+          "lastname": "Clapp",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        1752620,
+        1752621,
+        1752622,
+        1752623,
+        1752624
+      ]
+    }
+  ]
+}

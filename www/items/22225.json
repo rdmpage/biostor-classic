@@ -1,0 +1,65 @@
+{
+  "ItemID": "22225",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 18 (1893)",
+  "articles": [
+    {
+      "reference_id": "20760",
+      "genre": "article",
+      "title": "Sur une collection de poissons recueillie par M. Chaper, a Born\u00e9o",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "18",
+      "spage": "55",
+      "epage": "62",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0037-962X",
+      "PageID": "3099346",
+      "created": "2010-02-09 18:56:02",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17937",
+          "lastname": "Vaillant",
+          "forename": "L L"
+        }
+      ],
+      "bhl_pages": [
+        3099346,
+        3099347,
+        3099348,
+        3099349,
+        3099262,
+        3099448,
+        3099293,
+        3099449
+      ]
+    },
+    {
+      "reference_id": "103340",
+      "genre": "article",
+      "title": "Sur quelques Gordiens nouveaux ou peu connus",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "18",
+      "spage": "213",
+      "epage": "216",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0037-962X",
+      "PageID": "3099508",
+      "created": "2012-05-21 13:19:56",
+      "updated": "2012-05-21 13:19:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3099508,
+        3099509,
+        3099510,
+        3099511
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemID": "18505",
+  "FullTitle": "The Journal of the Bombay Natural History Society.",
+  "VolumeInfo": "v. 1 (1886)",
+  "articles": [
+    {
+      "reference_id": "83696",
+      "genre": "article",
+      "title": "Note on a probable new species of Ibex",
+      "secondary_title": "Journal of the Bombay Natural History Society",
+      "volume": "1",
+      "spage": "21",
+      "epage": "23",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0006-6982",
+      "PageID": "2061295",
+      "created": "2011-08-10 09:56:11",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51141",
+          "lastname": "Sterndale",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        2061295,
+        2061296,
+        2061297
+      ]
+    }
+  ]
+}

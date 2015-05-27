@@ -1,0 +1,81 @@
+{
+  "ItemID": "24920",
+  "FullTitle": "The University of Kansas science bulletin.",
+  "VolumeInfo": "v.14 (1922)",
+  "articles": [
+    {
+      "reference_id": "66719",
+      "genre": "article",
+      "title": "A new subterranean isopod from Kansas",
+      "secondary_title": "Kansas University Science Bulletin",
+      "volume": "14",
+      "issue": "6",
+      "spage": "175",
+      "epage": "181",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1440932",
+      "PageID": "4185517",
+      "created": "2011-05-09 18:12:48",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42055",
+          "lastname": "Hungerford",
+          "forename": "H B"
+        }
+      ],
+      "bhl_pages": [
+        4185517,
+        4185518,
+        4185446,
+        4185447,
+        4185448,
+        4185449,
+        4185450
+      ]
+    },
+    {
+      "reference_id": "71865",
+      "genre": "article",
+      "title": "Five new species belonging to the genus |Harmolita| Motschulsky (|Isosoma| Walker)",
+      "secondary_title": "Kansas University Science Bulletin",
+      "volume": "14",
+      "spage": "349",
+      "epage": "359",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1440932",
+      "PageID": "4185662",
+      "created": "2011-06-03 23:24:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2452",
+          "lastname": "Phillips",
+          "forename": "W J"
+        },
+        {
+          "id": "46899",
+          "lastname": "Poos",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        4185662,
+        4185663,
+        4185664,
+        4185665,
+        4185785,
+        4185786,
+        4185787,
+        4185788,
+        4185789,
+        4185790,
+        4185791
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ItemID": "31364",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 19, Bd. 1 (1853)",
+  "articles": [
+    {
+      "reference_id": "65256",
+      "genre": "article",
+      "title": "Uebersicht der Lophobranchier",
+      "secondary_title": "Archiv F\u00fcr Naturgeschichte. Berlin",
+      "volume": "19",
+      "spage": "226",
+      "epage": "234",
+      "year": "1853",
+      "date": "1853-00-00",
+      "oclc": "1481990",
+      "PageID": "7070763",
+      "created": "2011-02-11 17:22:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40834",
+          "lastname": "Kaup",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        7070763,
+        7070764,
+        7070765,
+        7070766,
+        7070767,
+        7070768,
+        7070769,
+        7070770,
+        7070771
+      ]
+    }
+  ]
+}

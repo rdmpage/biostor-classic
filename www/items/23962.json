@@ -1,0 +1,90 @@
+{
+  "ItemID": "23962",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 16 (1903)",
+  "articles": [
+    {
+      "reference_id": "3891",
+      "genre": "article",
+      "title": "A new species of flying lizard from Sarawak.",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "16",
+      "spage": "59",
+      "epage": "60",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0006-324X",
+      "PageID": "3794309",
+      "created": "2009-12-26 19:28:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2337",
+          "lastname": "Barbour",
+          "forename": "T R"
+        }
+      ],
+      "bhl_pages": [
+        3794309,
+        3794310
+      ]
+    },
+    {
+      "reference_id": "3890",
+      "genre": "article",
+      "title": "Two new species of Chamaeleon.",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "16",
+      "spage": "61",
+      "epage": "62",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0006-324X",
+      "PageID": "3794311",
+      "created": "2009-12-26 19:28:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2337",
+          "lastname": "Barbour",
+          "forename": "T R"
+        }
+      ],
+      "bhl_pages": [
+        3794311,
+        3794312
+      ]
+    },
+    {
+      "reference_id": "3897",
+      "genre": "article",
+      "title": "A new species of large iguana from the Bahama Islands.",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "16",
+      "spage": "129",
+      "epage": "132",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0006-324X",
+      "PageID": "3794379",
+      "created": "2009-12-26 19:29:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2340",
+          "lastname": "Stejneger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        3794379,
+        3794380,
+        3794381,
+        3794382
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "ItemID": "32530",
+  "FullTitle": "Le Naturaliste canadien.",
+  "VolumeInfo": "v. 5 1873",
+  "articles": [
+    {
+      "reference_id": "73840",
+      "genre": "article",
+      "title": "Les Ichneumonides de Quebec avec description de plusieurs especes nouvelles",
+      "secondary_title": "Naturaliste Canadien",
+      "volume": "5",
+      "spage": "435",
+      "epage": "452",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1605564",
+      "PageID": "7586649",
+      "created": "2011-06-04 10:02:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46760",
+          "lastname": "Provancher",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        7586649,
+        7586650,
+        7586651,
+        7586652,
+        7586653,
+        7586654,
+        7586655,
+        7586656,
+        7586657,
+        7586658,
+        7586659,
+        7586660,
+        7586661,
+        7586662,
+        7586663,
+        7586664,
+        7586665,
+        7586666
+      ]
+    },
+    {
+      "reference_id": "73003",
+      "genre": "article",
+      "title": "Les Ichneumonides de Quebec avec description de plusieurs especes nouvelles",
+      "secondary_title": "Naturaliste Canadien",
+      "volume": "5",
+      "spage": "470",
+      "epage": "477",
+      "year": "1873",
+      "date": "1873-00-00",
+      "oclc": "1605564",
+      "PageID": "7586684",
+      "created": "2011-06-04 04:52:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46760",
+          "lastname": "Provancher",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        7586684,
+        7586685,
+        7586686,
+        7586687,
+        7586688,
+        7586689,
+        7586690,
+        7586691
+      ]
+    }
+  ]
+}

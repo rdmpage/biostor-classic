@@ -1,0 +1,126 @@
+{
+  "ItemID": "44585",
+  "FullTitle": "Journal of the Field Naturalists' Club.",
+  "VolumeInfo": "v.2",
+  "articles": [
+    {
+      "reference_id": "51972",
+      "genre": "article",
+      "title": "A preliminary list of the reptiles and batrachians of the island of Trinidad",
+      "secondary_title": "Journal of the Trinidad Field Naturalists' Club",
+      "volume": "2",
+      "spage": "77",
+      "epage": "90",
+      "year": "1894",
+      "date": "1894-00-00",
+      "PageID": "12263675",
+      "created": "2010-06-27 12:47:20",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40303",
+          "lastname": "Mole",
+          "forename": "R R"
+        },
+        {
+          "id": "40309",
+          "lastname": "Urich",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        12263675,
+        12263676,
+        12263677,
+        12263678,
+        12263679,
+        12263680,
+        12263681,
+        12263682,
+        12263683,
+        12263684,
+        12263685,
+        12263686,
+        12263687,
+        12263688
+      ]
+    },
+    {
+      "reference_id": "72187",
+      "genre": "article",
+      "title": "Notes on the cacao beetle (Steirastoma depressum)",
+      "secondary_title": "Journal of the Trinidad Field Nature Club",
+      "volume": "2",
+      "spage": "110",
+      "epage": "112",
+      "year": "1894",
+      "date": "1894-00-00",
+      "PageID": "12263710",
+      "created": "2011-06-04 00:44:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46974",
+          "lastname": "Carr",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        12263710,
+        12263711,
+        12263712
+      ]
+    },
+    {
+      "reference_id": "103841",
+      "genre": "article",
+      "title": "Description of a new species of Telenomus bred by Mr. F. W. Urich, from a coccid",
+      "secondary_title": "Journal of The Field Naturalists' Club",
+      "volume": "2",
+      "spage": "220",
+      "epage": "221",
+      "year": "1895",
+      "date": "1895-00-00",
+      "PageID": "12263838",
+      "created": "2012-05-30 13:32:01",
+      "updated": "2012-05-30 13:32:01",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12263838,
+        12263839
+      ]
+    },
+    {
+      "reference_id": "60747",
+      "genre": "article",
+      "title": "Description of a new genus and new species of proctotrypid bred by Mr F.W. Urich from an embiid",
+      "secondary_title": "Journal of the Trinidad Field Naturalists' Club",
+      "volume": "2",
+      "spage": "264",
+      "epage": "266",
+      "year": "1895",
+      "date": "1895-00-00",
+      "PageID": "12263890",
+      "created": "2010-11-23 04:21:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40389",
+          "lastname": "Ashmead",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        12263890,
+        12263891,
+        12263892
+      ]
+    }
+  ]
+}

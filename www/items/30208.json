@@ -1,0 +1,87 @@
+{
+  "ItemID": "30208",
+  "FullTitle": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 18 (1856)",
+  "articles": [
+    {
+      "reference_id": "70837",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur naturgeschichte der insecten",
+      "secondary_title": "Sitzungsberichte der Akademie der Wissenschaften in Wien, Mathematischnaturwissenschaftliche",
+      "volume": "18",
+      "spage": "33",
+      "epage": "47",
+      "year": "1856",
+      "date": "1856-00-00",
+      "oclc": "5883001",
+      "PageID": "6441534",
+      "created": "2011-06-03 15:36:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46669",
+          "lastname": "E.",
+          "forename": "Heeger"
+        }
+      ],
+      "bhl_pages": [
+        6441534,
+        6441535,
+        6441536,
+        6441537,
+        6441538,
+        6441539,
+        6441540,
+        6441541,
+        6441542,
+        6441543,
+        6441544,
+        6441545,
+        6441546,
+        6441547,
+        6441548
+      ]
+    },
+    {
+      "reference_id": "104588",
+      "genre": "article",
+      "title": "\u00dcber eine neue Fliegengattung: Raymondia, aus der Familie der Coriaceen, nebst Beschreibung zweier Arten derselben",
+      "secondary_title": "Kaiserliche Akademie der Wissenschaften zu Wien. Sitzungsberichte der Mathematisch-naturwissenschaftlichen Klasse",
+      "volume": "18",
+      "spage": "320",
+      "epage": "333",
+      "year": "1855",
+      "date": "1855-00-00",
+      "oclc": "5883001",
+      "PageID": "6441889",
+      "created": "2012-06-24 23:24:46",
+      "updated": "2012-06-24 23:26:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53890",
+          "lastname": "Frauenfeld",
+          "forename": "Georg"
+        }
+      ],
+      "bhl_pages": [
+        6441889,
+        6441890,
+        6441891,
+        6441892,
+        6441893,
+        6441894,
+        6441895,
+        6441896,
+        6441897,
+        6441898,
+        6441899,
+        6441900,
+        6441901,
+        6441904,
+        6441902
+      ]
+    }
+  ]
+}

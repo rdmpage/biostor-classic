@@ -1,0 +1,106 @@
+{
+  "ItemID": "40867",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 49 1968",
+  "articles": [
+    {
+      "reference_id": "61880",
+      "genre": "article",
+      "title": "Harperocallis a new genus of the Liliaceae from Florida",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "49",
+      "spage": "35",
+      "epage": "40",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0004-2625",
+      "PageID": "10817406",
+      "created": "2011-01-26 19:03:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43204",
+          "lastname": "Mcdaniel",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        10817406,
+        10817407,
+        10817408,
+        10817409,
+        10817410,
+        10817411
+      ]
+    },
+    {
+      "reference_id": "62066",
+      "genre": "article",
+      "title": "Cytotaxonomy of Illicium floridanum and I. parviflorum (Illiciaceae)",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "49",
+      "spage": "41",
+      "epage": "51",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0004-2625",
+      "PageID": "10817412",
+      "created": "2011-01-26 19:49:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43270",
+          "lastname": "Freeman",
+          "forename": "J L"
+        },
+        {
+          "id": "43167",
+          "lastname": "Stone",
+          "forename": "D E"
+        }
+      ],
+      "bhl_pages": [
+        10817412,
+        10817413,
+        10817414,
+        10817415,
+        10817416,
+        10817417,
+        10817418,
+        10817419,
+        10817420,
+        10817421,
+        10817422
+      ]
+    },
+    {
+      "reference_id": "61759",
+      "genre": "article",
+      "title": "Herissantia, Bogenhardia, and Gayoides (Malvaceae)",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "49",
+      "spage": "278",
+      "epage": "279",
+      "year": "1968",
+      "date": "1968-00-00",
+      "issn": "0004-2625",
+      "PageID": "10817648",
+      "created": "2011-01-26 18:01:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43110",
+          "lastname": "Brizicky",
+          "forename": "G K"
+        }
+      ],
+      "bhl_pages": [
+        10817648,
+        10817649
+      ]
+    }
+  ]
+}

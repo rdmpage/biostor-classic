@@ -1,0 +1,73 @@
+{
+  "ItemID": "44246",
+  "FullTitle": "Bulletin of the Torrey Botanical Club.",
+  "VolumeInfo": "v.51 (1924)",
+  "articles": [
+    {
+      "reference_id": "11302",
+      "genre": "article",
+      "title": "Studies on the Flora of Northern South America-I",
+      "secondary_title": "Bulletin of the Torrey Botanical Club",
+      "volume": "51",
+      "spage": "443",
+      "epage": "448",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0040-9618",
+      "doi": "10.2307\/2480192",
+      "PageID": "12126779",
+      "created": "2010-01-08 14:07:49",
+      "updated": "2011-09-12 18:03:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8527",
+          "lastname": "Gleason",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        12126779,
+        12126780,
+        12126781,
+        12126782,
+        12126783,
+        12126784
+      ]
+    },
+    {
+      "reference_id": "11303",
+      "genre": "article",
+      "title": "Crown Gall on Bryophyllum calycinum",
+      "secondary_title": "Bulletin of the Torrey Botanical Club",
+      "volume": "51",
+      "spage": "449",
+      "epage": "456",
+      "year": "1924",
+      "date": "1924-00-00",
+      "issn": "0040-9618",
+      "doi": "10.2307\/2480193",
+      "PageID": "12126785",
+      "created": "2010-01-08 14:07:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8528",
+          "lastname": "Levine",
+          "forename": "Michael"
+        }
+      ],
+      "bhl_pages": [
+        12126785,
+        12126786,
+        12126787,
+        12126788,
+        12126789,
+        12126790,
+        12126791,
+        12126792
+      ]
+    }
+  ]
+}

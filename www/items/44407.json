@@ -1,0 +1,92 @@
+{
+  "ItemID": "44407",
+  "FullTitle": "Memorias de la Real Sociedad Espan\u0303ola de Historia Natural.",
+  "VolumeInfo": "t.1 1903-10",
+  "articles": [
+    {
+      "reference_id": "71937",
+      "genre": "article",
+      "title": "Reptiles de la Guin\u00e9e espagnole",
+      "secondary_title": "Mem. Real. Soc. Esp. Hist. Nat",
+      "volume": "1",
+      "spage": "183",
+      "epage": "186",
+      "year": "1905",
+      "date": "1905-00-00",
+      "PageID": "12197450",
+      "created": "2011-06-03 23:41:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        12197450,
+        12197451,
+        12197452,
+        12197453
+      ]
+    },
+    {
+      "reference_id": "103747",
+      "genre": "article",
+      "title": "Derm\u00e1pteros de la Guinea espa\u00f1ola",
+      "secondary_title": "Memorias de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "1",
+      "issue": "17",
+      "spage": "293",
+      "epage": "295",
+      "year": "1906",
+      "date": "1906-00-00",
+      "oclc": "8531939",
+      "PageID": "12197564",
+      "created": "2012-05-27 11:51:24",
+      "updated": "2012-05-27 11:53:07",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39882",
+          "lastname": "Burr",
+          "forename": "Malcolm"
+        }
+      ],
+      "bhl_pages": [
+        12197564,
+        12197565,
+        12197566
+      ]
+    },
+    {
+      "reference_id": "72732",
+      "genre": "article",
+      "title": "Dos Neur\u00f3pteros de la Guinea Espa\u00f1ola",
+      "secondary_title": "Memorias de la [Real] Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "1",
+      "spage": "323",
+      "epage": "326",
+      "year": "1906",
+      "date": "1906-00-00",
+      "PageID": "12197596",
+      "created": "2011-06-04 03:23:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42198",
+          "lastname": "Klap\u00e1lek",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        12197596,
+        12197597,
+        12197598,
+        12197599
+      ]
+    }
+  ]
+}

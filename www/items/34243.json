@@ -1,0 +1,34 @@
+{
+  "ItemID": "34243",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 1 (1889)",
+  "articles": [
+    {
+      "reference_id": "104256",
+      "genre": "article",
+      "title": "On the presence of a Pentastomum parasitic in the lung of the copper-head snake (Hoplocephalus superbus)",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "1",
+      "spage": "110",
+      "epage": "111",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0035-9211",
+      "PageID": "8279732",
+      "created": "2012-06-15 09:05:53",
+      "updated": "2012-06-15 09:06:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42101",
+          "lastname": "Spencer",
+          "forename": "W B"
+        }
+      ],
+      "bhl_pages": [
+        8279732,
+        8279733
+      ]
+    }
+  ]
+}

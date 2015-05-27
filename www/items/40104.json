@@ -1,0 +1,100 @@
+{
+  "ItemID": "40104",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique d'\u00c9gypte.  ",
+  "VolumeInfo": "v. 6 1919-21",
+  "articles": [
+    {
+      "reference_id": "61191",
+      "genre": "article",
+      "title": "Sur la femelle de Pachytomus (Chalcidinae, Podagrionini)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique d'Egypte",
+      "volume": "6",
+      "spage": "20",
+      "epage": "24",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1765812",
+      "PageID": "10523726",
+      "created": "2010-12-08 09:13:47",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42935",
+          "lastname": "D\u00e7bski",
+          "forename": "Bronislaw"
+        }
+      ],
+      "bhl_pages": [
+        10523726,
+        10523727,
+        10523728,
+        10523729,
+        10523730
+      ]
+    },
+    {
+      "reference_id": "73565",
+      "genre": "article",
+      "title": "Descriptions de trois cecidies nouvelles et quelques remarques sur d'autres cecidies d'Egypte",
+      "secondary_title": "Bull. Soc. ent. Egypte",
+      "volume": "6",
+      "spage": "24",
+      "epage": "32",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1765812",
+      "PageID": "10523730",
+      "created": "2011-06-04 09:20:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47214",
+          "lastname": "Debski",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        10523730,
+        10523731,
+        10523732,
+        10523733,
+        10523734,
+        10523735,
+        10523736,
+        10523737,
+        10523738
+      ]
+    },
+    {
+      "reference_id": "99566",
+      "genre": "article",
+      "title": "Remarques sur quelques Dipt\u00e8res dEgypte communiqu\u00e9s par M. Alfieri et description do deux esp\u00e8ces nouvelles",
+      "secondary_title": "Bulletin Societe Entomologique d'Egypte",
+      "volume": "6",
+      "spage": "51",
+      "epage": "54",
+      "year": "1922",
+      "date": "1922-00-00",
+      "oclc": "1765812",
+      "PageID": "10523972",
+      "created": "2011-12-17 21:21:17",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53378",
+          "lastname": "Villeneuve",
+          "forename": "Joseph"
+        }
+      ],
+      "bhl_pages": [
+        10523972,
+        10523973,
+        10523974,
+        10523975
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ItemID": "21473",
+  "FullTitle": "A new species of toad (Bufo) from Sierra Leone  [by] Robert F. Inger [and] J. I. Menzies.",
+  "VolumeInfo": "v.39:no.54(1961)",
+  "articles": [
+    {
+      "reference_id": "1395",
+      "genre": "article",
+      "title": "A new species of toad (Bufo) from Sierra Leone",
+      "secondary_title": "Fieldiana (Zool.)",
+      "volume": "39",
+      "spage": "589",
+      "epage": "594",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0015-0754",
+      "PageID": "2849581",
+      "created": "2009-12-23 16:11:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1056",
+          "lastname": "Inger",
+          "forename": "R F"
+        },
+        {
+          "id": "1073",
+          "lastname": "Menzies",
+          "forename": "J I"
+        }
+      ],
+      "bhl_pages": [
+        2849581,
+        2849560,
+        2849568,
+        2849569,
+        2849570,
+        2849571
+      ]
+    }
+  ]
+}

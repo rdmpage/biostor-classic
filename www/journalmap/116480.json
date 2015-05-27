@@ -1,0 +1,68 @@
+{
+  "author": [
+    
+  ],
+  "type": "article",
+  "title": "An illustrated guide to the Orthocomotis Dognin (Tortricidae) of Costa Rica, with summaries of their spatial and temporal distribution",
+  "journal": {
+    "name": "Journal of The Lepidopterists' Society",
+    "volume": "57",
+    "pages": "253--269",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0024-0966"
+      }
+    ]
+  },
+  "year": "2003",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/116480"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/41110429"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 116480
+    },
+    {
+      "type": "bhl",
+      "id": 41110429
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -83.833333333333,
+        9.7666666666667
+      ],
+      [
+        -84.083333333333,
+        10.266666666667
+      ],
+      [
+        -84.116666666667,
+        10.183333333333
+      ],
+      [
+        -83.333333333333,
+        8.75
+      ],
+      [
+        -84.016666666667,
+        10.066666666667
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ]
+    ]
+  }
+}

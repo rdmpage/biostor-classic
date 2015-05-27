@@ -1,0 +1,348 @@
+{
+  "ItemID": "38097",
+  "FullTitle": "The transactions of the Entomological Society of New South Wales. v. 1-2, [1863-73] ",
+  "VolumeInfo": "v. 1",
+  "articles": [
+    {
+      "reference_id": "60370",
+      "genre": "article",
+      "title": "Observations on certain gall-making Coccidae of Australia",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "1",
+      "epage": "6",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "12227212",
+      "PageID": "9949584",
+      "created": "2010-11-22 23:34:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42813",
+          "lastname": "Schrader",
+          "forename": "H L"
+        }
+      ],
+      "bhl_pages": [
+        9949584,
+        9949585,
+        9949586,
+        9949587,
+        9949588,
+        9949589
+      ]
+    },
+    {
+      "reference_id": "60371",
+      "genre": "article",
+      "title": "Further communication on the gall-making Coccidae",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "6",
+      "epage": "8",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "12227212",
+      "PageID": "9949589",
+      "created": "2010-11-22 23:35:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42813",
+          "lastname": "Schrader",
+          "forename": "H L"
+        }
+      ],
+      "bhl_pages": [
+        9949589,
+        9949590,
+        9949591
+      ]
+    },
+    {
+      "reference_id": "60442",
+      "genre": "article",
+      "title": "Descriptions of twenty new species of Australian Coleoptera, belonging to the families Cicindelidae and Cetoniidae",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "9",
+      "epage": "21",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "12227212",
+      "PageID": "9949592",
+      "created": "2010-11-23 00:34:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40269",
+          "lastname": "Macleay",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        9949592,
+        9949593,
+        9949594,
+        9949595,
+        9949596,
+        9949597,
+        9949598,
+        9949599,
+        9949600,
+        9949601,
+        9949602,
+        9949603,
+        9949604
+      ]
+    },
+    {
+      "reference_id": "60565",
+      "genre": "article",
+      "title": "Descriptions of twenty new species of Buprestidae, belonging to the genus Stigmodera, from the northern parts of Australia",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "22",
+      "epage": "32",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "12227212",
+      "PageID": "9949605",
+      "created": "2010-11-23 01:53:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40269",
+          "lastname": "Macleay",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        9949605,
+        9949606,
+        9949607,
+        9949608,
+        9949609,
+        9949610,
+        9949611,
+        9949612,
+        9949613,
+        9949614,
+        9949615
+      ]
+    },
+    {
+      "reference_id": "60546",
+      "genre": "article",
+      "title": "On the insects of Australia allied to the Glaphyridae",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "75",
+      "epage": "90",
+      "year": "1864",
+      "date": "1864-00-00",
+      "oclc": "12227212",
+      "PageID": "9949658",
+      "created": "2010-11-23 01:40:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40269",
+          "lastname": "Macleay",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        9949658,
+        9949659,
+        9949660,
+        9949661,
+        9949662,
+        9949663,
+        9949664,
+        9949665,
+        9949666,
+        9949667,
+        9949668,
+        9949669,
+        9949670,
+        9949671,
+        9949672,
+        9949673
+      ]
+    },
+    {
+      "reference_id": "60516",
+      "genre": "article",
+      "title": "On the Pselaphidae of Australia. 2nd paper",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "102",
+      "epage": "106",
+      "year": "1863",
+      "date": "1863-00-00",
+      "oclc": "12227212",
+      "PageID": "9949685",
+      "created": "2010-11-23 01:17:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42745",
+          "lastname": "King",
+          "forename": "R L"
+        }
+      ],
+      "bhl_pages": [
+        9949685,
+        9949686,
+        9949687,
+        9949688,
+        9949689
+      ]
+    },
+    {
+      "reference_id": "60441",
+      "genre": "article",
+      "title": "Descriptions of new genera and species of Coleoptera from Port Denison",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "106",
+      "epage": "130",
+      "year": "1864",
+      "date": "1864-00-00",
+      "oclc": "12227212",
+      "PageID": "9949689",
+      "created": "2010-11-23 00:33:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40269",
+          "lastname": "Macleay",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        9949689,
+        9949690,
+        9949691,
+        9949692,
+        9949693,
+        9949694,
+        9949695,
+        9949696,
+        9949697,
+        9949698,
+        9949699,
+        9949700,
+        9949701,
+        9949702,
+        9949703,
+        9949704,
+        9949705,
+        9949706,
+        9949707,
+        9949708,
+        9949709,
+        9949710,
+        9949711,
+        9949712,
+        9949713
+      ]
+    },
+    {
+      "reference_id": "60438",
+      "genre": "article",
+      "title": "Description of a new genus of carabideous insects",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "155",
+      "epage": "157",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "12227212",
+      "PageID": "9949738",
+      "created": "2010-11-23 00:32:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40269",
+          "lastname": "Macleay",
+          "forename": "W J"
+        }
+      ],
+      "bhl_pages": [
+        9949738,
+        9949739,
+        9949740
+      ]
+    },
+    {
+      "reference_id": "60509",
+      "genre": "article",
+      "title": "Description of Australian species of Georyssides and Parnides",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "158",
+      "epage": "161",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "12227212",
+      "PageID": "9949741",
+      "created": "2010-11-23 01:13:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42745",
+          "lastname": "King",
+          "forename": "R L"
+        }
+      ],
+      "bhl_pages": [
+        9949741,
+        9949742,
+        9949743,
+        9949744
+      ]
+    },
+    {
+      "reference_id": "60055",
+      "genre": "article",
+      "title": "On the anatomy of certain forms of Australian Entomostraca",
+      "secondary_title": "Transactions of the Entomological Society of New South Wales",
+      "volume": "1",
+      "spage": "162",
+      "epage": "166",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "12227212",
+      "PageID": "9949745",
+      "created": "2010-11-22 18:04:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42745",
+          "lastname": "King",
+          "forename": "R L"
+        }
+      ],
+      "bhl_pages": [
+        9949745,
+        9949746,
+        9949747,
+        9949748,
+        9949749
+      ]
+    }
+  ]
+}

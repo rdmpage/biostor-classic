@@ -1,0 +1,378 @@
+{
+  "ItemID": "37563",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "Bd.20, 1897",
+  "articles": [
+    {
+      "reference_id": "60070",
+      "genre": "article",
+      "title": "System der Ascomyzontiden, einer semiparasitischen Copepoden-Familie",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "9",
+      "epage": "14",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730624",
+      "created": "2010-11-22 18:17:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42751",
+          "lastname": "Giesbrecht",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9730624,
+        9730625,
+        9730626,
+        9730627,
+        9730628,
+        9730629
+      ]
+    },
+    {
+      "reference_id": "49164",
+      "genre": "article",
+      "title": "Zwei neue Eidechsen aus West-Afrika",
+      "secondary_title": "Zool. Anz.",
+      "volume": "20",
+      "spage": "56",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730671",
+      "created": "2010-03-21 11:45:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39323",
+          "lastname": "Sj\u00f6stedt",
+          "forename": "Y"
+        }
+      ],
+      "bhl_pages": [
+        9730671
+      ]
+    },
+    {
+      "reference_id": "60221",
+      "genre": "article",
+      "title": "Bemerkungen zur Hydrachnidenkunde",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "59",
+      "epage": "61",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730674",
+      "created": "2010-11-22 20:52:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42235",
+          "lastname": "Piersig",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9730674,
+        9730675,
+        9730676
+      ]
+    },
+    {
+      "reference_id": "98535",
+      "genre": "article",
+      "title": "Branchlophorus nyctiphanae, n. g., n. sp., Epicaride nouveau de la famille des Dajidae",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "88",
+      "epage": "92",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730703",
+      "created": "2011-11-30 15:55:33",
+      "updated": "2011-11-30 15:55:33",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9730703,
+        9730704,
+        9730705,
+        9730706,
+        9730707
+      ]
+    },
+    {
+      "reference_id": "98536",
+      "genre": "article",
+      "title": "Der centralamerikanische Fischotter und seine nachsten Verwandten",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "136",
+      "epage": "142",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730751",
+      "created": "2011-11-30 15:55:38",
+      "updated": "2011-11-30 15:55:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9730751,
+        9730752,
+        9730753,
+        9730754,
+        9730755,
+        9730756,
+        9730757
+      ]
+    },
+    {
+      "reference_id": "49171",
+      "genre": "article",
+      "title": "Neue Reptilien und Batrachier von den Philippinen",
+      "secondary_title": "Zool. Anz.",
+      "volume": "20",
+      "spage": "161",
+      "epage": "166",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730776",
+      "created": "2010-03-21 11:51:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9730776,
+        9730777,
+        9730778,
+        9730779,
+        9730780,
+        9730781
+      ]
+    },
+    {
+      "reference_id": "69953",
+      "genre": "article",
+      "title": "Nuova classificazione dei Gordii",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "225",
+      "epage": "229",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730840",
+      "created": "2011-06-02 07:58:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46430",
+          "lastname": "Camerano",
+          "forename": "Lorenzo"
+        }
+      ],
+      "bhl_pages": [
+        9730840,
+        9730841,
+        9730842,
+        9730843,
+        9730844
+      ]
+    },
+    {
+      "reference_id": "69954",
+      "genre": "article",
+      "title": "Notizen zur Systematik der Copepoden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "253",
+      "epage": "255",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730868",
+      "created": "2011-06-02 07:58:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42751",
+          "lastname": "Giesbrecht",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9730868,
+        9730869,
+        9730870
+      ]
+    },
+    {
+      "reference_id": "14659",
+      "genre": "article",
+      "title": "\u00dcber einige noch unbeschriebene Reptilian und Batrachier",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "261",
+      "epage": "267",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730876",
+      "created": "2010-01-21 11:53:16",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10313",
+          "lastname": "Werner",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        9730876,
+        9730877,
+        9730878,
+        9730879,
+        9730880,
+        9730881,
+        9730882
+      ]
+    },
+    {
+      "reference_id": "98545",
+      "genre": "article",
+      "title": "Sperosoma Grimaldi Koehler. Nouveau genre d'Echinothurides",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "302",
+      "epage": "307",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9730917",
+      "created": "2011-11-30 15:56:36",
+      "updated": "2011-11-30 15:56:36",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9730917,
+        9730918,
+        9730919,
+        9730920,
+        9730921,
+        9730922
+      ]
+    },
+    {
+      "reference_id": "59666",
+      "genre": "article",
+      "title": "Zwei australische Solenogastres",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "398",
+      "epage": "400",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9731013",
+      "created": "2010-11-22 15:06:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42660",
+          "lastname": "Thiele",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9731013,
+        9731014,
+        9731015
+      ]
+    },
+    {
+      "reference_id": "98546",
+      "genre": "article",
+      "title": "Note sur un Capitellien nouveau (Capitellides, n. gen., Giardi, n. sp.)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "441",
+      "epage": "443",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9731056",
+      "created": "2011-11-30 15:56:40",
+      "updated": "2011-11-30 15:56:40",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9731056,
+        9731057,
+        9731058
+      ]
+    },
+    {
+      "reference_id": "60834",
+      "genre": "article",
+      "title": "Beitrag zur Kenntniss der Spongienfauna des Malaiischen Archipels und der Chinesischen Meere",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "20",
+      "spage": "480",
+      "epage": "487",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0044-5231",
+      "PageID": "9731095",
+      "created": "2010-11-23 04:47:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42871",
+          "lastname": "Lindgren",
+          "forename": "N G"
+        }
+      ],
+      "bhl_pages": [
+        9731095,
+        9731096,
+        9731097,
+        9731098,
+        9731099,
+        9731100,
+        9731101,
+        9731102
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "ItemID": "41756",
+  "FullTitle": "Revue biologique du nord de la France.  ",
+  "VolumeInfo": "t. 2 (1889-1890)",
+  "articles": [
+    {
+      "reference_id": "104940",
+      "genre": "article",
+      "title": "Sur la structure du cerveau chez les Myriapodes et les Arachnides",
+      "secondary_title": "Revue Biologique Du Nord De La France",
+      "volume": "2",
+      "spage": "41",
+      "epage": "55",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1764015",
+      "PageID": "11130359",
+      "created": "2012-06-29 10:19:24",
+      "updated": "2012-06-29 10:19:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53928",
+          "lastname": "Saint-Remy",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        11130359,
+        11130360,
+        11130361,
+        11130362,
+        11130363,
+        11130364,
+        11130365,
+        11130366,
+        11130367,
+        11130368,
+        11130369,
+        11130370,
+        11130371,
+        11130372,
+        11130373
+      ]
+    },
+    {
+      "reference_id": "71426",
+      "genre": "article",
+      "title": "\u00c9tudes de Spongiaires",
+      "secondary_title": "Revue biologique du Nord de la France",
+      "volume": "2",
+      "spage": "289",
+      "epage": "298",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "1764015",
+      "PageID": "11130607",
+      "created": "2011-06-03 19:51:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42868",
+          "lastname": "Topsent",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11130607,
+        11130608,
+        11130609,
+        11130610,
+        11130611,
+        11130612,
+        11130613,
+        11130614,
+        11130615,
+        11130616
+      ]
+    }
+  ]
+}

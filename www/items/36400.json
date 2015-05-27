@@ -1,0 +1,117 @@
+{
+  "ItemID": "36400",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France.  ",
+  "VolumeInfo": "1901",
+  "articles": [
+    {
+      "reference_id": "104902",
+      "genre": "article",
+      "title": "A propos des Onychophores du Cap d\u00e9sign\u00e9s sur les noms de Peripatus capensis Grube et de P. brevis Blainville",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1901",
+      "spage": "74",
+      "epage": "76",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1765811",
+      "PageID": "9211444",
+      "created": "2012-06-29 09:41:44",
+      "updated": "2012-06-29 09:41:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        9211444,
+        9211445,
+        9211446
+      ]
+    },
+    {
+      "reference_id": "57222",
+      "genre": "article",
+      "title": "Description d'une esp\u00e8ce nouvelle du genre Micrathena (Arachn.)",
+      "secondary_title": "Bull. Soc. ent. France",
+      "volume": "1901",
+      "spage": "121",
+      "epage": "122",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0037-928X",
+      "PageID": "9211491",
+      "created": "2010-11-17 17:49:32",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9211491,
+        9211492
+      ]
+    },
+    {
+      "reference_id": "57441",
+      "genre": "article",
+      "title": "Note sur les arachnides captur\u00e9s par M. Mazauric dans la grotte de Trabuc (Garde)",
+      "secondary_title": "Bull. Soc. ent. France",
+      "volume": "1901",
+      "spage": "238",
+      "epage": "239",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0037-928X",
+      "PageID": "9211608",
+      "created": "2010-11-18 14:27:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2637",
+          "lastname": "Simon",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9211608,
+        9211609
+      ]
+    },
+    {
+      "reference_id": "57640",
+      "genre": "article",
+      "title": "Sur un Thrips (Physopus rubrocincta nov. sp.) nuisable au Cacaoyer",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1901",
+      "spage": "263",
+      "epage": "265",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0037-928X",
+      "PageID": "9211633",
+      "created": "2010-11-20 14:22:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42115",
+          "lastname": "Giard",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9211633,
+        9211634,
+        9211635
+      ]
+    }
+  ]
+}

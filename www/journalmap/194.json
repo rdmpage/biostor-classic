@@ -1,0 +1,81 @@
+{
+  "author": [
+    {
+      "firstname": "William",
+      "lastname": "Dolling",
+      "name": "William Dolling"
+    }
+  ],
+  "type": "article",
+  "title": "A revision of the African pod bugs of the tribe Clavigrallini (Hemiptera: Coreidae) with a checklist of the world species",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Entomology",
+    "volume": "39",
+    "issue": "1",
+    "pages": "1--84",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1979",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/194"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2304153"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 194
+    },
+    {
+      "type": "bhl",
+      "id": 2304153
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        13.75,
+        3.75
+      ],
+      [
+        30,
+        1.1666666666667
+      ],
+      [
+        27.25,
+        2.4166666666667
+      ],
+      [
+        29.666666666667,
+        3.6666666666667
+      ],
+      [
+        22.616666666667,
+        -8.3666666666667
+      ],
+      [
+        14.25,
+        -5.2666666666667
+      ],
+      [
+        29.15,
+        -7.1833333333333
+      ],
+      [
+        16.683333333333,
+        -5.6833333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ItemID": "22131",
+  "FullTitle": "The Irish naturalist.  ",
+  "VolumeInfo": "v. 8 (1899)",
+  "articles": [
+    {
+      "reference_id": "53328",
+      "genre": "article",
+      "title": "Some animals from the Macgillycuddys Reeks",
+      "secondary_title": "Irish Naturalist",
+      "volume": "8",
+      "spage": "213",
+      "epage": "218",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "1753950",
+      "PageID": "3058743",
+      "created": "2010-10-26 20:15:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40822",
+          "lastname": "Scharff",
+          "forename": "R F"
+        },
+        {
+          "id": "40823",
+          "lastname": "Carpenter",
+          "forename": "G H"
+        }
+      ],
+      "bhl_pages": [
+        3058743,
+        3058744,
+        3058745,
+        3058746,
+        3058747,
+        3058748
+      ]
+    }
+  ]
+}

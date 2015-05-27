@@ -1,0 +1,977 @@
+{
+  "ItemID": "61788",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "8th ser. v. 11 (1913)",
+  "articles": [
+    {
+      "reference_id": "58628",
+      "genre": "article",
+      "title": "New species of Diploptera in the collection of the British Museum. Part IV",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "44",
+      "epage": "54",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635605",
+      "created": "2010-11-20 22:16:12",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42315",
+          "lastname": "Meade-Waldo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        18635605,
+        18635606,
+        18635607,
+        18635608,
+        18635609,
+        18635610,
+        18635611,
+        18635612,
+        18635613,
+        18635614,
+        18635615
+      ]
+    },
+    {
+      "reference_id": "58663",
+      "genre": "article",
+      "title": "Two new Australian mammals",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "79",
+      "epage": "80",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635640",
+      "created": "2010-11-20 22:23:26",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42066",
+          "lastname": "Thomas",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        18635640,
+        18635641
+      ]
+    },
+    {
+      "reference_id": "73539",
+      "genre": "article",
+      "title": "A revision of the Asilidae of Australasia [part]",
+      "secondary_title": "Ann. Mag. Nat. Hist",
+      "volume": "11",
+      "series": "8",
+      "spage": "147",
+      "epage": "166",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635708",
+      "created": "2011-06-04 09:16:45",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10029",
+          "lastname": "Ricardo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        18635708,
+        18635709,
+        18635710,
+        18635711,
+        18635712,
+        18635713,
+        18635714,
+        18635715,
+        18635716,
+        18635717,
+        18635718,
+        18635719,
+        18635720,
+        18635721,
+        18635722,
+        18635723,
+        18635724,
+        18635725,
+        18635726,
+        18635727
+      ]
+    },
+    {
+      "reference_id": "100654",
+      "genre": "article",
+      "title": "XIII.\u2014A new Galago from German East Africa",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "167",
+      "epage": "168",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693302",
+      "PageID": "18635728",
+      "created": "2012-01-18 13:49:18",
+      "updated": "2012-01-18 13:50:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39324",
+          "lastname": "L\u00f6nnberg",
+          "forename": "Einar"
+        }
+      ],
+      "bhl_pages": [
+        18635728,
+        18635729
+      ]
+    },
+    {
+      "reference_id": "98900",
+      "genre": "article",
+      "title": "Descriptions of New Zealand species of Pselaphidae from Dr. Sharp's collection in the British Museum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "spage": "196",
+      "epage": "206",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693307",
+      "PageID": "18635757",
+      "created": "2011-12-05 22:08:47",
+      "updated": "2011-12-05 22:08:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18635757,
+        18635758,
+        18635759,
+        18635760,
+        18635761,
+        18635762,
+        18635763,
+        18635764,
+        18635765,
+        18635766,
+        18635767
+      ]
+    },
+    {
+      "reference_id": "58567",
+      "genre": "article",
+      "title": "On the systematic position of the coleopterous genus Lemodes (Heteromera), with notes on some allied genera",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "207",
+      "epage": "209",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635768",
+      "created": "2010-11-20 21:53:01",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39861",
+          "lastname": "Blair",
+          "forename": "K G"
+        }
+      ],
+      "bhl_pages": [
+        18635768,
+        18635769,
+        18635770
+      ]
+    },
+    {
+      "reference_id": "98847",
+      "genre": "article",
+      "title": "Descriptions of fifteen new species and varities of Marine Shells from the Falkland Islands",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "11",
+      "spage": "218",
+      "epage": "223",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693311",
+      "PageID": "18635779",
+      "created": "2011-12-05 21:25:50",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18635779,
+        18635780,
+        18635781,
+        18635782,
+        18635783,
+        18635784
+      ]
+    },
+    {
+      "reference_id": "98831",
+      "genre": "article",
+      "title": "On new species of Indian Curculionidae. Part. i",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "11",
+      "spage": "224",
+      "epage": "231",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693384",
+      "PageID": "18635785",
+      "created": "2011-12-05 21:15:55",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18635785,
+        18635786,
+        18635787,
+        18635788,
+        18635789,
+        18635790,
+        18635791,
+        18635792
+      ]
+    },
+    {
+      "reference_id": "66645",
+      "genre": "article",
+      "title": "Descriptions of two new fishes from Paranagua, Brazil, presented to the British Museum by Herr A. Rachow",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "231",
+      "epage": "232",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693313",
+      "PageID": "18635792",
+      "created": "2011-05-08 00:46:05",
+      "updated": "2012-05-20 19:22:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18635792,
+        18635793
+      ]
+    },
+    {
+      "reference_id": "80352",
+      "genre": "article",
+      "title": "The poeciliid fishes of the genus Jenynsia",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "11",
+      "series": "8",
+      "issue": "63",
+      "spage": "232",
+      "epage": "234",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693314",
+      "PageID": "18635793",
+      "created": "2011-07-11 18:34:04",
+      "updated": "2012-05-20 19:21:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40351",
+          "lastname": "Regan",
+          "forename": "C Tate"
+        }
+      ],
+      "bhl_pages": [
+        18635793,
+        18635794,
+        18635795
+      ]
+    },
+    {
+      "reference_id": "58584",
+      "genre": "article",
+      "title": "Descriptions and records of bees. L",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "273",
+      "epage": "283",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635834",
+      "created": "2010-11-20 22:00:37",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        18635834,
+        18635835,
+        18635836,
+        18635837,
+        18635838,
+        18635839,
+        18635840,
+        18635841,
+        18635842,
+        18635843,
+        18635844
+      ]
+    },
+    {
+      "reference_id": "98909",
+      "genre": "article",
+      "title": "On the geographical races of Vipera ammodytes",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "spage": "283",
+      "epage": "287",
+      "year": "1913",
+      "date": "1913-00-00",
+      "doi": "10.1080\/00222931308693322",
+      "PageID": "18635844",
+      "created": "2011-12-05 22:11:49",
+      "updated": "2011-12-05 22:11:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18635844,
+        18635845,
+        18635846,
+        18635847,
+        18635848
+      ]
+    },
+    {
+      "reference_id": "66064",
+      "genre": "article",
+      "title": "On African bats and shrews",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "314",
+      "epage": "321",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635875",
+      "created": "2011-05-05 00:27:24",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42066",
+          "lastname": "Thomas",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        18635875,
+        18635876,
+        18635877,
+        18635878,
+        18635879,
+        18635880,
+        18635881,
+        18635882
+      ]
+    },
+    {
+      "reference_id": "98901",
+      "genre": "article",
+      "title": "Descriptions of some new Lycaenidae from tropical Africa",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "spage": "358",
+      "epage": "360",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693334",
+      "PageID": "18635919",
+      "created": "2011-12-05 22:09:02",
+      "updated": "2011-12-05 22:09:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18635919,
+        18635920,
+        18635921
+      ]
+    },
+    {
+      "reference_id": "58583",
+      "genre": "article",
+      "title": "Descriptions and records of bees. LI",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "387",
+      "epage": "394",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635948",
+      "created": "2010-11-20 21:59:58",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        18635948,
+        18635949,
+        18635950,
+        18635951,
+        18635952,
+        18635953,
+        18635954,
+        18635955
+      ]
+    },
+    {
+      "reference_id": "66655",
+      "genre": "article",
+      "title": "Description of a new cyprinid fish from Singapore",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "394",
+      "epage": "394",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635955",
+      "created": "2011-05-08 00:52:50",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18635955
+      ]
+    },
+    {
+      "reference_id": "66375",
+      "genre": "article",
+      "title": "A revision of the myxinoids of the genus Myxine",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "395",
+      "epage": "398",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635956",
+      "created": "2011-05-07 14:36:40",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18635956,
+        18635957,
+        18635958,
+        18635959
+      ]
+    },
+    {
+      "reference_id": "73749",
+      "genre": "article",
+      "title": "A revision of the Asilidae of Australasia [part]",
+      "secondary_title": "Ann. Mag. Nat. Hist",
+      "volume": "11",
+      "series": "8",
+      "spage": "409",
+      "epage": "425",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635970",
+      "created": "2011-06-04 09:43:59",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10029",
+          "lastname": "Ricardo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        18635970,
+        18635971,
+        18635972,
+        18635973,
+        18635974,
+        18635975,
+        18635976,
+        18635977,
+        18635978,
+        18635979,
+        18635980,
+        18635981,
+        18635982,
+        18635983,
+        18635984,
+        18635985,
+        18635986
+      ]
+    },
+    {
+      "reference_id": "73460",
+      "genre": "article",
+      "title": "A revision of the Asilidae of Australasia [concl.]",
+      "secondary_title": "Ann. Mag. Nat. Hist",
+      "volume": "11",
+      "series": "8",
+      "spage": "429",
+      "epage": "451",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18635990",
+      "created": "2011-06-04 08:41:17",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10029",
+          "lastname": "Ricardo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        18635990,
+        18635991,
+        18635992,
+        18635993,
+        18635994,
+        18635995,
+        18635996,
+        18635997,
+        18635998,
+        18635999,
+        18636000,
+        18636001,
+        18636002,
+        18636003,
+        18636004,
+        18636005,
+        18636006,
+        18636007,
+        18636008,
+        18636009,
+        18636010,
+        18636011,
+        18636012
+      ]
+    },
+    {
+      "reference_id": "98821",
+      "genre": "article",
+      "title": "Neue Canthidium \u2013 arten",
+      "secondary_title": "Entomologische Nachrichten",
+      "date": "0000-00-00",
+      "PageID": "18636017",
+      "created": "2011-12-05 21:10:50",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53434",
+          "lastname": "V",
+          "forename": "Balthasar"
+        }
+      ],
+      "bhl_pages": [
+        18636017
+      ]
+    },
+    {
+      "reference_id": "66619",
+      "genre": "article",
+      "title": "A review of the clupeoid fishes of the Caspian Sea, with remarks on the herring-like fishes of the Russian empire",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "472",
+      "epage": "480",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18636033",
+      "created": "2011-05-08 00:27:34",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45262",
+          "lastname": "Berg",
+          "forename": "L S"
+        }
+      ],
+      "bhl_pages": [
+        18636033,
+        18636034,
+        18636035,
+        18636036,
+        18636037,
+        18636038,
+        18636039,
+        18636040,
+        18636041
+      ]
+    },
+    {
+      "reference_id": "98844",
+      "genre": "article",
+      "title": "On the skull and part of the skeleton of a Crocodile from the Middle Purbeck of Swanage, with a description of a new species (Pholidosaurus laevis) and a note on the skull of Hylaeochampsa",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "11",
+      "spage": "485",
+      "epage": "494",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693345",
+      "PageID": "18636046",
+      "created": "2011-12-05 21:24:50",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18636046,
+        18636047,
+        18636048,
+        18636049,
+        18636050,
+        18636051,
+        18636052,
+        18636053,
+        18636054,
+        18636055
+      ]
+    },
+    {
+      "reference_id": "66626",
+      "genre": "article",
+      "title": "A synopsis of the cichlid fishes of the genus Crenicichla",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "498",
+      "epage": "504",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18636059",
+      "created": "2011-05-08 00:34:22",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18636059,
+        18636060,
+        18636061,
+        18636062,
+        18636063,
+        18636064,
+        18636065
+      ]
+    },
+    {
+      "reference_id": "58582",
+      "genre": "article",
+      "title": "Descriptions and records of bees. LII",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "530",
+      "epage": "542",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18636091",
+      "created": "2010-11-20 21:59:14",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        18636091,
+        18636092,
+        18636093,
+        18636094,
+        18636095,
+        18636096,
+        18636097,
+        18636098,
+        18636099,
+        18636100,
+        18636101,
+        18636102,
+        18636103
+      ]
+    },
+    {
+      "reference_id": "52071",
+      "genre": "article",
+      "title": "A synopsis of the siluroid fishes of the genus Liocassis, with descriptions of new species",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "547",
+      "epage": "554",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18636108",
+      "created": "2010-08-30 15:56:02",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40351",
+          "lastname": "Regan",
+          "forename": "C Tate"
+        }
+      ],
+      "bhl_pages": [
+        18636108,
+        18636109,
+        18636110,
+        18636111,
+        18636112,
+        18636113,
+        18636114,
+        18636115
+      ]
+    },
+    {
+      "reference_id": "73045",
+      "genre": "article",
+      "title": "On a small collection of Rhynchota made by Mr. David R. Tait at Henderson's Island",
+      "secondary_title": "Annals and Magazine of Natural History. London",
+      "volume": "11",
+      "series": "8",
+      "spage": "554",
+      "epage": "557",
+      "year": "1913",
+      "date": "1913-00-00",
+      "PageID": "18636115",
+      "created": "2011-06-04 05:31:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46761",
+          "lastname": "Distant",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        18636115,
+        18636116,
+        18636117,
+        18636118
+      ]
+    },
+    {
+      "reference_id": "98908",
+      "genre": "article",
+      "title": "Descriptions of eight new Marine Gastropoda, mostly from Japan",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "spage": "557",
+      "epage": "560",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693356",
+      "PageID": "18636118",
+      "created": "2011-12-05 22:11:39",
+      "updated": "2011-12-05 22:11:39",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18636118,
+        18636119,
+        18636120,
+        18636121
+      ]
+    },
+    {
+      "reference_id": "73525",
+      "genre": "article",
+      "title": "Notes on the synonymy contained in Dr",
+      "secondary_title": "Ann. Mag. nat. Hist",
+      "volume": "11",
+      "series": "8",
+      "spage": "560",
+      "epage": "562",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18636121",
+      "created": "2011-06-04 08:54:33",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42404",
+          "lastname": "Austen",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        18636121,
+        18636122,
+        18636123
+      ]
+    },
+    {
+      "reference_id": "98826",
+      "genre": "article",
+      "title": "Descriptions of new species of Lepidoptera from Africa and the East",
+      "secondary_title": "Annals & Magazine of Natural History",
+      "volume": "11",
+      "spage": "562",
+      "epage": "575",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222931308693358",
+      "PageID": "18636123",
+      "created": "2011-12-05 21:13:26",
+      "updated": "2011-12-05 21:39:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18636123,
+        18636124,
+        18636125,
+        18636126,
+        18636127,
+        18636128,
+        18636129,
+        18636130,
+        18636131,
+        18636132,
+        18636133,
+        18636134,
+        18636135,
+        18636136
+      ]
+    },
+    {
+      "reference_id": "66135",
+      "genre": "article",
+      "title": "On certain of the smaller south american cervidae",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "11",
+      "series": "8",
+      "spage": "585",
+      "epage": "589",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0374-5481",
+      "PageID": "18636146",
+      "created": "2011-05-05 15:22:43",
+      "updated": "2011-09-21 17:09:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42066",
+          "lastname": "Thomas",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        18636146,
+        18636147,
+        18636148,
+        18636149,
+        18636150
+      ]
+    }
+  ]
+}

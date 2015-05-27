@@ -1,0 +1,44 @@
+{
+  "ItemID": "18891",
+  "FullTitle": "Journal of the Royal Microscopical Society.",
+  "VolumeInfo": "1910",
+  "articles": [
+    {
+      "reference_id": "58365",
+      "genre": "article",
+      "title": "Hicksonella, a new gorgonellid genus",
+      "secondary_title": "Journal of the Royal Microscopical Society. London",
+      "volume": "1910",
+      "spage": "681",
+      "epage": "692",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "1606258",
+      "PageID": "2198878",
+      "created": "2010-11-20 20:50:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42206",
+          "lastname": "Simpson",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        2198878,
+        2198879,
+        2198880,
+        2198881,
+        2198882,
+        2198883,
+        2198884,
+        2198885,
+        2198886,
+        2198887,
+        2198888,
+        2198889
+      ]
+    }
+  ]
+}

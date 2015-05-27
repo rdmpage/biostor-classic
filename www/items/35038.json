@@ -1,0 +1,62 @@
+{
+  "ItemID": "35038",
+  "FullTitle": "Kansas University quarterly.  ",
+  "VolumeInfo": "4",
+  "articles": [
+    {
+      "reference_id": "73620",
+      "genre": "article",
+      "title": "Two remarkable new genera of Diptera",
+      "secondary_title": "Kans. Univ. Q",
+      "volume": "4",
+      "spage": "107",
+      "epage": "109",
+      "year": "1895",
+      "date": "1895-00-00",
+      "oclc": "1608205",
+      "PageID": "8581633",
+      "created": "2011-06-04 09:27:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        8581633,
+        8581634,
+        8581635
+      ]
+    },
+    {
+      "reference_id": "73364",
+      "genre": "article",
+      "title": "Fissicorn Tachinidae",
+      "secondary_title": "Kansas Univ. Quart",
+      "volume": "4",
+      "spage": "171",
+      "epage": "172",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "1608205",
+      "PageID": "8581697",
+      "created": "2011-06-04 08:22:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        8581697,
+        8581698
+      ]
+    }
+  ]
+}

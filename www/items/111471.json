@@ -1,0 +1,40 @@
+{
+  "ItemID": "111471",
+  "FullTitle": "The Philippine journal of science. ",
+  "VolumeInfo": "v. 10 pt. D 1915",
+  "articles": [
+    {
+      "reference_id": "103738",
+      "genre": "article",
+      "title": "Notices of certain Philippine Fulgoridae, one being of economic importance",
+      "secondary_title": "Philippine Journal of Science. Manila",
+      "volume": "10",
+      "spage": "137",
+      "epage": "144",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "1588263",
+      "PageID": "36159186",
+      "created": "2012-05-25 17:58:06",
+      "updated": "2012-05-25 18:01:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42157",
+          "lastname": "Baker",
+          "forename": "C F"
+        }
+      ],
+      "bhl_pages": [
+        36159186,
+        36159187,
+        36159188,
+        36159189,
+        36159190,
+        36159191,
+        36159192,
+        36159193
+      ]
+    }
+  ]
+}

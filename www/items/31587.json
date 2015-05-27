@@ -1,0 +1,36 @@
+{
+  "ItemID": "31587",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 6, Bd. 1 (1840)",
+  "articles": [
+    {
+      "reference_id": "49266",
+      "genre": "article",
+      "title": "Ueber zwei von mir gesammelte Boen von Cuba",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "6",
+      "issue": "1",
+      "spage": "359",
+      "epage": "361",
+      "year": "1840",
+      "date": "1840-00-00",
+      "oclc": "1481990",
+      "PageID": "7203180",
+      "created": "2010-03-21 12:37:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39419",
+          "lastname": "Gundlach",
+          "forename": "[J ]"
+        }
+      ],
+      "bhl_pages": [
+        7203180,
+        7203181,
+        7203182
+      ]
+    }
+  ]
+}

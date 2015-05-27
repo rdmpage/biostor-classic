@@ -1,0 +1,35 @@
+{
+  "ItemID": "98534",
+  "FullTitle": "Entomologische Zeitschrift.",
+  "VolumeInfo": "v. 21 (1907-08)",
+  "articles": [
+    {
+      "reference_id": "102745",
+      "genre": "article",
+      "title": "Beschreibung neuer parasitischer Cynipiden aus Zentral- und Nord-Amerika",
+      "secondary_title": "Entomologische Zeitschrift",
+      "volume": "21",
+      "spage": "70",
+      "epage": "72",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-8843",
+      "PageID": "31580986",
+      "created": "2012-05-06 15:24:55",
+      "updated": "2012-05-06 15:30:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42058",
+          "lastname": "Kieffer",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        31580986,
+        31580987,
+        31580988
+      ]
+    }
+  ]
+}

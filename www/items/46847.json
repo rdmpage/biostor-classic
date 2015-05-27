@@ -1,0 +1,69 @@
+{
+  "ItemID": "46847",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.53 no.3 1983",
+  "articles": [
+    {
+      "reference_id": "63589",
+      "genre": "article",
+      "title": "New names and combinations, principally in the Rocky Mountain Flora-III",
+      "secondary_title": "Phytologia",
+      "volume": "53",
+      "spage": "187",
+      "epage": "190",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0031-9430",
+      "PageID": "12986157",
+      "created": "2011-01-26 22:05:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43682",
+          "lastname": "Weber",
+          "forename": "W A"
+        }
+      ],
+      "bhl_pages": [
+        12986157,
+        12986158,
+        12986159,
+        12986160
+      ]
+    },
+    {
+      "reference_id": "63590",
+      "genre": "article",
+      "title": "Additions to the Flora of Colorado-IX",
+      "secondary_title": "Phytologia",
+      "volume": "53",
+      "spage": "191",
+      "epage": "193",
+      "year": "1983",
+      "date": "1983-00-00",
+      "issn": "0031-9430",
+      "PageID": "12986161",
+      "created": "2011-01-26 22:05:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43682",
+          "lastname": "Weber",
+          "forename": "W A"
+        },
+        {
+          "id": "43692",
+          "lastname": "Wittmann",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12986161,
+        12986162,
+        12986163
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "ItemID": "48889",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v.10 (1903)",
+  "articles": [
+    {
+      "reference_id": "57789",
+      "genre": "article",
+      "title": "Some species of Eulecanium (Coccidae) from France",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "10",
+      "spage": "19",
+      "epage": "22",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0033-2615",
+      "PageID": "13760674",
+      "created": "2010-11-20 14:53:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        13760674,
+        13760675,
+        13760676,
+        13760677
+      ]
+    },
+    {
+      "reference_id": "73594",
+      "genre": "article",
+      "title": "A new genus and four new species of Asilidae",
+      "secondary_title": "Psyche (Camb)",
+      "volume": "10",
+      "spage": "111",
+      "epage": "114",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0033-2615",
+      "PageID": "13760795",
+      "created": "2011-06-04 09:24:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13760795,
+        13760796,
+        13760797,
+        13760798
+      ]
+    },
+    {
+      "reference_id": "73548",
+      "genre": "article",
+      "title": "Descriptions of three new Diptera of the genus Phthiria",
+      "secondary_title": "Psyche (Camb)",
+      "volume": "10",
+      "spage": "184",
+      "epage": "185",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0033-2615",
+      "PageID": "13760878",
+      "created": "2011-06-04 09:17:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        13760878,
+        13760879
+      ]
+    },
+    {
+      "reference_id": "53164",
+      "genre": "article",
+      "title": "The tipulid hypopygium",
+      "secondary_title": "Psyche",
+      "volume": "10",
+      "spage": "188",
+      "epage": "189",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0033-2615",
+      "PageID": "13760882",
+      "created": "2010-10-26 16:54:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40776",
+          "lastname": "Snodgrass",
+          "forename": "R E"
+        }
+      ],
+      "bhl_pages": [
+        13760882,
+        13760883
+      ]
+    },
+    {
+      "reference_id": "21193",
+      "genre": "article",
+      "title": "Some notes on the habits of Ceraphachys augustae",
+      "secondary_title": "Psyche (Cambridge)",
+      "volume": "10",
+      "spage": "205",
+      "epage": "209",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0033-2615",
+      "PageID": "13760899",
+      "created": "2010-02-11 17:28:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "788",
+          "lastname": "Wheeler",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        13760899,
+        13760900,
+        13760901,
+        13760902,
+        13760903
+      ]
+    },
+    {
+      "reference_id": "71835",
+      "genre": "article",
+      "title": "Some aphids associated with ants",
+      "secondary_title": "Psyche",
+      "volume": "10",
+      "spage": "216",
+      "epage": "218",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0033-2615",
+      "PageID": "13760910",
+      "created": "2011-06-03 23:19:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46890",
+          "lastname": "Cockerell",
+          "forename": "W P"
+        }
+      ],
+      "bhl_pages": [
+        13760910,
+        13760911,
+        13760912
+      ]
+    }
+  ]
+}

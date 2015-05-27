@@ -1,0 +1,94 @@
+{
+  "ItemID": "46045",
+  "FullTitle": "Deutsche entomologische Zeitschrift Iris \/  herausgegeben vom Entomologischen Verein Iris zu Dresden.",
+  "VolumeInfo": "bd. 22 1909",
+  "articles": [
+    {
+      "reference_id": "71073",
+      "genre": "article",
+      "title": "Exotische Lepidopteren",
+      "secondary_title": "Deutsche Entomologische Zeitschrift Iris",
+      "volume": "22",
+      "spage": "1",
+      "epage": "35",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1695863",
+      "PageID": "12814514",
+      "created": "2011-06-03 17:38:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46737",
+          "lastname": "Weymer",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        12814514,
+        12814513,
+        12814512,
+        12814511,
+        12814510,
+        12814477,
+        12814478,
+        12814479,
+        12814480,
+        12814481,
+        12814482,
+        12814483,
+        12814484,
+        12814485,
+        12814486,
+        12814487,
+        12814488,
+        12814489,
+        12814490,
+        12814491,
+        12814492,
+        12814493,
+        12814494,
+        12814495,
+        12814496,
+        12814497,
+        12814498,
+        12814499,
+        12814500,
+        12814501,
+        12814502,
+        12814503,
+        12814504,
+        12814505,
+        12814506
+      ]
+    },
+    {
+      "reference_id": "58268",
+      "genre": "article",
+      "title": "Eine neue Hepialide aus West Australian",
+      "secondary_title": "Deutsche Entomologische Zeitschrift, Iris",
+      "volume": "22",
+      "spage": "138",
+      "epage": "139",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1695863",
+      "PageID": "12814636",
+      "created": "2010-11-20 20:23:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42253",
+          "lastname": "Pfitzner",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12814636,
+        12814637
+      ]
+    }
+  ]
+}

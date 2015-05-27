@@ -1,0 +1,51 @@
+{
+  "ItemID": "22423",
+  "FullTitle": "Occasional papers of the California Academy of Sciences.",
+  "VolumeInfo": "no. 55 (1966)",
+  "articles": [
+    {
+      "reference_id": "69980",
+      "genre": "article",
+      "title": "Report on two small collections of reptiles from Iran",
+      "secondary_title": "Occasional Papers of the California Academy of Science",
+      "volume": "55",
+      "spage": "1",
+      "epage": "9",
+      "year": "1966",
+      "date": "1966-00-00",
+      "issn": "0068-5461",
+      "PageID": "3163947",
+      "created": "2011-06-02 08:51:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2084",
+          "lastname": "Clark",
+          "forename": "R J"
+        },
+        {
+          "id": "2085",
+          "lastname": "Clark",
+          "forename": "E D"
+        },
+        {
+          "id": "2072",
+          "lastname": "Anderson",
+          "forename": "S C"
+        }
+      ],
+      "bhl_pages": [
+        3163947,
+        3163945,
+        3163935,
+        3163946,
+        3163944,
+        3163937,
+        3163948,
+        3163949,
+        3163951
+      ]
+    }
+  ]
+}

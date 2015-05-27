@@ -1,0 +1,91 @@
+
+
+/* encloses the Pygmybrowse widget */
+.pygmy 
+{
+	padding: 0px;
+	margin:2px;
+	width: 360px;
+	min-height: 400px;
+	font-family: Arial, sans-serif;
+	font-size:18px;
+ 	/*border: 1px solid black; 	*/
+}	
+
+/* Node in the pygmy browse display. Indent gives us the nested look */
+.pygmy_node 
+{
+	padding-left: 2px;
+	
+	/* for animations */
+	overflow:hidden;
+	
+/*	border-top:1px solid rgb(228,228,228);
+	background-color:white;*/
+}
+
+/* list of children of a node */
+.pygmy_list 
+{
+	padding-left:2px;
+	/*max-width: 320px;*/
+	height: 300px;
+	overflow:auto;
+}	
+
+/* Internal node. Has an image of a node, and 7px padding so that node name doesn't
+   overlap image */
+span.pygmy_internal 
+{
+	padding-left: 7px;
+	background: url(/images/internal16.gif) no-repeat;
+	cursor:pointer;
+}	
+
+
+/* Terminal node(leaf) */
+span.pygmy_leaf 
+{
+	padding-left: 7px;
+	background: url(/images/last16.gif) no-repeat;
+	cursor:default;
+}	
+
+/* child node displayed in dropdown list */
+span.pygmy_child 
+{
+	padding-left: 5px;
+	background: url(images/notlast16.gif) no-repeat;
+	cursor:pointer;
+	
+	/* this border needs to be the same colour and width as the images used
+	   for the other node types */
+	/*border-left: 2px solid rgb(128,128,128); */
+	border-left: 2px solid black; 
+}	
+
+/* last child in dropdown list */
+span.pygmy_lastchild 
+{
+	/* must be the width of span.pygmy_child plus width of border */
+	padding-left: 7px; 
+	background: url(/images/last16.gif) no-repeat;
+	cursor:pointer;
+}	
+
+span.pygmy_internal:hover 
+{
+	color:black;
+}
+span.pygmy_leaf:hover 
+{
+	color:black;
+}
+span.pygmy_child:hover 
+{
+	color:black;
+}
+span.pygmy_last_child:hover 
+{
+	color:black;
+}

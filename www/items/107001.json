@@ -1,0 +1,89 @@
+{
+  "ItemID": "107001",
+  "FullTitle": "The Philippine journal of science. ",
+  "VolumeInfo": "v. 5 pt. D 1910",
+  "articles": [
+    {
+      "reference_id": "104202",
+      "genre": "article",
+      "title": "Rhynchota Palawanica. Part 2. (Homoptera)",
+      "secondary_title": "Philippine Journal of Science. Manila",
+      "volume": "5",
+      "spage": "33",
+      "epage": "55",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0031-7683",
+      "PageID": "34353231",
+      "created": "2012-06-11 11:41:09",
+      "updated": "2012-06-11 11:45:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53832",
+          "lastname": "Banks",
+          "forename": "Charles S"
+        }
+      ],
+      "bhl_pages": [
+        34353231,
+        34353232,
+        34353233,
+        34353234,
+        34353235,
+        34353236,
+        34353237,
+        34353238,
+        34353239,
+        34353278,
+        34353279,
+        34353280,
+        34353281,
+        34353282,
+        34353283,
+        34353284,
+        34353285,
+        34353286,
+        34353287,
+        34353288,
+        34353289,
+        34353290,
+        34353291,
+        34353293
+      ]
+    },
+    {
+      "reference_id": "100839",
+      "genre": "article",
+      "title": "A list of snakes from the island of Polillo, P. I., with descriptions of a new genus and two new species",
+      "secondary_title": "Philippine Journal of Science D General Biology Ethnol Anthrop",
+      "volume": "5",
+      "spage": "211",
+      "epage": "217",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0031-7683",
+      "PageID": "34353497",
+      "created": "2012-03-06 20:24:09",
+      "updated": "2012-03-06 20:48:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51446",
+          "lastname": "Griffin",
+          "forename": "Lawrence E"
+        }
+      ],
+      "bhl_pages": [
+        34353497,
+        34353498,
+        34353499,
+        34353500,
+        34353501,
+        34353502,
+        34353503,
+        34353505
+      ]
+    }
+  ]
+}

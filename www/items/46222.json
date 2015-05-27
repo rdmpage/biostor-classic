@@ -1,0 +1,40 @@
+{
+  "ItemID": "46222",
+  "FullTitle": "Transactions of the Zoological Society of London.",
+  "VolumeInfo": "v. 1 1833\/35",
+  "articles": [
+    {
+      "reference_id": "60159",
+      "genre": "article",
+      "title": "Observations on the genus Cancer of Leach (Platycarcinus Latreille) with descriptions of three new species",
+      "secondary_title": "Transactions of the Zoological Society of London",
+      "volume": "1",
+      "spage": "335",
+      "epage": "342",
+      "year": "1835",
+      "date": "1835-00-00",
+      "oclc": "1320750",
+      "PageID": "12865325",
+      "created": "2010-11-22 20:02:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17660",
+          "lastname": "Bell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        12865325,
+        12865326,
+        12865327,
+        12865328,
+        12865329,
+        12865330,
+        12865331,
+        12865332
+      ]
+    }
+  ]
+}

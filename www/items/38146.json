@@ -1,0 +1,35 @@
+{
+  "ItemID": "38146",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.39 (1906)",
+  "articles": [
+    {
+      "reference_id": "58069",
+      "genre": "article",
+      "title": "On a new species of pennatulid (Sarcophyllum bollonsi)",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "39",
+      "spage": "193",
+      "epage": "195",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1778777",
+      "PageID": "9975278",
+      "created": "2010-11-20 19:47:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40743",
+          "lastname": "Benham",
+          "forename": "W B"
+        }
+      ],
+      "bhl_pages": [
+        9975278,
+        9975279,
+        9975280
+      ]
+    }
+  ]
+}

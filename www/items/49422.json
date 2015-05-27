@@ -1,0 +1,40 @@
+{
+  "ItemID": "49422",
+  "FullTitle": "Nouvelles archives du Muse\u0301um d'histoire naturelle.",
+  "VolumeInfo": "v.6 (1870)",
+  "articles": [
+    {
+      "reference_id": "71364",
+      "genre": "article",
+      "title": "Description de quelques sauriens nouveaux originaires de l'Am\u00e9rique m\u00e9ridionale",
+      "secondary_title": "Nouv. Arch. Mus. Hist. Nat. Paris",
+      "volume": "6",
+      "spage": "11",
+      "epage": "18",
+      "year": "1870",
+      "date": "1870-00-00",
+      "oclc": "5711918",
+      "PageID": "13959235",
+      "created": "2011-06-03 19:33:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46809",
+          "lastname": "Bocourt",
+          "forename": "M F"
+        }
+      ],
+      "bhl_pages": [
+        13959235,
+        13957790,
+        13958984,
+        13960599,
+        13953571,
+        13959047,
+        13955944,
+        13957717
+      ]
+    }
+  ]
+}

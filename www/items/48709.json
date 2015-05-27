@@ -1,0 +1,143 @@
+{
+  "ItemID": "48709",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 5 (1853)",
+  "articles": [
+    {
+      "reference_id": "72489",
+      "genre": "article",
+      "title": "Revue critique du groupe des Tettigonides et de la tribu des Cercopides",
+      "secondary_title": "Revue et Magasin de Zoologie pure et appliqu\u00e9e. Paris",
+      "volume": "5",
+      "series": "2",
+      "spage": "173",
+      "epage": "184",
+      "year": "1853",
+      "date": "1853-00-00",
+      "PageID": "13711675",
+      "created": "2011-06-04 02:11:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42970",
+          "lastname": "Signoret",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        13711675,
+        13711676,
+        13711677,
+        13711678,
+        13711679,
+        13711680,
+        13711681,
+        13711682,
+        13711683,
+        13711684,
+        13711685,
+        13711686
+      ]
+    },
+    {
+      "reference_id": "72733",
+      "genre": "article",
+      "title": "Description d'une nouvelle esp\u00e8ce de N\u00e9vropt\u00e8res",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e",
+      "volume": "5",
+      "series": "2",
+      "spage": "261",
+      "epage": "263",
+      "year": "1853",
+      "date": "1853-00-00",
+      "PageID": "13711769",
+      "created": "2011-06-04 03:24:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43007",
+          "lastname": "Gu\u00e9rin-M\u00e9neville",
+          "forename": "F \u00c9"
+        }
+      ],
+      "bhl_pages": [
+        13711769,
+        13711770,
+        13711771
+      ]
+    },
+    {
+      "reference_id": "61296",
+      "genre": "article",
+      "title": "Pseudomorpha et Adelotopus, genera duo anomalia e familia Carabidarum synoptice tractata",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e. Paris",
+      "volume": "5",
+      "series": "2",
+      "spage": "395",
+      "epage": "409",
+      "year": "1853",
+      "date": "1853-00-00",
+      "PageID": "13711919",
+      "created": "2011-01-10 16:53:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        13711919,
+        13711920,
+        13711921,
+        13711922,
+        13711923,
+        13711924,
+        13711925,
+        13711926,
+        13711927,
+        13711928,
+        13711929,
+        13711930,
+        13711931,
+        13711932,
+        13711933
+      ]
+    },
+    {
+      "reference_id": "61342",
+      "genre": "article",
+      "title": "Essai sur les animaux articules qui habitent l'\u00eele de Crete",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e. Paris",
+      "volume": "5",
+      "spage": "418",
+      "epage": "424",
+      "year": "1853",
+      "date": "1853-00-00",
+      "PageID": "13711942",
+      "created": "2011-01-10 19:01:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41988",
+          "lastname": "Lucas",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13711942,
+        13711943,
+        13711944,
+        13711945,
+        13711946,
+        13711947,
+        13711948
+      ]
+    }
+  ]
+}

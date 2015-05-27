@@ -1,0 +1,592 @@
+{
+  "ItemID": "42171",
+  "FullTitle": "Revue zoologique africaine.",
+  "VolumeInfo": "v.2, 1912-1913",
+  "articles": [
+    {
+      "reference_id": "97222",
+      "genre": "article",
+      "title": "Supplement au Catalogue des Buprestides du Congo Beige",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "1",
+      "epage": "14",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316390",
+      "created": "2011-10-14 10:00:25",
+      "updated": "2011-10-14 10:00:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316390,
+        11316389,
+        11316388,
+        11316387,
+        11316386,
+        11316385,
+        11316384,
+        11316383,
+        11316382,
+        11316381,
+        11316380,
+        11316379,
+        11316378,
+        11316345
+      ]
+    },
+    {
+      "reference_id": "67124",
+      "genre": "article",
+      "title": "Description d\u2019un poisson nouveau du genre Haplochilus provenant du Katanga",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "47",
+      "epage": "48",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316403",
+      "created": "2011-05-14 07:42:22",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        11316403,
+        11316404
+      ]
+    },
+    {
+      "reference_id": "65324",
+      "genre": "article",
+      "title": "Insectes recuelli au Congo an cours du voyage de S.A.R. le Prine Albert de Belgiqu\u00e9. H\u00e9mipt\u00e8res-H\u00e9teropt\u00e8res",
+      "secondary_title": "Revue De Zoologie Africaine",
+      "volume": "2",
+      "spage": "71",
+      "epage": "76",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0251-074X",
+      "PageID": "11316429",
+      "created": "2011-02-19 00:36:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42205",
+          "lastname": "Schouteden",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11316429,
+        11316430,
+        11316431,
+        11316432,
+        11316433,
+        11316434
+      ]
+    },
+    {
+      "reference_id": "97266",
+      "genre": "article",
+      "title": "Neue Cassiden aus dem Belgischen Cango",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "125",
+      "epage": "133",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316485",
+      "created": "2011-10-14 13:17:46",
+      "updated": "2011-10-14 13:17:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53224",
+          "lastname": "Spaeth",
+          "forename": "Franz"
+        }
+      ],
+      "bhl_pages": [
+        11316485,
+        11316486,
+        11316487,
+        11316488,
+        11316489,
+        11316490,
+        11316491,
+        11316492,
+        11316493
+      ]
+    },
+    {
+      "reference_id": "67128",
+      "genre": "article",
+      "title": "Sur une petite collection de poissons recueillis dans l\u2019Uel\u00e9 par la mission dirig\u00e9e par M. Hutereau",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "155",
+      "epage": "161",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316517",
+      "created": "2011-05-14 08:12:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        11316517,
+        11316518,
+        11316519,
+        11316520,
+        11316521,
+        11316522,
+        11316523
+      ]
+    },
+    {
+      "reference_id": "80336",
+      "genre": "article",
+      "title": "Sur une petite collection de poissons recueillis dans l'Uel\u00e9 par la mission dirig\u00e9e par M. Hutereau",
+      "secondary_title": "Revue de Zoologie Africaine.",
+      "volume": "2",
+      "spage": "155",
+      "epage": "161",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0251-074X",
+      "PageID": "11316517",
+      "created": "2011-07-05 14:38:02",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        11316517,
+        11316518,
+        11316519,
+        11316520,
+        11316521,
+        11316522,
+        11316523
+      ]
+    },
+    {
+      "reference_id": "97220",
+      "genre": "article",
+      "title": "Gedoelstia cristata nov. gen. nov. sp. Oestride parasite de Bubalis lichtensteini au Katanga",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "171",
+      "epage": "186",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316533",
+      "created": "2011-10-14 10:00:12",
+      "updated": "2011-10-14 10:00:12",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316533,
+        11316534,
+        11316535,
+        11316536,
+        11316537,
+        11316538,
+        11316539,
+        11316540,
+        11316541,
+        11316542,
+        11316543,
+        11316544,
+        11316545,
+        11316546,
+        11316547,
+        11316548
+      ]
+    },
+    {
+      "reference_id": "97231",
+      "genre": "article",
+      "title": "Description d'un Omophron provenant du Congo belge",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "213",
+      "epage": "217",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316575",
+      "created": "2011-10-14 10:01:33",
+      "updated": "2011-10-14 10:01:33",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316575,
+        11316576,
+        11316577,
+        11316578,
+        11316579
+      ]
+    },
+    {
+      "reference_id": "97229",
+      "genre": "article",
+      "title": "Tabanides recueillis an Congo beige par la mission pour l'etude de la maladie du sommeil. i, Pangoniinae",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "218",
+      "epage": "231",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316580",
+      "created": "2011-10-14 10:01:12",
+      "updated": "2011-10-14 10:01:12",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316580,
+        11316581,
+        11316582,
+        11316583,
+        11316584,
+        11316585,
+        11316586,
+        11316587,
+        11316588,
+        11316589,
+        11316590,
+        11316591,
+        11316592,
+        11316593
+      ]
+    },
+    {
+      "reference_id": "103761",
+      "genre": "article",
+      "title": "Conostigmus Rodhaini n. sp. proctotrypide endoparasite des pupes de Glossina palpalis",
+      "secondary_title": "Revue De Zoologie Africaine",
+      "volume": "2",
+      "spage": "253",
+      "epage": "257",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0251-074X",
+      "PageID": "11316615",
+      "created": "2012-05-28 15:09:50",
+      "updated": "2012-05-28 15:09:50",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316615,
+        11316616,
+        11316617,
+        11316618,
+        11316619
+      ]
+    },
+    {
+      "reference_id": "97261",
+      "genre": "article",
+      "title": "Cicindelinae de l'Afrique tropicale, principalement du Congo beige",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "259",
+      "epage": "279",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316623",
+      "created": "2011-10-14 12:22:31",
+      "updated": "2011-10-14 12:22:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10164",
+          "lastname": "Horn",
+          "forename": "Walther"
+        }
+      ],
+      "bhl_pages": [
+        11316623,
+        11316624,
+        11316625,
+        11316626,
+        11316627,
+        11316628,
+        11316629,
+        11316630,
+        11316631,
+        11316632,
+        11316633,
+        11316634,
+        11316635,
+        11316636,
+        11316637,
+        11316638,
+        11316639,
+        11316640,
+        11316641,
+        11316642,
+        11316643
+      ]
+    },
+    {
+      "reference_id": "58594",
+      "genre": "article",
+      "title": "Formicides du Congo Belge r\u00e9colt\u00e9es par MM. Bequaert, Luja, etc",
+      "secondary_title": "Revue de Zoologie Africaine",
+      "volume": "2",
+      "spage": "306",
+      "epage": "351",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0251-074X",
+      "PageID": "11316674",
+      "created": "2010-11-20 22:02:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10354",
+          "lastname": "Forel",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11316674,
+        11316675,
+        11316676,
+        11316677,
+        11316678,
+        11316679,
+        11316680,
+        11316681,
+        11316682,
+        11316683,
+        11316684,
+        11316685,
+        11316686,
+        11316687,
+        11316688,
+        11316689,
+        11316690,
+        11316691,
+        11316692,
+        11316693,
+        11316694,
+        11316695,
+        11316696,
+        11316697,
+        11316698,
+        11316699,
+        11316700,
+        11316701,
+        11316702,
+        11316703,
+        11316704,
+        11316705,
+        11316706,
+        11316707,
+        11316708,
+        11316709,
+        11316710,
+        11316711,
+        11316712,
+        11316713,
+        11316714,
+        11316715,
+        11316716,
+        11316717,
+        11316718,
+        11316719
+      ]
+    },
+    {
+      "reference_id": "52184",
+      "genre": "article",
+      "title": "Description d'une reptile amphisb\u00e9nide nouveau provenant du Katanga",
+      "secondary_title": "Rev. Zool. Africaine",
+      "volume": "2",
+      "spage": "392",
+      "epage": "393",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0251-074X",
+      "PageID": "11316766",
+      "created": "2010-10-15 11:09:52",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        11316766,
+        11316767
+      ]
+    },
+    {
+      "reference_id": "67127",
+      "genre": "article",
+      "title": "Description d\u2019un poisson nouveau recueilli \u00e0 Luluabourg (Congo Belge)",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "394",
+      "epage": "395",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316768",
+      "created": "2011-05-14 08:12:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        11316768,
+        11316769
+      ]
+    },
+    {
+      "reference_id": "97221",
+      "genre": "article",
+      "title": "Hemipteres nouveaux recueillis au Congo par le Dr. J. Bequaert",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "432",
+      "epage": "438",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316806",
+      "created": "2011-10-14 10:00:19",
+      "updated": "2011-10-14 10:00:19",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316806,
+        11316807,
+        11316808,
+        11316809,
+        11316810,
+        11316811,
+        11316812
+      ]
+    },
+    {
+      "reference_id": "97233",
+      "genre": "article",
+      "title": "Deuxieme supplement au catalogue des Buprestides du Congo belae",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "439",
+      "epage": "448",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316813",
+      "created": "2011-10-14 10:01:50",
+      "updated": "2011-10-14 10:01:50",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316813,
+        11316814,
+        11316815,
+        11316816,
+        11316817,
+        11316818,
+        11316819,
+        11316820,
+        11316821,
+        11316822
+      ]
+    },
+    {
+      "reference_id": "97230",
+      "genre": "article",
+      "title": "Tabanides recueillis au Congo beige par la mission pour l'etude de la maladie du sommeil. ii, T'abaninae",
+      "secondary_title": "Revue Zoologique Africaine",
+      "volume": "2",
+      "spage": "449",
+      "epage": "467",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0771-0488",
+      "PageID": "11316823",
+      "created": "2011-10-14 10:01:27",
+      "updated": "2011-10-14 10:01:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11316823,
+        11316824,
+        11316825,
+        11316826,
+        11316827,
+        11316828,
+        11316829,
+        11316830,
+        11316831,
+        11316832,
+        11316833,
+        11316834,
+        11316835,
+        11316836,
+        11316837,
+        11316838,
+        11316839,
+        11316840,
+        11316841
+      ]
+    }
+  ]
+}

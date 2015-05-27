@@ -1,0 +1,39 @@
+{
+  "ItemID": "100619",
+  "FullTitle": "\u00d6fversigt af Kongl. Vetenskaps-akademiens forhandlingar.",
+  "VolumeInfo": "arg. 23 (1866)",
+  "articles": [
+    {
+      "reference_id": "102736",
+      "genre": "article",
+      "title": "Annulata Nova",
+      "secondary_title": "\u00d6fversigt af Kongl. Vetenskaps-akademiens forhandlingar",
+      "volume": "23",
+      "spage": "97",
+      "epage": "103",
+      "year": "1866",
+      "date": "1866-00-00",
+      "oclc": "6303212",
+      "PageID": "32287551",
+      "created": "2012-05-04 14:39:03",
+      "updated": "2012-05-04 14:40:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53699",
+          "lastname": "Kinberg",
+          "forename": "J G H"
+        }
+      ],
+      "bhl_pages": [
+        32287551,
+        32287552,
+        32287553,
+        32287554,
+        32287555,
+        32287556,
+        32287557
+      ]
+    }
+  ]
+}

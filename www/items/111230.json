@@ -1,0 +1,41 @@
+{
+  "ItemID": "111230",
+  "FullTitle": "Annales des sciences naturelles.",
+  "VolumeInfo": "ser.2, t.3 (1835)",
+  "articles": [
+    {
+      "reference_id": "102815",
+      "genre": "article",
+      "title": "Note sur des C\u00e9phalopodes nouveaux",
+      "secondary_title": "Annales des Sciences Naturelles",
+      "volume": "3",
+      "series": "2",
+      "spage": "339",
+      "epage": "346",
+      "year": "1835",
+      "date": "1835-00-00",
+      "issn": "0772-3997",
+      "PageID": "36071863",
+      "created": "2012-05-12 12:12:12",
+      "updated": "2012-05-12 12:39:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53728",
+          "lastname": "De F\u00e9russac",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        36071863,
+        36071864,
+        36071865,
+        36071866,
+        36071867,
+        36071868,
+        36071869,
+        36071870
+      ]
+    }
+  ]
+}

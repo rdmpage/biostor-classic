@@ -1,0 +1,38 @@
+{
+  "ItemID": "8004",
+  "FullTitle": "Bulletin of the Torrey Botanical Club.",
+  "VolumeInfo": "v.26 (1899)",
+  "articles": [
+    {
+      "reference_id": "4041",
+      "genre": "article",
+      "title": "Revision of the Genus Guardiola",
+      "secondary_title": "Bulletin of the Torrey Botanical Club",
+      "volume": "26",
+      "issue": "5",
+      "spage": "232",
+      "epage": "235",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0040-9618",
+      "url": "http:\/\/books.google.com\/books?id=NjcWAAAAYAAJ&pg=PA232&dq=guardiola+robinson&ei=_iSmScKJM5r2Mcf3nYQO",
+      "PageID": "710139",
+      "created": "2009-12-27 13:33:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2458",
+          "lastname": "Robinson",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        710139,
+        710140,
+        710141,
+        710142
+      ]
+    }
+  ]
+}

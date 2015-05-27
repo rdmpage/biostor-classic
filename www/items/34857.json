@@ -1,0 +1,64 @@
+{
+  "ItemID": "34857",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 58 (1944-1945)",
+  "articles": [
+    {
+      "reference_id": "59369",
+      "genre": "article",
+      "title": "Some American Achatinidae",
+      "secondary_title": "The Nautilus",
+      "volume": "58",
+      "spage": "84",
+      "epage": "92",
+      "year": "1945",
+      "date": "1945-00-00",
+      "issn": "0028-1344",
+      "PageID": "8517317",
+      "created": "2010-11-21 04:42:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1450",
+          "lastname": "Baker",
+          "forename": "H B"
+        }
+      ],
+      "bhl_pages": [
+        8517317,
+        8517318,
+        8517319,
+        8517320,
+        8517321,
+        8517322,
+        8517323,
+        8517324,
+        8517325
+      ]
+    },
+    {
+      "reference_id": "101141",
+      "genre": "article",
+      "title": "Hodopoeus, a fossil astray",
+      "secondary_title": "Nautilus",
+      "volume": "58",
+      "spage": "116",
+      "epage": "117",
+      "year": "1945",
+      "date": "1945-00-00",
+      "issn": "0028-1344",
+      "PageID": "8517351",
+      "created": "2012-03-12 11:54:14",
+      "updated": "2012-03-12 11:54:14",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8517351,
+        8517352
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "ItemID": "37285",
+  "FullTitle": "Notes from the Leyden Museum.",
+  "VolumeInfo": "v.10 (1888)",
+  "articles": [
+    {
+      "reference_id": "98248",
+      "genre": "article",
+      "title": "Zoological Researches in Liberia",
+      "secondary_title": "Notes From The Leyden Museum",
+      "volume": "10",
+      "spage": "59",
+      "epage": "106",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622370",
+      "created": "2011-11-22 08:48:58",
+      "updated": "2011-11-22 08:48:58",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9622370,
+        9622371,
+        9622372,
+        9622373,
+        9622374,
+        9622375,
+        9622376,
+        9622377,
+        9622378,
+        9622379,
+        9622380,
+        9622381,
+        9622382,
+        9622383,
+        9622384,
+        9622385,
+        9622386,
+        9622387,
+        9622388,
+        9622389,
+        9622390,
+        9622391,
+        9622392,
+        9622393,
+        9622394,
+        9622395,
+        9622396,
+        9622397,
+        9622398,
+        9622399,
+        9622400,
+        9622401,
+        9622402,
+        9622403,
+        9622404,
+        9622405,
+        9622406,
+        9622407,
+        9622408,
+        9622409,
+        9622410,
+        9622411,
+        9622412,
+        9622413,
+        9622414,
+        9622415,
+        9622416,
+        9622417
+      ]
+    },
+    {
+      "reference_id": "70329",
+      "genre": "article",
+      "title": "Descriptions of new Cetoniidae",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "10",
+      "spage": "107",
+      "epage": "117",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622418",
+      "created": "2011-06-03 06:31:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46541",
+          "lastname": "O.e.",
+          "forename": "Janson"
+        }
+      ],
+      "bhl_pages": [
+        9622418,
+        9622419,
+        9622420,
+        9622421,
+        9622422,
+        9622423,
+        9622424,
+        9622425,
+        9622426,
+        9622427,
+        9622428
+      ]
+    },
+    {
+      "reference_id": "70330",
+      "genre": "article",
+      "title": "On the male sex of Argyripa subfasciata Rits., and description of a new species of the cetoniid genus Allorhina",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "10",
+      "spage": "118",
+      "epage": "120",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622429",
+      "created": "2011-06-03 06:31:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46541",
+          "lastname": "O.e.",
+          "forename": "Janson"
+        }
+      ],
+      "bhl_pages": [
+        9622429,
+        9622430,
+        9622431
+      ]
+    },
+    {
+      "reference_id": "70325",
+      "genre": "article",
+      "title": "On five new and two unsufficiently known species of longicorn genus Pachyteria",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "10",
+      "spage": "177",
+      "epage": "192",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622488",
+      "created": "2011-06-03 06:30:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9622488,
+        9622489,
+        9622490,
+        9622491,
+        9622492,
+        9622493,
+        9622494,
+        9622495,
+        9622496,
+        9622497,
+        9622498,
+        9622499,
+        9622500,
+        9622501,
+        9622502,
+        9622503
+      ]
+    },
+    {
+      "reference_id": "70326",
+      "genre": "article",
+      "title": "Description of two species of the Longicorn group Callichromini",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "10",
+      "spage": "193",
+      "epage": "197",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622504",
+      "created": "2011-06-03 06:31:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9622504,
+        9622505,
+        9622506,
+        9622507,
+        9622508
+      ]
+    },
+    {
+      "reference_id": "70327",
+      "genre": "article",
+      "title": "Description of three new species of the longicorn group Agniini",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "10",
+      "spage": "201",
+      "epage": "206",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622512",
+      "created": "2011-06-03 06:31:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9622512,
+        9622513,
+        9622514,
+        9622515,
+        9622516,
+        9622517
+      ]
+    },
+    {
+      "reference_id": "70331",
+      "genre": "article",
+      "title": "Description of a new Cetoniid",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "10",
+      "spage": "207",
+      "epage": "208",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622518",
+      "created": "2011-06-03 06:31:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46541",
+          "lastname": "O.e.",
+          "forename": "Janson"
+        }
+      ],
+      "bhl_pages": [
+        9622518,
+        9622519
+      ]
+    },
+    {
+      "reference_id": "98249",
+      "genre": "article",
+      "title": "On Birds from the Congo and South-Western Africa",
+      "secondary_title": "Notes From The Leyden Museum",
+      "volume": "10",
+      "spage": "209",
+      "epage": "244",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622520",
+      "created": "2011-11-22 08:49:02",
+      "updated": "2011-11-22 08:49:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9622520,
+        9622521,
+        9622522,
+        9622523,
+        9622524,
+        9622525,
+        9622526,
+        9622527,
+        9622528,
+        9622529,
+        9622530,
+        9622531,
+        9622532,
+        9622533,
+        9622534,
+        9622535,
+        9622536,
+        9622537,
+        9622538,
+        9622539,
+        9622540,
+        9622541,
+        9622542,
+        9622543,
+        9622544,
+        9622545,
+        9622546,
+        9622547,
+        9622548,
+        9622549,
+        9622550,
+        9622551,
+        9622552,
+        9622553,
+        9622554,
+        9622555
+      ]
+    },
+    {
+      "reference_id": "98254",
+      "genre": "article",
+      "title": "Zoological Researches in Liberia. List of Mollusca, with descriptions of new species",
+      "secondary_title": "Notes From The Leyden Museum",
+      "volume": "10",
+      "spage": "245",
+      "epage": "252",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622556",
+      "created": "2011-11-22 08:49:23",
+      "updated": "2011-11-22 08:49:23",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9622556,
+        9622557,
+        9622558,
+        9622559,
+        9622560,
+        9622561,
+        9622562,
+        9622563
+      ]
+    },
+    {
+      "reference_id": "70328",
+      "genre": "article",
+      "title": "Description of a new species of the Longicorn genus Bacchisa, Pascoe",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "10",
+      "spage": "253",
+      "epage": "254",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "25797076",
+      "PageID": "9622564",
+      "created": "2011-06-03 06:31:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46540",
+          "lastname": "Cz.",
+          "forename": "Ritsema Conrad"
+        }
+      ],
+      "bhl_pages": [
+        9622564,
+        9622565
+      ]
+    }
+  ]
+}

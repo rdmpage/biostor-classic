@@ -1,0 +1,37 @@
+{
+  "ItemID": "33589",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 13 1932",
+  "articles": [
+    {
+      "reference_id": "61956",
+      "genre": "article",
+      "title": "Kalmiopsis, a New Genus of Ericaceae from Northwest America",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "13",
+      "spage": "30",
+      "epage": "34",
+      "year": "1932",
+      "date": "1932-00-00",
+      "issn": "0004-2625",
+      "PageID": "8106365",
+      "created": "2011-01-26 19:12:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43223",
+          "lastname": "Rehder",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8106365,
+        8106366,
+        8106367,
+        8106368,
+        8106369
+      ]
+    }
+  ]
+}

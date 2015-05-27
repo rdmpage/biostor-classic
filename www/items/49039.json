@@ -1,0 +1,40 @@
+{
+  "ItemID": "49039",
+  "FullTitle": "Quarterly journal of microscopical science.",
+  "VolumeInfo": "new. ser.:v.43 (1900):text",
+  "articles": [
+    {
+      "reference_id": "104780",
+      "genre": "article",
+      "title": "Quelques observations sur les onychophores (Peripatus) de la collection du Mus\u00e9e Britannique",
+      "secondary_title": "Quarterly Journal of Microscopical Science",
+      "volume": "43",
+      "issue": "170",
+      "spage": "367",
+      "epage": "373",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0370-2952",
+      "PageID": "13811247",
+      "created": "2012-06-28 17:50:36",
+      "updated": "2012-06-28 17:54:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8509",
+          "lastname": "Bouvier",
+          "forename": "E L"
+        }
+      ],
+      "bhl_pages": [
+        13811247,
+        13811248,
+        13811249,
+        13811250,
+        13811251,
+        13811252,
+        13811253
+      ]
+    }
+  ]
+}

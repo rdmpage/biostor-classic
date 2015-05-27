@@ -1,0 +1,111 @@
+{
+  "ItemID": "98585",
+  "FullTitle": "The Journal of the Linnean Society of London. Zoology.",
+  "VolumeInfo": "v. 13 1878",
+  "articles": [
+    {
+      "reference_id": "70904",
+      "genre": "article",
+      "title": "Description of some new species of beetles from Central America",
+      "secondary_title": "Journal of the Linnean Society London",
+      "volume": "13",
+      "series": "1878",
+      "spage": "129",
+      "epage": "138",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0368-2935",
+      "PageID": "31597387",
+      "created": "2011-06-03 16:51:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        31597387,
+        31597388,
+        31597389,
+        31597390,
+        31597391,
+        31597392,
+        31597393,
+        31597394,
+        31597395,
+        31597396
+      ]
+    },
+    {
+      "reference_id": "71609",
+      "genre": "article",
+      "title": "Notice of two extinct lizards, formerly inhabiting the Mascarene Islands",
+      "secondary_title": "Journal of the Linnean Society, Zoology",
+      "volume": "13",
+      "spage": "322",
+      "epage": "327",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0368-2935",
+      "PageID": "31597580",
+      "created": "2011-06-03 22:25:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        31597580,
+        31597581,
+        31597582,
+        31597583,
+        31597584,
+        31597585
+      ]
+    },
+    {
+      "reference_id": "73062",
+      "genre": "article",
+      "title": "On the nymph-stage of the Embiidae, with notes on the habits of the family",
+      "secondary_title": "Journal of the Linnean Society of London (Zoology)",
+      "volume": "13",
+      "spage": "373",
+      "epage": "384",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0368-2935",
+      "PageID": "31597631",
+      "created": "2011-06-04 05:45:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47139",
+          "lastname": "",
+          "forename": "Mclachlan"
+        }
+      ],
+      "bhl_pages": [
+        31597631,
+        31597632,
+        31597633,
+        31597634,
+        31597635,
+        31597636,
+        31597637,
+        31597638,
+        31597639,
+        31597640,
+        31597641,
+        31597642
+      ]
+    }
+  ]
+}

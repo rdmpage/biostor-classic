@@ -1,0 +1,74 @@
+{
+  "ItemID": "36472",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "7",
+  "articles": [
+    {
+      "reference_id": "59677",
+      "genre": "article",
+      "title": "Description of shells, collected by the North Pacific Exploring Expedition",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "7",
+      "spage": "161",
+      "epage": "165",
+      "year": "1859",
+      "date": "1859-00-00",
+      "issn": "0270-2444",
+      "PageID": "9249721",
+      "created": "2010-11-22 15:26:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42664",
+          "lastname": "Gould",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        9249721,
+        9249722,
+        9249723,
+        9249724,
+        9249725
+      ]
+    },
+    {
+      "reference_id": "61524",
+      "genre": "article",
+      "title": "Descriptions of new Ophiuridae, belonging to the Smithsonian Institution and to the Museum of Comparative Zo\u00f6logy at Cambridge",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "7",
+      "spage": "193",
+      "epage": "204",
+      "year": "1860",
+      "date": "1860-00-00",
+      "issn": "0270-2444",
+      "PageID": "9249753",
+      "created": "2011-01-10 21:34:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "816",
+          "lastname": "Lyman",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        9249753,
+        9249754,
+        9249755,
+        9249756,
+        9249757,
+        9249758,
+        9249759,
+        9249760,
+        9249761,
+        9249762,
+        9249763,
+        9249764
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    }
+  ],
+  "type": "article",
+  "title": "Eleutherodactylus bearsei new species (Anura: Leptodactylidae) from northeastern Peru",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "150",
+    "pages": "1--7",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1992",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/4"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/4467559"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 4
+    },
+    {
+      "type": "bhl",
+      "id": 4467559
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -76.333333333333,
+        -6.5
+      ]
+    ]
+  }
+}

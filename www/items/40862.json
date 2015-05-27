@@ -1,0 +1,37 @@
+{
+  "ItemID": "40862",
+  "FullTitle": "Atti della Societa\u0300 italiana di scienze naturali.",
+  "VolumeInfo": "v.8 1865",
+  "articles": [
+    {
+      "reference_id": "60111",
+      "genre": "article",
+      "title": "Sopra due nuove specie di animali invertebrati raccolte nel Golfo di Genova",
+      "secondary_title": "Atti della Societa Italiana di Scienze Naturali",
+      "volume": "8",
+      "spage": "423",
+      "epage": "428",
+      "year": "1865",
+      "date": "1865-00-00",
+      "PageID": "10815199",
+      "created": "2010-11-22 19:28:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42762",
+          "lastname": "Lessona",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        10815199,
+        10815200,
+        10815201,
+        10815202,
+        10815203,
+        10815204
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ItemID": "22878",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 18 (1905)",
+  "articles": [
+    {
+      "reference_id": "239",
+      "genre": "article",
+      "title": "A new genus of bats from Sumatra",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "18",
+      "spage": "229",
+      "epage": "230",
+      "year": "1905",
+      "date": "1905-12-09",
+      "issn": "0006-324X",
+      "PageID": "3336963",
+      "created": "2009-12-22 01:18:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "100",
+          "lastname": "Miller",
+          "forename": "Gerrit S"
+        }
+      ],
+      "bhl_pages": [
+        3336963,
+        3336953
+      ]
+    },
+    {
+      "reference_id": "67392",
+      "genre": "article",
+      "title": "A new anarrhichadoid fish",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "18",
+      "spage": "251",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0006-324X",
+      "PageID": "3336791",
+      "created": "2011-05-26 17:39:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        3336791
+      ]
+    },
+    {
+      "reference_id": "80931",
+      "genre": "article",
+      "title": "A new name for Pontoleon",
+      "secondary_title": "Proc. biol. Soc. Washington",
+      "volume": "18",
+      "spage": "253",
+      "epage": "253",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0006-324X",
+      "PageID": "3336880",
+      "created": "2011-07-22 12:05:16",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "800",
+          "lastname": "True",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        3336880
+      ]
+    },
+    {
+      "reference_id": "83060",
+      "genre": "article",
+      "title": "Mastodon remains in the Yukon Valley",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "18",
+      "spage": "254",
+      "epage": "255",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0006-324X",
+      "PageID": "3336806",
+      "created": "2011-07-31 04:10:18",
+      "updated": "2011-07-31 04:10:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45105",
+          "lastname": "Osgood",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3336806,
+        3336755
+      ]
+    }
+  ]
+}

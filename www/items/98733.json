@@ -1,0 +1,39 @@
+{
+  "ItemID": "98733",
+  "FullTitle": "Bulletin de la Socie\u0301te\u0301 philomathique de Paris.",
+  "VolumeInfo": "ser. 7, t. 5-6 (1880-82)",
+  "articles": [
+    {
+      "reference_id": "100201",
+      "genre": "article",
+      "title": "Description d'une nouvelle esp\u00e8ce de Macroscelide",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 philomathique de Paris",
+      "volume": "5",
+      "series": "7",
+      "spage": "95",
+      "epage": "100",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0366-3515",
+      "PageID": "31660701",
+      "created": "2012-01-12 22:14:05",
+      "updated": "2012-01-12 22:15:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53412",
+          "lastname": "H\u00fcet",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        31660701,
+        31660702,
+        31660703,
+        31660704,
+        31660705,
+        31660706
+      ]
+    }
+  ]
+}

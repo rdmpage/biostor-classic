@@ -1,0 +1,35 @@
+{
+  "ItemID": "48140",
+  "FullTitle": "Annales Francaises et Etrang\u00e8res d'Anatomie et de Physiologie.  ",
+  "VolumeInfo": "Vol 2",
+  "articles": [
+    {
+      "reference_id": "61426",
+      "genre": "article",
+      "title": "Sur les Cachalots",
+      "secondary_title": "Annales Fran\u00e7aises et \u00c9trang\u00e8res d'Anatomie et de Physiologie. Paris",
+      "volume": "2",
+      "spage": "335",
+      "epage": "337",
+      "year": "1838",
+      "date": "1838-00-00",
+      "oclc": "50356502",
+      "PageID": "13472483",
+      "created": "2011-01-10 20:06:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43017",
+          "lastname": "De Blainville",
+          "forename": "H M D"
+        }
+      ],
+      "bhl_pages": [
+        13472483,
+        13472484,
+        13472485
+      ]
+    }
+  ]
+}

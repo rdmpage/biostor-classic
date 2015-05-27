@@ -1,0 +1,45 @@
+{
+  "ItemID": "52113",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 72:bd. 1:heft 1-3 - Jahrg. 72:bd. 2:heft 1 ",
+  "articles": [
+    {
+      "reference_id": "104706",
+      "genre": "article",
+      "title": "Nematoden des zoologischen Museums in K\u00f6nigsberg",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "72",
+      "spage": "249",
+      "epage": "258",
+      "year": "1906",
+      "date": "1906-00-00",
+      "issn": "0365-6136",
+      "PageID": "15075200",
+      "created": "2012-06-26 10:58:29",
+      "updated": "2012-06-26 10:59:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53741",
+          "lastname": "Von Linstow",
+          "forename": "O F B"
+        }
+      ],
+      "bhl_pages": [
+        15075200,
+        15075201,
+        15075202,
+        15075203,
+        15075204,
+        15075205,
+        15075206,
+        15075207,
+        15075208,
+        15075209,
+        15076048,
+        15076050,
+        15076052
+      ]
+    }
+  ]
+}

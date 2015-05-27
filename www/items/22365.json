@@ -1,0 +1,37 @@
+{
+  "ItemID": "22365",
+  "FullTitle": "Memoirs of the California Academy of Sciences.",
+  "VolumeInfo": "v. 4 (1904)",
+  "articles": [
+    {
+      "reference_id": "20511",
+      "genre": "article",
+      "title": "The fishes of Panama Bay",
+      "secondary_title": "Memoirs of the California Academy of Sciences",
+      "volume": "4",
+      "spage": "1",
+      "year": "1904",
+      "date": "1904-00-00",
+      "oclc": "16260358",
+      "PageID": "3154022",
+      "created": "2010-02-09 17:36:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17816",
+          "lastname": "Gilbert",
+          "forename": "C H"
+        },
+        {
+          "id": "10211",
+          "lastname": "Starks",
+          "forename": "E C"
+        }
+      ],
+      "bhl_pages": [
+        3154022
+      ]
+    }
+  ]
+}

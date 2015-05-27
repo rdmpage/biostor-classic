@@ -1,0 +1,59 @@
+{
+  "ItemID": "32252",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 17 (1892)",
+  "articles": [
+    {
+      "reference_id": "103343",
+      "genre": "article",
+      "title": "Description du Diaptomus schmackeri n. sp. recueilli par M. Schmacker dans le lac Tahoo (China)",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "17",
+      "spage": "149",
+      "epage": "151",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0037-962X",
+      "PageID": "7458822",
+      "created": "2012-05-21 13:20:18",
+      "updated": "2012-05-21 13:20:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        7458822,
+        7458823,
+        7458824
+      ]
+    },
+    {
+      "reference_id": "61428",
+      "genre": "article",
+      "title": "Sur une Polynoide p\u00e9lagique (Nectochaeta grimaldii, nov. gen., nov. sp.) recueillie par l'Hirondelle en 1888",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Zoologique de France",
+      "volume": "17",
+      "spage": "183",
+      "epage": "185",
+      "year": "1892",
+      "date": "1892-00-00",
+      "issn": "0037-962X",
+      "PageID": "7458959",
+      "created": "2011-01-10 20:09:21",
+      "updated": "2011-10-10 12:29:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42790",
+          "lastname": "Von Marenzeller",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        7458959,
+        7458960,
+        7458961
+      ]
+    }
+  ]
+}

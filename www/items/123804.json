@@ -1,0 +1,53 @@
+{
+  "ItemID": "123804",
+  "FullTitle": "Bulletin of the British Ornithologists' Club.",
+  "VolumeInfo": "v. 117-118 (1997-1998)",
+  "articles": [
+    {
+      "reference_id": "105214",
+      "genre": "article",
+      "title": "Records of Harpy and Crested Eagles in the Brazilian Atlantic forest",
+      "secondary_title": "Bulletin of the British Ornithologists' Club",
+      "volume": "117",
+      "issue": "1",
+      "spage": "27",
+      "epage": "31",
+      "year": "1997",
+      "date": "1997-00-00",
+      "issn": "0007-1595",
+      "PageID": "40058161",
+      "created": "2012-07-11 09:25:51",
+      "updated": "2012-07-11 09:26:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53977",
+          "lastname": "Galetti",
+          "forename": "Mauro"
+        },
+        {
+          "id": "53978",
+          "lastname": "Martuscelli",
+          "forename": "Paulo"
+        },
+        {
+          "id": "53979",
+          "lastname": "Pizo",
+          "forename": "Marco Aurelio"
+        },
+        {
+          "id": "53980",
+          "lastname": "Simao",
+          "forename": "Isaac"
+        }
+      ],
+      "bhl_pages": [
+        40058161,
+        40058162,
+        40058163,
+        40058164,
+        40058165
+      ]
+    }
+  ]
+}

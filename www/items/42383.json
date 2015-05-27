@@ -1,0 +1,140 @@
+{
+  "ItemID": "42383",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 33 1912",
+  "articles": [
+    {
+      "reference_id": "72885",
+      "genre": "article",
+      "title": "Einige gezogene Ichneumoniden aus Suedfinnland",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "33",
+      "spage": "65",
+      "epage": "72",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-886X",
+      "PageID": "11420049",
+      "created": "2011-06-04 04:38:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42322",
+          "lastname": "Roman",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11420049,
+        11420050,
+        11420051,
+        11420052,
+        11420053,
+        11420054,
+        11420055,
+        11420056
+      ]
+    },
+    {
+      "reference_id": "58530",
+      "genre": "article",
+      "title": "On a new termitophilous genus of the family Histeridae",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "33",
+      "spage": "121",
+      "epage": "124",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-886X",
+      "PageID": "11420105",
+      "created": "2010-11-20 21:39:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42316",
+          "lastname": "Mj\u00f6berg",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11420105,
+        11420106,
+        11420107,
+        11420108
+      ]
+    },
+    {
+      "reference_id": "20930",
+      "genre": "article",
+      "title": "Mitothrips, eine neue Physapoden-Gattung aus Britischen Ostafrika",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "33",
+      "spage": "145",
+      "epage": "159",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-886X",
+      "PageID": "11420135",
+      "created": "2010-02-10 17:48:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18116",
+          "lastname": "Trybom",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11420135,
+        11420136,
+        11420137,
+        11420138,
+        11420139,
+        11420140,
+        11420141,
+        11420142,
+        11420143,
+        11420144,
+        11420145,
+        11420146,
+        11420147,
+        11420148,
+        11420149
+      ]
+    },
+    {
+      "reference_id": "73015",
+      "genre": "article",
+      "title": "Zwei madagassische Schlupfwespen",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "33",
+      "spage": "243",
+      "epage": "248",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0013-886X",
+      "PageID": "11420235",
+      "created": "2011-06-04 04:55:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42322",
+          "lastname": "Roman",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11420235,
+        11420236,
+        11420237,
+        11420238,
+        11420239,
+        11420240
+      ]
+    }
+  ]
+}

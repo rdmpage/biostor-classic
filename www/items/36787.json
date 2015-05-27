@@ -1,0 +1,33 @@
+{
+  "ItemID": "36787",
+  "FullTitle": "South Australian ornithologist.",
+  "VolumeInfo": "v.4-5, 1919-1920",
+  "articles": [
+    {
+      "reference_id": "59103",
+      "genre": "article",
+      "title": "Description of a new species of Climacteris",
+      "secondary_title": "South Australian Ornithologist",
+      "volume": "4",
+      "spage": "5",
+      "epage": "6",
+      "year": "1919",
+      "date": "1919-00-00",
+      "PageID": "9388342",
+      "created": "2010-11-20 23:53:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42491",
+          "lastname": "Mellor",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        9388342,
+        9388341
+      ]
+    }
+  ]
+}

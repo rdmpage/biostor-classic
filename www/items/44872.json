@@ -1,0 +1,64 @@
+{
+  "ItemID": "44872",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de Belgique.",
+  "VolumeInfo": "t. 12-13 1868-70",
+  "articles": [
+    {
+      "reference_id": "66074",
+      "genre": "article",
+      "title": "Odonates des \u00eeles Seychelles",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de Belgique",
+      "volume": "12",
+      "spage": "95",
+      "epage": "99",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0774-5915",
+      "PageID": "12369945",
+      "created": "2011-05-05 01:34:41",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45161",
+          "lastname": "De S\u00e9ly-Longchamps",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12369945,
+        12369946,
+        12369947,
+        12369948,
+        12369949
+      ]
+    },
+    {
+      "reference_id": "73829",
+      "genre": "article",
+      "title": "Note sur les n\u00e9vropt\u00e8res odonates recueillis en Mingr\u00e9lie en 1868 par M. Th\u00e9ophile Deyrolle",
+      "secondary_title": "Annales Societe Entomologique Belgique",
+      "volume": "12",
+      "spage": "105",
+      "epage": "106",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0774-5915",
+      "PageID": "12369955",
+      "created": "2011-06-04 09:58:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46676",
+          "lastname": "De Selys Longchamps",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12369955,
+        12369956
+      ]
+    }
+  ]
+}

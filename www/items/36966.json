@@ -1,0 +1,116 @@
+{
+  "ItemID": "36966",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "Bd.51, 1920",
+  "articles": [
+    {
+      "reference_id": "84933",
+      "genre": "article",
+      "title": "Calyozella, eine neue Proctotrupidengattung",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "51",
+      "spage": "24",
+      "epage": "25",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0044-5231",
+      "PageID": "9458376",
+      "created": "2011-08-11 14:38:56",
+      "updated": "2011-08-11 14:38:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9458376,
+        9458377
+      ]
+    },
+    {
+      "reference_id": "50295",
+      "genre": "article",
+      "title": "Zur Kenntnis der Larven, des Brutsackes und der Bruten der Oniscoidea",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "51",
+      "spage": "169",
+      "epage": "189",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0044-5231",
+      "PageID": "9458521",
+      "created": "2010-05-10 17:46:12",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39806",
+          "lastname": "Verhoeff",
+          "forename": "Karl W"
+        }
+      ],
+      "bhl_pages": [
+        9458521,
+        9458522,
+        9458523,
+        9458524,
+        9458525,
+        9458526,
+        9458527,
+        9458528,
+        9458529,
+        9458530,
+        9458531,
+        9458532,
+        9458533,
+        9458534,
+        9458535,
+        9458536,
+        9458537,
+        9458538,
+        9458539,
+        9458540,
+        9458541
+      ]
+    },
+    {
+      "reference_id": "3342",
+      "genre": "article",
+      "title": "Teuthologische Mitteilungen V. Zwei neue Cirraten-Arten",
+      "secondary_title": "Zoologische Anzeiger",
+      "volume": "51",
+      "issue": "11",
+      "spage": "230",
+      "epage": "243",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0044-5231",
+      "PageID": "9458582",
+      "created": "2009-12-24 12:09:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "502",
+          "lastname": "Grimpe",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9458582,
+        9458583,
+        9458584,
+        9458585,
+        9458586,
+        9458587,
+        9458588,
+        9458589,
+        9458590,
+        9458591,
+        9458592,
+        9458593,
+        9458594,
+        9458595
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemID": "8651",
+  "FullTitle": "Bulletin de la Societe botanique de France.",
+  "VolumeInfo": "1881 v. 28",
+  "articles": [
+    {
+      "reference_id": "14098",
+      "genre": "article",
+      "title": "Nouvelles esp\u00e8ces de champignons de France",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 botanique de France",
+      "volume": "28",
+      "spage": "91",
+      "epage": "93",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0181-1789",
+      "PageID": "261083",
+      "created": "2010-01-14 04:43:41",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10191",
+          "lastname": "Boudier",
+          "forename": "J L \u00c9"
+        }
+      ],
+      "bhl_pages": [
+        261083,
+        261084,
+        261085
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "ItemID": "22003",
+  "FullTitle": "Meddelanden af Societatis pro Fauna et Flora Fennica.",
+  "VolumeInfo": "Haft. 26 (1899-1900)",
+  "articles": [
+    {
+      "reference_id": "57544",
+      "genre": "article",
+      "title": "Vorl\u00e4ufige Mittheilung \u00fcber einige neue Collembolen-Formen aus Finnland",
+      "secondary_title": "Meddelanden af Societas pro Fauna et Flora Fennica",
+      "volume": "26",
+      "spage": "105",
+      "epage": "123",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "1585962",
+      "PageID": "3001519",
+      "created": "2010-11-20 13:48:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42074",
+          "lastname": "Axelson",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        3001519,
+        3001520,
+        3001521,
+        3001522,
+        3001523,
+        3001524,
+        3001525,
+        3001526,
+        3001527,
+        3001528,
+        3001529,
+        3001530,
+        3001531,
+        3001532,
+        3001533,
+        3001534,
+        3001535,
+        3001536,
+        3001537
+      ]
+    },
+    {
+      "reference_id": "57595",
+      "genre": "article",
+      "title": "Anteckningar om finska Heteroptera",
+      "secondary_title": "Medd. Soc. Gaun. Fl. Fenn.",
+      "volume": "26",
+      "spage": "124",
+      "epage": "130",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "1585962",
+      "PageID": "3001538",
+      "created": "2010-11-20 14:06:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39812",
+          "lastname": "Reuter",
+          "forename": "O M"
+        }
+      ],
+      "bhl_pages": [
+        3001538,
+        3001539,
+        3001540,
+        3001541,
+        3001542,
+        3001543,
+        3001544
+      ]
+    }
+  ]
+}

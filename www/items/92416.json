@@ -1,0 +1,85 @@
+{
+  "ItemID": "92416",
+  "FullTitle": "Nachrichtenblatt der Bayerischen Entomologen.",
+  "VolumeInfo": "v. 10-12 1961-63",
+  "articles": [
+    {
+      "reference_id": "98652",
+      "genre": "article",
+      "title": "Die Verbreitung von Ogygia forcipula Hubner und von O. nigrescens Hofner in Deutschland und einigen Nachbargebieten (Lep. Noct.)",
+      "secondary_title": "Nachrichtenblatt Der Bayerischen Entomologen",
+      "volume": "10",
+      "spage": "119",
+      "epage": "123",
+      "year": "1961",
+      "date": "1961-00-00",
+      "issn": "0027-7452",
+      "PageID": "29082985",
+      "created": "2011-12-02 12:54:19",
+      "updated": "2011-12-02 12:54:19",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        29082985,
+        29082986,
+        29082987,
+        29082988,
+        29082989
+      ]
+    },
+    {
+      "reference_id": "105427",
+      "genre": "article",
+      "title": "Zwei neue Opius-Arten aus Nieder\u00f6sterreich (Hymenoptera, Braconidae)",
+      "secondary_title": "Nachrichtenblatt der Bayerischen Entomologen",
+      "volume": "11",
+      "spage": "23",
+      "epage": "25",
+      "year": "1962",
+      "date": "1962-00-00",
+      "issn": "0027-7452",
+      "PageID": "29083029",
+      "created": "2012-07-26 11:31:19",
+      "updated": "2012-07-26 11:31:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54033",
+          "lastname": "Fisher",
+          "forename": "Max"
+        }
+      ],
+      "bhl_pages": [
+        29083029,
+        29083030,
+        29083031
+      ]
+    },
+    {
+      "reference_id": "98651",
+      "genre": "article",
+      "title": "Dritter Beitrag zur Lepidopteren-Fauna der Steiermark. Beschreibung zweier neuer Unterarten",
+      "secondary_title": "Nachrichtenblatt Der Bayerischen Entomologen",
+      "volume": "12",
+      "spage": "33",
+      "epage": "35",
+      "year": "1963",
+      "date": "1963-00-00",
+      "issn": "0027-7452",
+      "PageID": "29083173",
+      "created": "2011-12-02 12:54:09",
+      "updated": "2011-12-02 12:54:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        29083173,
+        29083174,
+        29083175
+      ]
+    }
+  ]
+}

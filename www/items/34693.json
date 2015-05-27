@@ -1,0 +1,74 @@
+{
+  "ItemID": "34693",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 16 (1903-1904)",
+  "articles": [
+    {
+      "reference_id": "57825",
+      "genre": "article",
+      "title": "On Some New Species of Victorian Mollusca, No. 6",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "16",
+      "spage": "92",
+      "epage": "95",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0035-9211",
+      "PageID": "8483975",
+      "created": "2010-11-20 15:03:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42095",
+          "lastname": "Pritchard",
+          "forename": "G B"
+        },
+        {
+          "id": "42096",
+          "lastname": "Gatliff",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        8483975,
+        8483976,
+        8483977,
+        8483978
+      ]
+    },
+    {
+      "reference_id": "57814",
+      "genre": "article",
+      "title": "Further descriptions of the Tertiary Polyzoa of Victoria. Part 9",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "16",
+      "spage": "140",
+      "epage": "147",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0035-9211",
+      "PageID": "8484025",
+      "created": "2010-11-20 15:00:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40737",
+          "lastname": "Maplestone",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        8484025,
+        8484026,
+        8484027,
+        8484028,
+        8484029,
+        8484030,
+        8484031,
+        8484032
+      ]
+    }
+  ]
+}

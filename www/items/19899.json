@@ -1,0 +1,38 @@
+{
+  "ItemID": "19899",
+  "FullTitle": "Proceedings of the Dublin University Zoological and Botanical Association.  ",
+  "VolumeInfo": "1-2",
+  "articles": [
+    {
+      "reference_id": "60031",
+      "genre": "article",
+      "title": "On Gwynia, Dielasma and Macandrevia, three new genera",
+      "secondary_title": "Proceedings of the Dublin University Zoological and Botanical Association",
+      "volume": "1",
+      "spage": "256",
+      "epage": "262",
+      "year": "1859",
+      "date": "1859-00-00",
+      "PageID": "2449784",
+      "created": "2010-11-22 17:41:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1067",
+          "lastname": "King",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2449784,
+        2449785,
+        2449786,
+        2449791,
+        2449792,
+        2449793,
+        2449794
+      ]
+    }
+  ]
+}

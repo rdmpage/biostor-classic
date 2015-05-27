@@ -1,0 +1,61 @@
+{
+  "author": [
+    {
+      "firstname": "James B",
+      "lastname": "Whitfield",
+      "name": "James B Whitfield"
+    },
+    {
+      "firstname": "M Teresa Oltra",
+      "lastname": "Moscard\u00f3",
+      "name": "M Teresa Oltra Moscard\u00f3"
+    }
+  ],
+  "type": "article",
+  "title": "The Neotropical Species of Deuterixys Mason (Hymenoptera: Braconidae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "13",
+    "pages": "134--148",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2004",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/328"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2844795"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 328
+    },
+    {
+      "type": "bhl",
+      "id": 2844795
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -76.5,
+        7.0833333333333
+      ],
+      [
+        -77.25,
+        1.1666666666667
+      ]
+    ]
+  }
+}

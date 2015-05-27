@@ -1,0 +1,73 @@
+{
+  "ItemID": "82332",
+  "FullTitle": "Proceedings of the Linnean Society of New South Wales.",
+  "VolumeInfo": "v. 37 (1912)",
+  "articles": [
+    {
+      "reference_id": "68006",
+      "genre": "article",
+      "title": "The eucalypts of Parramatta, with description of a new species",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "37",
+      "spage": "561",
+      "epage": "571",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0370-047X",
+      "PageID": "25528211",
+      "created": "2011-05-31 11:52:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40972",
+          "lastname": "Hall",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        25528211,
+        25528210,
+        25528209,
+        25528208,
+        25528207,
+        25528206,
+        25528205,
+        25528172,
+        25528173,
+        25528174,
+        25528175
+      ]
+    },
+    {
+      "reference_id": "68731",
+      "genre": "article",
+      "title": "Notes on Australian Lycaenidae. Part v",
+      "secondary_title": "Proceedings of The Linnean Society of New South Wales",
+      "volume": "37",
+      "spage": "698",
+      "epage": "702",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0370-047X",
+      "PageID": "25528321",
+      "created": "2011-05-31 12:27:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17653",
+          "lastname": "Waterhouse",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        25528321,
+        25528322,
+        25528323,
+        25528324,
+        25528325
+      ]
+    }
+  ]
+}

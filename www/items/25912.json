@@ -1,0 +1,34 @@
+{
+  "ItemID": "25912",
+  "FullTitle": "Bulletin des sciences \/  par la Soci\u00e9t\u00e9 philomathique de Paris.",
+  "VolumeInfo": "1819",
+  "articles": [
+    {
+      "reference_id": "103837",
+      "genre": "article",
+      "title": "Sur un nouveau genre de coquilles (Hipponix)",
+      "secondary_title": "Bulletin des sciences Soci\u00e9t\u00e9 philomathique de Paris",
+      "volume": "1819",
+      "spage": "8",
+      "epage": "9",
+      "year": "1819",
+      "date": "1819-00-00",
+      "oclc": "29251491",
+      "PageID": "4438101",
+      "created": "2012-05-30 10:01:36",
+      "updated": "2012-05-30 10:03:44",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53793",
+          "lastname": "Defrance",
+          "forename": "Jacques Louis Marin"
+        }
+      ],
+      "bhl_pages": [
+        4438101,
+        4438102
+      ]
+    }
+  ]
+}

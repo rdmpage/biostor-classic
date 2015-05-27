@@ -1,0 +1,95 @@
+{
+  "ItemID": "33889",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.50 (1990)",
+  "articles": [
+    {
+      "reference_id": "1160",
+      "genre": "article",
+      "title": "A plasma protein marker for population genetic studies of the desert tortoise (Xerobates agassizi)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "50",
+      "spage": "1",
+      "epage": "8",
+      "year": "1990",
+      "date": "1990-00-00",
+      "issn": "0017-3614",
+      "PageID": "8115266",
+      "created": "2009-12-23 10:24:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "903",
+          "lastname": "Glenn",
+          "forename": "J L"
+        },
+        {
+          "id": "902",
+          "lastname": "Straight",
+          "forename": "R C"
+        },
+        {
+          "id": "886",
+          "lastname": "Sites",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        8115266,
+        8115267,
+        8115268,
+        8115269,
+        8115270,
+        8115271,
+        8115272,
+        8115273
+      ]
+    },
+    {
+      "reference_id": "70819",
+      "genre": "article",
+      "title": "Taxonomy and variation of the Lopidea nigridia complex of western North America (Heteroptera: Miridae: Orthotylinae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "50",
+      "spage": "135",
+      "epage": "154",
+      "year": "1990",
+      "date": "1990-00-00",
+      "issn": "0017-3614",
+      "PageID": "8115404",
+      "created": "2011-06-03 07:12:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "28150",
+          "lastname": "Asquith",
+          "forename": "Adam"
+        }
+      ],
+      "bhl_pages": [
+        8115404,
+        8115405,
+        8115406,
+        8115407,
+        8115408,
+        8115409,
+        8115410,
+        8115411,
+        8115412,
+        8115413,
+        8115414,
+        8115415,
+        8115416,
+        8115417,
+        8115418,
+        8115419,
+        8115420,
+        8115421,
+        8115422,
+        8115423
+      ]
+    }
+  ]
+}

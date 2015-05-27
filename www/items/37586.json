@@ -1,0 +1,918 @@
+{
+  "ItemID": "37586",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "Bd.35, 1910",
+  "articles": [
+    {
+      "reference_id": "101868",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der Xerobdella lecomtei v. Frauenfeld",
+      "secondary_title": "Zool Anz",
+      "volume": "35",
+      "spage": "75",
+      "epage": "83",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741516",
+      "created": "2012-03-19 18:10:25",
+      "updated": "2012-03-19 18:11:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53534",
+          "lastname": "Schuster",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9741516,
+        9741517,
+        9741518,
+        9741519,
+        9741520,
+        9741521,
+        9741522,
+        9741523,
+        9741524
+      ]
+    },
+    {
+      "reference_id": "69947",
+      "genre": "article",
+      "title": "\u00dcber Diplopoden: 16. (36.) Aufsatz:  Zur Kenntnis der Glomeriden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "101",
+      "epage": "124",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741542",
+      "created": "2011-06-02 07:58:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46426",
+          "lastname": "Verhoeff",
+          "forename": "Karl Wilhelm"
+        }
+      ],
+      "bhl_pages": [
+        9741542,
+        9741543,
+        9741544,
+        9741545,
+        9741546,
+        9741547,
+        9741548,
+        9741549,
+        9741550,
+        9741551,
+        9741552,
+        9741553,
+        9741554,
+        9741555,
+        9741556,
+        9741557,
+        9741558,
+        9741559,
+        9741560,
+        9741561,
+        9741562,
+        9741563,
+        9741564,
+        9741565
+      ]
+    },
+    {
+      "reference_id": "69914",
+      "genre": "article",
+      "title": "Parudenus falklandicus, eine neue Phasgonuridengattung der Falklandsinseln",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "157",
+      "epage": "159",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741598",
+      "created": "2011-06-02 07:56:12",
+      "updated": "2012-05-02 12:51:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        9741598,
+        9741599,
+        9741600
+      ]
+    },
+    {
+      "reference_id": "12763",
+      "genre": "article",
+      "title": "Die Klassifikation der Embiidinen nebst morphologischen und physiologischen Bemerkungen besonders \u00fcber das Spinen derselben",
+      "secondary_title": "Zool. Anz",
+      "volume": "35",
+      "issue": "6",
+      "spage": "166",
+      "epage": "191",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741607",
+      "created": "2010-01-08 17:28:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9741607,
+        9741608,
+        9741609,
+        9741610,
+        9741611,
+        9741612,
+        9741613,
+        9741614,
+        9741615,
+        9741616,
+        9741617,
+        9741618,
+        9741619,
+        9741620,
+        9741621,
+        9741622,
+        9741623,
+        9741624,
+        9741625,
+        9741626,
+        9741627,
+        9741628,
+        9741629,
+        9741630,
+        9741631,
+        9741632
+      ]
+    },
+    {
+      "reference_id": "58257",
+      "genre": "article",
+      "title": "Resultate einer zusammenfassenden Bearbeitung der Monotremen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "213",
+      "epage": "215",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741654",
+      "created": "2010-11-20 20:21:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42287",
+          "lastname": "Kowarzik",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9741654,
+        9741655,
+        9741656
+      ]
+    },
+    {
+      "reference_id": "58252",
+      "genre": "article",
+      "title": "Ein weiterer Bericht \u00fcber die Schizopoden der Deutschen Tiefsee-Exped. Parathysanopoda foliifera n. gen. et spec",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "225",
+      "epage": "227",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741666",
+      "created": "2010-11-20 20:20:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39775",
+          "lastname": "Illig",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9741666,
+        9741667,
+        9741668
+      ]
+    },
+    {
+      "reference_id": "58263",
+      "genre": "article",
+      "title": "The relation of the flagellum to the nucleus in the collar-cells of calcareous sponges",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "227",
+      "epage": "231",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741668",
+      "created": "2010-11-20 20:22:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42291",
+          "lastname": "Minchin",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        9741668,
+        9741669,
+        9741670,
+        9741671,
+        9741672
+      ]
+    },
+    {
+      "reference_id": "12771",
+      "genre": "article",
+      "title": "Zur Kenntnis \u00bbfr\u00fchjurassischer Copeognaten und Coniopterygiden\u00ab und \u00fcber das Schiksal der Archipsylliden",
+      "secondary_title": "Zool. Anz",
+      "volume": "35",
+      "spage": "233",
+      "epage": "240",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741674",
+      "created": "2010-01-08 17:29:26",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9489",
+          "lastname": "Handlirsch",
+          "forename": "Anton"
+        }
+      ],
+      "bhl_pages": [
+        9741674,
+        9741675,
+        9741676,
+        9741677,
+        9741678,
+        9741679,
+        9741680,
+        9741681
+      ]
+    },
+    {
+      "reference_id": "85084",
+      "genre": "article",
+      "title": "Ueber eine neue Sperchon-Art (Sperchon montisrosae n. sp.)",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "35",
+      "spage": "257",
+      "epage": "261",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741698",
+      "created": "2011-08-11 15:15:32",
+      "updated": "2011-08-11 15:15:32",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741698,
+        9741699,
+        9741700,
+        9741701,
+        9741702
+      ]
+    },
+    {
+      "reference_id": "69942",
+      "genre": "article",
+      "title": "Data relating to Siberian dragonflies. [Six parts]",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "270",
+      "epage": "278",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741711",
+      "created": "2011-06-02 07:57:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46425",
+          "lastname": "Bartenef",
+          "forename": "A N"
+        }
+      ],
+      "bhl_pages": [
+        9741711,
+        9741712,
+        9741713,
+        9741714,
+        9741715,
+        9741716,
+        9741717,
+        9741718,
+        9741719
+      ]
+    },
+    {
+      "reference_id": "58326",
+      "genre": "article",
+      "title": "Das System der Termiten",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "284",
+      "epage": "286",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741725",
+      "created": "2010-11-20 20:42:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42309",
+          "lastname": "Holmgren",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        9741725,
+        9741726,
+        9741727
+      ]
+    },
+    {
+      "reference_id": "58346",
+      "genre": "article",
+      "title": "Studien \u00fcber Pediculiden und Mallophagen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "287",
+      "epage": "293",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741728",
+      "created": "2010-11-20 20:46:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42316",
+          "lastname": "Mj\u00f6berg",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9741728,
+        9741729,
+        9741730,
+        9741731,
+        9741732,
+        9741733,
+        9741734
+      ]
+    },
+    {
+      "reference_id": "85046",
+      "genre": "article",
+      "title": "Preliminary notice on Hexactinellida of the Gauss-Expedition",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "35",
+      "spage": "293",
+      "epage": "302",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741734",
+      "created": "2011-08-11 15:06:14",
+      "updated": "2011-08-11 15:06:14",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741734,
+        9741735,
+        9741736,
+        9741737,
+        9741738,
+        9741739,
+        9741740,
+        9741741,
+        9741742,
+        9741743
+      ]
+    },
+    {
+      "reference_id": "85078",
+      "genre": "article",
+      "title": "Ueber das System der Reptilien",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "35",
+      "spage": "324",
+      "epage": "341",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741765",
+      "created": "2011-08-11 15:14:34",
+      "updated": "2011-08-11 15:14:34",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741765,
+        9741766,
+        9741767,
+        9741768,
+        9741769,
+        9741770,
+        9741771,
+        9741772,
+        9741773,
+        9741774,
+        9741775,
+        9741776,
+        9741777,
+        9741778,
+        9741779,
+        9741780,
+        9741781,
+        9741782
+      ]
+    },
+    {
+      "reference_id": "58300",
+      "genre": "article",
+      "title": "Description d'une nouvelle larve de trombidion (Paratrombium egregium, n. gen., n. sp.) et remarques sur les leptes",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "347",
+      "epage": "352",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741788",
+      "created": "2010-11-20 20:34:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42301",
+          "lastname": "Bruyant",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        9741788,
+        9741789,
+        9741790,
+        9741791,
+        9741792,
+        9741793
+      ]
+    },
+    {
+      "reference_id": "14534",
+      "genre": "article",
+      "title": "Descrizioni preliminari di nuovi generi di Diplopodi. I. Polydesmoidea",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "357",
+      "epage": "364",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741798",
+      "created": "2010-01-20 13:02:07",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10028",
+          "lastname": "Silvestri",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9741798,
+        9741799,
+        9741800,
+        9741801,
+        9741802,
+        9741803,
+        9741804,
+        9741805
+      ]
+    },
+    {
+      "reference_id": "12757",
+      "genre": "article",
+      "title": "\u00dcber die Phylogenie und die Klassifikation der Mecopteren unter Ber\u00fccksichtigung der fossilen Formen",
+      "secondary_title": "Zool. Anz",
+      "volume": "35",
+      "spage": "385",
+      "epage": "399",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741826",
+      "created": "2010-01-08 17:27:53",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        9741826,
+        9741827,
+        9741828,
+        9741829,
+        9741830,
+        9741831,
+        9741832,
+        9741833,
+        9741834,
+        9741835,
+        9741836,
+        9741837,
+        9741838,
+        9741839,
+        9741840
+      ]
+    },
+    {
+      "reference_id": "84930",
+      "genre": "article",
+      "title": "Brief notes on two Myxosporidian organisms (Pleistophora hippoglossoideos n. sp. and Myxidium mackiei n. sp.)",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "35",
+      "spage": "434",
+      "epage": "438",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741875",
+      "created": "2011-08-11 14:38:30",
+      "updated": "2011-08-11 14:38:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741875,
+        9741876,
+        9741877,
+        9741878,
+        9741879
+      ]
+    },
+    {
+      "reference_id": "84922",
+      "genre": "article",
+      "title": "Beitrage zur Hydracarinen-Fauna der Umgebung von Lunz (Niederosterreich)",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "35",
+      "spage": "496",
+      "epage": "500",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741937",
+      "created": "2011-08-11 14:37:03",
+      "updated": "2011-08-11 14:37:03",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741937,
+        9741938,
+        9741939,
+        9741940,
+        9741941
+      ]
+    },
+    {
+      "reference_id": "100219",
+      "genre": "article",
+      "title": "\u00dcber einige fossile S\u00e4ugetiere aus dem Oligoc\u00e4n von \u00c4gypten",
+      "secondary_title": "Zoologischer Anzeiger Jena",
+      "volume": "35",
+      "spage": "500",
+      "epage": "508",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741941",
+      "created": "2012-01-16 13:39:56",
+      "updated": "2012-01-16 13:40:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53419",
+          "lastname": "Schlosser",
+          "forename": "Max"
+        }
+      ],
+      "bhl_pages": [
+        9741941,
+        9741942,
+        9741943,
+        9741944,
+        9741945,
+        9741946,
+        9741947,
+        9741948,
+        9741949
+      ]
+    },
+    {
+      "reference_id": "69915",
+      "genre": "article",
+      "title": "Prospetto delle Gryllacris di Madagascar e delle isole vicine",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "509",
+      "epage": "511",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741950",
+      "created": "2011-06-02 07:56:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46412",
+          "lastname": "",
+          "forename": "Griffini"
+        }
+      ],
+      "bhl_pages": [
+        9741950,
+        9741951,
+        9741952
+      ]
+    },
+    {
+      "reference_id": "67001",
+      "genre": "article",
+      "title": "Zur Histologie der borstenartigen Bildungen am Hinterleibe der Myrmeleonidenlarven",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "526",
+      "epage": "530",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741967",
+      "created": "2011-05-11 19:47:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45419",
+          "lastname": "Lozinski",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9741967,
+        9741968,
+        9741969,
+        9741970,
+        9741971
+      ]
+    },
+    {
+      "reference_id": "84919",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Sporozoenfauna Ostpreussens",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "35",
+      "spage": "530",
+      "epage": "534",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9741971",
+      "created": "2011-08-11 14:36:35",
+      "updated": "2011-08-11 14:36:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9741971,
+        9741972,
+        9741973,
+        9741974,
+        9741975
+      ]
+    },
+    {
+      "reference_id": "21235",
+      "genre": "article",
+      "title": "Dinophilus apatris forma tergestina",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "587",
+      "epage": "589",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9742028",
+      "created": "2010-02-15 14:16:49",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18475",
+          "lastname": "Stiasny",
+          "forename": "Gustav"
+        }
+      ],
+      "bhl_pages": [
+        9742028,
+        9742029,
+        9742030
+      ]
+    },
+    {
+      "reference_id": "12761",
+      "genre": "article",
+      "title": "\u00dcber die Phylogeny und Klassification der Mecoptera",
+      "secondary_title": "Zool. Anz",
+      "volume": "35",
+      "spage": "671",
+      "epage": "672",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9742112",
+      "created": "2010-01-08 17:28:10",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9472",
+          "lastname": "Handlirsch",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9742112,
+        9742113
+      ]
+    },
+    {
+      "reference_id": "12759",
+      "genre": "article",
+      "title": "\u00dcber die Bezieeungen der fossilen Coniopterygiden zu den rezenten und \u00fcber Archiconiocompas prisca nov. gen. nov. spec.",
+      "secondary_title": "Zool. Anz",
+      "volume": "35",
+      "spage": "673",
+      "epage": "677",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9742114",
+      "created": "2010-01-08 17:28:01",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        9742114,
+        9742115,
+        9742116,
+        9742117,
+        9742118
+      ]
+    },
+    {
+      "reference_id": "84908",
+      "genre": "article",
+      "title": "Acantocefali nuovi o poco noti",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "35",
+      "spage": "699",
+      "epage": "703",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9742140",
+      "created": "2011-08-11 14:34:32",
+      "updated": "2011-08-11 14:34:32",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9742140,
+        9742141,
+        9742142,
+        9742143,
+        9742144
+      ]
+    },
+    {
+      "reference_id": "65083",
+      "genre": "article",
+      "title": "Diagnosen neuer Anopluren",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "714",
+      "epage": "715",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9742155",
+      "created": "2011-01-31 13:58:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44734",
+          "lastname": "Fahrenholz",
+          "forename": "Heinrich"
+        }
+      ],
+      "bhl_pages": [
+        9742155,
+        9742156
+      ]
+    },
+    {
+      "reference_id": "51931",
+      "genre": "article",
+      "title": "Neubeschreibung van Calohyla sundana = Callula sundana Peters",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "35",
+      "spage": "716",
+      "epage": "717",
+      "year": "1910",
+      "date": "1910-00-00",
+      "issn": "0044-5231",
+      "PageID": "9742157",
+      "created": "2010-06-27 10:56:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39390",
+          "lastname": "Roux",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9742157,
+        9742158
+      ]
+    }
+  ]
+}

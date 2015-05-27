@@ -1,0 +1,34 @@
+{
+  "ItemID": "40264",
+  "FullTitle": "Polskie pismo entomologiczne = Polish journal of entomology = Bulletin entomologique de Pologne ",
+  "VolumeInfo": "v. 1-3 1922-24",
+  "articles": [
+    {
+      "reference_id": "72313",
+      "genre": "article",
+      "title": "Sur un cas d'amblypygie chez Melolontha melolontha Linn\u00e9",
+      "secondary_title": "Polskie Pismo Entomologiczne, Lemberg",
+      "volume": "2",
+      "spage": "1",
+      "epage": "2",
+      "year": "1923",
+      "date": "1923-00-00",
+      "oclc": "1641554",
+      "PageID": "10583530",
+      "created": "2011-06-04 01:10:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47010",
+          "lastname": "Lomnicki",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        10583530,
+        10583531
+      ]
+    }
+  ]
+}

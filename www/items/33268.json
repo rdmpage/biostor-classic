@@ -1,0 +1,38 @@
+{
+  "ItemID": "33268",
+  "FullTitle": "Mitteilungen aus dem Naturhistorischen Museum in Hamburg.",
+  "VolumeInfo": "15",
+  "articles": [
+    {
+      "reference_id": "105262",
+      "genre": "article",
+      "title": "Neue pedipalpen und scorpione des Hamburger Museums",
+      "secondary_title": "Mitteilungen aus dem Naturhistorischen Museum in Hamburg",
+      "volume": "15",
+      "spage": "39",
+      "epage": "44",
+      "year": "1898",
+      "date": "1898-00-00",
+      "oclc": "8466677",
+      "PageID": "7884668",
+      "created": "2012-07-13 17:08:12",
+      "updated": "2012-07-13 17:18:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53763",
+          "lastname": "Kraepelin",
+          "forename": "Karl"
+        }
+      ],
+      "bhl_pages": [
+        7884668,
+        7884669,
+        7884670,
+        7884671,
+        7884672,
+        7884673
+      ]
+    }
+  ]
+}

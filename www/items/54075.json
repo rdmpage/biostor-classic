@@ -1,0 +1,40 @@
+{
+  "ItemID": "54075",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 43 (1895)",
+  "articles": [
+    {
+      "reference_id": "100140",
+      "genre": "article",
+      "title": "Note pr\u00e9liminaire sur le Pterygioteuthis Giardi, c\u00e9phalopode nouveau recuelli dans le Cours de l'Exp\u00e9dition scientifique du Talisman (1883)",
+      "secondary_title": "Jour. Conchyliologie",
+      "volume": "43",
+      "spage": "205",
+      "epage": "211",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0021-7719",
+      "PageID": "15922492",
+      "created": "2011-12-30 23:16:40",
+      "updated": "2011-12-30 23:20:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40415",
+          "lastname": "Fischer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        15922492,
+        15922493,
+        15922494,
+        15922495,
+        15922496,
+        15922497,
+        15922498,
+        15922584
+      ]
+    }
+  ]
+}

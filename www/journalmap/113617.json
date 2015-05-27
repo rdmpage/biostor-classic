@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "D R",
+      "lastname": "Ragge",
+      "name": "D R Ragge"
+    }
+  ],
+  "type": "article",
+  "title": "A REVISION OF THE AFRICAN SPECIES OF PSEUDORHYNCHUS ORTHOPTERA TETTIGONIIDAE",
+  "journal": {
+    "name": "Bulletin of The British Museum (Natural History) Entomology",
+    "volume": "23",
+    "pages": "169--190",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1969",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/113617"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2313813"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 113617
+    },
+    {
+      "type": "bhl",
+      "id": 2313813
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        13.75,
+        3.75
+      ]
+    ]
+  }
+}

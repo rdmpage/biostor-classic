@@ -1,0 +1,69 @@
+{
+  "ItemID": "42364",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 22 1889",
+  "articles": [
+    {
+      "reference_id": "71032",
+      "genre": "article",
+      "title": "Description of a new Luehdorfia from Japan",
+      "secondary_title": "The Entomologist",
+      "volume": "22",
+      "spage": "25",
+      "epage": "26",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0013-8878",
+      "PageID": "11410624",
+      "created": "2011-06-03 17:35:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42892",
+          "lastname": "Leech",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        11410624,
+        11410625
+      ]
+    },
+    {
+      "reference_id": "60935",
+      "genre": "article",
+      "title": "New species of Deltoids and Pyrales from Corea, North China and Japan",
+      "secondary_title": "Entomologist",
+      "volume": "22",
+      "spage": "62",
+      "epage": "71",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0013-8878",
+      "PageID": "11410684",
+      "created": "2010-11-26 19:25:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42892",
+          "lastname": "Leech",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        11410684,
+        11410685,
+        11410686,
+        11410687,
+        11410688,
+        11410689,
+        11410690,
+        11410691,
+        11410692,
+        11410693
+      ]
+    }
+  ]
+}

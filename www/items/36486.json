@@ -1,0 +1,148 @@
+{
+  "ItemID": "36486",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 19\/20 1882\/84",
+  "articles": [
+    {
+      "reference_id": "72496",
+      "genre": "article",
+      "title": "Contributions to a knowledge of the rhynchotal fauna of Sumatra",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "19",
+      "spage": "156",
+      "epage": "160",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "1568052",
+      "PageID": "9267514",
+      "created": "2011-06-04 02:12:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46761",
+          "lastname": "Distant",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9267514,
+        9267515,
+        9267516,
+        9267517,
+        9267518
+      ]
+    },
+    {
+      "reference_id": "60990",
+      "genre": "article",
+      "title": "Error as to fig-insect from Ficus religiosa",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "19",
+      "spage": "163",
+      "epage": "164",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "1568052",
+      "PageID": "9267521",
+      "created": "2010-12-01 17:28:53",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42904",
+          "lastname": "Saunders",
+          "forename": "Sidney S"
+        }
+      ],
+      "bhl_pages": [
+        9267521,
+        9267522
+      ]
+    },
+    {
+      "reference_id": "72737",
+      "genre": "article",
+      "title": "Dilar japonicus, n. sp",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "19",
+      "spage": "220",
+      "epage": "221",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "1568052",
+      "PageID": "9267578",
+      "created": "2011-06-04 03:25:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9267578,
+        9267579
+      ]
+    },
+    {
+      "reference_id": "65246",
+      "genre": "article",
+      "title": "On some Australian Phycidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "19",
+      "spage": "255",
+      "epage": "256",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "1568052",
+      "PageID": "9267613",
+      "created": "2011-02-07 14:57:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39893",
+          "lastname": "Meyrick",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9267613,
+        9267614
+      ]
+    },
+    {
+      "reference_id": "72044",
+      "genre": "article",
+      "title": "Two new species of Anax, with notes on other dragon-flies of the same genus",
+      "secondary_title": "Entomological Monthly Magazine",
+      "volume": "20",
+      "spage": "127",
+      "epage": "131",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "1568052",
+      "PageID": "9267793",
+      "created": "2011-06-04 00:16:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9267793,
+        9267794,
+        9267795,
+        9267796,
+        9267797
+      ]
+    }
+  ]
+}

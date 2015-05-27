@@ -1,0 +1,37 @@
+{
+  "ItemID": "21035",
+  "FullTitle": "A new skink from Mexico,  by Edward H. Taylor.",
+  "VolumeInfo": "v.20:no.10(1935)",
+  "articles": [
+    {
+      "reference_id": "49123",
+      "genre": "article",
+      "title": "A new skink from Mexico",
+      "secondary_title": "Zoological Series of Field Museum of Natural History",
+      "volume": "20",
+      "issue": "10",
+      "spage": "77",
+      "epage": "80",
+      "year": "1935",
+      "date": "1935-00-00",
+      "oclc": "13897940",
+      "PageID": "2778545",
+      "created": "2010-03-21 11:34:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9",
+          "lastname": "Taylor",
+          "forename": "Edward H"
+        }
+      ],
+      "bhl_pages": [
+        2778545,
+        2778546,
+        2778547,
+        2778548
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "ItemID": "96165",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "pt. 17 (1849)",
+  "articles": [
+    {
+      "reference_id": "60193",
+      "genre": "article",
+      "title": "Descriptions of apparently new species of Aptera from New Zealand",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1849",
+      "spage": "3",
+      "epage": "6",
+      "year": "1849",
+      "date": "1849-00-00",
+      "issn": "0370-2774",
+      "PageID": "30572394",
+      "created": "2010-11-22 20:22:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40945",
+          "lastname": "White",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30572394,
+        30572395,
+        30572396,
+        30572397
+      ]
+    },
+    {
+      "reference_id": "105215",
+      "genre": "article",
+      "title": "On the Genus Bradypus of Linn\u00e6us",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "17",
+      "spage": "65",
+      "epage": "73",
+      "year": "1849",
+      "date": "1849-00-00",
+      "issn": "0370-2774",
+      "PageID": "30572482",
+      "created": "2012-07-11 09:35:26",
+      "updated": "2012-07-11 09:45:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40410",
+          "lastname": "Gray",
+          "forename": "John Edward"
+        }
+      ],
+      "bhl_pages": [
+        30572482,
+        30572483,
+        30572485,
+        30572486,
+        30572487,
+        30572488,
+        30572489,
+        30572490,
+        30572491,
+        30572492,
+        30572494
+      ]
+    },
+    {
+      "reference_id": "60627",
+      "genre": "article",
+      "title": "Characters of three new genera and species of Lepidoptera",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1849",
+      "spage": "104",
+      "epage": "105",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0370-2774",
+      "PageID": "30572531",
+      "created": "2010-11-23 03:20:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42846",
+          "lastname": "Wing",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30572531,
+        30572532
+      ]
+    },
+    {
+      "reference_id": "59940",
+      "genre": "article",
+      "title": "On new species of Mammalia and Birds from Australia",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1849",
+      "spage": "109",
+      "epage": "112",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0370-2774",
+      "PageID": "30572540",
+      "created": "2010-11-22 17:08:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        30572540,
+        30572541,
+        30572542,
+        30572543
+      ]
+    },
+    {
+      "reference_id": "59767",
+      "genre": "article",
+      "title": "Descriptions of twelve new species of Vitrina and Succinea from the collection of H. Cuming, Esq",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1849",
+      "spage": "132",
+      "epage": "134",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0370-2774",
+      "PageID": "30572567",
+      "created": "2010-11-22 15:51:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42679",
+          "lastname": "Pfeiffer",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        30572567,
+        30572568,
+        30572569
+      ]
+    }
+  ]
+}

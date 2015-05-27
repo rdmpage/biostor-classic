@@ -1,0 +1,35 @@
+{
+  "ItemID": "43686",
+  "FullTitle": "Russkoe entomologicheskoe obozrenie = Revue russe d'entomologie.",
+  "VolumeInfo": "t.3 1903",
+  "articles": [
+    {
+      "reference_id": "105574",
+      "genre": "article",
+      "title": "\u0417\u0430\u043c\u044a\u0442\u043a\u0430 \u043e \u0440\u043e\u0434\u044a Vermipsylla \u0405chimk. \u0438 \u043e \u0441\u0435\u043c. Vermipsyllidae Wagn. (Aphantiptera)",
+      "secondary_title": "Russkoe entomologicheskoe obozrenie",
+      "volume": "3",
+      "spage": "294",
+      "epage": "296",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "8096567",
+      "PageID": "11942820",
+      "created": "2012-08-01 09:03:37",
+      "updated": "2012-08-01 09:10:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54049",
+          "lastname": "\u0412\u0430\u0433\u043d\u0435\u0440\u0430",
+          "forename": "\u042e"
+        }
+      ],
+      "bhl_pages": [
+        11942820,
+        11942821,
+        11942822
+      ]
+    }
+  ]
+}

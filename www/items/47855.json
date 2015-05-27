@@ -1,0 +1,63 @@
+{
+  "ItemID": "47855",
+  "FullTitle": "Miscellanea entomologica; revue entomologique internationale. ",
+  "VolumeInfo": "v. 2-4 1894-96",
+  "articles": [
+    {
+      "reference_id": "60793",
+      "genre": "article",
+      "title": "Hymenopterorum novorum diagnoses praecursoriae",
+      "secondary_title": "Miscellanea Entomologica",
+      "volume": "2",
+      "spage": "2",
+      "epage": "3",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "13652156",
+      "PageID": "13369643",
+      "created": "2010-11-23 04:41:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42865",
+          "lastname": "Gribodo",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        13369643,
+        13369642
+      ]
+    },
+    {
+      "reference_id": "73838",
+      "genre": "article",
+      "title": "Notes sur la faune entomologique Piemontaise",
+      "secondary_title": "Miscellanea Entomologica",
+      "volume": "4",
+      "spage": "9",
+      "epage": "12",
+      "year": "1896",
+      "date": "1896-00-00",
+      "oclc": "13652156",
+      "PageID": "13370005",
+      "created": "2011-06-04 10:02:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47247",
+          "lastname": "Griffini",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        13370005,
+        13370006,
+        13370007,
+        13370008
+      ]
+    }
+  ]
+}

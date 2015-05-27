@@ -1,0 +1,33 @@
+{
+  "ItemID": "35472",
+  "FullTitle": "The Osprey.  ",
+  "VolumeInfo": "4, 1899-1900",
+  "articles": [
+    {
+      "reference_id": "65097",
+      "genre": "article",
+      "title": "The chickadee (Parus atricapillus) in eastern Nebraska",
+      "secondary_title": "Osprey",
+      "volume": "4",
+      "spage": "138",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "1761559",
+      "PageID": "8747454",
+      "created": "2011-01-31 14:04:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44737",
+          "lastname": "Carriker",
+          "forename": "Melbourne Armstrong",
+          "suffix": "Jr."
+        }
+      ],
+      "bhl_pages": [
+        8747454
+      ]
+    }
+  ]
+}

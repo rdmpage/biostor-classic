@@ -1,0 +1,35 @@
+{
+  "ItemID": "34873",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 70 (1956-1957)",
+  "articles": [
+    {
+      "reference_id": "59422",
+      "genre": "article",
+      "title": "Easter Island shells",
+      "secondary_title": "The Nautilus",
+      "volume": "70",
+      "spage": "111",
+      "epage": "113",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0028-1344",
+      "PageID": "8520780",
+      "created": "2010-11-21 06:09:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42570",
+          "lastname": "Steele",
+          "forename": "P H"
+        }
+      ],
+      "bhl_pages": [
+        8520780,
+        8520781,
+        8520782
+      ]
+    }
+  ]
+}

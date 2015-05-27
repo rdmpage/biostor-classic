@@ -1,0 +1,296 @@
+{
+  "ItemID": "36482",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 15\/16 1878\/80",
+  "articles": [
+    {
+      "reference_id": "60446",
+      "genre": "article",
+      "title": "New species of geodephagous Coleoptera from New Zealand",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "15",
+      "spage": "22",
+      "epage": "28",
+      "year": "1878",
+      "date": "1878-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9265083",
+      "created": "2010-11-23 00:41:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40116",
+          "lastname": "Bates",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        9265083,
+        9265084,
+        9265085,
+        9265086,
+        9265087,
+        9265088,
+        9265089
+      ]
+    },
+    {
+      "reference_id": "72790",
+      "genre": "article",
+      "title": "New Coleoptera from New Zealand",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "15",
+      "spage": "47",
+      "epage": "52",
+      "year": "1878",
+      "date": "1878-00-00",
+      "oclc": "1568052",
+      "PageID": "9265131",
+      "created": "2011-06-04 04:07:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9265131,
+        9265132,
+        9265133,
+        9265134,
+        9265135,
+        9265136
+      ]
+    },
+    {
+      "reference_id": "60328",
+      "genre": "article",
+      "title": "List of the Hemiptera of New Zealand",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "15",
+      "spage": "213",
+      "epage": "216",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9265297",
+      "created": "2010-11-22 22:54:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42805",
+          "lastname": "White",
+          "forename": "F B W"
+        }
+      ],
+      "bhl_pages": [
+        9265297,
+        9265298,
+        9265299,
+        9265300
+      ]
+    },
+    {
+      "reference_id": "72023",
+      "genre": "article",
+      "title": "A new Eudromus, and three new species of Lepturid\u00e6 from Madagascar",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "15",
+      "spage": "250",
+      "epage": "252",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1568052",
+      "PageID": "9265334",
+      "created": "2011-06-04 00:11:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9265334,
+        9265335,
+        9265336
+      ]
+    },
+    {
+      "reference_id": "60709",
+      "genre": "article",
+      "title": "On Heterocerous Lepidoptera collected in the Hawaiian Islands by the Rev",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "15",
+      "spage": "269",
+      "epage": "273",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9265353",
+      "created": "2010-11-23 03:54:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        9265353,
+        9265354,
+        9265355,
+        9265356,
+        9265357
+      ]
+    },
+    {
+      "reference_id": "71886",
+      "genre": "article",
+      "title": "Descriptions of some new species of Hemiptera-Homoptera from Central America",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "16",
+      "spage": "61",
+      "epage": "63",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1568052",
+      "PageID": "9265449",
+      "created": "2011-06-03 23:30:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46761",
+          "lastname": "Distant",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9265449,
+        9265450,
+        9265451
+      ]
+    },
+    {
+      "reference_id": "71157",
+      "genre": "article",
+      "title": "Description of a new species of Phyllomacromia (Corduliina) from West Africa",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "16",
+      "spage": "103",
+      "epage": "104",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1568052",
+      "PageID": "9265491",
+      "created": "2011-06-03 18:00:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46676",
+          "lastname": "De Selys Longchamps",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9265491,
+        9265492
+      ]
+    },
+    {
+      "reference_id": "72788",
+      "genre": "article",
+      "title": "Note on a new species of Ceratorrhina from the West Coast of Africa",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "16",
+      "spage": "113",
+      "epage": "114",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "1568052",
+      "PageID": "9265501",
+      "created": "2011-06-04 04:06:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42089",
+          "lastname": "Lewis",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9265501,
+        9265502
+      ]
+    },
+    {
+      "reference_id": "72028",
+      "genre": "article",
+      "title": "Description of a new Longicorn Beetle from Arabia",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "16",
+      "spage": "246",
+      "epage": "247",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "1568052",
+      "PageID": "9265636",
+      "created": "2011-06-04 00:12:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9265636,
+        9265637
+      ]
+    },
+    {
+      "reference_id": "72250",
+      "genre": "article",
+      "title": "New species of Alcidion, a genus of longicorn Coleoptera",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "16",
+      "spage": "273",
+      "epage": "274",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "1568052",
+      "PageID": "9265663",
+      "created": "2011-06-04 00:57:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9265663,
+        9265664
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "ItemID": "36025",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 27 1891",
+  "articles": [
+    {
+      "reference_id": "60359",
+      "genre": "article",
+      "title": "Notes on some British and exotic Coccidae (No. 19)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "27",
+      "spage": "65",
+      "epage": "68",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9013416",
+      "created": "2010-11-22 23:30:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40123",
+          "lastname": "Douglas",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        9013416,
+        9013417,
+        9013418,
+        9013419
+      ]
+    },
+    {
+      "reference_id": "72127",
+      "genre": "article",
+      "title": "New longicorn Coleoptera, chiefly from Mexico",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "27",
+      "spage": "158",
+      "epage": "161",
+      "year": "1891",
+      "date": "1891-00-00",
+      "oclc": "1568052",
+      "PageID": "9013573",
+      "created": "2011-06-04 00:36:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9013573,
+        9013574,
+        9013575,
+        9013576
+      ]
+    },
+    {
+      "reference_id": "67100",
+      "genre": "article",
+      "title": "Raphidia cognata, Ramb., as a British insect",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "27",
+      "spage": "170",
+      "year": "1891",
+      "date": "1891-00-00",
+      "oclc": "1568052",
+      "PageID": "9013587",
+      "created": "2011-05-12 13:21:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9013587
+      ]
+    },
+    {
+      "reference_id": "73841",
+      "genre": "article",
+      "title": "On two undescribed species of the genus Phanaeus Maclay",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "27",
+      "spage": "208",
+      "epage": "209",
+      "year": "1891",
+      "date": "1891-00-00",
+      "oclc": "1568052",
+      "PageID": "9013625",
+      "created": "2011-06-04 10:02:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47092",
+          "lastname": "Nevinson",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        9013625,
+        9013626
+      ]
+    },
+    {
+      "reference_id": "72688",
+      "genre": "article",
+      "title": "An asiatic Psychopsis (Ps. birmana, n. sp.)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "27",
+      "spage": "320",
+      "epage": "321",
+      "year": "1891",
+      "date": "1891-00-00",
+      "oclc": "1568052",
+      "PageID": "9013737",
+      "created": "2011-06-04 03:13:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40159",
+          "lastname": "Mclachlan",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9013737,
+        9013738
+      ]
+    }
+  ]
+}

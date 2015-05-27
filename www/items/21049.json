@@ -1,0 +1,35 @@
+{
+  "ItemID": "21049",
+  "FullTitle": "A new Australian lizard, with a note on Hemiergis,  by Hobart M. Smith.",
+  "VolumeInfo": "v.24:no.3(1939)",
+  "articles": [
+    {
+      "reference_id": "59351",
+      "genre": "article",
+      "title": "A new Australian lizard, with a note on Hemiergis",
+      "secondary_title": "Field Museum of Natural History Publications, Zoological Series",
+      "volume": "24",
+      "spage": "11",
+      "epage": "14",
+      "year": "1939",
+      "date": "1939-00-00",
+      "PageID": "2780349",
+      "created": "2010-11-21 03:46:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "840",
+          "lastname": "Smith",
+          "forename": "H M"
+        }
+      ],
+      "bhl_pages": [
+        2780349,
+        2780350,
+        2780351,
+        2780352
+      ]
+    }
+  ]
+}

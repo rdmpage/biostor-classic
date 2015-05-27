@@ -1,0 +1,981 @@
+{
+  "ItemID": "20181",
+  "FullTitle": "Entomological news.",
+  "VolumeInfo": "v. 50-51 1939",
+  "articles": [
+    {
+      "reference_id": "3766",
+      "genre": "article",
+      "title": "A new species of Aphodius from New Jersey",
+      "secondary_title": "Entomological News",
+      "volume": "50",
+      "spage": "24",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556888",
+      "created": "2009-12-26 19:15:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2297",
+          "lastname": "Robinson",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        2556888
+      ]
+    },
+    {
+      "reference_id": "105119",
+      "genre": "article",
+      "title": "A new syrphid fly from Louisiana (Diptera)",
+      "secondary_title": "Ent. News",
+      "volume": "50",
+      "spage": "66",
+      "epage": "68",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556830",
+      "created": "2012-07-04 10:50:32",
+      "updated": "2012-07-04 10:50:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53957",
+          "lastname": "Vige",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        2556830,
+        2556829,
+        2556828
+      ]
+    },
+    {
+      "reference_id": "66943",
+      "genre": "article",
+      "title": "Anisoptera Schneider a homonym (Neuroptera: Mantispidae)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "50",
+      "spage": "82",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556814",
+      "created": "2011-05-11 17:53:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45380",
+          "lastname": "Rehn",
+          "forename": "J W H"
+        }
+      ],
+      "bhl_pages": [
+        2556814
+      ]
+    },
+    {
+      "reference_id": "84790",
+      "genre": "article",
+      "title": "The cordatus-group of Agabus (Coleop., Dytiscidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "50",
+      "spage": "104",
+      "epage": "106",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556774",
+      "created": "2011-08-10 23:07:06",
+      "updated": "2011-08-10 23:07:06",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2556774,
+        2556775,
+        2556776
+      ]
+    },
+    {
+      "reference_id": "84820",
+      "genre": "article",
+      "title": "The usage of the names Epizeuxis Hubner and Zanclognatha Lederer (Lepido-ptera, Phalaenidae, Herminiinae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "50",
+      "spage": "108",
+      "epage": "109",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556778",
+      "created": "2011-08-10 23:09:30",
+      "updated": "2011-08-10 23:09:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2556778,
+        2556779
+      ]
+    },
+    {
+      "reference_id": "73501",
+      "genre": "article",
+      "title": "A new juniper midge (Diptera: Cecidomyiidae)",
+      "secondary_title": "Ent. News",
+      "volume": "50",
+      "spage": "159",
+      "epage": "160",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556964",
+      "created": "2011-06-04 08:51:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42334",
+          "lastname": "Felt",
+          "forename": "E P"
+        }
+      ],
+      "bhl_pages": [
+        2556964,
+        2556965
+      ]
+    },
+    {
+      "reference_id": "102649",
+      "genre": "article",
+      "title": "New name for a genus of the group Melanopli (Acrididae: Orthoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "50",
+      "spage": "160",
+      "epage": "160",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556965",
+      "created": "2012-05-03 13:25:01",
+      "updated": "2012-05-03 13:25:01",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2556965
+      ]
+    },
+    {
+      "reference_id": "70601",
+      "genre": "article",
+      "title": "Aphids of the genus Kakimia infesting Ribes (Homoptera)",
+      "secondary_title": "Entomological News",
+      "volume": "50",
+      "spage": "166",
+      "epage": "170",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2556971",
+      "created": "2011-06-03 06:43:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45351",
+          "lastname": "",
+          "forename": "Knowlton"
+        },
+        {
+          "id": "46602",
+          "lastname": "",
+          "forename": "Allen"
+        }
+      ],
+      "bhl_pages": [
+        2556971,
+        2556972,
+        2556973,
+        2556974,
+        2556975
+      ]
+    },
+    {
+      "reference_id": "73712",
+      "genre": "article",
+      "title": "New Utah Dolichopodidae (Diptera)",
+      "secondary_title": "Ent. News",
+      "volume": "50",
+      "spage": "256",
+      "epage": "259",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557128",
+      "created": "2011-06-04 09:39:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47196",
+          "lastname": "Harmston",
+          "forename": "F C"
+        },
+        {
+          "id": "41485",
+          "lastname": "Knowlton",
+          "forename": "G F"
+        }
+      ],
+      "bhl_pages": [
+        2557128,
+        2557129,
+        2557130,
+        2557131
+      ]
+    },
+    {
+      "reference_id": "84680",
+      "genre": "article",
+      "title": "Nitidulid notes and descriptions (Coleoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "50",
+      "spage": "287",
+      "epage": "291",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557165",
+      "created": "2011-08-10 22:58:56",
+      "updated": "2011-08-10 22:58:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557165,
+        2557166,
+        2557167,
+        2557168,
+        2557169
+      ]
+    },
+    {
+      "reference_id": "13698",
+      "genre": "article",
+      "title": "The Revista de Entomologia",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "19",
+      "epage": "20",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557072",
+      "created": "2010-01-13 10:30:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2557072,
+        2557073
+      ]
+    },
+    {
+      "reference_id": "95346",
+      "genre": "article",
+      "title": "A list of Mary-land Odonata",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "37",
+      "epage": "42",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557221",
+      "created": "2011-10-03 13:50:56",
+      "updated": "2011-10-03 13:50:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557221,
+        2557222,
+        2557223,
+        2557224,
+        2557225,
+        2557226
+      ]
+    },
+    {
+      "reference_id": "70712",
+      "genre": "article",
+      "title": "Two new lithobiid chilopods from burrows of the Florida Pocket Gopher",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "48",
+      "epage": "50",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557232",
+      "created": "2011-06-03 06:49:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46178",
+          "lastname": "R.v.",
+          "forename": "Chamberlin"
+        }
+      ],
+      "bhl_pages": [
+        2557232,
+        2557233,
+        2557234
+      ]
+    },
+    {
+      "reference_id": "84645",
+      "genre": "article",
+      "title": "New or little-known Neotropical Polistes (Hymenop-tera, Vespidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "79",
+      "epage": "83",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557303",
+      "created": "2011-08-10 22:56:18",
+      "updated": "2011-08-10 22:56:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557303,
+        2557304,
+        2557305,
+        2557306,
+        2557307
+      ]
+    },
+    {
+      "reference_id": "13699",
+      "genre": "article",
+      "title": "Undescribed species of crane-flies from the eastern United States and Canada (Dipt.: Tipulidae). Part VI [part]",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "83",
+      "epage": "85",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557307",
+      "created": "2010-01-13 10:30:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2557307,
+        2557308,
+        2557309
+      ]
+    },
+    {
+      "reference_id": "59355",
+      "genre": "article",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "99",
+      "epage": "102",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557327",
+      "created": "2010-11-21 04:01:42",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557327,
+        2557328,
+        2557329,
+        2557330
+      ]
+    },
+    {
+      "reference_id": "13700",
+      "genre": "article",
+      "title": "Undescribed species of crane-flies from the eastern United States and Canada (Dipt.: Tipulidae). Part VI [concl.]",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "99",
+      "epage": "103",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557331",
+      "created": "2010-01-13 10:30:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2557331,
+        2557295,
+        2557296,
+        2557297,
+        2557278
+      ]
+    },
+    {
+      "reference_id": "84351",
+      "genre": "article",
+      "title": "A dragonfly from the Eocene of Colorado (Odonata: Agrionidae)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "103",
+      "epage": "105",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557278",
+      "created": "2011-08-10 22:34:55",
+      "updated": "2011-08-10 22:34:55",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557278,
+        2557279,
+        2557280
+      ]
+    },
+    {
+      "reference_id": "20972",
+      "genre": "article",
+      "title": "On a collection of centipeds from Texas, New Mexico and Arizona (Chilopoda)",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "107",
+      "epage": "110",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557282",
+      "created": "2010-02-11 16:50:57",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "500",
+          "lastname": "Chamberlin",
+          "forename": "Ralph V"
+        },
+        {
+          "id": "18172",
+          "lastname": "Mulaik",
+          "forename": "Stanley"
+        }
+      ],
+      "bhl_pages": [
+        2557282,
+        2557283,
+        2557284,
+        2557285
+      ]
+    },
+    {
+      "reference_id": "20973",
+      "genre": "article",
+      "title": "On a collection of centipeds from Texas, New Mexico and Arizona (Chilopoda)",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "125",
+      "epage": "128",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557258",
+      "created": "2010-02-11 16:52:29",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "500",
+          "lastname": "Chamberlin",
+          "forename": "Ralph V"
+        },
+        {
+          "id": "18172",
+          "lastname": "Mulaik",
+          "forename": "Stanley"
+        }
+      ],
+      "bhl_pages": [
+        2557258,
+        2557259,
+        2557260,
+        2557261
+      ]
+    },
+    {
+      "reference_id": "84612",
+      "genre": "article",
+      "title": "New and little-known Utah Dolichopodidae (Diptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "129",
+      "epage": "134",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557262",
+      "created": "2011-08-10 22:53:47",
+      "updated": "2011-08-10 22:53:48",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557262,
+        2557263,
+        2557264,
+        2557265,
+        2557266,
+        2557267
+      ]
+    },
+    {
+      "reference_id": "65150",
+      "genre": "article",
+      "title": "The distribution of Reduviidae (Hemiptera) in Oklahoma",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "139",
+      "epage": "142",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557272",
+      "created": "2011-01-31 16:07:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44728",
+          "lastname": "Emerson",
+          "forename": "Kary Cadmus"
+        }
+      ],
+      "bhl_pages": [
+        2557272,
+        2557273,
+        2557274,
+        2557275
+      ]
+    },
+    {
+      "reference_id": "20974",
+      "genre": "article",
+      "title": "On a collection of centipeds from Texas, New Mexico and Arizona (Chilopoda)",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "156",
+      "epage": "158",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557363",
+      "created": "2010-02-11 16:58:19",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "500",
+          "lastname": "Chamberlin",
+          "forename": "Ralph V"
+        },
+        {
+          "id": "18172",
+          "lastname": "Mulaik",
+          "forename": "Stanley"
+        }
+      ],
+      "bhl_pages": [
+        2557363,
+        2557364,
+        2557365
+      ]
+    },
+    {
+      "reference_id": "84696",
+      "genre": "article",
+      "title": "Notes on North American Bostrichidae (Coleoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "192",
+      "epage": "193",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557393",
+      "created": "2011-08-10 22:59:57",
+      "updated": "2011-08-10 22:59:57",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557393,
+        2557394
+      ]
+    },
+    {
+      "reference_id": "70602",
+      "genre": "article",
+      "title": "A new Gomphus from Louisiana (Odonata, Gomphidae)",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "194",
+      "epage": "196",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557395",
+      "created": "2011-06-03 06:43:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39836",
+          "lastname": "Walker",
+          "forename": "E M"
+        }
+      ],
+      "bhl_pages": [
+        2557395,
+        2557396,
+        2557397
+      ]
+    },
+    {
+      "reference_id": "70604",
+      "genre": "article",
+      "title": "A new geranium aphid (Homoptera: Aphididae)",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "196",
+      "epage": "197",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557399",
+      "created": "2011-06-03 06:43:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45351",
+          "lastname": "",
+          "forename": "Knowlton"
+        }
+      ],
+      "bhl_pages": [
+        2557399,
+        2557465
+      ]
+    },
+    {
+      "reference_id": "105539",
+      "genre": "article",
+      "title": "How many insects are there in the World",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "219",
+      "epage": "222",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557456",
+      "created": "2012-07-29 14:16:22",
+      "updated": "2012-07-29 14:16:23",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557456,
+        2557457,
+        2557458,
+        2557459
+      ]
+    },
+    {
+      "reference_id": "12139",
+      "genre": "article",
+      "title": "New Mycetophilidae from North Carolina (Diptera)",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "243",
+      "epage": "247",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557508",
+      "created": "2010-01-08 16:20:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9007",
+          "lastname": "Fisher",
+          "forename": "Elisabeth Gault"
+        }
+      ],
+      "bhl_pages": [
+        2557508,
+        2557509,
+        2557510,
+        2557511,
+        2557512
+      ]
+    },
+    {
+      "reference_id": "73213",
+      "genre": "article",
+      "title": "Some Neotropical Syrphid flies",
+      "secondary_title": "Ent. News",
+      "volume": "51",
+      "spage": "247",
+      "epage": "250",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557512",
+      "created": "2011-06-04 08:02:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "772",
+          "lastname": "Hull",
+          "forename": "F M"
+        }
+      ],
+      "bhl_pages": [
+        2557512,
+        2557513,
+        2557514,
+        2557515
+      ]
+    },
+    {
+      "reference_id": "70603",
+      "genre": "article",
+      "title": "New Diplotaxis and new synonymy",
+      "secondary_title": "Entomological News",
+      "volume": "51",
+      "spage": "251",
+      "epage": "252",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557516",
+      "created": "2011-06-03 06:43:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46603",
+          "lastname": "M.a.",
+          "forename": "Cazier"
+        }
+      ],
+      "bhl_pages": [
+        2557516,
+        2557517
+      ]
+    },
+    {
+      "reference_id": "70672",
+      "genre": "article",
+      "title": "Notes and Descriptions of West American Cerambycidae - IV  (Coleoptera)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "51",
+      "spage": "253",
+      "epage": "258",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557518",
+      "created": "2011-06-03 06:47:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46113",
+          "lastname": "Gorton",
+          "forename": "Linsley Earle"
+        }
+      ],
+      "bhl_pages": [
+        2557518,
+        2557519,
+        2557520,
+        2557521,
+        2557522,
+        2557523
+      ]
+    },
+    {
+      "reference_id": "77694",
+      "genre": "article",
+      "title": "Flight Records Of Phyllophaga (Coleoptera: Scarabaeidae)",
+      "secondary_title": "Ent News",
+      "volume": "51",
+      "spage": "279",
+      "epage": "282",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557552",
+      "created": "2011-06-10 19:23:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49341",
+          "lastname": "Henry",
+          "forename": "H K"
+        },
+        {
+          "id": "49342",
+          "lastname": "Heit",
+          "forename": "C E"
+        }
+      ],
+      "bhl_pages": [
+        2557552,
+        2557482,
+        2557483,
+        2557484
+      ]
+    },
+    {
+      "reference_id": "84579",
+      "genre": "article",
+      "title": "Four new polydesmoid millipeds from North Carolina (Myriopoda)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "282",
+      "epage": "284",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557484",
+      "created": "2011-08-10 22:51:27",
+      "updated": "2011-08-10 22:51:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557484,
+        2557485,
+        2557486
+      ]
+    },
+    {
+      "reference_id": "70671",
+      "genre": "article",
+      "title": "Notes and Descriptions of West American Cerambycidae - IV  (Coleoptera)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "51",
+      "spage": "285",
+      "epage": "290",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557487",
+      "created": "2011-06-03 06:47:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46113",
+          "lastname": "Gorton",
+          "forename": "Linsley Earle"
+        }
+      ],
+      "bhl_pages": [
+        2557487,
+        2557488,
+        2557489,
+        2557490,
+        2557491,
+        2557492
+      ]
+    },
+    {
+      "reference_id": "84617",
+      "genre": "article",
+      "title": "New Cicadellidae (Homoptera)",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "51",
+      "spage": "290",
+      "epage": "293",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0013-872X",
+      "PageID": "2557492",
+      "created": "2011-08-10 22:54:14",
+      "updated": "2011-08-10 22:54:14",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2557492,
+        2557493,
+        2557494,
+        2557495
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "ItemID": "35882",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 43 1907",
+  "articles": [
+    {
+      "reference_id": "71132",
+      "genre": "article",
+      "title": "Description of a pest to the bamboo in India",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "43",
+      "spage": "10",
+      "epage": "11",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1568052",
+      "PageID": "8953300",
+      "created": "2011-06-03 17:56:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46761",
+          "lastname": "Distant",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        8953300,
+        8953301
+      ]
+    },
+    {
+      "reference_id": "58072",
+      "genre": "article",
+      "title": "On a remarkable new earwig (Dermatoptera) from Portuguese West Africa",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "43",
+      "spage": "60",
+      "epage": "62",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "8953360",
+      "created": "2010-11-20 19:48:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42077",
+          "lastname": "Burr",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        8953360,
+        8953361,
+        8953362
+      ]
+    },
+    {
+      "reference_id": "101958",
+      "genre": "article",
+      "title": "Some new African Siphonaptera",
+      "secondary_title": "The Entomologist's Monthly Magazine",
+      "volume": "43",
+      "spage": "175",
+      "epage": "176",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-8908",
+      "PageID": "8953499",
+      "created": "2012-03-23 13:59:56",
+      "updated": "2012-03-23 14:10:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42171",
+          "lastname": "Rothschild",
+          "forename": "N C"
+        }
+      ],
+      "bhl_pages": [
+        8953499,
+        8953500,
+        8953492
+      ]
+    }
+  ]
+}

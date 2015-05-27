@@ -1,0 +1,35 @@
+{
+  "ItemID": "45575",
+  "FullTitle": "Miscellanea entomologica; revue entomologique internationale. ",
+  "VolumeInfo": "v. 5-6 1897-98",
+  "articles": [
+    {
+      "reference_id": "73839",
+      "genre": "article",
+      "title": "Notes descriptives sur plusieurs Coleopteres et sur un Ichneumon (Hymenoptere)",
+      "secondary_title": "Miscellanea Entomologica",
+      "volume": "6",
+      "spage": "73",
+      "epage": "75",
+      "year": "1898",
+      "date": "1898-00-00",
+      "oclc": "13652156",
+      "PageID": "12654409",
+      "created": "2011-06-04 10:02:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39445",
+          "lastname": "Pic",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        12654409,
+        12654410,
+        12654411
+      ]
+    }
+  ]
+}

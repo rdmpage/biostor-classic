@@ -1,0 +1,354 @@
+{
+  "ItemID": "36483",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 11\/12 1874\/76",
+  "articles": [
+    {
+      "reference_id": "60545",
+      "genre": "article",
+      "title": "Descriptions of some new species of the genus Pachytricha",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "2",
+      "epage": "6",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9265723",
+      "created": "2010-11-23 01:39:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9265723,
+        9265722,
+        9265721,
+        9265720,
+        9265719
+      ]
+    },
+    {
+      "reference_id": "60521",
+      "genre": "article",
+      "title": "Descriptions of five new Lucanoid Coleoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "6",
+      "epage": "8",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9265719",
+      "created": "2010-11-23 01:19:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42194",
+          "lastname": "Waterhouse",
+          "forename": "C O"
+        }
+      ],
+      "bhl_pages": [
+        9265719,
+        9265718,
+        9265717
+      ]
+    },
+    {
+      "reference_id": "70955",
+      "genre": "article",
+      "title": "Description of a new species of Cetoniadae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "35",
+      "epage": "36",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1568052",
+      "PageID": "9265696",
+      "created": "2011-06-03 17:01:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9265696,
+        9265697
+      ]
+    },
+    {
+      "reference_id": "60453",
+      "genre": "article",
+      "title": "Notes on Cicindelidae and Carabidae, and descriptions of new species (No. 18)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "95",
+      "epage": "101",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9265779",
+      "created": "2010-11-23 00:46:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40116",
+          "lastname": "Bates",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        9265779,
+        9265780,
+        9265781,
+        9265782,
+        9265783,
+        9265784,
+        9265785
+      ]
+    },
+    {
+      "reference_id": "71177",
+      "genre": "article",
+      "title": "Description of a new species of Liburnia from Biskra (Algeria)",
+      "secondary_title": "Entomologist's Monthly Magazine. London",
+      "volume": "11",
+      "spage": "119",
+      "epage": "120",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1568052",
+      "PageID": "9265803",
+      "created": "2011-06-03 18:03:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42803",
+          "lastname": "Scott",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        9265803,
+        9265804
+      ]
+    },
+    {
+      "reference_id": "71002",
+      "genre": "article",
+      "title": "Description of two new Genera of Scarabaeidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "123",
+      "epage": "126",
+      "year": "1875",
+      "date": "1875-00-00",
+      "oclc": "1568052",
+      "PageID": "9265807",
+      "created": "2011-06-03 17:13:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9265807,
+        9265808,
+        9265809,
+        9265810
+      ]
+    },
+    {
+      "reference_id": "102544",
+      "genre": "article",
+      "title": "Francis Walker",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "140",
+      "epage": "141",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1568052",
+      "PageID": "9265824",
+      "created": "2012-04-25 06:36:20",
+      "updated": "2012-04-25 06:38:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53679",
+          "lastname": "Carrington",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        9265824,
+        9265825
+      ]
+    },
+    {
+      "reference_id": "70915",
+      "genre": "article",
+      "title": "On the synonymy of Pleocoma staff Schaufuss",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "206",
+      "epage": "207",
+      "year": "1875",
+      "date": "1875-00-00",
+      "oclc": "1568052",
+      "PageID": "9265890",
+      "created": "2011-06-03 16:52:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9265890,
+        9265891
+      ]
+    },
+    {
+      "reference_id": "72050",
+      "genre": "article",
+      "title": "Notes on Odonata from Newfoundland, collected in 1874 by Mr. John Milne",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "11",
+      "spage": "241",
+      "epage": "243",
+      "year": "1875",
+      "date": "1875-00-00",
+      "oclc": "1568052",
+      "PageID": "9265925",
+      "created": "2011-06-04 00:16:48",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46676",
+          "lastname": "De Selys Longchamps",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9265925,
+        9265926,
+        9265927
+      ]
+    },
+    {
+      "reference_id": "60510",
+      "genre": "article",
+      "title": "On three new species of Hydrophilidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "11",
+      "spage": "247",
+      "epage": "250",
+      "year": "1875",
+      "date": "1875-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9265931",
+      "created": "2010-11-23 01:14:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39916",
+          "lastname": "Sharp",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        9265931,
+        9265932,
+        9265933,
+        9265934
+      ]
+    },
+    {
+      "reference_id": "72007",
+      "genre": "article",
+      "title": "New genera and species of Prionid\u00e6 (Longicorn Coleoptera)",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "12",
+      "spage": "47",
+      "epage": "53",
+      "year": "1875",
+      "date": "1875-00-00",
+      "oclc": "1568052",
+      "PageID": "9266057",
+      "created": "2011-06-04 00:04:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46674",
+          "lastname": "Bates",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9266057,
+        9266058,
+        9266059,
+        9266060,
+        9266061,
+        9266062,
+        9266063
+      ]
+    },
+    {
+      "reference_id": "72929",
+      "genre": "article",
+      "title": "Descriptions of two new British Ichneumonidae",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "12",
+      "spage": "194",
+      "epage": "195",
+      "year": "1876",
+      "date": "1876-00-00",
+      "oclc": "1568052",
+      "PageID": "9266204",
+      "created": "2011-06-04 04:42:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40022",
+          "lastname": "Marshall",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        9266204,
+        9266205
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ItemID": "30046",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 39 (1902)",
+  "articles": [
+    {
+      "reference_id": "71405",
+      "genre": "article",
+      "title": "Diagnosen neuer Orthopteren aus S\u00fcdarabien und von der Insel Sokotra",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften",
+      "volume": "39",
+      "spage": "53",
+      "epage": "58",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "9782210",
+      "PageID": "6345437",
+      "created": "2011-06-03 19:45:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46409",
+          "lastname": "",
+          "forename": "Krauss"
+        }
+      ],
+      "bhl_pages": [
+        6345437,
+        6345438,
+        6345439,
+        6345440,
+        6345441,
+        6345442
+      ]
+    }
+  ]
+}

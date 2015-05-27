@@ -1,0 +1,38 @@
+{
+  "ItemID": "25973",
+  "FullTitle": "Descriptions of new fishes from Panama,  by S. E. Meek and S. F. Hildebrand.",
+  "VolumeInfo": "Fieldiana Zoology v.10, no.6",
+  "articles": [
+    {
+      "reference_id": "67167",
+      "genre": "article",
+      "title": "Descriptions of new fishes from Panama",
+      "secondary_title": "Field Museum of Natural History Publications Zoological Series",
+      "volume": "10",
+      "spage": "67",
+      "epage": "68",
+      "year": "1912",
+      "date": "1912-00-00",
+      "PageID": "4462515",
+      "created": "2011-05-19 09:25:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10222",
+          "lastname": "Meek",
+          "forename": "S E"
+        },
+        {
+          "id": "45475",
+          "lastname": "Hildebrand",
+          "forename": "S F"
+        }
+      ],
+      "bhl_pages": [
+        4462515,
+        4462529
+      ]
+    }
+  ]
+}

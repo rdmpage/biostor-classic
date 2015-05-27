@@ -1,0 +1,38 @@
+{
+  "ItemID": "52326",
+  "FullTitle": "Transactions of the Sapporo Natural History Society.  ",
+  "VolumeInfo": "v.8-10 1921-1929",
+  "articles": [
+    {
+      "reference_id": "69897",
+      "genre": "article",
+      "title": "Ueber die drei Arten der Untergattung  Oyamia (Plecoptera)",
+      "secondary_title": "Transactions of the Sapporo Natural History Society",
+      "volume": "8",
+      "spage": "45",
+      "epage": "50",
+      "year": "1921",
+      "date": "1921-00-00",
+      "oclc": "6611393",
+      "PageID": "15182734",
+      "created": "2011-06-02 07:48:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46405",
+          "lastname": "",
+          "forename": "Okamoto"
+        }
+      ],
+      "bhl_pages": [
+        15182734,
+        15182735,
+        15182736,
+        15182737,
+        15182738,
+        15182739
+      ]
+    }
+  ]
+}

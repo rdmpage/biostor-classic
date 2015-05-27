@@ -1,0 +1,62 @@
+{
+  "author": [
+    {
+      "firstname": "James R",
+      "lastname": "Mccranie",
+      "name": "James R Mccranie"
+    },
+    {
+      "firstname": "Larry David",
+      "lastname": "Wilson",
+      "name": "Larry David Wilson"
+    },
+    {
+      "firstname": "Kenneth L",
+      "lastname": "Williams",
+      "name": "Kenneth L Williams"
+    }
+  ],
+  "type": "article",
+  "title": "A new genus and species of toad (Anura: Bufonidae) with an extraordinary stream-adapted tadpole from northern Honduras",
+  "journal": {
+    "name": "Occasional papers of the Museum of Natural History (University of Kansas)",
+    "volume": "129",
+    "pages": "1--18",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1989",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/10"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/6217651"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 10
+    },
+    {
+      "type": "bhl",
+      "id": 6217651
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -86.783333333333,
+        15.633333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "ItemID": "30553",
+  "FullTitle": "Proceedings of the American Philosophical Society held at Philadelphia for promoting useful knowledge.  ",
+  "VolumeInfo": "58",
+  "articles": [
+    {
+      "reference_id": "20458",
+      "genre": "article",
+      "title": "Trogloglanis pattersoni a new blind fish from San Antonio, Texas",
+      "secondary_title": "Proceedings of the American Philosophical Society",
+      "volume": "58",
+      "spage": "397",
+      "epage": "400",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0003-049X",
+      "PageID": "6646227",
+      "created": "2010-02-09 17:24:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10214",
+          "lastname": "Eigenmann",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        6646227,
+        6646228,
+        6646229,
+        6646295
+      ]
+    },
+    {
+      "reference_id": "20449",
+      "genre": "article",
+      "title": "On the Luciopimelodinae, a new subfamily of the South American Siluridae",
+      "secondary_title": "Proceedings of the American Philosophical Society",
+      "volume": "58",
+      "spage": "448",
+      "epage": "456",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0003-049X",
+      "PageID": "6646315",
+      "created": "2010-02-09 17:22:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17797",
+          "lastname": "Driver",
+          "forename": "C S"
+        }
+      ],
+      "bhl_pages": [
+        6646315,
+        6646316,
+        6646317,
+        6646329,
+        6646330,
+        6646331,
+        6646332,
+        6646333,
+        6646334
+      ]
+    }
+  ]
+}

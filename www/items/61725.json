@@ -1,0 +1,597 @@
+{
+  "ItemID": "61725",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "7th ser. v. 13 (1904)",
+  "articles": [
+    {
+      "reference_id": "87012",
+      "genre": "article",
+      "title": "VII.\u2014On new forms of Anomalurus and Sciurus from tropical Africa",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "70",
+      "epage": "73",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930409487057",
+      "PageID": "18618797",
+      "created": "2011-09-23 08:20:54",
+      "updated": "2011-09-23 08:20:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51396",
+          "lastname": "Schwann",
+          "forename": "Harold"
+        }
+      ],
+      "bhl_pages": [
+        18618797,
+        18618798,
+        18618799,
+        18618800
+      ]
+    },
+    {
+      "reference_id": "87023",
+      "genre": "article",
+      "title": "VIII.\u2014On new species of Lyc\u00e6nid\u00e6 from Sierra Leone",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "73",
+      "epage": "76",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930409487058",
+      "PageID": "18618800",
+      "created": "2011-09-23 08:22:28",
+      "updated": "2011-09-23 08:22:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51400",
+          "lastname": "Cator",
+          "forename": "D"
+        }
+      ],
+      "bhl_pages": [
+        18618800,
+        18618801,
+        18618802,
+        18618803
+      ]
+    },
+    {
+      "reference_id": "65360",
+      "genre": "article",
+      "title": "Rhynchotal notes. XX",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "103",
+      "epage": "114",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "PageID": "18618840",
+      "created": "2011-02-21 16:55:10",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        18618840,
+        18618841,
+        18618842,
+        18618843,
+        18618844,
+        18618845,
+        18618846,
+        18618847,
+        18618848,
+        18618849,
+        18618850,
+        18618851
+      ]
+    },
+    {
+      "reference_id": "87218",
+      "genre": "article",
+      "title": "XVII.\u2014Two new mammals from South America",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "142",
+      "epage": "144",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930408562450",
+      "PageID": "18618879",
+      "created": "2011-09-23 09:17:18",
+      "updated": "2011-09-23 09:17:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        18618879,
+        18618880,
+        18618881
+      ]
+    },
+    {
+      "reference_id": "50195",
+      "genre": "article",
+      "title": "On the classification of the Crustacea Malacostraca",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "144",
+      "epage": "158",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "PageID": "18618881",
+      "created": "2010-04-27 11:29:18",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39788",
+          "lastname": "Calman",
+          "forename": "W T"
+        }
+      ],
+      "bhl_pages": [
+        18618881,
+        18618882,
+        18618883,
+        18618884,
+        18618885,
+        18618886,
+        18618887,
+        18618888,
+        18618889,
+        18618890,
+        18618891,
+        18618892,
+        18618893,
+        18618894,
+        18618895
+      ]
+    },
+    {
+      "reference_id": "20691",
+      "genre": "article",
+      "title": "On a collection of fishes made by Mr. John Graham at Yunnan Fu",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "190",
+      "epage": "194",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "PageID": "18618927",
+      "created": "2010-02-09 18:34:18",
+      "updated": "2011-09-21 17:07:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        18618927,
+        18618928,
+        18618929,
+        18618930,
+        18618931
+      ]
+    },
+    {
+      "reference_id": "65232",
+      "genre": "article",
+      "title": "Rhynchotal notes. XXI",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "194",
+      "epage": "206",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "PageID": "18618931",
+      "created": "2011-02-05 20:38:02",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        18618931,
+        18618932,
+        18618933,
+        18618934,
+        18618935,
+        18618936,
+        18618937,
+        18618938,
+        18618939,
+        18618940,
+        18618941,
+        18618942,
+        18618943
+      ]
+    },
+    {
+      "reference_id": "67380",
+      "genre": "article",
+      "title": "Description of a new Barbus from Cameroon",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "237",
+      "epage": "238",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "PageID": "18618974",
+      "created": "2011-05-26 14:38:57",
+      "updated": "2011-09-21 17:07:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        18618974,
+        18618975
+      ]
+    },
+    {
+      "reference_id": "86905",
+      "genre": "article",
+      "title": "Obituary notice: Dr. William Francis",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "239",
+      "epage": "240",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930408678905",
+      "PageID": "18618976",
+      "created": "2011-09-23 08:05:25",
+      "updated": "2011-09-23 08:05:25",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18618976,
+        18618977
+      ]
+    },
+    {
+      "reference_id": "87552",
+      "genre": "article",
+      "title": "XXXVI.\u2014An undescribed genus of Coreid\u00e6 from Borneo",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "303",
+      "epage": "304",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930409487071",
+      "PageID": "18619040",
+      "created": "2011-09-23 10:31:43",
+      "updated": "2011-09-23 10:31:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        18619040,
+        18619041
+      ]
+    },
+    {
+      "reference_id": "87589",
+      "genre": "article",
+      "title": "XXXVII.\u2014The collections of William John Burchell, D.C.L., in the Hope Department, Oxford University Museum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "305",
+      "epage": "323",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930409487072",
+      "PageID": "18619042",
+      "created": "2011-09-23 10:34:47",
+      "updated": "2011-09-23 10:34:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18619042,
+        18619043,
+        18619044,
+        18619045,
+        18619046,
+        18619047,
+        18619048,
+        18619049,
+        18619050,
+        18619051,
+        18619052,
+        18619053,
+        18619054,
+        18619055,
+        18619056,
+        18619057,
+        18619058,
+        18619059,
+        18619060
+      ]
+    },
+    {
+      "reference_id": "87524",
+      "genre": "article",
+      "title": "XXXIX.\u2014The phylogeny of the Teleostomi",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "329",
+      "epage": "349",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930408562455",
+      "PageID": "18619068",
+      "created": "2011-09-23 10:28:51",
+      "updated": "2011-09-23 10:28:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40351",
+          "lastname": "Regan",
+          "forename": "C Tate"
+        }
+      ],
+      "bhl_pages": [
+        18619068,
+        18619069,
+        18619070,
+        18619071,
+        18619072,
+        18619073,
+        18619074,
+        18619075,
+        18619076,
+        18619077,
+        18619078,
+        18619079,
+        18619080,
+        18619081,
+        18619082,
+        18619083,
+        18619084,
+        18619085,
+        18619086,
+        18619087,
+        18619088
+      ]
+    },
+    {
+      "reference_id": "87107",
+      "genre": "article",
+      "title": "XLI.\u2014The collections of William John Burchell, D.C.L., in the Hope Department, Oxford University Museum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "356",
+      "epage": "371",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930408562457",
+      "PageID": "18619095",
+      "created": "2011-09-23 08:51:38",
+      "updated": "2011-09-23 08:51:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51305",
+          "lastname": "Sanders",
+          "forename": "Cora B"
+        }
+      ],
+      "bhl_pages": [
+        18619095,
+        18619096,
+        18619097,
+        18619098,
+        18619099,
+        18619100,
+        18619101,
+        18619102,
+        18619103,
+        18619104,
+        18619105,
+        18619106,
+        18619107,
+        18619108,
+        18619109,
+        18619110
+      ]
+    },
+    {
+      "reference_id": "14668",
+      "genre": "article",
+      "title": "Notes on Phasmidae in the Collection of the British Museum (Natural History) South Kensington, with descriptions of new Species. No. I",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "13",
+      "series": "7",
+      "spage": "372",
+      "epage": "377",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "PageID": "18619111",
+      "created": "2010-01-21 15:11:33",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10318",
+          "lastname": "Kirby",
+          "forename": "W F"
+        }
+      ],
+      "bhl_pages": [
+        18619111,
+        18619112,
+        18619113,
+        18619114,
+        18619115,
+        18619116
+      ]
+    },
+    {
+      "reference_id": "14669",
+      "genre": "article",
+      "title": "Notes on Phasmidae in the Collection of the British Museum (Natural History) South Kensington, with descriptions of New Species. No. II",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "13",
+      "series": "7",
+      "spage": "429",
+      "epage": "449",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "PageID": "18619170",
+      "created": "2010-01-21 15:14:04",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10318",
+          "lastname": "Kirby",
+          "forename": "W F"
+        }
+      ],
+      "bhl_pages": [
+        18619170,
+        18619171,
+        18619172,
+        18619173,
+        18619174,
+        18619175,
+        18619176,
+        18619177,
+        18619178,
+        18619179,
+        18619180,
+        18619181,
+        18619182,
+        18619183,
+        18619184,
+        18619185,
+        18619186,
+        18619187,
+        18619188,
+        18619189,
+        18619190
+      ]
+    },
+    {
+      "reference_id": "69651",
+      "genre": "article",
+      "title": "LIII.\u2014Descriptions of three new snakes",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "450",
+      "epage": "452",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930408562477",
+      "PageID": "18619191",
+      "created": "2011-06-01 10:55:52",
+      "updated": "2012-01-13 08:39:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39412",
+          "lastname": "Boulenger",
+          "forename": "George A"
+        }
+      ],
+      "bhl_pages": [
+        18619191,
+        18619192,
+        18619193
+      ]
+    },
+    {
+      "reference_id": "86880",
+      "genre": "article",
+      "title": "Memoirs of the geological survey of the United Kingdom.\u2014The cretaceous rocks of Britain. Vol. III. The Upper Chalk of England. By A. J. Jukes-Browne. With contributions by William Hill, F.G.S. 8vo. Pp. x and 566. With 79 illustrations in the text and 1 pl",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "7",
+      "spage": "473",
+      "epage": "474",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222930408562480",
+      "PageID": "18619214",
+      "created": "2011-09-23 08:02:06",
+      "updated": "2011-09-23 08:02:06",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18619214,
+        18619215
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "ItemID": "36399",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France.  ",
+  "VolumeInfo": "1900",
+  "articles": [
+    {
+      "reference_id": "104933",
+      "genre": "article",
+      "title": "Cils vibratiles, et prolongements ciliformes chez les Arthropodes",
+      "secondary_title": "Bulletin De La Soci\u00e9t\u00e9 Entomologique De France",
+      "volume": "1900",
+      "spage": "27",
+      "epage": "28",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "1765811",
+      "PageID": "9210876",
+      "created": "2012-06-29 10:13:02",
+      "updated": "2012-06-29 10:13:02",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42115",
+          "lastname": "Giard",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9210876,
+        9210877
+      ]
+    },
+    {
+      "reference_id": "104908",
+      "genre": "article",
+      "title": "Nouveau P\u00e9ripate des environs de Rio-de-Janeiro",
+      "secondary_title": "Bulletin De La Soci\u00e9t\u00e9 Entomologique De France",
+      "volume": "1900",
+      "spage": "66",
+      "epage": "68",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "1765811",
+      "PageID": "9210938",
+      "created": "2012-06-29 09:55:48",
+      "updated": "2012-06-29 09:55:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50768",
+          "lastname": "Bouvier",
+          "forename": "E-L"
+        }
+      ],
+      "bhl_pages": [
+        9210938,
+        9210939,
+        9210940
+      ]
+    },
+    {
+      "reference_id": "71674",
+      "genre": "article",
+      "title": "Description d'une nouvelle esp\u00e8ce d'Hym\u00e9nopt\u00e8re (|Eupelmus xambeui|)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1900",
+      "spage": "81",
+      "epage": "82",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0037-928X",
+      "PageID": "9210953",
+      "created": "2011-06-03 22:45:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42115",
+          "lastname": "Giard",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        9210953,
+        9210954
+      ]
+    },
+    {
+      "reference_id": "11262",
+      "genre": "article",
+      "title": "Observations sur le Peripatopsis moseleyi",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1900",
+      "spage": "119",
+      "epage": "121",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0037-928X",
+      "PageID": "9210991",
+      "created": "2010-01-07 13:07:00",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8509",
+          "lastname": "Bouvier",
+          "forename": "E L"
+        }
+      ],
+      "bhl_pages": [
+        9210991,
+        9210992,
+        9210993
+      ]
+    },
+    {
+      "reference_id": "57575",
+      "genre": "article",
+      "title": "Note sur le genre Pristaulacus Kieff [Hym\u00e9n]",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1900",
+      "spage": "338",
+      "epage": "339",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0037-928X",
+      "PageID": "9211212",
+      "created": "2010-11-20 14:01:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42058",
+          "lastname": "Kieffer",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        9211212,
+        9211213
+      ]
+    },
+    {
+      "reference_id": "11263",
+      "genre": "article",
+      "title": "Observations nouvelles sur les Peripatus",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1900",
+      "spage": "394",
+      "epage": "395",
+      "year": "1900",
+      "date": "1900-00-00",
+      "issn": "0037-928X",
+      "PageID": "9211268",
+      "created": "2010-01-07 13:08:14",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8509",
+          "lastname": "Bouvier",
+          "forename": "E L"
+        }
+      ],
+      "bhl_pages": [
+        9211268,
+        9211269
+      ]
+    }
+  ]
+}

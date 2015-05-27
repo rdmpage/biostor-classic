@@ -1,0 +1,82 @@
+{
+  "ItemID": "31541",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.140 (1905)",
+  "articles": [
+    {
+      "reference_id": "104674",
+      "genre": "article",
+      "title": "Un nouveau type cellulaire de Gregarine a cytoplasme metamerise",
+      "secondary_title": "Cr Ac Sci",
+      "volume": "140",
+      "spage": "524",
+      "epage": "526",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0001-4036",
+      "PageID": "7178472",
+      "created": "2012-06-26 10:30:30",
+      "updated": "2012-06-26 10:30:30",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        7178472,
+        7178473,
+        7178474
+      ]
+    },
+    {
+      "reference_id": "77810",
+      "genre": "article",
+      "title": "Sur quelques Crustac\u00e9s provenant des campagnes de la Princesse-Alice (filet \u00e0 grande ouverture)",
+      "secondary_title": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences",
+      "volume": "140",
+      "spage": "1113",
+      "epage": "1115",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1124612",
+      "PageID": "7179061",
+      "created": "2011-06-15 09:23:28",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "484",
+          "lastname": "Couti\u00e8re",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        7179061,
+        7179062,
+        7179063
+      ]
+    },
+    {
+      "reference_id": "104676",
+      "genre": "article",
+      "title": "Sur la denomination de l'agent presume de la syphilis",
+      "secondary_title": "Cr Ac Sci",
+      "volume": "140",
+      "spage": "1567",
+      "epage": "1568",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0001-4036",
+      "PageID": "7179515",
+      "created": "2012-06-26 10:30:38",
+      "updated": "2012-06-26 10:30:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        7179515,
+        7179516
+      ]
+    }
+  ]
+}

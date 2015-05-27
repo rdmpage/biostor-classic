@@ -1,0 +1,2581 @@
+{
+  "ItemID": "52770",
+  "FullTitle": "Proceedings of the United States National Museum.",
+  "VolumeInfo": "v. 8 1885",
+  "articles": [
+    {
+      "reference_id": "14418",
+      "genre": "article",
+      "title": "List of fishes collected in Iowa and Missouri in August, 1884, with descriptions of three new species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "1",
+      "epage": "17",
+      "year": "1885",
+      "date": "1885-05-06",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:18EE762A-393F-4E16-B7D9-1491A6FDFAC7",
+      "PageID": "15382964",
+      "created": "2010-01-14 13:36:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10222",
+          "lastname": "Meek",
+          "forename": "S E"
+        }
+      ],
+      "bhl_pages": [
+        15382964,
+        15382963,
+        15382962,
+        15382961,
+        15382960,
+        15382927,
+        15382928,
+        15382929,
+        15382930,
+        15382931,
+        15382932,
+        15382933,
+        15382934,
+        15382935,
+        15382936,
+        15382937,
+        15382938
+      ]
+    },
+    {
+      "reference_id": "78501",
+      "genre": "article",
+      "title": "Icterus cucullatus, Swainson, and its geographical variations",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "18",
+      "epage": "19",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15382939",
+      "created": "2011-06-30 15:12:34",
+      "updated": "2011-06-30 15:12:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15382939,
+        15382940
+      ]
+    },
+    {
+      "reference_id": "78502",
+      "genre": "article",
+      "title": "Passer saturatus, a new species of tree-sparrow from the Liu-Kiu Islands, Japan",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "19",
+      "epage": "20",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15382940",
+      "created": "2011-06-30 15:12:37",
+      "updated": "2011-06-30 15:12:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "485",
+          "lastname": "Stejneger",
+          "forename": "Leonhard"
+        }
+      ],
+      "bhl_pages": [
+        15382940,
+        15382941
+      ]
+    },
+    {
+      "reference_id": "78518",
+      "genre": "article",
+      "title": "Note on the Anser leucopareius of Brandt",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "21",
+      "epage": "22",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15382942",
+      "created": "2011-06-30 15:14:11",
+      "updated": "2011-06-30 15:14:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15382942,
+        15382943
+      ]
+    },
+    {
+      "reference_id": "78492",
+      "genre": "article",
+      "title": "Description of two new birds from Costa Rica",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "23",
+      "epage": "24",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15382944",
+      "created": "2011-06-30 15:11:35",
+      "updated": "2011-06-30 15:11:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15382944,
+        15382945
+      ]
+    },
+    {
+      "reference_id": "78493",
+      "genre": "article",
+      "title": "Description of three supposed new honey creepers from the Lesser Antilles, with a synopsis of the species of the genus Certhiola",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "25",
+      "epage": "30",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15382946",
+      "created": "2011-06-30 15:11:47",
+      "updated": "2011-06-30 15:11:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15382946,
+        15382947,
+        15382948,
+        15382949,
+        15382950,
+        15382951
+      ]
+    },
+    {
+      "reference_id": "78494",
+      "genre": "article",
+      "title": "On hornblende andesites from the new volcano on Bogosloff Island in Bering Sea",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "31",
+      "epage": "33",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15382952",
+      "created": "2011-06-30 15:11:55",
+      "updated": "2011-06-30 15:11:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49677",
+          "lastname": "Merrill",
+          "forename": "George P"
+        }
+      ],
+      "bhl_pages": [
+        15382952,
+        15382953,
+        15382954
+      ]
+    },
+    {
+      "reference_id": "78495",
+      "genre": "article",
+      "title": "On Cathartes burrovianus, Cassin, and C. urubitinga, Pelzeln",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "34",
+      "epage": "36",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15382955",
+      "created": "2011-06-30 15:12:00",
+      "updated": "2011-06-30 15:12:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49678",
+          "lastname": "Ridgeway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15382955,
+        15382956,
+        15382957
+      ]
+    },
+    {
+      "reference_id": "14322",
+      "genre": "article",
+      "title": "Notes and descriptions taken from selachians in the U.S. National Museum",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "39",
+      "epage": "44",
+      "year": "1885",
+      "date": "1885-05-06",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:AB3CB5B2-02CA-434F-B4A3-431127626730",
+      "PageID": "15382979",
+      "created": "2010-01-14 13:05:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        15382979,
+        15382980,
+        15382981,
+        15382982,
+        15382983,
+        15382984
+      ]
+    },
+    {
+      "reference_id": "14216",
+      "genre": "article",
+      "title": "A review of the American species of flying fishes (Exocoetus)",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "44",
+      "epage": "67",
+      "year": "1885",
+      "date": "1885-05-06",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:5096046B-6503-43B2-A1CC-AD9E9255438C",
+      "PageID": "15382984",
+      "created": "2010-01-14 12:30:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "10222",
+          "lastname": "Meek",
+          "forename": "S E"
+        }
+      ],
+      "bhl_pages": [
+        15382984,
+        15382985,
+        15382986,
+        15382987,
+        15382988,
+        15382989,
+        15382990,
+        15382991,
+        15382992,
+        15382993,
+        15382994,
+        15382995,
+        15382996,
+        15382997,
+        15382998,
+        15382999,
+        15383000,
+        15383001,
+        15383002,
+        15383003,
+        15383004,
+        15383005,
+        15383006,
+        15383007
+      ]
+    },
+    {
+      "reference_id": "78491",
+      "genre": "article",
+      "title": "Notes on skeletons of Etheostomatinae",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "68",
+      "epage": "72",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383008",
+      "created": "2011-06-30 15:11:28",
+      "updated": "2011-06-30 15:11:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        },
+        {
+          "id": "2959",
+          "lastname": "Eigenmann",
+          "forename": "Carl H"
+        }
+      ],
+      "bhl_pages": [
+        15383008,
+        15383009,
+        15383010,
+        15383011,
+        15383012
+      ]
+    },
+    {
+      "reference_id": "14281",
+      "genre": "article",
+      "title": "Note on the scientific name of the yellow perch, the striped bass, and other North American fishes",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "72",
+      "epage": "73",
+      "year": "1885",
+      "date": "1885-05-06",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:817B32B9-DAA1-495B-B161-185617AD61B1",
+      "PageID": "15383012",
+      "created": "2010-01-14 13:01:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        15383012,
+        15383013
+      ]
+    },
+    {
+      "reference_id": "14400",
+      "genre": "article",
+      "title": "Description of a new species of Plectromus (P. crassiceps) taken by the United States Fish Commission",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "73",
+      "epage": "74",
+      "year": "1885",
+      "date": "1885-05-06",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:F66D70A2-A206-428E-9B9C-C0659E60370D",
+      "PageID": "15383013",
+      "created": "2010-01-14 13:12:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        15383013,
+        15383014
+      ]
+    },
+    {
+      "reference_id": "14329",
+      "genre": "article",
+      "title": "Description of a new species of Aspidophoroides (A. g\u00fcntherii), from Alaska",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "74",
+      "epage": "75",
+      "year": "1885",
+      "date": "1885-05-06",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:B1C187BD-EAC1-409B-BE4F-5D3816324417",
+      "PageID": "15383014",
+      "created": "2010-01-14 13:05:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        15383014,
+        15383015
+      ]
+    },
+    {
+      "reference_id": "78485",
+      "genre": "article",
+      "title": "Remarks on the type specimen of Buteo oxypterus, Cassin",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "75",
+      "epage": "77",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383015",
+      "created": "2011-06-30 15:10:57",
+      "updated": "2011-06-30 15:10:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15383015,
+        15383016,
+        15383017
+      ]
+    },
+    {
+      "reference_id": "78486",
+      "genre": "article",
+      "title": "Early iron manufacture in Virginia.1619-1776",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "77",
+      "epage": "80",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383017",
+      "created": "2011-06-30 15:11:03",
+      "updated": "2011-06-30 15:11:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49676",
+          "lastname": "Brock",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        15383017,
+        15383018,
+        15383019,
+        15383020
+      ]
+    },
+    {
+      "reference_id": "78487",
+      "genre": "article",
+      "title": "Note on Mr. Garman's paper on \"The American Salmon and Trout\"",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "81",
+      "epage": "83",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383021",
+      "created": "2011-06-30 15:11:06",
+      "updated": "2011-06-30 15:11:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        15383021,
+        15383022,
+        15383023
+      ]
+    },
+    {
+      "reference_id": "78488",
+      "genre": "article",
+      "title": "Report upon the Echini collected by the United States Fish Commission steamer Albatross, in the Caribbean Sea and Gulf of Mexico, January to May, 1884",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "83",
+      "epage": "89",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383023",
+      "created": "2011-06-30 15:11:10",
+      "updated": "2011-06-30 15:11:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49656",
+          "lastname": "Rathbun",
+          "forename": "Richard"
+        }
+      ],
+      "bhl_pages": [
+        15383023,
+        15383024,
+        15383025,
+        15383026,
+        15383027,
+        15383028,
+        15383029
+      ]
+    },
+    {
+      "reference_id": "78489",
+      "genre": "article",
+      "title": "An account of recent captures of the California sea-elephant, and statistics relating to the present abundance of the species",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "90",
+      "epage": "93",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383030",
+      "created": "2011-06-30 15:11:20",
+      "updated": "2011-06-30 15:11:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49660",
+          "lastname": "Townsend",
+          "forename": "Charles H"
+        }
+      ],
+      "bhl_pages": [
+        15383030,
+        15383031,
+        15383032,
+        15383033
+      ]
+    },
+    {
+      "reference_id": "78490",
+      "genre": "article",
+      "title": "Description of a new species of boat-billed heron from Central America",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "93",
+      "epage": "94",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383033",
+      "created": "2011-06-30 15:11:23",
+      "updated": "2011-06-30 15:11:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15383033,
+        15383034
+      ]
+    },
+    {
+      "reference_id": "78503",
+      "genre": "article",
+      "title": "Description of a new hawk from Cozumel",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "94",
+      "epage": "95",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383034",
+      "created": "2011-06-30 15:12:41",
+      "updated": "2011-06-30 15:12:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15383034,
+        15383035
+      ]
+    },
+    {
+      "reference_id": "65861",
+      "genre": "article",
+      "title": "On a new species of porpoise, Phocaena dalli, from Alaska",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "95",
+      "epage": "98",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383035",
+      "created": "2011-04-27 19:27:42",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45031",
+          "lastname": "True",
+          "forename": "Frederick W"
+        }
+      ],
+      "bhl_pages": [
+        15383035,
+        15383036,
+        15383037,
+        15383038
+      ]
+    },
+    {
+      "reference_id": "78504",
+      "genre": "article",
+      "title": "On Peucaea mexicana (Lawr.) a sparrow new to the United States",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "98",
+      "epage": "99",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383038",
+      "created": "2011-06-30 15:12:46",
+      "updated": "2011-06-30 15:12:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15383038,
+        15383039
+      ]
+    },
+    {
+      "reference_id": "78505",
+      "genre": "article",
+      "title": "On deposits of volcanic dust and sand in southwestern Nebraska",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "99",
+      "epage": "100",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383039",
+      "created": "2011-06-30 15:12:51",
+      "updated": "2011-06-30 15:12:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49677",
+          "lastname": "Merrill",
+          "forename": "George P"
+        }
+      ],
+      "bhl_pages": [
+        15383039,
+        15383040
+      ]
+    },
+    {
+      "reference_id": "78506",
+      "genre": "article",
+      "title": "On the influence of atropia on the heart",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "101",
+      "epage": "103",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383041",
+      "created": "2011-06-30 15:12:54",
+      "updated": "2011-06-30 15:12:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49680",
+          "lastname": "Beyer",
+          "forename": "H G"
+        }
+      ],
+      "bhl_pages": [
+        15383041,
+        15383042,
+        15383043
+      ]
+    },
+    {
+      "reference_id": "78507",
+      "genre": "article",
+      "title": "Catalogue of the birds of Costa Rica, indicating those species of which the United States National Museum possesses specimens from that country",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "104",
+      "epage": "118",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383044",
+      "created": "2011-06-30 15:13:04",
+      "updated": "2011-06-30 15:13:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49681",
+          "lastname": "Zeledon",
+          "forename": "Jose C"
+        }
+      ],
+      "bhl_pages": [
+        15383044,
+        15383045,
+        15383046,
+        15383047,
+        15383048,
+        15383049,
+        15383050,
+        15383051,
+        15383052,
+        15383053,
+        15383054,
+        15383055,
+        15383056,
+        15383057,
+        15383058
+      ]
+    },
+    {
+      "reference_id": "14365",
+      "genre": "article",
+      "title": "Identification of the species of Cyprinidae and Catostomidae, described by Dr. Charles Girard, in the Proceedings of the Academy of Natural Sciences of Philadelphia for 1856",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "118",
+      "epage": "127",
+      "year": "1885",
+      "date": "1885-06-19",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:D8862275-49AD-4BD1-9810-F6729FB6D1CD",
+      "PageID": "15383058",
+      "created": "2010-01-14 13:09:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        15383058,
+        15383059,
+        15383060,
+        15383061,
+        15383062,
+        15383063,
+        15383064,
+        15383065,
+        15383066,
+        15383067
+      ]
+    },
+    {
+      "reference_id": "14405",
+      "genre": "article",
+      "title": "On the development of viviparous osseous fishes",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "128",
+      "epage": "155",
+      "year": "1885",
+      "date": "1885-06-19",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:FC0B261C-299C-4665-864A-8494A5954E37",
+      "PageID": "15383068",
+      "created": "2010-01-14 13:13:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10250",
+          "lastname": "Ryder",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        15383068,
+        15383069,
+        15383070,
+        15383071,
+        15383072,
+        15383073,
+        15383074,
+        15383075,
+        15383076,
+        15383077,
+        15383078,
+        15383079,
+        15383080,
+        15383081,
+        15383082,
+        15383083,
+        15383084,
+        15383085,
+        15383086,
+        15383087,
+        15383088,
+        15383089,
+        15383090,
+        15383091,
+        15383092,
+        15383093,
+        15383094,
+        15383095
+      ]
+    },
+    {
+      "reference_id": "78508",
+      "genre": "article",
+      "title": "On certain features of the development of the salmon",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "156",
+      "epage": "162",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383096",
+      "created": "2011-06-30 15:13:13",
+      "updated": "2011-06-30 15:13:13",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49675",
+          "lastname": "Ryder",
+          "forename": "John A"
+        }
+      ],
+      "bhl_pages": [
+        15383096,
+        15383097,
+        15383098,
+        15383099,
+        15383100,
+        15383101,
+        15383102
+      ]
+    },
+    {
+      "reference_id": "78509",
+      "genre": "article",
+      "title": "On the Etheostoma variatum of Kirtland",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "163",
+      "epage": "165",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383103",
+      "created": "2011-06-30 15:13:33",
+      "updated": "2011-06-30 15:13:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        15383103,
+        15383104,
+        15383105
+      ]
+    },
+    {
+      "reference_id": "78510",
+      "genre": "article",
+      "title": "On the occurrence of Hadropterus aurantiacus (Cope), in the French Broad River, North Carolina",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "165",
+      "epage": "166",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383105",
+      "created": "2011-06-30 15:13:38",
+      "updated": "2011-06-30 15:13:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2951",
+          "lastname": "Bean",
+          "forename": "Tarleton H"
+        }
+      ],
+      "bhl_pages": [
+        15383105,
+        15383106
+      ]
+    },
+    {
+      "reference_id": "78511",
+      "genre": "article",
+      "title": "On the identity of Cottus maoulatus, Fischer, with Cottus bubalis, Euphrasen",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "166",
+      "epage": "167",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383106",
+      "created": "2011-06-30 15:13:42",
+      "updated": "2011-06-30 15:13:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2951",
+          "lastname": "Bean",
+          "forename": "Tarleton H"
+        }
+      ],
+      "bhl_pages": [
+        15383106,
+        15383107
+      ]
+    },
+    {
+      "reference_id": "67121",
+      "genre": "article",
+      "title": "Description of a new crustacean allied to Homarus and Nephrops",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "167",
+      "epage": "170",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383107",
+      "created": "2011-05-12 17:01:33",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10086",
+          "lastname": "Smith",
+          "forename": "Sidney I"
+        }
+      ],
+      "bhl_pages": [
+        15383107,
+        15383108,
+        15383109,
+        15383110
+      ]
+    },
+    {
+      "reference_id": "60130",
+      "genre": "article",
+      "title": "On some genera and species of Penaeidae, mostly from recent dredgings of the United States Fish Commission",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "170",
+      "epage": "176",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383110",
+      "created": "2010-11-22 19:36:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42769",
+          "lastname": "Smith",
+          "forename": "S F"
+        }
+      ],
+      "bhl_pages": [
+        15383110,
+        15383111,
+        15383112,
+        15383113,
+        15383114,
+        15383115,
+        15383116
+      ]
+    },
+    {
+      "reference_id": "95719",
+      "genre": "article",
+      "title": "On some genera and species of Penaeidae, mostly from recent dredgings of the United States Fish Commission",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "170",
+      "epage": "190",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383110",
+      "created": "2011-10-10 05:38:18",
+      "updated": "2011-10-10 05:38:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        15383110,
+        15383111,
+        15383112,
+        15383113,
+        15383114,
+        15383115,
+        15383116,
+        15383117,
+        15383118,
+        15383119,
+        15383120,
+        15383121,
+        15383122,
+        15383123,
+        15383124,
+        15383125,
+        15383126,
+        15383127,
+        15383128,
+        15383129,
+        15383130
+      ]
+    },
+    {
+      "reference_id": "14347",
+      "genre": "article",
+      "title": "On Stathmonotus, a new genus of fishes related to Muraenoides, from Florida",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "191",
+      "epage": "192",
+      "year": "1885",
+      "date": "1885-06-29",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:C0930537-B956-4B85-A1A3-A07EC6393859",
+      "PageID": "15383131",
+      "created": "2010-01-14 13:07:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        15383131,
+        15383132
+      ]
+    },
+    {
+      "reference_id": "78512",
+      "genre": "article",
+      "title": "Note on Stoasodon narinari, Euphrasen",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "192",
+      "epage": "193",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383132",
+      "created": "2011-06-30 15:13:48",
+      "updated": "2011-06-30 15:13:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2951",
+          "lastname": "Bean",
+          "forename": "Tarleton H"
+        }
+      ],
+      "bhl_pages": [
+        15383132,
+        15383133
+      ]
+    },
+    {
+      "reference_id": "14383",
+      "genre": "article",
+      "title": "On the American fishes in the Linnaean collection",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "193",
+      "epage": "208",
+      "year": "1885",
+      "date": "1885-06-29",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:ED1F0A6D-1766-4331-8921-068DE591E64B",
+      "PageID": "15383133",
+      "created": "2010-01-14 13:10:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10249",
+          "lastname": "Goode",
+          "forename": "G B"
+        },
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        15383133,
+        15383134,
+        15383135,
+        15383136,
+        15383137,
+        15383138,
+        15383139,
+        15383140,
+        15383141,
+        15383142,
+        15383143,
+        15383144,
+        15383145,
+        15383146,
+        15383147,
+        15383148
+      ]
+    },
+    {
+      "reference_id": "78513",
+      "genre": "article",
+      "title": "Note on Epinephelus nigritus",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "208",
+      "epage": "209",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383148",
+      "created": "2011-06-30 15:13:51",
+      "updated": "2011-06-30 15:13:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        15383148,
+        15383149
+      ]
+    },
+    {
+      "reference_id": "51867",
+      "genre": "article",
+      "title": "Description of a new species of Amblystoma (Amblystoma copeianum) from Indiana",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "209",
+      "epage": "213",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383149",
+      "created": "2010-06-27 09:00:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10202",
+          "lastname": "Hay",
+          "forename": "O P"
+        }
+      ],
+      "bhl_pages": [
+        15383149,
+        15383150,
+        15383151,
+        15383152,
+        15383153
+      ]
+    },
+    {
+      "reference_id": "78514",
+      "genre": "article",
+      "title": "List of plants collected by Mr. Charles L. McKay at Nushagak, Alaska, in 1881, for the United States National Museum",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "213",
+      "epage": "214",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383153",
+      "created": "2011-06-30 15:13:55",
+      "updated": "2011-06-30 15:13:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49682",
+          "lastname": "Knowlton",
+          "forename": "Frank H"
+        }
+      ],
+      "bhl_pages": [
+        15383153,
+        15383154
+      ]
+    },
+    {
+      "reference_id": "14315",
+      "genre": "article",
+      "title": "The generic name of the pastinacas, or \u201csting rays.\u201d",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "221",
+      "epage": "224",
+      "year": "1885",
+      "date": "1885-07-24",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:A85139EE-8231-428C-B496-106DA4074E81",
+      "PageID": "15383161",
+      "created": "2010-01-14 13:04:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "797",
+          "lastname": "Garman",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        15383161,
+        15383162,
+        15383163,
+        15383164
+      ]
+    },
+    {
+      "reference_id": "78515",
+      "genre": "article",
+      "title": "The influence of variations of temperature upon the rate and the work of the heart of the slider terrapin (Pseudemys rugosa)",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "225",
+      "epage": "229",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383165",
+      "created": "2011-06-30 15:13:59",
+      "updated": "2011-06-30 15:13:59",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49680",
+          "lastname": "Beyer",
+          "forename": "H G"
+        }
+      ],
+      "bhl_pages": [
+        15383165,
+        15383166,
+        15383167,
+        15383168,
+        15383169
+      ]
+    },
+    {
+      "reference_id": "14155",
+      "genre": "article",
+      "title": "Description of a new species of Pempheris (Pempheris poeyi) from Cuba",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "229",
+      "epage": "230",
+      "year": "1885",
+      "date": "1885-07-24",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:2507787E-B3CC-4493-BF05-114342BEB92E",
+      "PageID": "15383169",
+      "created": "2010-01-14 12:23:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10206",
+          "lastname": "Bean",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        15383169,
+        15383170
+      ]
+    },
+    {
+      "reference_id": "78516",
+      "genre": "article",
+      "title": "Notes on Epinephelus nigritus, Caulolatilus microps, and Coryphaena hippurus",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "230",
+      "epage": "233",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383170",
+      "created": "2011-06-30 15:14:03",
+      "updated": "2011-06-30 15:14:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2951",
+          "lastname": "Bean",
+          "forename": "Tarleton H"
+        }
+      ],
+      "bhl_pages": [
+        15383170,
+        15383171,
+        15383172,
+        15383173
+      ]
+    },
+    {
+      "reference_id": "78517",
+      "genre": "article",
+      "title": "List of the birds of Labrador, including Ungava, East Main, Moose, and Gulfdistricts of the Hudson Bay Company, together with the Island of Anticosti",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "233",
+      "epage": "254",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383173",
+      "created": "2011-06-30 15:14:06",
+      "updated": "2011-06-30 15:14:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49683",
+          "lastname": "Turner",
+          "forename": "Lucien M"
+        }
+      ],
+      "bhl_pages": [
+        15383173,
+        15383174,
+        15383175,
+        15383176,
+        15383177,
+        15383178,
+        15383179,
+        15383180,
+        15383181,
+        15383182,
+        15383183,
+        15383184,
+        15383185,
+        15383186,
+        15383187,
+        15383188,
+        15383189,
+        15383190,
+        15383191,
+        15383192,
+        15383193,
+        15383194
+      ]
+    },
+    {
+      "reference_id": "78519",
+      "genre": "article",
+      "title": "Notes on some Floridian land and fresh-water shells with a revision of the Auriculacea of the eastern United States",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "255",
+      "epage": "289",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383195",
+      "created": "2011-06-30 15:14:18",
+      "updated": "2011-06-30 15:14:18",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        15383195,
+        15383196,
+        15383197,
+        15383198,
+        15383199,
+        15383200,
+        15383201,
+        15383202,
+        15383203,
+        15383204,
+        15383205,
+        15383206,
+        15383207,
+        15383208,
+        15383209,
+        15383210,
+        15383211,
+        15383212,
+        15383213,
+        15383214,
+        15383215,
+        15383216,
+        15383217,
+        15383218,
+        15383219,
+        15383220,
+        15383221,
+        15383222,
+        15383223,
+        15383224,
+        15383225,
+        15383226,
+        15383227,
+        15383228,
+        15383229
+      ]
+    },
+    {
+      "reference_id": "78520",
+      "genre": "article",
+      "title": "A list of the Mesozoic and Cenozoic types in the collections of the U. S. National Museum",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "290",
+      "epage": "344",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383230",
+      "created": "2011-06-30 15:14:23",
+      "updated": "2011-06-30 15:14:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49684",
+          "lastname": "Marcou",
+          "forename": "John Belknap"
+        }
+      ],
+      "bhl_pages": [
+        15383230,
+        15383231,
+        15383232,
+        15383233,
+        15383234,
+        15383235,
+        15383236,
+        15383237,
+        15383238,
+        15383239,
+        15383240,
+        15383241,
+        15383242,
+        15383243,
+        15383244,
+        15383245,
+        15383246,
+        15383247,
+        15383248,
+        15383249,
+        15383250,
+        15383251,
+        15383252,
+        15383253,
+        15383254,
+        15383255,
+        15383256,
+        15383257,
+        15383258,
+        15383259,
+        15383260,
+        15383261,
+        15383262,
+        15383263,
+        15383264,
+        15383265,
+        15383266,
+        15383267,
+        15383268,
+        15383269,
+        15383270,
+        15383271,
+        15383272,
+        15383273,
+        15383274,
+        15383275,
+        15383276,
+        15383277,
+        15383278,
+        15383279,
+        15383280,
+        15383281,
+        15383282,
+        15383283,
+        15383284
+      ]
+    },
+    {
+      "reference_id": "78521",
+      "genre": "article",
+      "title": "On Turbinella pyrum, Lamarck, and its dentition",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "345",
+      "epage": "348",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383285",
+      "created": "2011-06-30 15:14:28",
+      "updated": "2011-06-30 15:14:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10066",
+          "lastname": "Dall",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        15383285,
+        15383286,
+        15383287,
+        15383288
+      ]
+    },
+    {
+      "reference_id": "78522",
+      "genre": "article",
+      "title": "A review of the American \"golden warblers\"",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "348",
+      "epage": "350",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383288",
+      "created": "2011-06-30 15:14:33",
+      "updated": "2011-06-30 15:14:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15383288,
+        15383289,
+        15383290
+      ]
+    },
+    {
+      "reference_id": "78523",
+      "genre": "article",
+      "title": "Notes on the mineralogy and lithology of the District of Columbia",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "351",
+      "epage": "353",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383291",
+      "created": "2011-06-30 15:14:36",
+      "updated": "2011-06-30 15:14:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49677",
+          "lastname": "Merrill",
+          "forename": "George P"
+        }
+      ],
+      "bhl_pages": [
+        15383291,
+        15383292,
+        15383293
+      ]
+    },
+    {
+      "reference_id": "78524",
+      "genre": "article",
+      "title": "Some emended names of North American birds",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "354",
+      "epage": "356",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383294",
+      "created": "2011-06-30 15:14:40",
+      "updated": "2011-06-30 15:14:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15383294,
+        15383295,
+        15383296
+      ]
+    },
+    {
+      "reference_id": "78525",
+      "genre": "article",
+      "title": "A list of the Astacidae in the United States National Museum",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "356",
+      "epage": "361",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383296",
+      "created": "2011-06-30 15:14:43",
+      "updated": "2011-06-30 15:14:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49685",
+          "lastname": "Faxon",
+          "forename": "Walter"
+        }
+      ],
+      "bhl_pages": [
+        15383296,
+        15383297,
+        15383298,
+        15383299,
+        15383300,
+        15383301
+      ]
+    },
+    {
+      "reference_id": "14351",
+      "genre": "article",
+      "title": "A list of the fishes known from the Pacific coast of tropical America, from the Tropic of Cancer to Panama",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "361",
+      "epage": "394",
+      "year": "1885",
+      "date": "1885-10-03",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:C683A8E7-4B82-49E8-BC03-E4173FA7D2EA",
+      "PageID": "15383301",
+      "created": "2010-01-14 13:07:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10203",
+          "lastname": "Jordan",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        15383301,
+        15383302,
+        15383303,
+        15383304,
+        15383305,
+        15383306,
+        15383307,
+        15383308,
+        15383309,
+        15383310,
+        15383311,
+        15383312,
+        15383313,
+        15383314,
+        15383315,
+        15383316,
+        15383317,
+        15383318,
+        15383319,
+        15383320,
+        15383321,
+        15383322,
+        15383323,
+        15383324,
+        15383325,
+        15383326,
+        15383327,
+        15383328,
+        15383329,
+        15383330,
+        15383331,
+        15383332,
+        15383333,
+        15383334
+      ]
+    },
+    {
+      "reference_id": "78526",
+      "genre": "article",
+      "title": "Note on some Linnaean names of American fishes",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "394",
+      "epage": "396",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383334",
+      "created": "2011-06-30 15:14:46",
+      "updated": "2011-06-30 15:14:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49686",
+          "lastname": "Jordan.",
+          "forename": "David S"
+        }
+      ],
+      "bhl_pages": [
+        15383334,
+        15383335,
+        15383336
+      ]
+    },
+    {
+      "reference_id": "78527",
+      "genre": "article",
+      "title": "On a collection of Medusae made by the United States Fish Commission steamer Albatross in the Caribbean Sea and Gulf of Mexico",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "397",
+      "epage": "402",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383337",
+      "created": "2011-06-30 15:14:50",
+      "updated": "2011-06-30 15:14:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "815",
+          "lastname": "Fewkes",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        15383337,
+        15383338,
+        15383339,
+        15383340,
+        15383341,
+        15383342
+      ]
+    },
+    {
+      "reference_id": "85454",
+      "genre": "article",
+      "title": "Description of Hesperomys truei, a new species belonging to the subfamily Murinae",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "403",
+      "epage": "408",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383343",
+      "created": "2011-08-19 09:49:19",
+      "updated": "2011-08-19 09:49:19",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        15383343,
+        15383344,
+        15383345,
+        15383346,
+        15383347,
+        15383348
+      ]
+    },
+    {
+      "reference_id": "78528",
+      "genre": "article",
+      "title": "Notes on some apparently preoccupied ornithological generic names",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "409",
+      "epage": "410",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383349",
+      "created": "2011-06-30 15:14:54",
+      "updated": "2011-06-30 15:14:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "485",
+          "lastname": "Stejneger",
+          "forename": "Leonhard"
+        }
+      ],
+      "bhl_pages": [
+        15383349,
+        15383350
+      ]
+    },
+    {
+      "reference_id": "78529",
+      "genre": "article",
+      "title": "The Chaclacayo trephined skull",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "410",
+      "epage": "412",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383350",
+      "created": "2011-06-30 15:14:57",
+      "updated": "2011-06-30 15:14:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49687",
+          "lastname": "Mason",
+          "forename": "Otis T"
+        }
+      ],
+      "bhl_pages": [
+        15383350,
+        15383351,
+        15383352
+      ]
+    },
+    {
+      "reference_id": "4018",
+      "genre": "article",
+      "title": "On the parasites of the hessian fly.",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "issue": "26",
+      "spage": "413",
+      "epage": "422",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383353",
+      "created": "2009-12-26 19:44:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2455",
+          "lastname": "Riley",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        15383353,
+        15383354,
+        15383355,
+        15383356,
+        15383357,
+        15383358,
+        15383359,
+        15383360,
+        15383361,
+        15383362
+      ]
+    },
+    {
+      "reference_id": "67451",
+      "genre": "article",
+      "title": "Description of Leptophidium cervinum and L. marmoratum, new fishes from deep water off the Atlantic and Gulf coasts",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "422",
+      "epage": "424",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383362",
+      "created": "2011-05-27 15:44:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45479",
+          "lastname": "Bean",
+          "forename": "G B Goode T H"
+        }
+      ],
+      "bhl_pages": [
+        15383362,
+        15383363,
+        15383364
+      ]
+    },
+    {
+      "reference_id": "78530",
+      "genre": "article",
+      "title": "Notice of recent additions to the marine Invertebrata of the north easternn coast of America, with descriptions of new genera and species and critical remarks on others. Part V..Annelida, Echinodermata, Hydroida, Tunicata",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "424",
+      "epage": "448",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383364",
+      "created": "2011-06-30 15:15:01",
+      "updated": "2011-06-30 15:15:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40221",
+          "lastname": "Verrill",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        15383364,
+        15383365,
+        15383366,
+        15383367,
+        15383368,
+        15383369,
+        15383370,
+        15383371,
+        15383372,
+        15383373,
+        15383374,
+        15383375,
+        15383376,
+        15383377,
+        15383378,
+        15383379,
+        15383380,
+        15383381,
+        15383382,
+        15383383,
+        15383384,
+        15383385,
+        15383386,
+        15383387,
+        15383388
+      ]
+    },
+    {
+      "reference_id": "78531",
+      "genre": "article",
+      "title": "Report on the flora of western and southern Texas",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "449",
+      "epage": "533",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383389",
+      "created": "2011-06-30 15:15:05",
+      "updated": "2011-06-30 15:15:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49688",
+          "lastname": "Havard",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        15383389,
+        15383390,
+        15383391,
+        15383392,
+        15383393,
+        15383394,
+        15383395,
+        15383396,
+        15383397,
+        15383398,
+        15383399,
+        15383400,
+        15383401,
+        15383402,
+        15383403,
+        15383404,
+        15383405,
+        15383406,
+        15383407,
+        15383408,
+        15383409,
+        15383410,
+        15383411,
+        15383412,
+        15383413,
+        15383414,
+        15383415,
+        15383416,
+        15383417,
+        15383418,
+        15383419,
+        15383420,
+        15383421,
+        15383422,
+        15383423,
+        15383424,
+        15383425,
+        15383426,
+        15383427,
+        15383428,
+        15383429,
+        15383430,
+        15383431,
+        15383432,
+        15383433,
+        15383434,
+        15383435,
+        15383436,
+        15383437,
+        15383438,
+        15383439,
+        15383440,
+        15383441,
+        15383442,
+        15383443,
+        15383444,
+        15383445,
+        15383446,
+        15383447,
+        15383448,
+        15383449,
+        15383450,
+        15383451,
+        15383452,
+        15383453,
+        15383454,
+        15383455,
+        15383456,
+        15383457,
+        15383458,
+        15383459,
+        15383460,
+        15383461,
+        15383462,
+        15383463,
+        15383464,
+        15383465,
+        15383466,
+        15383467,
+        15383468,
+        15383469,
+        15383470,
+        15383471,
+        15383472,
+        15383473
+      ]
+    },
+    {
+      "reference_id": "78532",
+      "genre": "article",
+      "title": "Notes on the mollusks of the vicinity of San Diego, Cal., and Todos Santos Bay, Lower California",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "534",
+      "epage": "552",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383474",
+      "created": "2011-06-30 15:15:11",
+      "updated": "2011-06-30 15:15:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49689",
+          "lastname": "Orcutt",
+          "forename": "Charles R"
+        }
+      ],
+      "bhl_pages": [
+        15383474,
+        15383475,
+        15383476,
+        15383477,
+        15383478,
+        15383479,
+        15383480,
+        15383481,
+        15383482,
+        15383483,
+        15383484,
+        15383485,
+        15383486,
+        15383487,
+        15383488,
+        15383489,
+        15383490,
+        15383491,
+        15383492
+      ]
+    },
+    {
+      "reference_id": "14118",
+      "genre": "article",
+      "title": "Notes on a collection of fishes from Florida, with descriptions of new or little known species",
+      "secondary_title": "Proceedings of the United States National Museum",
+      "volume": "8",
+      "spage": "552",
+      "epage": "559",
+      "year": "1885",
+      "date": "1885-10-26",
+      "issn": "0096-3801",
+      "lsid": "urn:lsid:zoobank.org:pub:021A4F87-1639-41B6-8042-A4B814D116E3",
+      "PageID": "15383492",
+      "created": "2010-01-14 11:46:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10202",
+          "lastname": "Hay",
+          "forename": "O P"
+        }
+      ],
+      "bhl_pages": [
+        15383492,
+        15383493,
+        15383494,
+        15383495,
+        15383496,
+        15383497,
+        15383498,
+        15383499
+      ]
+    },
+    {
+      "reference_id": "78533",
+      "genre": "article",
+      "title": "Catalogue of a collection of birds made on the Island of Cozumel, Yucatan, by the naturalists of the U. S. Fish Commission steamer Albatross, Capt. Z.L. Tanner, Commander",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "560",
+      "epage": "583",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383500",
+      "created": "2011-06-30 15:15:31",
+      "updated": "2011-06-30 15:15:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49650",
+          "lastname": "Ridgway",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        15383500,
+        15383501,
+        15383502,
+        15383503,
+        15383504,
+        15383505,
+        15383506,
+        15383507,
+        15383508,
+        15383509,
+        15383510,
+        15383511,
+        15383512,
+        15383513,
+        15383514,
+        15383515,
+        15383516,
+        15383517,
+        15383518,
+        15383519,
+        15383520,
+        15383521,
+        15383522,
+        15383523
+      ]
+    },
+    {
+      "reference_id": "78534",
+      "genre": "article",
+      "title": "Contributions to the history of the Commander Islands. No. 5..Description of a new species of Mesoplodon, M. stejnegeri, obtained by Dr. Leonhard Stejneger, in Bering Island",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "584",
+      "epage": "585",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383524",
+      "created": "2011-06-30 15:15:43",
+      "updated": "2011-06-30 15:15:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45031",
+          "lastname": "True",
+          "forename": "Frederick W"
+        }
+      ],
+      "bhl_pages": [
+        15383524,
+        15383525
+      ]
+    },
+    {
+      "reference_id": "78535",
+      "genre": "article",
+      "title": "A note upon the Hyperoodon semijunctus of Cope",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "585",
+      "epage": "586",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383525",
+      "created": "2011-06-30 15:15:55",
+      "updated": "2011-06-30 15:15:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45031",
+          "lastname": "True",
+          "forename": "Frederick W"
+        }
+      ],
+      "bhl_pages": [
+        15383525,
+        15383526
+      ]
+    },
+    {
+      "reference_id": "78536",
+      "genre": "article",
+      "title": "Fresh-water sponges from Mexico",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "587",
+      "epage": "589",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383527",
+      "created": "2011-06-30 15:16:00",
+      "updated": "2011-06-30 15:16:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49690",
+          "lastname": "Potts",
+          "forename": "Edward"
+        }
+      ],
+      "bhl_pages": [
+        15383527,
+        15383528,
+        15383529
+      ]
+    },
+    {
+      "reference_id": "6172",
+      "genre": "article",
+      "title": "Descriptions of new fishes obtained by the United States Fish Commission mainly from deep water off the Atlantic and Gulf coasts",
+      "secondary_title": "Proc. U. S. National Mus.",
+      "volume": "8",
+      "spage": "589",
+      "epage": "605",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383529",
+      "created": "2010-01-06 17:24:05",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2950",
+          "lastname": "Goode",
+          "forename": "G Brown"
+        },
+        {
+          "id": "2951",
+          "lastname": "Bean",
+          "forename": "Tarleton H"
+        }
+      ],
+      "bhl_pages": [
+        15383529,
+        15383530,
+        15383531,
+        15383532,
+        15383533,
+        15383534,
+        15383535,
+        15383536,
+        15383537,
+        15383538,
+        15383539,
+        15383540,
+        15383541,
+        15383542,
+        15383543,
+        15383544,
+        15383545
+      ]
+    },
+    {
+      "reference_id": "78537",
+      "genre": "article",
+      "title": "Report upon the Echini collected by the U. S. Fish Commission steamer Albatross in the Gulf of Mexico from January to March, 1885",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "606",
+      "epage": "620",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383546",
+      "created": "2011-06-30 15:16:05",
+      "updated": "2011-06-30 15:16:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49656",
+          "lastname": "Rathbun",
+          "forename": "Richard"
+        }
+      ],
+      "bhl_pages": [
+        15383546,
+        15383547,
+        15383548,
+        15383549,
+        15383550,
+        15383551,
+        15383552,
+        15383553,
+        15383554,
+        15383555,
+        15383556,
+        15383557,
+        15383558,
+        15383559,
+        15383560
+      ]
+    },
+    {
+      "reference_id": "78538",
+      "genre": "article",
+      "title": "List of a few species of birds new to the fauna of Guadeloupe, West Indies, with a description of a new species of Ceryle",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "621",
+      "epage": "625",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383561",
+      "created": "2011-06-30 15:16:13",
+      "updated": "2011-06-30 15:16:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49662",
+          "lastname": "Lawrence",
+          "forename": "George N"
+        }
+      ],
+      "bhl_pages": [
+        15383561,
+        15383562,
+        15383563,
+        15383564,
+        15383565
+      ]
+    },
+    {
+      "reference_id": "78539",
+      "genre": "article",
+      "title": "Remarks upon the plumage of Regulus calendula",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "625",
+      "epage": "628",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383565",
+      "created": "2011-06-30 15:16:22",
+      "updated": "2011-06-30 15:16:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49691",
+          "lastname": "Beckham",
+          "forename": "Charles Wickliffe"
+        }
+      ],
+      "bhl_pages": [
+        15383565,
+        15383566,
+        15383567,
+        15383568
+      ]
+    },
+    {
+      "reference_id": "78540",
+      "genre": "article",
+      "title": "Notice of a collection of stalked crinoids made by the steamer Albatross in the Gulf of Mexico and Caribbean Sea, 1884 and 1885",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "628",
+      "epage": "625",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383568",
+      "created": "2011-06-30 15:16:29",
+      "updated": "2011-06-30 15:16:29",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49656",
+          "lastname": "Rathbun",
+          "forename": "Richard"
+        }
+      ],
+      "bhl_pages": [
+        15383568
+      ]
+    },
+    {
+      "reference_id": "78541",
+      "genre": "article",
+      "title": "Notes on the great dolphin, Coryphaena hippurus, Linne",
+      "secondary_title": "Proceedings of The United States National Museum",
+      "volume": "8",
+      "spage": "635",
+      "epage": "636",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0096-3801",
+      "PageID": "15383575",
+      "created": "2011-06-30 15:16:33",
+      "updated": "2011-06-30 15:16:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49692",
+          "lastname": "Stearns",
+          "forename": "Silas"
+        }
+      ],
+      "bhl_pages": [
+        15383575,
+        15383576
+      ]
+    }
+  ]
+}

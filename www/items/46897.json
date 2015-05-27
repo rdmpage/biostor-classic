@@ -1,0 +1,63 @@
+{
+  "ItemID": "46897",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.81 no.2 1996",
+  "articles": [
+    {
+      "reference_id": "63524",
+      "genre": "article",
+      "title": "Perymenium basaseachicanum (Asteraceae, Heliantheae), a new species from Chihuahua, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "81",
+      "spage": "103",
+      "epage": "107",
+      "issn": "0031-9430",
+      "PageID": "12995605",
+      "created": "2011-01-26 22:03:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12995605,
+        12995606,
+        12995607,
+        12995608,
+        12995609
+      ]
+    },
+    {
+      "reference_id": "63463",
+      "genre": "article",
+      "title": "Vernonia boquerona (Asteraceae), a new species from Chiapas, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "81",
+      "spage": "115",
+      "epage": "117",
+      "year": "1996",
+      "date": "1996-00-00",
+      "issn": "0031-9430",
+      "PageID": "12995617",
+      "created": "2011-01-26 22:00:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12995617,
+        12995618,
+        12995619
+      ]
+    }
+  ]
+}

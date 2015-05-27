@@ -1,0 +1,67 @@
+{
+  "ItemID": "36495",
+  "FullTitle": "Stettiner Entomologische Zeitung.  ",
+  "VolumeInfo": "jahrg. 78-79 1917-18",
+  "articles": [
+    {
+      "reference_id": "104205",
+      "genre": "article",
+      "title": "F\u00fcnf neue Homopteren des indo-malayischen Faunengebietes",
+      "secondary_title": "Stettiner Entomologische Zeitung",
+      "volume": "78",
+      "spage": "303",
+      "epage": "309",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "9106309",
+      "PageID": "9271925",
+      "created": "2012-06-11 12:12:23",
+      "updated": "2012-06-11 12:26:01",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46759",
+          "lastname": "Haupt",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9271925,
+        9271926,
+        9271927,
+        9271928,
+        9271929,
+        9271930,
+        9271931
+      ]
+    },
+    {
+      "reference_id": "104249",
+      "genre": "article",
+      "title": "Drei neue Cercopiden aus dem Stettiner Museum (Rhynchota Homoptera.)",
+      "secondary_title": "Stettiner Entomologische Zeitung",
+      "volume": "79",
+      "spage": "203",
+      "epage": "205",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "8441524",
+      "PageID": "9272149",
+      "created": "2012-06-13 11:16:55",
+      "updated": "2012-06-13 11:17:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53712",
+          "lastname": "Schmidt",
+          "forename": "Edmund"
+        }
+      ],
+      "bhl_pages": [
+        9272149,
+        9272150,
+        9272151
+      ]
+    }
+  ]
+}

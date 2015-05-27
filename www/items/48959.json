@@ -1,0 +1,70 @@
+{
+  "ItemID": "48959",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.63 no.3 1987",
+  "articles": [
+    {
+      "reference_id": "63218",
+      "genre": "article",
+      "title": "Preliminary studies on Anthocerotae",
+      "secondary_title": "Phytologia",
+      "volume": "63",
+      "spage": "193",
+      "epage": "200",
+      "year": "1987",
+      "date": "1987-00-00",
+      "issn": "0031-9430",
+      "PageID": "13784253",
+      "created": "2011-01-26 21:48:45",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43421",
+          "lastname": "Schuster",
+          "forename": "R M"
+        }
+      ],
+      "bhl_pages": [
+        13784253,
+        13784254,
+        13784255,
+        13784256,
+        13784257,
+        13784258,
+        13784259,
+        13784260
+      ]
+    },
+    {
+      "reference_id": "63300",
+      "genre": "article",
+      "title": "Three new species of Koanophyllon (Asteraceae-Eupatorieae) from western Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "63",
+      "spage": "202",
+      "epage": "206",
+      "year": "1987",
+      "date": "1987-00-00",
+      "issn": "0031-9430",
+      "PageID": "13784262",
+      "created": "2011-01-26 21:53:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        13784262,
+        13784263,
+        13784264,
+        13784265,
+        13784266
+      ]
+    }
+  ]
+}

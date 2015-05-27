@@ -1,0 +1,36 @@
+{
+  "ItemID": "45537",
+  "FullTitle": "Zeitschrift f\u00fcr systematische hymenopterologie und dipterologie.  ",
+  "VolumeInfo": "jahrg. 7-8 1907-08",
+  "articles": [
+    {
+      "reference_id": "104233",
+      "genre": "article",
+      "title": "Beschreibung neuer Prototrypiden aus Java (Hym.)",
+      "secondary_title": "Zeitschrift f\u00fcr Systematische Hymenopterologie und Dipterologie",
+      "volume": "7",
+      "spage": "310",
+      "epage": "313",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1770540",
+      "PageID": "12637834",
+      "created": "2012-06-12 10:43:49",
+      "updated": "2012-06-12 10:45:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42058",
+          "lastname": "Kieffer",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        12637834,
+        12637835,
+        12637836,
+        12637837
+      ]
+    }
+  ]
+}

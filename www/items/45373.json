@@ -1,0 +1,97 @@
+{
+  "ItemID": "45373",
+  "FullTitle": "Bolet\u00edn de la Sociedad entomol\u00f3gica de Espa\u00f1a.  ",
+  "VolumeInfo": "t. 1 1918",
+  "articles": [
+    {
+      "reference_id": "59047",
+      "genre": "article",
+      "title": "Cat\u00e1logo de les c\u00f3ccidos (Hem. Hom.) de las Islas Canarias",
+      "secondary_title": "Bolet\u00edn de la Sociedad Entomol\u00f3gica de Espa\u00f1a",
+      "volume": "1",
+      "spage": "51",
+      "epage": "52",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1765730",
+      "PageID": "12587846",
+      "created": "2010-11-20 23:36:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42340",
+          "lastname": "Lindinger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12587846,
+        12587847
+      ]
+    },
+    {
+      "reference_id": "57444",
+      "genre": "article",
+      "title": "Ar\u00e1cnidos nuevos o hallados por primera vez en Espa\u00f1a",
+      "secondary_title": "Bol. Soc. ent. Espan.",
+      "volume": "1",
+      "spage": "120",
+      "epage": "123",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1765730",
+      "PageID": "12587927",
+      "created": "2010-11-18 14:27:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42034",
+          "lastname": "B",
+          "forename": "Franganillo"
+        },
+        {
+          "id": "17847",
+          "lastname": "",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        12587927,
+        12587928,
+        12587929,
+        12587930
+      ]
+    },
+    {
+      "reference_id": "71204",
+      "genre": "article",
+      "title": "Dos Plec\u00f3pteros nuevos de Arag\u00f3n",
+      "secondary_title": "Bolet\u00edn de la Sociedad entomol\u00f3gica de Espa\u00f1a",
+      "volume": "1",
+      "spage": "154",
+      "epage": "157",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1765730",
+      "PageID": "12587969",
+      "created": "2011-06-03 18:07:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46772",
+          "lastname": "",
+          "forename": "Nav\u00e1s"
+        }
+      ],
+      "bhl_pages": [
+        12587969,
+        12587970,
+        12587971,
+        12587972
+      ]
+    }
+  ]
+}

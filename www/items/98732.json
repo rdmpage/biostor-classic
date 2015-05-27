@@ -1,0 +1,39 @@
+{
+  "ItemID": "98732",
+  "FullTitle": "Bulletin de la Socie\u0301te\u0301 philomathique de Paris.",
+  "VolumeInfo": "ser. 7, t. 3-4 (1878-80)",
+  "articles": [
+    {
+      "reference_id": "100204",
+      "genre": "article",
+      "title": "Sur divers batraciens anoures de lAm\u00e9rique Centrale",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Philomathique de Paris",
+      "volume": "3",
+      "series": "7",
+      "spage": "19",
+      "epage": "24",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0366-3515",
+      "PageID": "31660087",
+      "created": "2012-01-12 23:20:23",
+      "updated": "2012-01-12 23:24:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53414",
+          "lastname": "Bocchi",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        31660087,
+        31660086,
+        31660085,
+        31660084,
+        31660083,
+        31660082
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ItemID": "52204",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 65:bd. 1:heft 1-3 - Jahrg. 65:bd.2:heft 2 h",
+  "articles": [
+    {
+      "reference_id": "61250",
+      "genre": "article",
+      "title": "Einige neue Cassidinen-Gattungen und Arten",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "65",
+      "spage": "268",
+      "epage": "273",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "1481990",
+      "PageID": "15115089",
+      "created": "2011-01-10 16:36:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10040",
+          "lastname": "Weise",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        15115089,
+        15115090,
+        15115091,
+        15115092,
+        15115093,
+        15115094
+      ]
+    }
+  ]
+}

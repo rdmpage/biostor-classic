@@ -1,0 +1,33 @@
+{
+  "ItemID": "31514",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 28, Bd. 1 (1862)",
+  "articles": [
+    {
+      "reference_id": "67286",
+      "genre": "article",
+      "title": "Eine neue art von Mormyrus",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "28",
+      "spage": "64",
+      "epage": "64",
+      "year": "1862",
+      "date": "1862-00-00",
+      "issn": "0365-6136",
+      "PageID": "7160516",
+      "created": "2011-05-25 09:29:09",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45254",
+          "lastname": "G\u00fcnther",
+          "forename": "Albert C L G"
+        }
+      ],
+      "bhl_pages": [
+        7160516
+      ]
+    }
+  ]
+}

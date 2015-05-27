@@ -1,0 +1,637 @@
+{
+  "ItemID": "53476",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "9th ser. v. 6 (1920)",
+  "articles": [
+    {
+      "reference_id": "73443",
+      "genre": "article",
+      "title": "Undescribed species of African crane-flies in the collection of the British Museum (Natural History): Tipulidae, Diptera. Part I. Subfamily Limnobiinae",
+      "secondary_title": "Ann. Mag. Nat. Hist",
+      "volume": "6",
+      "series": "9",
+      "spage": "1",
+      "epage": "44",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687291",
+      "created": "2011-06-04 08:39:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        15687291,
+        15687258,
+        15687259,
+        15687260,
+        15687261,
+        15687262,
+        15687263,
+        15687264,
+        15687265,
+        15687266,
+        15687267,
+        15687268,
+        15687269,
+        15687270,
+        15687271,
+        15687272,
+        15687273,
+        15687274,
+        15687275,
+        15687276,
+        15687277,
+        15687278,
+        15687279,
+        15687280,
+        15687281,
+        15687282,
+        15687283,
+        15687284,
+        15687285,
+        15687286,
+        15687287,
+        15687288,
+        15687289,
+        15687290,
+        15687310,
+        15687311,
+        15687312,
+        15687313,
+        15687314,
+        15687315,
+        15687316,
+        15687317,
+        15687318,
+        15687319
+      ]
+    },
+    {
+      "reference_id": "11756",
+      "genre": "article",
+      "title": "Fossil arthropods in the British Museum. III",
+      "secondary_title": "Ann. and Mag. Natur. History",
+      "volume": "6",
+      "series": "9",
+      "spage": "65",
+      "epage": "72",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687340",
+      "created": "2010-01-08 15:00:03",
+      "updated": "2011-09-21 17:07:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        15687340,
+        15687341,
+        15687342,
+        15687343,
+        15687344,
+        15687345,
+        15687346,
+        15687347
+      ]
+    },
+    {
+      "reference_id": "73489",
+      "genre": "article",
+      "title": "New species of African Simuliidae",
+      "secondary_title": "Ann. Mag. nat. Hist",
+      "volume": "6",
+      "series": "9",
+      "spage": "72",
+      "epage": "81",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687347",
+      "created": "2011-06-04 08:49:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47182",
+          "lastname": "Pomeroy",
+          "forename": "A W J"
+        }
+      ],
+      "bhl_pages": [
+        15687347,
+        15687348,
+        15687349,
+        15687350,
+        15687351,
+        15687352,
+        15687353,
+        15687354,
+        15687355,
+        15687356
+      ]
+    },
+    {
+      "reference_id": "87495",
+      "genre": "article",
+      "title": "VI.\u2014On a collection of mammals of the Dinka country, Bahr-el-Djebel",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "94",
+      "epage": "101",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932008632413",
+      "PageID": "15687369",
+      "created": "2011-09-23 10:26:03",
+      "updated": "2011-09-23 10:26:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51324",
+          "lastname": "Hinton",
+          "forename": "Martin A C"
+        },
+        {
+          "id": "51463",
+          "lastname": "Kershaw",
+          "forename": "P S"
+        }
+      ],
+      "bhl_pages": [
+        15687369,
+        15687370,
+        15687371,
+        15687372,
+        15687373,
+        15687374,
+        15687375,
+        15687376
+      ]
+    },
+    {
+      "reference_id": "87498",
+      "genre": "article",
+      "title": "VII.\u2014The species of Pedetes inhabiting Angola",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "102",
+      "epage": "104",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932008632414",
+      "PageID": "15687377",
+      "created": "2011-09-23 10:26:14",
+      "updated": "2011-09-23 10:26:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51324",
+          "lastname": "Hinton",
+          "forename": "Martin A C"
+        }
+      ],
+      "bhl_pages": [
+        15687377,
+        15687378,
+        15687379
+      ]
+    },
+    {
+      "reference_id": "20696",
+      "genre": "article",
+      "title": "Three new fishes from the Tanganyika Territory",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "104",
+      "epage": "105",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687379",
+      "created": "2010-02-09 18:37:24",
+      "updated": "2011-09-21 17:07:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17913",
+          "lastname": "Regan",
+          "forename": "C T"
+        }
+      ],
+      "bhl_pages": [
+        15687379,
+        15687380
+      ]
+    },
+    {
+      "reference_id": "71632",
+      "genre": "article",
+      "title": "Descriptions fo four new snakes in the collection of the British Museum. [Zamenis hotsoni, Elaps omissus etc.]",
+      "secondary_title": "Ann. Mag. nat. Hist",
+      "volume": "6",
+      "series": "9",
+      "spage": "108",
+      "epage": "111",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687383",
+      "created": "2011-06-03 22:31:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        15687383,
+        15687384,
+        15687385,
+        15687386
+      ]
+    },
+    {
+      "reference_id": "87531",
+      "genre": "article",
+      "title": "XX.\u2014A whale-barnacle of the genus Xenobalanus from Antarctic Seas",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "165",
+      "epage": "166",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932008632427",
+      "PageID": "15687440",
+      "created": "2011-09-23 10:29:37",
+      "updated": "2011-09-23 10:29:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39788",
+          "lastname": "Calman",
+          "forename": "W T"
+        }
+      ],
+      "bhl_pages": [
+        15687440,
+        15687441
+      ]
+    },
+    {
+      "reference_id": "20578",
+      "genre": "article",
+      "title": "On some freshwater fishes from Lower Congo",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "167",
+      "epage": "176",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687442",
+      "created": "2010-02-09 18:04:03",
+      "updated": "2011-09-21 17:07:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17853",
+          "lastname": "L\u00f6nnberg",
+          "forename": "E"
+        },
+        {
+          "id": "17854",
+          "lastname": "Rendahl",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        15687442,
+        15687443,
+        15687444,
+        15687445,
+        15687446,
+        15687447,
+        15687448,
+        15687449,
+        15687450,
+        15687451
+      ]
+    },
+    {
+      "reference_id": "87509",
+      "genre": "article",
+      "title": "XL.\u2014Notes on Myriapoda.\u2014XXIV. Preliminary note on a millipede new to science",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "364",
+      "epage": "365",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932008632451",
+      "PageID": "15687651",
+      "created": "2011-09-23 10:27:22",
+      "updated": "2011-09-23 10:27:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51443",
+          "lastname": "Brade-Birks",
+          "forename": "S Graham"
+        }
+      ],
+      "bhl_pages": [
+        15687651,
+        15687652
+      ]
+    },
+    {
+      "reference_id": "73678",
+      "genre": "article",
+      "title": "Scent organs (?) in female midges of the Palpomyia group",
+      "secondary_title": "Ann. Mag. nat. Hist",
+      "volume": "6",
+      "series": "9",
+      "spage": "365",
+      "epage": "368",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687652",
+      "created": "2011-06-04 09:35:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39475",
+          "lastname": "Edwards",
+          "forename": "F W"
+        }
+      ],
+      "bhl_pages": [
+        15687652,
+        15687653,
+        15687654,
+        15687655
+      ]
+    },
+    {
+      "reference_id": "61220",
+      "genre": "article",
+      "title": "On new species of Curculionidae from Africa",
+      "secondary_title": "Annals and magazine of natural history",
+      "volume": "6",
+      "series": "9",
+      "issue": "34",
+      "spage": "369",
+      "epage": "398",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687656",
+      "created": "2010-12-21 06:44:33",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39844",
+          "lastname": "Marshall",
+          "forename": "Guy A K"
+        }
+      ],
+      "bhl_pages": [
+        15687656,
+        15687657,
+        15687658,
+        15687659,
+        15687660,
+        15687661,
+        15687662,
+        15687663,
+        15687664,
+        15687665,
+        15687666,
+        15687667,
+        15687668,
+        15687669,
+        15687670,
+        15687671,
+        15687672,
+        15687673,
+        15687674,
+        15687675,
+        15687676,
+        15687677,
+        15687678,
+        15687679,
+        15687680,
+        15687681,
+        15687682,
+        15687683,
+        15687684,
+        15687685
+      ]
+    },
+    {
+      "reference_id": "87510",
+      "genre": "article",
+      "title": "XLIII.\u2014New rhopalocera from central Ceram",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "398",
+      "epage": "407",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932008632454",
+      "PageID": "15687685",
+      "created": "2011-09-23 10:27:38",
+      "updated": "2011-09-23 10:27:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51466",
+          "lastname": "Talbot",
+          "forename": "George"
+        }
+      ],
+      "bhl_pages": [
+        15687685,
+        15687686,
+        15687687,
+        15687688,
+        15687689,
+        15687690,
+        15687691,
+        15687692,
+        15687693,
+        15687694
+      ]
+    },
+    {
+      "reference_id": "98923",
+      "genre": "article",
+      "title": "On the oriental members of the Coleopterous group Macrodactylides (Melolonthidae)",
+      "secondary_title": "Annals of Natural History London",
+      "volume": "6",
+      "spage": "441",
+      "epage": "455",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "6002296",
+      "PageID": "15687732",
+      "created": "2011-12-05 22:15:33",
+      "updated": "2011-12-05 22:15:33",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        15687732,
+        15687733,
+        15687734,
+        15687735,
+        15687736,
+        15687737,
+        15687738,
+        15687739,
+        15687740,
+        15687741,
+        15687742,
+        15687743,
+        15687744,
+        15687745,
+        15687746
+      ]
+    },
+    {
+      "reference_id": "50350",
+      "genre": "article",
+      "title": "Rhynchota from New Caledonia. Part II. Homoptera",
+      "secondary_title": "Ann. Mag. Nat. Hist.",
+      "volume": "6",
+      "series": "9",
+      "spage": "456",
+      "epage": "470",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "PageID": "15687747",
+      "created": "2010-06-06 19:49:43",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        15687747,
+        15687748,
+        15687749,
+        15687750,
+        15687751,
+        15687752,
+        15687753,
+        15687754,
+        15687755,
+        15687756,
+        15687757,
+        15687758,
+        15687759,
+        15687760,
+        15687761
+      ]
+    },
+    {
+      "reference_id": "87473",
+      "genre": "article",
+      "title": "LVI.\u2014A new termitophilous Collembolan from West Africa",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "480",
+      "epage": "482",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932008632469",
+      "PageID": "15687771",
+      "created": "2011-09-23 10:23:47",
+      "updated": "2011-09-23 10:23:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51461",
+          "lastname": "Brown",
+          "forename": "James Meikle"
+        }
+      ],
+      "bhl_pages": [
+        15687771,
+        15687772,
+        15687773
+      ]
+    },
+    {
+      "reference_id": "87481",
+      "genre": "article",
+      "title": "LXII.\u2014New small mammals from New Guinea",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "6",
+      "series": "9",
+      "spage": "533",
+      "epage": "537",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222932008632480",
+      "PageID": "15687828",
+      "created": "2011-09-23 10:24:52",
+      "updated": "2011-09-23 10:24:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39329",
+          "lastname": "Thomas",
+          "forename": "Oldfield"
+        }
+      ],
+      "bhl_pages": [
+        15687828,
+        15687829,
+        15687830,
+        15687831,
+        15687832
+      ]
+    }
+  ]
+}

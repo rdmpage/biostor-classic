@@ -1,0 +1,380 @@
+{
+  "ItemID": "95294",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 16 1893",
+  "articles": [
+    {
+      "reference_id": "98447",
+      "genre": "article",
+      "title": "Vorlaufige Mittheilung uber Parthanosaurus zitteli, einen neuen Saurier aus der Trias",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "67",
+      "epage": "69",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145664",
+      "created": "2011-11-30 14:15:08",
+      "updated": "2011-11-30 14:15:08",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30145664,
+        30145665,
+        30145666
+      ]
+    },
+    {
+      "reference_id": "59892",
+      "genre": "article",
+      "secondary_title": "Zoologisches Anzeiger",
+      "volume": "103",
+      "spage": "332",
+      "epage": "333",
+      "year": "1933",
+      "date": "0000-00-00",
+      "PageID": "30145678",
+      "created": "2010-11-22 16:46:29",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44825",
+          "lastname": "Fukui",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        30145678,
+        30145679
+      ]
+    },
+    {
+      "reference_id": "71372",
+      "genre": "article",
+      "title": "\u00dcbersicht der von Prof. C. Keller anl\u00e4sslich der Ruspoli'schen Expedition nach den Somalil\u00e4ndern gesammelten Reptilien und Batrachier",
+      "secondary_title": "Zool. Anz",
+      "volume": "16",
+      "spage": "113",
+      "epage": "119",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145710",
+      "created": "2011-06-03 19:35:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        30145710,
+        30145711,
+        30145712,
+        30145713,
+        30145714,
+        30145715,
+        30145716
+      ]
+    },
+    {
+      "reference_id": "99126",
+      "genre": "article",
+      "title": "\u00dcbersicht der von Prof. C. Keller anl\u00e4sslich der Ruspoli'schen Expedition nach den Somalil\u00e4ndern gesammelten Reptilien und Batrachier",
+      "secondary_title": "Zool. Anz",
+      "volume": "16",
+      "spage": "129",
+      "epage": "132",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145726",
+      "created": "2011-12-12 10:33:06",
+      "updated": "2011-12-12 10:33:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        30145726,
+        30145727,
+        30145728,
+        30145729
+      ]
+    },
+    {
+      "reference_id": "69944",
+      "genre": "article",
+      "title": "Neue Diplopoden der portugiesischen Fauna",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "156",
+      "epage": "159",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145753",
+      "created": "2011-06-02 07:57:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46426",
+          "lastname": "Verhoeff",
+          "forename": "Karl Wilhelm"
+        }
+      ],
+      "bhl_pages": [
+        30145753,
+        30145754,
+        30145755,
+        30145756
+      ]
+    },
+    {
+      "reference_id": "103827",
+      "genre": "article",
+      "title": "Neue Diplopoden der portugiesischen Fauna",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "161",
+      "epage": "169",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145758",
+      "created": "2012-05-29 15:10:39",
+      "updated": "2012-05-29 15:11:25",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46714",
+          "lastname": "Verhoeff",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        30145758,
+        30145759,
+        30145760,
+        30145761,
+        30145762,
+        30145763,
+        30145764,
+        30145765,
+        30145766
+      ]
+    },
+    {
+      "reference_id": "61441",
+      "genre": "article",
+      "title": "Vorl\u00e4ufiger Bericht \u00fcber die auf den Tiefsee-Fahrten des Albatross (Fr\u00fchling, 1891) im ostlichen Stillen Ocean erbeuteten Holothurien",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "177",
+      "epage": "186",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145774",
+      "created": "2011-01-10 20:25:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42251",
+          "lastname": "Ludwig",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        30145774,
+        30145775,
+        30145776,
+        30145777,
+        30145778,
+        30145779,
+        30145780,
+        30145781,
+        30145782,
+        30145783
+      ]
+    },
+    {
+      "reference_id": "102295",
+      "genre": "article",
+      "title": "Floscularia atrochoides sp. nov",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "312",
+      "epage": "314",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145889",
+      "created": "2012-04-02 21:21:16",
+      "updated": "2012-04-02 21:21:16",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30145889,
+        30145890,
+        30145891
+      ]
+    },
+    {
+      "reference_id": "71531",
+      "genre": "article",
+      "title": "Neue Reptilien und Batrachier ausWest-Java",
+      "secondary_title": "Zool. Anz",
+      "volume": "16",
+      "spage": "334",
+      "epage": "340",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145911",
+      "created": "2011-06-03 20:18:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        30145911,
+        30145912,
+        30145913,
+        30145914,
+        30145915,
+        30145916,
+        30145917
+      ]
+    },
+    {
+      "reference_id": "98445",
+      "genre": "article",
+      "title": "Di una nuova specie di Macruride appurtenente alla fauna abissale del Mediterraneo",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "343",
+      "epage": "345",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145920",
+      "created": "2011-11-30 14:13:20",
+      "updated": "2011-11-30 14:13:20",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30145920,
+        30145921,
+        30145922
+      ]
+    },
+    {
+      "reference_id": "52044",
+      "genre": "article",
+      "title": "Zum Commensalismus der Pseudoscorpioniden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "346",
+      "epage": "347",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145923",
+      "created": "2010-07-09 11:26:13",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40335",
+          "lastname": "Von Ihering",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        30145923,
+        30145924
+      ]
+    },
+    {
+      "reference_id": "80333",
+      "genre": "article",
+      "title": "Finden sich f\u00fcr die laminae basales der m\u00e4nnlichen Coleopteren Homologa bei den Hymenopteren? 16: 407-412",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "16",
+      "spage": "407",
+      "epage": "412",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30145984",
+      "created": "2011-07-05 13:20:30",
+      "updated": "2011-07-05 13:20:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46714",
+          "lastname": "Verhoeff",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        30145984,
+        30145985,
+        30145986,
+        30145987,
+        30145988,
+        30145989
+      ]
+    },
+    {
+      "reference_id": "73824",
+      "genre": "article",
+      "title": "Ein neuer Drache (Draco) aus Siam",
+      "secondary_title": "Zool. Anz",
+      "volume": "16",
+      "spage": "429",
+      "epage": "430",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0044-5231",
+      "PageID": "30146006",
+      "created": "2011-06-04 09:56:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10300",
+          "lastname": "Boettger",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        30146006,
+        30146007
+      ]
+    }
+  ]
+}

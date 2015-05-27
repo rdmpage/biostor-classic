@@ -1,0 +1,33 @@
+{
+  "ItemID": "99675",
+  "FullTitle": "Bulletin de la Socie\u0301te\u0301 philomathique de Paris.",
+  "VolumeInfo": "ser. 7, t. 9-10 (1884-85)",
+  "articles": [
+    {
+      "reference_id": "85442",
+      "genre": "article",
+      "title": "Description de nouvelles esp\u00e8ces de crustac\u00e9s du genre Allorchestes",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Philomathique de Paris",
+      "volume": "9",
+      "series": "7",
+      "spage": "54",
+      "epage": "54",
+      "year": "1885",
+      "date": "1885-00-00",
+      "PageID": "31945648",
+      "created": "2011-08-17 07:55:05",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51147",
+          "lastname": "Filhol",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        31945648
+      ]
+    }
+  ]
+}

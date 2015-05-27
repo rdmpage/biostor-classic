@@ -1,0 +1,200 @@
+{
+  "ItemID": "107543",
+  "FullTitle": "Occasional papers of the Boston Society of Natural History.",
+  "VolumeInfo": "v.5 (1921-1931)",
+  "articles": [
+    {
+      "reference_id": "73094",
+      "genre": "article",
+      "title": "New species of Diptera",
+      "secondary_title": "Occas. Pap. Boston Soc. Nat. Hist",
+      "volume": "5",
+      "spage": "11",
+      "epage": "17",
+      "year": "1921",
+      "date": "1921-00-00",
+      "PageID": "34576343",
+      "created": "2011-06-04 07:42:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        34576343,
+        34576342,
+        34576341,
+        34576340,
+        34576339,
+        34576338,
+        34576337
+      ]
+    },
+    {
+      "reference_id": "73465",
+      "genre": "article",
+      "title": "New and interesting species of Diptera",
+      "secondary_title": "Occas. Pap. Boston Soc. Nat. Hist",
+      "volume": "5",
+      "spage": "69",
+      "epage": "72",
+      "year": "1923",
+      "date": "1923-00-00",
+      "PageID": "34576389",
+      "created": "2011-06-04 08:43:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        34576389,
+        34576390,
+        34576391,
+        34576392
+      ]
+    },
+    {
+      "reference_id": "73453",
+      "genre": "article",
+      "title": "A review of the New England species of Chrysotoxum",
+      "secondary_title": "Occas. Pap. Boston Soc. Nat. Hist",
+      "volume": "5",
+      "spage": "97",
+      "epage": "100",
+      "year": "1924",
+      "date": "1924-00-00",
+      "PageID": "34576419",
+      "created": "2011-06-04 08:40:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        34576419,
+        34576420,
+        34576421,
+        34576422
+      ]
+    },
+    {
+      "reference_id": "71209",
+      "genre": "article",
+      "title": "Herpetological novelties from China",
+      "secondary_title": "Occas. Pap. Boston Soc. Nat. Hist.",
+      "volume": "5",
+      "spage": "119",
+      "epage": "121",
+      "year": "1924",
+      "date": "1924-00-00",
+      "PageID": "34576441",
+      "created": "2011-06-03 18:08:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46773",
+          "lastname": "Stejneger",
+          "forename": "Leonhard H"
+        }
+      ],
+      "bhl_pages": [
+        34576441,
+        34576442,
+        34576443
+      ]
+    },
+    {
+      "reference_id": "73457",
+      "genre": "article",
+      "title": "The genus Chalcomyia (Diptera: Syrphidae)",
+      "secondary_title": "Occas. Pap. Boston Soc. Nat. Hist",
+      "volume": "5",
+      "spage": "151",
+      "epage": "153",
+      "year": "1925",
+      "date": "1925-00-00",
+      "PageID": "34576473",
+      "created": "2011-06-04 08:41:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44816",
+          "lastname": "Shannon",
+          "forename": "R C"
+        }
+      ],
+      "bhl_pages": [
+        34576473,
+        34576474,
+        34576475
+      ]
+    },
+    {
+      "reference_id": "71378",
+      "genre": "article",
+      "title": "A new frog and a new snake from Panama",
+      "secondary_title": "Occas. Pap. Boston Soc. Nat. Hist",
+      "volume": "5",
+      "spage": "155",
+      "epage": "156",
+      "year": "1925",
+      "date": "1925-00-00",
+      "PageID": "34576477",
+      "created": "2011-06-03 19:36:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "537",
+          "lastname": "Barbour",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        34576477,
+        34576478
+      ]
+    },
+    {
+      "reference_id": "71645",
+      "genre": "article",
+      "title": "A new Cuban Anolis",
+      "secondary_title": "Occas. Pap. Boston Soc. Nat. Hist",
+      "volume": "5",
+      "spage": "167",
+      "epage": "168",
+      "year": "1925",
+      "date": "1925-00-00",
+      "PageID": "34576489",
+      "created": "2011-06-03 22:37:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "537",
+          "lastname": "Barbour",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        34576489,
+        34576490
+      ]
+    }
+  ]
+}

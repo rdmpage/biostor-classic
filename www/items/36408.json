@@ -1,0 +1,47 @@
+{
+  "ItemID": "36408",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Vereine in Berlin.",
+  "VolumeInfo": "v. 11 1867",
+  "articles": [
+    {
+      "reference_id": "72904",
+      "genre": "article",
+      "title": "Zur Hymenopteren-Fauna der Umgegend von Frankfurt a. M",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "11",
+      "spage": "141",
+      "epage": "155",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0323-6145",
+      "PageID": "9215405",
+      "created": "2011-06-04 04:40:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47110",
+          "lastname": "Jaennicke",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9215405,
+        9215406,
+        9215407,
+        9215408,
+        9215409,
+        9215410,
+        9215411,
+        9215412,
+        9215413,
+        9215414,
+        9215415,
+        9215416,
+        9215417,
+        9215418,
+        9215419
+      ]
+    }
+  ]
+}

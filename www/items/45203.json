@@ -1,0 +1,111 @@
+{
+  "ItemID": "45203",
+  "FullTitle": "Deutsche entomologische Zeitschrift Iris \/  herausgegeben vom Entomologischen Verein Iris zu Dresden.",
+  "VolumeInfo": "bd. 16 1903",
+  "articles": [
+    {
+      "reference_id": "80354",
+      "genre": "article",
+      "title": "Zwei neue Pseudacraea aus Afrika",
+      "secondary_title": "Deutsche entomologische Zeitschrift Iris",
+      "volume": "16",
+      "spage": "9",
+      "epage": "10",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1695863",
+      "PageID": "12521619",
+      "created": "2011-07-11 19:57:20",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12521619,
+        12521620
+      ]
+    },
+    {
+      "reference_id": "71055",
+      "genre": "article",
+      "title": "Neue Papilioniden aus dem australischen Gebiet",
+      "secondary_title": "Deutsche Entomologische Zeitschrift Iris",
+      "volume": "16",
+      "spage": "11",
+      "epage": "16",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1695863",
+      "PageID": "12521621",
+      "created": "2011-06-03 17:37:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12521621,
+        12521622,
+        12521623,
+        12521624,
+        12521625,
+        12521626
+      ]
+    },
+    {
+      "reference_id": "57796",
+      "genre": "article",
+      "title": "Neue Nymphaliden aus Ostasien",
+      "secondary_title": "Deutsche Entomologische Zeitschrift",
+      "volume": "16",
+      "spage": "22",
+      "epage": "42",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0012-0073",
+      "PageID": "12521632",
+      "created": "2010-11-20 14:56:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10042",
+          "lastname": "Fruhstorfer",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12521632,
+        12521656,
+        12521657,
+        12521658,
+        12521659,
+        12521660,
+        12521661,
+        12521662,
+        12521663,
+        12521664,
+        12521665,
+        12521666,
+        12521667,
+        12521668,
+        12521669,
+        12521670,
+        12521671,
+        12521672,
+        12521673,
+        12521674,
+        12521675
+      ]
+    }
+  ]
+}

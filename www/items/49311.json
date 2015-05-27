@@ -1,0 +1,35 @@
+{
+  "ItemID": "49311",
+  "FullTitle": "Proceedings of the Onondaga Academy of Science \/  edited by the Publication Committee.",
+  "VolumeInfo": "v.1 1903",
+  "articles": [
+    {
+      "reference_id": "51695",
+      "genre": "article",
+      "title": "Batrachia and Reptilia of Onondaga County",
+      "secondary_title": "Proceedings of the Onondaga Academy of Science. Syracuse",
+      "volume": "1",
+      "spage": "120",
+      "epage": "122",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "17374539",
+      "PageID": "13925712",
+      "created": "2010-06-27 02:52:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40222",
+          "lastname": "Britcher",
+          "forename": "H W"
+        }
+      ],
+      "bhl_pages": [
+        13925712,
+        13925713,
+        13925714
+      ]
+    }
+  ]
+}

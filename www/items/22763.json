@@ -1,0 +1,66 @@
+{
+  "ItemID": "22763",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.51 (1918)",
+  "articles": [
+    {
+      "reference_id": "59104",
+      "genre": "article",
+      "title": "Descriptions of New Zealand Lepidoptera",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "51",
+      "spage": "349",
+      "epage": "354",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1778777",
+      "PageID": "3299334",
+      "created": "2010-11-20 23:53:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39893",
+          "lastname": "Meyrick",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3299334,
+        3299335,
+        3299140,
+        3299526,
+        3299336,
+        3299527
+      ]
+    },
+    {
+      "reference_id": "51939",
+      "genre": "article",
+      "title": "A new discoglossoid frog from New Zealand",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute. Wellington",
+      "volume": "51",
+      "spage": "447",
+      "epage": "449",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1778777",
+      "PageID": "3299559",
+      "created": "2010-06-27 11:10:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10307",
+          "lastname": "Mcculloch",
+          "forename": "A R"
+        }
+      ],
+      "bhl_pages": [
+        3299559,
+        3299560,
+        3299561
+      ]
+    }
+  ]
+}

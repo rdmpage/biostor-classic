@@ -1,0 +1,78 @@
+{
+  "author": [
+    {
+      "firstname": "Andrew R",
+      "lastname": "Deans",
+      "name": "Andrew R Deans"
+    },
+    {
+      "firstname": "James B",
+      "lastname": "Whitfield",
+      "name": "James B Whitfield"
+    },
+    {
+      "firstname": "Daniel H",
+      "lastname": "Janzen",
+      "name": "Daniel H Janzen"
+    }
+  ],
+  "type": "article",
+  "title": "Taxonomy and Natural History of the Microgastrine Genus Alphomelon Mason (Hymenoptera: Braconidae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "12",
+    "pages": "1--41",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2003",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/301"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2859294"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 301
+    },
+    {
+      "type": "bhl",
+      "id": 2859294
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -52.383333333333,
+        -27.183333333333
+      ],
+      [
+        -70.100277777778,
+        3.3836111111111
+      ],
+      [
+        -76.333333333333,
+        5.8333333333333
+      ],
+      [
+        -84.016666666667,
+        10.433333333333
+      ],
+      [
+        -55.616666666667,
+        -12.516666666667
+      ]
+    ]
+  }
+}

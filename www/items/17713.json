@@ -1,0 +1,521 @@
+{
+  "ItemID": "17713",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 13 (1861)",
+  "articles": [
+    {
+      "reference_id": "67399",
+      "genre": "article",
+      "title": "Synopsis of the subfamily of Percinae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "13",
+      "spage": "44",
+      "epage": "52",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683173",
+      "created": "2011-05-26 17:56:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        1683173,
+        1683174,
+        1683175,
+        1683176,
+        1683177,
+        1683178,
+        1683179,
+        1683180,
+        1683181
+      ]
+    },
+    {
+      "reference_id": "49001",
+      "genre": "article",
+      "title": "Some remarks defining the following species of Reptilia Squamata",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1861",
+      "spage": "75",
+      "epage": "76",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683204",
+      "created": "2010-03-21 10:40:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1683204,
+        1683205
+      ]
+    },
+    {
+      "reference_id": "67177",
+      "genre": "article",
+      "title": "On the Haploidonotinae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "13",
+      "spage": "100",
+      "epage": "105",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683229",
+      "created": "2011-05-19 09:52:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        1683229,
+        1683230,
+        1683231,
+        1683232,
+        1683233,
+        1683234
+      ]
+    },
+    {
+      "reference_id": "69192",
+      "genre": "article",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philad",
+      "volume": "1861",
+      "spage": "124",
+      "epage": "125",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683253",
+      "created": "2011-06-01 08:38:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46210",
+          "lastname": "",
+          "forename": "Ennis"
+        }
+      ],
+      "bhl_pages": [
+        1683253,
+        1683254
+      ]
+    },
+    {
+      "reference_id": "59700",
+      "genre": "article",
+      "title": "Descriptions of new species of Cyrena, Corbicula and Sphaerium",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "13",
+      "spage": "125",
+      "epage": "128",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683254",
+      "created": "2010-11-22 15:33:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42669",
+          "lastname": "Prime",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        1683254,
+        1683255,
+        1683256,
+        1683257
+      ]
+    },
+    {
+      "reference_id": "49081",
+      "genre": "article",
+      "title": "On three new forms of rattlesnakes",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "13",
+      "spage": "206",
+      "epage": "207",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683335",
+      "created": "2010-03-21 11:12:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39368",
+          "lastname": "Kennicott",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        1683335,
+        1683336
+      ]
+    },
+    {
+      "reference_id": "49009",
+      "genre": "article",
+      "title": "Notes and descriptions of anoles",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "13",
+      "spage": "208",
+      "epage": "215",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683337",
+      "created": "2010-03-21 10:44:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1683337,
+        1683338,
+        1683339,
+        1683340,
+        1683341,
+        1683342,
+        1683343,
+        1683344
+      ]
+    },
+    {
+      "reference_id": "59929",
+      "genre": "article",
+      "title": "Notes on the Ornithology of Labrador",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1861",
+      "spage": "215",
+      "epage": "257",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683344",
+      "created": "2010-11-22 17:01:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42717",
+          "lastname": "Cues",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        1683344,
+        1683345,
+        1683346,
+        1683347,
+        1683348,
+        1683349,
+        1683350,
+        1683351,
+        1683352,
+        1683353,
+        1683354,
+        1683355,
+        1683356,
+        1683357,
+        1683358,
+        1683359,
+        1683360,
+        1683361,
+        1683362,
+        1683363,
+        1683364,
+        1683365,
+        1683366,
+        1683367,
+        1683368,
+        1683369,
+        1683370,
+        1683371,
+        1683372,
+        1683373,
+        1683374,
+        1683375,
+        1683376,
+        1683377,
+        1683378,
+        1683379,
+        1683380,
+        1683381,
+        1683382,
+        1683383,
+        1683384,
+        1683385,
+        1683386
+      ]
+    },
+    {
+      "reference_id": "67310",
+      "genre": "article",
+      "title": "Monograph of the tridigitate uranoscopoids",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "13",
+      "spage": "263",
+      "epage": "271",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683392",
+      "created": "2011-05-25 21:25:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        1683392,
+        1683393,
+        1683394,
+        1683395,
+        1683396,
+        1683397,
+        1683398,
+        1683399,
+        1683400
+      ]
+    },
+    {
+      "reference_id": "53290",
+      "genre": "article",
+      "title": "Description of nine new North American Limnobiaceae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "1861",
+      "spage": "287",
+      "epage": "292",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683416",
+      "created": "2010-10-26 19:46:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18244",
+          "lastname": "Osten Sacken",
+          "forename": "C R"
+        }
+      ],
+      "bhl_pages": [
+        1683416,
+        1683417,
+        1683418,
+        1683419,
+        1683420,
+        1683421
+      ]
+    },
+    {
+      "reference_id": "48984",
+      "genre": "article",
+      "title": "Contributions to the ophiology of Lower California, Mexico and Central America",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "13",
+      "spage": "292",
+      "epage": "306",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683421",
+      "created": "2010-03-21 10:33:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1683421,
+        1683422,
+        1683423,
+        1683424,
+        1683425,
+        1683426,
+        1683427,
+        1683428,
+        1683429,
+        1683430,
+        1683431,
+        1683432,
+        1683433,
+        1683434,
+        1683435
+      ]
+    },
+    {
+      "reference_id": "48996",
+      "genre": "article",
+      "title": "On the Reptilia of Sombrero and Bermuda",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "13",
+      "spage": "312",
+      "epage": "314",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683441",
+      "created": "2010-03-21 10:37:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1683441,
+        1683442,
+        1683443
+      ]
+    },
+    {
+      "reference_id": "69356",
+      "genre": "article",
+      "title": "Notes on the Coleopterous Fauna of Lower California",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "13",
+      "spage": "335",
+      "epage": "338",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683464",
+      "created": "2011-06-01 08:50:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46249",
+          "lastname": "Lawrence",
+          "forename": "Leconte John"
+        }
+      ],
+      "bhl_pages": [
+        1683464,
+        1683465,
+        1683466,
+        1683467
+      ]
+    },
+    {
+      "reference_id": "69357",
+      "genre": "article",
+      "title": "New species of COLEOPTERA inhabiting the Pacific district of the United States",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "13",
+      "spage": "338",
+      "epage": "359",
+      "year": "1861",
+      "date": "1861-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683467",
+      "created": "2011-06-01 08:50:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46249",
+          "lastname": "Lawrence",
+          "forename": "Leconte John"
+        }
+      ],
+      "bhl_pages": [
+        1683467,
+        1683468,
+        1683469,
+        1683470,
+        1683471,
+        1683472,
+        1683473,
+        1683474,
+        1683475,
+        1683476,
+        1683477,
+        1683478,
+        1683479,
+        1683480,
+        1683481,
+        1683482,
+        1683483,
+        1683484,
+        1683485,
+        1683486,
+        1683487,
+        1683488
+      ]
+    },
+    {
+      "reference_id": "59860",
+      "genre": "article",
+      "title": "Synopsis of the sillaginoids",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "13",
+      "spage": "501",
+      "epage": "505",
+      "year": "1862",
+      "date": "1862-00-00",
+      "issn": "0097-3157",
+      "PageID": "1683630",
+      "created": "2010-11-22 16:29:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10205",
+          "lastname": "Gill",
+          "forename": "T N"
+        }
+      ],
+      "bhl_pages": [
+        1683630,
+        1683631,
+        1683632,
+        1683633,
+        1683634
+      ]
+    }
+  ]
+}

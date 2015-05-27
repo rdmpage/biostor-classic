@@ -1,0 +1,228 @@
+{
+  "ItemID": "39504",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 14 1891",
+  "articles": [
+    {
+      "reference_id": "98454",
+      "genre": "article",
+      "title": "Preliminary Note on a new genus of Earthworms",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "14",
+      "spage": "11",
+      "epage": "12",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296432",
+      "created": "2011-11-30 14:18:15",
+      "updated": "2011-11-30 14:18:15",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        10296432,
+        10296433
+      ]
+    },
+    {
+      "reference_id": "60222",
+      "genre": "article",
+      "title": "Nomenclatorische correctur innerhalb der Hydrachniden-Familie",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "14",
+      "spage": "19",
+      "epage": "20",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296440",
+      "created": "2010-11-22 20:53:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42250",
+          "lastname": "Koenike",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        10296440,
+        10296441
+      ]
+    },
+    {
+      "reference_id": "102298",
+      "genre": "article",
+      "title": "\u00dcber die pelagische Fauna einiger Seen des Schwarzwaldes",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "14",
+      "spage": "33",
+      "epage": "38",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296454",
+      "created": "2012-04-02 21:21:44",
+      "updated": "2012-04-02 21:21:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        10296454,
+        10296455,
+        10296456,
+        10296457,
+        10296458,
+        10296459
+      ]
+    },
+    {
+      "reference_id": "5001",
+      "genre": "article",
+      "title": "On the formation of eggs in the testis of Gebia major, De Haan",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "14",
+      "spage": "70",
+      "epage": "72",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296491",
+      "created": "2010-01-05 11:10:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2648",
+          "lastname": "Ishikawa",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        10296491,
+        10296492,
+        10296493
+      ]
+    },
+    {
+      "reference_id": "5000",
+      "genre": "article",
+      "title": "\u00dcber einige neue indo-pacifische crustaceen (Vorl\u00e4ufige Mittheilung)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "14",
+      "spage": "96",
+      "epage": "103",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296517",
+      "created": "2010-01-05 11:06:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2647",
+          "lastname": "Thallwitz",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        10296517,
+        10296518,
+        10296519,
+        10296520,
+        10296521,
+        10296522,
+        10296523,
+        10296524
+      ]
+    },
+    {
+      "reference_id": "98425",
+      "genre": "article",
+      "title": "Ein neuer Diaptomus aus Brasilien (D. deitersi)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "14",
+      "spage": "248",
+      "epage": "250",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296669",
+      "created": "2011-11-30 14:05:55",
+      "updated": "2011-11-30 14:05:55",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        10296669,
+        10296670,
+        10296671
+      ]
+    },
+    {
+      "reference_id": "49224",
+      "genre": "article",
+      "title": "Reptilien und Batrachier aus Bolivien",
+      "secondary_title": "Zool. Anz.",
+      "volume": "14",
+      "spage": "343",
+      "epage": "347",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296764",
+      "created": "2010-03-21 12:14:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39409",
+          "lastname": "Boettger",
+          "forename": "Oskar"
+        }
+      ],
+      "bhl_pages": [
+        10296764,
+        10296765,
+        10296766,
+        10296767,
+        10296768
+      ]
+    },
+    {
+      "reference_id": "4999",
+      "genre": "article",
+      "title": "Notiz \u00fcber einen annamitischen Palaemon",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "14",
+      "spage": "418",
+      "epage": "421",
+      "year": "1891",
+      "date": "1891-00-00",
+      "issn": "0044-5231",
+      "PageID": "10296839",
+      "created": "2010-01-05 11:00:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2647",
+          "lastname": "Thallwitz",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        10296839,
+        10296840,
+        10296841,
+        10296842
+      ]
+    }
+  ]
+}

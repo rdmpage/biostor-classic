@@ -1,0 +1,910 @@
+{
+  "ItemID": "36372",
+  "FullTitle": "Journal of the New York Entomological Society.",
+  "VolumeInfo": "v. 7 1899",
+  "articles": [
+    {
+      "reference_id": "13928",
+      "genre": "article",
+      "title": "Synopsis of the Species of Acm\u00e6odera of America, North of Mexico",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "1",
+      "epage": "37",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198649",
+      "created": "2010-01-13 14:59:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10150",
+          "lastname": "Fall",
+          "forename": "H C"
+        }
+      ],
+      "bhl_pages": [
+        9198649,
+        9198650,
+        9198651,
+        9198652,
+        9198653,
+        9198654,
+        9198655,
+        9198656,
+        9198657,
+        9198658,
+        9198659,
+        9198660,
+        9198661,
+        9198662,
+        9198663,
+        9198664,
+        9198665,
+        9198666,
+        9198667,
+        9198668,
+        9198669,
+        9198670,
+        9198671,
+        9198672,
+        9198673,
+        9198674,
+        9198675,
+        9198676,
+        9198677,
+        9198678,
+        9198679,
+        9198680,
+        9198681,
+        9198682,
+        9198683,
+        9198684,
+        9198685
+      ]
+    },
+    {
+      "reference_id": "13929",
+      "genre": "article",
+      "title": "Notes on Scotogramma and Oncocnemis with Descriptions of New Species",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "37",
+      "epage": "44",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198685",
+      "created": "2010-01-13 14:59:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10151",
+          "lastname": "Smith",
+          "forename": "John B"
+        }
+      ],
+      "bhl_pages": [
+        9198685,
+        9198686,
+        9198687,
+        9198688,
+        9198689,
+        9198690,
+        9198691,
+        9198692
+      ]
+    },
+    {
+      "reference_id": "13930",
+      "genre": "article",
+      "title": "Super-Families in the Hymenoptera and Generic Synopses of the Families Thynnid\u00e6, Myrmosid\u00e6 and Mutillid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "45",
+      "epage": "60",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198693",
+      "created": "2010-01-13 14:59:51",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2293",
+          "lastname": "Ashmead",
+          "forename": "William H"
+        }
+      ],
+      "bhl_pages": [
+        9198693,
+        9198694,
+        9198695,
+        9198696,
+        9198697,
+        9198698,
+        9198699,
+        9198700,
+        9198701,
+        9198702,
+        9198703,
+        9198704,
+        9198705,
+        9198706,
+        9198707,
+        9198708
+      ]
+    },
+    {
+      "reference_id": "13931",
+      "genre": "article",
+      "title": "The Life-Histories of the New York Slug-Caterpillars. XVIII",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "61",
+      "epage": "67",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198709",
+      "created": "2010-01-13 14:59:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198709,
+        9198710,
+        9198711,
+        9198712,
+        9198713,
+        9198714,
+        9198715
+      ]
+    },
+    {
+      "reference_id": "13932",
+      "genre": "article",
+      "title": "Note on the Secondary Abdominal Legs in the Megalopygid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "69",
+      "epage": "70",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198719",
+      "created": "2010-01-13 14:59:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198719,
+        9198720
+      ]
+    },
+    {
+      "reference_id": "13933",
+      "genre": "article",
+      "title": "Note on Two Hydr\u0153cia Larv\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "70",
+      "epage": "70",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198720",
+      "created": "2010-01-13 14:59:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198720
+      ]
+    },
+    {
+      "reference_id": "13934",
+      "genre": "article",
+      "title": "A Revision of the American Coccinellid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "71",
+      "epage": "169",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198721",
+      "created": "2010-01-13 15:00:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10152",
+          "lastname": "Casey",
+          "forename": "Thos L"
+        }
+      ],
+      "bhl_pages": [
+        9198721,
+        9198722,
+        9198723,
+        9198724,
+        9198725,
+        9198726,
+        9198727,
+        9198728,
+        9198729,
+        9198730,
+        9198731,
+        9198732,
+        9198733,
+        9198734,
+        9198735,
+        9198736,
+        9198737,
+        9198738,
+        9198739,
+        9198740,
+        9198741,
+        9198742,
+        9198743,
+        9198744,
+        9198745,
+        9198746,
+        9198747,
+        9198748,
+        9198749,
+        9198750,
+        9198751,
+        9198752,
+        9198753,
+        9198754,
+        9198755,
+        9198756,
+        9198757,
+        9198758,
+        9198759,
+        9198760,
+        9198761,
+        9198762,
+        9198763,
+        9198764,
+        9198765,
+        9198766,
+        9198767,
+        9198768,
+        9198769,
+        9198770,
+        9198771,
+        9198772,
+        9198773,
+        9198774,
+        9198775,
+        9198776,
+        9198777,
+        9198778,
+        9198779,
+        9198780,
+        9198781,
+        9198782,
+        9198783,
+        9198784,
+        9198785,
+        9198786,
+        9198787,
+        9198788,
+        9198789,
+        9198790,
+        9198791,
+        9198792,
+        9198793,
+        9198794,
+        9198795,
+        9198796,
+        9198797,
+        9198798,
+        9198799,
+        9198800,
+        9198801,
+        9198802,
+        9198803,
+        9198804,
+        9198805,
+        9198806,
+        9198807,
+        9198808,
+        9198809,
+        9198810,
+        9198811,
+        9198812,
+        9198813,
+        9198814,
+        9198815,
+        9198816,
+        9198817,
+        9198818,
+        9198819
+      ]
+    },
+    {
+      "reference_id": "13935",
+      "genre": "article",
+      "title": "New African Sesiid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "170",
+      "epage": "172",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198820",
+      "created": "2010-01-13 15:00:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10130",
+          "lastname": "Beutenmuller",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        9198820,
+        9198821,
+        9198822
+      ]
+    },
+    {
+      "reference_id": "13936",
+      "genre": "article",
+      "title": "The Megalopygid Genus Trosia, with Description of a New Species",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "173",
+      "epage": "174",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198823",
+      "created": "2010-01-13 15:00:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198823,
+        9198824
+      ]
+    },
+    {
+      "reference_id": "13937",
+      "genre": "article",
+      "title": "New Species of Syntomid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "174",
+      "epage": "176",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198824",
+      "created": "2010-01-13 15:00:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198824,
+        9198825,
+        9198826
+      ]
+    },
+    {
+      "reference_id": "13938",
+      "genre": "article",
+      "title": "Notes on Trypetid\u00e6 with Descriptions of New Species",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "177",
+      "epage": "193",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198829",
+      "created": "2010-01-13 15:00:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10109",
+          "lastname": "Doane",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        9198829,
+        9198830,
+        9198831,
+        9198832,
+        9198833,
+        9198834,
+        9198835,
+        9198836,
+        9198837,
+        9198838,
+        9198839,
+        9198840,
+        9198841,
+        9198842,
+        9198843,
+        9198844,
+        9198845
+      ]
+    },
+    {
+      "reference_id": "13939",
+      "genre": "article",
+      "title": "The Smynthurid\u00e6 of Long Island, New York",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "193",
+      "epage": "197",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198845",
+      "created": "2010-01-13 15:00:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2234",
+          "lastname": "Banks",
+          "forename": "Nathan"
+        }
+      ],
+      "bhl_pages": [
+        9198845,
+        9198846,
+        9198847,
+        9198848,
+        9198849
+      ]
+    },
+    {
+      "reference_id": "13940",
+      "genre": "article",
+      "title": "New North American Tettigin\u00e6. III",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "198",
+      "epage": "201",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198850",
+      "created": "2010-01-13 15:00:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10122",
+          "lastname": "Morse",
+          "forename": "Albert P"
+        }
+      ],
+      "bhl_pages": [
+        9198850,
+        9198851,
+        9198852,
+        9198853
+      ]
+    },
+    {
+      "reference_id": "13941",
+      "genre": "article",
+      "title": "Life-History of a European Slug Caterpillar, Cochlidion Avellana",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "202",
+      "epage": "208",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198854",
+      "created": "2010-01-13 15:00:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198854,
+        9198855,
+        9198856,
+        9198857,
+        9198858,
+        9198859,
+        9198860
+      ]
+    },
+    {
+      "reference_id": "13942",
+      "genre": "article",
+      "title": "A New Genus of Cochlidionid\u00e6 from Virginia",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "208",
+      "epage": "209",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198860",
+      "created": "2010-01-13 15:00:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198860,
+        9198861
+      ]
+    },
+    {
+      "reference_id": "13943",
+      "genre": "article",
+      "title": "On the Early Stages of Some California Lepidoptera",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "209",
+      "epage": "212",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198861",
+      "created": "2010-01-13 15:00:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8729",
+          "lastname": "Coquillett",
+          "forename": "D W"
+        }
+      ],
+      "bhl_pages": [
+        9198861,
+        9198862,
+        9198863,
+        9198864
+      ]
+    },
+    {
+      "reference_id": "13944",
+      "genre": "article",
+      "title": "Note on the Seventeen-Year Cicada",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "212",
+      "epage": "214",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198864",
+      "created": "2010-01-13 15:00:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10125",
+          "lastname": "Lander",
+          "forename": "Benjamin"
+        }
+      ],
+      "bhl_pages": [
+        9198864,
+        9198865,
+        9198866
+      ]
+    },
+    {
+      "reference_id": "13945",
+      "genre": "article",
+      "title": "New Species of Lithosiid\u00e6 from Tropical America",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "214",
+      "epage": "217",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198866",
+      "created": "2010-01-13 15:00:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10141",
+          "lastname": "Schaus",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        9198866,
+        9198867,
+        9198868,
+        9198869
+      ]
+    },
+    {
+      "reference_id": "13946",
+      "genre": "article",
+      "title": "New Genera and Species of Dexid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "218",
+      "epage": "222",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198870",
+      "created": "2010-01-13 15:00:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8729",
+          "lastname": "Coquillett",
+          "forename": "D W"
+        }
+      ],
+      "bhl_pages": [
+        9198870,
+        9198871,
+        9198872,
+        9198873,
+        9198874
+      ]
+    },
+    {
+      "reference_id": "13947",
+      "genre": "article",
+      "title": "New Noctuids and Notes",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "223",
+      "epage": "234",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198883",
+      "created": "2010-01-13 15:00:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10151",
+          "lastname": "Smith",
+          "forename": "John B"
+        }
+      ],
+      "bhl_pages": [
+        9198883,
+        9198884,
+        9198885,
+        9198886,
+        9198887,
+        9198888,
+        9198889,
+        9198890,
+        9198891,
+        9198892,
+        9198893,
+        9198894
+      ]
+    },
+    {
+      "reference_id": "13948",
+      "genre": "article",
+      "title": "The Life-Histories of the New York Slug Caterpillars. (Conclusion)",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "234",
+      "epage": "253",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198894",
+      "created": "2010-01-13 15:00:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198894,
+        9198895,
+        9198896,
+        9198897,
+        9198898,
+        9198899,
+        9198900,
+        9198901,
+        9198902,
+        9198903,
+        9198904,
+        9198905,
+        9198906,
+        9198907,
+        9198908,
+        9198909,
+        9198910,
+        9198911,
+        9198912,
+        9198913
+      ]
+    },
+    {
+      "reference_id": "13949",
+      "genre": "article",
+      "title": "Description of the Mature Larva of Acronycta connecta",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "253",
+      "epage": "253",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198913",
+      "created": "2010-01-13 15:00:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10123",
+          "lastname": "Harrison G. Dyar",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9198913
+      ]
+    },
+    {
+      "reference_id": "13950",
+      "genre": "article",
+      "title": "Descriptions of and Notes on Some North American Lepidoptera",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "254",
+      "epage": "256",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198914",
+      "created": "2010-01-13 15:00:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10142",
+          "lastname": "Beutenmuller",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        9198914,
+        9198915,
+        9198916
+      ]
+    },
+    {
+      "reference_id": "13951",
+      "genre": "article",
+      "title": "New Records of Coccid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "257",
+      "epage": "259",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198917",
+      "created": "2010-01-13 15:00:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        9198917,
+        9198918,
+        9198919
+      ]
+    },
+    {
+      "reference_id": "13952",
+      "genre": "article",
+      "title": "Notes and Descriptions of Trypetid\u00e6",
+      "secondary_title": "Journal of The New York Entomological Society",
+      "volume": "7",
+      "spage": "259",
+      "epage": "268",
+      "year": "1899",
+      "date": "1899-00-00",
+      "issn": "0028-7199",
+      "PageID": "9198919",
+      "created": "2010-01-13 15:00:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8729",
+          "lastname": "Coquillett",
+          "forename": "D W"
+        }
+      ],
+      "bhl_pages": [
+        9198919,
+        9198920,
+        9198921,
+        9198922,
+        9198923,
+        9198924,
+        9198925,
+        9198926,
+        9198927,
+        9198928
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "ItemID": "105669",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "t. 89 1920",
+  "articles": [
+    {
+      "reference_id": "97401",
+      "genre": "article",
+      "title": "Sur quelques Culex des Pyr\u00e9n\u00e9es, III",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 entomologique de France",
+      "volume": "89",
+      "spage": "51",
+      "epage": "73",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0037-9271",
+      "PageID": "33880543",
+      "created": "2011-10-17 15:26:22",
+      "updated": "2011-10-17 15:26:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53294",
+          "lastname": "Brolemann",
+          "forename": "H-W"
+        }
+      ],
+      "bhl_pages": [
+        33880543,
+        33880544,
+        33880545,
+        33880546,
+        33880547,
+        33880548,
+        33880549,
+        33880588,
+        33880589,
+        33880590,
+        33880591,
+        33880592,
+        33880593,
+        33880594,
+        33880595,
+        33880596,
+        33880597,
+        33880598,
+        33880599,
+        33880600,
+        33880601,
+        33880602,
+        33880603
+      ]
+    },
+    {
+      "reference_id": "97400",
+      "genre": "article",
+      "title": "Contribution a l'\u00e9tude de la faune malgache: Les Oryctes de Madagascar [COL. SCARABEIDAE]",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 entomologique de France",
+      "volume": "89",
+      "spage": "79",
+      "epage": "88",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0037-9271",
+      "PageID": "33880609",
+      "created": "2011-10-17 15:21:32",
+      "updated": "2011-10-17 15:25:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53300",
+          "lastname": "Bertin",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        33880609,
+        33880610,
+        33880611,
+        33880612,
+        33880613,
+        33880614,
+        33880615,
+        33880616,
+        33880617,
+        33880618
+      ]
+    }
+  ]
+}

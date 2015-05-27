@@ -1,0 +1,203 @@
+{
+  "ItemID": "37307",
+  "FullTitle": "Notes from the Leyden Museum.",
+  "VolumeInfo": "v.4 (1882)",
+  "articles": [
+    {
+      "reference_id": "73621",
+      "genre": "article",
+      "title": "Remarks on certain American Diptera in the Leyden Museum and descriptions of nine new species",
+      "secondary_title": "Notes Leyden Mus",
+      "volume": "4",
+      "spage": "73",
+      "epage": "92",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "25797076",
+      "PageID": "9629588",
+      "created": "2011-06-04 09:27:44",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9955",
+          "lastname": "Wulp",
+          "forename": "F M Van Der"
+        }
+      ],
+      "bhl_pages": [
+        9629588,
+        9629589,
+        9629590,
+        9629591,
+        9629592,
+        9629593,
+        9629594,
+        9629595,
+        9629596,
+        9629597,
+        9629598,
+        9629599,
+        9629600,
+        9629601,
+        9629602,
+        9629603,
+        9629604,
+        9629605,
+        9629606,
+        9629607
+      ]
+    },
+    {
+      "reference_id": "60268",
+      "genre": "article",
+      "title": "List of holothurians in the collection of the Leyden Museum",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "4",
+      "spage": "127",
+      "epage": "137",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "25797076",
+      "PageID": "9629642",
+      "created": "2010-11-22 21:47:55",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42251",
+          "lastname": "Ludwig",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9629642,
+        9629643,
+        9629644,
+        9629645,
+        9629646,
+        9629647,
+        9629648,
+        9629649,
+        9629650,
+        9629651,
+        9629652
+      ]
+    },
+    {
+      "reference_id": "70443",
+      "genre": "article",
+      "title": "List of reptiles and amphibians brought from British india by Mr. Francis Day",
+      "secondary_title": "Notes Leyden Mus., Leiden",
+      "volume": "4",
+      "spage": "138",
+      "epage": "144",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "25797076",
+      "PageID": "9629653",
+      "created": "2011-06-03 06:35:31",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45294",
+          "lastname": "Hubrecht",
+          "forename": "A A W"
+        }
+      ],
+      "bhl_pages": [
+        9629653,
+        9629654,
+        9629655,
+        9629656,
+        9629657,
+        9629658,
+        9629659
+      ]
+    },
+    {
+      "reference_id": "70410",
+      "genre": "article",
+      "title": "Note XIV. Description of a new species of Apogonia discovered by M.L.Ritsema in Java",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "4",
+      "spage": "159",
+      "epage": "160",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "25797076",
+      "PageID": "9629674",
+      "created": "2011-06-03 06:34:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46550",
+          "lastname": "D.",
+          "forename": "Sharp"
+        }
+      ],
+      "bhl_pages": [
+        9629674,
+        9629675
+      ]
+    },
+    {
+      "reference_id": "70411",
+      "genre": "article",
+      "title": "Two new species of the Dynastid genus Dichodontus Burm",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "4",
+      "spage": "167",
+      "epage": "170",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "25797076",
+      "PageID": "9629682",
+      "created": "2011-06-03 06:34:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46547",
+          "lastname": "C.",
+          "forename": "Ritsema"
+        }
+      ],
+      "bhl_pages": [
+        9629682,
+        9629683,
+        9629684,
+        9629685
+      ]
+    },
+    {
+      "reference_id": "70412",
+      "genre": "article",
+      "title": "On an undescribed Cetoniid belonging to the genus Chalcothea Burm",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "4",
+      "spage": "171",
+      "epage": "172",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "25797076",
+      "PageID": "9629686",
+      "created": "2011-06-03 06:34:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46547",
+          "lastname": "C.",
+          "forename": "Ritsema"
+        }
+      ],
+      "bhl_pages": [
+        9629686,
+        9629687
+      ]
+    }
+  ]
+}

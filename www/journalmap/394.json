@@ -1,0 +1,53 @@
+{
+  "author": [
+    {
+      "firstname": "David Robert",
+      "lastname": "Ragge",
+      "name": "David Robert Ragge"
+    }
+  ],
+  "type": "article",
+  "title": "A revision of the African species of Pseudorhynchus Serville (Orthoptera: Tettigoniidae)",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) (Entomology)",
+    "volume": "23",
+    "issue": "5",
+    "pages": "167--190",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1969",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/394"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2313811"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 394
+    },
+    {
+      "type": "bhl",
+      "id": 2313811
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        13.75,
+        3.75
+      ]
+    ]
+  }
+}

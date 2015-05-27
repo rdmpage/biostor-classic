@@ -1,0 +1,90 @@
+{
+  "ItemID": "40814",
+  "FullTitle": "Spolia zeylanica.",
+  "VolumeInfo": "v. 10 (1914-1917)",
+  "articles": [
+    {
+      "reference_id": "58794",
+      "genre": "article",
+      "title": "Echinoderms of Ceylon other than holothurians",
+      "secondary_title": "Spolia Zeylandica",
+      "volume": "10",
+      "spage": "83",
+      "epage": "102",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "1766358",
+      "PageID": "10787993",
+      "created": "2010-11-20 22:52:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "775",
+          "lastname": "Clark",
+          "forename": "H L"
+        }
+      ],
+      "bhl_pages": [
+        10787993,
+        10787994,
+        10787995,
+        10787996,
+        10787997,
+        10787998,
+        10787999,
+        10788000,
+        10788001,
+        10788002,
+        10788003,
+        10788004,
+        10788005,
+        10788006,
+        10788007,
+        10788008,
+        10788009,
+        10788010,
+        10788011,
+        10788012
+      ]
+    },
+    {
+      "reference_id": "58861",
+      "genre": "article",
+      "title": "Notes on Ceylon Coccidae",
+      "secondary_title": "Spolia Zeylandica",
+      "volume": "10",
+      "spage": "103",
+      "epage": "115",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "1766358",
+      "PageID": "10788013",
+      "created": "2010-11-20 23:02:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42443",
+          "lastname": "Rutherford",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        10788013,
+        10788014,
+        10788015,
+        10788016,
+        10788017,
+        10788018,
+        10788019,
+        10788020,
+        10788021,
+        10788022,
+        10788023,
+        10788024,
+        10788025
+      ]
+    }
+  ]
+}

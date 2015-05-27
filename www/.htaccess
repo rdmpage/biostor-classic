@@ -1,0 +1,112 @@
+RewriteEngine on
+#RewriteBase /~rpage/bhl/www/
+RewriteBase /
+
+# If URL has "www" prefix strip and redirect to biostor.org
+# We also need to disable default hostname (uncheck checkbox in Server Admin/Web/Sites)
+RewriteCond %{HTTP_HOST} ^www.biostor.org$ 														[NC]
+RewriteRule ^(.*)$ 								http://130.209.46.59/$1 						[R=301,L]
+
+#---------------------------------------------------------------------------------------------------
+# Short URLs for wiki
+RewriteRule ^wiki/(.*)$ 						w/index.php?title=$1 							[PT,L,QSA]
+RewriteRule ^wiki/*$ 							w/index.php 									[L,QSA]
+
+#---------------------------------------------------------------------------------------------------
+# Reference
+RewriteRule ^reference/([0-9]+)$				display_reference.php?id=$1						[NC,L]
+
+# DocumentCloud
+
+# image
+RewriteRule ^reference/([0-9]+)/pages/([0-9]+)-([a-z]+)$	pages.php?id=$1&page=$2&size=$3	[NC,L]
+
+# Next rule uses QSA flag so that JSONP with ?callback= parameter will still work
+# see http://stackoverflow.com/questions/822421/match-question-mark-in-mod-rewrite-rule-regex
+#text
+RewriteRule ^reference/([0-9]+)/pages/([0-9]+)	pages.php?id=$1&page=$2							[QSA,L]
+
+RewriteRule ^dv/([0-9]+).json	documentcloud.php?id=$1											[QSA,L]
+RewriteRule ^dvs/([0-9]+).json	documentcloudsearch.php?id=$1					[QSA,L]
+
+# Gallica
+RewriteRule ^dg/(.*).json	dc.php?id=$1						[QSA,L]
+
+# BHL
+RewriteRule ^bhld/([0-9]+).json							bhl_documentcloud.php?item=$1			[QSA,L]
+RewriteRule ^bhldc/([0-9]+)/pages/([0-9]+)-([a-z]+)$	bhldc_pages.php?item=$1&page=$2&size=$3	[NC,L]
+RewriteRule ^bhldc/([0-9]+)/pages/([0-9]+)$				bhldc_pages.php?item=$1&page=$2			[QSA,L]
+
+
+RewriteRule ^reference/([0-9]+)/page/([0-9]+)$	display_reference.php?id=$1&page=$2				[NC,L]
+RewriteRule ^reference/([0-9]+)/backlinks$		display_backlinks.php?id=$1						[NC,L]
+RewriteRule ^reference/([0-9]+)/forwardlinks$	display_forwardlinks.php?id=$1					[NC,L]
+RewriteRule ^reference/([0-9]+)/page/([0-9]+)$	display_reference.php?id=$1&page=$2				[NC,L]
+
+# Next rule uses QSA flag so that JSONP with ?callback= parameter will still work
+# see http://stackoverflow.com/questions/822421/match-question-mark-in-mod-rewrite-rule-regex
+RewriteRule ^reference/([0-9]+).(.*)$			display_reference.php?id=$1&format=$2			[QSA,L]
+
+#---------------------------------------------------------------------------------------------------
+# Specimen
+RewriteRule ^specimen/(.*)					display_specimen.php?code=$1							[NC,L]
+
+
+#---------------------------------------------------------------------------------------------------
+# Author
+RewriteRule ^author/(.*)					display_author.php?id=$1							[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# Taxon name
+# 
+RewriteRule ^name/([0-9]+)$					display_name.php?namebankid=$1						[NC,L]
+RewriteRule ^name/(.*)\.json				display_name.php?namestring=$1&format=json			[QSA,L]
+RewriteRule ^name/(.*)$						display_name.php?namestring=$1						[NC,L]
+
+
+#---------------------------------------------------------------------------------------------------
+# BHL Title
+RewriteRule ^title/(.*)						display_title.php?id=$1								[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# BHL Item
+RewriteRule ^item/([0-9]+)$					display_item.php?id=$1								[NC,L]
+RewriteRule ^item/([0-9]+)/page/([0-9]+)$	display_item.php?id=$1&page=$2						[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# BHL Page
+RewriteRule ^page/(.*)						display_page.php?PageID=$1							[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# Identifiers
+#---------------------------------------------------------------------------------------------------
+
+#---------------------------------------------------------------------------------------------------
+# LSIDs
+RewriteRule ^urn:lsid:ubio.org:namebank:([0-9]+)$				display_name.php?namebankid=$1	[NC,L]
+RewriteRule ^(urn:lsid:catalogueoflife.org:taxon:(.*):ac2008)$	display_name.php?lsid=$1		[NC,L]
+
+RewriteRule ^urn:lsid:(.*)$					display_lsid.php?lsid=urn:lsid:$1					[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# ISSN
+RewriteRule ^issn/([0-9]{4})-([0-9]{3})([0-9]|X).(.*)$		display_journal.php?issn=$1-$2$3&format=$4	[NC,L]
+RewriteRule ^issn/([0-9]{4})-([0-9]{3})([0-9]|X)$			display_journal.php?issn=$1-$2$3			[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# OCLC
+RewriteRule ^oclc/(.*)$						display_oclc.php?oclc=$1							[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# SICI
+RewriteRule ^sici/(.*)						display_sici.php?sici=$1							[NC,L]
+RewriteRule ^sici:(.*)						display_sici.php?sici=$1							[NC,L]
+
+#---------------------------------------------------------------------------------------------------
+# DOI
+RewriteRule ^doi:(.*)						display_doi.php?doi=$1								[NC,L]
+
+
+#---------------------------------------------------------------------------------------------------
+# Graphviz
+RewriteRule ^coauthor/(.*)					coauthor_graph.php?author_id=$1						[NC,L]

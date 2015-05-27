@@ -1,0 +1,79 @@
+{
+  "ItemID": "34025",
+  "FullTitle": "Journal of the New York Entomological Society.",
+  "VolumeInfo": "v. 28 1920",
+  "articles": [
+    {
+      "reference_id": "57509",
+      "genre": "article",
+      "title": "Coleoptera collected at Windsor, Broome Co., N.Y., 26 May to 5 June, 1918, with notes and descriptions",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "28",
+      "spage": "178",
+      "epage": "194",
+      "year": "1920",
+      "date": "1920-00-00",
+      "issn": "0028-7199",
+      "PageID": "8190187",
+      "created": "2010-11-20 13:25:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42060",
+          "lastname": "Notman",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8190187,
+        8190188,
+        8190189,
+        8190190,
+        8190191,
+        8190192,
+        8190193,
+        8190194,
+        8190195,
+        8190196,
+        8190197,
+        8190198,
+        8190199,
+        8190200,
+        8190201,
+        8190202,
+        8190203
+      ]
+    },
+    {
+      "reference_id": "71151",
+      "genre": "article",
+      "title": "New species of Serica. III",
+      "secondary_title": "Journal of the New York entomological Society. New York",
+      "volume": "28",
+      "spage": "208",
+      "epage": "212",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1334066",
+      "PageID": "8190221",
+      "created": "2011-06-03 17:59:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46766",
+          "lastname": "Dawson",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        8190221,
+        8190222,
+        8190223,
+        8190224,
+        8190225
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "ItemID": "38385",
+  "FullTitle": "Monitore zoologico italiano.",
+  "VolumeInfo": "v. 25 (1914)",
+  "articles": [
+    {
+      "reference_id": "58691",
+      "genre": "article",
+      "title": "Su due nuovi Isidae del Mediterraneo (Diagnosi Preliminari)",
+      "secondary_title": "Monitore Zoologico Italiano",
+      "volume": "25",
+      "spage": "151",
+      "epage": "152",
+      "year": "1914",
+      "date": "1914-00-00",
+      "oclc": "819064",
+      "PageID": "10069517",
+      "created": "2010-11-20 22:30:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42406",
+          "lastname": "Cecchini",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        10069517,
+        10069518
+      ]
+    }
+  ]
+}

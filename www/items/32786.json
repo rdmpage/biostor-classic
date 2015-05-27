@@ -1,0 +1,101 @@
+{
+  "ItemID": "32786",
+  "FullTitle": "Bulletin - United States National Museum.",
+  "VolumeInfo": "no. 25 1884",
+  "articles": [
+    {
+      "reference_id": "60041",
+      "genre": "article",
+      "title": "Annelida from Bermuda",
+      "secondary_title": "Bulletin of the United States National Museum",
+      "volume": "25",
+      "spage": "305",
+      "epage": "327",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0096-2961",
+      "PageID": "7725366",
+      "created": "2010-11-22 17:52:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42743",
+          "lastname": "Webster",
+          "forename": "H E"
+        }
+      ],
+      "bhl_pages": [
+        7725366,
+        7725437,
+        7725438,
+        7725439,
+        7725440,
+        7725441,
+        7725442,
+        7725443,
+        7725444,
+        7725445,
+        7725446,
+        7725367,
+        7725368,
+        7725369,
+        7725370,
+        7725371,
+        7725372,
+        7725373,
+        7725374,
+        7725375,
+        7725376,
+        7725377,
+        7725378
+      ]
+    },
+    {
+      "reference_id": "21229",
+      "genre": "article",
+      "title": "Annelida from Bermuda collected by G. Brown Goode",
+      "secondary_title": "Bulletin of the United States National Museum",
+      "volume": "25",
+      "spage": "307",
+      "epage": "327",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0096-2961",
+      "PageID": "7725438",
+      "created": "2010-02-13 10:51:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18465",
+          "lastname": "Webster",
+          "forename": "Henry E"
+        }
+      ],
+      "bhl_pages": [
+        7725438,
+        7725439,
+        7725440,
+        7725441,
+        7725442,
+        7725443,
+        7725444,
+        7725445,
+        7725446,
+        7725367,
+        7725368,
+        7725369,
+        7725370,
+        7725371,
+        7725372,
+        7725373,
+        7725374,
+        7725375,
+        7725376,
+        7725377,
+        7725378
+      ]
+    }
+  ]
+}

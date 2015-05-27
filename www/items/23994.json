@@ -1,0 +1,73 @@
+{
+  "ItemID": "23994",
+  "FullTitle": "The Ohio journal of science.",
+  "VolumeInfo": "v. 19 (1918-1919)",
+  "articles": [
+    {
+      "reference_id": "104180",
+      "genre": "article",
+      "title": "A key to the species of Wisconsin ants, with notes on their habits",
+      "secondary_title": "Ohio Journal of Science",
+      "volume": "19",
+      "spage": "279",
+      "epage": "292",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0030-0950",
+      "PageID": "3802931",
+      "created": "2012-06-10 17:59:36",
+      "updated": "2012-06-10 17:59:36",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3802931,
+        3802932,
+        3802933,
+        3802934,
+        3802935,
+        3802936,
+        3802937,
+        3802938,
+        3802939,
+        3802940,
+        3802941,
+        3802942,
+        3802943,
+        3802944
+      ]
+    },
+    {
+      "reference_id": "57353",
+      "genre": "article",
+      "title": "New spiders from Ohio",
+      "secondary_title": "Ohio Jour. Sci.",
+      "volume": "19",
+      "spage": "355",
+      "epage": "360",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0030-0950",
+      "PageID": "3803007",
+      "created": "2010-11-18 14:01:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18079",
+          "lastname": "Barrows",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        3803007,
+        3803008,
+        3803009,
+        3803010,
+        3803011,
+        3803012
+      ]
+    }
+  ]
+}

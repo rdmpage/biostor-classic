@@ -1,0 +1,104 @@
+{
+  "ItemID": "95638",
+  "FullTitle": "Mitteilungen aus dem Zoologischen Museum in Berlin.",
+  "VolumeInfo": "bd. 2 (1901-04)",
+  "articles": [
+    {
+      "reference_id": "65458",
+      "genre": "article",
+      "title": "Formiciden aus dem Bismarck-Archipel, auf Grundlage des von Prof. Dr. F. Dahl gesammelten Materials bearbeitet",
+      "secondary_title": "Mitteilungen Aus Dem Zoologischen Museum In Berlin",
+      "volume": "2",
+      "spage": "1",
+      "epage": "37",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0373-8493",
+      "PageID": "30303288",
+      "created": "2011-03-06 11:22:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10354",
+          "lastname": "Forel",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30303288,
+        30303289,
+        30303290,
+        30303291,
+        30303292,
+        30303293,
+        30303294,
+        30303295,
+        30303296,
+        30303297,
+        30303298,
+        30303299,
+        30303300,
+        30303301,
+        30303302,
+        30303303,
+        30303304,
+        30303305,
+        30303306,
+        30303307,
+        30303308,
+        30303309,
+        30303310,
+        30303311,
+        30303312,
+        30303313,
+        30303314,
+        30303315,
+        30303316,
+        30303317,
+        30303318,
+        30303319,
+        30303320,
+        30303321,
+        30303322,
+        30303323,
+        30303324
+      ]
+    },
+    {
+      "reference_id": "65320",
+      "genre": "article",
+      "title": "Zur Kenntnis der Insekten Deutsch-Ostafrikas. Ergebnisse der Nyassassee- und Kingagebirgs-Expedition der Hackmann-Wentzelstiftung. 2. Psociden aus Deutsch-Ostafrikas",
+      "secondary_title": "Mitteilungen Aus Dem Zoologischen Museum In Berlin",
+      "volume": "2",
+      "spage": "7",
+      "epage": "16",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0373-8493",
+      "PageID": "30303494",
+      "created": "2011-02-18 23:29:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        30303494,
+        30303495,
+        30303496,
+        30303497,
+        30303498,
+        30303499,
+        30303500,
+        30303501,
+        30303502,
+        30303503
+      ]
+    }
+  ]
+}

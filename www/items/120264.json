@@ -1,0 +1,37 @@
+{
+  "ItemID": "120264",
+  "FullTitle": "Memoirs of the National Museum of Victoria. ",
+  "VolumeInfo": "20",
+  "articles": [
+    {
+      "reference_id": "100820",
+      "genre": "article",
+      "title": "On the New Guinea taipan",
+      "secondary_title": "Memoirs of the National Museum of Victoria",
+      "volume": "20",
+      "spage": "201",
+      "epage": "205",
+      "year": "1956",
+      "date": "1956-00-00",
+      "issn": "0083-5986",
+      "PageID": "38971869",
+      "created": "2012-03-06 13:00:43",
+      "updated": "2012-03-06 13:03:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53453",
+          "lastname": "Slater",
+          "forename": "K R"
+        }
+      ],
+      "bhl_pages": [
+        38971869,
+        38971870,
+        38971871,
+        38971872,
+        38971873
+      ]
+    }
+  ]
+}

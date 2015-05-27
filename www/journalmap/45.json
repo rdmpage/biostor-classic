@@ -1,0 +1,58 @@
+{
+  "author": [
+    {
+      "firstname": "H L",
+      "lastname": "Sanders",
+      "name": "H L Sanders"
+    },
+    {
+      "firstname": "J A",
+      "lastname": "Allen",
+      "name": "J A Allen"
+    }
+  ],
+  "type": "article",
+  "title": "Studies on deep-sea Protobranchia (Bivalvia); the family Malletiidae",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Zoology",
+    "volume": "49",
+    "issue": "2",
+    "pages": "195--238",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0007-1498"
+      }
+    ]
+  },
+  "year": "1985",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/45"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2273659"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 45
+    },
+    {
+      "type": "bhl",
+      "id": 2273659
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        7.8166666666667,
+        -41.05
+      ]
+    ]
+  }
+}

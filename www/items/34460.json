@@ -1,0 +1,36 @@
+{
+  "ItemID": "34460",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de France.",
+  "VolumeInfo": "ser. 3, t. 6 1858",
+  "articles": [
+    {
+      "reference_id": "61666",
+      "genre": "article",
+      "title": "Description d'un nouveau genre de la tribu des Longicoxes, Amyot & Serville, groupe des Em\u00e9sides",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "6",
+      "series": "3",
+      "spage": "251",
+      "epage": "253",
+      "year": "1858",
+      "date": "1858-00-00",
+      "issn": "0037-9271",
+      "PageID": "8375172",
+      "created": "2011-01-10 23:26:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42970",
+          "lastname": "Signoret",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        8375172,
+        8375173,
+        8375174
+      ]
+    }
+  ]
+}

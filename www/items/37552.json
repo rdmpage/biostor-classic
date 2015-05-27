@@ -1,0 +1,71 @@
+{
+  "ItemID": "37552",
+  "FullTitle": "The Victorian naturalist.",
+  "VolumeInfo": "v.18, 1901-1902",
+  "articles": [
+    {
+      "reference_id": "61353",
+      "genre": "article",
+      "title": "Descriptions of some Mallophaga from Australian birds",
+      "secondary_title": "Victorian Naturalist",
+      "volume": "18",
+      "spage": "155",
+      "epage": "158",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0042-5184",
+      "PageID": "9727448",
+      "created": "2011-01-10 19:10:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42994",
+          "lastname": "Le Sou\u00ebf",
+          "forename": "S A"
+        },
+        {
+          "id": "42995",
+          "lastname": "Bullen",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9727448,
+        9727449,
+        9727450,
+        9727451
+      ]
+    },
+    {
+      "reference_id": "65085",
+      "genre": "article",
+      "title": "Description of a mallophagous parasite from the kangaroo",
+      "secondary_title": "Victorian Naturalist",
+      "volume": "18",
+      "spage": "159",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0042-5184",
+      "PageID": "9727454",
+      "created": "2011-01-31 14:01:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44764",
+          "lastname": "Le Sou\u00ebf",
+          "forename": "Albert Sherbourne"
+        },
+        {
+          "id": "42995",
+          "lastname": "Bullen",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9727454
+      ]
+    }
+  ]
+}

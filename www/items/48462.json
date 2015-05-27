@@ -1,0 +1,91 @@
+{
+  "ItemID": "48462",
+  "FullTitle": "Natuurkundig tijdschrift voor Nederlandsch Indi\u00eb \/  uitgegeven door de Natuurkundige Vereeniging in Nederlandsch Indi\u00eb.",
+  "VolumeInfo": "v.12 1857",
+  "articles": [
+    {
+      "reference_id": "61457",
+      "genre": "article",
+      "title": "Achtste bijdrage tot de kennis der ichthyologische fauna van Ternate",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "12",
+      "spage": "191",
+      "epage": "210",
+      "year": "1857",
+      "date": "1857-00-00",
+      "oclc": "7830420",
+      "PageID": "13616955",
+      "created": "2011-01-10 20:37:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13616955,
+        13616956,
+        13616957,
+        13616958,
+        13616959,
+        13616960,
+        13616961,
+        13616962,
+        13616963,
+        13616964,
+        13616965,
+        13616966,
+        13616967,
+        13616968,
+        13616969,
+        13616970,
+        13616971,
+        13616972,
+        13616973,
+        13616974
+      ]
+    },
+    {
+      "reference_id": "61411",
+      "genre": "article",
+      "title": "Derde Bijdrage tot de kennis der ichthyologische fauna van de Batoe-eilanden",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "12",
+      "spage": "229",
+      "epage": "242",
+      "year": "1857",
+      "date": "1857-00-00",
+      "oclc": "7830420",
+      "PageID": "13616993",
+      "created": "2011-01-10 19:54:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13616993,
+        13616994,
+        13616995,
+        13616996,
+        13616997,
+        13616998,
+        13616999,
+        13617000,
+        13617001,
+        13617002,
+        13617003,
+        13617004,
+        13617005,
+        13617006
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    },
+    {
+      "firstname": "David M",
+      "lastname": "Hillis",
+      "name": "David M Hillis"
+    }
+  ],
+  "type": "article",
+  "title": "Systematics of frogs of the Hyla larinopygion group",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "134",
+    "pages": "1--23",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1990",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/212"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/5721329"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 212
+    },
+    {
+      "type": "bhl",
+      "id": 5721329
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -79.033333333333,
+        -0.95
+      ]
+    ]
+  }
+}

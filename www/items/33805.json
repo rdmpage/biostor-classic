@@ -1,0 +1,194 @@
+{
+  "ItemID": "33805",
+  "FullTitle": "Proceedings of the Royal Society of Victoria.",
+  "VolumeInfo": "new ser. v. 24 (1911-1912)",
+  "articles": [
+    {
+      "reference_id": "58455",
+      "genre": "article",
+      "title": "A list of Victorian rotifers, with description of two new species and the males of two species",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "24",
+      "spage": "46",
+      "epage": "58",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0035-9211",
+      "PageID": "8094177",
+      "created": "2010-11-20 21:10:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42348",
+          "lastname": "Shephard",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        8094177,
+        8094178,
+        8094179,
+        8094180,
+        8094181,
+        8094182,
+        8094183,
+        8094184,
+        8094185,
+        8094186,
+        8094187,
+        8094188,
+        8094189
+      ]
+    },
+    {
+      "reference_id": "58412",
+      "genre": "article",
+      "title": "On some new species of Victorian Marine Mollusca",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "24",
+      "spage": "187",
+      "epage": "192",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0035-9211",
+      "PageID": "8094374",
+      "created": "2010-11-20 21:00:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42096",
+          "lastname": "Gatliff",
+          "forename": "J H"
+        },
+        {
+          "id": "42305",
+          "lastname": "Gabriel",
+          "forename": "C J"
+        }
+      ],
+      "bhl_pages": [
+        8094374,
+        8094375,
+        8094376,
+        8094377,
+        8094378,
+        8094379
+      ]
+    },
+    {
+      "reference_id": "58411",
+      "genre": "article",
+      "title": "Addition to and alterations in the Catalogue of Victorian Marine Mollusca",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "24",
+      "spage": "193",
+      "epage": "200",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0035-9211",
+      "PageID": "8094384",
+      "created": "2010-11-20 21:00:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42335",
+          "lastname": "Gabriel",
+          "forename": "C"
+        },
+        {
+          "id": "42096",
+          "lastname": "Gatliff",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        8094384,
+        8094385,
+        8094386,
+        8094387,
+        8094388,
+        8094389,
+        8094390,
+        8094391
+      ]
+    },
+    {
+      "reference_id": "68827",
+      "genre": "article",
+      "title": "Some new Australian Cicadidae",
+      "secondary_title": "Proceedings of The Royal Society of Victoria",
+      "volume": "24",
+      "issue": "2",
+      "spage": "221",
+      "epage": "229",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0035-9211",
+      "PageID": "8094414",
+      "created": "2011-05-31 14:29:03",
+      "updated": "2012-08-01 18:37:30",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40736",
+          "lastname": "Ashton",
+          "forename": "Howard"
+        }
+      ],
+      "bhl_pages": [
+        8094414,
+        8094415,
+        8094416,
+        8094417,
+        8094418,
+        8094419,
+        8094420,
+        8094421,
+        8094428,
+        8094422,
+        8094424,
+        8094426
+      ]
+    },
+    {
+      "reference_id": "58499",
+      "genre": "article",
+      "title": "The anatomy of the slug, Cystopelta petterdi var. purpurea, var. n",
+      "secondary_title": "Proceedings of the Royal Society of Victoria",
+      "volume": "24",
+      "spage": "331",
+      "epage": "342",
+      "year": "1912",
+      "date": "1912-00-00",
+      "issn": "0035-9211",
+      "PageID": "8094554",
+      "created": "2010-11-20 21:28:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42358",
+          "lastname": "Davies",
+          "forename": "O B"
+        }
+      ],
+      "bhl_pages": [
+        8094554,
+        8094555,
+        8094556,
+        8094557,
+        8094558,
+        8094559,
+        8094560,
+        8094561,
+        8094562,
+        8094563,
+        8094564,
+        8094565
+      ]
+    }
+  ]
+}

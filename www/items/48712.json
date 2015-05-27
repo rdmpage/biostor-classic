@@ -1,0 +1,41 @@
+{
+  "ItemID": "48712",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 2, v. 13 (1861)",
+  "articles": [
+    {
+      "reference_id": "61366",
+      "genre": "article",
+      "title": "Des Limaces Algeri\u00e9nnes",
+      "secondary_title": "Revue et Magasin de Zoologie Pure et Appliqu\u00e9e. Paris",
+      "volume": "13",
+      "series": "2",
+      "spage": "299",
+      "epage": "307",
+      "year": "1861",
+      "date": "1861-00-00",
+      "PageID": "13713693",
+      "created": "2011-01-10 19:19:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42999",
+          "lastname": "Bourguignat",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        13713693,
+        13713694,
+        13713695,
+        13713696,
+        13713697,
+        13713698,
+        13713699,
+        13713700,
+        13713701
+      ]
+    }
+  ]
+}

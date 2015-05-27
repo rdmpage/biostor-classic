@@ -1,0 +1,71 @@
+{
+  "ItemID": "43842",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 4 1908",
+  "articles": [
+    {
+      "reference_id": "71500",
+      "genre": "article",
+      "title": "|Eurytoma| sp., ein neuer Feind der schwarzen Zwetsche und der Reineclaude",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insektenbiologie, Berlin",
+      "volume": "4",
+      "spage": "26",
+      "epage": "28",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1770562",
+      "PageID": "11994553",
+      "created": "2011-06-03 20:05:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46839",
+          "lastname": "Schreiner",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        11994553,
+        11994554,
+        11994555
+      ]
+    },
+    {
+      "reference_id": "105576",
+      "genre": "article",
+      "title": "Die geographische Yerbreitimg der Diptera pupipara und ihre Phylogenie",
+      "secondary_title": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie",
+      "volume": "4",
+      "spage": "437",
+      "epage": "447",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1770562",
+      "PageID": "11995006",
+      "created": "2012-08-01 13:18:14",
+      "updated": "2012-08-01 13:19:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40787",
+          "lastname": "Speiser",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11995006,
+        11995007,
+        11995008,
+        11995009,
+        11995010,
+        11995011,
+        11995012,
+        11995013,
+        11995014,
+        11995015,
+        11995016
+      ]
+    }
+  ]
+}

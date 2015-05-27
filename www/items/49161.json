@@ -1,0 +1,594 @@
+{
+  "ItemID": "49161",
+  "FullTitle": "Memoirs of the Queensland Museum.",
+  "VolumeInfo": "v.5 1916",
+  "articles": [
+    {
+      "reference_id": "60902",
+      "genre": "article",
+      "title": "On Fish Poisoning and Poisons Employed among the Aborigines of Queensland - Plates IV and V and One Text-figure",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "1",
+      "epage": "22",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851413",
+      "created": "2010-11-23 22:08:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42885",
+          "lastname": "Hamlyn-Harris",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        13851413,
+        13851412,
+        13851411,
+        13851410,
+        13851409,
+        13851376,
+        13851377,
+        13851378,
+        13851379,
+        13851380,
+        13851381,
+        13851382,
+        13851383,
+        13851384,
+        13851385,
+        13851386,
+        13851387,
+        13851388,
+        13851389,
+        13851390,
+        13851391,
+        13851392
+      ]
+    },
+    {
+      "reference_id": "60883",
+      "genre": "article",
+      "title": "List of Australasian and Austro-Pacific Muridae",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "23",
+      "epage": "45",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851397",
+      "created": "2010-11-23 21:14:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39422",
+          "lastname": "Longman",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        13851397,
+        13851398,
+        13851399,
+        13851400,
+        13851401,
+        13851402,
+        13851403,
+        13851404,
+        13851405,
+        13851406,
+        13851407,
+        13851408,
+        13851432,
+        13851433,
+        13851434,
+        13851435,
+        13851436,
+        13851437,
+        13851438,
+        13851439,
+        13851440,
+        13851441,
+        13851442
+      ]
+    },
+    {
+      "reference_id": "58935",
+      "genre": "article",
+      "title": "Snakes and lizards from Queensland and the Northern Territory",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "46",
+      "epage": "51",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851443",
+      "created": "2010-11-20 23:14:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39422",
+          "lastname": "Longman",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        13851443,
+        13851444,
+        13851445,
+        13851446,
+        13851447,
+        13851448
+      ]
+    },
+    {
+      "reference_id": "65518",
+      "genre": "article",
+      "title": "Some Australian fish-scales",
+      "secondary_title": "Memoirs of The Queensland Museum",
+      "volume": "5",
+      "spage": "52",
+      "epage": "57",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851451",
+      "created": "2011-04-07 09:21:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        13851451,
+        13851452,
+        13851453,
+        13851454,
+        13851455,
+        13851456
+      ]
+    },
+    {
+      "reference_id": "58938",
+      "genre": "article",
+      "title": "Ichthyological items",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "58",
+      "epage": "69",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851457",
+      "created": "2010-11-20 23:14:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10307",
+          "lastname": "Mcculloch",
+          "forename": "A R"
+        }
+      ],
+      "bhl_pages": [
+        13851457,
+        13851458,
+        13851459,
+        13851460,
+        13851461,
+        13851462,
+        13851463,
+        13851464,
+        13851465,
+        13851466,
+        13851467,
+        13851468
+      ]
+    },
+    {
+      "reference_id": "60888",
+      "genre": "article",
+      "title": "Check-List of the Cephalochordates, Selachians, and Fishes of Queensland - Two Text-figures",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "70",
+      "epage": "98",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851475",
+      "created": "2010-11-23 21:30:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12",
+          "lastname": "Ogilby",
+          "forename": "J Douglas"
+        }
+      ],
+      "bhl_pages": [
+        13851475,
+        13851476,
+        13851477,
+        13851478,
+        13851479,
+        13851480,
+        13851481,
+        13851482,
+        13851483,
+        13851484,
+        13851485,
+        13851486,
+        13851487,
+        13851488,
+        13851489,
+        13851490,
+        13851491,
+        13851492,
+        13851493,
+        13851494,
+        13851495,
+        13851496,
+        13851497,
+        13851498,
+        13851499,
+        13851500,
+        13851501,
+        13851502,
+        13851503
+      ]
+    },
+    {
+      "reference_id": "58944",
+      "genre": "article",
+      "title": "A revision of the Australian therapons with notes on some Papuan species",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "99",
+      "epage": "126",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851504",
+      "created": "2010-11-20 23:15:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10305",
+          "lastname": "Ogilby",
+          "forename": "J D"
+        },
+        {
+          "id": "10307",
+          "lastname": "Mcculloch",
+          "forename": "A R"
+        }
+      ],
+      "bhl_pages": [
+        13851504,
+        13851505,
+        13851506,
+        13851507,
+        13851508,
+        13851509,
+        13851510,
+        13851511,
+        13851512,
+        13851513,
+        13851514,
+        13851515,
+        13851516,
+        13851517,
+        13851518,
+        13851519,
+        13851520,
+        13851521,
+        13851522,
+        13851523,
+        13851524,
+        13851525,
+        13851526,
+        13851527,
+        13851528,
+        13851529,
+        13851530,
+        13851531
+      ]
+    },
+    {
+      "reference_id": "58943",
+      "genre": "article",
+      "title": "Edible fishes of Queensland. Parts 4\u20139",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "127",
+      "epage": "177",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851540",
+      "created": "2010-11-20 23:15:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10305",
+          "lastname": "Ogilby",
+          "forename": "J D"
+        }
+      ],
+      "bhl_pages": [
+        13851540,
+        13851541,
+        13851542,
+        13851543,
+        13851544,
+        13851545,
+        13851546,
+        13851547,
+        13851548,
+        13851549,
+        13851550,
+        13851551,
+        13851552,
+        13851553,
+        13851554,
+        13851555,
+        13851556,
+        13851557,
+        13851558,
+        13851559,
+        13851560,
+        13851561,
+        13851562,
+        13851563,
+        13851564,
+        13851565,
+        13851566,
+        13851567,
+        13851568,
+        13851569,
+        13851570,
+        13851571,
+        13851572,
+        13851573,
+        13851574,
+        13851575,
+        13851576,
+        13851577,
+        13851578,
+        13851579,
+        13851580,
+        13851581,
+        13851582,
+        13851583,
+        13851584,
+        13851585,
+        13851586,
+        13851587,
+        13851588,
+        13851589,
+        13851590
+      ]
+    },
+    {
+      "reference_id": "60891",
+      "genre": "article",
+      "title": "Review of the Queensland Pomacanthinae - Supplement No. 1",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "178",
+      "epage": "180",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851611",
+      "created": "2010-11-23 21:31:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "12",
+          "lastname": "Ogilby",
+          "forename": "J Douglas"
+        }
+      ],
+      "bhl_pages": [
+        13851611,
+        13851612,
+        13851613
+      ]
+    },
+    {
+      "reference_id": "58942",
+      "genre": "article",
+      "title": "Ichthyological notes (No. 3)",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "181",
+      "epage": "185",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851614",
+      "created": "2010-11-20 23:15:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10305",
+          "lastname": "Ogilby",
+          "forename": "J D"
+        }
+      ],
+      "bhl_pages": [
+        13851614,
+        13851615,
+        13851616,
+        13851617,
+        13851618
+      ]
+    },
+    {
+      "reference_id": "58928",
+      "genre": "article",
+      "title": "Helminthological notes",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "186",
+      "epage": "196",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851619",
+      "created": "2010-11-20 23:12:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41019",
+          "lastname": "Johnston",
+          "forename": "T H"
+        }
+      ],
+      "bhl_pages": [
+        13851619,
+        13851620,
+        13851621,
+        13851622,
+        13851623,
+        13851624,
+        13851625,
+        13851626,
+        13851627,
+        13851628,
+        13851629
+      ]
+    },
+    {
+      "reference_id": "58896",
+      "genre": "article",
+      "title": "A collection of bees from Queensland",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "197",
+      "epage": "204",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851630",
+      "created": "2010-11-20 23:08:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        13851630,
+        13851631,
+        13851632,
+        13851633,
+        13851634,
+        13851635,
+        13851636,
+        13851637
+      ]
+    },
+    {
+      "reference_id": "58913",
+      "genre": "article",
+      "title": "Australian Hymenoptera Chalcidoidea \u2014 general supplement",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "205",
+      "epage": "230",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851638",
+      "created": "2010-11-20 23:10:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        13851638,
+        13851639,
+        13851640,
+        13851641,
+        13851642,
+        13851643,
+        13851644,
+        13851645,
+        13851646,
+        13851647,
+        13851648,
+        13851649,
+        13851650,
+        13851651,
+        13851652,
+        13851653,
+        13851654,
+        13851655,
+        13851656,
+        13851657,
+        13851658,
+        13851659,
+        13851660,
+        13851661,
+        13851662,
+        13851663
+      ]
+    },
+    {
+      "reference_id": "60893",
+      "genre": "article",
+      "title": "Note on a Specimen of Annularia from near Dunedoo, New South Wales - Plate XXV",
+      "secondary_title": "Memoirs of the Queensland Museum",
+      "volume": "5",
+      "spage": "233",
+      "epage": "234",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0079-8835",
+      "PageID": "13851668",
+      "created": "2010-11-23 21:45:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40857",
+          "lastname": "Walkom",
+          "forename": "A B"
+        }
+      ],
+      "bhl_pages": [
+        13851668,
+        13851669
+      ]
+    }
+  ]
+}

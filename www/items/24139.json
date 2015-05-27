@@ -1,0 +1,134 @@
+{
+  "ItemID": "24139",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 12 (1898)",
+  "articles": [
+    {
+      "reference_id": "67337",
+      "genre": "article",
+      "title": "Notes on fishes collected by E. W. Nelson on the Tres Marias islands and in Sinaloa and Jalisco, Mexico",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "12",
+      "spage": "1",
+      "epage": "3",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0006-324X",
+      "PageID": "3849865",
+      "created": "2011-05-26 06:23:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10209",
+          "lastname": "Evermann",
+          "forename": "Barton W"
+        }
+      ],
+      "bhl_pages": [
+        3849865,
+        3849866,
+        3849867
+      ]
+    },
+    {
+      "reference_id": "82968",
+      "genre": "article",
+      "title": "Descriptions of new birds from the Tres Marias Islands, western Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "12",
+      "spage": "5",
+      "epage": "11",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0006-324X",
+      "PageID": "3849869",
+      "created": "2011-07-31 04:03:20",
+      "updated": "2011-07-31 04:03:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49673",
+          "lastname": "Nelson",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        3849869,
+        3849870,
+        3849871,
+        3849872,
+        3849873,
+        3849874,
+        3849875
+      ]
+    },
+    {
+      "reference_id": "16",
+      "genre": "article",
+      "title": "Random notes on the nomenclature of the Chiroptera",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "12",
+      "spage": "109",
+      "epage": "114",
+      "year": "1898",
+      "date": "1898-04-30",
+      "issn": "0006-324X",
+      "PageID": "3849981",
+      "created": "2009-12-21 18:50:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "24",
+          "lastname": "Palmer",
+          "forename": "T S"
+        }
+      ],
+      "bhl_pages": [
+        3849981,
+        3849982,
+        3849983,
+        3849984,
+        3849985,
+        3849986
+      ]
+    },
+    {
+      "reference_id": "548",
+      "genre": "article",
+      "title": "Descriptions of twenty new species and a new subgenus of Peromyscus from Mexico and Guatemala",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "12",
+      "spage": "115",
+      "epage": "125",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0006-324X",
+      "PageID": "3849989",
+      "created": "2009-12-23 02:56:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "497",
+          "lastname": "Merriam",
+          "forename": "C Hart"
+        }
+      ],
+      "bhl_pages": [
+        3849989,
+        3849990,
+        3849991,
+        3849992,
+        3849993,
+        3849994,
+        3849995,
+        3849996,
+        3849997,
+        3849998,
+        3849999
+      ]
+    }
+  ]
+}

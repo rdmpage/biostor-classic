@@ -1,0 +1,36 @@
+{
+  "ItemID": "24359",
+  "FullTitle": "Edinburgh New Philosophical Journal.",
+  "VolumeInfo": "31",
+  "articles": [
+    {
+      "reference_id": "60874",
+      "genre": "article",
+      "title": "On Gymnorhynchus horridus, a new cestoid entozoon",
+      "secondary_title": "Edinburgh New Philosophical Journal",
+      "volume": "31",
+      "spage": "9",
+      "epage": "12",
+      "year": "1841",
+      "date": "1841-00-00",
+      "oclc": "32831669",
+      "PageID": "3915407",
+      "created": "2010-11-23 04:54:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42880",
+          "lastname": "Goodsir",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3915407,
+        3915408,
+        3915409,
+        3915410
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ItemID": "44576",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 25-26 1904-05",
+  "articles": [
+    {
+      "reference_id": "72893",
+      "genre": "article",
+      "title": "Sibirische Ichneumonen im Schwedischen Reichsmuseum",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "25",
+      "spage": "138",
+      "epage": "150",
+      "year": "1904",
+      "date": "1904-00-00",
+      "issn": "0013-886X",
+      "PageID": "12258990",
+      "created": "2011-06-04 04:39:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42322",
+          "lastname": "Roman",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        12258990,
+        12258991,
+        12258992,
+        12258993,
+        12258994,
+        12258995,
+        12258996,
+        12258997,
+        12258998,
+        12258999,
+        12259000,
+        12259001,
+        12259002
+      ]
+    },
+    {
+      "reference_id": "53170",
+      "genre": "article",
+      "title": "Diagnosen neuer schwedischen Polyneuren",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "26",
+      "spage": "69",
+      "epage": "72",
+      "year": "1905",
+      "date": "1905-00-00",
+      "issn": "0013-886X",
+      "PageID": "12259237",
+      "created": "2010-10-26 16:57:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40780",
+          "lastname": "Wahlgren",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        12259237,
+        12259238,
+        12259239,
+        12259240
+      ]
+    }
+  ]
+}

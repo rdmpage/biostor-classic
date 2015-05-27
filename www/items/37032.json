@@ -1,0 +1,69 @@
+{
+  "ItemID": "37032",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "9",
+  "articles": [
+    {
+      "reference_id": "71069",
+      "genre": "article",
+      "title": "On the genus Colias in North America",
+      "secondary_title": "Proc. Boston Soc. nat. Hist",
+      "volume": "9",
+      "spage": "103",
+      "epage": "111",
+      "issn": "0270-2444",
+      "PageID": "9491065",
+      "created": "2011-06-03 17:38:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42794",
+          "lastname": "Scudder",
+          "forename": "S H"
+        }
+      ],
+      "bhl_pages": [
+        9491065,
+        9491066,
+        9491067,
+        9491068,
+        9491069,
+        9491070,
+        9491071,
+        9491072,
+        9491073
+      ]
+    },
+    {
+      "reference_id": "51693",
+      "genre": "article",
+      "title": "Catalogue of the reptiles and batrachians found in the vicinity of Norway, Oxford Co., Maine",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "9",
+      "spage": "195",
+      "epage": "199",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0270-2444",
+      "PageID": "9491141",
+      "created": "2010-06-27 02:52:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40221",
+          "lastname": "Verrill",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        9491141,
+        9491142,
+        9491143,
+        9491144,
+        9491145
+      ]
+    }
+  ]
+}

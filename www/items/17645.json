@@ -1,0 +1,75 @@
+{
+  "ItemID": "17645",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 50 (1898)",
+  "articles": [
+    {
+      "reference_id": "69207",
+      "genre": "article",
+      "title": "The Gerrhonotus of the San Lucan fauna, Lower California, with diagnoses of other west American species",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "1898",
+      "spage": "63",
+      "epage": "66",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0097-3157",
+      "PageID": "1647557",
+      "created": "2011-06-01 08:39:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40832",
+          "lastname": "Van Denburgh",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        1647557,
+        1647558,
+        1647559,
+        1647560
+      ]
+    },
+    {
+      "reference_id": "69338",
+      "genre": "article",
+      "title": "Odonata (Dragonflies) from the Indian Ocean, and from Kashmir, collected by Dr. W.L. Abbott",
+      "secondary_title": "Proceedings Academy Natural Sciences Philadelphia",
+      "volume": "1898",
+      "spage": "141",
+      "epage": "154",
+      "year": "1898",
+      "date": "1898-00-00",
+      "issn": "0097-3157",
+      "PageID": "1647635",
+      "created": "2011-06-01 08:48:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45165",
+          "lastname": "Calvert",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        1647635,
+        1647636,
+        1647637,
+        1647638,
+        1647639,
+        1647640,
+        1647641,
+        1647642,
+        1647643,
+        1647644,
+        1647645,
+        1647646,
+        1647647,
+        1647648
+      ]
+    }
+  ]
+}

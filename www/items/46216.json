@@ -1,0 +1,35 @@
+{
+  "ItemID": "46216",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "pt. 16-17 (1848-1849)",
+  "articles": [
+    {
+      "reference_id": "101515",
+      "genre": "article",
+      "title": "Description of a new genus of insectivorous Mammalia, or Talpidae, from Borneo",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1848",
+      "spage": "23",
+      "epage": "24",
+      "year": "1848",
+      "date": "1848-00-00",
+      "issn": "0370-2774",
+      "PageID": "12861865",
+      "created": "2012-03-16 14:35:01",
+      "updated": "2012-03-16 14:36:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40410",
+          "lastname": "Gray",
+          "forename": "John Edward"
+        }
+      ],
+      "bhl_pages": [
+        12861865,
+        12861866,
+        12861864
+      ]
+    }
+  ]
+}

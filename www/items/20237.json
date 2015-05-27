@@ -1,0 +1,917 @@
+{
+  "ItemID": "20237",
+  "FullTitle": "Entomological news, and proceedings of the Entomological Section of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 24 (1913)",
+  "articles": [
+    {
+      "reference_id": "84660",
+      "genre": "article",
+      "title": "New species of Heterocera from Brazil",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "24",
+      "spage": "3",
+      "epage": "6",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585121",
+      "created": "2011-08-10 22:57:26",
+      "updated": "2011-08-10 22:57:26",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2585121,
+        2585122,
+        2585123,
+        2585124
+      ]
+    },
+    {
+      "reference_id": "3862",
+      "genre": "article",
+      "title": "The effect of temperature on the molting of the Walking-stick, Diapheromera femorata Say (Orthop.)",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "14",
+      "epage": "19",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585132",
+      "created": "2009-12-26 19:18:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2419",
+          "lastname": "Severin",
+          "forename": "Henry H P"
+        }
+      ],
+      "bhl_pages": [
+        2585132,
+        2585133,
+        2585134,
+        2585135,
+        2585136,
+        2585137
+      ]
+    },
+    {
+      "reference_id": "84753",
+      "genre": "article",
+      "title": "Some new and little-known Heteroptera from the western United States",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "24",
+      "spage": "20",
+      "epage": "23",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585138",
+      "created": "2011-08-10 23:04:37",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42259",
+          "lastname": "De La Torre Bueno",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        2585138,
+        2585139,
+        2585140,
+        2585141
+      ]
+    },
+    {
+      "reference_id": "73753",
+      "genre": "article",
+      "title": "New North American Tachinidae (Dipt.)",
+      "secondary_title": "Ent. News",
+      "volume": "24",
+      "spage": "49",
+      "epage": "52",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585175",
+      "created": "2011-06-04 09:44:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47171",
+          "lastname": "Walton",
+          "forename": "W R"
+        }
+      ],
+      "bhl_pages": [
+        2585175,
+        2585176,
+        2585177,
+        2585178
+      ]
+    },
+    {
+      "reference_id": "66956",
+      "genre": "article",
+      "title": "The genus Brachynemurus (Neuroptera)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "24",
+      "spage": "63",
+      "epage": "65",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585189",
+      "created": "2011-05-11 17:54:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8983",
+          "lastname": "Banks",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2585189,
+        2585190,
+        2585191
+      ]
+    },
+    {
+      "reference_id": "3773",
+      "genre": "article",
+      "title": "Two new otostigmi from India",
+      "secondary_title": "Entomological News.",
+      "volume": "24",
+      "spage": "73",
+      "epage": "76",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585199",
+      "created": "2009-12-26 19:15:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2585199,
+        2585200,
+        2585201,
+        2585202
+      ]
+    },
+    {
+      "reference_id": "3774",
+      "genre": "article",
+      "title": "Notes on Chilopoda from the Galapagos islands",
+      "secondary_title": "Entomological News.",
+      "volume": "24",
+      "spage": "121",
+      "epage": "123",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585255",
+      "created": "2009-12-26 19:15:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2298",
+          "lastname": "Chamberlin",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        2585255,
+        2585256,
+        2585257
+      ]
+    },
+    {
+      "reference_id": "66528",
+      "genre": "article",
+      "title": "New Thysanoptera from Florida",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "145",
+      "epage": "148",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585285",
+      "created": "2011-05-07 17:35:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45273",
+          "lastname": "Watson",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        2585285,
+        2585286,
+        2585287,
+        2585288
+      ]
+    },
+    {
+      "reference_id": "3834",
+      "genre": "article",
+      "title": "New Peruvian parasites from Hemichionaspis minor (Hym.).",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "issue": "4",
+      "spage": "160",
+      "epage": "165",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585300",
+      "created": "2009-12-26 19:17:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2404",
+          "lastname": "Rust",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        2585300,
+        2585301,
+        2585302,
+        2585303,
+        2585304,
+        2585305
+      ]
+    },
+    {
+      "reference_id": "58607",
+      "genre": "article",
+      "title": "A new Signophora from Queensland, Australia",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "166",
+      "epage": "167",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585306",
+      "created": "2010-11-20 22:09:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        2585306,
+        2585307
+      ]
+    },
+    {
+      "reference_id": "84553",
+      "genre": "article",
+      "title": "Cystodiplosis eugeniae n. sp",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "24",
+      "spage": "175",
+      "epage": "176",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585315",
+      "created": "2011-08-10 22:49:26",
+      "updated": "2011-08-10 22:49:26",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2585315,
+        2585316
+      ]
+    },
+    {
+      "reference_id": "53219",
+      "genre": "article",
+      "title": "A new species of Dixa from Chile (Dixidae, Dipt.)",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "176",
+      "epage": "177",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585316",
+      "created": "2010-10-26 17:13:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2585316,
+        2585317
+      ]
+    },
+    {
+      "reference_id": "3755",
+      "genre": "article",
+      "title": "A twelfth new genus of Hymeoptera, Trichogramamtidae from Australia.",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "211",
+      "epage": "212",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585357",
+      "created": "2009-12-26 19:13:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2291",
+          "lastname": "Girault",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        2585357,
+        2585358
+      ]
+    },
+    {
+      "reference_id": "12044",
+      "genre": "article",
+      "title": "Collecting notes from the Great Basin and adjoining territory (Dipt., Col.)",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "214",
+      "epage": "221",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585512",
+      "created": "2010-01-08 16:09:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8951",
+          "lastname": "Aldrich",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        2585512,
+        2585511,
+        2585510,
+        2585509,
+        2585508,
+        2585507,
+        2585506,
+        2585505
+      ]
+    },
+    {
+      "reference_id": "13767",
+      "genre": "article",
+      "title": "Additions to the New Jersey Tipulidae (Diptera), with the description of a new species",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "247",
+      "epage": "249",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585473",
+      "created": "2010-01-13 10:42:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10114",
+          "lastname": "Leonard",
+          "forename": "M D"
+        }
+      ],
+      "bhl_pages": [
+        2585473,
+        2585472,
+        2585471
+      ]
+    },
+    {
+      "reference_id": "84723",
+      "genre": "article",
+      "title": "On some North American Hemiptera",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "24",
+      "spage": "263",
+      "epage": "267",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585457",
+      "created": "2011-08-10 23:01:41",
+      "updated": "2011-08-10 23:01:41",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2585457,
+        2585456,
+        2585455,
+        2585454,
+        2585453
+      ]
+    },
+    {
+      "reference_id": "58571",
+      "genre": "article",
+      "title": "New species of Macrogonus (Coleop.)",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "268",
+      "epage": "269",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585452",
+      "created": "2010-11-20 21:53:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42379",
+          "lastname": "Bowditch",
+          "forename": "F C"
+        }
+      ],
+      "bhl_pages": [
+        2585452,
+        2585451
+      ]
+    },
+    {
+      "reference_id": "73295",
+      "genre": "article",
+      "title": "Synoptical table of the North American species of the dipterous genus Sympycnus, with the description of a new species",
+      "secondary_title": "Ent. News",
+      "volume": "24",
+      "spage": "269",
+      "epage": "272",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585451",
+      "created": "2011-06-04 08:14:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9219",
+          "lastname": "Van Duzee",
+          "forename": "M C"
+        }
+      ],
+      "bhl_pages": [
+        2585451,
+        2585450,
+        2585449,
+        2585448
+      ]
+    },
+    {
+      "reference_id": "73611",
+      "genre": "article",
+      "title": "The genus Parodinia Coquillett (Geomyzidae, Dipt.)",
+      "secondary_title": "Ent. News",
+      "volume": "24",
+      "spage": "274",
+      "epage": "276",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585446",
+      "created": "2011-06-04 09:26:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        2585446,
+        2585445,
+        2585444
+      ]
+    },
+    {
+      "reference_id": "73583",
+      "genre": "article",
+      "title": "A partial review",
+      "secondary_title": "Ent. News",
+      "volume": "24",
+      "spage": "283",
+      "epage": "285",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585437",
+      "created": "2011-06-04 09:23:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18299",
+          "lastname": "Cresson",
+          "forename": "E T"
+        }
+      ],
+      "bhl_pages": [
+        2585437,
+        2585436,
+        2585435
+      ]
+    },
+    {
+      "reference_id": "73757",
+      "genre": "article",
+      "title": "On the Criorhina intersistens Walker and an allied species (Dipt.)",
+      "secondary_title": "Ent. News",
+      "volume": "24",
+      "spage": "293",
+      "epage": "295",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585421",
+      "created": "2011-06-04 09:44:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        2585421,
+        2585420,
+        2585419
+      ]
+    },
+    {
+      "reference_id": "65524",
+      "genre": "article",
+      "title": "The first fossil anthomyiid fly from Florissant (Dipt)",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "295",
+      "epage": "296",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585419",
+      "created": "2011-04-09 23:33:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        2585419,
+        2585418
+      ]
+    },
+    {
+      "reference_id": "66882",
+      "genre": "article",
+      "title": "On three new species of Myrmeleonidae from Japan and Formosa (Neur. Planip.)",
+      "secondary_title": "Entomological News, Philadelphia",
+      "volume": "24",
+      "spage": "297",
+      "epage": "301",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585417",
+      "created": "2011-05-11 17:03:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45360",
+          "lastname": "Nakahara",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2585417,
+        2585416,
+        2585415,
+        2585414,
+        2585413
+      ]
+    },
+    {
+      "reference_id": "84405",
+      "genre": "article",
+      "title": "A new lycaenid from Kamerun, West Africa",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "24",
+      "spage": "301",
+      "epage": "303",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585413",
+      "created": "2011-08-10 22:39:09",
+      "updated": "2011-08-10 22:39:09",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2585413,
+        2585412,
+        2585411
+      ]
+    },
+    {
+      "reference_id": "84756",
+      "genre": "article",
+      "title": "Some new forms of Lepidoptera from Massachusetts",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "24",
+      "spage": "305",
+      "epage": "310",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585407",
+      "created": "2011-08-10 23:04:47",
+      "updated": "2011-08-10 23:04:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2585407,
+        2585406,
+        2585405,
+        2585404,
+        2585403,
+        2585402
+      ]
+    },
+    {
+      "reference_id": "70575",
+      "genre": "article",
+      "title": "The species of Nehalennia (Odonata), including one from the eastern United States hitherto undescribed",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "310",
+      "epage": "316",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585402",
+      "created": "2011-06-03 06:42:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45165",
+          "lastname": "Calvert",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        2585402,
+        2585401,
+        2585400,
+        2585399,
+        2585398,
+        2585397,
+        2585396
+      ]
+    },
+    {
+      "reference_id": "70576",
+      "genre": "article",
+      "title": "The true male of Nehalennia integricollis and N. pallidula, n. sp. (Odon.)",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "373",
+      "epage": "374",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585570",
+      "created": "2011-06-03 06:42:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45165",
+          "lastname": "Calvert",
+          "forename": "P P"
+        }
+      ],
+      "bhl_pages": [
+        2585570,
+        2585571
+      ]
+    },
+    {
+      "reference_id": "53222",
+      "genre": "article",
+      "title": "The Neotropical Tipulidae in the Hungarian national museum (Diptera). I",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "404",
+      "epage": "412",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585592",
+      "created": "2010-10-26 17:14:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2585592,
+        2585593,
+        2585594,
+        2585595,
+        2585596,
+        2585597,
+        2585598,
+        2585599,
+        2585600
+      ]
+    },
+    {
+      "reference_id": "53224",
+      "genre": "article",
+      "title": "The Neotropical Tipulidae in the Hungarian national museum (Diptera). II",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "439",
+      "epage": "449",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585635",
+      "created": "2010-10-26 17:14:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        2585635,
+        2585636,
+        2585637,
+        2585638,
+        2585639,
+        2585640,
+        2585641,
+        2585642,
+        2585643,
+        2585644,
+        2585645
+      ]
+    },
+    {
+      "reference_id": "70507",
+      "genre": "article",
+      "title": "A new North American genus belonging to the group Nemobiites (Orthoptera, Gryllidae)",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "451",
+      "epage": "452",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585547",
+      "created": "2011-06-03 06:40:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46223",
+          "lastname": "",
+          "forename": "Hebard"
+        }
+      ],
+      "bhl_pages": [
+        2585547,
+        2585548
+      ]
+    },
+    {
+      "reference_id": "84421",
+      "genre": "article",
+      "title": "A new parasite of the house fly",
+      "secondary_title": "Entomological News Philadelphia",
+      "volume": "24",
+      "spage": "452",
+      "epage": "456",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585548",
+      "created": "2011-08-10 22:40:17",
+      "updated": "2011-08-10 22:40:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2585548,
+        2585549,
+        2585550,
+        2585551,
+        2585552
+      ]
+    },
+    {
+      "reference_id": "3838",
+      "genre": "article",
+      "title": "Three new genera of chalcidoid Hymenoptera from Queensland.",
+      "secondary_title": "Entomological News",
+      "volume": "24",
+      "spage": "457",
+      "epage": "460",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-872X",
+      "PageID": "2585555",
+      "created": "2009-12-26 19:17:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2291",
+          "lastname": "Girault",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        2585555,
+        2585556,
+        2585557,
+        2585558
+      ]
+    }
+  ]
+}

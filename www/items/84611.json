@@ -1,0 +1,40 @@
+{
+  "ItemID": "84611",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1883",
+  "articles": [
+    {
+      "reference_id": "100143",
+      "genre": "article",
+      "title": "New species of Tasmanian Antechini and Mus",
+      "secondary_title": "Papers And Proceedings of The Royal Society of Tasmania",
+      "volume": "1883",
+      "spage": "184",
+      "epage": "186",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0080-4703",
+      "PageID": "26235348",
+      "created": "2012-01-01 13:18:40",
+      "updated": "2012-01-01 13:18:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53393",
+          "lastname": "Higgins",
+          "forename": "E T"
+        },
+        {
+          "id": "40740",
+          "lastname": "Petterd",
+          "forename": "W F"
+        }
+      ],
+      "bhl_pages": [
+        26235348,
+        26235349,
+        26235350
+      ]
+    }
+  ]
+}

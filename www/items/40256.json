@@ -1,0 +1,39 @@
+{
+  "ItemID": "40256",
+  "FullTitle": "Postilla.",
+  "VolumeInfo": "no.1-50 (1950-1961)",
+  "articles": [
+    {
+      "reference_id": "104582",
+      "genre": "article",
+      "title": "A new fruit pigeon from the Philippines",
+      "secondary_title": "Postilla",
+      "volume": "21",
+      "spage": "1",
+      "epage": "2",
+      "year": "1955",
+      "date": "1955-02-28",
+      "issn": "0079-4295",
+      "PageID": "10579826",
+      "created": "2012-06-24 18:26:23",
+      "updated": "2012-06-24 18:28:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53886",
+          "lastname": "Ripley",
+          "forename": "S Dillon"
+        },
+        {
+          "id": "1058",
+          "lastname": "Rabor",
+          "forename": "D S"
+        }
+      ],
+      "bhl_pages": [
+        10579826,
+        10579827
+      ]
+    }
+  ]
+}

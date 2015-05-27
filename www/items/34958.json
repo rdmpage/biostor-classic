@@ -1,0 +1,67 @@
+{
+  "ItemID": "34958",
+  "FullTitle": "Proceedings of the Linnean Society of London.",
+  "VolumeInfo": "v.2 (1848-1855)",
+  "articles": [
+    {
+      "reference_id": "60448",
+      "genre": "article",
+      "title": "Descriptions of seventeen new species of the family Paussidae",
+      "secondary_title": "Proceedings of the Linnean Society of London",
+      "volume": "2",
+      "series": "2",
+      "spage": "55",
+      "epage": "60",
+      "year": "1850",
+      "date": "1850-00-00",
+      "oclc": "1755949",
+      "PageID": "8551583",
+      "created": "2010-11-23 00:42:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        8551583,
+        8551584,
+        8551585,
+        8551586,
+        8551587,
+        8551588
+      ]
+    },
+    {
+      "reference_id": "60447",
+      "genre": "article",
+      "title": "Descriptions of two new species of Paussidae from Australasia in the collection of the Jardin des Plantes at Paris",
+      "secondary_title": "Proceedings of the Linnean Society of London",
+      "volume": "2",
+      "series": "2",
+      "spage": "100",
+      "epage": "101",
+      "year": "1851",
+      "date": "1851-00-00",
+      "oclc": "1755949",
+      "PageID": "8551628",
+      "created": "2010-11-23 00:42:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2671",
+          "lastname": "Westwood",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        8551628,
+        8551629
+      ]
+    }
+  ]
+}

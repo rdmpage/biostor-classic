@@ -1,0 +1,35 @@
+{
+  "ItemID": "46718",
+  "FullTitle": "Proceedings of the Royal Irish Academy.  ",
+  "VolumeInfo": "vol 1",
+  "articles": [
+    {
+      "reference_id": "59713",
+      "genre": "article",
+      "title": "On a species of Loligo found on the shore of Dublin Bay",
+      "secondary_title": "Proceedings of the Royal Irish Academy",
+      "volume": "1",
+      "spage": "362",
+      "epage": "364",
+      "year": "1841",
+      "date": "1841-00-00",
+      "issn": "0035-8991",
+      "PageID": "12949955",
+      "created": "2010-11-22 15:38:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42675",
+          "lastname": "Ball",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12949955,
+        12949956,
+        12949957
+      ]
+    }
+  ]
+}

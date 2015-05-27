@@ -1,0 +1,34 @@
+{
+  "ItemID": "33672",
+  "FullTitle": "Biblioteca Italiana.  ",
+  "VolumeInfo": "47",
+  "articles": [
+    {
+      "reference_id": "73833",
+      "genre": "article",
+      "title": "Ascalafi italiani con nuova specie",
+      "secondary_title": "Biblioteca Italiana",
+      "volume": "47",
+      "spage": "466",
+      "epage": "468",
+      "year": "1827",
+      "date": "1827-00-00",
+      "PageID": "8031309",
+      "created": "2011-06-04 09:58:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47245",
+          "lastname": "Angelini",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        8031309,
+        8031310,
+        8031311
+      ]
+    }
+  ]
+}

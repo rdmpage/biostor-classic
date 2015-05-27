@@ -1,0 +1,37 @@
+{
+  "ItemID": "17216",
+  "FullTitle": "Oceanus.",
+  "VolumeInfo": "v. 30, no. 2 (1987)",
+  "articles": [
+    {
+      "reference_id": "71105",
+      "genre": "article",
+      "title": "The fishes of the Gal\u00e1pagos Islands",
+      "secondary_title": "Oceanus",
+      "volume": "30",
+      "spage": "28",
+      "epage": "32",
+      "year": "1987",
+      "date": "1987-00-00",
+      "oclc": "1761014",
+      "PageID": "1509695",
+      "created": "2011-06-03 17:46:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10765",
+          "lastname": "Mccosker",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        1509695,
+        1509696,
+        1509697,
+        1509698,
+        1509699
+      ]
+    }
+  ]
+}

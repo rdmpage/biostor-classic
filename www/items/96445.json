@@ -1,0 +1,686 @@
+{
+  "ItemID": "96445",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "1863",
+  "articles": [
+    {
+      "reference_id": "70012",
+      "genre": "article",
+      "title": "Notes on Diemenia superciliosa",
+      "secondary_title": "Proceedings of The Zoological Society of London",
+      "volume": "1863",
+      "spage": "17",
+      "epage": "18",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681267",
+      "created": "2011-06-02 12:39:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30681267,
+        30681268
+      ]
+    },
+    {
+      "reference_id": "59830",
+      "genre": "article",
+      "title": "Descriptions of five new species of fishes obtained at Madeira",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "36",
+      "epage": "47",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681292",
+      "created": "2010-11-22 16:11:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42696",
+          "lastname": "Johnson",
+          "forename": "J Y"
+        }
+      ],
+      "bhl_pages": [
+        30681292,
+        30681293,
+        30681332,
+        30681333,
+        30681334,
+        30681335,
+        30681336,
+        30681337,
+        30681338,
+        30681339,
+        30681340,
+        30681341
+      ]
+    },
+    {
+      "reference_id": "59965",
+      "genre": "article",
+      "title": "Description of a new species of the genus Dromicia discovered in the neighbourhood of Sydney",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "49",
+      "epage": "50",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681345",
+      "created": "2010-11-22 17:19:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42699",
+          "lastname": "Krefft",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        30681345,
+        30681346
+      ]
+    },
+    {
+      "reference_id": "59954",
+      "genre": "article",
+      "title": "On new and little-known birds from China",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "87",
+      "epage": "94",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681395",
+      "created": "2010-11-22 17:11:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42714",
+          "lastname": "Swinhoe",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        30681395,
+        30681396,
+        30681397,
+        30681398,
+        30681399,
+        30681400,
+        30681401,
+        30681402
+      ]
+    },
+    {
+      "reference_id": "69330",
+      "genre": "article",
+      "title": "Notice on a new species of Chamaeleon sent from Khartoum by Mr. Consul Patherick",
+      "secondary_title": "Proc. zool. Soc., London",
+      "volume": "1863",
+      "spage": "94",
+      "epage": "95",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681402",
+      "created": "2011-06-01 08:48:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        30681402,
+        30681403
+      ]
+    },
+    {
+      "reference_id": "60039",
+      "genre": "article",
+      "title": "Descriptions of several new species of worms belonging to the Annelida Errantia and Sedentaria or Tubicola of Milne Edwards",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "106",
+      "epage": "110",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681418",
+      "created": "2010-11-22 17:50:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42741",
+          "lastname": "Baird",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        30681418,
+        30681419,
+        30681420,
+        30681421,
+        30681422
+      ]
+    },
+    {
+      "reference_id": "104246",
+      "genre": "article",
+      "title": "Revision of the species of lemuroid animals, with the description of some new species",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "129",
+      "epage": "152",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681449",
+      "created": "2012-06-13 09:05:46",
+      "updated": "2012-06-13 09:07:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        30681449,
+        30681450,
+        30681451,
+        30681452,
+        30681453,
+        30681454,
+        30681455,
+        30681456,
+        30681457,
+        30681458,
+        30681459,
+        30681460,
+        30681461,
+        30681462,
+        30681463,
+        30681464,
+        30681465,
+        30681466,
+        30681467,
+        30681468,
+        30681469,
+        30681470,
+        30681471,
+        30681472,
+        30681444,
+        30681446,
+        30681448
+      ]
+    },
+    {
+      "reference_id": "70283",
+      "genre": "article",
+      "title": "Observations on the box tortoises, with the descriptions of three new Asiatic species",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "173",
+      "epage": "179",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681499",
+      "created": "2011-06-02 15:54:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        30681499,
+        30681500,
+        30681501,
+        30681502,
+        30681503,
+        30681504,
+        30681505
+      ]
+    },
+    {
+      "reference_id": "69315",
+      "genre": "article",
+      "title": "Descriptions of new species of the family Uropeltidae from Southern India, with notes on other little-known species",
+      "secondary_title": "Proc. Zool. Soc. London",
+      "volume": "1863",
+      "spage": "225",
+      "epage": "229",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681561",
+      "created": "2011-06-01 08:47:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46242",
+          "lastname": "Beddome",
+          "forename": "Richard Henry"
+        }
+      ],
+      "bhl_pages": [
+        30681561,
+        30681562,
+        30681563,
+        30681564,
+        30681565
+      ]
+    },
+    {
+      "reference_id": "59922",
+      "genre": "article",
+      "title": "On a collection of birds from central Australia",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "232",
+      "epage": "233",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681570",
+      "created": "2010-11-22 17:00:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42711",
+          "lastname": "Gould",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        30681570,
+        30681571
+      ]
+    },
+    {
+      "reference_id": "61632",
+      "genre": "article",
+      "title": "Observations on Australian tree-frogs living in the Society's menagerie",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "249",
+      "epage": "251",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681591",
+      "created": "2011-01-10 22:54:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2955",
+          "lastname": "G\u00fcnther",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        30681591,
+        30681592,
+        30681593
+      ]
+    },
+    {
+      "reference_id": "59955",
+      "genre": "article",
+      "title": "Catalogue of the Birds of China, with remarks principally on their geographical distribution",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "259",
+      "epage": "338",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681601",
+      "created": "2010-11-22 17:11:48",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42714",
+          "lastname": "Swinhoe",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        30681601,
+        30681602,
+        30681603,
+        30681604,
+        30681605,
+        30681606,
+        30681607,
+        30681608,
+        30681609,
+        30681610,
+        30681611,
+        30681612,
+        30681613,
+        30681614,
+        30681615,
+        30681616,
+        30681617,
+        30681618,
+        30681619,
+        30681620,
+        30681621,
+        30681622,
+        30681623,
+        30681624,
+        30681625,
+        30681626,
+        30681627,
+        30681628,
+        30681629,
+        30681630,
+        30681631,
+        30681632,
+        30681633,
+        30681634,
+        30681635,
+        30681636,
+        30681637,
+        30681638,
+        30681639,
+        30681640,
+        30681641,
+        30681642,
+        30681643,
+        30681644,
+        30681645,
+        30681646,
+        30681647,
+        30681648,
+        30681649,
+        30681650,
+        30681651,
+        30681652,
+        30681653,
+        30681654,
+        30681655,
+        30681656,
+        30681657,
+        30681658,
+        30681659,
+        30681660,
+        30681661,
+        30681662,
+        30681663,
+        30681664,
+        30681665,
+        30681666,
+        30681667,
+        30681668,
+        30681669,
+        30681670,
+        30681671,
+        30681672,
+        30681673,
+        30681674,
+        30681675,
+        30681676,
+        30681677,
+        30681678,
+        30681679,
+        30681680
+      ]
+    },
+    {
+      "reference_id": "59811",
+      "genre": "article",
+      "title": "Descriptions of three new genera of marine fishes obtained at Madeira",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "403",
+      "epage": "410",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681757",
+      "created": "2010-11-22 16:05:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42696",
+          "lastname": "Johnson",
+          "forename": "J Y"
+        }
+      ],
+      "bhl_pages": [
+        30681757,
+        30681758,
+        30681759,
+        30681760,
+        30681761,
+        30681762,
+        30681763,
+        30681764
+      ]
+    },
+    {
+      "reference_id": "59698",
+      "genre": "article",
+      "title": "Descriptions of new species of freshwater shells collected by Mr F.G. Waterhouse during J. McDonald Stuart's overland journey from Adelaide to the north-west coast of Australia",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "414",
+      "epage": "418",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681768",
+      "created": "2010-11-22 15:33:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17721",
+          "lastname": "Adams",
+          "forename": "A"
+        },
+        {
+          "id": "42663",
+          "lastname": "Angas",
+          "forename": "G F"
+        }
+      ],
+      "bhl_pages": [
+        30681768,
+        30681769,
+        30681770,
+        30681771,
+        30681772
+      ]
+    },
+    {
+      "reference_id": "60839",
+      "genre": "article",
+      "title": "A monograph of the Spongillidae",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "440",
+      "epage": "472",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681796",
+      "created": "2010-11-23 04:48:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42867",
+          "lastname": "Bowerbank",
+          "forename": "J S"
+        }
+      ],
+      "bhl_pages": [
+        30681796,
+        30681797,
+        30681798,
+        30681799,
+        30681800,
+        30681801,
+        30681802,
+        30681803,
+        30681804,
+        30681805,
+        30681806,
+        30681807,
+        30681808,
+        30681809,
+        30681810,
+        30681811,
+        30681812,
+        30681813,
+        30681814,
+        30681815,
+        30681816,
+        30681817,
+        30681818,
+        30681819,
+        30681820,
+        30681821,
+        30681822,
+        30681823,
+        30681824,
+        30681825,
+        30681826,
+        30681827,
+        30681828
+      ]
+    },
+    {
+      "reference_id": "60095",
+      "genre": "article",
+      "title": "On some new Australian species of Crustacea",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "498",
+      "epage": "505",
+      "year": "1863",
+      "date": "1863-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681858",
+      "created": "2010-11-22 19:16:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42757",
+          "lastname": "Bate",
+          "forename": "C S"
+        }
+      ],
+      "bhl_pages": [
+        30681858,
+        30681859,
+        30681860,
+        30681861,
+        30681862,
+        30681863,
+        30681864,
+        30681865
+      ]
+    },
+    {
+      "reference_id": "59757",
+      "genre": "article",
+      "title": "On the land-shells of South Australia",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "519",
+      "epage": "529",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681885",
+      "created": "2010-11-22 15:49:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42663",
+          "lastname": "Angas",
+          "forename": "G F"
+        }
+      ],
+      "bhl_pages": [
+        30681885,
+        30681886,
+        30681887,
+        30681888,
+        30681889,
+        30681890,
+        30681891,
+        30681892,
+        30681893,
+        30681894,
+        30681895
+      ]
+    },
+    {
+      "reference_id": "59726",
+      "genre": "article",
+      "title": "Descriptions of ten new species of land-shells from the collection of George French Angas, Esq",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1863",
+      "spage": "526",
+      "epage": "529",
+      "year": "1864",
+      "date": "1864-00-00",
+      "issn": "0370-2774",
+      "PageID": "30681892",
+      "created": "2010-11-22 15:41:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42679",
+          "lastname": "Pfeiffer",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        30681892,
+        30681893,
+        30681894,
+        30681895
+      ]
+    }
+  ]
+}

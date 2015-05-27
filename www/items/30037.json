@@ -1,0 +1,37 @@
+{
+  "ItemID": "30037",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v. 29 (1892)",
+  "articles": [
+    {
+      "reference_id": "70008",
+      "genre": "article",
+      "title": "\u00dcber einige neue und seltene Fischarten aus der ichthyologischen Sammlung des K.K. Naturhistorischen Hofmuseums",
+      "secondary_title": "Anzeiger Der Akademie Der Wissenschaften In Wien",
+      "volume": "29",
+      "spage": "130",
+      "epage": "134",
+      "year": "1892",
+      "date": "1892-00-00",
+      "oclc": "9782210",
+      "PageID": "6341604",
+      "created": "2011-06-02 12:20:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6341604,
+        6341605,
+        6341606,
+        6341607,
+        6341608
+      ]
+    }
+  ]
+}

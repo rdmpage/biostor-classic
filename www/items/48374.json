@@ -1,0 +1,167 @@
+{
+  "ItemID": "48374",
+  "FullTitle": "Natuurkundig tijdschrift voor Nederlandsch Indi\u00eb \/  uitgegeven door de Natuurkundige Vereeniging in Nederlandsch Indi\u00eb.",
+  "VolumeInfo": "v.15 1858",
+  "articles": [
+    {
+      "reference_id": "103282",
+      "genre": "article",
+      "title": "Visschen van Java's Zuidkust",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch Indi\u00eb",
+      "volume": "15",
+      "spage": "159",
+      "epage": "162",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "7830420",
+      "PageID": "13569647",
+      "created": "2012-05-20 12:04:29",
+      "updated": "2012-05-20 12:05:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13569647,
+        13569648,
+        13569649,
+        13569650
+      ]
+    },
+    {
+      "reference_id": "61374",
+      "genre": "article",
+      "title": "Bijdrage tot de kennis der vischfauna van den Goram-Archipel",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "15",
+      "spage": "197",
+      "epage": "218",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "7830420",
+      "PageID": "13569685",
+      "created": "2011-01-10 19:23:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13569685,
+        13569686,
+        13569687,
+        13569688,
+        13569689,
+        13569690,
+        13569691,
+        13569692,
+        13569693,
+        13569694,
+        13569695,
+        13569696,
+        13569697,
+        13569698,
+        13569699,
+        13569700,
+        13569701,
+        13569702,
+        13569703,
+        13569704,
+        13569705,
+        13569706
+      ]
+    },
+    {
+      "reference_id": "20373",
+      "genre": "article",
+      "title": "Vierde bijdrage tot de kennis der vischfauna van Biliton",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch Indi\u00eb",
+      "volume": "15",
+      "spage": "219",
+      "epage": "240",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "7830420",
+      "PageID": "13569707",
+      "created": "2010-02-09 16:09:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13569707,
+        13569708,
+        13569709,
+        13569710,
+        13569711,
+        13569712,
+        13569713,
+        13569714,
+        13569715,
+        13569716,
+        13569717,
+        13569718,
+        13569719,
+        13569720,
+        13569721,
+        13569722,
+        13569723,
+        13569724,
+        13569725,
+        13569726,
+        13569727,
+        13569728
+      ]
+    },
+    {
+      "reference_id": "61690",
+      "genre": "article",
+      "title": "Vijfde bijdrage tot de kennis der ichthyologische fauna van de Kokos-eilanden",
+      "secondary_title": "Natuurkundig Tijdschrift voor Nederlandsch-Indi\u00eb",
+      "volume": "15",
+      "spage": "457",
+      "epage": "468",
+      "year": "1858",
+      "date": "1858-00-00",
+      "oclc": "7830420",
+      "PageID": "13569945",
+      "created": "2011-01-10 23:55:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17753",
+          "lastname": "Bleeker",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        13569945,
+        13569946,
+        13569947,
+        13569948,
+        13569949,
+        13569950,
+        13569951,
+        13569952,
+        13569953,
+        13569954,
+        13569955,
+        13569956
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "ItemID": "45282",
+  "FullTitle": "Psyche.",
+  "VolumeInfo": "v. 15 (1908)",
+  "articles": [
+    {
+      "reference_id": "65029",
+      "genre": "article",
+      "title": "The Mallophaga of the world: Systematic Summary",
+      "secondary_title": "Psyche",
+      "volume": "15",
+      "spage": "11",
+      "epage": "13",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0033-2615",
+      "PageID": "12551435",
+      "created": "2011-01-31 13:20:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44746",
+          "lastname": "Kellogg",
+          "forename": "Vernon Lyman"
+        }
+      ],
+      "bhl_pages": [
+        12551435,
+        12551402,
+        12551403
+      ]
+    },
+    {
+      "reference_id": "53181",
+      "genre": "article",
+      "title": "A new species of Tipula with vestigial wings",
+      "secondary_title": "Psyche",
+      "volume": "15",
+      "spage": "47",
+      "epage": "49",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0033-2615",
+      "PageID": "12551466",
+      "created": "2010-10-26 17:03:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10109",
+          "lastname": "Doane",
+          "forename": "R W"
+        }
+      ],
+      "bhl_pages": [
+        12551466,
+        12551467,
+        12551468
+      ]
+    },
+    {
+      "reference_id": "71834",
+      "genre": "article",
+      "title": "The aphid genus Forda",
+      "secondary_title": "Psyche",
+      "volume": "15",
+      "spage": "67",
+      "epage": "68",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0033-2615",
+      "PageID": "12551492",
+      "created": "2011-06-03 23:19:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46889",
+          "lastname": "",
+          "forename": "Rohwer"
+        }
+      ],
+      "bhl_pages": [
+        12551492,
+        12551493
+      ]
+    },
+    {
+      "reference_id": "53183",
+      "genre": "article",
+      "title": "The Diptera of the Bahamas, with notes and description of one new species",
+      "secondary_title": "Psyche",
+      "volume": "15",
+      "spage": "69",
+      "epage": "80",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0033-2615",
+      "PageID": "12551494",
+      "created": "2010-10-26 17:03:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10112",
+          "lastname": "Johnson",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        12551494,
+        12551495,
+        12551496,
+        12551497,
+        12551498,
+        12551499,
+        12551500,
+        12551501,
+        12551502,
+        12551503,
+        12551504,
+        12551505
+      ]
+    },
+    {
+      "reference_id": "71829",
+      "genre": "article",
+      "title": "A peculiar case of parasitism with |Hemerocampa leucostigma| Smith & Abbot, with description of a new genus and species of Pteromalidae",
+      "secondary_title": "Psyche, Cambridge",
+      "volume": "15",
+      "spage": "89",
+      "epage": "96",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0033-2615",
+      "PageID": "12551516",
+      "created": "2011-06-03 23:19:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        12551516,
+        12551517,
+        12551518,
+        12551519,
+        12551520,
+        12551521,
+        12551522,
+        12551523
+      ]
+    },
+    {
+      "reference_id": "71766",
+      "genre": "article",
+      "title": "Decriptions of three new North American Chalcidoidea of the subfamilies Mymarinae and Aphelininae",
+      "secondary_title": "Psyche, Cambridge",
+      "volume": "15",
+      "spage": "115",
+      "epage": "121",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0033-2615",
+      "PageID": "12551546",
+      "created": "2011-06-03 23:06:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        12551546,
+        12551547,
+        12551548,
+        12551549,
+        12551550,
+        12551551,
+        12551552
+      ]
+    }
+  ]
+}

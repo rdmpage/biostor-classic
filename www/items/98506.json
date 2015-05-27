@@ -1,0 +1,83 @@
+{
+  "ItemID": "98506",
+  "FullTitle": "The Journal of the Linnean Society of London. Zoology.",
+  "VolumeInfo": "v. 30 1907\/10",
+  "articles": [
+    {
+      "reference_id": "66691",
+      "genre": "article",
+      "title": "A freshwater isopod from Calcutta",
+      "secondary_title": "Journal of The Linnean Society (Zoology)",
+      "volume": "30",
+      "spage": "39",
+      "epage": "42",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0368-2935",
+      "PageID": "31567277",
+      "created": "2011-05-09 16:50:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18135",
+          "lastname": "Stebbing",
+          "forename": "T R R"
+        }
+      ],
+      "bhl_pages": [
+        31567277,
+        31567278,
+        31567279,
+        31567280
+      ]
+    },
+    {
+      "reference_id": "103229",
+      "genre": "article",
+      "title": "Unrecorded Acari from New Zealand",
+      "secondary_title": "Journal of the Linnean Society of London, zoology",
+      "volume": "30",
+      "spage": "134",
+      "epage": "149",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0368-2935",
+      "doi": "10.1111\/j.1096-3642.1908.tb02128.x",
+      "PageID": "31567442",
+      "created": "2012-05-16 10:02:48",
+      "updated": "2012-05-16 10:09:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51355",
+          "lastname": "Michael",
+          "forename": "A D"
+        }
+      ],
+      "bhl_pages": [
+        31567442,
+        31567443,
+        31567444,
+        31567445,
+        31567446,
+        31567447,
+        31567448,
+        31567449,
+        31567450,
+        31567451,
+        31567452,
+        31567453,
+        31567454,
+        31567455,
+        31567456,
+        31567467,
+        31567457,
+        31567459,
+        31567461,
+        31567463,
+        31567465
+      ]
+    }
+  ]
+}

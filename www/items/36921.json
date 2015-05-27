@@ -1,0 +1,39 @@
+{
+  "ItemID": "36921",
+  "FullTitle": "The Victorian naturalist.",
+  "VolumeInfo": "v.11, 1894-1895",
+  "articles": [
+    {
+      "reference_id": "61238",
+      "genre": "article",
+      "title": "Preliminary description of a new species of Apus",
+      "secondary_title": "Victorian Naturalist",
+      "volume": "11",
+      "spage": "161",
+      "epage": "162",
+      "year": "1895",
+      "date": "1895-00-00",
+      "issn": "0042-5184",
+      "PageID": "9434887",
+      "created": "2011-01-03 10:47:30",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39801",
+          "lastname": "Spencer",
+          "forename": "Baldwin"
+        },
+        {
+          "id": "39802",
+          "lastname": "Hall",
+          "forename": "T S"
+        }
+      ],
+      "bhl_pages": [
+        9434887,
+        9434888
+      ]
+    }
+  ]
+}

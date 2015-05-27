@@ -1,0 +1,121 @@
+{
+  "ItemID": "42356",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 40 1907",
+  "articles": [
+    {
+      "reference_id": "72814",
+      "genre": "article",
+      "title": "On some Hymenoptera collected by Mr. G.C. Dudgeon at Buxa, Bhotan",
+      "secondary_title": "Entomologist",
+      "volume": "40",
+      "spage": "3",
+      "epage": "8",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-8878",
+      "PageID": "11406416",
+      "created": "2011-06-04 04:20:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11406416,
+        11406417,
+        11406418,
+        11406419,
+        11406420,
+        11406421
+      ]
+    },
+    {
+      "reference_id": "61007",
+      "genre": "article",
+      "title": "Description of a new species of Tingidae from Honolulu",
+      "secondary_title": "Entomologist",
+      "volume": "40",
+      "spage": "60",
+      "epage": "61",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-8878",
+      "PageID": "11406498",
+      "created": "2010-12-05 13:06:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39828",
+          "lastname": "Distant",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        11406498,
+        11406499
+      ]
+    },
+    {
+      "reference_id": "73019",
+      "genre": "article",
+      "title": "Notes on the Hymenopterous family Agathididae",
+      "secondary_title": "Entomologist",
+      "volume": "40",
+      "spage": "217",
+      "epage": "220",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-8878",
+      "PageID": "11406661",
+      "created": "2011-06-04 04:57:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42891",
+          "lastname": "Morley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11406661,
+        11406662,
+        11406663,
+        11406664
+      ]
+    },
+    {
+      "reference_id": "72812",
+      "genre": "article",
+      "title": "Two new species of Agathinae (Braconidae) from Borneo",
+      "secondary_title": "Entomologist",
+      "volume": "40",
+      "spage": "229",
+      "epage": "230",
+      "year": "1907",
+      "date": "1907-00-00",
+      "issn": "0013-8878",
+      "PageID": "11406673",
+      "created": "2011-06-04 04:19:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10013",
+          "lastname": "Cameron",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        11406673,
+        11406674
+      ]
+    }
+  ]
+}

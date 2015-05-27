@@ -1,0 +1,78 @@
+{
+  "ItemID": "72303",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "4th ser. v. 1 (1868)",
+  "articles": [
+    {
+      "reference_id": "92336",
+      "genre": "article",
+      "title": "VII.\u2014On Globiocephalus Grayi, nov. spec",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "1",
+      "series": "4",
+      "spage": "52",
+      "epage": "54",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936808695636",
+      "PageID": "22248442",
+      "created": "2011-09-28 17:51:15",
+      "updated": "2011-09-28 17:51:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40140",
+          "lastname": "Burmeister",
+          "forename": "Hermann"
+        }
+      ],
+      "bhl_pages": [
+        22248442,
+        22248443,
+        22248444
+      ]
+    },
+    {
+      "reference_id": "91812",
+      "genre": "article",
+      "title": "LIV.\u2014On the species of Helicid\u00e6 found in Japan",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "1",
+      "series": "4",
+      "spage": "459",
+      "epage": "472",
+      "year": "1868",
+      "date": "1868-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936808695731",
+      "PageID": "22248849",
+      "created": "2011-09-28 16:51:40",
+      "updated": "2011-09-28 16:51:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10067",
+          "lastname": "Adams",
+          "forename": "Arthur"
+        }
+      ],
+      "bhl_pages": [
+        22248849,
+        22248850,
+        22248851,
+        22248852,
+        22248853,
+        22248854,
+        22248855,
+        22248856,
+        22248857,
+        22248858,
+        22248859,
+        22248860,
+        22248861,
+        22248862
+      ]
+    }
+  ]
+}

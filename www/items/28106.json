@@ -1,0 +1,36 @@
+{
+  "ItemID": "28106",
+  "FullTitle": "The Irish naturalist.  ",
+  "VolumeInfo": "v. 20 (1911)",
+  "articles": [
+    {
+      "reference_id": "57324",
+      "genre": "article",
+      "title": "On a spider new to science recently found in Ireland",
+      "secondary_title": "Irish Naturalist",
+      "volume": "20",
+      "spage": "28",
+      "epage": "31",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "1753950",
+      "PageID": "5506373",
+      "created": "2010-11-18 13:52:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42012",
+          "lastname": "Jackson",
+          "forename": "A R"
+        }
+      ],
+      "bhl_pages": [
+        5506373,
+        5506372,
+        5506371,
+        5506370
+      ]
+    }
+  ]
+}

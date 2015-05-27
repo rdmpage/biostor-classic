@@ -1,0 +1,36 @@
+{
+  "ItemID": "36042",
+  "FullTitle": "The Entomologist's record and journal of variation.",
+  "VolumeInfo": "v. 19 1907",
+  "articles": [
+    {
+      "reference_id": "58093",
+      "genre": "article",
+      "title": "Gnathoncus nidicola, sp. nov., a coleopterous inhabitant of birds\u2019 nests",
+      "secondary_title": "Entomologist's Record and Journal of Variation",
+      "volume": "19",
+      "spage": "133",
+      "epage": "136",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "1568053",
+      "PageID": "9020384",
+      "created": "2010-11-20 19:51:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42249",
+          "lastname": "Joy",
+          "forename": "N H"
+        }
+      ],
+      "bhl_pages": [
+        9020384,
+        9020385,
+        9020386,
+        9020387
+      ]
+    }
+  ]
+}

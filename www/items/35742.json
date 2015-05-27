@@ -1,0 +1,147 @@
+{
+  "ItemID": "35742",
+  "FullTitle": "Proceedings of the Boston Society of Natural History.  ",
+  "VolumeInfo": "4",
+  "articles": [
+    {
+      "reference_id": "60244",
+      "genre": "article",
+      "title": "[The type of a new genus, allied to Pentagonaster, Gray.]",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "4",
+      "spage": "118",
+      "epage": "119",
+      "year": "1851",
+      "date": "1851-00-00",
+      "issn": "0270-2444",
+      "PageID": "8870828",
+      "created": "2010-11-22 21:33:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42787",
+          "lastname": "Ayres",
+          "forename": "W O"
+        }
+      ],
+      "bhl_pages": [
+        8870828,
+        8870829
+      ]
+    },
+    {
+      "reference_id": "77813",
+      "genre": "article",
+      "title": "Descriptions of new species of Ophiuridae",
+      "secondary_title": "Proceedings Boston Society Natural History",
+      "volume": "4",
+      "spage": "133",
+      "epage": "135",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0270-2444",
+      "PageID": "8870843",
+      "created": "2011-06-15 10:19:57",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42787",
+          "lastname": "Ayres",
+          "forename": "W O"
+        }
+      ],
+      "bhl_pages": [
+        8870843,
+        8870844,
+        8870845
+      ]
+    },
+    {
+      "reference_id": "54307",
+      "genre": "article",
+      "title": "Axius serratus nov. spec. crustaceorum",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "4",
+      "spage": "222",
+      "epage": "223",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0270-2444",
+      "PageID": "8870932",
+      "created": "2010-11-02 17:07:06",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41025",
+          "lastname": "Stimpson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        8870932,
+        8870933
+      ]
+    },
+    {
+      "reference_id": "59796",
+      "genre": "article",
+      "title": "Several new ascidians from the coast of the United States",
+      "secondary_title": "Proceedings of the Boston Society of Natural History",
+      "volume": "4",
+      "spage": "228",
+      "epage": "232",
+      "year": "1852",
+      "date": "1852-00-00",
+      "issn": "0270-2444",
+      "PageID": "8870938",
+      "created": "2010-11-22 15:56:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41025",
+          "lastname": "Stimpson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        8870938,
+        8870939,
+        8870940,
+        8870941,
+        8870942
+      ]
+    },
+    {
+      "reference_id": "77814",
+      "genre": "article",
+      "title": "Descriptions of new species of Ophiuridae",
+      "secondary_title": "Proceedings Boston Society Natural History",
+      "volume": "4",
+      "spage": "248",
+      "epage": "250",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0270-2444",
+      "PageID": "8870958",
+      "created": "2011-06-15 10:22:10",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42787",
+          "lastname": "Ayres",
+          "forename": "W O"
+        }
+      ],
+      "bhl_pages": [
+        8870958,
+        8870959,
+        8870960
+      ]
+    }
+  ]
+}

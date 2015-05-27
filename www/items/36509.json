@@ -1,0 +1,107 @@
+{
+  "ItemID": "36509",
+  "FullTitle": "Journal of the New York Entomological Society.",
+  "VolumeInfo": "v. 26 1918",
+  "articles": [
+    {
+      "reference_id": "72189",
+      "genre": "article",
+      "title": "Beetles collected on a dead black oak in Virginia",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "26",
+      "spage": "30",
+      "epage": "33",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0028-7199",
+      "PageID": "9279455",
+      "created": "2011-06-04 00:45:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46976",
+          "lastname": "Robinson",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9279455,
+        9279456,
+        9279457,
+        9279458
+      ]
+    },
+    {
+      "reference_id": "53127",
+      "genre": "article",
+      "title": "New species of tipuline crane-flies from eastern Asia (Tipulidae, Diptera)",
+      "secondary_title": "Journal of the New York Entomological Society",
+      "volume": "26",
+      "spage": "66",
+      "epage": "75",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0028-7199",
+      "PageID": "9279522",
+      "created": "2010-10-26 16:38:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        9279522,
+        9279523,
+        9279524,
+        9279525,
+        9279526,
+        9279527,
+        9279528,
+        9279529,
+        9279530,
+        9279531
+      ]
+    },
+    {
+      "reference_id": "70976",
+      "genre": "article",
+      "title": "Notes on some changes in the list of Coleoptera",
+      "secondary_title": "Journal of the New York entomological Society. New York",
+      "volume": "26",
+      "spage": "201",
+      "epage": "211",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1334066",
+      "PageID": "9279671",
+      "created": "2011-06-03 17:05:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46703",
+          "lastname": "Leng",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9279671,
+        9279672,
+        9279673,
+        9279674,
+        9279675,
+        9279676,
+        9279677,
+        9279678,
+        9279679,
+        9279680,
+        9279681
+      ]
+    }
+  ]
+}

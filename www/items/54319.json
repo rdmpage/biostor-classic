@@ -1,0 +1,44 @@
+{
+  "ItemID": "54319",
+  "FullTitle": "Journal de conchyliologie.  ",
+  "VolumeInfo": "t 37 (1889)",
+  "articles": [
+    {
+      "reference_id": "102057",
+      "genre": "article",
+      "title": "Diagnoses Molluscorum novorum in Sinis collectorum",
+      "secondary_title": "Journal de Conchyliologie",
+      "volume": "37",
+      "spage": "40",
+      "epage": "50",
+      "year": "1889",
+      "date": "1889-00-00",
+      "issn": "0021-7719",
+      "oclc": "1605690",
+      "PageID": "16015383",
+      "created": "2012-03-27 15:52:05",
+      "updated": "2012-03-27 15:55:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53609",
+          "lastname": "Heude",
+          "forename": "R P M"
+        }
+      ],
+      "bhl_pages": [
+        16015383,
+        16015384,
+        16015385,
+        16015386,
+        16015387,
+        16015388,
+        16015389,
+        16015409,
+        16015410,
+        16015411,
+        16015412
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "ItemID": "47159",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.87,no.2 2005 MOBOT",
+  "articles": [
+    {
+      "reference_id": "63365",
+      "genre": "article",
+      "title": "New genera and combinations in the Bryaceae (Bryales, Musci) for Australia",
+      "secondary_title": "Phytologia",
+      "volume": "87",
+      "spage": "61",
+      "epage": "72",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "0031-9430",
+      "PageID": "13074793",
+      "created": "2011-01-26 21:56:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43671",
+          "lastname": "Ramsay",
+          "forename": "H P"
+        },
+        {
+          "id": "41544",
+          "lastname": "Spence",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        13074793,
+        13074794,
+        13074795,
+        13074796,
+        13074797,
+        13074798,
+        13074799,
+        13074800,
+        13074801,
+        13074802,
+        13074803,
+        13074804
+      ]
+    },
+    {
+      "reference_id": "63081",
+      "genre": "article",
+      "title": "New species and new combinations in the tribe Vernonieae (Asteraceae)",
+      "secondary_title": "Phytologia",
+      "volume": "87",
+      "spage": "80",
+      "epage": "96",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "0031-9430",
+      "PageID": "13074812",
+      "created": "2011-01-26 21:42:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41727",
+          "lastname": "Robinson",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        13074812,
+        13074813,
+        13074814,
+        13074815,
+        13074816,
+        13074817,
+        13074818,
+        13074819,
+        13074820,
+        13074821,
+        13074822,
+        13074823,
+        13074824,
+        13074825,
+        13074826,
+        13074827,
+        13074828
+      ]
+    },
+    {
+      "reference_id": "63364",
+      "genre": "article",
+      "title": "Phymatoceros Stotler, W. T. Doyle & Crand.-Stotl., gen. nov. (Anthocerotophyta)",
+      "secondary_title": "Phytologia",
+      "volume": "87",
+      "spage": "114",
+      "epage": "117",
+      "year": "2005",
+      "date": "2005-00-00",
+      "issn": "0031-9430",
+      "PageID": "13074846",
+      "created": "2011-01-26 21:56:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43668",
+          "lastname": "Crandall-Stotler",
+          "forename": "B J"
+        },
+        {
+          "id": "43669",
+          "lastname": "Doyle",
+          "forename": "W T"
+        },
+        {
+          "id": "43670",
+          "lastname": "Stotler",
+          "forename": "R E"
+        }
+      ],
+      "bhl_pages": [
+        13074846,
+        13074847,
+        13074848,
+        13074849
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ItemID": "43646",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 7-8 1886-87",
+  "articles": [
+    {
+      "reference_id": "83688",
+      "genre": "article",
+      "title": "Skandinaviens Arter af Trichopter-Familjen Apataniidae",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "7",
+      "spage": "73",
+      "epage": "80",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0013-886X",
+      "PageID": "11925689",
+      "created": "2011-08-09 18:17:11",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40816",
+          "lastname": "Wallengren",
+          "forename": "H D J"
+        }
+      ],
+      "bhl_pages": [
+        11925689,
+        11925690,
+        11925691,
+        11925692,
+        11925693,
+        11925694,
+        11925695,
+        11925696
+      ]
+    }
+  ]
+}

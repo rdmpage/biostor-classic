@@ -1,0 +1,61 @@
+{
+  "ItemID": "36040",
+  "FullTitle": "The Entomologist's record and journal of variation.",
+  "VolumeInfo": "v. 15 1903",
+  "articles": [
+    {
+      "reference_id": "57835",
+      "genre": "article",
+      "title": "A new British flea: Ceratophyllus londiniensis",
+      "secondary_title": "Entomologist's Record and Journal of Variation",
+      "volume": "15",
+      "spage": "64",
+      "epage": "65",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1568053",
+      "PageID": "9019369",
+      "created": "2010-11-20 15:04:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42171",
+          "lastname": "Rothschild",
+          "forename": "N C"
+        }
+      ],
+      "bhl_pages": [
+        9019369,
+        9019370
+      ]
+    },
+    {
+      "reference_id": "57845",
+      "genre": "article",
+      "title": "Genera of the Eumorphid and Daphnid Sphinges",
+      "secondary_title": "Entomologist's Record and Journal of Variation",
+      "volume": "15",
+      "spage": "100",
+      "epage": "101",
+      "year": "1903",
+      "date": "1903-00-00",
+      "oclc": "1568053",
+      "PageID": "9019407",
+      "created": "2010-11-20 15:06:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42173",
+          "lastname": "Tutt",
+          "forename": "J W"
+        }
+      ],
+      "bhl_pages": [
+        9019407,
+        9019408
+      ]
+    }
+  ]
+}

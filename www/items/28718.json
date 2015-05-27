@@ -1,0 +1,37 @@
+{
+  "ItemID": "28718",
+  "FullTitle": "Transactions of the Academy of Science of Saint Louis.  ",
+  "VolumeInfo": "v.7 (1894-1897)",
+  "articles": [
+    {
+      "reference_id": "69739",
+      "genre": "article",
+      "title": "A contribution to the herpetology of Missouri",
+      "secondary_title": "Transactions of the Academy of Science of St. Louis",
+      "volume": "7",
+      "spage": "499",
+      "epage": "503",
+      "year": "1897",
+      "date": "1897-00-00",
+      "oclc": "1460721",
+      "PageID": "5792532",
+      "created": "2011-06-02 06:53:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46361",
+          "lastname": "Hurter",
+          "forename": "Julius"
+        }
+      ],
+      "bhl_pages": [
+        5792532,
+        5792533,
+        5792480,
+        5792481,
+        5792482
+      ]
+    }
+  ]
+}

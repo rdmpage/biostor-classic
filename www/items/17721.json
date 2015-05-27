@@ -1,0 +1,38 @@
+{
+  "ItemID": "17721",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 38 (1886)",
+  "articles": [
+    {
+      "reference_id": "60301",
+      "genre": "article",
+      "title": "On some new Psocidae",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "38",
+      "spage": "13",
+      "epage": "18",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0097-3157",
+      "PageID": "1687218",
+      "created": "2010-11-22 22:11:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42797",
+          "lastname": "Aaron",
+          "forename": "S F"
+        }
+      ],
+      "bhl_pages": [
+        1687218,
+        1687219,
+        1687220,
+        1687221,
+        1687222,
+        1687223
+      ]
+    }
+  ]
+}

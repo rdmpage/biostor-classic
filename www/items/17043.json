@@ -1,0 +1,299 @@
+{
+  "ItemID": "17043",
+  "FullTitle": "The Biological bulletin.",
+  "VolumeInfo": "v. 3 (1902)",
+  "articles": [
+    {
+      "reference_id": "73705",
+      "genre": "article",
+      "title": "New species of Ceratopogon",
+      "secondary_title": "Biol. Bull",
+      "volume": "3",
+      "spage": "3",
+      "epage": "14",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0006-3185",
+      "PageID": "1439577",
+      "created": "2011-06-04 09:38:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47226",
+          "lastname": "Long",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        1439577,
+        1439578,
+        1439545,
+        1439546,
+        1439547,
+        1439579,
+        1439548,
+        1439580,
+        1439581,
+        1439582,
+        1439549,
+        1439583
+      ]
+    },
+    {
+      "reference_id": "103849",
+      "genre": "article",
+      "title": "A new genus of diapriids from Texas",
+      "secondary_title": "Biological Bulletin",
+      "volume": "3",
+      "spage": "15",
+      "epage": "15",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0918-6158",
+      "PageID": "1439550",
+      "created": "2012-05-30 13:36:24",
+      "updated": "2012-05-30 13:36:24",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        1439550
+      ]
+    },
+    {
+      "reference_id": "13219",
+      "genre": "article",
+      "title": "Two new Embiidae",
+      "secondary_title": "Biological Bulletin",
+      "volume": "3",
+      "spage": "16",
+      "epage": "26",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0006-3185",
+      "PageID": "1439551",
+      "created": "2010-01-11 12:03:38",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2970",
+          "lastname": "Melander",
+          "forename": "Axel Leonard"
+        }
+      ],
+      "bhl_pages": [
+        1439551,
+        1439564,
+        1439565,
+        1439566,
+        1439584,
+        1439585,
+        1439586,
+        1439567,
+        1439568,
+        1439587,
+        1439569
+      ]
+    },
+    {
+      "reference_id": "6505",
+      "genre": "article",
+      "title": "SOUTHEASTERN UNITED STATES AS A CENTER OF GEOGRAPHICAL DISTRIBUTION OF FLORA AND FAUNA",
+      "secondary_title": "Biol Bull",
+      "volume": "3",
+      "spage": "115",
+      "epage": "131",
+      "year": "1902",
+      "date": "1902-07-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535493",
+      "PageID": "1439630",
+      "created": "2010-01-06 20:44:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2965",
+          "lastname": "Adams",
+          "forename": "Chas C"
+        }
+      ],
+      "bhl_pages": [
+        1439630,
+        1439510,
+        1439511,
+        1439512,
+        1439631,
+        1439513,
+        1439514,
+        1439632,
+        1439633,
+        1439634,
+        1439515,
+        1439635,
+        1439636,
+        1439516,
+        1439517,
+        1439637,
+        1439638
+      ]
+    },
+    {
+      "reference_id": "6506",
+      "genre": "article",
+      "title": "THE ARTIFICIAL PRODUCTION OF SPORES IN MONAS BY A REDUCTION OF THE TEMPERATURE",
+      "secondary_title": "Biol Bull",
+      "volume": "3",
+      "spage": "165",
+      "epage": "171",
+      "year": "1902",
+      "date": "1902-08-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535505",
+      "PageID": "1439538",
+      "created": "2010-01-06 20:44:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2966",
+          "lastname": "Greeley",
+          "forename": "Arthur White"
+        }
+      ],
+      "bhl_pages": [
+        1439538,
+        1439539,
+        1439652,
+        1439552,
+        1439653,
+        1439654,
+        1439553
+      ]
+    },
+    {
+      "reference_id": "21190",
+      "genre": "article",
+      "title": "An American Cerapachys, with remarks on the affinities of the Cerapachyinae",
+      "secondary_title": "Biological Bulletin (Woods Hole)",
+      "volume": "3",
+      "spage": "181",
+      "epage": "191",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0006-3185",
+      "PageID": "1439558",
+      "created": "2010-02-11 17:28:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "788",
+          "lastname": "Wheeler",
+          "forename": "W M"
+        }
+      ],
+      "bhl_pages": [
+        1439558,
+        1439660,
+        1439661,
+        1439662,
+        1439559,
+        1439560,
+        1439561,
+        1439663,
+        1439562,
+        1439563,
+        1439664
+      ]
+    },
+    {
+      "reference_id": "6507",
+      "genre": "article",
+      "title": "NOTES ON THE NATURE OF \"ARTIFICIAL PARTHENOGENESIS\" IN THE EGG OF PODARKE OBSCURA",
+      "secondary_title": "Biol Bull",
+      "volume": "3",
+      "spage": "235",
+      "epage": "240",
+      "year": "1902",
+      "date": "1902-10-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535877",
+      "PageID": "1439724",
+      "created": "2010-01-06 20:44:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2967",
+          "lastname": "Treadwell",
+          "forename": "Aaron L"
+        }
+      ],
+      "bhl_pages": [
+        1439724,
+        1439692,
+        1439725,
+        1439693,
+        1439726,
+        1439694
+      ]
+    },
+    {
+      "reference_id": "6508",
+      "genre": "article",
+      "title": "EMBRYONIC AND REGENERATIVE DEVELOPMENT IN PLANARIANS",
+      "secondary_title": "Biol Bull",
+      "volume": "3",
+      "spage": "262",
+      "epage": "288",
+      "year": "1902",
+      "date": "1902-11-01",
+      "issn": "0006-3185",
+      "doi": "10.2307\/1535546",
+      "PageID": "1439732",
+      "created": "2010-01-06 20:44:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2968",
+          "lastname": "Bardeen",
+          "forename": "Charles Russell"
+        }
+      ],
+      "bhl_pages": [
+        1439732,
+        1439733,
+        1439734,
+        1439735,
+        1439783,
+        1439784,
+        1439736,
+        1439785,
+        1439737,
+        1439786,
+        1439738,
+        1439739,
+        1439740,
+        1439787,
+        1439788,
+        1439741,
+        1439789,
+        1439742,
+        1439790,
+        1439743,
+        1439791,
+        1439792,
+        1439744,
+        1439745,
+        1439793,
+        1439794,
+        1439746
+      ]
+    }
+  ]
+}

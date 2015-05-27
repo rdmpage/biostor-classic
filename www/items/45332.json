@@ -1,0 +1,40 @@
+{
+  "ItemID": "45332",
+  "FullTitle": "Nederlandsch tijdschrift voor de dierkunde \/  uitgegeven door het Koninklijk Zoologisch Genootschap Natura Artis Magistra, te Amsterdam.",
+  "VolumeInfo": "Jaarg.2 (1865)",
+  "articles": [
+    {
+      "reference_id": "67302",
+      "genre": "article",
+      "title": "Notice sur les Ostracions, confondus sous le nom d\u2019Ostracion quadricornis L. et description des Ostracion notacanthus et guine\u00ebnsis",
+      "secondary_title": "Nederlandsch Tijdschrift voor de Dierkunde",
+      "volume": "2",
+      "spage": "298",
+      "epage": "305",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "18650401",
+      "PageID": "12570901",
+      "created": "2011-05-25 16:06:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45473",
+          "lastname": "Bleeker",
+          "forename": "Pieter"
+        }
+      ],
+      "bhl_pages": [
+        12570901,
+        12570902,
+        12570903,
+        12570904,
+        12570905,
+        12570906,
+        12570907,
+        12570908
+      ]
+    }
+  ]
+}

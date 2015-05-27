@@ -1,0 +1,39 @@
+{
+  "ItemID": "38352",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1908",
+  "articles": [
+    {
+      "reference_id": "58178",
+      "genre": "article",
+      "title": "Additions to the Tasmanian molluscan fauna",
+      "secondary_title": "Proceedings of the Royal Society of Tasmania",
+      "volume": "1908",
+      "spage": "53",
+      "epage": "59",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0080-4703",
+      "PageID": "10050140",
+      "created": "2010-11-20 20:05:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40741",
+          "lastname": "May",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        10050140,
+        10050141,
+        10050142,
+        10050143,
+        10050144,
+        10050145,
+        10050146
+      ]
+    }
+  ]
+}

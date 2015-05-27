@@ -1,0 +1,179 @@
+{
+  "ItemID": "48150",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 3: Bd. 1-2 (1837)",
+  "articles": [
+    {
+      "reference_id": "49181",
+      "genre": "article",
+      "title": "Herpetologische Notizen",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "3",
+      "spage": "123",
+      "epage": "136",
+      "year": "1837",
+      "date": "1837-00-00",
+      "oclc": "1481990",
+      "PageID": "13477849",
+      "created": "2010-03-21 11:57:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39326",
+          "lastname": "Wiegmann",
+          "forename": "A F A"
+        }
+      ],
+      "bhl_pages": [
+        13477849,
+        13477850,
+        13477851,
+        13477852,
+        13477853,
+        13477854,
+        13477855,
+        13477856,
+        13477857,
+        13477858,
+        13477859,
+        13477860,
+        13477861,
+        13477862
+      ]
+    },
+    {
+      "reference_id": "72923",
+      "genre": "article",
+      "title": "Ueber die gestielten Eier der Schlupfwespen",
+      "secondary_title": "Archiv fur Naturgeschichte",
+      "volume": "3",
+      "spage": "151",
+      "epage": "159",
+      "year": "1837",
+      "date": "1837-00-00",
+      "issn": "0365-6136",
+      "PageID": "13477877",
+      "created": "2011-06-04 04:41:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47115",
+          "lastname": "Hartig",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        13477877,
+        13477878,
+        13477879,
+        13477880,
+        13477881,
+        13477882,
+        13477883,
+        13477884,
+        13477885
+      ]
+    },
+    {
+      "reference_id": "104944",
+      "genre": "article",
+      "title": "Einige Bemerkungen \u00fcber Guilding's Peripatus",
+      "secondary_title": "Archiv F\u00fcr Naturgeschichte",
+      "volume": "3",
+      "spage": "195",
+      "epage": "200",
+      "year": "1837",
+      "date": "1837-00-00",
+      "issn": "0365-6136",
+      "PageID": "13477921",
+      "created": "2012-06-29 10:22:37",
+      "updated": "2012-06-29 10:22:37",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39326",
+          "lastname": "Wiegmann",
+          "forename": "A F A"
+        }
+      ],
+      "bhl_pages": [
+        13477921,
+        13477922,
+        13477923,
+        13477924,
+        13477925,
+        13477926
+      ]
+    },
+    {
+      "reference_id": "48989",
+      "genre": "article",
+      "title": "Neues Genus von Wasserschlangen",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte",
+      "volume": "3",
+      "spage": "331",
+      "epage": "335",
+      "year": "1837",
+      "date": "1837-00-00",
+      "oclc": "1481990",
+      "PageID": "13478057",
+      "created": "2010-03-21 10:35:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39339",
+          "lastname": "Tschudi",
+          "forename": "J J"
+        }
+      ],
+      "bhl_pages": [
+        13478057,
+        13478058,
+        13478059,
+        13478060,
+        13478061
+      ]
+    },
+    {
+      "reference_id": "61487",
+      "genre": "article",
+      "title": "Ueber die Gattungen der Plagiostomen",
+      "secondary_title": "Archiv f\u00fcr Naturgeschichte. Berlin",
+      "volume": "3",
+      "spage": "394",
+      "epage": "401",
+      "year": "1837",
+      "date": "1837-00-00",
+      "oclc": "1481990",
+      "PageID": "13478110",
+      "created": "2011-01-10 21:01:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9230",
+          "lastname": "Muller",
+          "forename": "J"
+        },
+        {
+          "id": "43037",
+          "lastname": "Henle",
+          "forename": "F G J"
+        }
+      ],
+      "bhl_pages": [
+        13478110,
+        13478111,
+        13478112,
+        13478113,
+        13478114,
+        13478115,
+        13478116,
+        13478117
+      ]
+    }
+  ]
+}

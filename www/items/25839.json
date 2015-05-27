@@ -1,0 +1,98 @@
+{
+  "ItemID": "25839",
+  "FullTitle": "The University of Kansas science bulletin.",
+  "VolumeInfo": "v.7 (1913)",
+  "articles": [
+    {
+      "reference_id": "99422",
+      "genre": "article",
+      "title": "A Pleistocene molluscan fauna from Phillips county, Kansas",
+      "secondary_title": "Kansas University Science Bulletin",
+      "volume": "7",
+      "issue": "3",
+      "spage": "111",
+      "epage": "121",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0022-8850",
+      "PageID": "4404143",
+      "created": "2011-12-14 13:31:32",
+      "updated": "2011-12-14 13:33:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46265",
+          "lastname": "Hanna",
+          "forename": "G Dallas"
+        },
+        {
+          "id": "53371",
+          "lastname": "Johnston",
+          "forename": "Edward C"
+        }
+      ],
+      "bhl_pages": [
+        4404143,
+        4404144,
+        4404145,
+        4404146,
+        4404147,
+        4404148,
+        4404149,
+        4404150,
+        4404151,
+        4404152,
+        4404153
+      ]
+    },
+    {
+      "reference_id": "71267",
+      "genre": "article",
+      "title": "Annotated list of the Diplopoda and Chilopoda with a key to the Myriapoda of Kansas",
+      "secondary_title": "University of Kansas Science Bulletin",
+      "volume": "7",
+      "spage": "159",
+      "epage": "182",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0022-8850",
+      "PageID": "4404191",
+      "created": "2011-06-03 18:20:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46787",
+          "lastname": "Gunthorp",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        4404191,
+        4404192,
+        4404193,
+        4404194,
+        4404195,
+        4404196,
+        4404197,
+        4404198,
+        4404199,
+        4404200,
+        4404201,
+        4404202,
+        4404203,
+        4404204,
+        4404205,
+        4404206,
+        4404207,
+        4404208,
+        4404209,
+        4404210,
+        4404211,
+        4404212,
+        4404213,
+        4404214
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ItemID": "34864",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 71 (1957-1958)",
+  "articles": [
+    {
+      "reference_id": "59427",
+      "genre": "article",
+      "title": "New form of Pecten",
+      "secondary_title": "The Nautilus",
+      "volume": "71",
+      "spage": "53",
+      "epage": "54",
+      "year": "1957",
+      "date": "1957-00-00",
+      "issn": "0028-1344",
+      "PageID": "8519010",
+      "created": "2010-11-21 06:11:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42571",
+          "lastname": "Webb",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        8519010,
+        8519011
+      ]
+    },
+    {
+      "reference_id": "101191",
+      "genre": "article",
+      "title": "A Colombian species of the genus Rhodea",
+      "secondary_title": "Nautilus",
+      "volume": "71",
+      "spage": "83",
+      "epage": "84",
+      "year": "1958",
+      "date": "1958-00-00",
+      "issn": "0028-1344",
+      "PageID": "8519048",
+      "created": "2012-03-12 12:00:40",
+      "updated": "2012-03-12 12:00:40",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8519048,
+        8519049
+      ]
+    }
+  ]
+}

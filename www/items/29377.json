@@ -1,0 +1,40 @@
+{
+  "ItemID": "29377",
+  "FullTitle": "Annales des sciences naturelles : comprenant La physiologie animale et v\u00e9g\u00e9tale, l'anatomie compar\u00e9e des deux r\u00e8gnes, la zoologie, la botanique, la min\u00e9ralogie et la g\u00e9ologie ",
+  "VolumeInfo": "Tome 25",
+  "articles": [
+    {
+      "reference_id": "60213",
+      "genre": "article",
+      "title": "Description et figure du Tetranychus lintearicus, Arachnide nouvelle de la tribu des Acarides",
+      "secondary_title": "Annales des Sciences Naturelles, Paris",
+      "volume": "25",
+      "spage": "276",
+      "epage": "283",
+      "year": "1832",
+      "date": "1832-00-00",
+      "oclc": "43211156",
+      "PageID": "6061183",
+      "created": "2010-11-22 20:39:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42021",
+          "lastname": "Dufour",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        6061183,
+        6061184,
+        6061185,
+        6061186,
+        6061187,
+        6061199,
+        6061072,
+        6061073
+      ]
+    }
+  ]
+}

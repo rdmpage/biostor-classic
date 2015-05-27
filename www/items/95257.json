@@ -1,0 +1,120 @@
+{
+  "ItemID": "95257",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "bd. 7 1884",
+  "articles": [
+    {
+      "reference_id": "71532",
+      "genre": "article",
+      "title": "Sur les Epiphyses des Lacertiliens",
+      "secondary_title": "Zool. Anz",
+      "volume": "7",
+      "spage": "65",
+      "epage": "70",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0044-5231",
+      "PageID": "30123683",
+      "created": "2011-06-03 20:18:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46851",
+          "lastname": "Dollo",
+          "forename": "M L"
+        }
+      ],
+      "bhl_pages": [
+        30123683,
+        30123684,
+        30123685,
+        30123686,
+        30123687,
+        30123688
+      ]
+    },
+    {
+      "reference_id": "98427",
+      "genre": "article",
+      "title": "Beobachtungen uber die Entstehung der Sexualproducte bei Obelia",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "7",
+      "spage": "144",
+      "epage": "148",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0044-5231",
+      "PageID": "30123762",
+      "created": "2011-11-30 14:06:13",
+      "updated": "2011-11-30 14:06:13",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30123762,
+        30123763,
+        30123764,
+        30123765,
+        30123766
+      ]
+    },
+    {
+      "reference_id": "80259",
+      "genre": "article",
+      "title": "\u00dcber den Hummelstachel und seine Bedeutung f\u00fcr die Systematik",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "7",
+      "spage": "312",
+      "epage": "316",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0044-5231",
+      "PageID": "30123930",
+      "created": "2011-07-05 12:37:48",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50301",
+          "lastname": "Cholodkowsky",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        30123930,
+        30123931,
+        30123932,
+        30123933,
+        30123934
+      ]
+    },
+    {
+      "reference_id": "98479",
+      "genre": "article",
+      "title": "Ein Beitrag zur Kenntniss des Susswasserschwammes Dosilia stepanownii",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "7",
+      "spage": "476",
+      "epage": "480",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0044-5231",
+      "PageID": "30124094",
+      "created": "2011-11-30 15:40:26",
+      "updated": "2011-11-30 15:40:26",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        30124094,
+        30124095,
+        30124096,
+        30124097,
+        30124098
+      ]
+    }
+  ]
+}

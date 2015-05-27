@@ -1,0 +1,87 @@
+{
+  "ItemID": "29999",
+  "FullTitle": "Annals of the Natal Museum.",
+  "VolumeInfo": "v. 2 (1916)",
+  "articles": [
+    {
+      "reference_id": "89936",
+      "genre": "article",
+      "title": "On freshwater Entomostraca from various parts of South Africa",
+      "secondary_title": "Annals of the Natal Museum",
+      "volume": "2",
+      "issue": "4",
+      "spage": "459",
+      "epage": "474",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0304-0798",
+      "url": "http:\/\/hdl.handle.net\/10499\/AJ2139",
+      "PageID": "6323307",
+      "created": "2011-09-28 09:32:00",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51999",
+          "lastname": "Brady",
+          "forename": "G Stewardson"
+        }
+      ],
+      "bhl_pages": [
+        6323307,
+        6323308,
+        6323309,
+        6323310,
+        6323311,
+        6323312,
+        6323313,
+        6323314,
+        6323315,
+        6323316,
+        6323317,
+        6323318,
+        6323319,
+        6323320,
+        6323321,
+        6323322
+      ]
+    },
+    {
+      "reference_id": "89935",
+      "genre": "article",
+      "title": "Description of Heleophryne natalensis, a new batrachian from Natal; and notes on several South African batrachians and reptiles",
+      "secondary_title": "Annals of the Natal Museum",
+      "volume": "2",
+      "issue": "4",
+      "spage": "475",
+      "epage": "484",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0304-0798",
+      "url": "http:\/\/hdl.handle.net\/10499\/AJ2141",
+      "PageID": "6323335",
+      "created": "2011-09-28 08:14:15",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51998",
+          "lastname": "Hewitt",
+          "forename": "John"
+        }
+      ],
+      "bhl_pages": [
+        6323335,
+        6323336,
+        6323337,
+        6323338,
+        6323339,
+        6323340,
+        6323341,
+        6323342,
+        6323343,
+        6323344
+      ]
+    }
+  ]
+}

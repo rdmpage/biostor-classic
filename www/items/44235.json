@@ -1,0 +1,38 @@
+{
+  "ItemID": "44235",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 13-14 1892-93",
+  "articles": [
+    {
+      "reference_id": "61471",
+      "genre": "article",
+      "title": "Zwei neue Collembola aus dem Indischen Archipel",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "14",
+      "spage": "171",
+      "epage": "176",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0013-886X",
+      "PageID": "12121220",
+      "created": "2011-01-10 20:45:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42125",
+          "lastname": "Sch\u00f6tt",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        12121220,
+        12121221,
+        12121222,
+        12121223,
+        12121224,
+        12121225
+      ]
+    }
+  ]
+}

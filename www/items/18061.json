@@ -1,0 +1,169 @@
+{
+  "ItemID": "18061",
+  "FullTitle": "Proceedings of the Academy of Natural Sciences of Philadelphia.",
+  "VolumeInfo": "v. 18 (1866)",
+  "articles": [
+    {
+      "reference_id": "11300",
+      "genre": "article",
+      "title": "Fourth contribution to the herpetology of tropical America",
+      "secondary_title": "Proc. Acad. Nat. Sci. Philadelphia",
+      "volume": "18",
+      "spage": "123",
+      "epage": "132",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0097-3157",
+      "PageID": "1861582",
+      "created": "2010-01-08 11:13:53",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1861582,
+        1861583,
+        1861584,
+        1861585,
+        1861586,
+        1861587,
+        1861588,
+        1861589,
+        1861590,
+        1861591
+      ]
+    },
+    {
+      "reference_id": "51754",
+      "genre": "article",
+      "title": "On the Reptilia and Batrachia of the Sonoran Province of the Nearctic Region",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "18",
+      "spage": "300",
+      "epage": "314",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0097-3157",
+      "PageID": "1861760",
+      "created": "2010-06-27 04:36:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1861760,
+        1861761,
+        1861762,
+        1861763,
+        1861764,
+        1861765,
+        1861766,
+        1861767,
+        1861769,
+        1861770,
+        1861771,
+        1861772,
+        1861773,
+        1861774,
+        1861775
+      ]
+    },
+    {
+      "reference_id": "51901",
+      "genre": "article",
+      "title": "Fifth contribution to the herpetology of tropical America",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "18",
+      "spage": "317",
+      "epage": "323",
+      "year": "1867",
+      "date": "1867-00-00",
+      "issn": "0097-3157",
+      "PageID": "1861778",
+      "created": "2010-06-27 10:05:08",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8524",
+          "lastname": "Cope",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        1861778,
+        1861779,
+        1861780,
+        1861781,
+        1861782,
+        1861783,
+        1861784
+      ]
+    },
+    {
+      "reference_id": "69361",
+      "genre": "article",
+      "title": "List of COLEOPTERA collected in the Mountains of Lycoming County, Pa",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "18",
+      "spage": "346",
+      "epage": "348",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0097-3157",
+      "PageID": "1861807",
+      "created": "2011-06-01 08:50:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46249",
+          "lastname": "Lawrence",
+          "forename": "Leconte John"
+        }
+      ],
+      "bhl_pages": [
+        1861807,
+        1861808,
+        1861809
+      ]
+    },
+    {
+      "reference_id": "69362",
+      "genre": "article",
+      "title": "List of COLEOPTERA collected near Fort Whipple, Arizona, by Dr. Elliott Coues, U.S.A., in 1864-65",
+      "secondary_title": "Proceedings of the Academy of Natural Sciences of Philadelphia",
+      "volume": "18",
+      "spage": "348",
+      "epage": "349",
+      "year": "1866",
+      "date": "1866-00-00",
+      "issn": "0097-3157",
+      "PageID": "1861809",
+      "created": "2011-06-01 08:50:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46249",
+          "lastname": "Lawrence",
+          "forename": "Leconte John"
+        }
+      ],
+      "bhl_pages": [
+        1861809,
+        1861810
+      ]
+    }
+  ]
+}

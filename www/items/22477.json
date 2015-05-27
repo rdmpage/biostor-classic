@@ -1,0 +1,131 @@
+{
+  "ItemID": "22477",
+  "FullTitle": "Proceedings of the California Academy of Sciences.",
+  "VolumeInfo": "v. 7 (1876)",
+  "articles": [
+    {
+      "reference_id": "60151",
+      "genre": "article",
+      "title": "Remarks on the Crustacea of the Pacific coast, with descriptions of some new species",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "1876",
+      "series": "7",
+      "spage": "28",
+      "epage": "36",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0068-547X",
+      "PageID": "3180230",
+      "created": "2010-11-22 19:58:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        3180230,
+        3180256,
+        3180345,
+        3180231,
+        3180287,
+        3180334,
+        3180304,
+        3180292,
+        3180232
+      ]
+    },
+    {
+      "reference_id": "66716",
+      "genre": "article",
+      "title": "Description of a new genus and three new species of sessile-eyed Crustacea",
+      "secondary_title": "Proceedings of The California Academy of Sciences",
+      "volume": "7",
+      "spage": "53",
+      "epage": "55",
+      "year": "1877",
+      "date": "1877-00-00",
+      "issn": "0068-547X",
+      "PageID": "3180236",
+      "created": "2011-05-09 18:03:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45303",
+          "lastname": "Harford",
+          "forename": "W G W"
+        }
+      ],
+      "bhl_pages": [
+        3180236,
+        3180331,
+        3180352
+      ]
+    },
+    {
+      "reference_id": "60157",
+      "genre": "article",
+      "title": "Description of a new genus and species of Decapod Crustacean",
+      "secondary_title": "Proceedings of the California Academy of Sciences",
+      "volume": "7",
+      "spage": "55",
+      "epage": "57",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0068-547X",
+      "PageID": "3180352",
+      "created": "2010-11-22 20:01:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10216",
+          "lastname": "Lockington",
+          "forename": "W N"
+        }
+      ],
+      "bhl_pages": [
+        3180352,
+        3180276,
+        3180338
+      ]
+    },
+    {
+      "reference_id": "85428",
+      "genre": "article",
+      "title": "Remarks on the Crustacea of the West coast of North America, with a catalogue of the species in the museum of the California Academy of Science",
+      "secondary_title": "Proceedings of the California Academy of Science",
+      "volume": "7",
+      "spage": "145",
+      "epage": "156",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0068-547X",
+      "PageID": "3180323",
+      "created": "2011-08-16 23:09:08",
+      "updated": "2011-08-16 23:09:08",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3180323,
+        3180384,
+        3180259,
+        3180385,
+        3180359,
+        3180278,
+        3180252,
+        3180386,
+        3180339,
+        3180387,
+        3180262,
+        3180313
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "ItemID": "33604",
+  "FullTitle": "Journal of the Arnold Arboretum.",
+  "VolumeInfo": "v. 28 1947",
+  "articles": [
+    {
+      "reference_id": "61958",
+      "genre": "article",
+      "title": "On the identity of Brandisia Souliei Bonati",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "28",
+      "spage": "251",
+      "epage": "252",
+      "year": "1947",
+      "date": "1947-00-00",
+      "issn": "0004-2625",
+      "PageID": "8441106",
+      "created": "2011-01-26 19:12:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42947",
+          "lastname": "Merrill",
+          "forename": "E D"
+        }
+      ],
+      "bhl_pages": [
+        8441106,
+        8441107
+      ]
+    },
+    {
+      "reference_id": "61824",
+      "genre": "article",
+      "title": "Tropical fern hosts of rust fungi",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "28",
+      "spage": "309",
+      "epage": "319",
+      "year": "1947",
+      "date": "1947-00-00",
+      "issn": "0004-2625",
+      "PageID": "8441166",
+      "created": "2011-01-26 18:56:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43183",
+          "lastname": "Faull",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        8441166,
+        8441167,
+        8441168,
+        8441169,
+        8441170,
+        8441171,
+        8441172,
+        8441173,
+        8441174,
+        8441175,
+        8441176
+      ]
+    },
+    {
+      "reference_id": "61874",
+      "genre": "article",
+      "title": "Studies in the Theaceae, XVI. Bibliographic notes on the genus Laplacea",
+      "secondary_title": "Journal of the Arnold Arboretum",
+      "volume": "28",
+      "spage": "435",
+      "epage": "438",
+      "year": "1947",
+      "date": "1947-00-00",
+      "issn": "0004-2625",
+      "PageID": "8441294",
+      "created": "2011-01-26 19:03:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43199",
+          "lastname": "Kobuski",
+          "forename": "C E"
+        }
+      ],
+      "bhl_pages": [
+        8441294,
+        8441295,
+        8441296,
+        8441297
+      ]
+    }
+  ]
+}

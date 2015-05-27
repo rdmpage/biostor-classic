@@ -1,0 +1,39 @@
+{
+  "ItemID": "17842",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 16 (1902-1903)",
+  "articles": [
+    {
+      "reference_id": "77757",
+      "genre": "article",
+      "title": "A new Haitien Chondropoma",
+      "secondary_title": "Nautilus",
+      "volume": "16",
+      "spage": "88",
+      "epage": "89",
+      "year": "1902",
+      "date": "1902-00-00",
+      "issn": "0028-1344",
+      "PageID": "1754363",
+      "created": "2011-06-14 10:31:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49374",
+          "lastname": "Henderson",
+          "forename": "J J"
+        },
+        {
+          "id": "49375",
+          "lastname": "Simpson",
+          "forename": "T T"
+        }
+      ],
+      "bhl_pages": [
+        1754363,
+        1754364
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "author": [
+    {
+      "firstname": "John D",
+      "lastname": "Pinto",
+      "name": "John D Pinto"
+    }
+  ],
+  "type": "article",
+  "title": "A Review of the New World Genera of Trichogrammatidae (Hymenoptera)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "15",
+    "pages": "38--163",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2006",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/363"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2760238"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 363
+    },
+    {
+      "type": "bhl",
+      "id": 2760238
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -70.1,
+        -3.3833333333333
+      ],
+      [
+        -110.01861111111,
+        31.9925
+      ],
+      [
+        -117.21666666667,
+        33.65
+      ],
+      [
+        -117.03277777778,
+        33.599444444444
+      ],
+      [
+        -117.03833333333,
+        33.601111111111
+      ],
+      [
+        -83.3,
+        10.883333333333
+      ]
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "ItemID": "31407",
+  "FullTitle": "The Journal of the College of Science, Imperial University of  Tokyo, Japan = Tokyo Teikoku Daigaku kiyo.  Rika.",
+  "VolumeInfo": "v. 15 (1901)",
+  "articles": [
+    {
+      "reference_id": "57646",
+      "genre": "article",
+      "title": "Descriptions of nine new species of fishes contained in museums of Japan",
+      "secondary_title": "Journal of the College of Science, Imperial University of Tokyo",
+      "volume": "15",
+      "spage": "301",
+      "epage": "311",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1641681",
+      "PageID": "7095118",
+      "created": "2010-11-20 14:25:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "781",
+          "lastname": "Jordan",
+          "forename": "D S"
+        },
+        {
+          "id": "42117",
+          "lastname": "Snyder",
+          "forename": "J O"
+        }
+      ],
+      "bhl_pages": [
+        7095118,
+        7095119,
+        7095120,
+        7095121,
+        7095122,
+        7095123,
+        7095124,
+        7095125,
+        7095126,
+        7095127,
+        7095128
+      ]
+    }
+  ]
+}

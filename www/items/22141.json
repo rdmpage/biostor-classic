@@ -1,0 +1,92 @@
+{
+  "ItemID": "22141",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France.",
+  "VolumeInfo": "v. 22 (1897)",
+  "articles": [
+    {
+      "reference_id": "103356",
+      "genre": "article",
+      "title": "Campagnes scientifiques de S. A. le Prince Albert Ier de Monaco. Diagnoses d'especes nouvelles de Gasteropodes",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "22",
+      "spage": "37",
+      "epage": "45",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0037-962X",
+      "PageID": "3064512",
+      "created": "2012-05-21 13:21:18",
+      "updated": "2012-05-21 13:21:18",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3064512,
+        3064449,
+        3064513,
+        3064606,
+        3064514,
+        3064515,
+        3064516,
+        3064607,
+        3064517
+      ]
+    },
+    {
+      "reference_id": "103339",
+      "genre": "article",
+      "title": "Pterospora maldaneorum, n. g., n. sp. Gregarine nouvelle parasite des Maldaniens",
+      "secondary_title": "Bulletin De La Societe Zoologique De France",
+      "volume": "22",
+      "spage": "92",
+      "epage": "97",
+      "year": "1897",
+      "date": "1897-00-00",
+      "issn": "0037-962X",
+      "PageID": "3064533",
+      "created": "2012-05-21 13:19:52",
+      "updated": "2012-05-21 13:19:52",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3064533,
+        3064628,
+        3064408,
+        3064534,
+        3064629,
+        3064630
+      ]
+    },
+    {
+      "reference_id": "71952",
+      "genre": "article",
+      "title": "Descriptions de Col\u00e9opt\u00e8res asiatiques de la famille des Cerambycidae",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 zoologique de France, Paris",
+      "volume": "22",
+      "spage": "188",
+      "epage": "190",
+      "year": "1897",
+      "date": "1897-00-00",
+      "oclc": "1715809",
+      "PageID": "3064435",
+      "created": "2011-06-03 23:46:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39445",
+          "lastname": "Pic",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        3064435,
+        3064557,
+        3064669
+      ]
+    }
+  ]
+}

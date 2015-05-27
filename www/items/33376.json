@@ -1,0 +1,67 @@
+{
+  "ItemID": "33376",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.16 (1956)",
+  "articles": [
+    {
+      "reference_id": "65124",
+      "genre": "article",
+      "title": "Notes on louse-host associations of the Great Salt Lake Desert with keys to the lice",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "16",
+      "spage": "9",
+      "epage": "17",
+      "year": "1956",
+      "date": "1956-00-00",
+      "issn": "0017-3614",
+      "PageID": "7910645",
+      "created": "2011-01-31 14:26:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44777",
+          "lastname": "Ignoffo",
+          "forename": "C M"
+        }
+      ],
+      "bhl_pages": [
+        7910645,
+        7910646,
+        7910647,
+        7910648,
+        7910649,
+        7910650,
+        7910651,
+        7910652,
+        7910653
+      ]
+    },
+    {
+      "reference_id": "85312",
+      "genre": "article",
+      "title": "New African and Asian Tingidae (Hemiptera)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "16",
+      "spage": "18",
+      "epage": "22",
+      "year": "1956",
+      "date": "1956-00-00",
+      "issn": "0017-3614",
+      "PageID": "7910654",
+      "created": "2011-08-12 09:20:15",
+      "updated": "2011-08-12 09:20:15",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        7910654,
+        7910655,
+        7910656,
+        7910657,
+        7910658
+      ]
+    }
+  ]
+}

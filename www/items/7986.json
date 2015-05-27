@@ -1,0 +1,57 @@
+{
+  "ItemID": "7986",
+  "FullTitle": "Bulletin of the Torrey Botanical Club.",
+  "VolumeInfo": "v.1-5 (1870-1874)",
+  "articles": [
+    {
+      "reference_id": "11304",
+      "genre": "article",
+      "title": "Lepidium Virginicum, L",
+      "secondary_title": "Bulletin of the Torrey Botanical Club",
+      "volume": "1",
+      "spage": "5",
+      "epage": "6",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0040-9618",
+      "doi": "10.2307\/2476803",
+      "PageID": "634973",
+      "created": "2010-01-08 14:10:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8529",
+          "lastname": "L.",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        634973,
+        634974
+      ]
+    },
+    {
+      "reference_id": "11305",
+      "genre": "article",
+      "title": "Materials for the Catalogue",
+      "secondary_title": "Bulletin of the Torrey Botanical Club",
+      "volume": "1",
+      "spage": "23",
+      "year": "1870",
+      "date": "1870-00-00",
+      "issn": "0040-9618",
+      "doi": "10.2307\/2476566",
+      "PageID": "634991",
+      "created": "2010-01-08 14:11:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        634991
+      ]
+    }
+  ]
+}

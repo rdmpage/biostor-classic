@@ -1,0 +1,388 @@
+{
+  "ItemID": "54081",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "4th ser. v. 18 (1876)",
+  "articles": [
+    {
+      "reference_id": "60276",
+      "genre": "article",
+      "title": "Descriptions of two new species of Ophiocoma",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "39",
+      "epage": "40",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "PageID": "15925042",
+      "created": "2010-11-22 21:51:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40931",
+          "lastname": "Smith",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        15925042,
+        15925043
+      ]
+    },
+    {
+      "reference_id": "92075",
+      "genre": "article",
+      "title": "On the Embryology of the Nemertina",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "73",
+      "epage": "75",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682010",
+      "PageID": "15925076",
+      "created": "2011-09-28 17:23:40",
+      "updated": "2011-09-28 17:23:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52436",
+          "lastname": "Barrois",
+          "forename": "M J"
+        }
+      ],
+      "bhl_pages": [
+        15925076,
+        15925077,
+        15925078
+      ]
+    },
+    {
+      "reference_id": "92396",
+      "genre": "article",
+      "title": "XIII.\u2014On a new Victorian Graptolite",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "128",
+      "epage": "130",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682020",
+      "PageID": "15925131",
+      "created": "2011-09-28 17:56:02",
+      "updated": "2012-02-07 02:16:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51857",
+          "lastname": "M'coy",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        15925131,
+        15925132,
+        15925133
+      ]
+    },
+    {
+      "reference_id": "92565",
+      "genre": "article",
+      "title": "XV.\u2014Notes on some genera of nudibranchiate mollusca, with notices of a new genus and of some hitherto undescribed species, in the collection of the British Museum",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "132",
+      "epage": "146",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682022",
+      "PageID": "15925135",
+      "created": "2011-09-28 18:10:54",
+      "updated": "2011-09-28 18:10:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52533",
+          "lastname": "Abraham",
+          "forename": "P S"
+        }
+      ],
+      "bhl_pages": [
+        15925135,
+        15925136,
+        15925137,
+        15925138,
+        15925139,
+        15925140,
+        15925141,
+        15925142,
+        15925143,
+        15925144,
+        15925145,
+        15925146,
+        15925147,
+        15925148,
+        15925149
+      ]
+    },
+    {
+      "reference_id": "60680",
+      "genre": "article",
+      "title": "On a collection of Lepidoptera from Port Moresby, New Guinea",
+      "secondary_title": "Annals and Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "240",
+      "epage": "249",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "PageID": "15925243",
+      "created": "2010-11-23 03:40:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40122",
+          "lastname": "Butler",
+          "forename": "A G"
+        }
+      ],
+      "bhl_pages": [
+        15925243,
+        15925244,
+        15925245,
+        15925246,
+        15925247,
+        15925248,
+        15925249,
+        15925250,
+        15925251,
+        15925252
+      ]
+    },
+    {
+      "reference_id": "92136",
+      "genre": "article",
+      "title": "On the reproduction of the di\u0153cious Volvox",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "274",
+      "epage": "276",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682042",
+      "PageID": "15925277",
+      "created": "2011-09-28 17:31:53",
+      "updated": "2011-09-28 17:31:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51512",
+          "lastname": "Henneguy",
+          "forename": "M L-F"
+        }
+      ],
+      "bhl_pages": [
+        15925277,
+        15925278,
+        15925279
+      ]
+    },
+    {
+      "reference_id": "92243",
+      "genre": "article",
+      "title": "Reply to some observations by Mr. Gwyn Jeffreys on the Cruise of H.M.S. \u2018Valorous\u2019 in 1875",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "359",
+      "epage": "360",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682058",
+      "PageID": "15925362",
+      "created": "2011-09-28 17:43:09",
+      "updated": "2011-09-28 17:43:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51846",
+          "lastname": "Wallich",
+          "forename": "G C"
+        }
+      ],
+      "bhl_pages": [
+        15925362,
+        15925363
+      ]
+    },
+    {
+      "reference_id": "92859",
+      "genre": "article",
+      "title": "XXXVIII.\u2014Descriptions of supposed new birds from the Kh\u00e1si-N\u00e1g\u00e1 hill-ranges south of the Brahmaputra River, Assam",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "411",
+      "epage": "412",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682064",
+      "PageID": "15925414",
+      "created": "2011-09-28 18:35:58",
+      "updated": "2011-09-28 18:35:58",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42487",
+          "lastname": "Godwin-Austen",
+          "forename": "H H"
+        }
+      ],
+      "bhl_pages": [
+        15925414,
+        15925415
+      ]
+    },
+    {
+      "reference_id": "92459",
+      "genre": "article",
+      "title": "XLII.\u2014New and peculiar mollusca of the Pecten, Mytilus, and Arca families procured in the \u2018Valorous\u2019 Expedition",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "424",
+      "epage": "436",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682068",
+      "PageID": "15925427",
+      "created": "2011-09-28 18:02:23",
+      "updated": "2011-09-28 18:02:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39797",
+          "lastname": "Jeffreys",
+          "forename": "J Gwyn"
+        }
+      ],
+      "bhl_pages": [
+        15925427,
+        15925428,
+        15925429,
+        15925430,
+        15925431,
+        15925432,
+        15925433,
+        15925434,
+        15925435,
+        15925436,
+        15925437,
+        15925438,
+        15925439
+      ]
+    },
+    {
+      "reference_id": "92028",
+      "genre": "article",
+      "title": "On some remarkable species of Mantid\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "506",
+      "epage": "507",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682086",
+      "PageID": "15925509",
+      "created": "2011-09-28 17:18:22",
+      "updated": "2011-09-28 17:18:22",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10317",
+          "lastname": "Wood-Mason",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        15925509,
+        15925510
+      ]
+    },
+    {
+      "reference_id": "92013",
+      "genre": "article",
+      "title": "On Rhabditis stercoralis",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "507",
+      "epage": "509",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682087",
+      "PageID": "15925510",
+      "created": "2011-09-28 17:16:56",
+      "updated": "2011-09-28 17:16:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52410",
+          "lastname": "Bavay",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        15925510,
+        15925511,
+        15925512
+      ]
+    },
+    {
+      "reference_id": "91977",
+      "genre": "article",
+      "title": "On a species of Iapyx",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "4",
+      "spage": "511",
+      "epage": "511",
+      "year": "1876",
+      "date": "1876-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222937608682089",
+      "PageID": "15925514",
+      "created": "2011-09-28 17:12:55",
+      "updated": "2011-09-28 17:12:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10317",
+          "lastname": "Wood-Mason",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        15925514
+      ]
+    }
+  ]
+}

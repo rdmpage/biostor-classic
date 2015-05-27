@@ -1,0 +1,95 @@
+{
+  "ItemID": "46871",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.79 no.3 1995",
+  "articles": [
+    {
+      "reference_id": "63484",
+      "genre": "article",
+      "title": "A new species of Pectis (Asteraceae, Tageteae) from Sonora, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "79",
+      "spage": "133",
+      "epage": "135",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12989931",
+      "created": "2011-01-26 22:01:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12989931,
+        12989932,
+        12989933
+      ]
+    },
+    {
+      "reference_id": "62295",
+      "genre": "article",
+      "title": "Austral Hepaticae 23. New taxa and new combinations in Telaranea Spruce ex Schiffn. (Lepidoziaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "79",
+      "spage": "250",
+      "epage": "253",
+      "issn": "0031-9430",
+      "PageID": "12990048",
+      "created": "2011-01-26 20:29:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43419",
+          "lastname": "Engel",
+          "forename": "J J"
+        },
+        {
+          "id": "43420",
+          "lastname": "Merrill",
+          "forename": "G L S"
+        }
+      ],
+      "bhl_pages": [
+        12990048,
+        12990049,
+        12990050,
+        12990051
+      ]
+    },
+    {
+      "reference_id": "62306",
+      "genre": "article",
+      "title": "New combinations and new taxa in the Bromeliaceae",
+      "secondary_title": "Phytologia",
+      "volume": "79",
+      "spage": "254",
+      "epage": "256",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12990052",
+      "created": "2011-01-26 20:30:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43425",
+          "lastname": "Grant",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        12990052,
+        12990053,
+        12990054
+      ]
+    }
+  ]
+}

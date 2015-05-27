@@ -1,0 +1,85 @@
+{
+  "ItemID": "32558",
+  "FullTitle": "Transactions - The Connecticut Academy of Arts and Sciences.  ",
+  "VolumeInfo": "20",
+  "articles": [
+    {
+      "reference_id": "57299",
+      "genre": "article",
+      "title": "New spiders from New England, XI",
+      "secondary_title": "Trans. Connect. Acad. Arts Sci.",
+      "volume": "20",
+      "spage": "133",
+      "epage": "144",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0069-8989",
+      "PageID": "7603121",
+      "created": "2010-11-18 13:46:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41983",
+          "lastname": "Emerton",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        7603121,
+        7603120,
+        7603119,
+        7603118,
+        7603117,
+        7603116,
+        7603115,
+        7603114,
+        7603113,
+        7603112,
+        7603111,
+        7603110
+      ]
+    },
+    {
+      "reference_id": "57320",
+      "genre": "article",
+      "title": "Canadian spiders, II",
+      "secondary_title": "Trans. Connect. Acad. Arts Sci.",
+      "volume": "20",
+      "spage": "145",
+      "epage": "160",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0069-8989",
+      "PageID": "7603246",
+      "created": "2010-11-18 13:50:44",
+      "updated": "2011-12-13 20:44:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41983",
+          "lastname": "Emerton",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        7603246,
+        7603245,
+        7603244,
+        7603243,
+        7603242,
+        7603241,
+        7603240,
+        7603239,
+        7603106,
+        7603105,
+        7603104,
+        7603103,
+        7603102,
+        7603101,
+        7603100,
+        7603099
+      ]
+    }
+  ]
+}

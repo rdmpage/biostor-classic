@@ -1,0 +1,40 @@
+{
+  "ItemID": "84610",
+  "FullTitle": "Papers and proceedings of the Royal Society of Tasmania.",
+  "VolumeInfo": "1878",
+  "articles": [
+    {
+      "reference_id": "102412",
+      "genre": "article",
+      "title": "On some Tasmanian freshwater univalves",
+      "secondary_title": "Papers And Proceedings of The Royal Society of Tasmania",
+      "volume": "1878",
+      "spage": "65",
+      "epage": "72",
+      "year": "1879",
+      "date": "1879-00-00",
+      "issn": "0080-4703",
+      "PageID": "26235200",
+      "created": "2012-04-23 15:19:27",
+      "updated": "2012-04-23 15:19:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40839",
+          "lastname": "Tenison-Woods",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        26235200,
+        26235201,
+        26235202,
+        26235203,
+        26235204,
+        26235205,
+        26235206,
+        26235207
+      ]
+    }
+  ]
+}

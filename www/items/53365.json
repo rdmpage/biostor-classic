@@ -1,0 +1,133 @@
+{
+  "ItemID": "53365",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 5 (1850)",
+  "articles": [
+    {
+      "reference_id": "89617",
+      "genre": "article",
+      "title": "I.\u2014Observations on the conjugation of Closterium Ehrenbergii",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "1",
+      "epage": "5",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494875",
+      "PageID": "15630128",
+      "created": "2011-09-27 13:02:19",
+      "updated": "2011-09-27 13:02:19",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51924",
+          "lastname": "Smith",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        15630128,
+        15630129,
+        15630130,
+        15630131,
+        15630132
+      ]
+    },
+    {
+      "reference_id": "89674",
+      "genre": "article",
+      "title": "II.\u2014On the terebrating mollusca",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "6",
+      "epage": "14",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494876",
+      "PageID": "15630133",
+      "created": "2011-09-27 13:08:41",
+      "updated": "2011-09-27 13:08:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51902",
+          "lastname": "Clark",
+          "forename": "William"
+        }
+      ],
+      "bhl_pages": [
+        15630133,
+        15630134,
+        15630135,
+        15630136,
+        15630137,
+        15630138,
+        15630139,
+        15630140,
+        15630141
+      ]
+    },
+    {
+      "reference_id": "89672",
+      "genre": "article",
+      "title": "XXXVIII.\u2014On the internal structure of Terebratula pectunculoides, Schl., Terebratula pulchella, Nils., and Terebratula Deslongchampsii, nob",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "449",
+      "epage": "450",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494945",
+      "PageID": "15630576",
+      "created": "2011-09-27 13:08:26",
+      "updated": "2011-09-27 13:08:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51929",
+          "lastname": "Davidson",
+          "forename": "Thomas"
+        }
+      ],
+      "bhl_pages": [
+        15630576,
+        15630577
+      ]
+    },
+    {
+      "reference_id": "89638",
+      "genre": "article",
+      "title": "On Cypr\u00e6a umbilicata and C. eximia of Sowerby",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "5",
+      "series": "2",
+      "spage": "514",
+      "epage": "515",
+      "year": "1850",
+      "date": "1850-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745486009494959",
+      "PageID": "15630641",
+      "created": "2011-09-27 13:04:33",
+      "updated": "2011-09-27 13:04:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10332",
+          "lastname": "Gray",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        15630641,
+        15630642
+      ]
+    }
+  ]
+}

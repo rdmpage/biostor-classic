@@ -1,0 +1,37 @@
+{
+  "ItemID": "100848",
+  "FullTitle": "\u00d6fversigt af Kongl. Vetenskaps-akademiens forhandlingar.",
+  "VolumeInfo": "arg. 26 (1869)",
+  "articles": [
+    {
+      "reference_id": "71607",
+      "genre": "article",
+      "title": "F\u00f6rtekning pa de af J. Wahlberg i Damaralandet insamlade Reptilierna",
+      "secondary_title": "Oefversigt Kongl.Vet. Akad. F\u00f6rhandl",
+      "volume": "26",
+      "spage": "657",
+      "epage": "662",
+      "year": "1870",
+      "date": "1870-00-00",
+      "PageID": "32394800",
+      "created": "2011-06-03 22:13:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39349",
+          "lastname": "Peters",
+          "forename": "Wilhem Carl Hartwig"
+        }
+      ],
+      "bhl_pages": [
+        32394800,
+        32394801,
+        32394802,
+        32394803,
+        32394804,
+        32394805
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "ItemID": "44686",
+  "FullTitle": "Annales de la Soci\u00e9t\u00e9 entomologique de Belgique.",
+  "VolumeInfo": "t. 23-25 1880-81",
+  "articles": [
+    {
+      "reference_id": "61408",
+      "genre": "article",
+      "title": "\u00c9tudes sur les scorpions (premier article)",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 Entomologique de Belgique",
+      "volume": "24",
+      "spage": "134",
+      "epage": "145",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "18759618",
+      "PageID": "12298711",
+      "created": "2011-01-10 19:53:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41994",
+          "lastname": "Becker",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        12298711,
+        12298712,
+        12298713,
+        12298714,
+        12298715,
+        12298716,
+        12298717,
+        12298718,
+        12298719,
+        12298720,
+        12298721,
+        12298722
+      ]
+    },
+    {
+      "reference_id": "69484",
+      "genre": "article",
+      "title": "Liste des H\u00e9mipt\u00e8res recueillis par M. Delauney \u00e0 la Guadeloupe, la Martinique et Saint-Barthelemy",
+      "secondary_title": "Annales de la Soci\u00e9t\u00e9 entomologique de Belgique. Bruxelles",
+      "volume": "25",
+      "spage": "8",
+      "epage": "19",
+      "year": "1881",
+      "date": "1881-00-00",
+      "oclc": "18759618",
+      "PageID": "12298755",
+      "created": "2011-06-01 09:38:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46290",
+          "lastname": "F.",
+          "forename": "Lethierry L"
+        }
+      ],
+      "bhl_pages": [
+        12298755,
+        12298756,
+        12298757,
+        12298758,
+        12298759,
+        12298760,
+        12298761,
+        12298762,
+        12298763,
+        12298764,
+        12298765,
+        12298766
+      ]
+    }
+  ]
+}

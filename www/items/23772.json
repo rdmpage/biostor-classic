@@ -1,0 +1,43 @@
+{
+  "ItemID": "23772",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.118:no.1-13 (1894)",
+  "articles": [
+    {
+      "reference_id": "102243",
+      "genre": "article",
+      "title": "Observations sur les \u00c6pyornis de Madagascar",
+      "secondary_title": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences",
+      "volume": "118",
+      "spage": "122",
+      "epage": "127",
+      "year": "1894",
+      "date": "1894-00-00",
+      "oclc": "1124612",
+      "PageID": "3732322",
+      "created": "2012-03-31 22:50:23",
+      "updated": "2012-03-31 22:53:03",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45097",
+          "lastname": "Milne-Edwards",
+          "forename": "A"
+        },
+        {
+          "id": "39822",
+          "lastname": "Grandidier",
+          "forename": "Alfred"
+        }
+      ],
+      "bhl_pages": [
+        3732322,
+        3732323,
+        3732324,
+        3732325,
+        3732326,
+        3732327
+      ]
+    }
+  ]
+}

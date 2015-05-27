@@ -1,0 +1,62 @@
+{
+  "author": [
+    {
+      "firstname": "Diomedes Quintero",
+      "lastname": "A.",
+      "name": "Diomedes Quintero A."
+    },
+    {
+      "firstname": "Roberto A Cambra",
+      "lastname": "T.",
+      "name": "Roberto A Cambra T."
+    }
+  ],
+  "type": "article",
+  "title": "Pappognatha Mickel (Hymenoptera: Mutillidae: Sphaeropthalminae): new species, sex associations, hosts, and new distribution records",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "14",
+    "issue": "2",
+    "pages": "191--199",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2005",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/358"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2823544"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 358
+    },
+    {
+      "type": "bhl",
+      "id": 2823544
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -41.833333333333,
+        -19.75
+      ],
+      [
+        -76.6,
+        -0.4
+      ]
+    ]
+  }
+}

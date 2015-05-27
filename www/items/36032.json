@@ -1,0 +1,150 @@
+{
+  "ItemID": "36032",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 45 1909",
+  "articles": [
+    {
+      "reference_id": "58248",
+      "genre": "article",
+      "title": "On a new species of Kermes destructive to oak trees in north India",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "45",
+      "spage": "10",
+      "epage": "12",
+      "year": "1909",
+      "date": "1909-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9016159",
+      "created": "2010-11-20 20:20:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9016159,
+        9016160,
+        9016161
+      ]
+    },
+    {
+      "reference_id": "67191",
+      "genre": "article",
+      "title": "Preliminary description of a new and injurious Thrips",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "45",
+      "spage": "33",
+      "epage": "34",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1568052",
+      "PageID": "9016190",
+      "created": "2011-05-19 12:16:01",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9016190,
+        9016191
+      ]
+    },
+    {
+      "reference_id": "72291",
+      "genre": "article",
+      "title": "Description of a new species of the longicorn genus Myrmolamia from Haiti (W. I.)",
+      "secondary_title": "The Entomologist's Monthly Magazine, London",
+      "volume": "45",
+      "spage": "78",
+      "epage": "79",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1568052",
+      "PageID": "9016247",
+      "created": "2011-06-04 01:07:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39469",
+          "lastname": "Cameron",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        9016247,
+        9016248
+      ]
+    },
+    {
+      "reference_id": "67189",
+      "genre": "article",
+      "title": "Notes on some Thysanoptera (Tubulifera) new to the British fauna, with description of a new species of Megathrips",
+      "secondary_title": "Entomologist's monthly Magazine",
+      "volume": "45",
+      "spage": "129",
+      "epage": "132",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1568052",
+      "PageID": "9016308",
+      "created": "2011-05-19 12:13:19",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39875",
+          "lastname": "Bagnall",
+          "forename": "Richard S"
+        }
+      ],
+      "bhl_pages": [
+        9016308,
+        9016309,
+        9016310,
+        9016311
+      ]
+    },
+    {
+      "reference_id": "72834",
+      "genre": "article",
+      "title": "Notes on Braconidae, X.: On the Pachylommatinae, with descriptions of new species",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "45",
+      "spage": "209",
+      "epage": "214",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "1568052",
+      "PageID": "9016410",
+      "created": "2011-06-04 04:23:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42891",
+          "lastname": "Morley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9016410,
+        9016411,
+        9016412,
+        9016413,
+        9016414,
+        9016415
+      ]
+    }
+  ]
+}

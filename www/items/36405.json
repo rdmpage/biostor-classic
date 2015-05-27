@@ -1,0 +1,435 @@
+{
+  "ItemID": "36405",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Verein in Berlin.",
+  "VolumeInfo": "v. 25 1881",
+  "articles": [
+    {
+      "reference_id": "71990",
+      "genre": "article",
+      "title": "Zur K\u00e4ferfauna der Sandwich-, Marshall- und Gilberts-Inseln",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "25",
+      "spage": "1",
+      "epage": "14",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214096",
+      "created": "2011-06-04 00:00:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9214096,
+        9214097,
+        9214098,
+        9214099,
+        9214100,
+        9214101,
+        9214102,
+        9214103,
+        9214104,
+        9214105,
+        9214106,
+        9214107,
+        9214108,
+        9214109
+      ]
+    },
+    {
+      "reference_id": "57343",
+      "genre": "article",
+      "title": "Arachniden und Myriopoden Mikronesiens",
+      "secondary_title": "Berl. ent. Zeitschr.",
+      "volume": "25",
+      "spage": "15",
+      "epage": "16",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214110",
+      "created": "2010-11-18 13:58:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9214110,
+        9214111
+      ]
+    },
+    {
+      "reference_id": "57325",
+      "genre": "article",
+      "title": "Diagnoses Arachnoidarum Japoniae",
+      "secondary_title": "Berl. ent. Zeitschr.",
+      "volume": "25",
+      "spage": "35",
+      "epage": "40",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214153",
+      "created": "2010-11-18 13:52:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9214153,
+        9214154,
+        9214155,
+        9214156,
+        9214157,
+        9214158
+      ]
+    },
+    {
+      "reference_id": "71009",
+      "genre": "article",
+      "title": "Die K\u00e4fer der Rohlfs'schen Afrikanischen Expedition 1878-79",
+      "secondary_title": "Berliner entomologische Zeitschrift",
+      "volume": "25",
+      "spage": "41",
+      "epage": "50",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214159",
+      "created": "2011-06-03 17:15:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9214159,
+        9214160,
+        9214161,
+        9214162,
+        9214163,
+        9214164,
+        9214165,
+        9214166,
+        9214167,
+        9214168
+      ]
+    },
+    {
+      "reference_id": "60412",
+      "genre": "article",
+      "title": "Acanthosomina et Urolabidina nova et minus cognita",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "25",
+      "spage": "67",
+      "epage": "86",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214185",
+      "created": "2010-11-23 00:12:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39812",
+          "lastname": "Reuter",
+          "forename": "O M"
+        }
+      ],
+      "bhl_pages": [
+        9214185,
+        9214186,
+        9214187,
+        9214188,
+        9214189,
+        9214190,
+        9214191,
+        9214192,
+        9214193,
+        9214194,
+        9214195,
+        9214196,
+        9214197,
+        9214198,
+        9214199,
+        9214200,
+        9214201,
+        9214202,
+        9214203,
+        9214204
+      ]
+    },
+    {
+      "reference_id": "72375",
+      "genre": "article",
+      "title": "Gliederthiere von Angola",
+      "secondary_title": "Berliner entomologische Zeitschrift",
+      "volume": "25",
+      "spage": "93",
+      "epage": "94",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214211",
+      "created": "2011-06-04 01:41:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47011",
+          "lastname": "Karsch",
+          "forename": "Ferdinand"
+        }
+      ],
+      "bhl_pages": [
+        9214211,
+        9214212
+      ]
+    },
+    {
+      "reference_id": "72059",
+      "genre": "article",
+      "title": "Neue Coleopteren aus Ost- und Mittel-Asien",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "25",
+      "spage": "97",
+      "epage": "102",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214215",
+      "created": "2011-06-04 00:18:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46937",
+          "lastname": "Thieme",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        9214215,
+        9214216,
+        9214217,
+        9214218,
+        9214219,
+        9214220
+      ]
+    },
+    {
+      "reference_id": "72959",
+      "genre": "article",
+      "title": "Hymenopteren von Portorico",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "25",
+      "spage": "197",
+      "epage": "208",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214319",
+      "created": "2011-06-04 04:46:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46732",
+          "lastname": "Dewitz",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        9214319,
+        9214320,
+        9214321,
+        9214322,
+        9214323,
+        9214324,
+        9214325,
+        9214326,
+        9214327,
+        9214328,
+        9214329,
+        9214330
+      ]
+    },
+    {
+      "reference_id": "57292",
+      "genre": "article",
+      "title": "Eine neue Vogelspinne aus S\u00fcdafrika",
+      "secondary_title": "Berl. ent. Zeitschr.",
+      "volume": "25",
+      "spage": "217",
+      "epage": "218",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214339",
+      "created": "2010-11-18 13:44:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9214339,
+        9214340
+      ]
+    },
+    {
+      "reference_id": "57276",
+      "genre": "article",
+      "title": "Chinesische Myriopoden und Arachnoiden",
+      "secondary_title": "Berl. ent. Zeitschr.",
+      "volume": "25",
+      "spage": "219",
+      "epage": "220",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214341",
+      "created": "2010-11-18 13:40:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2641",
+          "lastname": "Karsch",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9214341,
+        9214342
+      ]
+    },
+    {
+      "reference_id": "57384",
+      "genre": "article",
+      "title": "Erfahrgungen im wissenschaftlichen Sammeln und Beobachten der den Krainer Tropfsteingrotten eigenen Arthropoden",
+      "secondary_title": "Berl. ent. Zeitschr.",
+      "volume": "25",
+      "spage": "233",
+      "epage": "282",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214355",
+      "created": "2010-11-18 14:08:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42023",
+          "lastname": "Joseph",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9214355,
+        9214356,
+        9214357,
+        9214358,
+        9214359,
+        9214360,
+        9214361,
+        9214362,
+        9214363,
+        9214364,
+        9214365,
+        9214366,
+        9214367,
+        9214368,
+        9214369,
+        9214370,
+        9214371,
+        9214372,
+        9214373,
+        9214374,
+        9214375,
+        9214376,
+        9214377,
+        9214378,
+        9214379,
+        9214380,
+        9214381,
+        9214382,
+        9214383,
+        9214384,
+        9214385,
+        9214386,
+        9214387,
+        9214388,
+        9214389,
+        9214390,
+        9214391,
+        9214392,
+        9214393,
+        9214394,
+        9214395,
+        9214396,
+        9214397,
+        9214398,
+        9214399,
+        9214400,
+        9214401,
+        9214402,
+        9214403,
+        9214404
+      ]
+    },
+    {
+      "reference_id": "72319",
+      "genre": "article",
+      "title": "Zwei neue Polydesmiden vom Quango",
+      "secondary_title": "Berliner entomologische Zeitschrift",
+      "volume": "25",
+      "spage": "287",
+      "epage": "288",
+      "year": "1881",
+      "date": "1881-00-00",
+      "issn": "0323-6145",
+      "PageID": "9214409",
+      "created": "2011-06-04 01:19:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47011",
+          "lastname": "Karsch",
+          "forename": "Ferdinand"
+        }
+      ],
+      "bhl_pages": [
+        9214409,
+        9214410
+      ]
+    }
+  ]
+}

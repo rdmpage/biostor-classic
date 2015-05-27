@@ -1,0 +1,92 @@
+{
+  "ItemID": "44809",
+  "FullTitle": "Russkoe entomologicheskoe obozrenie = Revue russe d'entomologie.",
+  "VolumeInfo": "t. 11 1911",
+  "articles": [
+    {
+      "reference_id": "70980",
+      "genre": "article",
+      "title": "Zweiter Beitrag zur Kenntnis der Aphodiini",
+      "secondary_title": "Russkoe Entomologicheskoe Obozrenie. St.Petersburg",
+      "volume": "11",
+      "spage": "18",
+      "epage": "35",
+      "year": "1911",
+      "date": "1911-00-00",
+      "oclc": "8096567",
+      "PageID": "12343394",
+      "created": "2011-06-03 17:07:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46705",
+          "lastname": "Koshantschikov",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        12343394,
+        12343395,
+        12343396,
+        12343397,
+        12343398,
+        12343399,
+        12343400,
+        12343401,
+        12343402,
+        12343403,
+        12343404,
+        12343428,
+        12343429,
+        12343430,
+        12343431,
+        12343432,
+        12343433,
+        12343434
+      ]
+    },
+    {
+      "reference_id": "50137",
+      "genre": "article",
+      "title": "Neue und noch wenig bekannte Hemipteren der russischen fauna",
+      "secondary_title": "Russkoe \u0117ntomologicheskoe Obozri\u0450n\u012be",
+      "volume": "11",
+      "issue": "1",
+      "spage": "80",
+      "epage": "95",
+      "year": "1912",
+      "date": "1912-00-00",
+      "oclc": "8096567",
+      "PageID": "12343479",
+      "created": "2010-04-14 11:52:19",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39760",
+          "lastname": "Kiritshenko",
+          "forename": "A N"
+        }
+      ],
+      "bhl_pages": [
+        12343479,
+        12343480,
+        12343481,
+        12343482,
+        12343483,
+        12343484,
+        12343485,
+        12343486,
+        12343487,
+        12343488,
+        12343489,
+        12343490,
+        12343491,
+        12343492,
+        12343493,
+        12343494
+      ]
+    }
+  ]
+}

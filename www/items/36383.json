@@ -1,0 +1,36 @@
+{
+  "ItemID": "36383",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 51 (1937-1938)",
+  "articles": [
+    {
+      "reference_id": "59747",
+      "genre": "article",
+      "title": "Nomenclature of Onchidiidae",
+      "secondary_title": "The Nautilus",
+      "volume": "51",
+      "spage": "85",
+      "epage": "88",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0028-1344",
+      "PageID": "9203313",
+      "created": "2010-11-22 15:47:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1450",
+          "lastname": "Baker",
+          "forename": "H B"
+        }
+      ],
+      "bhl_pages": [
+        9203313,
+        9203314,
+        9203315,
+        9203316
+      ]
+    }
+  ]
+}

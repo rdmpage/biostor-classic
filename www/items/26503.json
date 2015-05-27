@@ -1,0 +1,69 @@
+{
+  "ItemID": "26503",
+  "FullTitle": "The agricultural gazette of New South Wales.  ",
+  "VolumeInfo": "31",
+  "articles": [
+    {
+      "reference_id": "57468",
+      "genre": "article",
+      "title": "Cherry growing in New South Wales",
+      "secondary_title": "Agricultural Gazette of New South Wales",
+      "volume": "31",
+      "spage": "277",
+      "epage": "279",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1585893",
+      "PageID": "4677064",
+      "created": "2010-11-20 13:02:24",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42042",
+          "lastname": "Allen",
+          "forename": "W J"
+        },
+        {
+          "id": "42043",
+          "lastname": "Hogg",
+          "forename": "S A"
+        }
+      ],
+      "bhl_pages": [
+        4677064,
+        4677065,
+        4677066
+      ]
+    },
+    {
+      "reference_id": "57494",
+      "genre": "article",
+      "title": "Orchard and garden mites. No. 1. Blister mites (Family Eriophyidae)",
+      "secondary_title": "Agricultural Gazette of New South Wales",
+      "volume": "31",
+      "spage": "577",
+      "epage": "580",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1585893",
+      "PageID": "4677600",
+      "created": "2010-11-20 13:20:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10315",
+          "lastname": "Froggatt",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        4677600,
+        4677601,
+        4677602,
+        4677603
+      ]
+    }
+  ]
+}

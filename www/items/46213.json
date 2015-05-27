@@ -1,0 +1,34 @@
+{
+  "ItemID": "46213",
+  "FullTitle": "Proceedings of the Zoological Society of London.",
+  "VolumeInfo": "pt. 1-4 (1833-1838)",
+  "articles": [
+    {
+      "reference_id": "102400",
+      "genre": "article",
+      "title": "On a collection of Mammalia procured by Captain Alexander during his journey into the country of the Damaras",
+      "secondary_title": "Proceedings of the Zoological Society of London",
+      "volume": "1838",
+      "spage": "5",
+      "epage": "6",
+      "year": "1838",
+      "date": "1838-00-00",
+      "issn": "0370-2774",
+      "PageID": "12860319",
+      "created": "2012-04-19 10:40:54",
+      "updated": "2012-04-19 10:54:41",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42725",
+          "lastname": "Ogilby",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        12860319,
+        12860320
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "ItemID": "42374",
+  "FullTitle": "Entomologisk tidskrift \/  Entomologiska f\u00f6reningen i Stockholm.",
+  "VolumeInfo": "v. 24 1903",
+  "articles": [
+    {
+      "reference_id": "71148",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntniss der Insektenfauna von Kamerun, Nr.14. Melolonthiden aus Kamerun nach der ausbeute des Herrn Professor Dr.Yngve Sj\u00f6stedt, sowie eine \u00fcbersicht aller bekannten Arten Kamerun's und den angrenzenden Gebietes",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "24",
+      "spage": "81",
+      "epage": "98",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0013-886X",
+      "PageID": "11416077",
+      "created": "2011-06-03 17:58:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46717",
+          "lastname": "Brenske",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        11416077,
+        11416078,
+        11416079,
+        11416080,
+        11416081,
+        11416082,
+        11416083,
+        11416084,
+        11416085,
+        11416086,
+        11416087,
+        11416088,
+        11416089,
+        11416090,
+        11416091,
+        11416092,
+        11416093,
+        11416094
+      ]
+    },
+    {
+      "reference_id": "57843",
+      "genre": "article",
+      "title": "Eine neue Casside aus Birma",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "24",
+      "spage": "111",
+      "epage": "112",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0013-886X",
+      "PageID": "11416107",
+      "created": "2010-11-20 15:06:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42128",
+          "lastname": "Spaeth",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        11416107,
+        11416108
+      ]
+    },
+    {
+      "reference_id": "57850",
+      "genre": "article",
+      "title": "Diagnosen einiger neuen Achorutiden aus Schweden. (Vorl\u00e4ufige Mittheilung)",
+      "secondary_title": "Entomologisk Tidskrift",
+      "volume": "24",
+      "spage": "126",
+      "epage": "128",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0013-886X",
+      "PageID": "11416122",
+      "created": "2010-11-20 15:07:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42177",
+          "lastname": "\u00c5gren",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        11416122,
+        11416123,
+        11416124
+      ]
+    }
+  ]
+}

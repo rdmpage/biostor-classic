@@ -1,0 +1,83 @@
+{
+  "ItemID": "31206",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.137 (1903)",
+  "articles": [
+    {
+      "reference_id": "104681",
+      "genre": "article",
+      "title": "Sur la presence de Microsporidies du genre Thelohania chez les Insectes",
+      "secondary_title": "Cr Ac Sci",
+      "volume": "137",
+      "spage": "418",
+      "epage": "419",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0001-4036",
+      "PageID": "6975196",
+      "created": "2012-06-26 10:31:11",
+      "updated": "2012-06-26 10:31:11",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        6975196,
+        6975197
+      ]
+    },
+    {
+      "reference_id": "104452",
+      "genre": "article",
+      "title": "Revision des N\u00e9malodes libres, marins, de la r\u00e9gion de Cette",
+      "secondary_title": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences",
+      "volume": "137",
+      "spage": "1002",
+      "epage": "1003",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0001-4036",
+      "oclc": "1124612",
+      "PageID": "6975780",
+      "created": "2012-06-20 09:37:46",
+      "updated": "2012-06-20 09:52:48",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53858",
+          "lastname": "De Rouville",
+          "forename": "Etienne"
+        }
+      ],
+      "bhl_pages": [
+        6975780,
+        6975781
+      ]
+    },
+    {
+      "reference_id": "104682",
+      "genre": "article",
+      "title": "Sporozoaire parasite des Moules et autres Lamellibranches comestibles",
+      "secondary_title": "Cr Ac Sci",
+      "volume": "137",
+      "spage": "1003",
+      "epage": "1006",
+      "year": "1903",
+      "date": "1903-00-00",
+      "issn": "0001-4036",
+      "PageID": "6975781",
+      "created": "2012-06-26 10:31:17",
+      "updated": "2012-06-26 10:31:17",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        6975781,
+        6975782,
+        6975783,
+        6975784
+      ]
+    }
+  ]
+}

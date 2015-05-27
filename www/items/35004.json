@@ -1,0 +1,90 @@
+{
+  "ItemID": "35004",
+  "FullTitle": "Bulletin of the Illinois State Laboratory of Natural History.  ",
+  "VolumeInfo": "5",
+  "articles": [
+    {
+      "reference_id": "60369",
+      "genre": "article",
+      "title": "Article VII--First supplement to the check-list of the Coccidae",
+      "secondary_title": "Bulletin of the Illinois State Laboratory of Natural History",
+      "volume": "5",
+      "spage": "389",
+      "epage": "398",
+      "year": "1899",
+      "date": "1899-00-00",
+      "oclc": "1308439",
+      "PageID": "8572613",
+      "created": "2010-11-22 23:34:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42051",
+          "lastname": "D.a. Cockerell",
+          "forename": "T"
+        },
+        {
+          "id": "42812",
+          "lastname": "Cooley",
+          "forename": "R A"
+        }
+      ],
+      "bhl_pages": [
+        8572613,
+        8572614,
+        8572615,
+        8572616,
+        8572617,
+        8572618,
+        8572619,
+        8572620,
+        8572621,
+        8572622
+      ]
+    },
+    {
+      "reference_id": "57601",
+      "genre": "article",
+      "title": "Notes on species of North American Oligochaeta. III. List of species found in Illinois, and descriptions of Illinois Tubificidae",
+      "secondary_title": "Bulletin of the Illinois State Laboratory of Natural History",
+      "volume": "5",
+      "spage": "441",
+      "epage": "458",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "1308439",
+      "PageID": "8572683",
+      "created": "2010-11-20 14:08:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40189",
+          "lastname": "Smith",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        8572683,
+        8572684,
+        8572685,
+        8572686,
+        8572687,
+        8572688,
+        8572689,
+        8572690,
+        8572691,
+        8572692,
+        8572693,
+        8572694,
+        8572695,
+        8572696,
+        8572697,
+        8572698,
+        8572699,
+        8572700
+      ]
+    }
+  ]
+}

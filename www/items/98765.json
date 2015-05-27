@@ -1,0 +1,49 @@
+{
+  "ItemID": "98765",
+  "FullTitle": "Annals of tropical medicine and parasitology",
+  "VolumeInfo": "5",
+  "articles": [
+    {
+      "reference_id": "73284",
+      "genre": "article",
+      "title": "On some new species of African mosquitos (Culicidae)",
+      "secondary_title": "Ann. trop. Med. parasit",
+      "volume": "5",
+      "spage": "233",
+      "epage": "244",
+      "year": "1911",
+      "date": "1911-00-00",
+      "issn": "0003-4983",
+      "PageID": "31677522",
+      "created": "2011-06-04 08:13:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39855",
+          "lastname": "Newstead",
+          "forename": "R"
+        },
+        {
+          "id": "42068",
+          "lastname": "Carter",
+          "forename": "H F"
+        }
+      ],
+      "bhl_pages": [
+        31677522,
+        31677523,
+        31677524,
+        31677525,
+        31677526,
+        31677527,
+        31677528,
+        31677529,
+        31677530,
+        31677531,
+        31677532,
+        31677533
+      ]
+    }
+  ]
+}

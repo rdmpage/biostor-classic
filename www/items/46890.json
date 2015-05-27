@@ -1,0 +1,107 @@
+{
+  "ItemID": "46890",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.49 no.5 1981",
+  "articles": [
+    {
+      "reference_id": "63596",
+      "genre": "article",
+      "title": "Variation in the Crotalaria breviflora complex in Brazil (Fabaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "49",
+      "spage": "425",
+      "epage": "429",
+      "year": "1981",
+      "date": "1981-00-00",
+      "issn": "0031-9430",
+      "PageID": "12994269",
+      "created": "2011-01-26 22:05:38",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43693",
+          "lastname": "Skinner",
+          "forename": "S G"
+        },
+        {
+          "id": "43694",
+          "lastname": "Windler",
+          "forename": "D R"
+        }
+      ],
+      "bhl_pages": [
+        12994269,
+        12994270,
+        12994271,
+        12994272,
+        12994273
+      ]
+    },
+    {
+      "reference_id": "62807",
+      "genre": "article",
+      "title": "Additional materials toward a monograph of the genus Callicarpa. XXVIII",
+      "secondary_title": "Phytologia",
+      "volume": "49",
+      "spage": "470",
+      "epage": "482",
+      "year": "1981",
+      "date": "1981-00-00",
+      "issn": "0031-9430",
+      "PageID": "12994314",
+      "created": "2011-01-26 21:31:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        12994314,
+        12994315,
+        12994316,
+        12994317,
+        12994318,
+        12994319,
+        12994320,
+        12994321,
+        12994322,
+        12994323,
+        12994324,
+        12994325,
+        12994326
+      ]
+    },
+    {
+      "reference_id": "62966",
+      "genre": "article",
+      "title": "Tuber-bearing Solanums in the Conicibaccata series",
+      "secondary_title": "Phytologia",
+      "volume": "49",
+      "spage": "484",
+      "epage": "487.",
+      "issn": "0031-9430",
+      "PageID": "12994328",
+      "created": "2011-01-26 21:37:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43572",
+          "lastname": "Ochoa",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        12994328,
+        12994329,
+        12994330,
+        12994331
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "ItemID": "22740",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.21 (1888)",
+  "articles": [
+    {
+      "reference_id": "60729",
+      "genre": "article",
+      "title": "Descriptions of New Zealand Micro-Lepidoptera",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "21",
+      "spage": "154",
+      "epage": "188",
+      "year": "1889",
+      "date": "1889-00-00",
+      "oclc": "1778777",
+      "PageID": "3290307",
+      "created": "2010-11-23 04:04:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39893",
+          "lastname": "Meyrick",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        3290307,
+        3290308,
+        3290309,
+        3290310,
+        3290311,
+        3290312,
+        3290313,
+        3290243,
+        3290244,
+        3290245,
+        3290246,
+        3290247,
+        3290248,
+        3290249,
+        3290250,
+        3290251,
+        3290252,
+        3290253,
+        3290325,
+        3290326,
+        3290327,
+        3290328,
+        3290329,
+        3290330,
+        3290331,
+        3290332,
+        3290333,
+        3290334,
+        3290335,
+        3290336,
+        3290337,
+        3290338,
+        3290339,
+        3290340,
+        3290341
+      ]
+    },
+    {
+      "reference_id": "60166",
+      "genre": "article",
+      "title": "Notes on, and recent additions to, the New Zealand Crustacean Fauna",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "21",
+      "spage": "259",
+      "epage": "268",
+      "year": "1888",
+      "date": "1888-00-00",
+      "oclc": "1778777",
+      "PageID": "3290395",
+      "created": "2010-11-22 20:09:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42193",
+          "lastname": "Thomson",
+          "forename": "G M"
+        }
+      ],
+      "bhl_pages": [
+        3290395,
+        3290396,
+        3290397,
+        3290398,
+        3290399,
+        3290400,
+        3290401,
+        3290402,
+        3290403,
+        3290404
+      ]
+    }
+  ]
+}

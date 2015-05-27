@@ -1,0 +1,96 @@
+{
+  "ItemID": "27766",
+  "FullTitle": "Bolet\u00edn de la Sociedad Espa\u00f1ola de Historia Natural.",
+  "VolumeInfo": "t. 19 (1919)",
+  "articles": [
+    {
+      "reference_id": "51823",
+      "genre": "article",
+      "title": "Una adici\u00f3n al g\u00e9nero Pelobates Wagler",
+      "secondary_title": "Bolet\u00edn de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "19",
+      "spage": "89",
+      "epage": "93",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "2450616",
+      "PageID": "5315263",
+      "created": "2010-06-27 07:16:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39433",
+          "lastname": "Bosc\u00e1",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        5315263,
+        5315262,
+        5315261,
+        5315260,
+        5315259
+      ]
+    },
+    {
+      "reference_id": "71461",
+      "genre": "article",
+      "title": "Encirtinos de Espa\u00f1a",
+      "secondary_title": "Boletin de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "19",
+      "spage": "96",
+      "epage": "102",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0583-7499",
+      "PageID": "5315256",
+      "created": "2011-06-03 20:01:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46836",
+          "lastname": "Mercet",
+          "forename": "R G"
+        }
+      ],
+      "bhl_pages": [
+        5315256,
+        5315255,
+        5315254,
+        5315253,
+        5315252,
+        5315251,
+        5315250
+      ]
+    },
+    {
+      "reference_id": "51824",
+      "genre": "article",
+      "title": "Sur le Pelobates Wilsoni, Bosc\u00e1",
+      "secondary_title": "Bolet\u00edn de la Real Sociedad Espa\u00f1ola de Historia Natural",
+      "volume": "19",
+      "spage": "293",
+      "epage": "294",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "2450616",
+      "PageID": "5315592",
+      "created": "2010-06-27 07:17:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "829",
+          "lastname": "Boulenger",
+          "forename": "G A"
+        }
+      ],
+      "bhl_pages": [
+        5315592,
+        5315593
+      ]
+    }
+  ]
+}

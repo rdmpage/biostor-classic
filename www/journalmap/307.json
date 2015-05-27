@@ -1,0 +1,68 @@
+{
+  "author": [
+    {
+      "firstname": "David R",
+      "lastname": "Smith",
+      "name": "David R Smith"
+    }
+  ],
+  "type": "article",
+  "title": "A Synopsis of the Sawflies (Hymenoptera: Symphyta) of America South of the United States: Tenthredinidae (Allantinae)",
+  "journal": {
+    "name": "Journal of Hymenoptera Research",
+    "volume": "12",
+    "pages": "148--192",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1070-9428"
+      }
+    ]
+  },
+  "year": "2003",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/307"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2859441"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 307
+    },
+    {
+      "type": "bhl",
+      "id": 2859441
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -91.1057,
+        14.9196
+      ],
+      [
+        -91.110333333333,
+        14.971666666667
+      ],
+      [
+        -70.1,
+        -3.3833333333333
+      ],
+      [
+        -60.25,
+        -2.5
+      ],
+      [
+        -72.766666666667,
+        -3.3833333333333
+      ]
+    ]
+  }
+}

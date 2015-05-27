@@ -1,0 +1,99 @@
+{
+  "ItemID": "34398",
+  "FullTitle": "Berliner entomologische Zeitschrift \/  herausgegeben von dem Entomologischen Vereine in Berlin.",
+  "VolumeInfo": "v. 17 1873",
+  "articles": [
+    {
+      "reference_id": "53304",
+      "genre": "article",
+      "title": "Diptera nova, in Pannonia inferiori et in confinibus Daciae regionibus a Ferd. Kowarzio capta",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "17",
+      "spage": "33",
+      "epage": "52",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0323-6145",
+      "PageID": "8341111",
+      "created": "2010-10-26 20:03:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40809",
+          "lastname": "Loew",
+          "forename": "H"
+        }
+      ],
+      "bhl_pages": [
+        8341111,
+        8341112,
+        8341113,
+        8341114,
+        8341115,
+        8341116,
+        8341117,
+        8341118,
+        8341119,
+        8341120,
+        8341121,
+        8341122,
+        8341123,
+        8341124,
+        8341125,
+        8341126,
+        8341127,
+        8341128,
+        8341129,
+        8341130
+      ]
+    },
+    {
+      "reference_id": "60459",
+      "genre": "article",
+      "title": "Coleopterorum messis in insula Cypro et Asia Minore ab Eugenio Truqui congregatae recensitio: de Europaeis notis quibusdam additis (Pars quinta)",
+      "secondary_title": "Berliner Entomologische Zeitschrift",
+      "volume": "17",
+      "spage": "317",
+      "epage": "338",
+      "year": "1873",
+      "date": "1873-00-00",
+      "issn": "0323-6145",
+      "PageID": "8341397",
+      "created": "2010-11-23 00:50:40",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42826",
+          "lastname": "Baudi",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        8341397,
+        8341398,
+        8341399,
+        8341400,
+        8341401,
+        8341402,
+        8341403,
+        8341404,
+        8341405,
+        8341406,
+        8341407,
+        8341408,
+        8341409,
+        8341410,
+        8341411,
+        8341412,
+        8341413,
+        8341414,
+        8341415,
+        8341416,
+        8341417,
+        8341418
+      ]
+    }
+  ]
+}

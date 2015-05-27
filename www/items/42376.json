@@ -1,0 +1,112 @@
+{
+  "ItemID": "42376",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 48 1915",
+  "articles": [
+    {
+      "reference_id": "73012",
+      "genre": "article",
+      "title": "Notes on a few Ichneumonids from Fiji",
+      "secondary_title": "Entomologist",
+      "volume": "48",
+      "spage": "139",
+      "epage": "140",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8878",
+      "PageID": "11416925",
+      "created": "2011-06-04 04:53:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42891",
+          "lastname": "Morley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        11416925,
+        11416926
+      ]
+    },
+    {
+      "reference_id": "71443",
+      "genre": "article",
+      "title": "Four new encyrtids from Sicily and the Philippines",
+      "secondary_title": "Entomologist",
+      "volume": "48",
+      "spage": "184",
+      "epage": "186",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8878",
+      "PageID": "11416978",
+      "created": "2011-06-03 20:00:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        11416978,
+        11416979,
+        11416980
+      ]
+    },
+    {
+      "reference_id": "103774",
+      "genre": "article",
+      "title": "Notes on two South American parasitic Hymenoptera",
+      "secondary_title": "The Entomologist",
+      "volume": "48",
+      "spage": "213",
+      "epage": "214",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8878",
+      "PageID": "11417015",
+      "created": "2012-05-28 15:13:10",
+      "updated": "2012-05-28 15:13:10",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        11417015,
+        11417016
+      ]
+    },
+    {
+      "reference_id": "71727",
+      "genre": "article",
+      "title": "Three new British chalcidoid Hymenoptera: with notes",
+      "secondary_title": "Entomologist",
+      "volume": "48",
+      "spage": "217",
+      "epage": "218",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0013-8878",
+      "PageID": "11417019",
+      "created": "2011-06-03 22:57:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        11417019,
+        11417020
+      ]
+    }
+  ]
+}

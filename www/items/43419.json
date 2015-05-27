@@ -1,0 +1,106 @@
+{
+  "ItemID": "43419",
+  "FullTitle": "Annuario del Museo Zoologico della Universit\u00e0 di Napoli.  ",
+  "VolumeInfo": "anno 1 (1862)",
+  "articles": [
+    {
+      "reference_id": "61638",
+      "genre": "article",
+      "title": "Di un nuova genere di Emitteri Omotteri genere Trypetimorpha, nob",
+      "secondary_title": "Annuario del Museo Zoologico della Reale Universit\u00e0 de Napoli",
+      "volume": "1",
+      "spage": "60",
+      "epage": "65",
+      "year": "1862",
+      "date": "1862-00-00",
+      "oclc": "1758997",
+      "PageID": "11823352",
+      "created": "2011-01-10 23:00:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42956",
+          "lastname": "Costa",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11823352,
+        11823353,
+        11823354,
+        11823355,
+        11823356,
+        11823357
+      ]
+    },
+    {
+      "reference_id": "72668",
+      "genre": "article",
+      "title": "Rivista de' generi e delle specie di Folgoridei e Dictioforidei dell 'Italia meridionale continentale",
+      "secondary_title": "Annuario del Museo Zoologico della R. Universit\u00e0 di Napoli. Naples",
+      "volume": "1",
+      "spage": "71",
+      "epage": "79",
+      "year": "1862",
+      "date": "1862-00-00",
+      "oclc": "1758997",
+      "PageID": "11823363",
+      "created": "2011-06-04 03:07:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42956",
+          "lastname": "Costa",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11823363,
+        11823364,
+        11823365,
+        11823366,
+        11823367,
+        11823368,
+        11823369,
+        11823370,
+        11823371
+      ]
+    },
+    {
+      "reference_id": "61444",
+      "genre": "article",
+      "title": "Descrizione di alcuni annellidi del Golfo di Napoli",
+      "secondary_title": "Annuario del Museo Zoologico della Reale Universit\u00e0 de Napoli",
+      "volume": "1",
+      "spage": "82",
+      "epage": "90",
+      "year": "1862",
+      "date": "1862-00-00",
+      "oclc": "1758997",
+      "PageID": "11823374",
+      "created": "2011-01-10 20:26:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42956",
+          "lastname": "Costa",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        11823374,
+        11823375,
+        11823376,
+        11823377,
+        11823378,
+        11823379,
+        11823380,
+        11823381,
+        11823382
+      ]
+    }
+  ]
+}

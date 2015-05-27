@@ -1,0 +1,40 @@
+{
+  "ItemID": "82559",
+  "FullTitle": "The Journal of parasitology.  ",
+  "VolumeInfo": "v. 2-3 (1916-1917)",
+  "articles": [
+    {
+      "reference_id": "105343",
+      "genre": "article",
+      "title": "Some Notes on the Encysted Larva of the Lung Distome",
+      "secondary_title": "The Journal of Parasitology",
+      "volume": "2",
+      "issue": "4",
+      "spage": "175",
+      "epage": "180",
+      "year": "1916",
+      "date": "1916-00-00",
+      "issn": "0022-3395",
+      "doi": "10.2307\/3270907",
+      "PageID": "25590430",
+      "created": "2012-07-18 10:14:21",
+      "updated": "2012-07-18 10:17:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54001",
+          "lastname": "Yoshida",
+          "forename": "Sadao"
+        }
+      ],
+      "bhl_pages": [
+        25590430,
+        25590431,
+        25590432,
+        25590433,
+        25590434,
+        25590435
+      ]
+    }
+  ]
+}

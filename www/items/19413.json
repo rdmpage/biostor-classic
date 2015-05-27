@@ -1,0 +1,162 @@
+{
+  "ItemID": "19413",
+  "FullTitle": "Zoological Journal.  ",
+  "VolumeInfo": "2",
+  "articles": [
+    {
+      "reference_id": "71388",
+      "genre": "article",
+      "title": "Some further remarks on the nomenclature of Orthoptera, with a detailed description of the genus Scaphura",
+      "secondary_title": "Zoological Journal",
+      "volume": "2",
+      "spage": "9",
+      "epage": "11",
+      "year": "1825",
+      "date": "1825-00-00",
+      "issn": "0024-4082",
+      "PageID": "2255229",
+      "created": "2011-06-03 19:38:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10320",
+          "lastname": "Kirby",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2255229,
+        2255228,
+        2255227
+      ]
+    },
+    {
+      "reference_id": "20319",
+      "genre": "article",
+      "title": "On a new genus of Iguanidae",
+      "secondary_title": "Zoological Journal",
+      "volume": "2",
+      "spage": "204",
+      "epage": "207",
+      "year": "1825",
+      "date": "1825-00-00",
+      "issn": "0024-4082",
+      "PageID": "2255463",
+      "created": "2010-02-08 18:23:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17660",
+          "lastname": "Bell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        2255463,
+        2255464,
+        2255465,
+        2255466
+      ]
+    },
+    {
+      "reference_id": "70971",
+      "genre": "article",
+      "title": "Descriptions of some rare, interesting, or hitherto uncharacterized subjects in zoology",
+      "secondary_title": "Zoological Journal",
+      "volume": "2",
+      "spage": "234",
+      "epage": "241",
+      "year": "1826",
+      "date": "1826-00-00",
+      "issn": "0024-4082",
+      "PageID": "2255405",
+      "created": "2011-06-03 17:03:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46701",
+          "lastname": "Vigors",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        2255405,
+        2255406,
+        2255407,
+        2255408,
+        2255409,
+        2255410,
+        2255361,
+        2255362
+      ]
+    },
+    {
+      "reference_id": "71636",
+      "genre": "article",
+      "title": "A monograph of the tortoises having a moveable sternum, with remarks on their arrangement and affinities",
+      "secondary_title": "Zoological Journal. London",
+      "volume": "2",
+      "spage": "299",
+      "epage": "310",
+      "year": "1825",
+      "date": "1825-00-00",
+      "issn": "0024-4082",
+      "PageID": "2255665",
+      "created": "2011-06-03 22:32:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17660",
+          "lastname": "Bell",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        2255665,
+        2255666,
+        2255667,
+        2255668,
+        2255669,
+        2255670,
+        2255671,
+        2255672,
+        2255673,
+        2255674,
+        2255675,
+        2255676
+      ]
+    },
+    {
+      "reference_id": "70947",
+      "genre": "article",
+      "title": "Description of two new species of coleopterous insects belonging to the genera Cremastocheilus and Priocera",
+      "secondary_title": "Zoological Journal",
+      "volume": "2",
+      "spage": "516",
+      "epage": "518",
+      "year": "1826",
+      "date": "1826-00-00",
+      "issn": "0024-4082",
+      "PageID": "2255783",
+      "created": "2011-06-03 16:59:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10320",
+          "lastname": "Kirby",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2255783,
+        2255784,
+        2255785
+      ]
+    }
+  ]
+}

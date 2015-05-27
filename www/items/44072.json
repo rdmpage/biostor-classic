@@ -1,0 +1,40 @@
+{
+  "ItemID": "44072",
+  "FullTitle": "Zeitschrift f\u00fcr wissenschaftliche Insektenbiologie.  ",
+  "VolumeInfo": "bd. 1 1905",
+  "articles": [
+    {
+      "reference_id": "71430",
+      "genre": "article",
+      "title": "Zur Lebensweise einiger in- und auslaendischen Ameisengaeste",
+      "secondary_title": "Zeitschrift f\u00fcr Wissenschaftliche Insekten-Biologie (Z. Wiss. Insekt.)",
+      "volume": "1",
+      "spage": "329",
+      "epage": "336",
+      "year": "1905",
+      "date": "1905-00-00",
+      "oclc": "1770562",
+      "PageID": "12072566",
+      "created": "2011-06-03 19:55:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46833",
+          "lastname": "",
+          "forename": "Wasmann"
+        }
+      ],
+      "bhl_pages": [
+        12072566,
+        12072567,
+        12072568,
+        12072569,
+        12072570,
+        12072571,
+        12072572,
+        12072573
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "ItemID": "33072",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1893",
+  "articles": [
+    {
+      "reference_id": "71545",
+      "genre": "article",
+      "title": "\u00dcber einige von Herrn Oscar Neumann bei Aden gesammelte u. beobachtete S\u00e4ugethiere, Reptilien und Amphibien",
+      "secondary_title": "Sber. Ges. naturf. Freunde, Berlin",
+      "volume": "1893",
+      "spage": "24",
+      "epage": "31",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "1751186",
+      "PageID": "7795698",
+      "created": "2011-06-03 20:22:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39756",
+          "lastname": "Matschie",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        7795698,
+        7795699,
+        7795700,
+        7795701,
+        7795702,
+        7795703,
+        7795704,
+        7795705
+      ]
+    },
+    {
+      "reference_id": "100656",
+      "genre": "article",
+      "title": "\u00dcber auscheinend neue Afrikanische S\u00e4ugethiere",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender zu Berlin",
+      "volume": "1893",
+      "spage": "107",
+      "epage": "114",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0037-5942",
+      "PageID": "7795781",
+      "created": "2012-01-18 15:04:41",
+      "updated": "2012-01-18 15:13:10",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39756",
+          "lastname": "Matschie",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        7795781,
+        7795782,
+        7795783,
+        7795784,
+        7795785,
+        7795786,
+        7795787,
+        7795788
+      ]
+    },
+    {
+      "reference_id": "51966",
+      "genre": "article",
+      "title": "Einege anscheinend neue Reptilien und Amphibien aus West-Afrika",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1893",
+      "spage": "170",
+      "epage": "175",
+      "year": "1893",
+      "date": "1893-00-00",
+      "issn": "0037-5942",
+      "PageID": "7795844",
+      "created": "2010-06-27 12:34:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39756",
+          "lastname": "Matschie",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        7795844,
+        7795845,
+        7795846,
+        7795847,
+        7795848,
+        7795849
+      ]
+    }
+  ]
+}

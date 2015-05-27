@@ -1,0 +1,66 @@
+{
+  "ItemID": "35577",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1883",
+  "articles": [
+    {
+      "reference_id": "49177",
+      "genre": "article",
+      "title": "Neue Geckonen, darunter drei Arten von Scalabotes, aus der Sammlung des in Madagascar verstorbenen Reisenden J. M. Hildebrandt",
+      "secondary_title": "Sitzungsber. Ges. naturf. Freunde Berlin",
+      "volume": "1883",
+      "issue": "2",
+      "spage": "27",
+      "epage": "29",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0037-5942",
+      "PageID": "8789319",
+      "created": "2010-03-21 11:55:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39349",
+          "lastname": "Peters",
+          "forename": "Wilhem Carl Hartwig"
+        }
+      ],
+      "bhl_pages": [
+        8789319,
+        8789320,
+        8789321
+      ]
+    },
+    {
+      "reference_id": "61475",
+      "genre": "article",
+      "title": "\u00dcber der Asteriden, welche w\u00e4hrend der Reise SMS Gazelle um die Erde gesammelt wurden",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1883",
+      "spage": "128",
+      "epage": "132",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0037-5942",
+      "PageID": "8789420",
+      "created": "2011-01-10 20:49:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43032",
+          "lastname": "Studer",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        8789420,
+        8789421,
+        8789422,
+        8789423,
+        8789424
+      ]
+    }
+  ]
+}

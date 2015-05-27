@@ -1,0 +1,158 @@
+{
+  "ItemID": "36029",
+  "FullTitle": "The Entomologist's monthly magazine.",
+  "VolumeInfo": "v. 37 1901",
+  "articles": [
+    {
+      "reference_id": "57659",
+      "genre": "article",
+      "title": "Observations on Coccidae (No. 19)",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "37",
+      "spage": "81",
+      "epage": "86",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9014980",
+      "created": "2010-11-20 14:27:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39855",
+          "lastname": "Newstead",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9014980,
+        9014981,
+        9014982,
+        9014983,
+        9014984,
+        9014985
+      ]
+    },
+    {
+      "reference_id": "53152",
+      "genre": "article",
+      "title": "Tipulidae in the west of Scotland",
+      "secondary_title": "Entomologists Monthly Magazine",
+      "volume": "37",
+      "spage": "113",
+      "epage": "115",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9015012",
+      "created": "2010-10-26 16:49:09",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40770",
+          "lastname": "Henderson",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        9015012,
+        9015013,
+        9015014
+      ]
+    },
+    {
+      "reference_id": "100002",
+      "genre": "article",
+      "title": "Spanish Micro-Lepidoptera",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "37",
+      "issue": "10",
+      "spage": "233",
+      "epage": "239",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1568052",
+      "PageID": "9015132",
+      "created": "2011-12-21 14:03:36",
+      "updated": "2011-12-21 14:03:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53383",
+          "lastname": "Walsingham",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        9015132,
+        9015133,
+        9015134,
+        9015135,
+        9015136,
+        9015137,
+        9015138
+      ]
+    },
+    {
+      "reference_id": "72970",
+      "genre": "article",
+      "title": "Description of a new Ichneumonid",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "37",
+      "spage": "290",
+      "epage": "292",
+      "year": "1901",
+      "date": "1901-00-00",
+      "oclc": "1568052",
+      "PageID": "9015189",
+      "created": "2011-06-04 04:48:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40022",
+          "lastname": "Marshall",
+          "forename": "T A"
+        }
+      ],
+      "bhl_pages": [
+        9015189,
+        9015190,
+        9015191
+      ]
+    },
+    {
+      "reference_id": "57641",
+      "genre": "article",
+      "title": "Note on the genus Lecaniodiaspis, Targ",
+      "secondary_title": "Entomologist's Monthly Magazine",
+      "volume": "37",
+      "spage": "293",
+      "epage": "295",
+      "year": "1901",
+      "date": "1901-00-00",
+      "issn": "0013-8908",
+      "oclc": "1568052",
+      "PageID": "9015192",
+      "created": "2010-11-20 14:22:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10027",
+          "lastname": "Green",
+          "forename": "E E"
+        }
+      ],
+      "bhl_pages": [
+        9015192,
+        9015193,
+        9015194
+      ]
+    }
+  ]
+}

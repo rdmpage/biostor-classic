@@ -1,0 +1,129 @@
+{
+  "ItemID": "23003",
+  "FullTitle": "Abhandlungen herausgegeben vom Naturwissenschaftlichen Verein zu Bremen.",
+  "VolumeInfo": "v.19 1909",
+  "articles": [
+    {
+      "reference_id": "58102",
+      "genre": "article",
+      "title": "F\u00fcnf neue Hydrachniden-Gattungsnamen",
+      "secondary_title": "Abhandlungen Herausgegeben vom Naturwissenschaftlichen Verein zu Bremen",
+      "volume": "19",
+      "spage": "127",
+      "epage": "132",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "3805076",
+      "PageID": "3401348",
+      "created": "2010-11-20 19:52:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42250",
+          "lastname": "Koenike",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3401348,
+        3401349,
+        3401622,
+        3401671,
+        3401623,
+        3401624
+      ]
+    },
+    {
+      "reference_id": "58130",
+      "genre": "article",
+      "title": "Neue Hydrachniden",
+      "secondary_title": "Abhandlungen Herausgegeben vom Naturwissenschaftlichen Verein zu Bremen",
+      "volume": "19",
+      "spage": "142",
+      "epage": "146",
+      "year": "1907",
+      "date": "1907-00-00",
+      "oclc": "3805076",
+      "PageID": "3401490",
+      "created": "2010-11-20 19:58:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42260",
+          "lastname": "Viets",
+          "forename": "K"
+        }
+      ],
+      "bhl_pages": [
+        3401490,
+        3401931,
+        3401491,
+        3401612,
+        3401608
+      ]
+    },
+    {
+      "reference_id": "65168",
+      "genre": "article",
+      "title": "Beitr\u00e4ge zur Kenntnis der tierischen Ektoparasiten mit besonderer Ber\u00fccksichtigung der in Nordwestdeutschland vorkommenden Wirstiere",
+      "secondary_title": "Abhandlungen, Herausgegeben Vom Naturwissenschaftlichen Vereine Zu Bremen",
+      "volume": "19",
+      "spage": "520",
+      "epage": "555",
+      "year": "1909",
+      "date": "1909-00-00",
+      "oclc": "3805076",
+      "PageID": "3401980",
+      "created": "2011-01-31 16:30:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44807",
+          "lastname": "Klugkist",
+          "forename": "Carl E"
+        }
+      ],
+      "bhl_pages": [
+        3401980,
+        3401833,
+        3401243,
+        3401834,
+        3401401,
+        3401981,
+        3401835,
+        3401595,
+        3401285,
+        3401470,
+        3401836,
+        3401837,
+        3401982,
+        3401567,
+        3401983,
+        3401471,
+        3401838,
+        3401984,
+        3401985,
+        3401356,
+        3401539,
+        3401540,
+        3401839,
+        3401840,
+        3401587,
+        3401268,
+        3401841,
+        3401411,
+        3401842,
+        3401231,
+        3401541,
+        3401843,
+        3401641,
+        3401844,
+        3401604,
+        3401512
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "ItemID": "40224",
+  "FullTitle": "Cistula entomologica.  ",
+  "VolumeInfo": "v. 3 1882-85",
+  "articles": [
+    {
+      "reference_id": "60513",
+      "genre": "article",
+      "title": "Descriptions of three new species of Trichopterygia, found by the Rev. T. Blackburn in the Sandwich Islands",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "3",
+      "spage": "39",
+      "epage": "42",
+      "year": "1882",
+      "date": "1882-00-00",
+      "oclc": "1554754",
+      "PageID": "10561903",
+      "created": "2010-11-23 01:16:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42833",
+          "lastname": "Matthews",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        10561903,
+        10561904,
+        10561905,
+        10561906
+      ]
+    },
+    {
+      "reference_id": "70970",
+      "genre": "article",
+      "title": "Notices of new or little known Cetoniidae",
+      "secondary_title": "Cistula entomologica",
+      "volume": "3",
+      "spage": "63",
+      "epage": "64",
+      "year": "1883",
+      "date": "1883-00-00",
+      "oclc": "1554754",
+      "PageID": "10561974",
+      "created": "2011-06-03 17:03:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46691",
+          "lastname": "Janson",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        10561974,
+        10561975
+      ]
+    },
+    {
+      "reference_id": "70940",
+      "genre": "article",
+      "title": "Notices of new or little known Cetoniidae Nr.9",
+      "secondary_title": "Cistula entomologica",
+      "volume": "3",
+      "spage": "103",
+      "epage": "112",
+      "year": "1884",
+      "date": "1884-00-00",
+      "oclc": "1554754",
+      "PageID": "10562020",
+      "created": "2011-06-03 16:57:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46691",
+          "lastname": "Janson",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        10562020,
+        10562021,
+        10562022,
+        10562023,
+        10562024,
+        10562025,
+        10562026,
+        10562027,
+        10562028,
+        10562029
+      ]
+    },
+    {
+      "reference_id": "60534",
+      "genre": "article",
+      "title": "Description of a new species of Schizorrhina (Cetoniidae) from West Australia",
+      "secondary_title": "Cistula Entomologica",
+      "volume": "3",
+      "spage": "137",
+      "epage": "138",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "1554754",
+      "PageID": "10562062",
+      "created": "2010-11-23 01:31:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40754",
+          "lastname": "Olliff",
+          "forename": "A S"
+        }
+      ],
+      "bhl_pages": [
+        10562062,
+        10562063
+      ]
+    },
+    {
+      "reference_id": "70926",
+      "genre": "article",
+      "title": "Notices of new or little known Cetoniidae Nr.10",
+      "secondary_title": "Cistula entomologica",
+      "volume": "3",
+      "spage": "139",
+      "epage": "152",
+      "year": "1885",
+      "date": "1885-00-00",
+      "oclc": "1554754",
+      "PageID": "10562064",
+      "created": "2011-06-03 16:55:49",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46691",
+          "lastname": "Janson",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        10562064,
+        10562065,
+        10562066,
+        10562067,
+        10562068,
+        10562069,
+        10562070,
+        10562071,
+        10562072,
+        10562073,
+        10562074,
+        10562075,
+        10562076,
+        10562077
+      ]
+    }
+  ]
+}

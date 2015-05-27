@@ -1,0 +1,66 @@
+{
+  "ItemID": "120198",
+  "FullTitle": "Memoirs of the National Museum of Victoria. ",
+  "VolumeInfo": "24",
+  "articles": [
+    {
+      "reference_id": "100828",
+      "genre": "article",
+      "title": "New gasteropods from North Australia",
+      "secondary_title": "Memoirs of the National Museum of Victoria",
+      "volume": "24",
+      "spage": "51",
+      "epage": "57",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0083-5986",
+      "PageID": "38954787",
+      "created": "2012-03-06 15:04:00",
+      "updated": "2012-03-06 15:04:00",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        38954787,
+        38954788,
+        38954789,
+        38954790,
+        38954791,
+        38954792,
+        38954793
+      ]
+    },
+    {
+      "reference_id": "102229",
+      "genre": "article",
+      "title": "New Caddis-fly genus from Tasmania (Trichoptera: Plectrotarsidae)",
+      "secondary_title": "Memoirs of The National Museum of Victoria",
+      "volume": "24",
+      "spage": "91",
+      "epage": "96",
+      "year": "1959",
+      "date": "1959-00-00",
+      "issn": "0083-5986",
+      "PageID": "38954827",
+      "created": "2012-03-31 20:41:05",
+      "updated": "2012-03-31 20:41:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39715",
+          "lastname": "Neboiss",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        38954827,
+        38954828,
+        38954829,
+        38954830,
+        38954831,
+        38954832
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "ItemID": "38261",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 46 1913",
+  "articles": [
+    {
+      "reference_id": "60954",
+      "genre": "article",
+      "title": "Bees of the genus Megachile from Australia",
+      "secondary_title": "Entomologist",
+      "volume": "46",
+      "spage": "164",
+      "epage": "168",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022811",
+      "created": "2010-11-26 19:26:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        10022811,
+        10022812,
+        10022813,
+        10022814,
+        10022815
+      ]
+    },
+    {
+      "reference_id": "60959",
+      "genre": "article",
+      "title": "A new gall-inhabiting eulophid genus from Australia",
+      "secondary_title": "Entomologist",
+      "volume": "46",
+      "spage": "177",
+      "epage": "178",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022828",
+      "created": "2010-11-26 19:27:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        10022828,
+        10022829
+      ]
+    },
+    {
+      "reference_id": "73564",
+      "genre": "article",
+      "title": "The first fossil mydaid fly",
+      "secondary_title": "Entomologist",
+      "volume": "46",
+      "spage": "207",
+      "epage": "208",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022864",
+      "created": "2011-06-04 09:20:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        10022864,
+        10022865
+      ]
+    },
+    {
+      "reference_id": "72329",
+      "genre": "article",
+      "title": "Two new species of the genus Ischnura (Odonata) from North India",
+      "secondary_title": "Entomologist",
+      "volume": "46",
+      "spage": "235",
+      "epage": "237",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022896",
+      "created": "2011-06-04 01:25:00",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42411",
+          "lastname": "Laidlaw",
+          "forename": "F F"
+        }
+      ],
+      "bhl_pages": [
+        10022896,
+        10022897,
+        10022898
+      ]
+    },
+    {
+      "reference_id": "72838",
+      "genre": "article",
+      "title": "Description of a new species of Meteorus (Braconidae)",
+      "secondary_title": "Entomologist",
+      "volume": "46",
+      "spage": "244",
+      "epage": "245",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022905",
+      "created": "2011-06-04 04:24:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42501",
+          "lastname": "Lyle",
+          "forename": "G T"
+        }
+      ],
+      "bhl_pages": [
+        10022905,
+        10022906
+      ]
+    },
+    {
+      "reference_id": "60958",
+      "genre": "article",
+      "title": "Additions to the Mymaridae and Trichogrammatidae of Australia",
+      "secondary_title": "Entomologist",
+      "volume": "46",
+      "spage": "255",
+      "epage": "259",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0013-8878",
+      "PageID": "10022920",
+      "created": "2010-11-26 19:26:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10355",
+          "lastname": "Girault",
+          "forename": "A A"
+        }
+      ],
+      "bhl_pages": [
+        10022920,
+        10022921,
+        10022922,
+        10022923,
+        10022924
+      ]
+    }
+  ]
+}

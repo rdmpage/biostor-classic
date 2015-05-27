@@ -1,0 +1,893 @@
+{
+  "ItemID": "37969",
+  "FullTitle": "Zoologischer Anzeiger.",
+  "VolumeInfo": "Bd.33, 1908",
+  "articles": [
+    {
+      "reference_id": "50180",
+      "genre": "article",
+      "title": "Diagnosen neuer aussereuerop\u00e4ischer Argiopiden",
+      "secondary_title": "Zool. Anz.",
+      "volume": "33",
+      "spage": "1",
+      "epage": "4",
+      "year": "1908",
+      "date": "1908-05-12",
+      "issn": "0044-5231",
+      "PageID": "9898287",
+      "created": "2010-04-26 16:19:50",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39784",
+          "lastname": "Strand",
+          "forename": "Embrik"
+        }
+      ],
+      "bhl_pages": [
+        9898287,
+        9898288,
+        9898289,
+        9898290
+      ]
+    },
+    {
+      "reference_id": "84943",
+      "genre": "article",
+      "title": "Descrizione di una nuova specie di Gnathostomidae (Nematodes)",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "8",
+      "epage": "9",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898294",
+      "created": "2011-08-11 14:41:06",
+      "updated": "2011-08-11 14:41:06",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898294,
+        9898295
+      ]
+    },
+    {
+      "reference_id": "58172",
+      "genre": "article",
+      "title": "Diagnosen neuer gorgoniden (4. Mitteilung)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "9",
+      "epage": "20",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898295",
+      "created": "2010-11-20 20:05:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42143",
+          "lastname": "Kukenthal",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9898295,
+        9898296,
+        9898297,
+        9898298,
+        9898299,
+        9898300,
+        9898301,
+        9898302,
+        9898303,
+        9898304,
+        9898305,
+        9898306
+      ]
+    },
+    {
+      "reference_id": "58162",
+      "genre": "article",
+      "title": "Thysanopoda megalops spec. nov. Erbeutet auf der Deutschen Tiefsee-Expedition, 1898\u201399",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "54",
+      "epage": "55",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898340",
+      "created": "2010-11-20 20:04:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39775",
+          "lastname": "Illig",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9898340,
+        9898341
+      ]
+    },
+    {
+      "reference_id": "85004",
+      "genre": "article",
+      "title": "Marine Tardigraden",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "77",
+      "epage": "85",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898363",
+      "created": "2011-08-11 14:54:56",
+      "updated": "2011-08-11 14:54:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898363,
+        9898364,
+        9898365,
+        9898366,
+        9898367,
+        9898368,
+        9898369,
+        9898370,
+        9898371
+      ]
+    },
+    {
+      "reference_id": "58144",
+      "genre": "article",
+      "title": "\u00dcber Cephalopoden der Deutschen Tiefsee-Expedition",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "86",
+      "epage": "89",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898372",
+      "created": "2010-11-20 20:01:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42222",
+          "lastname": "Chun",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9898372,
+        9898373,
+        9898374,
+        9898375
+      ]
+    },
+    {
+      "reference_id": "84942",
+      "genre": "article",
+      "title": "Description of two new species of Psammophis from South Africa",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "101",
+      "epage": "103",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898387",
+      "created": "2011-08-11 14:40:58",
+      "updated": "2011-08-11 14:40:58",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898387,
+        9898388,
+        9898389
+      ]
+    },
+    {
+      "reference_id": "58161",
+      "genre": "article",
+      "title": "Ein weiterer Bericht \u00fcber die Schizopoden der Deutschen Tiefsee-Exped. 1898\u20131899. Gattung Thysanopoda (Fortsetzung)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "112",
+      "epage": "115",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898398",
+      "created": "2010-11-20 20:04:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39775",
+          "lastname": "Illig",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9898398,
+        9898399,
+        9898400,
+        9898401
+      ]
+    },
+    {
+      "reference_id": "69941",
+      "genre": "article",
+      "title": "\u00dcber das System der Chermiden",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "169",
+      "epage": "173",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898455",
+      "created": "2011-06-02 07:57:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9898455,
+        9898456,
+        9898457,
+        9898458,
+        9898459
+      ]
+    },
+    {
+      "reference_id": "58191",
+      "genre": "article",
+      "title": "Beitrag zur Kenntnis der Eurybrachinen. (Hemiptera-Homoptera)",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "241",
+      "epage": "247",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898527",
+      "created": "2010-11-20 20:08:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42272",
+          "lastname": "Schmidt",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9898527,
+        9898528,
+        9898529,
+        9898530,
+        9898531,
+        9898532,
+        9898533
+      ]
+    },
+    {
+      "reference_id": "58199",
+      "genre": "article",
+      "title": "Die Kalkschw\u00e4mme der Deutschen Tiefsee-Expedition",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "247",
+      "epage": "252",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898533",
+      "created": "2010-11-20 20:12:06",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42275",
+          "lastname": "Urban",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        9898533,
+        9898534,
+        9898535,
+        9898536,
+        9898537,
+        9898538
+      ]
+    },
+    {
+      "reference_id": "85002",
+      "genre": "article",
+      "title": "Les Holothuries recueillies par l'Expediton antarctique ecossaise",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "290",
+      "epage": "299",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898576",
+      "created": "2011-08-11 14:54:27",
+      "updated": "2011-08-11 14:54:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898576,
+        9898577,
+        9898578,
+        9898579,
+        9898580,
+        9898581,
+        9898582,
+        9898583,
+        9898584,
+        9898585
+      ]
+    },
+    {
+      "reference_id": "85086",
+      "genre": "article",
+      "title": "Ueber einige myrmecophile Insekten aus Bolivia und Peru",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "337",
+      "epage": "349",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898623",
+      "created": "2011-08-11 15:15:56",
+      "updated": "2011-08-11 15:15:56",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898623,
+        9898624,
+        9898625,
+        9898626,
+        9898627,
+        9898628,
+        9898629,
+        9898630,
+        9898631,
+        9898632,
+        9898633,
+        9898634,
+        9898635
+      ]
+    },
+    {
+      "reference_id": "84966",
+      "genre": "article",
+      "title": "Ein neuer menschlicher Cestode",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "359",
+      "epage": "362",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898645",
+      "created": "2011-08-11 14:46:42",
+      "updated": "2011-08-11 14:46:42",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898645,
+        9898646,
+        9898647,
+        9898648
+      ]
+    },
+    {
+      "reference_id": "84912",
+      "genre": "article",
+      "title": "Apogonichthys strombi n. sp., ein symbiotisch lebender Fisch von den Bahamas",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "393",
+      "epage": "399",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898679",
+      "created": "2011-08-11 14:35:32",
+      "updated": "2011-08-11 14:35:32",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898679,
+        9898680,
+        9898681,
+        9898682,
+        9898683,
+        9898684,
+        9898685
+      ]
+    },
+    {
+      "reference_id": "85104",
+      "genre": "article",
+      "title": "Zwei neue Gattungen der Glomeroidea",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "413",
+      "epage": "416",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898699",
+      "created": "2011-08-11 15:29:35",
+      "updated": "2011-08-11 15:29:35",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898699,
+        9898700,
+        9898701,
+        9898702
+      ]
+    },
+    {
+      "reference_id": "66998",
+      "genre": "article",
+      "title": "\u00dcber die Stirnaugen einiger Lepidopteren und Neuropteren",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "445",
+      "epage": "450",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898731",
+      "created": "2011-05-11 19:47:04",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45418",
+          "lastname": "Link",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        9898731,
+        9898732,
+        9898733,
+        9898734,
+        9898735,
+        9898736
+      ]
+    },
+    {
+      "reference_id": "67000",
+      "genre": "article",
+      "title": "Beitrag zur Anatomie und Histologie der Mundwerkzeuge der Myrmeleonidenlarven",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "473",
+      "epage": "484",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898759",
+      "created": "2011-05-11 19:47:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45419",
+          "lastname": "Lozinski",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        9898759,
+        9898760,
+        9898761,
+        9898762,
+        9898763,
+        9898764,
+        9898765,
+        9898766,
+        9898767,
+        9898768,
+        9898769,
+        9898770
+      ]
+    },
+    {
+      "reference_id": "84962",
+      "genre": "article",
+      "title": "Ein neuer Brachydesmus aus Hohlen Istriens",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "492",
+      "epage": "493",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898778",
+      "created": "2011-08-11 14:46:04",
+      "updated": "2011-08-11 14:46:04",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898778,
+        9898779
+      ]
+    },
+    {
+      "reference_id": "85079",
+      "genre": "article",
+      "title": "Ueber die Anatomie und systematische Stelluug von Bradypus torquatus",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "567",
+      "epage": "580",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898853",
+      "created": "2011-08-11 15:14:44",
+      "updated": "2011-08-11 15:14:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898853,
+        9898854,
+        9898855,
+        9898856,
+        9898857,
+        9898858,
+        9898859,
+        9898860,
+        9898861,
+        9898862,
+        9898863,
+        9898864,
+        9898865,
+        9898866
+      ]
+    },
+    {
+      "reference_id": "84963",
+      "genre": "article",
+      "title": "Ein neuer Canthocamptus der Ostalpen",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "598",
+      "epage": "599",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898884",
+      "created": "2011-08-11 14:46:12",
+      "updated": "2011-08-11 14:46:12",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898884,
+        9898885
+      ]
+    },
+    {
+      "reference_id": "58141",
+      "genre": "article",
+      "title": "\u00dcber Chermesiden. I Zur Systematik der Phylloxerinen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "600",
+      "epage": "612",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898886",
+      "created": "2010-11-20 20:00:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42108",
+          "lastname": "B\u00f6rner",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9898886,
+        9898887,
+        9898888,
+        9898889,
+        9898890,
+        9898891,
+        9898892,
+        9898893,
+        9898894,
+        9898895,
+        9898896,
+        9898897,
+        9898898
+      ]
+    },
+    {
+      "reference_id": "84993",
+      "genre": "article",
+      "title": "Einiges uber die Tricladenfauna des Baikalsees",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "625",
+      "epage": "629",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898911",
+      "created": "2011-08-11 14:51:28",
+      "updated": "2011-08-11 14:51:28",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898911,
+        9898912,
+        9898913,
+        9898914,
+        9898915
+      ]
+    },
+    {
+      "reference_id": "69976",
+      "genre": "article",
+      "title": "Zur Anatomie der Echinoderen",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "629",
+      "epage": "647",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898915",
+      "created": "2011-06-02 08:24:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46438",
+          "lastname": "Zelinka",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        9898915,
+        9898916,
+        9898917,
+        9898918,
+        9898919,
+        9898920,
+        9898921,
+        9898922,
+        9898923,
+        9898924,
+        9898925,
+        9898926,
+        9898927,
+        9898928,
+        9898929,
+        9898930,
+        9898931,
+        9898932,
+        9898933
+      ]
+    },
+    {
+      "reference_id": "84977",
+      "genre": "article",
+      "title": "Eine neue blutsaugende Fliege aus Annnm",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "666",
+      "epage": "668",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898952",
+      "created": "2011-08-11 14:48:48",
+      "updated": "2011-08-11 14:48:48",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898952,
+        9898953,
+        9898954
+      ]
+    },
+    {
+      "reference_id": "84967",
+      "genre": "article",
+      "title": "Ein neuer Nematode, Dorylaimus crassoides, aus dem Thuner see in der Schweiz",
+      "secondary_title": "Zoologischer Anzeiger Leipzig",
+      "volume": "33",
+      "spage": "673",
+      "epage": "677",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898959",
+      "created": "2011-08-11 14:46:54",
+      "updated": "2011-08-11 14:46:54",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        9898959,
+        9898960,
+        9898961,
+        9898962,
+        9898963
+      ]
+    },
+    {
+      "reference_id": "58170",
+      "genre": "article",
+      "title": "Diagnosen neuer Gorgoniden aus der Gattung Chrysogorgia",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "704",
+      "epage": "708",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9898992",
+      "created": "2010-11-20 20:05:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42143",
+          "lastname": "Kukenthal",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        9898992,
+        9898993,
+        9898994,
+        9898995,
+        9898996
+      ]
+    },
+    {
+      "reference_id": "69940",
+      "genre": "article",
+      "title": "\u00dcber Chermesiden. IV. Dreyfusia piceae (Ratz.) und n\u00fcsslini nov. spec",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "737",
+      "epage": "750",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9899025",
+      "created": "2011-06-02 07:57:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        9899025,
+        9899026,
+        9899027,
+        9899028,
+        9899029,
+        9899030,
+        9899031,
+        9899032,
+        9899033,
+        9899034,
+        9899035,
+        9899036,
+        9899037,
+        9899038
+      ]
+    },
+    {
+      "reference_id": "58150",
+      "genre": "article",
+      "title": "Die Copeognathenfauna der Insel Formosa",
+      "secondary_title": "Zoologischer Anzeiger",
+      "volume": "33",
+      "spage": "759",
+      "epage": "779",
+      "year": "1908",
+      "date": "1908-00-00",
+      "issn": "0044-5231",
+      "PageID": "9899047",
+      "created": "2010-11-20 20:02:31",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9452",
+          "lastname": "Enderlein",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        9899047,
+        9899048,
+        9899049,
+        9899050,
+        9899051,
+        9899052,
+        9899053,
+        9899054,
+        9899055,
+        9899056,
+        9899057,
+        9899058,
+        9899059,
+        9899060,
+        9899061,
+        9899062,
+        9899063,
+        9899064,
+        9899065,
+        9899066,
+        9899067
+      ]
+    }
+  ]
+}

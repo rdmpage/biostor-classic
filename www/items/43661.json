@@ -1,0 +1,65 @@
+{
+  "ItemID": "43661",
+  "FullTitle": "The Entomologist.",
+  "VolumeInfo": "v. 13 1880",
+  "articles": [
+    {
+      "reference_id": "72967",
+      "genre": "article",
+      "title": "Notes on Hymenoptera",
+      "secondary_title": "Entomologist",
+      "volume": "13",
+      "spage": "51",
+      "epage": "55",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0013-8878",
+      "PageID": "11931203",
+      "created": "2011-06-04 04:46:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47111",
+          "lastname": "Bridgman",
+          "forename": "J B"
+        }
+      ],
+      "bhl_pages": [
+        11931203,
+        11931204,
+        11931205,
+        11931206,
+        11931207
+      ]
+    },
+    {
+      "reference_id": "72972",
+      "genre": "article",
+      "title": "Three new Ichneumons",
+      "secondary_title": "Entomologist",
+      "volume": "13",
+      "spage": "263",
+      "epage": "265",
+      "year": "1880",
+      "date": "1880-00-00",
+      "issn": "0013-8878",
+      "PageID": "11931419",
+      "created": "2011-06-04 04:48:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47111",
+          "lastname": "Bridgman",
+          "forename": "J B"
+        }
+      ],
+      "bhl_pages": [
+        11931419,
+        11931420,
+        11931421
+      ]
+    }
+  ]
+}

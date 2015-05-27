@@ -1,0 +1,64 @@
+{
+  "ItemID": "33440",
+  "FullTitle": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin.",
+  "VolumeInfo": "1884",
+  "articles": [
+    {
+      "reference_id": "67484",
+      "genre": "article",
+      "title": "\u00dcber die Fischgattung Amphisile und beschrieb A. finschii spec. nova",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1884",
+      "spage": "52",
+      "epage": "55",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0037-5942",
+      "PageID": "7937756",
+      "created": "2011-05-28 14:13:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17831",
+          "lastname": "Hilgendorf",
+          "forename": "F M"
+        }
+      ],
+      "bhl_pages": [
+        7937756,
+        7937757,
+        7937758,
+        7937759
+      ]
+    },
+    {
+      "reference_id": "51906",
+      "genre": "article",
+      "title": "\u00dcber Vorkommen und Zeichnungs-Variet\u00e4ten von Salamandra maculosa",
+      "secondary_title": "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin",
+      "volume": "1884",
+      "spage": "193",
+      "epage": "195",
+      "year": "1885",
+      "date": "1885-00-00",
+      "issn": "0037-5942",
+      "PageID": "7937903",
+      "created": "2010-06-27 10:16:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40280",
+          "lastname": "Martens",
+          "forename": "E"
+        }
+      ],
+      "bhl_pages": [
+        7937903,
+        7937904,
+        7937905
+      ]
+    }
+  ]
+}

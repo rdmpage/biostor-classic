@@ -1,0 +1,63 @@
+{
+  "ItemID": "17834",
+  "FullTitle": "The Nautilus.",
+  "VolumeInfo": "v. 28 (1914-1915)",
+  "articles": [
+    {
+      "reference_id": "77773",
+      "genre": "article",
+      "title": "New Cuban species of Urocoptidae",
+      "secondary_title": "Nautilus",
+      "volume": "28",
+      "spage": "4",
+      "epage": "5",
+      "year": "1914",
+      "date": "1914-00-00",
+      "issn": "0028-1344",
+      "PageID": "1750457",
+      "created": "2011-06-14 10:34:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49382",
+          "lastname": "Ramsden",
+          "forename": "C C"
+        }
+      ],
+      "bhl_pages": [
+        1750457,
+        1750458
+      ]
+    },
+    {
+      "reference_id": "77774",
+      "genre": "article",
+      "title": "On some new Cuban land shells",
+      "secondary_title": "Nautilus",
+      "volume": "28",
+      "spage": "133",
+      "epage": "136",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0028-1344",
+      "PageID": "1750596",
+      "created": "2011-06-14 10:34:19",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49382",
+          "lastname": "Ramsden",
+          "forename": "C C"
+        }
+      ],
+      "bhl_pages": [
+        1750596,
+        1750597,
+        1750598,
+        1750599
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ItemID": "21118",
+  "FullTitle": "A new generic and family position for Bufo Borbonica,  by D. Dwight Davis.",
+  "VolumeInfo": "v.20:no.12(1935)",
+  "articles": [
+    {
+      "reference_id": "51956",
+      "genre": "article",
+      "title": "A new generic and family position for Bufo borbonica",
+      "secondary_title": "Field Museum of Natural History Publication. Zoological Series",
+      "volume": "20",
+      "spage": "87",
+      "epage": "92",
+      "year": "1935",
+      "date": "1935-00-00",
+      "issn": "0895-0237",
+      "PageID": "2787157",
+      "created": "2010-06-27 12:06:26",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1334",
+          "lastname": "Davis",
+          "forename": "D D"
+        }
+      ],
+      "bhl_pages": [
+        2787157,
+        2787158,
+        2787159,
+        2787160,
+        2787161,
+        2787162
+      ]
+    },
+    {
+      "reference_id": "95724",
+      "genre": "article",
+      "title": "A new generic and family position for Bufo borbonica",
+      "secondary_title": "Field Museum of Natural History Zool",
+      "volume": "20",
+      "issue": "12",
+      "spage": "87",
+      "epage": "92",
+      "year": "1935",
+      "date": "1935-05-15",
+      "issn": "0895-0237",
+      "PageID": "2787157",
+      "created": "2011-10-10 15:00:34",
+      "updated": "2011-10-10 15:06:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53045",
+          "lastname": "Davis",
+          "forename": "D Dwight"
+        }
+      ],
+      "bhl_pages": [
+        2787157,
+        2787158,
+        2787159,
+        2787160,
+        2787161,
+        2787162
+      ]
+    }
+  ]
+}

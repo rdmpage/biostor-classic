@@ -1,0 +1,136 @@
+{
+  "ItemID": "17061",
+  "FullTitle": "Wissenschaftliche ergebnisse der Schwedischen zoologischen expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906, unter leitung von prof. dr. Yngve Sj\u00f6stedt. Hrsg. mit unterst\u00fctzung von der K\u00f6nigl. schwedischen akademie der wissenschaften ...",
+  "VolumeInfo": "Bnd.02",
+  "articles": [
+    {
+      "reference_id": "105162",
+      "genre": "article",
+      "title": "Diptera. 1. Pupipara",
+      "secondary_title": "Wissenschaftliche ergebnisse der Schwedischen zoologischen expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906, unter leitung von prof. dr. Yngve Sj\u00f6stedt",
+      "volume": "2",
+      "spage": "1",
+      "epage": "10",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "6396182",
+      "PageID": "1447827",
+      "created": "2012-07-08 16:09:51",
+      "updated": "2012-07-08 16:10:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40787",
+          "lastname": "Speiser",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        1447827,
+        1448223,
+        1447828,
+        1447829,
+        1447830,
+        1447831,
+        1447832,
+        1447833,
+        1448224,
+        1447834
+      ]
+    },
+    {
+      "reference_id": "103740",
+      "genre": "article",
+      "title": "Siphonaptera et Anoplura. 1. Siphonaptera",
+      "secondary_title": "Wissenschaftliche ergebnisse der Schwedischen zoologischen expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906, unter leitung von prof. dr. Yngve Sj\u00f6stedt",
+      "volume": "2",
+      "spage": "1",
+      "epage": "5",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "6396182",
+      "PageID": "1447434",
+      "created": "2012-05-25 20:04:20",
+      "updated": "2012-05-25 20:10:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39962",
+          "lastname": "Rothschild",
+          "forename": "N Charles"
+        }
+      ],
+      "bhl_pages": [
+        1447434,
+        1447936,
+        1447937,
+        1447938,
+        1447435,
+        1447943,
+        1447944
+      ]
+    },
+    {
+      "reference_id": "103741",
+      "genre": "article",
+      "title": "Siphonaptera et Anoplura. 1. Anoplura (Siphunculata)",
+      "secondary_title": "Wissenschaftliche ergebnisse der Schwedischen zoologischen expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906, unter leitung von prof. dr. Yngve Sj\u00f6stedt",
+      "volume": "2",
+      "spage": "7",
+      "epage": "8",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "6396182",
+      "PageID": "1447436",
+      "created": "2012-05-25 20:11:55",
+      "updated": "2012-05-25 20:12:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9476",
+          "lastname": "Enderlein",
+          "forename": "G\u00fcnther"
+        }
+      ],
+      "bhl_pages": [
+        1447436,
+        1447940
+      ]
+    },
+    {
+      "reference_id": "103739",
+      "genre": "article",
+      "title": "Hemiptera. I. Coccidae",
+      "secondary_title": "Wissenschaftliche ergebnisse der Schwedischen zoologischen expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906, unter leitung von prof. dr. Yngve Sj\u00f6stedt",
+      "volume": "2",
+      "spage": "1",
+      "epage": "10",
+      "year": "1910",
+      "date": "1910-00-00",
+      "oclc": "6396182",
+      "PageID": "1447945",
+      "created": "2012-05-25 19:59:36",
+      "updated": "2012-05-25 20:00:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53768",
+          "lastname": "Newstead",
+          "forename": "Robert"
+        }
+      ],
+      "bhl_pages": [
+        1447945,
+        1447439,
+        1447440,
+        1447441,
+        1447442,
+        1447443,
+        1447946,
+        1447947,
+        1447444,
+        1447445
+      ]
+    }
+  ]
+}

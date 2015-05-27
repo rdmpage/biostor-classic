@@ -1,0 +1,41 @@
+{
+  "ItemID": "54807",
+  "FullTitle": "Jornal de sciencias mathematicas, physicas e naturaes \/  Academia Real das Sciencias de Lisboa.",
+  "VolumeInfo": "t.3 (1870-1871)",
+  "articles": [
+    {
+      "reference_id": "100700",
+      "genre": "article",
+      "title": "Fauna neotropicalis species quaedam nondum cognitae",
+      "secondary_title": "Jornal de Sci\u00eancias, Mathem\u00e1ticas, Physicas e Naturaes. Lisb\u00f5a",
+      "volume": "3",
+      "spage": "57",
+      "epage": "65",
+      "year": "1870",
+      "date": "1870-00-00",
+      "oclc": "181912037",
+      "PageID": "16192878",
+      "created": "2012-02-19 17:23:38",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18002",
+          "lastname": "Jim\u00e9nez De La Espada",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        16192878,
+        16192879,
+        16192880,
+        16192881,
+        16192882,
+        16192883,
+        16192884,
+        16192885,
+        16192886
+      ]
+    }
+  ]
+}

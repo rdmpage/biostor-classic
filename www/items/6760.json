@@ -1,0 +1,88 @@
+{
+  "ItemID": "6760",
+  "FullTitle": "Leaflets of Philippine botany.",
+  "VolumeInfo": "v.1 (1906-1908)",
+  "articles": [
+    {
+      "reference_id": "71228",
+      "genre": "article",
+      "title": "A century of new plants",
+      "secondary_title": "Leafl. Philipp. Bot",
+      "volume": "1",
+      "spage": "290",
+      "epage": "291",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1755664",
+      "PageID": "768340",
+      "created": "2011-06-03 18:13:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46779",
+          "lastname": "Elmer",
+          "forename": "A D E"
+        }
+      ],
+      "bhl_pages": [
+        768340,
+        768341
+      ]
+    },
+    {
+      "reference_id": "71229",
+      "genre": "article",
+      "title": "A century of new plants",
+      "secondary_title": "Leafl. Philipp. Bot",
+      "volume": "1",
+      "spage": "292",
+      "epage": "293",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1755664",
+      "PageID": "768342",
+      "created": "2011-06-03 18:13:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46779",
+          "lastname": "Elmer",
+          "forename": "A D E"
+        }
+      ],
+      "bhl_pages": [
+        768342,
+        768343
+      ]
+    },
+    {
+      "reference_id": "71225",
+      "genre": "article",
+      "title": "A century of new plants",
+      "secondary_title": "Leafl. Philipp. Bot",
+      "volume": "1",
+      "spage": "294",
+      "epage": "295",
+      "year": "1908",
+      "date": "1908-00-00",
+      "oclc": "1755664",
+      "PageID": "768344",
+      "created": "2011-06-03 18:12:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46779",
+          "lastname": "Elmer",
+          "forename": "A D E"
+        }
+      ],
+      "bhl_pages": [
+        768344,
+        768345
+      ]
+    }
+  ]
+}

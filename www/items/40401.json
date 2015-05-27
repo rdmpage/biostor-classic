@@ -1,0 +1,43 @@
+{
+  "ItemID": "40401",
+  "FullTitle": "Bulletin biologique de la France et de la Belgique.  ",
+  "VolumeInfo": "t. 39 (1905)",
+  "articles": [
+    {
+      "reference_id": "100130",
+      "genre": "article",
+      "title": "Les l\u00e9pidopt\u00e8res limacodides et leurs dipt\u00e8res parasites, bombylides du genre Systropus",
+      "secondary_title": "Bulletin biologique de la France et de la Belgique",
+      "volume": "39",
+      "spage": "141",
+      "epage": "151",
+      "year": "1905",
+      "date": "0000-00-00",
+      "oclc": "1537693",
+      "PageID": "10627139",
+      "created": "2011-12-26 15:03:56",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43074",
+          "lastname": "D'herculais",
+          "forename": "J Kunckel"
+        }
+      ],
+      "bhl_pages": [
+        10627139,
+        10627140,
+        10627141,
+        10627142,
+        10627143,
+        10627144,
+        10627145,
+        10627146,
+        10627147,
+        10627148,
+        10627149
+      ]
+    }
+  ]
+}

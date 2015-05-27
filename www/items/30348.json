@@ -1,0 +1,64 @@
+{
+  "ItemID": "30348",
+  "FullTitle": "Comptes rendus hebdomadaires des s\u00e9ances de l'Acad\u00e9mie des sciences.",
+  "VolumeInfo": "t.169 (1919)",
+  "articles": [
+    {
+      "reference_id": "104625",
+      "genre": "article",
+      "title": "Biologie d'une nouvelle espece d'Euglene (Euglena limosa nov. spec)",
+      "secondary_title": "Compte Rendu De L'academie Des Sciences Paris",
+      "volume": "169",
+      "spage": "1423",
+      "epage": "1425",
+      "year": "1919",
+      "date": "1919-00-00",
+      "issn": "0001-4036",
+      "PageID": "6511598",
+      "created": "2012-06-26 10:00:38",
+      "updated": "2012-06-26 10:00:38",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        6511598,
+        6511599,
+        6511600
+      ]
+    },
+    {
+      "reference_id": "66706",
+      "genre": "article",
+      "title": "Sur un nouvel epicaride (Ancyroniscus bonnieri, n. g., n. sp.), parasite d'un sphaeromide (Dynamene bidentata Mont.)",
+      "secondary_title": "Comptes Rendus Hebdomadaires Des Seances De L'academie Des Sciences, Paris",
+      "volume": "169",
+      "spage": "1430",
+      "epage": "1432",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1124612",
+      "PageID": "6511605",
+      "created": "2011-05-09 17:34:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42280",
+          "lastname": "Caullery",
+          "forename": "M"
+        },
+        {
+          "id": "43065",
+          "lastname": "Mesnil",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        6511605,
+        6511606,
+        6511607
+      ]
+    }
+  ]
+}

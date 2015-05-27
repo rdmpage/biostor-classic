@@ -1,0 +1,38 @@
+{
+  "ItemID": "52474",
+  "FullTitle": "The American journal of science.",
+  "VolumeInfo": "v.45 (1843)",
+  "articles": [
+    {
+      "reference_id": "67325",
+      "genre": "article",
+      "title": "Description of a new species of Torpedo",
+      "secondary_title": "American Journal of Science",
+      "volume": "45",
+      "spage": "165",
+      "epage": "170",
+      "year": "1843",
+      "date": "1843-00-00",
+      "issn": "0092-5853",
+      "PageID": "15256253",
+      "created": "2011-05-26 01:01:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45469",
+          "lastname": "Storer",
+          "forename": "D H"
+        }
+      ],
+      "bhl_pages": [
+        15256253,
+        15256254,
+        15256255,
+        15256256,
+        15256257,
+        15256258
+      ]
+    }
+  ]
+}

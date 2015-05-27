@@ -1,0 +1,42 @@
+{
+  "ItemID": "49502",
+  "FullTitle": "Archiv f\u00fcr mikroskopische Anatomie.",
+  "VolumeInfo": "bd. 1 (1865)",
+  "articles": [
+    {
+      "reference_id": "61578",
+      "genre": "article",
+      "title": "Ueber Darwinella aurea, einen Schwam mit sternf\u00f6rmigen Hornnadeln",
+      "secondary_title": "Archiv f\u00fcr Mikroskopische Anatomie",
+      "volume": "1",
+      "spage": "344",
+      "epage": "353",
+      "year": "1865",
+      "date": "1865-00-00",
+      "oclc": "6201139",
+      "PageID": "13992383",
+      "created": "2011-01-10 22:13:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39754",
+          "lastname": "M\u00fcller",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        13992383,
+        13992384,
+        13992385,
+        13992386,
+        13992387,
+        13992388,
+        13992389,
+        13992390,
+        13992391,
+        13992392
+      ]
+    }
+  ]
+}

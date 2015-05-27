@@ -1,0 +1,125 @@
+{
+  "ItemID": "18382",
+  "FullTitle": "Journal of the Washington Academy of Sciences.",
+  "VolumeInfo": "v. 5 (1915)",
+  "articles": [
+    {
+      "reference_id": "65203",
+      "genre": "article",
+      "title": "A new genus of palms allied to Archontophoenix",
+      "secondary_title": "J. Washington Acad. Sci.",
+      "volume": "5",
+      "spage": "116",
+      "epage": "122",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0043-0439",
+      "PageID": "2000456",
+      "created": "2011-02-01 11:46:59",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2442",
+          "lastname": "Cook",
+          "forename": "O F"
+        }
+      ],
+      "bhl_pages": [
+        2000456,
+        2000457,
+        2000458,
+        2000459,
+        2000460,
+        2000461,
+        2000462
+      ]
+    },
+    {
+      "reference_id": "58793",
+      "genre": "article",
+      "title": "Zoology.\u2014 The bathymetrical and thermal distribution of the unstalked crinoids, or comatulids, occurring on the coasts of China and Japan",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "5",
+      "spage": "213",
+      "epage": "218",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0043-0439",
+      "PageID": "2000553",
+      "created": "2010-11-20 22:51:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "798",
+          "lastname": "Clark",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        2000553,
+        2000554,
+        2000555,
+        2000556,
+        2000557,
+        2000558
+      ]
+    },
+    {
+      "reference_id": "103218",
+      "genre": "article",
+      "title": "A new genus of scolytoid beetles",
+      "secondary_title": "Washington Dc J Acad Sci",
+      "volume": "5",
+      "spage": "429",
+      "epage": "433",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0043-0439",
+      "PageID": "2000769",
+      "created": "2012-05-15 08:25:49",
+      "updated": "2012-05-15 08:25:49",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2000769,
+        2000770,
+        2000771,
+        2000772,
+        2000773
+      ]
+    },
+    {
+      "reference_id": "58868",
+      "genre": "article",
+      "title": "Correction of the misuse of the generic name Musca, with description of two new genera",
+      "secondary_title": "Journal of the Washington Academy of Sciences",
+      "volume": "5",
+      "spage": "433",
+      "epage": "436",
+      "year": "1915",
+      "date": "1915-00-00",
+      "issn": "0043-0439",
+      "PageID": "2000773",
+      "created": "2010-11-20 23:04:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42351",
+          "lastname": "Townsend",
+          "forename": "C H T"
+        }
+      ],
+      "bhl_pages": [
+        2000773,
+        2000774,
+        2000775,
+        2000776
+      ]
+    }
+  ]
+}

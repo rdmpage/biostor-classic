@@ -1,0 +1,34 @@
+{
+  "ItemID": "98213",
+  "FullTitle": "Archives de parasitologie.",
+  "VolumeInfo": "t.5e (1902)",
+  "articles": [
+    {
+      "reference_id": "104468",
+      "genre": "article",
+      "title": "Deux nouvelles p\u00e9diculines",
+      "secondary_title": "Archives de parasitologie",
+      "volume": "5",
+      "spage": "600",
+      "epage": "601",
+      "year": "1902",
+      "date": "1902-00-00",
+      "oclc": "1482068",
+      "PageID": "31445186",
+      "created": "2012-06-20 16:20:27",
+      "updated": "2012-06-20 16:22:16",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42120",
+          "lastname": "Neumann",
+          "forename": "G"
+        }
+      ],
+      "bhl_pages": [
+        31445186,
+        31445187
+      ]
+    }
+  ]
+}

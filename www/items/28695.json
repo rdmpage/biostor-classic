@@ -1,0 +1,94 @@
+{
+  "ItemID": "28695",
+  "FullTitle": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe.",
+  "VolumeInfo": "v.16 (1879)",
+  "articles": [
+    {
+      "reference_id": "70011",
+      "genre": "article",
+      "title": "\u00dcber einige neue und seltene Fischarten aus den zoologischen Museen zu Wien, Stuttgart und Warschau",
+      "secondary_title": "Anzeiger Der Akademie Der Wissenschaften In Wien",
+      "volume": "16",
+      "spage": "29",
+      "epage": "34",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "9782210",
+      "PageID": "5782393",
+      "created": "2011-06-02 12:25:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        5782393,
+        5782392,
+        5782391,
+        5782390,
+        5782389,
+        5782388
+      ]
+    },
+    {
+      "reference_id": "20735",
+      "genre": "article",
+      "title": "\u00dcber die Fauna des Orinoco bei Ciudad Bolivar, des Mamoni-Flusses bei Chepo im Isthmus von Panama und einiger Fl\u00fcsses Peru's; Beitr\u00e4ge zur Kenntniss der S\u00fcsswasserfische S\u00fcdmaerikas",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "16",
+      "spage": "149",
+      "epage": "152",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "9782210",
+      "PageID": "5782460",
+      "created": "2010-02-09 18:48:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        5782460,
+        5782461,
+        5782462,
+        5782463
+      ]
+    },
+    {
+      "reference_id": "20775",
+      "genre": "article",
+      "title": "Ichthyologische Beitr\u00e4ge, VIII",
+      "secondary_title": "Anzeiger der Kaiserlichen Akademie der Wissenschaften, Mathematisch- Naturwissenschaftlichen Classe",
+      "volume": "16",
+      "spage": "194",
+      "epage": "195",
+      "year": "1879",
+      "date": "1879-00-00",
+      "oclc": "9782210",
+      "PageID": "5782555",
+      "created": "2010-02-09 21:48:03",
+      "updated": "2012-03-23 10:25:09",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17659",
+          "lastname": "Steindachner",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        5782555,
+        5782556
+      ]
+    }
+  ]
+}

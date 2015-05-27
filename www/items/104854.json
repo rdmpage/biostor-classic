@@ -1,0 +1,48 @@
+{
+  "ItemID": "104854",
+  "FullTitle": "Stuttgarter Beitr\u00e4ge zur Naturkunde.",
+  "VolumeInfo": "nr. 586 1999",
+  "articles": [
+    {
+      "reference_id": "103834",
+      "genre": "article",
+      "title": "Liste pr\u00e9liminaire des Rongeurs et des Musaraignes du Pare National de la Como\u00e9, en C\u00f4te d'Ivoire (Mammalia: Rodentia, Insectivora: Soricidae)",
+      "secondary_title": "Stuttgarter Beitr\u00e4ge zur Naturkunde. Serie A: Biologie",
+      "volume": "586",
+      "spage": "1",
+      "epage": "11",
+      "year": "1999",
+      "date": "1999-05-20",
+      "issn": "0341-0145",
+      "PageID": "33600241",
+      "created": "2012-05-29 18:38:10",
+      "updated": "2012-05-29 18:39:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53790",
+          "lastname": "Mess",
+          "forename": "Andreas"
+        },
+        {
+          "id": "23986",
+          "lastname": "Krell",
+          "forename": "Frank-Thorsten"
+        }
+      ],
+      "bhl_pages": [
+        33600241,
+        33600242,
+        33600243,
+        33600244,
+        33600245,
+        33600246,
+        33600247,
+        33600248,
+        33600249,
+        33600250,
+        33600251
+      ]
+    }
+  ]
+}

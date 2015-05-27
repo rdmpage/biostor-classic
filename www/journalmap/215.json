@@ -1,0 +1,52 @@
+{
+  "author": [
+    {
+      "firstname": "William E",
+      "lastname": "Duellman",
+      "name": "William E Duellman"
+    }
+  ],
+  "type": "article",
+  "title": "A new species of leptodactylid frog, genus Ischnocnema, from Peru",
+  "journal": {
+    "name": "Occasional Papers of the Museum of Natural History University of Kansas",
+    "volume": "138",
+    "pages": "1--7",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0091-7958"
+      }
+    ]
+  },
+  "year": "1990",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/215"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/5721321"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 215
+    },
+    {
+      "type": "bhl",
+      "id": 5721321
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -76.883333333333,
+        -6.5166666666667
+      ]
+    ]
+  }
+}

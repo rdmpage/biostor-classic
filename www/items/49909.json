@@ -1,0 +1,37 @@
+{
+  "ItemID": "49909",
+  "FullTitle": "Archiv f\u00fcr Naturgeschichte.",
+  "VolumeInfo": "Jahrg. 62:bd. 1:heft 1-3 - Jahrg. 62:bd. 2:heft 1",
+  "articles": [
+    {
+      "reference_id": "50143",
+      "genre": "article",
+      "title": "Hirudineen aus dem Togoland",
+      "secondary_title": "Arch Naturgesch",
+      "volume": "62",
+      "spage": "49",
+      "epage": "53",
+      "year": "1896",
+      "date": "1896-00-00",
+      "issn": "0365-6136",
+      "PageID": "14193208",
+      "created": "2010-04-19 15:17:24",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "39767",
+          "lastname": "Blanchard",
+          "forename": "Rapha\u00ebl"
+        }
+      ],
+      "bhl_pages": [
+        14193208,
+        14193209,
+        14193210,
+        14193211,
+        14193212
+      ]
+    }
+  ]
+}

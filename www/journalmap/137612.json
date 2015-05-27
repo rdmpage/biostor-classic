@@ -1,0 +1,69 @@
+{
+  "author": [
+    {
+      "firstname": "Nelson",
+      "lastname": "Zamora",
+      "name": "Nelson Zamora"
+    }
+  ],
+  "type": "article",
+  "title": "Nuevas Especies y Combinaciones en Leguminosas de Mesoam\u00e9rica",
+  "journal": {
+    "name": "Novon",
+    "volume": "10",
+    "issue": "2",
+    "pages": "175--180",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "1055-3177"
+      }
+    ]
+  },
+  "year": "2000",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/137612"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/641499"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 137612
+    },
+    {
+      "type": "bhl",
+      "id": 641499
+    },
+    {
+      "type": "doi",
+      "id": "10.2307\/3393023"
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -85.95,
+        13.033333333333
+      ],
+      [
+        -85.95,
+        13.033333333333
+      ],
+      [
+        -85.916666666667,
+        13
+      ],
+      [
+        -85.35,
+        10.35
+      ]
+    ]
+  }
+}

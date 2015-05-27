@@ -1,0 +1,56 @@
+{
+  "author": [
+    {
+      "firstname": "J P V",
+      "lastname": "Lith",
+      "name": "J P V Lith"
+    }
+  ],
+  "type": "article",
+  "title": "The New World genus Pluto (Hymenoptera, Sphecidae, Psenini)",
+  "journal": {
+    "name": "Tijdschrift Voor Entomologie",
+    "volume": "122",
+    "pages": "127--239",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0040-7496"
+      }
+    ]
+  },
+  "year": "1979",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/49896"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/28227329"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 49896
+    },
+    {
+      "type": "bhl",
+      "id": 28227329
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -52.383333333333,
+        -27.183333333333
+      ],
+      [
+        -55.616666666667,
+        -12.516666666667
+      ]
+    ]
+  }
+}

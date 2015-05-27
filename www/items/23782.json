@@ -1,0 +1,72 @@
+{
+  "ItemID": "23782",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 2 (1882-1884)",
+  "articles": [
+    {
+      "reference_id": "65464",
+      "genre": "article",
+      "title": "Notes on North American Psyllidae",
+      "secondary_title": "Proc. biol. Soc. Wash.",
+      "volume": "2",
+      "spage": "67",
+      "epage": "79",
+      "year": "1883",
+      "date": "1883-00-00",
+      "issn": "0006-324X",
+      "PageID": "3736777",
+      "created": "2011-03-07 14:19:12",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2455",
+          "lastname": "Riley",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        3736777,
+        3736778,
+        3736779,
+        3736780,
+        3736781,
+        3736782,
+        3736783,
+        3736784,
+        3736785,
+        3736786,
+        3736787,
+        3736788,
+        3736789
+      ]
+    },
+    {
+      "reference_id": "67374",
+      "genre": "article",
+      "title": "Diagnoses of three new species of fishes from the Gulf of Mexico",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "2",
+      "spage": "99",
+      "epage": "100",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0006-324X",
+      "PageID": "3736809",
+      "created": "2011-05-26 14:20:28",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45508",
+          "lastname": "Dresel",
+          "forename": "T H Bean H G"
+        }
+      ],
+      "bhl_pages": [
+        3736809,
+        3736810
+      ]
+    }
+  ]
+}

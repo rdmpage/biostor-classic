@@ -1,0 +1,49 @@
+{
+  "ItemID": "110834",
+  "FullTitle": "The Entomological magazine. ",
+  "VolumeInfo": "v. 1-3 (1915-17)",
+  "articles": [
+    {
+      "reference_id": "102360",
+      "genre": "article",
+      "title": "Uebersicht der Wasser-Hemipteren  von Japan und Formosa",
+      "secondary_title": "Entomological Magazine, Kyoto",
+      "volume": "1",
+      "spage": "103",
+      "epage": "119",
+      "year": "1915",
+      "date": "1915-00-00",
+      "oclc": "13453640",
+      "PageID": "35884017",
+      "created": "2012-04-14 14:20:32",
+      "updated": "2012-04-14 14:22:32",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42090",
+          "lastname": "Matsumura",
+          "forename": "S"
+        }
+      ],
+      "bhl_pages": [
+        35884017,
+        35884018,
+        35884019,
+        35884020,
+        35884021,
+        35884022,
+        35884023,
+        35884024,
+        35884025,
+        35884026,
+        35884027,
+        35884028,
+        35884029,
+        35884030,
+        35884031,
+        35884032,
+        35884033
+      ]
+    }
+  ]
+}

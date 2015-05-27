@@ -1,0 +1,39 @@
+{
+  "ItemID": "23044",
+  "FullTitle": "Jornal de sciencias mathematicas, physicas e naturaes \/  Academia Real das Sciencias de Lisboa.",
+  "VolumeInfo": "ser. 2, t. 1 (1889-1890)",
+  "articles": [
+    {
+      "reference_id": "102551",
+      "genre": "article",
+      "title": "Nota sobre os Cephalopodes de Portugal",
+      "secondary_title": "Jornal de sciencias mathematicas, physicas e naturaes",
+      "volume": "1",
+      "series": "2",
+      "spage": "200",
+      "epage": "205",
+      "year": "1890",
+      "date": "1890-00-00",
+      "oclc": "181912037",
+      "PageID": "3418986",
+      "created": "2012-04-28 20:50:53",
+      "updated": "2012-04-28 20:51:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53686",
+          "lastname": "Girard",
+          "forename": "Alberto A"
+        }
+      ],
+      "bhl_pages": [
+        3418986,
+        3419036,
+        3419037,
+        3419038,
+        3419039,
+        3419040
+      ]
+    }
+  ]
+}

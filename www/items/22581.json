@@ -1,0 +1,102 @@
+{
+  "ItemID": "22581",
+  "FullTitle": "Fishery bulletin \/  U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service.",
+  "VolumeInfo": "v. 100, no. 1-4 (2002)",
+  "articles": [
+    {
+      "reference_id": "65909",
+      "genre": "article",
+      "title": "Hybridization between two serranids, the coney (Cephalopholis fulva) and the creole-fish (Paranthias furcifer), at Bermuda",
+      "secondary_title": "Fishery Bulletin",
+      "volume": "100",
+      "spage": "651",
+      "epage": "661",
+      "year": "2002",
+      "date": "2002-00-00",
+      "issn": "0090-0656",
+      "PageID": "3233852",
+      "created": "2011-05-01 16:36:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45088",
+          "lastname": "Bostrom",
+          "forename": "M A"
+        },
+        {
+          "id": "45089",
+          "lastname": "Collete",
+          "forename": "B B"
+        },
+        {
+          "id": "45090",
+          "lastname": "Luckhurst",
+          "forename": "B E"
+        },
+        {
+          "id": "45091",
+          "lastname": "Reece",
+          "forename": "K S"
+        },
+        {
+          "id": "45092",
+          "lastname": "Graves",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        3233852,
+        3233061,
+        3233732,
+        3233545,
+        3233052,
+        3233853,
+        3233421,
+        3233024,
+        3233733,
+        3233854,
+        3233422
+      ]
+    },
+    {
+      "reference_id": "71100",
+      "genre": "article",
+      "title": "Preliminary study on the use of neural arches in the age determination of bluntnose sixgill sharks (Hexanchus griseus)",
+      "secondary_title": "Fish. Bull",
+      "volume": "100",
+      "spage": "861",
+      "epage": "864",
+      "year": "2002",
+      "date": "2002-00-00",
+      "issn": "0090-0656",
+      "PageID": "3233476",
+      "created": "2011-06-03 17:42:42",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46742",
+          "lastname": "Mcfarlane",
+          "forename": "G A"
+        },
+        {
+          "id": "46743",
+          "lastname": "King",
+          "forename": "J R"
+        },
+        {
+          "id": "46744",
+          "lastname": "Saunders",
+          "forename": "M W"
+        }
+      ],
+      "bhl_pages": [
+        3233476,
+        3233477,
+        3233927,
+        3233084
+      ]
+    }
+  ]
+}

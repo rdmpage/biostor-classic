@@ -1,0 +1,1254 @@
+{
+  "ItemID": "44477",
+  "FullTitle": "The Bulletin of zoological nomenclature.",
+  "VolumeInfo": "Vol 35",
+  "articles": [
+    {
+      "reference_id": "74877",
+      "genre": "article",
+      "title": "Acyonidae Ameghino, 1889 (Mammalia): Supplement To Proposal To Suppress This Name. Z.n.(S.) 2159",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "12",
+      "epage": "14",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226593",
+      "created": "2011-06-10 12:01:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47851",
+          "lastname": "Marshall",
+          "forename": "L G"
+        },
+        {
+          "id": "47852",
+          "lastname": "Clemens",
+          "forename": "W A"
+        },
+        {
+          "id": "47853",
+          "lastname": "Hoffstetter",
+          "forename": "R J"
+        },
+        {
+          "id": "2561",
+          "lastname": "Pascual",
+          "forename": "R"
+        },
+        {
+          "id": "580",
+          "lastname": "Patterson",
+          "forename": "B"
+        },
+        {
+          "id": "47854",
+          "lastname": "Tedford",
+          "forename": "R H"
+        },
+        {
+          "id": "47855",
+          "lastname": "Turnbull",
+          "forename": "W D"
+        }
+      ],
+      "bhl_pages": [
+        12226593,
+        12226594,
+        12226595
+      ]
+    },
+    {
+      "reference_id": "21226",
+      "genre": "article",
+      "title": "A comment on the request for suppression of Haliplanella Treadwell (Polychaeta) in favour of Haliplanella Hand (Anthozoa). (Z.N.(S.) 2192)",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "issue": "1",
+      "spage": "17",
+      "epage": "18",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226598",
+      "created": "2010-02-13 10:45:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18463",
+          "lastname": "Williams",
+          "forename": "R B"
+        }
+      ],
+      "bhl_pages": [
+        12226598,
+        12226599
+      ]
+    },
+    {
+      "reference_id": "59609",
+      "genre": "article",
+      "title": "Amended proposal for validating Pectinaria Lamarck, 1818 (Polychaeta), P. belgica (Pallas, 1766) and P. koreni (Malmgren, 1866) under the plenary powers. Z.N. (S.) 2202",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "25",
+      "epage": "29",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "oclc": "1753468",
+      "PageID": "12226606",
+      "created": "2010-11-21 13:15:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "28953",
+          "lastname": "Nielsen",
+          "forename": "C"
+        },
+        {
+          "id": "23380",
+          "lastname": "Kirkegaard",
+          "forename": "J B"
+        }
+      ],
+      "bhl_pages": [
+        12226606,
+        12226607,
+        12226608,
+        12226609,
+        12226610
+      ]
+    },
+    {
+      "reference_id": "14546",
+      "genre": "article",
+      "title": "Steindachneri (Trionyx) Siebenrock, 1906: Proposed validation under the plenary powers (Reptilia, Testudines). Z.N.(S.) 2162",
+      "secondary_title": "Bull. Zool. Nomencl",
+      "volume": "35",
+      "spage": "47",
+      "epage": "48",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226628",
+      "created": "2010-01-20 20:22:49",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10295",
+          "lastname": "Webb",
+          "forename": "Robert G"
+        }
+      ],
+      "bhl_pages": [
+        12226628,
+        12226629
+      ]
+    },
+    {
+      "reference_id": "74859",
+      "genre": "article",
+      "title": "Litosoma Wite Krepkogorskaya, 1933 (Nematoda), Proposed Correction To Litosoma Viteae Z.n.(S) 2203",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "51",
+      "epage": "54",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226632",
+      "created": "2011-06-10 12:01:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "22058",
+          "lastname": "Bain",
+          "forename": "O"
+        },
+        {
+          "id": "26428",
+          "lastname": "Chabaud",
+          "forename": "A"
+        },
+        {
+          "id": "47845",
+          "lastname": "Duke",
+          "forename": "B O L"
+        },
+        {
+          "id": "47846",
+          "lastname": "Kouznetzov",
+          "forename": "R"
+        },
+        {
+          "id": "47847",
+          "lastname": "Mullet",
+          "forename": "R L"
+        },
+        {
+          "id": "47848",
+          "lastname": "Wenk",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        12226632,
+        12226633,
+        12226634,
+        12226635
+      ]
+    },
+    {
+      "reference_id": "74880",
+      "genre": "article",
+      "title": "Caenolestidae Trouessart, 1898, And Palaeothentidae Sinclair, 1906 2214",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "58",
+      "epage": "64",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226639",
+      "created": "2011-06-10 12:01:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47851",
+          "lastname": "Marshall",
+          "forename": "L G"
+        },
+        {
+          "id": "47854",
+          "lastname": "Tedford",
+          "forename": "R H"
+        }
+      ],
+      "bhl_pages": [
+        12226639,
+        12226640,
+        12226641,
+        12226642,
+        12226643,
+        12226644,
+        12226645
+      ]
+    },
+    {
+      "reference_id": "74862",
+      "genre": "article",
+      "title": "Comment On The Proposal To Conserve Colobidae Blyth, 1875, As The Family group Name For The Leaf eating Monkeys (Mammalia, Primates). Z.n.(S.) 2094",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "69",
+      "epage": "70",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226658",
+      "created": "2011-06-10 12:01:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "35972",
+          "lastname": "",
+          "forename": ""
+        }
+      ],
+      "bhl_pages": [
+        12226658,
+        12226659
+      ]
+    },
+    {
+      "reference_id": "74869",
+      "genre": "article",
+      "title": "Comments On The Application Concerning Simia Syndactyla Raffles, 1821",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "75",
+      "epage": "76",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226664",
+      "created": "2011-06-10 12:01:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1228",
+          "lastname": "Fooden",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        12226664,
+        12226665
+      ]
+    },
+    {
+      "reference_id": "4761",
+      "genre": "article",
+      "title": "Opinion 1107",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "88",
+      "epage": "93",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226677",
+      "created": "2010-01-02 20:48:17",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226677,
+        12226678,
+        12226679,
+        12226680,
+        12226681,
+        12226682
+      ]
+    },
+    {
+      "reference_id": "4762",
+      "genre": "article",
+      "title": "Opinion 1108",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "94",
+      "epage": "96",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226683",
+      "created": "2010-01-02 20:48:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226683,
+        12226684,
+        12226685
+      ]
+    },
+    {
+      "reference_id": "4763",
+      "genre": "article",
+      "title": "Opinion 1109",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "97",
+      "epage": "98",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226686",
+      "created": "2010-01-02 20:48:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226686,
+        12226687
+      ]
+    },
+    {
+      "reference_id": "4764",
+      "genre": "article",
+      "title": "Opinion 1110",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "99",
+      "epage": "100",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226688",
+      "created": "2010-01-02 20:48:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226688,
+        12226689
+      ]
+    },
+    {
+      "reference_id": "4766",
+      "genre": "article",
+      "title": "Opinion 1111",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "101",
+      "epage": "103",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226690",
+      "created": "2010-01-02 20:48:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226690,
+        12226691,
+        12226692
+      ]
+    },
+    {
+      "reference_id": "4768",
+      "genre": "article",
+      "title": "Opinion 1112",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "104",
+      "epage": "105",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226693",
+      "created": "2010-01-02 20:48:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226693,
+        12226694
+      ]
+    },
+    {
+      "reference_id": "4770",
+      "genre": "article",
+      "title": "Opinion 1113",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "106",
+      "epage": "107",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226695",
+      "created": "2010-01-02 20:48:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226695,
+        12226696
+      ]
+    },
+    {
+      "reference_id": "4771",
+      "genre": "article",
+      "title": "Opinion 1114",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "108",
+      "epage": "110",
+      "year": "1978",
+      "date": "1978-10-31",
+      "issn": "0007-5167",
+      "PageID": "12226697",
+      "created": "2010-01-02 20:48:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226697,
+        12226698,
+        12226699
+      ]
+    },
+    {
+      "reference_id": "74874",
+      "genre": "article",
+      "title": "Revived Application In The Case Of The Names For South American Rodents Published By Brants (1827). Z.n.(S.) 1775",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "115",
+      "epage": "120",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226704",
+      "created": "2011-06-10 12:01:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1320",
+          "lastname": "Langguth",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        12226704,
+        12226705,
+        12226706,
+        12226707,
+        12226708,
+        12226709
+      ]
+    },
+    {
+      "reference_id": "74871",
+      "genre": "article",
+      "title": "Iotonchinae Goodey, 1953 (Nematoda, Tylenchida) and Iotonchidae Jairajpuri, 1969 (Nematoda, Mononchida): proposals to eliminate homonymy. Z.N.(S.) 2137",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "issue": "2",
+      "spage": "121",
+      "epage": "122",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226710",
+      "created": "2011-06-10 12:01:37",
+      "updated": "2012-08-02 03:58:45",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "25472",
+          "lastname": "Jairajpuri",
+          "forename": "M S"
+        }
+      ],
+      "bhl_pages": [
+        12226710,
+        12226711
+      ]
+    },
+    {
+      "reference_id": "74864",
+      "genre": "article",
+      "title": "Erinaceus Dauuricus Sundevall, 1842 (Mammalia, Insectivora): Proposed Conservation Under The Plenary Powers. Z.n.(S.) 2222",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "123",
+      "epage": "124",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226712",
+      "created": "2011-06-10 12:01:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47850",
+          "lastname": "Corbet",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        12226712,
+        12226713
+      ]
+    },
+    {
+      "reference_id": "74867",
+      "genre": "article",
+      "title": "Sorex Dzinezumi Temminck, [1844] (Mammalia, Insectivora); Proposed Use Of The Plenary Powers To Rule A Correct Original Spelling. Z.n.(S.) 2224",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "125",
+      "epage": "126",
+      "year": "1978",
+      "date": "1978-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226714",
+      "created": "2011-06-10 12:01:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47850",
+          "lastname": "Corbet",
+          "forename": "G B"
+        }
+      ],
+      "bhl_pages": [
+        12226714,
+        12226715
+      ]
+    },
+    {
+      "reference_id": "74782",
+      "genre": "article",
+      "title": "Draft Third Edition Of The International Code Of Zoological Nomenclature: Further Comments By Zoologists. Z.n.(S.) 2250. (1). Chapter 3. Critera Of Publication Arts 7-9",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "136",
+      "epage": "138",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226733",
+      "created": "2011-06-10 11:59:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47819",
+          "lastname": "Clark",
+          "forename": "R B"
+        }
+      ],
+      "bhl_pages": [
+        12226733,
+        12226734,
+        12226735
+      ]
+    },
+    {
+      "reference_id": "74830",
+      "genre": "article",
+      "title": "Proposal To Adopt The Concept That Types Are Types Of Names, In The Third Edition Of The International Code Of Zoological Nomenclature. Z.n.(S.) 2273",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "156",
+      "epage": "158",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226753",
+      "created": "2011-06-10 12:00:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1838",
+          "lastname": "Ride",
+          "forename": "Wdl"
+        },
+        {
+          "id": "47835",
+          "lastname": "Sabrosky",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        12226753,
+        12226754,
+        12226755
+      ]
+    },
+    {
+      "reference_id": "73143",
+      "genre": "article",
+      "title": "The gender o substantivated adjectives; with a proposal for the simplification of Articles 30.a.i. (2) Z.N.(S) 2259",
+      "secondary_title": "Bull. Zool. Nomencl",
+      "volume": "35",
+      "spage": "168",
+      "epage": "174",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226765",
+      "created": "2011-06-04 07:52:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1752",
+          "lastname": "Steyskal",
+          "forename": "G C"
+        }
+      ],
+      "bhl_pages": [
+        12226765,
+        12226766,
+        12226767,
+        12226768,
+        12226769,
+        12226770,
+        12226771
+      ]
+    },
+    {
+      "reference_id": "4773",
+      "genre": "article",
+      "title": "Opinion 1115",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "175",
+      "epage": "179",
+      "year": "1979",
+      "date": "1979-02-19",
+      "issn": "0007-5167",
+      "PageID": "12226772",
+      "created": "2010-01-02 20:48:35",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226772,
+        12226773,
+        12226774,
+        12226775,
+        12226776
+      ]
+    },
+    {
+      "reference_id": "4775",
+      "genre": "article",
+      "title": "Opinion 1116",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "180",
+      "epage": "183",
+      "year": "1979",
+      "date": "1979-02-19",
+      "issn": "0007-5167",
+      "PageID": "12226777",
+      "created": "2010-01-02 20:48:36",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226777,
+        12226778,
+        12226779,
+        12226780
+      ]
+    },
+    {
+      "reference_id": "74845",
+      "genre": "article",
+      "title": "Coluber Chiametla Shaw, 1802 (Reptilia, Serpentes): Revived Proposal For Suppression Under The Plenary Powers Z.n.(S.) 1704",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "184",
+      "epage": "186",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226781",
+      "created": "2011-06-10 12:00:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47839",
+          "lastname": "Smith",
+          "forename": "H M"
+        },
+        {
+          "id": "47840",
+          "lastname": "Smith",
+          "forename": "R B"
+        }
+      ],
+      "bhl_pages": [
+        12226781,
+        12226782,
+        12226783
+      ]
+    },
+    {
+      "reference_id": "74778",
+      "genre": "article",
+      "title": "Sterna Cerulea Bennett, 1840 (Aves): Proposed Conservation Under The Plenary Powers Z.n.(S.) 2233",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "187",
+      "epage": "188",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226784",
+      "created": "2011-06-10 11:58:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47815",
+          "lastname": "Bruce",
+          "forename": "M D"
+        },
+        {
+          "id": "47816",
+          "lastname": "Holyoak",
+          "forename": "D T"
+        },
+        {
+          "id": "47817",
+          "lastname": "Thibault",
+          "forename": "J-C"
+        }
+      ],
+      "bhl_pages": [
+        12226784,
+        12226785
+      ]
+    },
+    {
+      "reference_id": "74851",
+      "genre": "article",
+      "title": "Request For The Conservation Of Conus Fergusoni G.b. Sowerby Iii, 1873, Under The Plenary Powers (Gastropoda: Conidae) Z.n.(S.) 2239",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "189",
+      "epage": "191",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226786",
+      "created": "2011-06-10 12:01:05",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47844",
+          "lastname": "Tucker",
+          "forename": "J K"
+        }
+      ],
+      "bhl_pages": [
+        12226786,
+        12226787,
+        12226788
+      ]
+    },
+    {
+      "reference_id": "74793",
+      "genre": "article",
+      "title": "Comment On The Proposal To Place Hylobates Lar (Linnaeus, 1771) Z.n. (S.) 1844. Reply",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "197",
+      "epage": "198",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226804",
+      "created": "2011-06-10 11:59:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47823",
+          "lastname": "Groves",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        12226804,
+        12226805
+      ]
+    },
+    {
+      "reference_id": "74822",
+      "genre": "article",
+      "title": "Report Of The Committee On Typification Of Species Of Protozoa",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "200",
+      "epage": "208",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226807",
+      "created": "2011-06-10 12:00:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47783",
+          "lastname": "Melville",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        12226807,
+        12226808,
+        12226809,
+        12226810,
+        12226811,
+        12226812,
+        12226813,
+        12226814,
+        12226815
+      ]
+    },
+    {
+      "reference_id": "4777",
+      "genre": "article",
+      "title": "Opinion 1117",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "209",
+      "epage": "211",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226816",
+      "created": "2010-01-02 20:48:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226816,
+        12226817,
+        12226818
+      ]
+    },
+    {
+      "reference_id": "4779",
+      "genre": "article",
+      "title": "Opinion 1118",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "212",
+      "epage": "215",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226819",
+      "created": "2010-01-02 20:48:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226819,
+        12226820,
+        12226821,
+        12226822
+      ]
+    },
+    {
+      "reference_id": "4781",
+      "genre": "article",
+      "title": "Opinion 1119",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "216",
+      "epage": "220",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226823",
+      "created": "2010-01-02 20:48:45",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226823,
+        12226824,
+        12226825,
+        12226826,
+        12226827
+      ]
+    },
+    {
+      "reference_id": "4782",
+      "genre": "article",
+      "title": "Opinion 1120",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "221",
+      "epage": "222",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226828",
+      "created": "2010-01-02 20:48:47",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226828,
+        12226829
+      ]
+    },
+    {
+      "reference_id": "4784",
+      "genre": "article",
+      "title": "Opinion 1121",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "223",
+      "epage": "226",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226830",
+      "created": "2010-01-02 20:48:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226830,
+        12226831,
+        12226832,
+        12226833
+      ]
+    },
+    {
+      "reference_id": "4786",
+      "genre": "article",
+      "title": "Opinion 1122",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "227",
+      "epage": "228",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226834",
+      "created": "2010-01-02 20:48:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226834,
+        12226835
+      ]
+    },
+    {
+      "reference_id": "4788",
+      "genre": "article",
+      "title": "Opinion 1123",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "229",
+      "epage": "232",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226836",
+      "created": "2010-01-02 20:48:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226836,
+        12226837,
+        12226838,
+        12226839
+      ]
+    },
+    {
+      "reference_id": "4790",
+      "genre": "article",
+      "title": "Opinion 1124",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "233",
+      "epage": "235",
+      "year": "1979",
+      "date": "1979-05-31",
+      "issn": "0007-5167",
+      "PageID": "12226840",
+      "created": "2010-01-02 20:49:03",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        12226840,
+        12226841,
+        12226842
+      ]
+    },
+    {
+      "reference_id": "74825",
+      "genre": "article",
+      "title": "Lethocerus Mayr, 1853 (Insecta, Hemiptera, Belostomatidae); Proposed Conservation In Place Of Iliastus Gistel (1847)",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "236",
+      "epage": "238",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226843",
+      "created": "2011-06-10 12:00:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47832",
+          "lastname": "Menke",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        12226843,
+        12226844,
+        12226845
+      ]
+    },
+    {
+      "reference_id": "74800",
+      "genre": "article",
+      "title": "Toxostoma Crissale 'henry' [=Baird], 1858 (Aves: Mimidae); Proposed Conservation In Place Of Toxostoma Dorsale; With Proposed Addition To Article 32 Of The International Code Of Zoological Nomenclature. Z.n.(S.) 2215",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "239",
+      "epage": "242",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226846",
+      "created": "2011-06-10 11:59:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47827",
+          "lastname": "Hubbard",
+          "forename": "J P"
+        }
+      ],
+      "bhl_pages": [
+        12226846,
+        12226847,
+        12226848,
+        12226849
+      ]
+    },
+    {
+      "reference_id": "74836",
+      "genre": "article",
+      "title": "Lespesia Robineau desvoidy, 1863: Proposed Designation Of A Type species Under The Plenary Powers (Diptera, Tachinidae) Z.n.(S.) 2234",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "243",
+      "epage": "247",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226850",
+      "created": "2011-06-10 12:00:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47835",
+          "lastname": "Sabrosky",
+          "forename": "C W"
+        }
+      ],
+      "bhl_pages": [
+        12226850,
+        12226851,
+        12226852,
+        12226853,
+        12226854
+      ]
+    },
+    {
+      "reference_id": "74799",
+      "genre": "article",
+      "title": "Cancer Vocans Major Herbst, 1782 (Crustacea, Decapoda): Request For The Use Of The Plenary Powers To Validate A Neotype. Z.n. (S.) 2235",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "248",
+      "epage": "252",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226855",
+      "created": "2011-06-10 11:59:39",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "47826",
+          "lastname": "Holthuis",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        12226855,
+        12226856,
+        12226857,
+        12226858,
+        12226859
+      ]
+    },
+    {
+      "reference_id": "74776",
+      "genre": "article",
+      "title": "Chromodoris Californiensis Bergh, 1879 (May): Proposed Conservation Over Chromodoris Glauca Bergh, 1879 (March) (Mollusca: Gastropoda). Z.n.(S) 2253",
+      "secondary_title": "Bulletin of Zoological Nomenclature",
+      "volume": "35",
+      "spage": "253",
+      "epage": "256",
+      "year": "1979",
+      "date": "1979-00-00",
+      "issn": "0007-5167",
+      "PageID": "12226860",
+      "created": "2011-06-10 11:58:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40443",
+          "lastname": "Bertsch",
+          "forename": "H"
+        },
+        {
+          "id": "1098",
+          "lastname": "Burn",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        12226860,
+        12226861,
+        12226862,
+        12226863
+      ]
+    }
+  ]
+}

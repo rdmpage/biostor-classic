@@ -1,0 +1,113 @@
+{
+  "ItemID": "43709",
+  "FullTitle": "Kansas University quarterly.  ",
+  "VolumeInfo": "v.2 (1893-1894)",
+  "articles": [
+    {
+      "reference_id": "60599",
+      "genre": "article",
+      "title": "New genera and species of Psilopinae",
+      "secondary_title": "Kansas University Quarterly",
+      "volume": "2",
+      "spage": "47",
+      "epage": "50",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "1608205",
+      "PageID": "11953322",
+      "created": "2010-11-23 02:55:26",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8951",
+          "lastname": "Aldrich",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        11953322,
+        11953323,
+        11953324,
+        11953325
+      ]
+    },
+    {
+      "reference_id": "53320",
+      "genre": "article",
+      "title": "New or little-known Diptera",
+      "secondary_title": "Kansas University Quarterly",
+      "volume": "2",
+      "spage": "59",
+      "epage": "78",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "1608205",
+      "PageID": "11953336",
+      "created": "2010-10-26 20:13:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40819",
+          "lastname": "Williston",
+          "forename": "S W"
+        }
+      ],
+      "bhl_pages": [
+        11953336,
+        11953337,
+        11953338,
+        11953339,
+        11953340,
+        11953341,
+        11953342,
+        11953343,
+        11953344,
+        11953345,
+        11953346,
+        11953347,
+        11953348,
+        11953349,
+        11953350,
+        11953351,
+        11953352,
+        11953353,
+        11953354,
+        11953355
+      ]
+    },
+    {
+      "reference_id": "73154",
+      "genre": "article",
+      "title": "New genera and species of Dolichopodidae",
+      "secondary_title": "Kansas Univ. Quart",
+      "volume": "2",
+      "spage": "151",
+      "epage": "157",
+      "year": "1893",
+      "date": "1893-00-00",
+      "oclc": "1608205",
+      "PageID": "11953428",
+      "created": "2011-06-04 07:54:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8951",
+          "lastname": "Aldrich",
+          "forename": "J M"
+        }
+      ],
+      "bhl_pages": [
+        11953428,
+        11953429,
+        11953430,
+        11953431,
+        11953432,
+        11953433,
+        11953434
+      ]
+    }
+  ]
+}

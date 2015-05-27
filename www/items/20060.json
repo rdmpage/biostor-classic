@@ -1,0 +1,36 @@
+{
+  "ItemID": "20060",
+  "FullTitle": "Edinburgh Journal of Natural and Geographical Sciences.  ",
+  "VolumeInfo": "3",
+  "articles": [
+    {
+      "reference_id": "59944",
+      "genre": "article",
+      "title": "Descriptions of new or little known species of birds",
+      "secondary_title": "Edinburgh Journal of Natural History and Geographical Science",
+      "volume": "3",
+      "series": "ns",
+      "spage": "209",
+      "epage": "212",
+      "year": "1831",
+      "date": "1831-00-00",
+      "PageID": "2499546",
+      "created": "2010-11-22 17:09:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42720",
+          "lastname": "Jardine",
+          "forename": "W"
+        }
+      ],
+      "bhl_pages": [
+        2499546,
+        2499547,
+        2499548,
+        2499549
+      ]
+    }
+  ]
+}

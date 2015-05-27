@@ -1,0 +1,37 @@
+{
+  "ItemID": "35682",
+  "FullTitle": "Bericht der Senckenbergischen Naturforschenden Gesellschaft in Frankfurt am Main.",
+  "VolumeInfo": "bd. 46 (1916)",
+  "articles": [
+    {
+      "reference_id": "102242",
+      "genre": "article",
+      "title": "Die Moa",
+      "secondary_title": "Bericht der Senckenbergischen Naturforschenden Gesellschaft in Frankfurt am Main",
+      "volume": "46",
+      "spage": "1",
+      "epage": "5",
+      "year": "1916",
+      "date": "1916-00-00",
+      "oclc": "7602121",
+      "PageID": "8843343",
+      "created": "2012-03-31 21:56:53",
+      "updated": "2012-03-31 21:58:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53633",
+          "lastname": "Drevermann",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        8843343,
+        8843344,
+        8843345,
+        8843346,
+        8843347
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "ItemID": "33897",
+  "FullTitle": "The Great Basin naturalist.",
+  "VolumeInfo": "v.29 (1969)",
+  "articles": [
+    {
+      "reference_id": "53355",
+      "genre": "article",
+      "title": "Undescribed species of Nearctic Tipulidae (Diptera). X",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "1",
+      "epage": "10",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117437",
+      "created": "2010-10-26 22:11:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        8117437,
+        8117438,
+        8117439,
+        8117440,
+        8117441,
+        8117442,
+        8117443,
+        8117444,
+        8117445,
+        8117446
+      ]
+    },
+    {
+      "reference_id": "61227",
+      "genre": "article",
+      "title": "The Buprestidae and Cleridae of the Nevada Test Site (Coleoptera)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "issue": "1",
+      "spage": "11",
+      "epage": "19",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117447",
+      "created": "2010-12-21 08:23:56",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "13598",
+          "lastname": "Barr",
+          "forename": "William F"
+        }
+      ],
+      "bhl_pages": [
+        8117447,
+        8117448,
+        8117449,
+        8117450,
+        8117451,
+        8117452,
+        8117453,
+        8117454,
+        8117455
+      ]
+    },
+    {
+      "reference_id": "1225",
+      "genre": "article",
+      "title": "New records and distributional notes for reptiles of the Nevada test site",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "31",
+      "epage": "34",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117467",
+      "created": "2009-12-23 10:26:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "852",
+          "lastname": "Tanner",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8117467,
+        8117468,
+        8117469,
+        8117470
+      ]
+    },
+    {
+      "reference_id": "1226",
+      "genre": "article",
+      "title": "The ecology of the western spotted frog, Rana pretiosa pretiosa Baird and Girard, a life history study.",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "45",
+      "epage": "81",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117483",
+      "created": "2009-12-23 10:26:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "961",
+          "lastname": "Morris",
+          "forename": "R L"
+        },
+        {
+          "id": "962",
+          "lastname": "Tanner.",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        8117483,
+        8117484,
+        8117485,
+        8117486,
+        8117487,
+        8117488,
+        8117489,
+        8117490,
+        8117491,
+        8117492,
+        8117493,
+        8117494,
+        8117495,
+        8117496,
+        8117497,
+        8117498,
+        8117499,
+        8117500,
+        8117501,
+        8117502,
+        8117503,
+        8117504,
+        8117505,
+        8117506,
+        8117507,
+        8117508,
+        8117509,
+        8117510,
+        8117511,
+        8117512,
+        8117513,
+        8117514,
+        8117515,
+        8117516,
+        8117517,
+        8117518,
+        8117519
+      ]
+    },
+    {
+      "reference_id": "1224",
+      "genre": "article",
+      "title": "Fossil chelonians, Chrysemys and Clemmys, from the Upper Pliocene of Idaho",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "82",
+      "epage": "87",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117520",
+      "created": "2009-12-23 10:26:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "960",
+          "lastname": "Zug",
+          "forename": "G R"
+        }
+      ],
+      "bhl_pages": [
+        8117520,
+        8117521,
+        8117522,
+        8117523,
+        8117524,
+        8117525
+      ]
+    },
+    {
+      "reference_id": "70818",
+      "genre": "article",
+      "title": "Notes on the distribution and bionomics of some Idaho Cerambycidae (Coleoptera)",
+      "secondary_title": "Great Basin Naturalist, Provo",
+      "volume": "29",
+      "spage": "88",
+      "epage": "95",
+      "year": "1969",
+      "date": "1969-00-00",
+      "oclc": "1715991",
+      "PageID": "8117526",
+      "created": "2011-06-03 07:12:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46668",
+          "lastname": "F.",
+          "forename": "Barr W"
+        },
+        {
+          "id": "46478",
+          "lastname": "L.",
+          "forename": "Penrose R"
+        }
+      ],
+      "bhl_pages": [
+        8117526,
+        8117527,
+        8117528,
+        8117529,
+        8117530,
+        8117531,
+        8117532,
+        8117533
+      ]
+    },
+    {
+      "reference_id": "1227",
+      "genre": "article",
+      "title": "An albino Pacific tree frog, Hyla regilla, from Death Valley, California",
+      "secondary_title": "The Great Basin Naturalist",
+      "volume": "29",
+      "spage": "111",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117549",
+      "created": "2009-12-23 10:26:18",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "963",
+          "lastname": "Deacon",
+          "forename": "J E"
+        }
+      ],
+      "bhl_pages": [
+        8117549
+      ]
+    },
+    {
+      "reference_id": "85334",
+      "genre": "article",
+      "title": "New synonymy and records of Platy-podidae and Scolytidae (Coleoptera)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "113",
+      "epage": "128",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117553",
+      "created": "2011-08-12 09:25:44",
+      "updated": "2011-08-12 09:25:44",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8117553,
+        8117554,
+        8117555,
+        8117556,
+        8117557,
+        8117558,
+        8117559,
+        8117560,
+        8117561,
+        8117562,
+        8117563,
+        8117564,
+        8117565,
+        8117566,
+        8117567,
+        8117568
+      ]
+    },
+    {
+      "reference_id": "85381",
+      "genre": "article",
+      "title": "Zoogeographic and systematic notes on the lace bug tribe Litadeini, with the description of the new genus Stragulotingis (Hemiptera: Tingidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "129",
+      "epage": "132",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117569",
+      "created": "2011-08-12 09:30:02",
+      "updated": "2011-08-12 09:30:02",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8117569,
+        8117570,
+        8117571,
+        8117572
+      ]
+    },
+    {
+      "reference_id": "85280",
+      "genre": "article",
+      "title": "A new species of Oppia from Colorado (Cryptostigmata: Oppiidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "133",
+      "epage": "136",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117573",
+      "created": "2011-08-12 09:17:31",
+      "updated": "2011-08-12 09:17:31",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8117573,
+        8117574,
+        8117575,
+        8117576
+      ]
+    },
+    {
+      "reference_id": "85266",
+      "genre": "article",
+      "title": "A new genus and species of orbatid mite (Acari: Liacaroidea, Metrioppiidae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "137",
+      "epage": "139",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117577",
+      "created": "2011-08-12 09:16:22",
+      "updated": "2011-08-12 09:16:22",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8117577,
+        8117578,
+        8117579
+      ]
+    },
+    {
+      "reference_id": "85279",
+      "genre": "article",
+      "title": "A new species of Liacarus from a wood rat nest (Acarina: Cryptostigmata, Liacaridae)",
+      "secondary_title": "Great Basin Naturalist",
+      "volume": "29",
+      "spage": "140",
+      "epage": "142",
+      "year": "1969",
+      "date": "1969-00-00",
+      "issn": "0017-3614",
+      "PageID": "8117580",
+      "created": "2011-08-12 09:17:27",
+      "updated": "2011-08-12 09:17:27",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        8117580,
+        8117581,
+        8117582
+      ]
+    }
+  ]
+}

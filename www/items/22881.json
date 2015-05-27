@@ -1,0 +1,1522 @@
+{
+  "ItemID": "22881",
+  "FullTitle": "Proceedings of the Biological Society of Washington.",
+  "VolumeInfo": "v. 26 (1913)",
+  "articles": [
+    {
+      "reference_id": "82415",
+      "genre": "article",
+      "title": "Two new polecats related to Mustela larvata",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "1",
+      "epage": "3",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337748",
+      "created": "2011-07-31 03:16:39",
+      "updated": "2011-07-31 03:16:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50951",
+          "lastname": "Houister",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3337748,
+        3337749,
+        3337804
+      ]
+    },
+    {
+      "reference_id": "11266",
+      "genre": "article",
+      "title": "A revision of the American species of Peripatus",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "26",
+      "spage": "15",
+      "epage": "20",
+      "year": "1913",
+      "date": "1913-01-18",
+      "issn": "0006-324X",
+      "PageID": "3337754",
+      "created": "2010-01-07 13:21:46",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8510",
+          "lastname": "Clark",
+          "forename": "Austin Hobart"
+        }
+      ],
+      "bhl_pages": [
+        3337754,
+        3337755,
+        3337733,
+        3337756,
+        3337838,
+        3337757
+      ]
+    },
+    {
+      "reference_id": "81915",
+      "genre": "article",
+      "title": "Bird migration in the District of Columbia",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "21",
+      "epage": "25",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337834",
+      "created": "2011-07-31 02:43:11",
+      "updated": "2011-07-31 02:43:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50850",
+          "lastname": "Cooke",
+          "forename": "W W"
+        }
+      ],
+      "bhl_pages": [
+        3337834,
+        3337909,
+        3337759,
+        3337864,
+        3337871
+      ]
+    },
+    {
+      "reference_id": "3895",
+      "genre": "article",
+      "title": "Description of a new Uta from Nevada.",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "26",
+      "spage": "27",
+      "epage": "29",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337870",
+      "created": "2009-12-26 19:29:11",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2339",
+          "lastname": "Ruthve",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3337870,
+        3337849,
+        3337866
+      ]
+    },
+    {
+      "reference_id": "82879",
+      "genre": "article",
+      "title": "Five new mammals from tropical America",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "31",
+      "epage": "33",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337807",
+      "created": "2011-07-31 03:56:23",
+      "updated": "2011-07-31 03:56:23",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17865",
+          "lastname": "Miller",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        3337807,
+        3337809,
+        3337813
+      ]
+    },
+    {
+      "reference_id": "83608",
+      "genre": "article",
+      "title": "Dichromatism in Neotoma mexicana fallax from Costilla County, Colorado",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "35",
+      "epage": "37",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337762",
+      "created": "2011-07-31 04:59:56",
+      "updated": "2011-07-31 04:59:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51122",
+          "lastname": "Warren",
+          "forename": "E R"
+        }
+      ],
+      "bhl_pages": [
+        3337762,
+        3337763,
+        3337764
+      ]
+    },
+    {
+      "reference_id": "82696",
+      "genre": "article",
+      "title": "A list of plants collected on St. Vincent Island, Florida",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "39",
+      "epage": "51",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337916",
+      "created": "2011-07-31 03:41:52",
+      "updated": "2011-07-31 03:41:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2411",
+          "lastname": "Mcatee",
+          "forename": "W L"
+        }
+      ],
+      "bhl_pages": [
+        3337916,
+        3337917,
+        3337921,
+        3337918,
+        3337922,
+        3337924,
+        3337919,
+        3337920,
+        3337914,
+        3337923,
+        3337841,
+        3337772,
+        3337773
+      ]
+    },
+    {
+      "reference_id": "51779",
+      "genre": "article",
+      "title": "Description of a new subspecies of Rana pretiosa from Nevada",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "26",
+      "spage": "53",
+      "epage": "55",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337775",
+      "created": "2010-06-27 05:31:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40249",
+          "lastname": "Thompson",
+          "forename": "H B"
+        }
+      ],
+      "bhl_pages": [
+        3337775,
+        3337776,
+        3337766
+      ]
+    },
+    {
+      "reference_id": "83067",
+      "genre": "article",
+      "title": "The name of the Rocky Mountain sheep",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "57",
+      "epage": "61",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337779",
+      "created": "2011-07-31 04:10:52",
+      "updated": "2011-07-31 04:10:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45105",
+          "lastname": "Osgood",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3337779,
+        3337780,
+        3337862,
+        3337781,
+        3337899
+      ]
+    },
+    {
+      "reference_id": "99310",
+      "genre": "article",
+      "title": "A new hummingbird of the genus Chlorostilbon from Brazil",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "63",
+      "epage": "63",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337902",
+      "created": "2011-12-13 22:01:47",
+      "updated": "2011-12-13 22:01:47",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3337902
+      ]
+    },
+    {
+      "reference_id": "82201",
+      "genre": "article",
+      "title": "A new generic name for the Asiatic tapir",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "65",
+      "epage": "66",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337783",
+      "created": "2011-07-31 03:01:20",
+      "updated": "2011-07-31 03:01:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45098",
+          "lastname": "Goldman",
+          "forename": "E A"
+        }
+      ],
+      "bhl_pages": [
+        3337783,
+        3337854
+      ]
+    },
+    {
+      "reference_id": "82989",
+      "genre": "article",
+      "title": "A new subspecies of nun bird from Panama",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "67",
+      "epage": "68",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337867",
+      "created": "2011-07-31 04:04:56",
+      "updated": "2011-07-31 04:04:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49673",
+          "lastname": "Nelson",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        3337867,
+        3337901
+      ]
+    },
+    {
+      "reference_id": "3898",
+      "genre": "article",
+      "title": "A new lizard from Porto Rico.",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "26",
+      "spage": "69",
+      "epage": "71",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337912",
+      "created": "2009-12-26 19:29:20",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "498",
+          "lastname": "Stejneger",
+          "forename": "L"
+        }
+      ],
+      "bhl_pages": [
+        3337912,
+        3337872,
+        3337784
+      ]
+    },
+    {
+      "reference_id": "82880",
+      "genre": "article",
+      "title": "A new pteropine bat from Luzon",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "73",
+      "epage": "74",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337785",
+      "created": "2011-07-31 03:56:36",
+      "updated": "2011-07-31 03:56:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17865",
+          "lastname": "Miller",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        3337785,
+        3337898
+      ]
+    },
+    {
+      "reference_id": "81885",
+      "genre": "article",
+      "title": "The scales of the simenchelyid, ophidiid, brotulid and bregmacerotid fishes",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "75",
+      "epage": "77",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337873",
+      "created": "2011-07-31 02:41:33",
+      "updated": "2011-07-31 02:41:33",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3337873,
+        3337856,
+        3337786
+      ]
+    },
+    {
+      "reference_id": "99312",
+      "genre": "article",
+      "title": "Ellimma, a genus of fossil herrings",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "79",
+      "epage": "79",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337788",
+      "created": "2011-12-13 22:01:55",
+      "updated": "2011-12-13 22:01:55",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3337788
+      ]
+    },
+    {
+      "reference_id": "82881",
+      "genre": "article",
+      "title": "Some overlooked names of Sicilian mammals",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "80",
+      "epage": "81",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337850",
+      "created": "2011-07-31 03:56:39",
+      "updated": "2011-07-31 03:56:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17865",
+          "lastname": "Miller",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        3337850,
+        3337789
+      ]
+    },
+    {
+      "reference_id": "83266",
+      "genre": "article",
+      "title": "The king rail of Cuba",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "83",
+      "epage": "85",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337869",
+      "created": "2011-07-31 04:34:15",
+      "updated": "2011-07-31 04:34:15",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49793",
+          "lastname": "Riley",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        3337869,
+        3337790,
+        3337791
+      ]
+    },
+    {
+      "reference_id": "11272",
+      "genre": "article",
+      "title": "A Peripatus from Guatemala",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "26",
+      "spage": "87",
+      "epage": "88",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337892",
+      "created": "2010-01-07 13:40:26",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3337892,
+        3337881
+      ]
+    },
+    {
+      "reference_id": "81886",
+      "genre": "article",
+      "title": "The scales of the blennioid fishes",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "89",
+      "epage": "91",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337882",
+      "created": "2011-07-31 02:41:36",
+      "updated": "2011-07-31 02:41:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3337882,
+        3337891,
+        3337792
+      ]
+    },
+    {
+      "reference_id": "81576",
+      "genre": "article",
+      "title": "The green heron of the Maldives",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "93",
+      "epage": "94",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337793",
+      "created": "2011-07-31 02:22:27",
+      "updated": "2011-07-31 02:22:27",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "783",
+          "lastname": "Bangs",
+          "forename": "O"
+        }
+      ],
+      "bhl_pages": [
+        3337793,
+        3337876
+      ]
+    },
+    {
+      "reference_id": "82273",
+      "genre": "article",
+      "title": "Natural history notes on some Beaufort, N.C, fishes, -1912",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "97",
+      "epage": "109",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337794",
+      "created": "2011-07-31 03:06:05",
+      "updated": "2011-07-31 03:06:05",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50927",
+          "lastname": "Gudger",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        3337794,
+        3337727,
+        3337734,
+        3337842,
+        3337795,
+        3337796,
+        3337817,
+        3337797,
+        3337798,
+        3337815,
+        3337816,
+        3337819,
+        3337799
+      ]
+    },
+    {
+      "reference_id": "82416",
+      "genre": "article",
+      "title": "Two new Philippine fruit bats",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "111",
+      "epage": "112",
+      "year": "1913",
+      "date": "1913-05-03",
+      "issn": "0006-324X",
+      "PageID": "3337803",
+      "created": "2011-07-31 03:16:44",
+      "updated": "2012-05-14 17:33:40",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42457",
+          "lastname": "Hollister",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3337803,
+        3337925
+      ]
+    },
+    {
+      "reference_id": "82882",
+      "genre": "article",
+      "title": "A new shrew from Balistan",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "113",
+      "epage": "114",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337843",
+      "created": "2011-07-31 03:56:42",
+      "updated": "2011-07-31 03:56:42",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17865",
+          "lastname": "Miller",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        3337843,
+        3337729
+      ]
+    },
+    {
+      "reference_id": "83429",
+      "genre": "article",
+      "title": "Five new plants from New Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "115",
+      "epage": "119",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337926",
+      "created": "2011-07-31 04:48:14",
+      "updated": "2011-07-31 04:48:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43250",
+          "lastname": "Standley",
+          "forename": "P C"
+        }
+      ],
+      "bhl_pages": [
+        3337926,
+        3337927,
+        3337858,
+        3337928,
+        3337929
+      ]
+    },
+    {
+      "reference_id": "83499",
+      "genre": "article",
+      "title": "Novitates Florae Utahensis",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "121",
+      "epage": "122",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337932",
+      "created": "2011-07-31 04:53:04",
+      "updated": "2011-07-31 04:53:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51106",
+          "lastname": "Tidestrom",
+          "forename": "I"
+        }
+      ],
+      "bhl_pages": [
+        3337932,
+        3337897
+      ]
+    },
+    {
+      "reference_id": "82509",
+      "genre": "article",
+      "title": "Two new weasels from the United States",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "123",
+      "epage": "124",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337883",
+      "created": "2011-07-31 03:24:53",
+      "updated": "2011-07-31 03:24:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50920",
+          "lastname": "Jackson",
+          "forename": "H H T"
+        }
+      ],
+      "bhl_pages": [
+        3337883,
+        3337859
+      ]
+    },
+    {
+      "reference_id": "82333",
+      "genre": "article",
+      "title": "Notes on the pikas of Colorado",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "125",
+      "epage": "128",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337933",
+      "created": "2011-07-31 03:10:34",
+      "updated": "2011-07-31 03:10:34",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50940",
+          "lastname": "Henderson",
+          "forename": "J"
+        },
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3337933,
+        3337830,
+        3337934,
+        3337811
+      ]
+    },
+    {
+      "reference_id": "81497",
+      "genre": "article",
+      "title": "Ten new mammals from New Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "129",
+      "epage": "134",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337935",
+      "created": "2011-07-31 02:17:08",
+      "updated": "2011-07-31 02:17:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50781",
+          "lastname": "Bailey",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        3337935,
+        3337936,
+        3337736,
+        3337823,
+        3337937,
+        3337824
+      ]
+    },
+    {
+      "reference_id": "82808",
+      "genre": "article",
+      "title": "Six new ground squirrels of the Citellus mollis group from Idaho, Oregon, and Nevada",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "135",
+      "epage": "138",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337938",
+      "created": "2011-07-31 03:50:08",
+      "updated": "2011-07-31 03:50:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50998",
+          "lastname": "Merriam",
+          "forename": "C H"
+        }
+      ],
+      "bhl_pages": [
+        3337938,
+        3337939,
+        3337767,
+        3337829
+      ]
+    },
+    {
+      "reference_id": "82476",
+      "genre": "article",
+      "title": "Description of a new weasel from Alabama",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "139",
+      "epage": "140",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337940",
+      "created": "2011-07-31 03:21:47",
+      "updated": "2011-07-31 03:21:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50956",
+          "lastname": "Howell",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        3337940,
+        3337941
+      ]
+    },
+    {
+      "reference_id": "58576",
+      "genre": "article",
+      "title": "A revision of the crinoid family Mariametridae",
+      "secondary_title": "Proceedings of the Biological Society of Washington",
+      "volume": "26",
+      "spage": "141",
+      "epage": "144",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337726",
+      "created": "2010-11-20 21:55:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "798",
+          "lastname": "Clark",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        3337726,
+        3337821,
+        3337769,
+        3337840
+      ]
+    },
+    {
+      "reference_id": "3877",
+      "genre": "article",
+      "title": "Reptiles and amphibians from eastern Sudan.",
+      "secondary_title": "Proc. Biol. Soc. Washington",
+      "volume": "26",
+      "spage": "145",
+      "epage": "150",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337905",
+      "created": "2009-12-26 19:28:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2337",
+          "lastname": "Barbour",
+          "forename": "T R"
+        }
+      ],
+      "bhl_pages": [
+        3337905,
+        3337852,
+        3337942,
+        3337943,
+        3337944,
+        3337863
+      ]
+    },
+    {
+      "reference_id": "83006",
+      "genre": "article",
+      "title": "On two new characins in the American Museum",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "151",
+      "epage": "152",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337878",
+      "created": "2011-07-31 04:06:12",
+      "updated": "2011-07-31 04:06:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17863",
+          "lastname": "Nichols",
+          "forename": "J T"
+        }
+      ],
+      "bhl_pages": [
+        3337878,
+        3337732
+      ]
+    },
+    {
+      "reference_id": "83267",
+      "genre": "article",
+      "title": "The Bahama bam owl",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "153",
+      "epage": "154",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337885",
+      "created": "2011-07-31 04:34:20",
+      "updated": "2011-07-31 04:34:20",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49793",
+          "lastname": "Riley",
+          "forename": "J H"
+        }
+      ],
+      "bhl_pages": [
+        3337885,
+        3337947
+      ]
+    },
+    {
+      "reference_id": "82561",
+      "genre": "article",
+      "title": "A new bot-fly from reindeer",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "155",
+      "epage": "156",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337948",
+      "created": "2011-07-31 03:28:35",
+      "updated": "2011-07-31 03:28:35",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40794",
+          "lastname": "Knab",
+          "forename": "F"
+        }
+      ],
+      "bhl_pages": [
+        3337948,
+        3337949
+      ]
+    },
+    {
+      "reference_id": "82417",
+      "genre": "article",
+      "title": "Two new bats of the genus Taphozous",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "157",
+      "epage": "158",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337810",
+      "created": "2011-07-31 03:16:49",
+      "updated": "2011-07-31 03:16:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42457",
+          "lastname": "Hollister",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3337810,
+        3337950
+      ]
+    },
+    {
+      "reference_id": "82431",
+      "genre": "article",
+      "title": "Nine new Thysanoptera from the United States",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "161",
+      "epage": "166",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337951",
+      "created": "2011-07-31 03:18:06",
+      "updated": "2011-07-31 03:18:06",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42360",
+          "lastname": "Hood",
+          "forename": "J D"
+        }
+      ],
+      "bhl_pages": [
+        3337951,
+        3337825,
+        3337814,
+        3337738,
+        3337908,
+        3337952
+      ]
+    },
+    {
+      "reference_id": "83156",
+      "genre": "article",
+      "title": "Two new African birds",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "167",
+      "epage": "168",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337895",
+      "created": "2011-07-31 04:24:24",
+      "updated": "2011-07-31 04:24:24",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51040",
+          "lastname": "Phillips",
+          "forename": "J C"
+        }
+      ],
+      "bhl_pages": [
+        3337895,
+        3337913
+      ]
+    },
+    {
+      "reference_id": "83511",
+      "genre": "article",
+      "title": "Preliminary diagnoses of apparently new birds from tropical America",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "169",
+      "epage": "174",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337855",
+      "created": "2011-07-31 04:53:46",
+      "updated": "2011-07-31 04:53:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49937",
+          "lastname": "Todd",
+          "forename": "W E C"
+        }
+      ],
+      "bhl_pages": [
+        3337855,
+        3337875,
+        3337861,
+        3337890,
+        3337906,
+        3337887
+      ]
+    },
+    {
+      "reference_id": "83068",
+      "genre": "article",
+      "title": "Two new mouse opossums from Yucatan",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "175",
+      "epage": "176",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337868",
+      "created": "2011-07-31 04:10:55",
+      "updated": "2011-07-31 04:10:55",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45105",
+          "lastname": "Osgood",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        3337868,
+        3337877
+      ]
+    },
+    {
+      "reference_id": "81843",
+      "genre": "article",
+      "title": "Description of a collection of unstalked crinoids made by Captain Suenson in eastern Aia",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "177",
+      "epage": "182",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337903",
+      "created": "2011-07-31 02:38:21",
+      "updated": "2011-07-31 02:38:21",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "798",
+          "lastname": "Clark",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        3337903,
+        3337956,
+        3337957,
+        3337958,
+        3337853,
+        3337884
+      ]
+    },
+    {
+      "reference_id": "82990",
+      "genre": "article",
+      "title": "A new bat from the eastern United States",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "183",
+      "epage": "184",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337961",
+      "created": "2011-07-31 04:05:00",
+      "updated": "2011-07-31 04:05:00",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49673",
+          "lastname": "Nelson",
+          "forename": "E W"
+        }
+      ],
+      "bhl_pages": [
+        3337961,
+        3337962
+      ]
+    },
+    {
+      "reference_id": "81590",
+      "genre": "article",
+      "title": "The remarkable life-history of a new family (Micromalthidae) of beetles",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "185",
+      "epage": "190",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337963",
+      "created": "2011-07-31 02:23:12",
+      "updated": "2011-07-31 02:23:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9075",
+          "lastname": "Barber",
+          "forename": "H S"
+        }
+      ],
+      "bhl_pages": [
+        3337963,
+        3337894,
+        3337964,
+        3337965,
+        3337904,
+        3337966
+      ]
+    },
+    {
+      "reference_id": "81498",
+      "genre": "article",
+      "title": "Two new subspecies of North American beavers",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "191",
+      "epage": "193",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337967",
+      "created": "2011-07-31 02:17:12",
+      "updated": "2011-07-31 02:17:12",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50781",
+          "lastname": "Bailey",
+          "forename": "V"
+        }
+      ],
+      "bhl_pages": [
+        3337967,
+        3337847,
+        3337818
+      ]
+    },
+    {
+      "reference_id": "83430",
+      "genre": "article",
+      "title": "A new Dodecatheon from New Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "195",
+      "epage": "196",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337846",
+      "created": "2011-07-31 04:48:17",
+      "updated": "2011-07-31 04:48:17",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43250",
+          "lastname": "Standley",
+          "forename": "P C"
+        }
+      ],
+      "bhl_pages": [
+        3337846,
+        3337968
+      ]
+    },
+    {
+      "reference_id": "82883",
+      "genre": "article",
+      "title": "Two new murine rodents from Baltistan",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "197",
+      "epage": "198",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337969",
+      "created": "2011-07-31 03:56:46",
+      "updated": "2011-07-31 03:56:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17865",
+          "lastname": "Miller",
+          "forename": "G S"
+        }
+      ],
+      "bhl_pages": [
+        3337969,
+        3337820
+      ]
+    },
+    {
+      "reference_id": "82477",
+      "genre": "article",
+      "title": "Descriptions of two new birds from Alabama",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "199",
+      "epage": "202",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337970",
+      "created": "2011-07-31 03:21:50",
+      "updated": "2011-07-31 03:21:51",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "50956",
+          "lastname": "Howell",
+          "forename": "A H"
+        }
+      ],
+      "bhl_pages": [
+        3337970,
+        3337971,
+        3337836,
+        3337827
+      ]
+    },
+    {
+      "reference_id": "81887",
+      "genre": "article",
+      "title": "Some plants from New Mexico",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "203",
+      "epage": "204",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337828",
+      "created": "2011-07-31 02:41:39",
+      "updated": "2011-07-31 02:41:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        }
+      ],
+      "bhl_pages": [
+        3337828,
+        3337972
+      ]
+    },
+    {
+      "reference_id": "81895",
+      "genre": "article",
+      "title": "The relative lengths of the large and small intestines in rodents",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "205",
+      "epage": "207",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337722",
+      "created": "2011-07-31 02:42:04",
+      "updated": "2011-07-31 02:42:04",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2319",
+          "lastname": "Cockerell",
+          "forename": "T D A"
+        },
+        {
+          "id": "50840",
+          "lastname": "Miller",
+          "forename": "L I"
+        },
+        {
+          "id": "50841",
+          "lastname": "Printz",
+          "forename": "M"
+        }
+      ],
+      "bhl_pages": [
+        3337722,
+        3337973,
+        3337839
+      ]
+    },
+    {
+      "reference_id": "82450",
+      "genre": "article",
+      "title": "Parallelism in morphological characters and physiological characteristics in scolytoid beetles",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "209",
+      "epage": "211",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337974",
+      "created": "2011-07-31 03:19:47",
+      "updated": "2011-07-31 03:19:47",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49864",
+          "lastname": "Hopkins",
+          "forename": "A D"
+        }
+      ],
+      "bhl_pages": [
+        3337974,
+        3337975,
+        3337976
+      ]
+    },
+    {
+      "reference_id": "81463",
+      "genre": "article",
+      "title": "A new bat from Tonkin",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "213",
+      "epage": "214",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337977",
+      "created": "2011-07-31 02:14:56",
+      "updated": "2011-07-31 02:14:56",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "784",
+          "lastname": "Allen",
+          "forename": "G M"
+        }
+      ],
+      "bhl_pages": [
+        3337977,
+        3337719
+      ]
+    },
+    {
+      "reference_id": "82418",
+      "genre": "article",
+      "title": "Three new subspecies of grasshopper mice",
+      "secondary_title": "Proceedings of The Biological Society of Washington",
+      "volume": "26",
+      "spage": "215",
+      "epage": "216",
+      "year": "1913",
+      "date": "1913-00-00",
+      "issn": "0006-324X",
+      "PageID": "3337978",
+      "created": "2011-07-31 03:17:08",
+      "updated": "2011-07-31 03:17:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42457",
+          "lastname": "Hollister",
+          "forename": "N"
+        }
+      ],
+      "bhl_pages": [
+        3337978,
+        3337979
+      ]
+    }
+  ]
+}

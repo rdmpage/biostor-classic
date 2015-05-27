@@ -1,0 +1,130 @@
+{
+  "ItemID": "61921",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 18 (1856)",
+  "articles": [
+    {
+      "reference_id": "90419",
+      "genre": "article",
+      "title": "Occurrence of Clausilia Mortilleti, Dumont, in Kent",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "2",
+      "spage": "74",
+      "epage": "75",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935608697587",
+      "PageID": "18685522",
+      "created": "2011-09-28 13:17:50",
+      "updated": "2011-09-28 13:17:50",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42677",
+          "lastname": "Benson",
+          "forename": "W H"
+        }
+      ],
+      "bhl_pages": [
+        18685522,
+        18685523
+      ]
+    },
+    {
+      "reference_id": "90375",
+      "genre": "article",
+      "title": "IX. \u2014 On the development and propagation of Sph\u00e6roplea annulina",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "2",
+      "spage": "81",
+      "epage": "94",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935608697594",
+      "PageID": "18685529",
+      "created": "2011-09-28 13:12:43",
+      "updated": "2011-09-28 13:12:43",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51958",
+          "lastname": "Cohn",
+          "forename": "Ferdinand"
+        }
+      ],
+      "bhl_pages": [
+        18685529,
+        18685530,
+        18685531,
+        18685532,
+        18685533,
+        18685534,
+        18685535,
+        18685536,
+        18685537,
+        18685538,
+        18685539,
+        18685540,
+        18685541,
+        18685542
+      ]
+    },
+    {
+      "reference_id": "90442",
+      "genre": "article",
+      "title": "Trees and their nature, or the bud and its attributes. By Alex. Harvey, A.M., M.D. &c. London, 1856",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "2",
+      "spage": "165",
+      "epage": "166",
+      "year": "1856",
+      "date": "1856-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222935608697606",
+      "PageID": "18685613",
+      "created": "2011-09-28 13:20:32",
+      "updated": "2011-09-28 13:20:32",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        18685613,
+        18685614
+      ]
+    },
+    {
+      "reference_id": "93654",
+      "genre": "article",
+      "title": "XLVI.\u2014Description of a new species of saw-fly from Albania",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "18",
+      "series": "5",
+      "spage": "497",
+      "epage": "497",
+      "year": "1886",
+      "date": "1886-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222938609460001",
+      "PageID": "18685945",
+      "created": "2011-09-29 14:45:38",
+      "updated": "2011-09-29 14:45:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10318",
+          "lastname": "Kirby",
+          "forename": "W F"
+        }
+      ],
+      "bhl_pages": [
+        18685945
+      ]
+    }
+  ]
+}

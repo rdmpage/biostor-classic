@@ -1,0 +1,81 @@
+{
+  "ItemID": "72154",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "2nd ser. v. 13 (1854)",
+  "articles": [
+    {
+      "reference_id": "93271",
+      "genre": "article",
+      "title": "On the development of the Comatul\u00e6",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "5",
+      "spage": "310",
+      "epage": "312",
+      "year": "1884",
+      "date": "1884-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222938409459246",
+      "PageID": "22193642",
+      "created": "2011-09-29 13:39:39",
+      "updated": "2011-09-29 13:39:39",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52428",
+          "lastname": "Perrier",
+          "forename": "M E"
+        }
+      ],
+      "bhl_pages": [
+        22193642,
+        22193643,
+        22193644
+      ]
+    },
+    {
+      "reference_id": "89987",
+      "genre": "article",
+      "title": "XXXV.\u2014Notices of British Fungi",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "13",
+      "series": "2",
+      "spage": "396",
+      "epage": "407",
+      "year": "1854",
+      "date": "1854-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/03745485709496362",
+      "PageID": "22193728",
+      "created": "2011-09-28 12:27:08",
+      "updated": "2011-09-28 12:27:08",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "2698",
+          "lastname": "Berkeley",
+          "forename": "M J"
+        },
+        {
+          "id": "51892",
+          "lastname": "Broome",
+          "forename": "C E"
+        }
+      ],
+      "bhl_pages": [
+        22193728,
+        22193729,
+        22193730,
+        22193731,
+        22193732,
+        22193733,
+        22193734,
+        22193735,
+        22193736,
+        22193737,
+        22193738,
+        22193739
+      ]
+    }
+  ]
+}

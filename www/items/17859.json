@@ -1,0 +1,105 @@
+{
+  "ItemID": "17859",
+  "FullTitle": "Biologisches Zentralblatt.",
+  "VolumeInfo": "bd. 39 (1919)",
+  "articles": [
+    {
+      "reference_id": "59073",
+      "genre": "article",
+      "title": "Stammesgeschichte der Hautfl\u00fcgler",
+      "secondary_title": "Biologisches Zentralblatt",
+      "volume": "39",
+      "spage": "145",
+      "epage": "186",
+      "year": "1919",
+      "date": "1919-00-00",
+      "oclc": "1536443",
+      "PageID": "1763736",
+      "created": "2010-11-20 23:44:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42108",
+          "lastname": "B\u00f6rner",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        1763736,
+        1763737,
+        1763756,
+        1763757,
+        1763758,
+        1763759,
+        1763760,
+        1763761,
+        1763762,
+        1763763,
+        1763764,
+        1763765,
+        1763766,
+        1763767,
+        1763768,
+        1763769,
+        1763770,
+        1763771,
+        1763772,
+        1763773,
+        1763774,
+        1763775,
+        1763776,
+        1763777,
+        1763778,
+        1763779,
+        1763780,
+        1763781,
+        1763782,
+        1763783,
+        1763784,
+        1763785,
+        1763786,
+        1763787,
+        1763788,
+        1763789,
+        1763790,
+        1763791,
+        1763792,
+        1763793,
+        1763794,
+        1763795
+      ]
+    },
+    {
+      "reference_id": "65107",
+      "genre": "article",
+      "title": "Zur Kenntnis der Symbiose niederer pflanzlicher Organismen mit Pediculiden",
+      "secondary_title": "Biologisches Zentralblatt",
+      "volume": "39",
+      "spage": "535",
+      "epage": "540",
+      "year": "1920",
+      "date": "1920-00-00",
+      "oclc": "1536443",
+      "PageID": "1763556",
+      "created": "2011-01-31 14:13:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "44770",
+          "lastname": "Buchner",
+          "forename": "P"
+        }
+      ],
+      "bhl_pages": [
+        1763556,
+        1763557,
+        1763702,
+        1763703,
+        1763704,
+        1763705
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ItemID": "22771",
+  "FullTitle": "Transactions and proceedings of the New Zealand Institute.",
+  "VolumeInfo": "v.48 (1915)",
+  "articles": [
+    {
+      "reference_id": "58953",
+      "genre": "article",
+      "title": "Additions to the knowledge of the Recent and Tertiary Brachiopoda of New Zealand and Australia",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "48",
+      "spage": "41",
+      "epage": "47",
+      "year": "1916",
+      "date": "1916-00-00",
+      "oclc": "1778777",
+      "PageID": "3303092",
+      "created": "2010-11-20 23:16:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42208",
+          "lastname": "Thomson",
+          "forename": "J A"
+        }
+      ],
+      "bhl_pages": [
+        3303092,
+        3303093,
+        3303516,
+        3303094,
+        3303189,
+        3303517,
+        3303095
+      ]
+    },
+    {
+      "reference_id": "58891",
+      "genre": "article",
+      "title": "Some Australian and New Zealand Gammaridae",
+      "secondary_title": "Transactions of the New Zealand Institute",
+      "volume": "48",
+      "spage": "359",
+      "epage": "370",
+      "year": "1916",
+      "date": "1916-00-00",
+      "oclc": "1778777",
+      "PageID": "3303382",
+      "created": "2010-11-20 23:07:50",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40851",
+          "lastname": "Chilton",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        3303382,
+        3303622,
+        3303383,
+        3303623,
+        3303384,
+        3303171,
+        3303119,
+        3303385,
+        3303386,
+        3303387,
+        3303388,
+        3303389
+      ]
+    },
+    {
+      "reference_id": "58882",
+      "genre": "article",
+      "title": "Notes on New Zealand Polychaetes. II",
+      "secondary_title": "Transactions and Proceedings of the New Zealand Institute",
+      "volume": "48",
+      "spage": "386",
+      "epage": "396",
+      "year": "1916",
+      "date": "1916-00-00",
+      "oclc": "1778777",
+      "PageID": "3303630",
+      "created": "2010-11-20 23:06:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40743",
+          "lastname": "Benham",
+          "forename": "W B"
+        }
+      ],
+      "bhl_pages": [
+        3303630,
+        3303631,
+        3303632,
+        3303633,
+        3303634,
+        3303154,
+        3303635,
+        3303636,
+        3303400,
+        3303637,
+        3303401
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "ItemID": "34147",
+  "FullTitle": "Bulletin de la Soci\u00e9t\u00e9 entomologique de France.  ",
+  "VolumeInfo": "1917",
+  "articles": [
+    {
+      "reference_id": "73875",
+      "genre": "article",
+      "title": "Questions de nomenclature et synonymies relatives \u00e0 quelques genres et esp\u00e8ces de Formicides (Hym.)",
+      "secondary_title": "Bull. Soc. Entomol. Fr.",
+      "volume": "1917",
+      "spage": "94",
+      "epage": "97",
+      "year": "1917",
+      "date": "1917-00-00",
+      "issn": "0037-928X",
+      "PageID": "8243942",
+      "created": "2011-06-08 09:41:48",
+      "updated": "2011-10-03 09:30:57",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "18307",
+          "lastname": "Emery",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        8243942,
+        8243943,
+        8243944,
+        8243945
+      ]
+    },
+    {
+      "reference_id": "67022",
+      "genre": "article",
+      "title": "Holom\u00e9taboliques du houiller",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1917",
+      "spage": "268",
+      "epage": "270",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1765811",
+      "PageID": "8244156",
+      "created": "2011-05-11 21:11:07",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41411",
+          "lastname": "Lameere",
+          "forename": "A"
+        }
+      ],
+      "bhl_pages": [
+        8244156,
+        8244157,
+        8244158
+      ]
+    },
+    {
+      "reference_id": "71137",
+      "genre": "article",
+      "title": "Description d'un nouveau genre et d'une nouvelle esp\u00e8ce d'Issidae des hauts plateaux alg\u00e9riens",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1917",
+      "spage": "309",
+      "epage": "312",
+      "year": "1917",
+      "date": "1917-00-00",
+      "oclc": "1765811",
+      "PageID": "8244205",
+      "created": "2011-06-03 17:57:14",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46764",
+          "lastname": "E.",
+          "forename": "De Bergevin"
+        }
+      ],
+      "bhl_pages": [
+        8244205,
+        8244206,
+        8244207,
+        8244208
+      ]
+    },
+    {
+      "reference_id": "71141",
+      "genre": "article",
+      "title": "Description d'une nouvelle esp\u00e8ce d'Hysteroptorum (H\u00e9m. Issidae) de la province d'Oran (Alg\u00e9rie)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1917",
+      "spage": "338",
+      "epage": "342",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1765811",
+      "PageID": "8244238",
+      "created": "2011-06-03 17:57:30",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46764",
+          "lastname": "E.",
+          "forename": "De Bergevin"
+        }
+      ],
+      "bhl_pages": [
+        8244238,
+        8244239,
+        8244240,
+        8244241,
+        8244242
+      ]
+    },
+    {
+      "reference_id": "57266",
+      "genre": "article",
+      "title": "Araign\u00e9e nouvelle d'Australie (Arachn. Psechridae)",
+      "secondary_title": "Bull. Soc. ent. France",
+      "volume": "1917",
+      "spage": "350",
+      "epage": "351",
+      "year": "1918",
+      "date": "1918-00-00",
+      "issn": "0037-928X",
+      "PageID": "8244254",
+      "created": "2010-11-18 13:37:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "41998",
+          "lastname": "De Dalmas",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        8244254,
+        8244255
+      ]
+    },
+    {
+      "reference_id": "71143",
+      "genre": "article",
+      "title": "Description d'une nouvelle esp\u00e8ce d'Hysteroptorum (H\u00e9m. Issidae) des hauts plateaux constantinois (Alg\u00e9rie)",
+      "secondary_title": "Bulletin de la Soci\u00e9t\u00e9 Entomologique de France",
+      "volume": "1917",
+      "spage": "374",
+      "epage": "377",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "1765811",
+      "PageID": "8244280",
+      "created": "2011-06-03 17:57:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46764",
+          "lastname": "E.",
+          "forename": "De Bergevin"
+        }
+      ],
+      "bhl_pages": [
+        8244280,
+        8244281,
+        8244282,
+        8244283
+      ]
+    }
+  ]
+}

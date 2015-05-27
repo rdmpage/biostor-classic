@@ -1,0 +1,919 @@
+{
+  "ItemID": "48981",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.1 1933-1941",
+  "articles": [
+    {
+      "reference_id": "62604",
+      "genre": "article",
+      "title": "Studies of New and Noteworthy Tropical American Plants-I",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "5",
+      "epage": "18",
+      "year": "1933",
+      "date": "1933-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790560",
+      "created": "2011-01-26 21:15:55",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790560,
+        13790559,
+        13790558,
+        13790557,
+        13790556,
+        13790555,
+        13790554,
+        13790553,
+        13790552,
+        13790551,
+        13790550,
+        13790549,
+        13790548,
+        13790515
+      ]
+    },
+    {
+      "reference_id": "63233",
+      "genre": "article",
+      "title": "Three New Species From the A.E. Lawrance Collection",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "20",
+      "epage": "22",
+      "year": "1933",
+      "date": "1933-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790517",
+      "created": "2011-01-26 21:49:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43259",
+          "lastname": "Smith",
+          "forename": "A C"
+        }
+      ],
+      "bhl_pages": [
+        13790517,
+        13790518,
+        13790519
+      ]
+    },
+    {
+      "reference_id": "62235",
+      "genre": "article",
+      "title": "Studies on the flora of northern South America---XVIII. Plantae Lawranceanae Colombianae",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "25",
+      "epage": "38",
+      "year": "1933",
+      "date": "1933-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790522",
+      "created": "2011-01-26 20:23:02",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8527",
+          "lastname": "Gleason",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        13790522,
+        13790523,
+        13790524,
+        13790525,
+        13790526,
+        13790527,
+        13790528,
+        13790529,
+        13790530,
+        13790531,
+        13790532,
+        13790533,
+        13790534,
+        13790535
+      ]
+    },
+    {
+      "reference_id": "63190",
+      "genre": "article",
+      "title": "New Species of Plants of the Ladew Expedition to Bolivia",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "49",
+      "epage": "80",
+      "year": "1934",
+      "date": "1934-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790571",
+      "created": "2011-01-26 21:47:16",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43623",
+          "lastname": "Rusby",
+          "forename": "H H"
+        }
+      ],
+      "bhl_pages": [
+        13790571,
+        13790572,
+        13790573,
+        13790574,
+        13790575,
+        13790576,
+        13790577,
+        13790578,
+        13790579,
+        13790580,
+        13790581,
+        13790582,
+        13790583,
+        13790584,
+        13790585,
+        13790586,
+        13790587,
+        13790588,
+        13790589,
+        13790590,
+        13790591,
+        13790592,
+        13790593,
+        13790594,
+        13790595,
+        13790596,
+        13790597,
+        13790598,
+        13790599,
+        13790600,
+        13790601,
+        13790602
+      ]
+    },
+    {
+      "reference_id": "63246",
+      "genre": "article",
+      "title": "Taxonomic notes on American phanerogams",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "81",
+      "epage": "82",
+      "year": "1934",
+      "date": "1934-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790603",
+      "created": "2011-01-26 21:50:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43244",
+          "lastname": "Smith",
+          "forename": "L B"
+        }
+      ],
+      "bhl_pages": [
+        13790603,
+        13790604
+      ]
+    },
+    {
+      "reference_id": "62145",
+      "genre": "article",
+      "title": "The Mahonias of the Pacific states",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "89",
+      "epage": "94",
+      "year": "1934",
+      "date": "1934-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790611",
+      "created": "2011-01-26 20:13:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8523",
+          "lastname": "Abrams",
+          "forename": "Leroy"
+        }
+      ],
+      "bhl_pages": [
+        13790611,
+        13790612,
+        13790613,
+        13790614,
+        13790615,
+        13790616
+      ]
+    },
+    {
+      "reference_id": "62147",
+      "genre": "article",
+      "title": "New Species of Plants from Guatemala",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "145",
+      "epage": "150",
+      "year": "1935",
+      "date": "1935-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790675",
+      "created": "2011-01-26 20:14:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43128",
+          "lastname": "#morton",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        13790675,
+        13790676,
+        13790677,
+        13790678,
+        13790679,
+        13790680
+      ]
+    },
+    {
+      "reference_id": "62832",
+      "genre": "article",
+      "title": "The genus Besleria in British Guiana",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "151",
+      "epage": "153",
+      "year": "1935",
+      "date": "1935-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790681",
+      "created": "2011-01-26 21:32:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8687",
+          "lastname": "Morton",
+          "forename": "C V"
+        }
+      ],
+      "bhl_pages": [
+        13790681,
+        13790682,
+        13790683
+      ]
+    },
+    {
+      "reference_id": "62589",
+      "genre": "article",
+      "title": "Nomenclatural and taxonomic notes",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "167",
+      "epage": "171",
+      "year": "1935",
+      "date": "1935-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790697",
+      "created": "2011-01-26 21:14:34",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790697,
+        13790698,
+        13790699,
+        13790700,
+        13790701
+      ]
+    },
+    {
+      "reference_id": "62562",
+      "genre": "article",
+      "title": "Chanekia, a new genus in the Lauraceae",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "177",
+      "epage": "181",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790711",
+      "created": "2011-01-26 21:12:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13790711,
+        13790712,
+        13790713,
+        13790714,
+        13790715
+      ]
+    },
+    {
+      "reference_id": "62141",
+      "genre": "article",
+      "title": "Studies of Mexican and Central American Plants - II",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "212",
+      "epage": "222",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790750",
+      "created": "2011-01-26 20:13:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43326",
+          "lastname": "#lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13790750,
+        13790751,
+        13790752,
+        13790753,
+        13790754,
+        13790755,
+        13790756,
+        13790757,
+        13790758,
+        13790759,
+        13790760
+      ]
+    },
+    {
+      "reference_id": "62617",
+      "genre": "article",
+      "title": "Additional notes on the genus Aegiphila -- II",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "222",
+      "epage": "240",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790760",
+      "created": "2011-01-26 21:16:40",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790760,
+        13790761,
+        13790762,
+        13790763,
+        13790764,
+        13790765,
+        13790766,
+        13790767,
+        13790768,
+        13790769,
+        13790770,
+        13790771,
+        13790772,
+        13790773,
+        13790774,
+        13790775,
+        13790776,
+        13790777,
+        13790778
+      ]
+    },
+    {
+      "reference_id": "62563",
+      "genre": "article",
+      "title": "Studies of Mexican and Central American plants--III (a)",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "241",
+      "epage": "247",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790783",
+      "created": "2011-01-26 21:12:22",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13790783,
+        13790784,
+        13790785,
+        13790786,
+        13790787,
+        13790788,
+        13790789
+      ]
+    },
+    {
+      "reference_id": "62618",
+      "genre": "article",
+      "title": "Additional notes on the genus Aegiphila---III",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "248",
+      "epage": "272",
+      "year": "1937",
+      "date": "1937-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790790",
+      "created": "2011-01-26 21:16:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790790,
+        13790791,
+        13790792,
+        13790793,
+        13790794,
+        13790795,
+        13790796,
+        13790797,
+        13790798,
+        13790799,
+        13790800,
+        13790801,
+        13790802,
+        13790803,
+        13790804,
+        13790805,
+        13790806,
+        13790807,
+        13790808,
+        13790809,
+        13790810,
+        13790811,
+        13790812,
+        13790813,
+        13790814
+      ]
+    },
+    {
+      "reference_id": "62620",
+      "genre": "article",
+      "title": "Studies of new and noteworthy tropical American plants - III",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "273",
+      "epage": "284",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790819",
+      "created": "2011-01-26 21:16:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790819,
+        13790820,
+        13790821,
+        13790822,
+        13790823,
+        13790824,
+        13790825,
+        13790826,
+        13790827,
+        13790828,
+        13790829,
+        13790830
+      ]
+    },
+    {
+      "reference_id": "62525",
+      "genre": "article",
+      "title": "Two new species of Plenckia",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "284",
+      "epage": "286",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790830",
+      "created": "2011-01-26 21:09:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13790830,
+        13790831,
+        13790832
+      ]
+    },
+    {
+      "reference_id": "62494",
+      "genre": "article",
+      "title": "Two New Species of Erythrina from Central America",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "286",
+      "epage": "289",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790832",
+      "created": "2011-01-26 21:07:29",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9043",
+          "lastname": "Krukoff",
+          "forename": "B A"
+        }
+      ],
+      "bhl_pages": [
+        13790832,
+        13790833,
+        13790834,
+        13790835
+      ]
+    },
+    {
+      "reference_id": "62619",
+      "genre": "article",
+      "title": "Additional Notes on the Genus Aegiphila - IV",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "289",
+      "epage": "304",
+      "year": "1938",
+      "date": "1938-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790835",
+      "created": "2011-01-26 21:16:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790835,
+        13790836,
+        13790837,
+        13790838,
+        13790839,
+        13790840,
+        13790841,
+        13790842,
+        13790843,
+        13790844,
+        13790845,
+        13790846,
+        13790847,
+        13790848,
+        13790849,
+        13790850
+      ]
+    },
+    {
+      "reference_id": "62564",
+      "genre": "article",
+      "title": "Six new trees and shrubs from tropical North America",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "305",
+      "epage": "309",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790855",
+      "created": "2011-01-26 21:12:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13790855,
+        13790856,
+        13790857,
+        13790858,
+        13790859
+      ]
+    },
+    {
+      "reference_id": "62526",
+      "genre": "article",
+      "title": "New or otherwise noteworthy plants from Mexico and Central America",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "337",
+      "epage": "340",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790891",
+      "created": "2011-01-26 21:09:23",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13790891,
+        13790892,
+        13790893,
+        13790894
+      ]
+    },
+    {
+      "reference_id": "62341",
+      "genre": "article",
+      "title": "Four Central American melastomes",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "340",
+      "epage": "343",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790894",
+      "created": "2011-01-26 20:55:46",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8527",
+          "lastname": "Gleason",
+          "forename": "H A"
+        }
+      ],
+      "bhl_pages": [
+        13790894,
+        13790895,
+        13790896,
+        13790897
+      ]
+    },
+    {
+      "reference_id": "62621",
+      "genre": "article",
+      "title": "Additional Notes on the Eriocaulaceae - II",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "343",
+      "epage": "364",
+      "year": "1939",
+      "date": "1939-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790897",
+      "created": "2011-01-26 21:16:57",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790897,
+        13790898,
+        13790899,
+        13790900,
+        13790901,
+        13790902,
+        13790903,
+        13790904,
+        13790905,
+        13790906,
+        13790907,
+        13790908,
+        13790909,
+        13790910,
+        13790911,
+        13790912,
+        13790913,
+        13790914,
+        13790915,
+        13790916,
+        13790917,
+        13790918
+      ]
+    },
+    {
+      "reference_id": "62547",
+      "genre": "article",
+      "title": "Additions to the flora of Mexico and Central America (a)",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "369",
+      "epage": "372",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790927",
+      "created": "2011-01-26 21:11:20",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13790927,
+        13790928,
+        13790929,
+        13790930
+      ]
+    },
+    {
+      "reference_id": "62622",
+      "genre": "article",
+      "title": "Additional notes on the genus Aegiphila - VI",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "372",
+      "epage": "400",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0031-9430",
+      "PageID": "13790930",
+      "created": "2011-01-26 21:16:59",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43534",
+          "lastname": "Moldenke",
+          "forename": "H N"
+        }
+      ],
+      "bhl_pages": [
+        13790930,
+        13790931,
+        13790932,
+        13790933,
+        13790934,
+        13790935,
+        13790936,
+        13790937,
+        13790938,
+        13790939,
+        13790940,
+        13790941,
+        13790942,
+        13790943,
+        13790944,
+        13790945,
+        13790946,
+        13790947,
+        13790948,
+        13790949,
+        13790950,
+        13790951,
+        13790952,
+        13790953,
+        13790954,
+        13790955,
+        13790956,
+        13790957,
+        13790958
+      ]
+    },
+    {
+      "reference_id": "62548",
+      "genre": "article",
+      "title": "Noteworthy Spermatophytes from Mexico & Central America (a)",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "449",
+      "epage": "453",
+      "year": "1940",
+      "date": "1940-00-00",
+      "issn": "0031-9430",
+      "PageID": "13791019",
+      "created": "2011-01-26 21:11:25",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13791019,
+        13791020,
+        13791021,
+        13791022,
+        13791023
+      ]
+    },
+    {
+      "reference_id": "62549",
+      "genre": "article",
+      "title": "Three new trees from Tabasco and Campeche",
+      "secondary_title": "Phytologia",
+      "volume": "1",
+      "spage": "481",
+      "epage": "482",
+      "year": "1941",
+      "date": "1941-00-00",
+      "issn": "0031-9430",
+      "PageID": "13791055",
+      "created": "2011-01-26 21:11:27",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43510",
+          "lastname": "Lundell",
+          "forename": "C L"
+        }
+      ],
+      "bhl_pages": [
+        13791055,
+        13791056
+      ]
+    }
+  ]
+}

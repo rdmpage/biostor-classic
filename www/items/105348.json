@@ -1,0 +1,42 @@
+{
+  "ItemID": "105348",
+  "FullTitle": "Revue et magasin de zoologie pure et appliqu\u00e9e.",
+  "VolumeInfo": "ser. 3, v. 2 (1874)",
+  "articles": [
+    {
+      "reference_id": "103283",
+      "genre": "article",
+      "title": "Notices ichthyologiques",
+      "secondary_title": "Revue et Magasin de Zoologie",
+      "volume": "2",
+      "series": "3",
+      "spage": "332",
+      "epage": "340",
+      "year": "1874",
+      "date": "1874-00-00",
+      "oclc": "1764157",
+      "PageID": "33777817",
+      "created": "2012-05-20 12:09:23",
+      "updated": "2012-05-20 12:13:11",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "53752",
+          "lastname": "Sauvage",
+          "forename": "H E"
+        }
+      ],
+      "bhl_pages": [
+        33777817,
+        33777818,
+        33777819,
+        33777820,
+        33777821,
+        33777824,
+        33777825,
+        33777826,
+        33777827
+      ]
+    }
+  ]
+}

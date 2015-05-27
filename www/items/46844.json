@@ -1,0 +1,103 @@
+{
+  "ItemID": "46844",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.79 no.4 1995",
+  "articles": [
+    {
+      "reference_id": "62309",
+      "genre": "article",
+      "title": "The genus Tetranema (Scrophulariaceae) in Costa Rica, with two new species",
+      "secondary_title": "Phytologia",
+      "volume": "79",
+      "spage": "269",
+      "epage": "280",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12985895",
+      "created": "2011-01-26 20:30:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43427",
+          "lastname": "Grayum",
+          "forename": "M H"
+        },
+        {
+          "id": "43428",
+          "lastname": "Hammel",
+          "forename": "B"
+        }
+      ],
+      "bhl_pages": [
+        12985895,
+        12985896,
+        12985897,
+        12985898,
+        12985899,
+        12985900,
+        12985901,
+        12985902,
+        12985903,
+        12985904,
+        12985905,
+        12985906
+      ]
+    },
+    {
+      "reference_id": "63489",
+      "genre": "article",
+      "title": "A new species of Verbesina (Asteraceae) from Oaxaca, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "79",
+      "spage": "296",
+      "epage": "297",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12985922",
+      "created": "2011-01-26 22:02:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12985922,
+        12985923
+      ]
+    },
+    {
+      "reference_id": "63487",
+      "genre": "article",
+      "title": "A new species of Stevia (Asteraceae) from Cerro Quiexobra, Oaxaca, Mexico",
+      "secondary_title": "Phytologia",
+      "volume": "79",
+      "spage": "301",
+      "epage": "302",
+      "year": "1995",
+      "date": "1995-00-00",
+      "issn": "0031-9430",
+      "PageID": "12985927",
+      "created": "2011-01-26 22:01:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8845",
+          "lastname": "Turner",
+          "forename": "B L"
+        }
+      ],
+      "bhl_pages": [
+        12985927,
+        12985928
+      ]
+    }
+  ]
+}

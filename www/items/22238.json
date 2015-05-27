@@ -1,0 +1,167 @@
+{
+  "ItemID": "22238",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 6 (1874)",
+  "articles": [
+    {
+      "reference_id": "67043",
+      "genre": "article",
+      "title": "List of Neuroptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "6",
+      "spage": "45",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0008-347X",
+      "PageID": "3103561",
+      "created": "2011-05-12 07:28:12",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "45429",
+          "lastname": "Pettit",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3103561
+      ]
+    },
+    {
+      "reference_id": "100664",
+      "genre": "article",
+      "title": "Micro-Lepidoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "6",
+      "spage": "149",
+      "epage": "153",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0008-347X",
+      "PageID": "3103701",
+      "created": "2012-01-26 16:31:58",
+      "updated": "2012-01-26 16:33:49",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42860",
+          "lastname": "Chambers",
+          "forename": "V T"
+        }
+      ],
+      "bhl_pages": [
+        3103701,
+        3103591,
+        3103702,
+        3103703,
+        3103704
+      ]
+    },
+    {
+      "reference_id": "100145",
+      "genre": "article",
+      "title": "Micro-Lepidoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "6",
+      "issue": "9",
+      "spage": "166",
+      "epage": "170",
+      "year": "1874",
+      "date": "1874-09-00",
+      "issn": "0008-347X",
+      "PageID": "3103709",
+      "created": "2012-01-01 19:41:56",
+      "updated": "2012-01-01 19:59:14",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42860",
+          "lastname": "Chambers",
+          "forename": "V T"
+        }
+      ],
+      "bhl_pages": [
+        3103709,
+        3103710,
+        3103528,
+        3103529,
+        3103598
+      ]
+    },
+    {
+      "reference_id": "100146",
+      "genre": "article",
+      "title": "Micro-Lepidoptera",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "6",
+      "issue": "10",
+      "spage": "197",
+      "epage": "198",
+      "year": "1874",
+      "date": "1874-10-00",
+      "issn": "0008-347X",
+      "PageID": "3103717",
+      "created": "2012-01-01 20:00:15",
+      "updated": "2012-01-01 20:01:36",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42860",
+          "lastname": "Chambers",
+          "forename": "V T"
+        }
+      ],
+      "bhl_pages": [
+        3103717,
+        3103718
+      ]
+    },
+    {
+      "reference_id": "67049",
+      "genre": "article",
+      "title": "Tineina from Texas",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "6",
+      "spage": "229",
+      "epage": "249",
+      "year": "1874",
+      "date": "1874-00-00",
+      "issn": "0008-347X",
+      "PageID": "3103617",
+      "created": "2011-05-12 07:28:43",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "42860",
+          "lastname": "Chambers",
+          "forename": "V T"
+        }
+      ],
+      "bhl_pages": [
+        3103617,
+        3103542,
+        3103733,
+        3103734,
+        3103618,
+        3103619,
+        3103474,
+        3103735,
+        3103620,
+        3103736,
+        3103621,
+        3103622,
+        3103496,
+        3103623,
+        3103624,
+        3103737,
+        3103497,
+        3103498,
+        3103625,
+        3103738,
+        3103626
+      ]
+    }
+  ]
+}

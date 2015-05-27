@@ -1,0 +1,112 @@
+{
+  "ItemID": "61864",
+  "FullTitle": "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History.",
+  "VolumeInfo": "4th ser. v. 4 (1869)",
+  "articles": [
+    {
+      "reference_id": "91721",
+      "genre": "article",
+      "title": "III.\u2014On a new Volute",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "4",
+      "spage": "34",
+      "epage": "34",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936908695993",
+      "PageID": "18662973",
+      "created": "2011-09-28 16:39:38",
+      "updated": "2011-09-28 16:39:38",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "51857",
+          "lastname": "M'coy",
+          "forename": "Frederick"
+        }
+      ],
+      "bhl_pages": [
+        18662973
+      ]
+    },
+    {
+      "reference_id": "92714",
+      "genre": "article",
+      "title": "XXVII.\u2014On some new species of Graptolites",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "4",
+      "spage": "231",
+      "epage": "242",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936908696041",
+      "PageID": "18663170",
+      "created": "2011-09-28 18:23:53",
+      "updated": "2011-09-28 18:23:54",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "52352",
+          "lastname": "Nicholson",
+          "forename": "Henry Alleyne"
+        }
+      ],
+      "bhl_pages": [
+        18663170,
+        18663171,
+        18663172,
+        18663173,
+        18663174,
+        18663175,
+        18663176,
+        18663177,
+        18663178,
+        18663179,
+        18663180,
+        18663181
+      ]
+    },
+    {
+      "reference_id": "92809",
+      "genre": "article",
+      "title": "XXXIX.\u2014Descriptions of some new American phyllopod Crustacea",
+      "secondary_title": "Annals And Magazine of Natural History",
+      "volume": "4",
+      "series": "4",
+      "spage": "331",
+      "epage": "341",
+      "year": "1869",
+      "date": "1869-00-00",
+      "issn": "0374-5481",
+      "doi": "10.1080\/00222936908696066",
+      "PageID": "18663270",
+      "created": "2011-09-28 18:31:46",
+      "updated": "2011-09-28 18:31:46",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "40221",
+          "lastname": "Verrill",
+          "forename": "A E"
+        }
+      ],
+      "bhl_pages": [
+        18663270,
+        18663271,
+        18663272,
+        18663273,
+        18663274,
+        18663275,
+        18663276,
+        18663277,
+        18663278,
+        18663279,
+        18663280
+      ]
+    }
+  ]
+}

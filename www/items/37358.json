@@ -1,0 +1,36 @@
+{
+  "ItemID": "37358",
+  "FullTitle": "Notes from the Leyden Museum.",
+  "VolumeInfo": "v.22 (1900-1901)",
+  "articles": [
+    {
+      "reference_id": "20682",
+      "genre": "article",
+      "title": "A new species of Arius",
+      "secondary_title": "Notes from the Leyden Museum",
+      "volume": "22",
+      "spage": "71",
+      "epage": "74",
+      "year": "1900",
+      "date": "1900-00-00",
+      "oclc": "25797076",
+      "PageID": "9646124",
+      "created": "2010-02-09 18:32:18",
+      "updated": "2011-11-21 20:19:26",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "17901",
+          "lastname": "Popta",
+          "forename": "C M L"
+        }
+      ],
+      "bhl_pages": [
+        9646124,
+        9646125,
+        9646126,
+        9646127
+      ]
+    }
+  ]
+}

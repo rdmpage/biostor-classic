@@ -1,0 +1,59 @@
+{
+  "ItemID": "21156",
+  "FullTitle": "University of Kansas publications, Museum of Natural History.",
+  "VolumeInfo": "v.1 (1946-1950)",
+  "articles": [
+    {
+      "reference_id": "67327",
+      "genre": "article",
+      "title": "Eucalyptus",
+      "secondary_title": "University of Kansas",
+      "volume": "1",
+      "spage": "1",
+      "issn": "0075-5036",
+      "PageID": "2806966",
+      "created": "2011-05-26 04:57:21",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        2806966
+      ]
+    },
+    {
+      "reference_id": "51869",
+      "genre": "article",
+      "title": "A new hylid frog from eastern Mexico",
+      "secondary_title": "University of Kansas Publications. Museum of Natural History",
+      "volume": "1",
+      "spage": "257",
+      "epage": "264",
+      "year": "1948",
+      "date": "1948-00-00",
+      "issn": "0075-5036",
+      "PageID": "2807157",
+      "created": "2010-06-27 09:04:32",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "831",
+          "lastname": "Taylor",
+          "forename": "E H"
+        }
+      ],
+      "bhl_pages": [
+        2807157,
+        2807158,
+        2807159,
+        2807160,
+        2807161,
+        2807162,
+        2807163,
+        2807164
+      ]
+    }
+  ]
+}

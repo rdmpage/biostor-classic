@@ -1,0 +1,398 @@
+{
+  "ItemID": "22098",
+  "FullTitle": "The Canadian entomologist.  ",
+  "VolumeInfo": "v. 53 (1922)",
+  "articles": [
+    {
+      "reference_id": "59155",
+      "genre": "article",
+      "title": "A new classification of the order Perlaria",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "53",
+      "spage": "35",
+      "epage": "43",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045583",
+      "created": "2010-11-21 00:24:58",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "9012",
+          "lastname": "Tillyard",
+          "forename": "R J"
+        }
+      ],
+      "bhl_pages": [
+        3045583,
+        3045584,
+        3045585,
+        3045586,
+        3045587,
+        3045588,
+        3045589,
+        3045590,
+        3045591
+      ]
+    },
+    {
+      "reference_id": "99996",
+      "genre": "article",
+      "title": "A new species of Coptodisca (Lepid.)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "53",
+      "spage": "44",
+      "epage": "44",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045592",
+      "created": "2011-12-21 09:11:46",
+      "updated": "2011-12-21 09:11:46",
+      "TitlePageID": "0",
+      "authors": [
+        
+      ],
+      "bhl_pages": [
+        3045592
+      ]
+    },
+    {
+      "reference_id": "99997",
+      "genre": "article",
+      "title": "Notes on Coptodisca kalmiella Dietz, a leafminer of Kalmia angustifolia",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "53",
+      "issue": "2",
+      "spage": "44",
+      "epage": "45",
+      "year": "1921",
+      "date": "1921-02-00",
+      "issn": "0008-347X",
+      "PageID": "3045592",
+      "created": "2011-12-21 09:30:23",
+      "updated": "2011-12-21 09:31:28",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "49336",
+          "lastname": "Weiss",
+          "forename": "H B"
+        },
+        {
+          "id": "53382",
+          "lastname": "Beckwith",
+          "forename": "C S"
+        }
+      ],
+      "bhl_pages": [
+        3045592,
+        3045593
+      ]
+    },
+    {
+      "reference_id": "73644",
+      "genre": "article",
+      "title": "A synopsis of the North American species of the genus Melanochelia Rondani and Limnophora R.-D. (Diptera, Anthomyiidae)",
+      "secondary_title": "Can. Ent",
+      "volume": "53",
+      "spage": "61",
+      "epage": "64",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045609",
+      "created": "2011-06-04 09:30:51",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        3045609,
+        3045610,
+        3045611,
+        3045612
+      ]
+    },
+    {
+      "reference_id": "72641",
+      "genre": "article",
+      "title": "A new genus and a new species of spiders in the group Phrurolitheae",
+      "secondary_title": "Canad. Ent",
+      "volume": "53",
+      "spage": "69",
+      "epage": "70",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045617",
+      "created": "2011-06-04 02:51:15",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "789",
+          "lastname": "Chamberlin",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        3045617,
+        3045618
+      ]
+    },
+    {
+      "reference_id": "73573",
+      "genre": "article",
+      "title": "Synopses of some North American Anthomyiidae (Diptera)",
+      "secondary_title": "Can. Ent",
+      "volume": "53",
+      "spage": "76",
+      "epage": "79",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045624",
+      "created": "2011-06-04 09:22:13",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        3045624,
+        3045625,
+        3045626,
+        3045627
+      ]
+    },
+    {
+      "reference_id": "73636",
+      "genre": "article",
+      "title": "A synopsis of the North American species of the genus Helina R.-D., sens. lat. (Diptera, Anthomyiidae)",
+      "secondary_title": "Can. Ent",
+      "volume": "53",
+      "spage": "103",
+      "epage": "109",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045651",
+      "created": "2011-06-04 09:28:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "8962",
+          "lastname": "Malloch",
+          "forename": "J R"
+        }
+      ],
+      "bhl_pages": [
+        3045651,
+        3045652,
+        3045653,
+        3045654,
+        3045655,
+        3045656,
+        3045657
+      ]
+    },
+    {
+      "reference_id": "13809",
+      "genre": "article",
+      "title": "New Nearctic crane-flies (Tipulidae, Diptera). Part XI",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "53",
+      "spage": "132",
+      "epage": "137",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045680",
+      "created": "2010-01-13 11:09:52",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3045680,
+        3045681,
+        3045682,
+        3045683,
+        3045684,
+        3045685
+      ]
+    },
+    {
+      "reference_id": "73199",
+      "genre": "article",
+      "title": "A revision of the Canadian species of the affinis group of the genus Tabanus (Diptera)",
+      "secondary_title": "Can. Ent",
+      "volume": "53",
+      "spage": "139",
+      "epage": "144",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045689",
+      "created": "2011-06-04 08:00:41",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "1202",
+          "lastname": "Mcdunnough",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        3045689,
+        3045690,
+        3045691,
+        3045692,
+        3045693,
+        3045694
+      ]
+    },
+    {
+      "reference_id": "13810",
+      "genre": "article",
+      "title": "Undescribed eriopterine crane-flies from Argentina (Tipulidae, Diptera)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "53",
+      "spage": "162",
+      "epage": "166",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045712",
+      "created": "2010-01-13 11:09:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3045712,
+        3045713,
+        3045714,
+        3045715,
+        3045716
+      ]
+    },
+    {
+      "reference_id": "13811",
+      "genre": "article",
+      "title": "New species of crane-flies from North Queensland (Tipulidae, Diptera)",
+      "secondary_title": "Canadian Entomologist",
+      "volume": "53",
+      "spage": "205",
+      "epage": "211",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045755",
+      "created": "2010-01-13 11:09:54",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "10085",
+          "lastname": "Alexander",
+          "forename": "C P"
+        }
+      ],
+      "bhl_pages": [
+        3045755,
+        3045756,
+        3045757,
+        3045758,
+        3045759,
+        3045760,
+        3045761
+      ]
+    },
+    {
+      "reference_id": "72545",
+      "genre": "article",
+      "title": "On some arachnids from southern Utah",
+      "secondary_title": "Canad. Ent",
+      "volume": "53",
+      "spage": "245",
+      "epage": "247",
+      "year": "1921",
+      "date": "1921-00-00",
+      "issn": "0008-347X",
+      "PageID": "3045795",
+      "created": "2011-06-04 02:26:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "789",
+          "lastname": "Chamberlin",
+          "forename": "R V"
+        }
+      ],
+      "bhl_pages": [
+        3045795,
+        3045796,
+        3045797
+      ]
+    },
+    {
+      "reference_id": "72254",
+      "genre": "article",
+      "title": "A review of the genus Monochamus Serv. (Cerambycidae, Coleoptera)",
+      "secondary_title": "The Canadian Entomologist, Ontario",
+      "volume": "53",
+      "spage": "252",
+      "epage": "259",
+      "year": "1921",
+      "date": "1921-00-00",
+      "oclc": "1553087",
+      "PageID": "3045802",
+      "created": "2011-06-04 00:57:53",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46993",
+          "lastname": "Hopping",
+          "forename": "R"
+        }
+      ],
+      "bhl_pages": [
+        3045802,
+        3045803,
+        3045804,
+        3045805,
+        3045806,
+        3045807,
+        3045808,
+        3045809
+      ]
+    }
+  ]
+}

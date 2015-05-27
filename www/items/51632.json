@@ -1,0 +1,116 @@
+{
+  "ItemID": "51632",
+  "FullTitle": "The American entomologist.  ",
+  "VolumeInfo": "v. 3 1880",
+  "articles": [
+    {
+      "reference_id": "72237",
+      "genre": "article",
+      "title": "Borers in black ash",
+      "secondary_title": "The American Entomologist",
+      "volume": "3",
+      "spage": "22",
+      "epage": "23",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "8886684",
+      "PageID": "14914255",
+      "created": "2011-06-04 00:52:37",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46922",
+          "lastname": "Riley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        14914255,
+        14914256
+      ]
+    },
+    {
+      "reference_id": "72156",
+      "genre": "article",
+      "title": "The Coleopterous Parasites of the Common Hickory (Carya tomentosa)",
+      "secondary_title": "The American Entomologist (n.s.)",
+      "volume": "3",
+      "spage": "236",
+      "epage": "237",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "8886684",
+      "PageID": "14914486",
+      "created": "2011-06-04 00:40:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46911",
+          "lastname": "Leconte",
+          "forename": "J"
+        }
+      ],
+      "bhl_pages": [
+        14914486,
+        14914487
+      ]
+    },
+    {
+      "reference_id": "71973",
+      "genre": "article",
+      "title": "Food habits of the longicorn beetles or wood borers",
+      "secondary_title": "The American Entomologist",
+      "volume": "3",
+      "spage": "237",
+      "epage": "239",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "8886684",
+      "PageID": "14914487",
+      "created": "2011-06-03 23:55:01",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46922",
+          "lastname": "Riley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        14914487,
+        14914488,
+        14914489
+      ]
+    },
+    {
+      "reference_id": "72095",
+      "genre": "article",
+      "title": "Food habits of the longicorn beetles or wood borers",
+      "secondary_title": "The American Entomologist",
+      "volume": "3",
+      "spage": "270",
+      "epage": "271",
+      "year": "1880",
+      "date": "1880-00-00",
+      "oclc": "8886684",
+      "PageID": "14914520",
+      "created": "2011-06-04 00:28:44",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46922",
+          "lastname": "Riley",
+          "forename": "C"
+        }
+      ],
+      "bhl_pages": [
+        14914520,
+        14914521
+      ]
+    }
+  ]
+}

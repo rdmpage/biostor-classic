@@ -1,0 +1,53 @@
+{
+  "author": [
+    {
+      "firstname": "Peter S",
+      "lastname": "Broomfield",
+      "name": "Peter S Broomfield"
+    }
+  ],
+  "type": "article",
+  "title": "Taxonomy of Neotropical Derbidae in the new tribe Mysidiini (Homoptera)",
+  "journal": {
+    "name": "Bulletin of the British Museum (Natural History) Entomology",
+    "volume": "50",
+    "issue": "1",
+    "pages": "1--152",
+    "identifier": [
+      {
+        "type": "issn",
+        "id": "0524-6431"
+      }
+    ]
+  },
+  "year": "1985",
+  "link": [
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/biostor.org\/reference\/154"
+    },
+    {
+      "anchor": "LINK",
+      "url": "http:\/\/www.biodiversitylibrary.org\/page\/2325772"
+    }
+  ],
+  "identifier": [
+    {
+      "type": "biostor",
+      "id": 154
+    },
+    {
+      "type": "bhl",
+      "id": 2325772
+    }
+  ],
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        -51.783333333333,
+        -12.833333333333
+      ]
+    ]
+  }
+}

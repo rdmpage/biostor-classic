@@ -1,0 +1,79 @@
+{
+  "ItemID": "37008",
+  "FullTitle": "Monitore zoologico italiano.",
+  "VolumeInfo": "v. 29 (1918)",
+  "articles": [
+    {
+      "reference_id": "71415",
+      "genre": "article",
+      "title": "Sopra varie Gryllacris delle isole Filippine raccolte dal Dott. C. F. Baker",
+      "secondary_title": "Monitore Zoologico Italiano",
+      "volume": "29",
+      "spage": "20",
+      "epage": "32",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "819064",
+      "PageID": "9481236",
+      "created": "2011-06-03 19:47:10",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "46412",
+          "lastname": "",
+          "forename": "Griffini"
+        }
+      ],
+      "bhl_pages": [
+        9481236,
+        9481237,
+        9481238,
+        9481239,
+        9481240,
+        9481241,
+        9481242,
+        9481243,
+        9481244,
+        9481245,
+        9481246,
+        9481247,
+        9481248
+      ]
+    },
+    {
+      "reference_id": "105340",
+      "genre": "article",
+      "title": "Crostacei Decapodi raccolti nella Somalia",
+      "secondary_title": "Monitore zoologico italiano",
+      "volume": "29",
+      "spage": "100",
+      "epage": "108",
+      "year": "1918",
+      "date": "1918-00-00",
+      "oclc": "819064",
+      "PageID": "9481320",
+      "created": "2012-07-18 09:58:52",
+      "updated": "2012-07-18 10:01:52",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "54000",
+          "lastname": "Paoli",
+          "forename": "Stefanni E"
+        }
+      ],
+      "bhl_pages": [
+        9481320,
+        9481321,
+        9481322,
+        9481323,
+        9481324,
+        9481325,
+        9481326,
+        9481327,
+        9481328
+      ]
+    }
+  ]
+}

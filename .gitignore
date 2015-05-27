@@ -1,0 +1,9 @@
+
+# configuration file
+config.inc.php
+
+# cache directory contents
+www/cache/*
+
+#svn
+.svn*

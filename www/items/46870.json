@@ -1,0 +1,71 @@
+{
+  "ItemID": "46870",
+  "FullTitle": "Phytologia.",
+  "VolumeInfo": "v.58 no.3 1985",
+  "articles": [
+    {
+      "reference_id": "63021",
+      "genre": "article",
+      "title": "Chromosome numbers in Paepalanthus (Eriocaulaceae)",
+      "secondary_title": "Phytologia",
+      "volume": "58",
+      "spage": "169",
+      "epage": "171",
+      "year": "1985",
+      "date": "1985-00-00",
+      "issn": "0031-9430",
+      "PageID": "12989871",
+      "created": "2011-01-26 21:39:56",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43590",
+          "lastname": "Hensold.",
+          "forename": "N"
+        },
+        {
+          "id": "43591",
+          "lastname": "Parfitt",
+          "forename": "B D"
+        }
+      ],
+      "bhl_pages": [
+        12989871,
+        12989872,
+        12989873
+      ]
+    },
+    {
+      "reference_id": "63055",
+      "genre": "article",
+      "title": "A new species of Erythroxylum (Erythroxylaceae) from Suriname and Venezuela",
+      "secondary_title": "Phytologia",
+      "volume": "58",
+      "spage": "172",
+      "epage": "177",
+      "year": "1985",
+      "date": "1985-00-00",
+      "issn": "0031-9430",
+      "PageID": "12989874",
+      "created": "2011-01-26 21:41:33",
+      "updated": "2011-06-21 14:00:53",
+      "TitlePageID": "0",
+      "authors": [
+        {
+          "id": "43602",
+          "lastname": "Plowman",
+          "forename": "T"
+        }
+      ],
+      "bhl_pages": [
+        12989874,
+        12989875,
+        12989876,
+        12989877,
+        12989878,
+        12989879
+      ]
+    }
+  ]
+}
