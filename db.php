@@ -346,7 +346,7 @@ function db_retrieve_journal_from_issn ($issn)
 	if ($result->NumRows() == 1)
 	{
 		$journal = new stdclass;
-		$journal->title = $result->fields['secondary_title'];
+		$journal->title = utf8_encode($result->fields['secondary_title']);
 		$journal->issn = $issn;
 	}
 	else
@@ -387,7 +387,7 @@ function db_retrieve_journal_from_oclc ($oclc)
 	if ($result->NumRows() == 1)
 	{
 		$journal = new stdclass;
-		$journal->title = $result->fields['secondary_title'];
+		$journal->title = utf8_encode($result->fields['secondary_title']);
 		$journal->issn = $issn;
 	}
 	else
@@ -560,7 +560,7 @@ function db_retrieve_journal_names_from_issn ($issn)
 
 	while (!$result->EOF) 
 	{
-		$titles[] = $result->fields['secondary_title'];
+		$titles[] = utf8_encode($result->fields['secondary_title']);
 		$result->MoveNext();
 	}
 	
@@ -2125,7 +2125,7 @@ function db_retrieve_reference($id)
 				default:
 					if ($v != '')
 					{
-						$article->$k = $v;
+						$article->$k = utf8_encode($v);
 					}
 			}
 		}
@@ -2145,8 +2145,8 @@ function db_retrieve_reference($id)
 		{
 			$author = new stdClass;
 			$author->id = $result->fields['author_id'];
-			$author->lastname = $result->fields['lastname'];
-			$author->forename = $result->fields['forename'];
+			$author->lastname = utf8_encode($result->fields['lastname']);
+			$author->forename = utf8_encode($result->fields['forename']);
 			
 			if ($result->fields['suffix'] != '')
 			{
@@ -2172,8 +2172,8 @@ function db_retrieve_reference($id)
 		{
 			$author = new stdClass;
 			$author->id = $result->fields['author_id'];
-			$author->lastname = $result->fields['lastname'];
-			$author->forename = $result->fields['forename'];
+			$author->lastname = utf8_encode($result->fields['lastname']);
+			$author->forename = utf8_encode($result->fields['forename']);
 			
 			if ($result->fields['suffix'] != '')
 			{
