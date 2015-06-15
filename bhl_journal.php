@@ -275,7 +275,7 @@ function items_from_titles($titles, &$items, &$volumes)
 			$item->VolumeInfo = $result->fields['VolumeInfo'];
 	
 			$item->info = new stdclass;
-			if (parse_bhl_date($result->fields['VolumeInfo'], &$item->info))
+			if (parse_bhl_date($result->fields['VolumeInfo'], $item->info))
 			{
 				if (isset($item->info->volume))
 				{
