@@ -70,3 +70,71 @@ Installed using HomeBrew http://brew.sh There have been issues reported with Ima
 To add metadata to PDFs we need [ExifTools](http://www.sno.phy.queensu.ca/~phil/exiftool/) by Phil Harvey. Download and install the Mac OS X Package.
 
 
+### Apache configuration
+
+Make sure to uncomment
+
+    LoadModule rewrite_module libexec/apache2/mod_rewrite.so
+
+in httpd.conf.
+
+In .htaccess in the www folder, add:
+
+    # Rewrite /foo/bar to /foo/bar.php
+    RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
+
+(from http://php.net/manual/en/security.hiding.php). This ensures that URLs like /openurl will work.
+
+
+### mysqlbigram
+
+We create a bigram index on the hl_title table to help search for journal matches. This requires a MySQL plugin.
+
+Grab mysqlbigram from https://sites.google.com/site/mysqlbigram/
+
+The code expects to find the mysql header files in /usr/local/include, so I created a symbolic link: 
+
+    cd /usr/local/include
+    sudo ln -s /usr/local/mysql/include mysql
+
+Then
+
+    ./configure --prefix=/usr/local
+    make
+    sudo make install
+
+The plugin is installed by default in
+
+   /usr/local/lib/mysql/
+
+MySQL expects these in
+
+   /usr/local/mysql/lib/plugin/
+
+so we move them
+
+    cd /usr/local/lib/mysql/
+    sudo cp * /usr/local/mysql/lib/plugin/
+
+Edit my.cnf - on my Mac running Yosemite this is located here:
+
+    /usr/local/mysql-5.6.21-osx10.8-x86_64/my.cnf
+
+Add these lines:
+
+    [mysqld]
+    ft_min_word_len=1
+
+Restart MySQL, then run this query to install plugin:
+
+    INSTALL PLUGIN bi_gram SONAME ‘bi_gramlib.so’;
+
+verify with command:
+
+    SHOW PLUGINS;
+
+
+
+
+
+
