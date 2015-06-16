@@ -1873,7 +1873,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	
 	// Indexing-------------------------------------------------------------------------------------
 	
-	if (1)
+	if ($config['use_solr'])
 	{
 		// solr
 		

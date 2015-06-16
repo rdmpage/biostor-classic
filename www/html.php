@@ -320,49 +320,55 @@ function html_search_box($query = '', $category = 'all')
 {
 	global $config;
 	
-	// Note use of <div> around <input>, in XHTML we can't have a naked <input> element
-	$html = '<td>';
-	$html .= '<form  method="get" action="' . $config['web_root'] . 'search.php" onsubmit="return validateTextSearch(this);">
-		<div >
-		<input  id="search" name="q" type="text" size="20" value="' . $query . '"/>' . "\n";
-/*		
-		<select  id="category" name="category">
-			<!--<option value="all"';
-			if ($category == 'all')
-			{
-				$html .= ' selected="selected"';
-			}
-			$html .= '>All</option>-->
-			<option value="author"';
-			if ($category == 'author')
-			{
-				$html .= ' selected="selected"';
-			}
-			$html .= '>Author</option>
-			<!--<option value="citation"';
-			if ($category == 'citation')
-			{
-				$html .= ' selected="selected"';
-			}
-			$html .= '>Citation</option>
-			<option value="title"';
-			if ($category == 'title')
-			{
-				$html .= ' selected="selected"';
-			}
-			$html .= '>Reference</option>-->
-			<option value="name"';
-			if ($category == 'name')
-			{
-				$html .= ' selected="selected"';
-			}
-			$html .= '>Taxon name</option>
-		</select> */
-	$html .= '<input  name="submit" type="submit" value="Search" />
-		</div>
-	</form>' . "\n";
+	$html = '';
 	
-	$html .= "</td>\n";
+	if ($config['use_solr'])
+	{
+	
+		// Note use of <div> around <input>, in XHTML we can't have a naked <input> element
+		$html = '<td>';
+		$html .= '<form  method="get" action="' . $config['web_root'] . 'search.php" onsubmit="return validateTextSearch(this);">
+			<div >
+			<input  id="search" name="q" type="text" size="20" value="' . $query . '"/>' . "\n";
+	/*		
+			<select  id="category" name="category">
+				<!--<option value="all"';
+				if ($category == 'all')
+				{
+					$html .= ' selected="selected"';
+				}
+				$html .= '>All</option>-->
+				<option value="author"';
+				if ($category == 'author')
+				{
+					$html .= ' selected="selected"';
+				}
+				$html .= '>Author</option>
+				<!--<option value="citation"';
+				if ($category == 'citation')
+				{
+					$html .= ' selected="selected"';
+				}
+				$html .= '>Citation</option>
+				<option value="title"';
+				if ($category == 'title')
+				{
+					$html .= ' selected="selected"';
+				}
+				$html .= '>Reference</option>-->
+				<option value="name"';
+				if ($category == 'name')
+				{
+					$html .= ' selected="selected"';
+				}
+				$html .= '>Taxon name</option>
+			</select> */
+		$html .= '<input  name="submit" type="submit" value="Search" />
+			</div>
+		</form>' . "\n";
+	
+		$html .= "</td>\n";
+	}
 	
 	return $html;
 }
