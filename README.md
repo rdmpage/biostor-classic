@@ -88,7 +88,7 @@ In .htaccess in the www folder, add:
 
 ### mysqlbigram
 
-We create a bigram index on the hl_title table to help search for journal matches. This requires a MySQL plugin.
+We create a bigram index on the bhl_title table to help search for journal matches. This requires a MySQL plugin to support bigram searches.
 
 Grab mysqlbigram from https://sites.google.com/site/mysqlbigram/
 
@@ -133,7 +133,24 @@ verify with command:
 
     SHOW PLUGINS;
 
+This enables us to create the bhl_title table:
 
+    CREATE TABLE `hl_title` (
+      `TitleID` int(11) NOT NULL DEFAULT ‘0’,
+      `MARCBibID` varchar(50) DEFAULT NULL,
+      `MARCLeader` varchar(24) DEFAULT NULL,
+      `FullTitle` text,
+      `ShortTitle` varchar(255) DEFAULT NULL,
+      `PublicationDetails` varchar(255) DEFAULT NULL,
+      `CallNumber` varchar(100) DEFAULT NULL,
+      `StartYear` int(11) DEFAULT NULL,
+      `EndYear` int(11) DEFAULT NULL,
+      `LanguageCode` varchar(10) DEFAULT NULL,
+      `TL2Author` varchar(100) DEFAULT NULL,
+      `TitleURL` varchar(100) DEFAULT NULL,
+      PRIMARY KEY (`TitleID`),
+      FULLTEXT KEY `ShortTitle_2` (`ShortTitle`) /*!50100 WITH PARSER `bi_gram` */ 
+    ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 
 
