@@ -5,7 +5,12 @@ RewriteBase /
 # If URL has "www" prefix strip and redirect to biostor.org
 # We also need to disable default hostname (uncheck checkbox in Server Admin/Web/Sites)
 RewriteCond %{HTTP_HOST} ^www.biostor.org$ 														[NC]
-RewriteRule ^(.*)$ 								http://biostor.org/$1 						[R=301,L]
+RewriteRule ^(.*)$ 								http://130.209.46.59/$1 						[R=301,L]
+
+# from http://php.net/manual/en/security.hiding.php
+# Rewrite /foo/bar to /foo/bar.php
+RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
+
 
 #---------------------------------------------------------------------------------------------------
 # Short URLs for wiki
