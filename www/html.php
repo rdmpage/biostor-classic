@@ -134,6 +134,7 @@ function html_page_header($has_search = false, $query = '', $category = 'all')
 		if ($config['use_mendeley_oauth'])
 		{
 			$html .= '<td>';
+			/* Disable sign-in for now
 			if (user_is_logged_in())
 			{
 				$html .= '<a href="./clearsessions.php">Sign out</a>';
@@ -143,6 +144,7 @@ function html_page_header($has_search = false, $query = '', $category = 'all')
 				$html .= '<a href="./redirect.php?url=' . urlencode($_SERVER["REQUEST_URI"]) . '
 ">Sign in using Mendeley</a>';
 			}
+			*/
 			$html .= '</td>';
 		}	
 	
