@@ -1,0 +1,48 @@
+* Simple N-Gram (bi-gram) FULLTEXT parser plugin for MySQL 5.1+
+
+MySQL has fulltext index search ability for text field. but it is word based index, it cannot be used for no word delimiter laungage like Japanese or Chinese. and it also can't search charactors in middle of a words. (cf. searching 'in' will not match word 'ping'.)
+
+Starts from MySQL 5.1, MySQL supports a plugin that allows to change server components (fulltext search parser) without restarting / recompiling the server.
+
+This n-gram parser uses this plugin interface to implement a simple n-gram (bi-gram) fulltext index parser which can be index no word delimiter laungage. 
+N-gram parser
+
+N-gram (bi-gram) is simple algorithms, it just takes every 2 sequences of charactors from text to make index. This plugin uses MySQL's internal multi-byte charactor function to get 2 charactor sequence, so this sould works every encoding MySQL supports, including utf-8.
+
+Plugin itself is also very simple. basically I just changed 1 function (bi_gram_parser_parse, in bi_gram_plugin.c) from example fulltext parser which come with MySQL source archive. 
+
+** Usage
+
+1) create fulltext index (by 'create table' or 'create index' etc.)
+
+mysql> CREATE TABLE t (c VARCHAR(255), FULLTEXT (c) WITH PARSER bi_gram);
+
+or
+
+mysql> CREATE FULLTEXT INDEX c ON t(c) WITH PARSER bi_gram;
+
+2) insert data.
+mysql> INSERT INTO t VALUES
+    ->   ('latin1_general_cs is a case-sensitive collation'),
+    ->   ('I\'d like a case of oranges'),
+    ->   ('this is sensitive information'),
+    ->   ('another row'),
+    ->   ('yet another row');
+
+3) do fulltext search using 'match - against' syntax.
+
+mysql> SELECT MATCH(c) AGAINST('case' IN BOOLEAN MODE) FROM t;
+
+NOTE: only works 'IN BOOLEAN MODE', and none of boolean mode operators (like *, +, -, ...) will not work. 
+
+** link
+
+    * MySQL Manual - Full-Text Search Functions
+      http://dev.mysql.com/doc/refman/5.1/en/fulltext-search.html
+    * MySQL Manual - The MySQL Plugin Interface
+      http://dev.mysql.com/doc/refman/5.1/en/plugin-api.html
+    * MySQL Manual - Creating a Plugin Library
+      http://dev.mysql.com/doc/refman/5.1/en/plugin-creating.html
+    * Wikipedia - N-gram 
+      http://en.wikipedia.org/wiki/N-gram
+

@@ -1,0 +1,5 @@
+-- Version 1.0.1
+ * Added missig files. (ChangeLog, COPYING, etc.)
+ * License changed from GPL to LGPL.
+ * Fixed to use ./configure params.
+ * Fixed bug, when searching/indexing by just one char will return result correctly.

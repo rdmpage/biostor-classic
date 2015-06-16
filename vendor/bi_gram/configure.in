@@ -1,0 +1,9 @@
+# configure.in example for a plugin
+
+AC_INIT(bi_gram_plugin, 1.0)
+AM_INIT_AUTOMAKE
+AC_DISABLE_STATIC
+AC_PROG_LIBTOOL
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT
+

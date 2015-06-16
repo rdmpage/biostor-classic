@@ -1,0 +1,27 @@
+Compile
+
+1) get source code archive: bi_gram-src-1.0.tar.gz .
+
+2) ./configure --prefix=/usr (or /usr/local, /usr/local/mysql etc.)
+
+3) make (you need MySQL header installed.)
+
+4) make install ('bi_gramlib.so' plugin will be copied to mysql's lib directory.)
+
+
+
+Install
+
+1) modify /etc/my.cnf to add this lines.
+
+ [mysqld]
+ ft_min_word_len=1
+
+2) restart MySQL server. (because my.cnf was changed.)
+
+3) connect to server by 'mysql' commnad. then type,
+
+ INSTALL PLUGIN bi_gram SONAME 'bi_gramlib.so';
+
+(you can type 'SHOW PLUGINS;' to check this.)
+
