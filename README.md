@@ -65,3 +65,8 @@ Installed using HomeBrew http://brew.sh There have been issues reported with Ima
     brew install —force jpeg
     brew install —force imagemagick
 
+### ExifTools
+
+To add metadata to PDFs we need [ExifTools](http://www.sno.phy.queensu.ca/~phil/exiftool/) by Phil Harvey. Download and install the Mac OS X Package.
+
+
