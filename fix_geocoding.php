@@ -21,6 +21,12 @@ $ids=array(378);
 $ids=array(102755);
 $ids=array(145796);
 
+$ids=array(115586);
+$ids=array(115671);
+$ids=array(115653);
+$ids=array(115485);
+$ids=array(115346);
+
 foreach ($ids as $reference_id)
 {
 	global $db;

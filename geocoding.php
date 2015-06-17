@@ -1618,6 +1618,54 @@ Tanzania
 		}	
 	}	
 		
+	// S 00° 18.251', W 091° 39.047
+	// S 00° 44.478', W 90° 18.132'
+	// http://biostor.org/reference/115586
+	if (!$matched)
+	{
+		
+		if (preg_match_all('/(
+			
+(?<latitude_hemisphere>[N|S])
+\s*
+(?<latitude_degrees>([0-9]{1,2}))
+°
+\s*
+(?<latitude_minutes>([0-9]+(\.\d+)?))
+[\']
+,?
+\s+
+(?<longitude_hemisphere>[W|E])
+\s*
+(?<longitude_degrees>([0-9]{1,3}))
+°
+\s*
+(?<longitude_minutes>([0-9]+(\.\d+)?))
+[\']?		
+			
+			
+			)/xu',  $text, $matches, PREG_PATTERN_ORDER))
+		{
+			$num = count($matches[0]);
+			for ($i = 0; $i < $num; $i++)
+			{
+				$pt = new stdclass;
+
+				$seconds = 0;
+				$minutes = $matches['latitude_minutes'][$i];
+				$degrees = $matches['latitude_degrees'][$i];
+				$pt->latitude = degrees2decimal($degrees, $minutes, $seconds, $matches['latitude_hemisphere'][$i]);
+		
+				$seconds = 0;
+				$minutes = $matches['longitude_minutes'][$i];
+				$degrees = $matches['longitude_degrees'][$i];
+				$pt->longitude = degrees2decimal($degrees, $minutes, $seconds, $matches['longitude_hemisphere'][$i]);
+				
+				$points[] = $pt;
+			}
+			$matched = true;
+		}	
+	}
 	
 	
 	
@@ -1806,7 +1854,34 @@ $text = '31°09.5"N - 28°43.5\'W';
 $text = '17 40\' S, 149 05\' W';
 
 $text = '9°4.5\'N 123°16.4\'E';
+
+$text='Paratypes: 22 â , 20 9 from the Galapagos Islands, Ecuador. - Fernandina: 2 9 (one 
+dissected, MHNG 3010), Cabo Douglas, GPS: S 00° 18.269\', W 091° 39.098\', u[ltra] v[iolet] 
+l[ight], 15.ii.2005 (B. Landry, P. Schmitz). - Isabela: 2 6 (one dissected, slide BL 1580), V[ol- 
+can]. Darwin, campamento base, Bflack] L[ight] - W[hite] L[ight] Trap, l.iii.2000, L[azaro] 
+R[oque] # 2000-04 (L. Roque); 1 9, Volcan Darwin, 400 m s[obre el] nfivel del] m[ar], UVL - 
+WL Trap, 3.iii.2000, LR # 2000-07 (L. Roque); 1 9 , 2 km W Puerto Villamil, M[ercury] V[apor] 
+L[amp], 5.iii.l989 (B. Landry); 1 9, NE slope Alcedo, GPS: elevfation]. 292 m, S 00° 23.829\', 
+W 91° 01.957\', uvl, 30.iii.2004 (B. Landry, P. Schmitz); 1 ó% V Alcedo, 200 m, [parte] arida al- 
+ta, luz fluorescente, 12.iv.2001, Coll[ection] # 2001-06 (L. Roque); U,V. Darwin, 630 m elev., 
+MVL, 16.V.1992 (B. Landry). - San Cristobal: 2 o\ 4 km SE P[uer]to Baquarizo [sic], MVL, 
+12.ii.1989 (B. Landry); 3 6 (one dissected, slide BL 1171), 4 9 (one dissected, slide BL 1579), 
+4 km SE P[uer]to Baquarizo [sic], MVL, 20.ii.1989 (B. Landry); 2 o\ transition zone, SW El 
+Progreso, GPS: elev. 75 m, S 00° 56.359\', W 89° 32.906\', uvl, 15.iii.2004 (B. Landry, P. Schmitz); 
+1 9 , near Loberia, GPS: elev. 14 m, S 00° 55.149\', W 89° 36.897\', uvl, 16.iii.2004 (B. Landry, P. 
+Schmitz). - Santa Cruz: 1 a, Tortuga Bay, littoral zone, MVL, 29.Ì.1989 (B. Landry); 3 9, 
+E[stacion] C[ientifica] C[harles] D[arwin], MVL, 4.iii.l992 (B. Landry); 3 3 (one dissected, 
+slide BL 1582), 3 9 (one dissected, slide BL 1581), E.C.C.D., MVL, 6.iii.l992 (B. Landry); 1 
+ó\ Finca S[teve]. Devine, MVL, 17.iii.1989 (B. Landry); 1 9, C[harles] D[arwin] Research] ';
+
+$text = 'S 00° 18.269\', W 091° 39.098\'';
+$text = 'S 00° 18.251\', W 091° 39.047';
 	 
+	$text = 'Material examined: Holotype male: \'ECU[ADOR], Galapagos, San Cristobal I antiguo 
+botadero, ca. 4 km SE I Pto Baquerizo, G [lobal] Positioning] S [y stem]: 169 m elev[ationJ. I S 
+00°54.800\', W 089°34.574\' I 25.ii.2005, u[ltra]v[iolet]l[ight], leg. B. Landry\' [white, printed]; 
+\'HOLOTYPE I Galagete I krameri Landry & Schmitz\' [red card stock, hand written]. Deposited 
+in the MHNG. '; 
 	print_r(points_from_text($text));
 	
 }
