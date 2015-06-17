@@ -1217,19 +1217,30 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 		$citeproc_obj['author'] = array();
 		foreach ($reference->authors as $author)
 		{
-			if (isset($author->lastname))
+			// ICZN
+			if (isset($author->forename) && ($author->forename == 'International Commission On Zoological'))
 			{
 				$a = new stdclass;
-				if (isset($author->forename))
-				{
-					$a->given = $author->forename;
-					$a->family = $author->lastname;
-				}
-				else
-				{
-					$a->literal = $author->name;
-				}
+				$a->literal = $author->forename . ' ' . $author->lastname;
+				$a->literal = str_replace(' On ', ' on ', $a->literal);
 				$citeproc_obj['author'][] = $a;
+			}
+			else
+			{
+				if (isset($author->lastname))
+				{
+					$a = new stdclass;
+					if (isset($author->forename))
+					{
+						$a->given = $author->forename;
+						$a->family = $author->lastname;
+					}
+					else
+					{
+						$a->literal = $author->name;
+					}
+					$citeproc_obj['author'][] = $a;
+				}
 			}
 		}
 	}
