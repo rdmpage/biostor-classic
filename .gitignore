@@ -3,7 +3,8 @@
 config.inc.php
 
 # cache directory contents
-www/cache/*
+www/cache
+www/cache-local
 
 #svn
 .svn*
