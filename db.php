@@ -1668,6 +1668,8 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	
 	$update = false;
 	
+	//print_r($article);
+	
 	$id = 0;
 	
 	// If we are editing an existing reference then we already know its id
@@ -1769,13 +1771,20 @@ function db_store_article($article, $PageID = 0, $updating = false)
 			case 'doi':
 			case 'hdl':
 			case 'lsid':
-			case 'oclc':
 			case 'pdf':
 			case 'abstract':
 			case 'pmid':
 				$keys[] = $k;
 				$values[] = $db->qstr($v);
-				break;			
+				break;	
+				
+			case 'oclc':
+				if (is_numeric($v))
+				{
+					$keys[] = $k;
+					$values[] = $db->qstr($v);				
+				}
+				break;
 			
 			// Things we ignore
 			default:
@@ -1839,10 +1848,12 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		}
 		$sql .= ' WHERE reference_id=' . $id;
 		
-/*		$cache_file = @fopen('/tmp/update.sql', "w+") or die("could't open file");
+		/*
+		$cache_file = @fopen('/tmp/update.sql', "w+") or die("could't open file");
 		@fwrite($cache_file, $sql);
 		fclose($cache_file);
-*/
+		*/
+
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 		
@@ -1872,7 +1883,6 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	}
 	
 	// Indexing-------------------------------------------------------------------------------------
-	
 	if ($config['use_solr'])
 	{
 		// solr
@@ -1999,6 +2009,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	}
 	else
 	{
+		/*
 		$sql = 'DELETE FROM rdmp_text_index WHERE (object_uri=' . $db->qstr($config['web_root'] . 'reference/' . $id) . ')';
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -2015,8 +2026,10 @@ function db_store_article($article, $PageID = 0, $updating = false)
 			$result = $db->Execute($sql);
 			if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 		}
+		*/
 	}
 	
+	/*
 	// Versioning-----------------------------------------------------------------------------------
 	// Store this object in version table so we can recover it if we overwrite item
 	$ip = getip();
@@ -2024,8 +2037,15 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		. $id 
 		. ', ' .  'INET_ATON(\'' . $ip . '\')'
 		. ',' . $db->qstr(json_encode($article)) . ')';
+		
+		$cache_file = @fopen('/tmp/update.sql', "w+") or die("could't open file");
+		@fwrite($cache_file, $sql);
+		fclose($cache_file);
+		
+		
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	*/
 		
 	// Author(s)------------------------------------------------------------------------------------
 	// Store author as and link to the article
