@@ -155,9 +155,11 @@ This enables us to create the bhl_title table:
 
 ## Image cache
 
-In the www directory there should be a folder called “cache”. This can be a physical folder while setting up, but in production the images will be stored on an external hard drive. For example:
+In the www directory there should be a folder called “cache”. This can be a physical folder while setting up, but in production the images will be stored on an external hard drive. Create a symbolic link to the external drive, and make sure it the link permissions are correct. For example:
 
     cd www
     ln -s /Volumes/LaCie/WebServer/biostor/cache cache
+    chmod 777 cache
+
 
 
