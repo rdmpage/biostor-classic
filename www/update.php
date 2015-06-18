@@ -21,6 +21,12 @@ require_once ('../nameparse.php');
 require_once ('../recaptcha-php-1.10/recaptchalib.php');
 require_once ('../user.php');
 
+if (0)
+{
+	$o = print_r($_POST, true);
+	file_put_contents('/tmp/' . uniqid() . '.json', $o);
+}
+
 if (!isset($_POST))
 {
 	header('HTTP/1.1 404 Not Found');
@@ -133,6 +139,12 @@ if ($can_update)
 			default:
 				break;
 		} 
+	}
+	
+	if (0)
+	{
+		$o = print_r($reference, true);
+		file_put_contents('/tmp/reference-' . uniqid() . '.json', $o);
 	}
 	
 	db_store_article($reference, $PageID, $updating);
