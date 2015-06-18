@@ -88,7 +88,10 @@ if ($id != 0)
 		else
 		{
 			// if it's an article we could use journal image
-			$item->imageURL = 'http://bioguid.info/issn/image.php?issn=' . $reference->issn;
+			if (isset($reference->issn))
+			{
+				$item->imageURL = $config['web_root'] . 'issn_image.php?issn=' . $reference->issn;
+			}
 		}
 		
 		$item->coauthors = array(); 
