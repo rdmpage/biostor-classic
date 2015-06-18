@@ -1195,8 +1195,8 @@ function db_find_author($author)
 			$sql .= ', suffix';
 		}
 				
-		$sql .= ') VALUES (' . $db->qstr($author->lastname) 
-			. ', ' . $db->qstr($author->forename);
+		$sql .= ') VALUES (' . $db->qstr(utf8_decode($author->lastname)) 
+			. ', ' . $db->qstr(utf8_decode($author->forename));
 			
 		if (isset($author->suffix))
 		{
@@ -1757,8 +1757,8 @@ function db_store_article($article, $PageID = 0, $updating = false)
 				
 			
 			// Things we store as is
-			case 'title':
-			case 'secondary_title':
+			//case 'title':
+			//case 'secondary_title':
 			case 'volume':
 			case 'series':
 			case 'issue':
@@ -1777,6 +1777,13 @@ function db_store_article($article, $PageID = 0, $updating = false)
 				$keys[] = $k;
 				$values[] = $db->qstr($v);
 				break;	
+				
+			case 'title':
+			case 'secondary_title':
+				$keys[] = $k;
+				$values[] = $db->qstr(utf8_decode($v));
+				break;	
+				
 				
 			case 'oclc':
 				if (is_numeric($v))
