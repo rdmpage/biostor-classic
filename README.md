@@ -81,9 +81,9 @@ in httpd.conf.
 In .htaccess in the www folder, add:
 
     # Rewrite /foo/bar to /foo/bar.php
-    RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
+    RewriteRule ^openurl\??$ %{REQUEST_URI}.php [L]
 
-(from http://php.net/manual/en/security.hiding.php). This ensures that URLs like /openurl will work.
+(from http://php.net/manual/en/security.hiding.php). This ensures the URL /openurl will work.
 
 
 ### mysqlbigram
@@ -153,5 +153,11 @@ This enables us to create the bhl_title table:
     ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 
+## Image cache
+
+In the www directory there should be a folder called “cache”. This can be a physical folder while setting up, but in production the images will be stored on an external hard drive. For example:
+
+    cd www
+    ln -s /Volumes/LaCie/WebServer/biostor/cache cache
 
 
