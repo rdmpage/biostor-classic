@@ -57,6 +57,8 @@ class DisplaySpecimen extends DisplayObject
 			
 			$refs = specimens_references_with_code($this->code);
 			
+			$act_refs=array();
+			
 			//print_r($refs);
 			
 			foreach ($refs as $occurrenceID => $ref_list)
