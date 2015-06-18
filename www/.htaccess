@@ -9,7 +9,7 @@ RewriteRule ^(.*)$ 								http://130.209.46.59/$1 						[R=301,L]
 
 # from http://php.net/manual/en/security.hiding.php
 # Rewrite /foo/bar to /foo/bar.php
-RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
+RewriteRule ^openurl\??$ %{REQUEST_URI}.php [L]
 
 
 #---------------------------------------------------------------------------------------------------
