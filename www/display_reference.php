@@ -73,7 +73,11 @@ class DisplayReference extends DisplayObject
 					
 				case 'citeproc':
 					$this->format = 'citeproc';
-					break;					
+					break;	
+					
+				case 'jats':
+					$this->format = 'jats';
+					break;						
 
 				case 'json':
 					$this->format = 'json';
@@ -162,6 +166,11 @@ class DisplayReference extends DisplayObject
 			case 'citeproc':
 				$this->DisplayCiteproc();
 				break;
+				
+			case 'jats':
+				$this->DisplayJats();
+				break;
+				
 
 			default:
 				parent::DisplayFormattedObject();
@@ -414,9 +423,9 @@ Event.observe(window, \'load\', function() {
 				echo ');' . "\n";
 				echo 'map.addOverlay(createMarker(latlng), \'\',';
 								
-				if ($loc->name != '')
+				if ($this->localities[$i]->name != '')
 				{
-					echo "'" . $loc->name . "'";
+					echo "'" . $this->localities[$i] . "'";
 				}
 				else
 				{
@@ -1165,6 +1174,18 @@ Event.observe(window, \'load\', function() {
 		
 		echo $json;
 	}
+	
+	//----------------------------------------------------------------------------------------------
+	// JATS XML
+	function DisplayJats()
+	{
+		$xml  = reference_to_jats($this->object);
+		
+		header("Content-type: text/xml; charset=utf-8\n\n");
+		echo $xml;
+	}
+	
+	
 	
 	
 	//----------------------------------------------------------------------------------------------

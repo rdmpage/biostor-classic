@@ -1266,6 +1266,177 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 	return $citeproc_obj;
 }
 
+//--------------------------------------------------------------------------------------------------
+// NLM JATS metadata and page scans
+function reference_to_jats($reference)
+{
+	$reference->bhl_pages = array();
+	$reference->text = array();
+	
+	if (db_reference_from_bhl($reference->reference_id))
+	{
+		$pages = bhl_retrieve_reference_pages($reference->reference_id);
+		foreach ($pages as $p)
+		{
+			$reference->bhl_pages[] = $p->PageID;
+			$reference->text[] = bhl_fetch_ocr_text($p->PageID);
+		}
+	}	
+
+
+	$doc = DOMImplementation::createDocument(null, '',
+		DOMImplementation::createDocumentType("article", 
+			"SYSTEM", 
+			"jats-archiving-dtd-1.0/JATS-archivearticle1.dtd"));
+	
+	// http://stackoverflow.com/questions/8615422/php-xml-how-to-output-nice-format
+	$doc->preserveWhiteSpace = false;
+	$doc->formatOutput = true;	
+	
+	// root element is <records>
+	$article = $doc->appendChild($doc->createElement('article'));
+	
+	$article->setAttribute('xmlns:xlink', 'http://www.w3.org/1999/xlink');
+	
+	$front = $article->appendChild($doc->createElement('front'));
+	
+	$journal_meta = $front->appendChild($doc->createElement('journal-meta'));
+	$journal_title_group = $journal_meta->appendChild($doc->createElement('journal-title-group'));
+	$journal_title = $journal_title_group->appendChild($doc->createElement('journal-title'));
+	$journal_title->appendChild($doc->createTextNode($reference->secondary_title));
+	
+	if (isset($reference->issn))
+	{
+		$issn = $journal_meta->appendChild($doc->createElement('issn'));
+		$issn->appendChild($doc->createTextNode($reference->issn));
+	}
+	
+	$article_meta = $front->appendChild($doc->createElement('article-meta'));
+	
+	$article_id = $article_meta->appendChild($doc->createElement('article-id'));
+	$article_id->setAttribute('pub-id-type', 'biostor');
+	$article_id->appendChild($doc->createTextNode($reference->reference_id));
+
+	if (isset($reference->doi))
+	{
+		$article_id = $article_meta->appendChild($doc->createElement('article-id'));
+		$article_id->setAttribute('pub-id-type', 'doi');
+		$article_id->appendChild($doc->createTextNode($reference->doi));
+	}
+	
+	$title_group = $article_meta->appendChild($doc->createElement('title-group'));
+	$article_title = $title_group->appendChild($doc->createElement('article-title'));
+	$article_title->appendChild($doc->createTextNode($reference->title));
+	
+	if (count($reference->authors) > 0)
+	{
+		$contrib_group = $article_meta->appendChild($doc->createElement('contrib-group'));
+		
+		foreach ($reference->authors as $author)
+		{
+			$contrib = $contrib_group->appendChild($doc->createElement('contrib'));
+			$contrib->setAttribute('contrib-type', 'author');
+			
+			$name = $contrib->appendChild($doc->createElement('name'));
+			$surname = $name->appendChild($doc->createElement('surname'));
+			$surname->appendChild($doc->createTextNode($author->lastname));
+			if (isset($author->forename))
+			{
+				$given_name = $name->appendChild($doc->createElement('given-names'));
+				$given_name->appendChild($doc->createTextNode($author->forename));
+			}
+		}
+	}
+	
+	if (isset($reference->date))
+	{
+		$pub_date = $article_meta->appendChild($doc->createElement('pub-date'));
+		$pub_date->setAttribute('pub-type', 'ppub');
+		
+		if (preg_match('/(?<year>[0-9]{4})-(?<month>\d+)-(?<day>\d+)/', $reference->date, $m))
+		{
+			if ($m['day'] != '00')
+			{
+				$day = $pub_date->appendChild($doc->createElement('day'));
+				$day->appendChild($doc->createTextNode(str_replace('0','', $m['day'])));			
+			}
+			
+			if ($m['month'] != '00')
+			{
+				$month = $pub_date->appendChild($doc->createElement('month'));
+				$month->appendChild($doc->createTextNode(str_replace('0','', $m['month'])));
+			}
+		
+			$year = $pub_date->appendChild($doc->createElement('year'));
+			$year->appendChild($doc->createTextNode($m['year']));
+		}	
+	}
+	else
+	{
+		$pub_date = $article_meta->appendChild($doc->createElement('pub-date'));
+		$pub_date->setAttribute('pub-type', 'ppub');
+		$year = $pub_date->appendChild($doc->createElement('year'));
+		$year->appendChild($reference->year);
+	}
+	
+	if (isset($reference->volume))
+	{
+		$volume = $article_meta->appendChild($doc->createElement('volume'));
+		$volume->appendChild($doc->createTextNode($reference->volume));
+	}
+	if (isset($reference->issue))
+	{
+		$issue = $article_meta->appendChild($doc->createElement('issue'));
+		$issue->appendChild($doc->createTextNode($reference->issue));
+	}
+	
+	
+	if (isset($reference->spage))
+	{
+		$fpage = $article_meta->appendChild($doc->createElement('fpage'));
+		$fpage->appendChild($doc->createTextNode($reference->spage));		
+	}
+	
+	if (isset($reference->epage))
+	{
+		$fpage = $article_meta->appendChild($doc->createElement('lpage'));
+		$fpage->appendChild($doc->createTextNode($reference->epage));		
+	}
+	
+	
+	if (isset($reference->abstract))
+	{
+		$abstract = $article_meta->appendChild($doc->createElement('abstract'));
+		$p = $abstract->appendChild($doc->createElement('p'));
+		$p->appendChild($doc->createTextNode($reference->abstract));		
+	}
+	
+	$body = $article->appendChild($doc->createElement('body'));
+	
+	if (count($reference->text) > 0)
+	{
+		foreach ($reference->text as $text)
+		{
+			$preformat = $body->appendChild($doc->createElement('preformat'));
+			$preformat->appendChild($doc->createTextNode($text));
+		}
+	}
+	
+	$supplementary_material = $body->appendChild($doc->createElement('supplementary-material'));
+	$supplementary_material->setAttribute('content-type', 'scanned-pages');
+	
+	$n = count($reference->bhl_pages);
+	for($i = 0; $i < $n; $i++)
+	{
+		$graphic = $supplementary_material->appendChild($doc->createElement('graphic'));
+		$graphic->setAttribute('xlink:href', 'http://www.biodiversitylibrary.org/pagethumb/' . $reference->bhl_pages[$i]);
+		$graphic->setAttribute('xlink:role', $reference->bhl_pages[$i]);
+		$graphic->setAttribute('xlink:title', 'scanned-page');
+	}
+	
+	return $doc->saveXML();
+}
+
 
 
 
