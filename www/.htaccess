@@ -52,6 +52,7 @@ RewriteRule ^reference/([0-9]+)/page/([0-9]+)$	display_reference.php?id=$1&page=
 # see http://stackoverflow.com/questions/822421/match-question-mark-in-mod-rewrite-rule-regex
 RewriteRule ^reference/([0-9]+).(.*)$			display_reference.php?id=$1&format=$2			[QSA,L]
 
+
 #---------------------------------------------------------------------------------------------------
 # Specimen
 RewriteRule ^specimen/(.*)					display_specimen.php?code=$1							[NC,L]
