@@ -152,6 +152,11 @@ This enables us to create the bhl_title table:
       FULLTEXT KEY `ShortTitle_2` (`ShortTitle`) /*!50100 WITH PARSER `bi_gram` */ 
     ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
+## MySQL configuration file
+
+Most tools seem to expect the file my.cnf to be in /etc, so we can create a symbolic link:
+
+    sudo ln -s /usr/local/mysql/my.cnf 
 
 ## Image cache
 
@@ -163,3 +168,5 @@ In the www directory there should be a folder called “cache”. This can be a 
 
 
 
+ini_set(‘mysql.connect_timeout’, 300);
+ini_set(‘default_socket_timeout’, 300);
