@@ -17,8 +17,8 @@ function articles_for_item($ItemID)
 	if ($result->NumRows() == 1)
 	{
 		$obj->ItemID 		= $result->fields['ItemID'];
-		$obj->FullTitle		= $result->fields['FullTitle'];
-		$obj->VolumeInfo	= $result->fields['VolumeInfo'];
+		$obj->FullTitle		= utf8_encode($result->fields['FullTitle']);
+		$obj->VolumeInfo	= utf8_encode($result->fields['VolumeInfo']);
 	}
 	else
 	{
