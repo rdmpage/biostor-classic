@@ -8,3 +8,7 @@ www/cache-local
 
 #svn
 .svn*
+
+# bhlapi data files
+bhlapi/*.sql
+bhlapi/*.txt
