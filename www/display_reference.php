@@ -856,7 +856,7 @@ Event.observe(window, \'load\', function() {
 			if (!$have_content)
 			{
 				// If we have a PDF display it using Google Docs Viewer http://docs.google.com/viewer
-				if ($this->object->url)
+				if (isset($this->object->url))
 				{
 					if (preg_match('/\.pdf$/', $this->object->url))
 					{

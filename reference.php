@@ -66,7 +66,10 @@ function reference_to_citation_text_string($reference)
 		case 'article':
 			$text .= $reference->secondary_title;
 			$text .= ' ';
-			$text .= $reference->volume ;
+			if (isset($reference->volume))
+			{
+				$text .= $reference->volume ;
+			}
 			if (isset($reference->issue))
 			{
 				$text .= '(' . $reference->issue . ')';
