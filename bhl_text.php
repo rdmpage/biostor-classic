@@ -87,7 +87,6 @@ function bhl_fetch_ocr_text($PageID)
 			//$text = $j[4];
 			
 			$text = $j->Result;
-			//$text = utf8_decode($text);
 			
 			$text = bhl_clean_ocr_text($text);
 			
@@ -101,6 +100,7 @@ function bhl_fetch_ocr_text($PageID)
 	$text = preg_replace('/\x1F/', "", $text);
 	$text = preg_replace('/\x1D/', "", $text);
 	
+	$text = utf8_decode($text);
 	
 
 	return $text;
