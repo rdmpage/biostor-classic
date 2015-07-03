@@ -5446,6 +5446,28 @@ $want=array(44460);
 $Titles=array(48540);
 $want=array(83343);
 
+$Titles=array(5551,9494);
+$want=array(28068,38347);
+
+// Bombay
+$Titles=array(7414);
+$want=array();
+
+// Madroño; a West American journal of botany.
+$Titles=array(65344);
+$want=array();
+
+$Titles=array(9197);
+$want=array(133890,133906);
+
+
+$Titles=array(7519);
+$want=array(32327);
+
+// Manual of the New Zealand Coleoptera
+$Titles=array(9559);
+$want=array();
+
 
 foreach ($Titles as $TitleID)
 {
