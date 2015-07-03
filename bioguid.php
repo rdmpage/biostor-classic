@@ -51,6 +51,8 @@ function issn_from_title($title)
 			ORDER BY title
 			LIMIT 10';
 			
+		//echo $sql;
+			
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed"); 
 		
@@ -58,6 +60,14 @@ function issn_from_title($title)
 		{
 			$issn = $result->fields['issn'];
 		}
+		
+		// fudge to fix known issues
+		if ($str == 'J%%Orn%%')
+		{
+			$issn = '0021-8375';
+		}
+		
+		
 	}
 	else
 	{
