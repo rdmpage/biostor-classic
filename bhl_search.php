@@ -1362,6 +1362,14 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 3949:
 				$title_list=array(3955,3949);
 				break;
+				
+			// Mémoires de l'Académie royale des sciences, des lettres et des beaux-arts de Belgique
+			case 2743 :
+			case 2732:
+			case 5551:
+				$title_list = array(2743,2732,5551);
+				break;
+			
 			
 			// Memoirs of the Queensland Museum
 			case 12912 :
