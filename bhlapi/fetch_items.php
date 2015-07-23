@@ -5469,6 +5469,41 @@ $Titles=array(9559);
 $want=array();
 
 
+// 7414
+$Titles=array(7414);
+$want=array();
+
+$Titles=array(8981);
+$want=array(185302);
+
+// Bulletin de la Société géologique de France
+$Titles=array(44232);
+$want=array(96133);
+
+// Fern gazzette 0308-0838
+$Titles=array(58803);
+$want=array();
+
+$Titles=array(40744);
+$want=array();
+
+// Mémoires /Société botanique de France.
+$Titles=array(709);
+$want=array();
+
+$Titles=array(8981);
+$want=array(185630,185629);
+
+
+// Madroño; a West American journal of botany.
+$Titles=array(65344);
+$want=array();
+
+// The Journal of the Bombay Natural History Society.
+$Titles=array(7414);
+$want=array();
+
+
 foreach ($Titles as $TitleID)
 {
  //$want=array();
