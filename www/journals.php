@@ -109,10 +109,10 @@ WHERE (IdentifierName="ISSN") AND (IdentifierValue NOT LIKE "% (Internet)")';
 
 		echo '<div style="padding:4px;float:left;text-align:center;font-size:10px;height:200px;">' . "\n";
 		echo '<a href="' . $config['web_root'] . 'issn/' . $journal->issn .'">' . "\n";
-		echo '<img src="http://bioguid.info/issn/image.php?issn=' . $journal->issn . '" alt="cover" style="border:1px solid rgb(228,228,228);height:100px;" />' . "\n";
+		echo '<img src="issn_image.php?issn=' . $journal->issn . '" alt="cover" style="border:1px solid rgb(228,228,228);height:100px;" />' . "\n";
 		echo '</a>' . "\n";
 		echo '<p style="width:120px;">' . $journal->issn . '<br />';
-		echo '<a href="' . $config['web_root'] . 'issn/' . $journal->issn .'">' . $journal->title . '</a>';
+		echo '<a href="' . $config['web_root'] . 'issn/' . $journal->issn .'">' . utf8_encode($journal->title) . '</a>';
 		echo '</p>'. "\n";
 		
 		echo '</div>' . "\n";
