@@ -100,7 +100,13 @@ function bhl_fetch_ocr_text($PageID)
 	$text = preg_replace('/\x1F/', "", $text);
 	$text = preg_replace('/\x1D/', "", $text);
 	
-	$text = utf8_encode($text);
+	// http://stackoverflow.com/a/6723593/9684
+	$isUTF8 = preg_match('//u', $text);
+	
+	if (!$isUTF8)
+	{
+		$text = utf8_encode($text);
+	}
 	
 
 	return $text;
