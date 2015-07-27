@@ -1309,6 +1309,13 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list=array(11280 ,14025, 47027);
 				break;
 				
+			// Journal of botany, British and foreign
+			case 8066 :
+			case 15787:
+				$title_list=array(8066 ,15787);
+				break;
+				
+				
 			// Journal of the Asiatic Society of Bengal
 			// Journal and proceedings of the Asiatic Society of Bengal
 			case 51678 :
