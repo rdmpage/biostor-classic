@@ -5504,6 +5504,16 @@ $Titles=array(7414);
 $want=array();
 
 
+
+$Titles=array(77306);
+$want=array();
+
+// Bombay, Zeitsc
+$Titles=array(85187,7414);
+$want=array(186136,186090,186193,186190);
+
+
+
 foreach ($Titles as $TitleID)
 {
  //$want=array();
