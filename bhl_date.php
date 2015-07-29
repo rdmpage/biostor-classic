@@ -127,6 +127,18 @@ function parse_bhl_date($str, &$info)
 		echo $str . '<br/>';
 	}
 	
+	// v.I: no.5
+	if (!$matched)
+	{
+		if ($debug) echo "Trying " . __LINE__ . "\n";
+		if (preg_match("/^v.\s*(?<volume>[I]+)[:|,]\s*no\.?\s*(?<issue>\d+(-\d+)?)$/", $str, $m))
+		{
+			$info->volume = arabic($m['volume']);
+			$info->issue = $m['issue'];		
+			$matched = true;
+		}	
+	}	
+	
 	// t. 2:fasc. 1
 	if (!$matched)
 	{
