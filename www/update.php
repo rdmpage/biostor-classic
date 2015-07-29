@@ -106,14 +106,43 @@ if ($can_update)
 				break;
 
 			case 'authors':
-				$value = trim($value);
+				//$value = $value;
 				if ($value != '')
 				{
-					$authors = explode("\n", $value);
+					$authors = explode("\n", trim($value));
+					//$authors = preg_split('/\n/u', $value);
+					$reference->a = $authors;
 					foreach ($authors as $v)
 					{
+						$v = trim($v);
 						$parts = parse_name($v);					
 						$author = new stdClass();
+						
+						//$author->lastname = $v;
+						//$author->forename = $v;
+						/*
+						$matched = false;
+						if (!$matched)
+						{
+							if (preg_match('/(?<last>.*),\s=(?<first>.*)/Uu', $v, $m))
+							{
+								$author->forename = $m['first'];
+								$author->lastname = $m['last'];
+								$matched = true;
+							}
+						}
+						if (!$matched)
+						{
+							if (preg_match('/(?<first>.*)\s+(?<last>\w+(-\w+))$/Uu', $v, $m))
+							{
+								$author->forename = $m['first'];
+								$author->lastname = $m['last'];
+								$matched = true;
+							}
+						}
+						*/
+						
+						
 						if (isset($parts['last']))
 						{
 							$author->lastname = $parts['last'];
@@ -131,6 +160,7 @@ if ($can_update)
 								$author->forename .= ' ' . $parts['middle'];
 							}
 						}
+						
 						$reference->authors[] = $author;
 					}
 				}
@@ -141,8 +171,10 @@ if ($can_update)
 		} 
 	}
 	
-	if (0)
+	if (1)
 	{
+		$o = print_r($_POST, true);
+		file_put_contents('/tmp/reference-' . uniqid() . '.json', $o);
 		$o = print_r($reference, true);
 		file_put_contents('/tmp/reference-' . uniqid() . '.json', $o);
 	}
