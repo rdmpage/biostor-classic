@@ -1,5 +1,7 @@
 <?php
 
+error_log(E_ALL);
+
 /**
  * @file db.php Database
  *
@@ -27,6 +29,13 @@ $db->Connect("localhost",
 
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+
+// http://stackoverflow.com/a/14068747/9684
+//$sql = "SET character_set_results=utf8";
+$sql = "SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'";
+$result = $db->Execute($sql);
+if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
 
 
 //--------------------------------------------------------------------------------------------------
@@ -346,7 +355,7 @@ function db_retrieve_journal_from_issn ($issn)
 	if ($result->NumRows() == 1)
 	{
 		$journal = new stdclass;
-		$journal->title = utf8_encode($result->fields['secondary_title']);
+		$journal->title = $result->fields['secondary_title'];
 		$journal->issn = $issn;
 	}
 	else
@@ -387,7 +396,7 @@ function db_retrieve_journal_from_oclc ($oclc)
 	if ($result->NumRows() == 1)
 	{
 		$journal = new stdclass;
-		$journal->title = utf8_encode($result->fields['secondary_title']);
+		$journal->title = $result->fields['secondary_title'];
 		$journal->issn = $issn;
 	}
 	else
@@ -560,7 +569,7 @@ function db_retrieve_journal_names_from_issn ($issn)
 
 	while (!$result->EOF) 
 	{
-		$titles[] = utf8_encode($result->fields['secondary_title']);
+		$titles[] = $result->fields['secondary_title'];
 		$result->MoveNext();
 	}
 	
@@ -893,6 +902,11 @@ function db_retrieve_author($author_id)
 		{
 			$author->suffix = $result->fields['suffix'];
 		}
+		
+		//$o = print_r($author);
+		//file_put_contents('/tmp/logs.txt', "retrieve " . $o .PHP_EOL , FILE_APPEND);
+
+		
 	}
 	
 	return $author;
@@ -996,7 +1010,7 @@ function db_get_all_author_names($author_id)
 
 	while (!$result->EOF) 
 	{
-		$name = trim($result->fields['forename'] 
+		$name = trim($result->fields['forename']
 			. ' ' . $result->fields['lastname']
 			. ' ' . $result->fields['suffix']);
 		
@@ -1144,10 +1158,15 @@ function db_find_author($author)
 	global $db;
 	
 	$id = 0;
+	
+	//file_put_contents('/tmp/logs.txt', $author->forename .PHP_EOL , FILE_APPEND);
+	//file_put_contents('/tmp/logs.txt', $author->lastname .PHP_EOL , FILE_APPEND);
+	
 		
 	// Clean name
 	$author->forename = html_entity_decode($author->forename, ENT_QUOTES, "utf-8" ); 
 	$author->lastname = html_entity_decode($author->lastname, ENT_QUOTES, "utf-8" ); 
+	
 	
 	// Handle forename as initials without spaces
 	if (preg_match("/^([A-Z]+)$/", $author->forename))
@@ -1160,15 +1179,17 @@ function db_find_author($author)
 		}
 		$author->forename = trim($spaced);
 	}
+	
 	// Replace . with space (in case . is the only separator between initials
 	$author->forename = str_replace('.', ' ', $author->forename);
 
 	// Compress extra blank space to a single space
-	$author->forename = preg_replace('/\s+/', ' ', $author->forename);
-	$author->forename = preg_replace('/ \-/', '-', $author->forename);
+	$author->forename = preg_replace('/\s+/u', ' ', $author->forename);
+	$author->forename = preg_replace('/ \-/u', '-', $author->forename);
 	
 	// Trim
-	$author->forename = trim($author->forename);
+	//$author->forename = trim($author->forename);
+	
 	
 	// Make nice (in most cases will already be nice)
 	$author->forename = mb_convert_case($author->forename, 
@@ -1176,14 +1197,23 @@ function db_find_author($author)
 	$author->lastname = mb_convert_case($author->lastname, 
 		MB_CASE_TITLE, mb_detect_encoding($author->lastname));
 	
+	
+	$sql = "SET character_set_results=utf8";
+	$result = $db->Execute($sql);
+	
+	
 	// For now we work on exact matches, could improve this	
 	$sql = 'SELECT author_id FROM rdmp_author 
 		WHERE (lastname=' . $db->qstr($author->lastname) . ')
 		AND (forename=' . $db->qstr($author->forename) . ') 
 		LIMIT 1';
+		
+	file_put_contents('/tmp/logs.txt', $sql.PHP_EOL , FILE_APPEND);		
 			
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	file_put_contents('/tmp/logs.txt', $result->RecordCount().PHP_EOL , FILE_APPEND);	
 
 	if ($result->RecordCount() == 0)
 	{
@@ -1194,9 +1224,10 @@ function db_find_author($author)
 		{
 			$sql .= ', suffix';
 		}
-				
-		$sql .= ') VALUES (' . $db->qstr(utf8_decode($author->lastname)) 
-			. ', ' . $db->qstr(utf8_decode($author->forename));
+
+		$sql .= ') VALUES (' . $db->qstr($author->lastname) 
+			. ', ' . $db->qstr($author->forename);
+
 			
 		if (isset($author->suffix))
 		{
@@ -1204,6 +1235,9 @@ function db_find_author($author)
 		}
 			
 		$sql .= ');';
+		
+		file_put_contents('/tmp/logs.txt', $sql.PHP_EOL , FILE_APPEND);
+		
 
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __LINE__ . "]: " . $insert_sql);
@@ -1219,6 +1253,8 @@ function db_find_author($author)
 	else
 	{
 		$id = $result->fields['author_id'];
+		file_put_contents('/tmp/logs.txt', "author_id=$id".PHP_EOL , FILE_APPEND);	
+
 	}
 
 	return $id;
@@ -1781,7 +1817,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 			case 'title':
 			case 'secondary_title':
 				$keys[] = $k;
-				$values[] = $db->qstr(utf8_decode($v));
+				$values[] =  $db->qstr($v);
 				break;	
 				
 				
@@ -1860,6 +1896,10 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		@fwrite($cache_file, $sql);
 		fclose($cache_file);
 		*/
+		
+		//$o = print_r($author);
+		file_put_contents('/tmp/logs.txt', $sql .PHP_EOL , FILE_APPEND);
+		
 
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -2152,7 +2192,7 @@ function db_retrieve_reference($id)
 				default:
 					if ($v != '')
 					{
-						$article->$k = utf8_encode($v);
+						$article->$k = $v;
 					}
 			}
 		}
@@ -2172,8 +2212,8 @@ function db_retrieve_reference($id)
 		{
 			$author = new stdClass;
 			$author->id = $result->fields['author_id'];
-			$author->lastname = utf8_encode($result->fields['lastname']);
-			$author->forename = utf8_encode($result->fields['forename']);
+			$author->lastname = $result->fields['lastname'];
+			$author->forename = $result->fields['forename'];
 			
 			if ($result->fields['suffix'] != '')
 			{
@@ -2199,8 +2239,8 @@ function db_retrieve_reference($id)
 		{
 			$author = new stdClass;
 			$author->id = $result->fields['author_id'];
-			$author->lastname = utf8_encode($result->fields['lastname']);
-			$author->forename = utf8_encode($result->fields['forename']);
+			$author->lastname = $result->fields['lastname'];
+			$author->forename = $result->fields['forename'];
 			
 			if ($result->fields['suffix'] != '')
 			{
