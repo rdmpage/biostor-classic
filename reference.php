@@ -1103,6 +1103,22 @@ function reference_to_bibjson($reference)
 		}
 	}
 	
+	// BHL pages...
+	$obj->bhl_pages = array();
+	$pages = bhl_retrieve_reference_pages($reference->reference_id);
+	foreach ($pages as $page)
+	{		
+		if ($page->PagePrefix != '')
+		{
+			$label = $page->PagePrefix;
+			$label .= ' ' . $page->PageNumber;
+		}
+		else
+		{
+			$label = $page->page_order ;
+		}
+		$obj->bhl_pages[$label] = (Integer)$page->PageID;
+	}	
 	
 	return $obj;
 }
