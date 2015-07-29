@@ -774,7 +774,8 @@ Event.observe(window, \'load\', function() {
 			echo '</td></tr>';
 			echo '</table>';
 			
-			
+			if (1)
+			{
 			if (0) // 0 to not display names
 			{
 				
@@ -844,6 +845,7 @@ Event.observe(window, \'load\', function() {
 			}
 			
 			
+		}
 		}
 		else
 		{
