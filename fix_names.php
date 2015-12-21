@@ -155,15 +155,58 @@ $end = 126692;
 $start =  146656;
 $end =  146656;
 
+$start = 146771;
+$end = 146771;
+
 
 //$start = 107145;
 //$end = 107145;
 
+$start = 147447;
+$end = 147466;
+
+$start = 147489;
+$end = 147523;
+
+$start = 147653;
+$end = 147653;
+
+
+$start = 147666;
+$end = 147666;
+
+$start = 147667;
+$end   = 147716;
+
+$start = 148342;
+$end   = 148342;
+
+$start = 148378;
+$end   = 148378;
+
+$start = 151297;
+$end   = 151297;
+
+$start = 153764;
+$end   = 153764;
+
+$start = 157441;
+$end   = 157916;
+
+$start = 158067;
+$end   = 160045;
+
+$start = 160086;
+$end   = 160086;
+
+$start = 160224;
+$end   = 160224;
+         
 
 
 
 
-$ids=array(144543,144542,117078);
+//$ids=array(144543,144542,117078);
 
 for ($reference_id = $start; $reference_id <= $end; $reference_id++)
 //foreach($ids as $reference_id )
@@ -175,8 +218,8 @@ for ($reference_id = $start; $reference_id <= $end; $reference_id++)
 	{
 		$nm = bhl_names_in_reference_by_page($reference_id);
 		
-		//if (isset($nm->names) && (count($nm->names) == 0))
-		if (1) // BHL
+		if (isset($nm->names) && (count($nm->names) == 0))
+		//if (1) // BHL
 		{
 			// fetch names
 			$pages = bhl_retrieve_reference_pages($reference_id);
@@ -233,7 +276,7 @@ for ($reference_id = $start; $reference_id <= $end; $reference_id++)
 				else
 				{
 					// GNDR
-					$url = 'http://gnrd.globalnames.org/name_finder.json?url=http://biostor.org/bhlapi_page_text.php?PageID=' . $p->PageID;
+					$url = 'http://gnrd.globalnames.org/name_finder.json?url=http://direct.biostor.org/bhlapi_page_text.php?PageID=' . $p->PageID;
 
 					$response = get_names_from_url($url);
 
@@ -249,7 +292,7 @@ for ($reference_id = $start; $reference_id <= $end; $reference_id++)
 					foreach ($names as $name)
 					{
 						echo '.';
-						$sql = 'INSERT INTO bhl_page_name(NameConfirmed,PageID) VALUES(' . $db->qstr($name) . ',' . $p->PageID . ');';
+						$sql = 'INSERT INTO bhl_page_name(NameBankID, NameConfirmed,PageID) VALUES(0,' . $db->qstr($name) . ',' . $p->PageID . ');';
 						//echo $sql . "\n";
 						$result = $db->Execute($sql);
 						if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);						

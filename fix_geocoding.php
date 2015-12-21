@@ -28,11 +28,15 @@ $ids=array(115485);
 $ids=array(115346);
 $ids=array(146611);
 
+$ids=array(150786,150785);
+
+$ids=array(116597);
+
 foreach ($ids as $reference_id)
 {
 	global $db;
 	
-	echo $reference_id . "\n";
+	echo "Reference = $reference_id\n";
 	// remove any existing geocoding...
 	
 	$pages = bhl_retrieve_reference_pages($reference_id);

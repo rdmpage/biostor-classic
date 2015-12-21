@@ -760,6 +760,42 @@ function bhl_retrieve_item_pages($ItemID)
 }
 
 //--------------------------------------------------------------------------------------------------
+function bhl_retrieve_item_pages_for_reference($reference_id)
+{
+	global $db;
+	global $ADODB_FETCH_MODE;
+	
+	$pages = array();
+	
+	$sql = 'SELECT bhl_page.PageID, bhl_page.PagePrefix, bhl_page.PageNumber, page.SequenceOrder, page.FileNamePrefix 
+	FROM rdmp_reference_page_joiner 
+	INNER JOIN bhl_page USING(PageID)
+	INNER JOIN page USING(PageID)
+	WHERE (reference_id = ' . $reference_id . ')
+	ORDER BY SequenceOrder';
+	
+	//echo $sql . "\n";
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+	while (!$result->EOF) 
+	{
+		$page = new stdclass;
+		$page->PageID 			= $result->fields['PageID'];
+		$page->SequenceOrder 	= $result->fields['SequenceOrder'];
+		$page->PagePrefix 		= $result->fields['PagePrefix'];
+		$page->PageNumber 		= $result->fields['PageNumber'];
+		$page->FileNamePrefix 	= $result->fields['FileNamePrefix'];
+		
+		$pages[] = $page;
+		$result->MoveNext();
+	}
+	
+	return $pages;
+}
+
+//--------------------------------------------------------------------------------------------------
 function bhl_retrieve_title($id)
 {
 	global $db;
@@ -2136,7 +2172,8 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	{
 		if ($config['twitter'])
 		{
-			$url = $config['web_root'] . 'reference/' . $id . ' ' . '#bhlib'; // url + hashtag
+			//$url = $config['web_root'] . 'reference/' . $id . ' ' . '#bhlib'; // url + hashtag
+			$url = 'http://biostor.org/' . 'reference/' . $id . ' ' . '#bhlib'; // url + hashtag
 			$url_len = strlen($url);
 			$status = '';
 			if (isset($article->title))

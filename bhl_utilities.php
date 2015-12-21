@@ -171,120 +171,140 @@ function bhl_fetch_page_image ($PageID)
 	
 	$image = NULL;
 	
-	$sql = 'SELECT * FROM bhl_page 
-	INNER JOIN page USING(PageID)
-	WHERE (PageID=' . $PageID . ') 
-	LIMIT 1';
-	
-	//echo $sql;
-	
-	$result = $db->Execute($sql);
-	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
-
-	if ($result->NumRows() == 1)
+	if (1)
 	{
 		$image = new stdclass;
 		$image->thumbnail = new stdclass;
+		
+		// page
+		$image->url = 'http://www.biodiversitylibrary.org/pagethumb/' .  $PageID . ',500,500';
+		$image->width = 500;
+		$image->height = 800;			
+
+		// thumbnail
+		$image->thumbnail->url = 'http://www.biodiversitylibrary.org/pagethumb/' .  $PageID . ',80,80';
+		$image->thumbnail->width = 80;
+		$image->thumbnail->height = 100;			
+
+	}
+	else
+	{
 	
-		$ItemID = $result->fields['ItemID'];
-		$FileNamePrefix = $result->fields['FileNamePrefix'];
-		
-		// Images are cached in folders with the ItemID as the name
-		$cache_namespace = $config['cache_dir']. "/" . $ItemID;
-		
-		// Ensure cache subfolder exists for this item
-		if (!file_exists($cache_namespace))
+		$sql = 'SELECT * FROM bhl_page 
+		INNER JOIN page USING(PageID)
+		WHERE (PageID=' . $PageID . ') 
+		LIMIT 1';
+	
+		//echo $sql;
+	
+		$result = $db->Execute($sql);
+		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+		if ($result->NumRows() == 1)
 		{
-			$oldumask = umask(0); 
-			mkdir($cache_namespace, 0777);
-			umask($oldumask);
-			
-			// Thumbnails are in a subdirectory
-			$oldumask = umask(0); 
-			mkdir($cache_namespace . '/thumbnails', 0777);
-			umask($oldumask);
-		}
+			$image = new stdclass;
+			$image->thumbnail = new stdclass;
+	
+			$ItemID = $result->fields['ItemID'];
+			$FileNamePrefix = $result->fields['FileNamePrefix'];
 		
-		// Generate URL to fetch image, and local file names for cached images
+			// Images are cached in folders with the ItemID as the name
+			$cache_namespace = $config['cache_dir']. "/" . $ItemID;
 		
-		// Use BHL API as per Chris Freeland's email 2009-12-28
-		// <769697AE3E25EF4FBC0763CD91AB1B0205178B1E@MBGMail01.mobot.org>
-		$image->ExternalURL = 'http://www.biodiversitylibrary.org/pageimage/' . $PageID;
-		
-		/*
-		if (is_numeric($FileNamePrefix{0}))
-		{
-			$image->ExternalURL = bhl_mobot_image_url($PageID);
-		}
-		else
-		{
-			$image->ExternalURL = bhl_image_url_from_file_prefix ($FileNamePrefix);
-		}
-		*/
-		
-		//print_r($image); 
-				
-		$image->file_name = $cache_namespace . "/" . $FileNamePrefix . '.jpg'; 
-		$image->url = $config['web_root']  . $config['cache_prefix'] . '/' .  $ItemID . "/" . $FileNamePrefix . '.jpg'; 	
-		
-		//echo $image->url . "\n";
-		
-		$image->thumbnail->file_name = $cache_namespace . "/thumbnails/" . $FileNamePrefix . '.gif'; 
-		$image->thumbnail->url = $config['web_root']  . $config['cache_prefix'] . '/' .  $ItemID . "/thumbnails/" . $FileNamePrefix . '.gif'; 
-		
-		// Only fetch it we don't have cached copy	
-		if (!file_exists($image->thumbnail->file_name))
-		{
-			if (!$config['fetch_images']) 
+			// Ensure cache subfolder exists for this item
+			if (!file_exists($cache_namespace))
 			{
-				$image->file_name = dirname(__FILE__) . '/www/images/blank350x500.png';
-				$image->thumbnail->file_name =  dirname(__FILE__) . '/www/images/blank70x100.png';
-				
-				$image->thumbnail->url = 'images/blank70x100.png';
-				$image->url = 'images/blank350x500.png';
+				$oldumask = umask(0); 
+				mkdir($cache_namespace, 0777);
+				umask($oldumask);
+			
+				// Thumbnails are in a subdirectory
+				$oldumask = umask(0); 
+				mkdir($cache_namespace . '/thumbnails', 0777);
+				umask($oldumask);
+			}
+		
+			// Generate URL to fetch image, and local file names for cached images
+		
+			// Use BHL API as per Chris Freeland's email 2009-12-28
+			// <769697AE3E25EF4FBC0763CD91AB1B0205178B1E@MBGMail01.mobot.org>
+			$image->ExternalURL = 'http://www.biodiversitylibrary.org/pageimage/' . $PageID;
+		
+			/*
+			if (is_numeric($FileNamePrefix{0}))
+			{
+				$image->ExternalURL = bhl_mobot_image_url($PageID);
 			}
 			else
 			{
-				//echo $image->ExternalURL . "\n";
-			
-				$bits = get($image->ExternalURL);
-				if ($bits != '')
+				$image->ExternalURL = bhl_image_url_from_file_prefix ($FileNamePrefix);
+			}
+			*/
+		
+			//print_r($image); 
+				
+			$image->file_name = $cache_namespace . "/" . $FileNamePrefix . '.jpg'; 
+			$image->url = $config['web_root']  . $config['cache_prefix'] . '/' .  $ItemID . "/" . $FileNamePrefix . '.jpg'; 	
+		
+			//echo $image->url . "\n";
+		
+			$image->thumbnail->file_name = $cache_namespace . "/thumbnails/" . $FileNamePrefix . '.gif'; 
+			$image->thumbnail->url = $config['web_root']  . $config['cache_prefix'] . '/' .  $ItemID . "/thumbnails/" . $FileNamePrefix . '.gif'; 
+		
+			// Only fetch it we don't have cached copy	
+			if (!file_exists($image->thumbnail->file_name))
+			{
+				if (!$config['fetch_images']) 
 				{
-					$cache_file = @fopen($image->file_name, "w+") or die(__LINE__ . " could't open file --\"$image->file_name\"");
-					@fwrite($cache_file, $bits);
-					fclose($cache_file);
-					
-					// resize to 800 px wide to save space
-					
-					if (0)
+					$image->file_name = dirname(__FILE__) . '/www/images/blank350x500.png';
+					$image->thumbnail->file_name =  dirname(__FILE__) . '/www/images/blank70x100.png';
+				
+					$image->thumbnail->url = 'images/blank70x100.png';
+					$image->url = 'images/blank350x500.png';
+				}
+				else
+				{
+					//echo $image->ExternalURL . "\n";
+			
+					$bits = get($image->ExternalURL);
+					if ($bits != '')
 					{
-						// turned off as slows things down, and can lead to gray pages	
-						$command = 'nice ' . $config['mogrify']  . ' -resize 800 ' . $image->file_name;
-						system($command);
-					}
-	
-					// thumbnail
-					$command = $config['convert']  . ' -thumbnail 100 ' . $image->file_name . ' ' . $image->thumbnail->file_name . '  2>&1 &';
-					//system($command);
+						$cache_file = @fopen($image->file_name, "w+") or die(__LINE__ . " could't open file --\"$image->file_name\"");
+						@fwrite($cache_file, $bits);
+						fclose($cache_file);
 					
-					passthru($command);
+						// resize to 800 px wide to save space
+					
+						if (0)
+						{
+							// turned off as slows things down, and can lead to gray pages	
+							$command = 'nice ' . $config['mogrify']  . ' -resize 800 ' . $image->file_name;
+							system($command);
+						}
+	
+						// thumbnail
+						$command = $config['convert']  . ' -thumbnail 100 ' . $image->file_name . ' ' . $image->thumbnail->file_name . '  2>&1 &';
+						//system($command);
+					
+						passthru($command);
+					}
 				}
 			}
+		
+			// Sizes
+			// get image size
+			// sometimes we may be missing an image, so getimagesize will generate a warning message. 
+			// putting @ in front supresses this!
+			$size = @getimagesize($image->file_name);
+			$image->width = $size[0];
+			$image->height = $size[1];	
+		
+			// get thumbnail size
+			$size = @getimagesize($image->thumbnail->file_name);
+			$image->thumbnail->width = $size[0];
+			$image->thumbnail->height = $size[1];	
+		
 		}
-		
-		// Sizes
-		// get image size
-		// sometimes we may be missing an image, so getimagesize will generate a warning message. 
-		// putting @ in front supresses this!
-		$size = @getimagesize($image->file_name);
-		$image->width = $size[0];
-		$image->height = $size[1];	
-		
-		// get thumbnail size
-		$size = @getimagesize($image->thumbnail->file_name);
-		$image->thumbnail->width = $size[0];
-		$image->thumbnail->height = $size[1];	
-		
 	}
 	return $image;
 }

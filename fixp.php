@@ -34,14 +34,14 @@ $ids=array(80076,80077,80078,80079,80080,80082,80083,80084,80085,80089,80090,800
 
 $ids=array(133261);
 
-$ids=array(144878);
+$ids=array(153594);
 
 
 
 
 //foreach ($ids as $reference_id)
 
-for ($reference_id=145855;$reference_id<=145855;$reference_id++)
+for ($reference_id=11850;$reference_id<=11850;$reference_id++)
 {
 	$article = db_retrieve_reference($reference_id);
 
