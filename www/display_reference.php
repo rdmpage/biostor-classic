@@ -413,7 +413,7 @@ Event.observe(window, \'load\', function() {
 
 			echo 'var bounds = new GLatLngBounds();' . "\n";
 			
-			$n = min(100, count($this->localities));
+			$n = min(10, count($this->localities));
 			for ($i = 0; $i < $n; $i++)
 			{
 				echo 'var latlng = new GLatLng(';
@@ -942,20 +942,48 @@ Event.observe(window, \'load\', function() {
 			// Store thumbnails of pages (just page 1 for now)
 			if ($count == 0)
 			{
-				$image = bhl_fetch_page_image($page->PageID);
-				$file = @fopen($image->thumbnail->file_name, "r") or die("could't open file --\"$image->thumbnail->file_name\"");
-				$img = fread($file, filesize($image->thumbnail->file_name));
-				fclose($file);
+				if (0)
+				{
+					$image = bhl_fetch_page_image($page->PageID);
+					$file = @fopen($image->thumbnail->file_name, "r") or die("could't open file --\"$image->thumbnail->file_name\"");
+					$img = fread($file, filesize($image->thumbnail->file_name));
+					fclose($file);
 				
-				// to do: test for MIME type, don't assume it
+					// to do: test for MIME type, don't assume it
 				
-				$base64 = chunk_split(base64_encode($img));
-				$thumbnail = 'data:image/gif;base64,' . $base64;
+					$base64 = chunk_split(base64_encode($img));
+					$thumbnail = 'data:image/gif;base64,' . $base64;
 				
-				$j->thumbnails[] = $thumbnail;
+					$j->thumbnails[] = $thumbnail;
+				}
+				else
+				{
+					$image = bhl_fetch_page_image($page->PageID);
+					
+					$img = get($image->thumbnail->url);
+					$base64 = chunk_split(base64_encode($img));
+					$thumbnail = 'data:image/jpeg;base64,' . $base64;
+				
+					$j->thumbnails[] = $thumbnail;					
+					
+					
+				
+				}
 			}
 			$count++;
 		}
+		
+		$j->ia = new stdclass;
+		$j->ia->pages = array();
+		
+		$ia_pages = bhl_retrieve_item_pages_for_reference($this->id);
+		foreach ($ia_pages as $page)
+		{
+			$j->ia->pages[] = (Integer)$page->SequenceOrder;
+		}
+		//$j->ia_pages = $ia_pages;
+		$j->ia->FileNamePrefix = preg_replace('/_\d+$/', '', $ia_pages[0]->FileNamePrefix);
+		
 		
 		// don't do names..
 		if (1)
