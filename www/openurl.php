@@ -261,6 +261,13 @@ function parse_openurl($params, &$referent)
 		$referent->secondary_title = preg_replace('/%9F/', 'ü', $referent->secondary_title);
 	}
 	
+	//------------------------------------------------------------------------------------
+	// German Wikipedia may have 'Bd.' prefix for volume
+	// e.g. https://de.wikipedia.org/wiki/Hans_Hermann_Carl_Ludwig_von_Berlepsch
+	if (preg_match('/^Bd\.?\s*(?<volume>.*)$/', $referent->volume, $match))
+	{
+		$referent->volume = $match['volume'];
+	}
 	
 }
 
