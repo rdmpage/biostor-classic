@@ -41,7 +41,7 @@ if ($ItemID != 0)
 	<meta charset="utf-8" />
 	<title>Page Range Editor</title>
 	
-	<base href="http://biostor.org/" />
+	<base href="http://direct.biostor.org/" />
 	
 	<script src="js/jquery-1.9.1.js"></script>
 	<script src="js/jquery-ui.js"></script>
@@ -79,7 +79,9 @@ if ($ItemID != 0)
 	
 	function show_page(page_id)
 	{
-		$('#page').attr('src', 'bhl_image.php?PageID=' + page_id);
+		//$('#page').attr('src', 'bhl_image.php?PageID=' + page_id);
+		// http://www.biodiversitylibrary.org/pagethumb/10590092,500,500
+		$('#page').attr('src', 'http://www.biodiversitylibrary.org/pagethumb/' + page_id + ',500,500');
 	}
 	</script>
 </head>
@@ -117,7 +119,9 @@ EOT;
 			echo 'class="ui-selected" ';
 		}
 		
-		echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="bhl_image.php?PageID=' . $page->PageID . '&thumbnail" />';
+		//echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="bhl_image.php?PageID=' . $page->PageID . '&thumbnail" />';
+		
+		echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="http://www.biodiversitylibrary.org/pagethumb/' . $page->PageID . ',80,80" />';
 		
 		if (isset($page->PageNumber))
 		{

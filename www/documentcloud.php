@@ -34,10 +34,14 @@ $obj->pages = count($bhl_pages);
 $obj->resources = new stdclass;
 
 $obj->resources->page = new stdclass;
-$obj->resources->page->text = 'http://biostor.org/reference/' . $id . '/pages/{page}';
-$obj->resources->page->image = 'http://biostor.org/reference/' . $id . '/pages/{page}-{size}';
+$obj->resources->page->text  = $config['web_root'] . 'reference/' . $id . '/pages/{page}';
+//$obj->resources->page->image = $config['web_root'] . 'reference/' . $id . '/pages/{page}-{size}';
+$obj->resources->page->image = "http://biostor.org/documentcloud/biostor/" . $id . "/pages/{page}-{size}";
+$obj->resources->page->text = "http://biostor.org/documentcloud/biostor/" . $id . "/pages/{page}";
 
-$obj->resources->search = 'http://biostor.org/dvs/' . $id . '/json?q={query}';
+
+
+$obj->resources->search = $config['web_root'] . 'dvs/' . $id . '/json?q={query}';
 
 $obj->sections = array();
 
