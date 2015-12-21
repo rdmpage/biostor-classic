@@ -14,7 +14,7 @@ function user_is_logged_in()
 {
 	global $config;
 	
-	if (0)
+	if (1)
 	{
 		return true;
 	}
