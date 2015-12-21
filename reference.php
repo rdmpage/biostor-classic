@@ -888,6 +888,14 @@ function reference_to_bibjson($reference)
 			}
 		}
 		
+		if (isset($reference->spage))
+		{
+			$obj->pages = $reference->spage;
+		}
+		if (isset($reference->epage))
+		{
+			$obj->pages .= '--' . $reference->epage;
+		}		
 				
 	}
 	
@@ -941,6 +949,15 @@ function reference_to_bibjson($reference)
 			}
 		}
 		
+		
+		if (isset($reference->spage))
+		{
+			$obj->pages = $reference->spage;
+		}
+		if (isset($reference->epage))
+		{
+			$obj->pages .= '--' . $reference->epage;
+		}		
 		
 		
 	}
