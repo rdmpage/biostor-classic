@@ -59,8 +59,8 @@ while (!$result->EOF)
 
 $obj->pages = count($bhl_pages);
 $obj->resources->page = new stdclass;
-$obj->resources->page->text = 'http://biostor.org/bhldc/' . $ItemID . '/pages/{page}';
-$obj->resources->page->image = 'http://biostor.org/bhldc/' . $ItemID . '/pages/{page}-{size}';
+$obj->resources->page->text = 'http://direct.biostor.org/bhldc/' . $ItemID . '/pages/{page}';
+$obj->resources->page->image = 'http://direct.biostor.org/bhldc/' . $ItemID . '/pages/{page}-{size}';
 
 
 
