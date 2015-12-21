@@ -652,6 +652,23 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	{
 		$title = 'Notulae systematicae';
 	}
+
+	if ($title == 'JB mal Ges')
+	{
+		$title = 'Jahrbücher der Deutschen Malakozoologischen Gesellschaft';
+	}
+
+	if ($title == 'Boletim Biologico Sao Paulo')
+	{
+		$title = 'Boletim Biologico';
+	}
+	
+	if ($title == 'Memoirs of Nanjing Institute of Geology and Palaeontology')
+	{
+		$title = 'Zhongguo ke xue yuan Nanjing di zhi gu sheng wu yan jiu suo ji kan';
+	}
+	
+	
 	
 	
 	
@@ -1018,6 +1035,18 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 5010:
 				$title_list = array(6343, 2205, 13266, 4647, 5010);
 				break;
+				
+			// Annales du Muséum National d'Histoire Naturelle
+			case 4378:
+			case 41507:
+				$title_list = array(4378, 41507);
+				break;
+				
+			// Annuaire du Conservatoire et du jardin botaniques de Genève
+			case 5111:
+			case 52147:
+				$title_list = array(5111, 52147);
+				break;
 
 			// Ann. Mag. Nat. Hist.
 			case 2195:
@@ -1231,7 +1260,8 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 4949:
 			case 50446:
 			case 60457:
-				$title_list = array(4949, 50446, 60457);
+			case 110105:
+				$title_list = array(4949, 50446, 60457, 110105);
 				break;
 			
 				
@@ -1322,6 +1352,17 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 47024:
 				$title_list=array(47024 ,51678);
 				break;
+				
+			// Journal of the Botanical Research Institute of Texas
+			case 50590 :
+			case 63883:
+			case 109678:
+			case 109775:
+			case 109289:
+			case 107602:
+			case 106809:
+				$title_list=array(50590,63883,109678,109775,109289,107602,106809);
+				break;
 			
 			// The journal of the College of Agriculture, Tohoku Imperial University, Sapporo, Japan
 			case 8338 :
@@ -1356,6 +1397,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list=array(51643,15800);
 				break;
 				
+			// Memoirs of the Asiatic Society of Bengal
+			case 65764:
+			case 103412:
+				$title_list=array(65764,103412);
+				break;
 				
 			// Memoirs And Proceedings of The Manchester Literary And Philosophical Society
 			case 50366:
@@ -1600,6 +1646,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 6927:
 			case 15220:
 				$title_list=array(6927,15220);
+				break;
+				
+			// Revista do Museu Paulista
+			case 10241:
+			case 107243:
+				$title_list=array(10241,107243);
 				break;
 			
 			// Revue d'entomologie
@@ -1868,6 +1920,14 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	{
 		for ($i = 0; $i < $num_items; $i++)
 		{
+			// default
+			
+			$sql = 'SELECT * FROM bhl_page 
+			INNER JOIN page USING(PageID)
+			WHERE (bhl_page.ItemID = ' . $obj->ItemIDs[$i]->ItemID . ') 
+			AND (PageNumber = ' . $db->qstr($page) . ')
+			ORDER BY SequenceOrder';
+			
 			$sql = 'SELECT * FROM bhl_page 
 			INNER JOIN page USING(PageID)
 			WHERE (bhl_page.ItemID = ' . $obj->ItemIDs[$i]->ItemID . ') 
@@ -1878,7 +1938,10 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			$sql = 'SELECT * FROM bhl_page 
 			INNER JOIN page USING(PageID)
 			WHERE (bhl_page.ItemID = ' . $obj->ItemIDs[$i]->ItemID . ') 
-			AND (PageNumber = ' . $db->qstr($page) . ')
+			AND (
+			 (PageNumber = ' . $db->qstr($page) . ')
+			 OR (PageNumber = ' . $db->qstr('[' . $page . ']') . ')
+			)
 			ORDER BY SequenceOrder';
 			
 			//echo $sql;

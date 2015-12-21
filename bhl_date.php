@@ -127,6 +127,45 @@ function parse_bhl_date($str, &$info)
 		echo $str . '<br/>';
 	}
 	
+	// 43 Part 1 & 2
+	if (!$matched)
+	{
+		if ($debug) echo "Trying " . __LINE__ . "\n";
+		if (preg_match("/^(?<volume>\d+)\s+Part/Uu", $str, $m))
+		{
+			$info->volume = $m['volume'];
+			$matched = true;
+		}	
+	}	
+	
+	// n.s. v.5 (1905)
+	if (!$matched)
+	{
+		if ($debug) echo "Trying " . __LINE__ . "\n";
+		if (preg_match("/n.s. v.(?<volume>\d+)\s+\((?<year>[0-9]{4})\)/Uu", $str, $m))
+		{
+			$info->volume = $m['volume'];
+			$info->start = $m['year'];		
+			$matched = true;
+		}	
+	}	
+	
+	// n.s v.7-9 (1909-1911)
+	if (!$matched)
+	{
+		if ($debug) echo "Trying " . __LINE__ . "\n";
+		if (preg_match("/n.s. v.(?<volume_from>\d+)-(?<volume_to>\d+)\s+\((?<year_from>[0-9]{4})\s*-\s*(?<year_to>[0-9]{4})\)$/Uu", $str, $m))
+		{
+			$info->volume_from = $m['volume_from'];
+			$info->volume_to = $m['volume_to'];
+
+			$info->start = $m['year_from'];		
+			$info->end = $m['year_to'];	
+			$matched = true;
+		}	
+	}	
+	
+	
 	// v.I: no.5
 	if (!$matched)
 	{
