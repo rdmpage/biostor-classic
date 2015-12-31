@@ -199,8 +199,8 @@ $end   = 160045;
 $start = 160086;
 $end   = 160086;
 
-$start = 160224;
-$end   = 160224;
+$start = 160484;
+$end   = 160484;
          
 
 
@@ -218,8 +218,8 @@ for ($reference_id = $start; $reference_id <= $end; $reference_id++)
 	{
 		$nm = bhl_names_in_reference_by_page($reference_id);
 		
-		if (isset($nm->names) && (count($nm->names) == 0))
-		//if (1) // BHL
+		//if (isset($nm->names) && (count($nm->names) == 0))
+		if (1) // BHL
 		{
 			// fetch names
 			$pages = bhl_retrieve_reference_pages($reference_id);

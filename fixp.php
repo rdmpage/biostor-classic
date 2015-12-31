@@ -41,7 +41,7 @@ $ids=array(153594);
 
 //foreach ($ids as $reference_id)
 
-for ($reference_id=11850;$reference_id<=11850;$reference_id++)
+for ($reference_id=144556;$reference_id<=144556;$reference_id++)
 {
 	$article = db_retrieve_reference($reference_id);
 

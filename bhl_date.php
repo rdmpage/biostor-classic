@@ -127,6 +127,19 @@ function parse_bhl_date($str, &$info)
 		echo $str . '<br/>';
 	}
 	
+	// Jahrg.29:nr.2 (2001)
+	if (!$matched)
+	{
+		if ($debug) echo "Trying " . __LINE__ . "\n";
+		if (preg_match("/^Jahrg\.(?<volume>\d+):nr.(?<issue>\d+)\s+\((?<year>[0-9]{4})\)/Uu", $str, $m))
+		{
+			$info->volume 	= $m['volume'];
+			$info->issue 	= $m['issue'];
+			$info->start 	= $m['year'];	
+			$matched = true;
+		}	
+	}	
+	
 	// 43 Part 1 & 2
 	if (!$matched)
 	{
