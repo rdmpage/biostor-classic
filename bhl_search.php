@@ -668,11 +668,6 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		$title = 'Zhongguo ke xue yuan Nanjing di zhi gu sheng wu yan jiu suo ji kan';
 	}
 	
-	
-	
-	
-	
-	
 	// Step one
 	// --------
 	// Map journal title to BHL titles. We try to achieve this by first finding ISSN for title,
@@ -705,6 +700,16 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			$obj->TitleID = 40896;
 			break;
 			
+		// Annotationes Zoologicae Japonenses
+		case '0003-5092':
+			$obj->TitleID = 79642;
+			break;
+			
+		// Arnaldoa : revista del Herbario HAO
+		case '1815-8242':
+			$obj->TitleID = 61808;
+			break;
+			
 	
 		case '0373-6660':
 			$obj->TitleID = 13345;
@@ -731,6 +736,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			$obj->TitleID = 5943;
 			break;
 			
+		// Bulletin of the Brooklyn Entomological Society.
+		case '1051-8932':
+			$obj->TitleID = 16211;
+			break;
+		
 		// Bulletin of the Natural History Museum. Zoology series
 		case '0968-0470':
 			$obj->TitleID = 62642;
@@ -855,6 +865,20 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 'Ann Mus St Petersburg':
 			case 'St Petersburg Ann mus zool':
 				$obj->TitleID = 8097;
+				break;
+				
+	
+			case 'Adansonia; recueil d\'observations botaniques':
+				$obj->TitleID = 600;
+				break;
+				
+			case 'Bulletin du Museum National d\'Histoire Naturelle Section B Adansonia':
+			case 'Bulletin Du Museum National D\'histoire Naturelle Section B Adansonia Botanique Phytochimie':
+				$obj->TitleID = 13855;
+				break;
+				
+			case 'Notulae Systematicae. Herbier Du Museum De Paris':
+				$obj->TitleID = 314;
 				break;
 				
 			default:
@@ -1084,12 +1108,26 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 6928:
 				$title_list = array(62815, 6928);
 				break;
+				
+			// Annales de l'Université de Lyon.
+			case 4372:
+			case 104713:
+				$title_list = array(4372, 104713);
+				break;
 			
 			// 	Annales des sciences naturelles, Zoologie
 			case 13266:
 			case 4647:
 				$title_list = array(4647,13266);
 				break;
+				
+			// Arachnologische mitteilungen
+			case 118453:
+			case 116226:
+				$title_list = array(118453,116226);
+				break;
+			
+
 		
 			// Archiv für Naturgeschichte
 			case 6638:
@@ -1184,6 +1222,13 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 39837:
 				$title_list = array(9663,39837);
 				break;
+				
+			// Bulletin de l'Académie Royale des Sciences, des Lettres et des Beaux-Arts de Belgique
+			case 2735:
+			case 5550:
+				$title_list = array(2735, 5550);
+				break;
+				
 						
 			// Bulletin de l'Académie impériale des sciences de St.-Pétersbourg
 			case 42575:
@@ -1316,13 +1361,23 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list = array(5132, 42256);
 				break;
 				
-				
+			// Repertorium specierum novarum regni vegetabilis
+			case 276:
+			case 647:
+				$title_list = array(276, 647);
+				break;
 				
 				
 			// Gayana
 			case 39684:
 			case 39988:
 				$title_list=array(39988,39684);
+				break;
+				
+				
+			case 51724:
+			case 49986:
+				$title_list=array(51724,49986);
 				break;
 				
 			// Jahrbuch der Hamburgischen Wissenschaftlichen Anstalten
@@ -1368,6 +1423,13 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 8338 :
 			case 98298:
 				$title_list=array(8338,98298);
+				break;
+				
+			// Journal of East Africa Natural History
+			// The Journal of the East Africa and Uganda Natural History Society
+			case 53426 :
+			case 14163:
+				$title_list=array(53426,14163);
 				break;
 			
 				
@@ -1429,7 +1491,8 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 60751:
 			case 61449:
 			case 101455:
-				$title_list = array(12912,60751,61449,101455);
+			case 107966:
+				$title_list = array(12912,60751,61449,101455, 107966);
 				break;
 					
 			// Misc Pub Kansas (some of these are treated as individual titles)
@@ -1738,6 +1801,13 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 15242:
 				$title_list = array(13508, 15242);
 				break;
+				
+			// Transactions of the Albany Institute
+			case 5590:
+			case 69278:
+				$title_list = array(5590, 69278);
+				break;
+				
 				
 			// Transactions and proceedings and report of the Royal Society of South Australia (Incorporated)
 			case 51476:

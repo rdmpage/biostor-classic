@@ -259,8 +259,7 @@ function extract_specimen_codes($t)
 	// BMNH, e.g. BMNH1947.2.26.89
 	if (preg_match_all(
 		'/
-		(?<code>BM\s*(\(|\[)?NH(\)|\])?)
-		\s*
+		(?<code>BM\s*((\(|\[)?NH(\)|\]))?)
 		([N|n]o\.\s*)?
 		(?<number>([0-9]{2,4}(\.[0-9]+)+) )
 		
@@ -279,7 +278,7 @@ function extract_specimen_codes($t)
 		for ($i = 0; $i < count($out[0]); $i++)
 		{
 			$s = new stdClass;
-			$s->code = $out['code'][$i];
+			$s->code = trim($out['code'][$i]);
 			$s->prefix = '';
 			$s->number = $out['number'][$i];
 			$s->end = $out['end'][$i];
@@ -294,7 +293,7 @@ function extract_specimen_codes($t)
 	// BMNH, e.g. BM(NH) 1981.5.26: 11-14
 	if (preg_match_all(
 		'/
-		(?<code>BM\s*(\(|\[)?NH(\)|\])?)
+		(?<code>BM\s*((\(|\[)?NH(\)|\]))?)
 		\s*
 		(?<number>([0-9]{2,4}(\.[0-9]+)+):\s+\d+(-\d+)?)
 		/x',  

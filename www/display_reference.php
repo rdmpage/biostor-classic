@@ -191,7 +191,9 @@ class DisplayReference extends DisplayObject
 		echo html_include_link('application/rss+xml', 'RSS2.0', 'reference/' . $this->id . '.rss', 'alternate');
 
 		// Canonical link
-		echo html_include_link('', '', 'reference/' . $this->id, 'canonical');
+		//echo html_include_link('', '', 'reference/' . $this->id, 'canonical');
+		
+		echo '<link rel="canonical" href="http://biostor.org/reference/' . $this->id . '" />' . "\n";
 		
 		echo html_include_css('css/viewer.css');
 		echo html_include_script('js/fadeup.js');
@@ -530,12 +532,14 @@ Event.observe(window, \'load\', function() {
 		echo '<li class="permalink">' . '<div itemscope itemtype="http://schema.org/ScholarlyArticle">' . '<a href="' . $config['web_root'] . 'reference/' . $this->id . '" title="Permalink">' . $config['web_root'] . 'reference/' . $this->id . '</a>' . '</div>' . '</li>' . "\n";	
 		if ($this->in_bhl)
 		{
-			echo '<li class="bhl"><a href="http://www.biodiversitylibrary.org/page/' . $this->object->PageID . '" target="_new" title="BHL page"  onClick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'bhl\', \'' . $this->object->PageID . '\', 0]);">' .  $this->object->PageID . '</a></li>' . "\n";
+//			echo '<li class="bhl"><a href="http://www.biodiversitylibrary.org/page/' . $this->object->PageID . '" target="_new" title="BHL page"  onClick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'bhl\', \'' . $this->object->PageID . '\', 0]);">' .  $this->object->PageID . '</a></li>' . "\n";
+			echo '<li class="bhl"><a href="http://www.biodiversitylibrary.org/page/' . $this->object->PageID . '" target="_new" title="BHL page">' .  $this->object->PageID . '</a></li>' . "\n";
 		}
 		
 		if (isset($this->object->doi))
 		{
-			echo '<li class="doi"><a href="http://dx.doi.org/' . $this->object->doi . '" target="_new" title="DOI" onClick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'doi\', \'' . $this->object->doi . '\', 0]);">' .  $this->object->doi . '</a></li>' . "\n";
+			//echo '<li class="doi"><a href="http://dx.doi.org/' . $this->object->doi . '" target="_new" title="DOI" onClick="_gaq.push([\'_trackEvent\', \'Outbound Links\', \'doi\', \'' . $this->object->doi . '\', 0]);">' .  $this->object->doi . '</a></li>' . "\n";
+			echo '<li class="doi"><a href="http://dx.doi.org/' . $this->object->doi . '" target="_new" title="DOI">' .  $this->object->doi . '</a></li>' . "\n";
 		}
 		if (isset($this->object->url))
 		{
@@ -563,21 +567,31 @@ Event.observe(window, \'load\', function() {
 		echo '<ul class="export-list">' . "\n";
 
 		// Mendeley
-		echo '<li class="mendeley"><a href="http://www.mendeley.com/import/?url=' . urlencode($config['web_root'] . 'reference/' . $this->id) . '" title="Add to Mendeley" target="_new" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'Mendeley\', \'' . $this->id . '\', 0]);">Mendeley</a></li>';
+		//echo '<li class="mendeley"><a href="http://www.mendeley.com/import/?url=' . urlencode($config['web_root'] . 'reference/' . $this->id) . '" title="Add to Mendeley" target="_new" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'Mendeley\', \'' . $this->id . '\', 0]);">Mendeley</a></li>';
+		echo '<li class="mendeley"><a href="http://www.mendeley.com/import/?url=' . urlencode($config['web_root'] . 'reference/' . $this->id) . '" title="Add to Mendeley" target="_new" >Mendeley</a></li>';
 		
+		/*
 		if ($this->in_bhl)
 		{
 			echo '<li class="pdf"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.pdf" title="PDF" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'pdf\', \'' . $this->id . '\', 0]);">PDF</a></li>';
 		}
+		*/
+		/*
 		echo '<li class="xml"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.xml" title="Endnote XML" target="_new" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'Endnote\', \'' . $this->id . '\', 0]);">Endnote XML</a></li>';
 		echo '<li class="ris"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.ris" title="RIS" target="_new" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'RIS\', \'' . $this->id . '\', 0]);">Reference manager</a></li>';		
 		echo '<li class="bibtex"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.bib" title="BibTex" target="_new" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'bibtex\', \'' . $this->id . '\', 0]);">BibTex</a></li>';	
 		echo '<li class="bibjson"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.bibjson" title="BibJSON" target="_new" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'bibjson\', \'' . $this->id . '\', 0]);">BibJSON</a></li>';	
 		echo '<li class="wikipedia"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.wikipedia" title="Wikipedia" target="_new" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'Wikipedia\', \'' . $this->id . '\', 0]);">Wikipedia</a></li>';	
+		*/
+		echo '<li class="xml"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.xml" title="Endnote XML" target="_new" >Endnote XML</a></li>';
+		echo '<li class="ris"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.ris" title="RIS" target="_new" >Reference manager</a></li>';		
+		echo '<li class="bibtex"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.bib" title="BibTex" target="_new" >BibTex</a></li>';	
+		echo '<li class="bibjson"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.bibjson" title="BibJSON" target="_new" >BibJSON</a></li>';	
+		echo '<li class="wikipedia"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.wikipedia" title="Wikipedia" target="_new" >Wikipedia</a></li>';	
 		
 		if ($this->in_bhl)
 		{
-			echo '<li class="text"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.text" title="Text" onClick="_gaq.push([\'_trackEvent\', \'Export\', \'text\', \'' . $this->id . '\', 0]);">Text</a></li>';
+			echo '<li class="text"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.text" title="Text" >Text</a></li>';
 		}
 		echo '</ul>' . "\n";
 

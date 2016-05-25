@@ -131,7 +131,14 @@ function get_unique_names($response)
    		$names = array();
    		foreach ($response->names as $name)
    		{
-   			$names[] = $name->scientificName;
+   			// clean some of the crap
+   			
+   			$str = $name->scientificName;
+   			
+   			$str = preg_replace('/\s+sp$/', '', $name->scientificName);
+   		
+   		
+   			$names[] = $str;
    		}
    	}
    	$names = array_unique($names);

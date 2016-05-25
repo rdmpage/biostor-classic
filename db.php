@@ -635,7 +635,7 @@ function bhl_retrieve_reference_pages($reference_id)
 	
 	$pages = array();
 	
-	$sql = 'SELECT DISTINCT(PageID), page_order, PagePrefix, PageNumber 
+	$sql = 'SELECT DISTINCT(PageID), page_order, PagePrefix, PageTypeName, PageNumber 
 	FROM rdmp_reference_page_joiner 
 	INNER JOIN bhl_page USING(PageID)
 	WHERE (reference_id = ' . $reference_id . ')
@@ -651,6 +651,8 @@ function bhl_retrieve_reference_pages($reference_id)
 		$page->page_order = $result->fields['page_order'];
 		$page->PagePrefix = $result->fields['PagePrefix'];
 		$page->PageNumber = $result->fields['PageNumber'];
+		$page->PageTypeName = $result->fields['PageTypeName'];
+		
 		
 		$pages[] = $page;
 		$result->MoveNext();
@@ -1842,6 +1844,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 			case 'genre':
 			case 'doi':
 			case 'hdl':
+			case 'jstor':
 			case 'lsid':
 			case 'pdf':
 			case 'abstract':

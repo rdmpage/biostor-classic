@@ -1091,6 +1091,15 @@ function reference_to_bibjson($reference)
 		$obj->identifier[] = $identifier;			
 	}
 	
+	if (isset($reference->jstor))
+	{
+		$identifier = new stdclass;
+		$identifier->type = 'jstor';
+		$identifier->id = (Integer)$reference->jstor; 
+		$obj->identifier[] = $identifier;			
+	}
+	
+	
 	if (0)
 	{
 		// espensive as it hits MySQL bad
@@ -1128,6 +1137,16 @@ function reference_to_bibjson($reference)
 		if ($page->PagePrefix != '')
 		{
 			$label = $page->PagePrefix;
+			
+			if ($page->PageTypeName != '')
+			{
+				if ($page->PageTypeName != 'Text')
+				{
+					$label .= ' (' . $page->PageTypeName . ')';
+				}
+			}
+						
+			
 			$label .= ' ' . $page->PageNumber;
 		}
 		else

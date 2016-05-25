@@ -5,20 +5,68 @@ require_once('../lib.php');
 
 $djvu_string = '';
 
-$Titles=array(109678,
-109775,
-109289,
-107602,
-106809
-);
-$want=array();
 
 $Titles=array(
-57881
+116226,116503
 );
 $want=array(
 
 );
+
+$Titles=array(
+112965,65344,7414,8981
+);
+$want=array(
+202229,202386,202512,202571
+);
+
+// http://biodiversitylibrary.org/bibliography/116503
+// http://biodiversitylibrary.org/bibliography/112965
+$Titles=array(
+8981,
+79076,
+6170,
+62643
+);
+$want=array(
+// Rev Sui
+203304,
+203184,
+// Naut
+203169,
+203168,
+203167,
+// Nota Lep
+203185,
+203048,
+// J Lep
+203166,
+202862,
+202847,
+202846
+
+
+);
+
+
+
+$Titles=array(
+118453,118615,8089,117069
+);
+$want=array(
+
+);
+
+$Titles=array(
+9429
+);
+$want=array(
+205871
+);
+
+
+
+
 
 foreach ($Titles as $TitleID)
 {

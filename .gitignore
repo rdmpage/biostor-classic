@@ -12,3 +12,6 @@ www/cache-local
 # bhlapi data files
 bhlapi/*.sql
 bhlapi/*.txt
+
+
+*.sql

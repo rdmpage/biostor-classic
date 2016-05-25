@@ -70,7 +70,7 @@ function html_head_open()
 function html_head_close()
 {
 	// Google Analytics (new style)
-	
+	/*
 	echo "<script type=\"text/javascript\">
 
   var _gaq = _gaq || [];
@@ -84,6 +84,7 @@ function html_head_close()
   })();
 
 </script>\n";
+*/
 
 	return '</head>' . "\n";
 }

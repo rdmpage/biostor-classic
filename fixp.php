@@ -36,12 +36,45 @@ $ids=array(133261);
 
 $ids=array(153594);
 
+$ids=array(113726,
+113727,
+113728,
+113729,
+113730,
+113731,
+113732,
+113733,
+113734,
+113735,
+113736,
+113737,
+113738,
+113739,
+113740,
+113741,
+113742,
+113743,
+113744,
+113745,
+113746,
+113747,
+113748,
+144304
+);
+
+$ids=array(63546);
+
+$ids=array(63294,
+62313,
+62826,
+63630,
+63519,
+63483)
+;
 
 
-
-//foreach ($ids as $reference_id)
-
-for ($reference_id=144556;$reference_id<=144556;$reference_id++)
+foreach ($ids as $reference_id)
+//for ($reference_id=113729;$reference_id<=113729;$reference_id++)
 {
 	$article = db_retrieve_reference($reference_id);
 

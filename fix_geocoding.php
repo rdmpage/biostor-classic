@@ -32,7 +32,13 @@ $ids=array(150786,150785);
 
 $ids=array(4298);
 
-foreach ($ids as $reference_id)
+$ids=array(164556);
+
+$start 	= 166655;
+$end 	= 166655;
+
+for ($reference_id = $start; $reference_id <= $end; $reference_id++)
+//foreach ($ids as $reference_id)
 {
 	global $db;
 	

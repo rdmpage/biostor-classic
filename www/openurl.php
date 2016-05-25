@@ -115,6 +115,13 @@ function parse_openurl($params, &$referent)
 					{
 						$referent->url = $v;
 					}
+					// JSTOR
+					if (preg_match('/^http:\/\/www.jstor.org\//', $v, $match))
+					{
+						$referent->jstor = $v;
+						$referent->jstor = str_replace('http://www.jstor.org/stable/', '', $referent->jstor);
+					}
+					
 					// LSID
 					if (preg_match('/^urn:lsid:/', $v, $match))
 					{
@@ -951,7 +958,7 @@ function main()
 				{
 					$tweet_this = false;
 					
-					$tweet_this = isset($_GET['rfr_id']);
+					//$tweet_this = isset($_GET['rfr_id']);
 					
 					if ($tweet_this)
 					{
