@@ -150,6 +150,10 @@ class Sici extends Identifier
 			$title = str_replace('[', '', $title);
 			$title = str_replace(']', '', $title);
 			
+			$title = str_replace('“', '', $title);
+			$title = str_replace('”', '', $title);
+			
+			
 /*			$title = strtr($title,
 				'ÂÊÁÈÉËÍÎÌÏÓÔÒÛÚÙÜÖÜÅÔØ',  
 				'AEAEEEIIIIOOOUUUUOUAOO'								

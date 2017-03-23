@@ -6,6 +6,9 @@ config.inc.php
 www/cache
 www/cache-local
 
+www/tmp
+www/tmp/*
+
 #svn
 .svn*
 

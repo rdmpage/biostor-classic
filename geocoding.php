@@ -1042,6 +1042,58 @@ function points_from_text($text)
 		}	
 	}	
 	
+	// 49° 44' 10.28"N, 114° 53' 5.45"W;
+	if (!$matched)
+	{		
+		// 38 18' 30" N, 123 4' W
+		if (preg_match_all('/(
+			(?<latitude_degrees>([0-9]{1,2}))
+			°
+			\s+
+			(?<latitude_minutes>([0-9]+))\'
+			\s+
+			((?<latitude_seconds>([0-9]+(\.\d+)?))")?
+			\s*
+			(?<latitude_hemisphere>[N|S])
+			[,|;]\s*
+			(?<longitude_degrees>([0-9]{1,3}))
+			°
+			\s+
+			(?<longitude_minutes>([0-9]+))\'
+			\s+
+			((?<longitude_seconds>([0-9]+(\.\d+)?))")?
+			\s*
+			(?<longitude_hemisphere>[W|E])
+			)/xu',  $text, $matches, PREG_PATTERN_ORDER))
+		{
+			$num = count($matches[0]);
+			for ($i = 0; $i < $num; $i++)
+			{
+				$pt = new stdclass;
+			
+				if (isset($matches['latitude_seconds'][$i]))
+				{
+					$seconds = $matches['latitude_seconds'][$i];
+				}
+				$minutes = $matches['latitude_minutes'][$i];
+				$degrees = $matches['latitude_degrees'][$i];
+				$pt->latitude = degrees2decimal($degrees, $minutes, $seconds, $matches['latitude_hemisphere'][$i]);
+		
+		
+				if (isset($matches['longitude_seconds'][$i]))
+				{
+					$seconds = $matches['longitude_seconds'][$i];
+				}
+				$minutes = $matches['longitude_minutes'][$i];
+				$degrees = $matches['longitude_degrees'][$i];
+				$pt->longitude = degrees2decimal($degrees, $minutes, $seconds, $matches['longitude_hemisphere'][$i]);
+				
+				$points[] = $pt;
+			}
+			$matched = true;
+		}	
+	}
+	
 	if (!$matched)
 	{		
 		// 38 18' 30" N, 123 4' W
@@ -2058,6 +2110,8 @@ $text = "52,0802°N/20,7081°E ";
 //$text = "42°20’N/17°41’E"; // http://direct.biostor.org/reference/164438.text
 
 $text = "N 36°41’29” W 4°48’22”"; // http://direct.biostor.org/reference/164556.text
+
+$text = '49° 44\' 10.28"N, 114° 53\' 5.45"W;';
 
 	print_r(points_from_text($text));
 	

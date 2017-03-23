@@ -1,7 +1,7 @@
 <?php
 
-require_once ('../bhl_utilities.php');
-require_once ('../reference.php');
+require_once (dirname(dirname(__FILE__)) . '/bhl_utilities.php');
+require_once (dirname(dirname(__FILE__)) . '/reference.php');
 
 function articles_for_item($ItemID)
 {

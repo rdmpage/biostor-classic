@@ -81,7 +81,7 @@ if ($ItemID != 0)
 	{
 		//$('#page').attr('src', 'bhl_image.php?PageID=' + page_id);
 		// http://www.biodiversitylibrary.org/pagethumb/10590092,500,500
-		$('#page').attr('src', 'http://www.biodiversitylibrary.org/pagethumb/' + page_id + ',500,500');
+		$('#page').attr('src', 'http://biostor.org/page/image/' + page_id + '-large.jpg');
 	}
 	</script>
 </head>
@@ -121,7 +121,7 @@ EOT;
 		
 		//echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="bhl_image.php?PageID=' . $page->PageID . '&thumbnail" />';
 		
-		echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="http://www.biodiversitylibrary.org/pagethumb/' . $page->PageID . ',80,80" />';
+		echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="http://biostor.org/page/image/' . $page->PageID . '-small.jpg" />';
 		
 		if (isset($page->PageNumber))
 		{

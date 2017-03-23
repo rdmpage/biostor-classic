@@ -75,23 +75,27 @@ if ($q != '')
 	
 	$page2biostor = array();
 	
-	
-	$sql = "SELECT PageID, reference_id FROM rdmp_reference_page_joiner WHERE PageID IN (" . join(",",$pages) . ")";
-	
-	$result = $db->Execute($sql);
-	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
-		
-	while (!$result->EOF) 
+	if (count($pages) > 0)
 	{
-		$page2biostor[$result->fields['PageID']]  = $result->fields['reference_id'];
-		$result->MoveNext();
-	}
-	/*
-	echo '<pre>';
 	
-	print_r($page2biostor);
-	echo '</pre>';
-	*/
+	
+		$sql = "SELECT PageID, reference_id FROM rdmp_reference_page_joiner WHERE PageID IN (" . join(",",$pages) . ")";
+	
+		$result = $db->Execute($sql);
+		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+		
+		while (!$result->EOF) 
+		{
+			$page2biostor[$result->fields['PageID']]  = $result->fields['reference_id'];
+			$result->MoveNext();
+		}
+	}
+	if (0)
+	{
+		echo '<pre>';
+		print_r($page2biostor);
+		echo '</pre>';
+	}
 	
 	$count = 0;
 	
@@ -116,6 +120,11 @@ if ($q != '')
 						$hit = reference_to_bibjson($reference);
 						$hit->PageID = $reference->PageID;
 						$hit->biostor = $page2biostor[$PageID];
+						
+						unset($hit->bhl_pages);
+						unset($hit->geometry);
+						unset($hit->text);
+						
 						$hits[$page2biostor[$PageID]] = $hit;
 						
 					}
@@ -174,10 +183,14 @@ if ($q != '')
 	}
 }
 
-/*echo '<pre>';
-print_r($hits);
-echo '</pre>';
-*/
+if (0)
+{
+	echo '<pre>';
+	echo "Hits";
+	print_r($hits);
+	echo '</pre>';
+}
+
 header('Content-type: text/plain');
 if ($callback != '')
 {

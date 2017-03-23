@@ -149,6 +149,10 @@ function reference_form($reference, $recaptcha = true)
 	$html .= '<span style="padding:4px;background-color:rgb(240,240,240);" onclick="SetSC(\'title\', \'„\');">„</span>';
 	$html .= '<span style="padding:4px;background-color:rgb(240,240,240);" onclick="SetSC(\'title\', \'‟\');">‟</span>';
 
+	$html .= '<span style="padding:4px;background-color:rgb(240,240,240);" onclick="SetSC(\'title\', \'†\');">‟</span>';
+	
+	
+
 
 	
 	$html .= '</td></tr>';

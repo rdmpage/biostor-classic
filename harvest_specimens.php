@@ -15,7 +15,7 @@ $sql = 'SELECT * FROM rdmp_reference WHERE';
 //$sql .= '  year > 1940';
 
 //$sql .= '  reference_id =133199';
-$sql .= '  reference_id = 163888';
+$sql .= '  reference_id = 3323';
 
 
 $ids = array();

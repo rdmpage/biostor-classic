@@ -1849,6 +1849,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 			case 'pdf':
 			case 'abstract':
 			case 'pmid':
+			case 'contributor':
 				$keys[] = $k;
 				$values[] = $db->qstr($v);
 				break;	
@@ -1889,7 +1890,8 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		$values[] = $PageID;
 	}	
 	
-	// SICI
+	// SICI - don't do this as we don't handle characters with umluars, etc.
+	/*
 	$s = new Sici;
 	$sici = $s->create($article);
 	if ($sici != '')
@@ -1897,6 +1899,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		$keys[] = 'sici';
 		$values[] = $db->qstr($sici);
 	}
+	*/
 	
 	if ($update)
 	{
@@ -2207,6 +2210,9 @@ function db_store_article($article, $PageID = 0, $updating = false)
 //--------------------------------------------------------------------------------------------------
 function db_retrieve_reference($id)
 {
+	$debug = true;
+	$debug = false;
+
 	global $db;
 	global $ADODB_FETCH_MODE;
 	
@@ -2214,6 +2220,11 @@ function db_retrieve_reference($id)
 	
 	$sql = 'SELECT * FROM rdmp_reference WHERE (reference_id = ' . $id . ') 
 		LIMIT 1';
+	
+	if ($debug)
+	{
+		echo $sql;
+	}
 	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -2245,6 +2256,11 @@ function db_retrieve_reference($id)
 			WHERE (rdmp_author_reference_joiner.reference_id = ' . $id . ')
 			ORDER BY rdmp_author_reference_joiner.author_order';
 			
+		if ($debug)
+		{
+			echo $sql;
+		}
+			
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 		
@@ -2271,6 +2287,13 @@ function db_retrieve_reference($id)
 			INNER JOIN rdmp_secondary_author_reference_joiner USING(author_id)
 			WHERE (rdmp_secondary_author_reference_joiner.reference_id = ' . $id . ')
 			ORDER BY rdmp_secondary_author_reference_joiner.author_order';
+
+		if ($debug)
+		{
+			echo $sql;
+		}
+
+
 			
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);

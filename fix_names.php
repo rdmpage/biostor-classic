@@ -6,23 +6,32 @@ require_once (dirname(__FILE__) . '/lib.php');
 require_once (dirname(__FILE__) . '/bhl_names.php');
 require_once (dirname(__FILE__) . '/gnrd.php');
 
-$ids = array();
 
-$start 	= 167677;
-$end 	= 167797;
+$start   = 189713;
+$end     = 190686;
 
-$start 	= 169876;
-$end 	= 169876;
+$start   = 190695;
+$end     = 191434;
+$start   = 191437;
+$end     = 192055;
+$start   = 192056;
+$end     = 192083;
+
+$start   = 208749;
+$end     = 208809;
 
 
-$ids=array(62154,63546);
-$ids=array(63294,
-62313,
-62826,
-63630,
-63519,
-63483)
-;
+
+
+
+
+
+
+$ids=array();
+
+$ids=array(
+114877
+);
 
 for ($reference_id = $start; $reference_id <= $end; $reference_id++)
 //foreach($ids as $reference_id )

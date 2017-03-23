@@ -101,6 +101,12 @@ if ($can_update)
 				$reference->{$key} = stripcslashes($value);
 				break;
 				
+			// database contributor
+			case 'contributor':
+				$reference->{$key} = stripcslashes($value);
+				break;
+				
+				
 			case 'PageID':
 				$PageID = $value;
 				break;

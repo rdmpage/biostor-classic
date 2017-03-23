@@ -9,6 +9,7 @@
  
 require_once(dirname(__FILE__) . '/config.inc.php'); 
 require_once(dirname(__FILE__) . '/nameparse.php'); 
+require_once(dirname(__FILE__) . '/bhl_text.php'); 
  
 //--------------------------------------------------------------------------------------------------
 /**
@@ -1155,6 +1156,20 @@ function reference_to_bibjson($reference)
 		}
 		$obj->bhl_pages[$label] = (Integer)$page->PageID;
 	}	
+	
+	// text
+	$obj->text = array();
+	
+	if (db_reference_from_bhl($reference->reference_id))
+	{
+		$pages = bhl_retrieve_reference_pages($reference->reference_id);
+		foreach ($pages as $p)
+		{
+			$obj->text[] = bhl_fetch_ocr_text($p->PageID);
+		}
+	}	
+	
+	
 	
 	return $obj;
 }

@@ -88,7 +88,12 @@ function parse_openurl($params, &$referent)
 				
 			case 'rft.issn':
 			case 'issn':
-				$ISSN_proto = $value[0];			
+				$ISSN_proto = $value[0];
+				
+				if (preg_match('/^(?<one>[0-9]{4})(?<two>[0-9]{3}([0-9]|X))$/', $ISSN_proto, $mm))
+				{
+					$ISSN_proto = $mm['one'] . '-'  . $mm['two'];
+				}
 				$clean = ISN_clean($ISSN_proto);
 				$class = ISSN_classifier($clean);
 				if ($class == "checksumOK")
@@ -238,7 +243,7 @@ function parse_openurl($params, &$referent)
 	// Roman to Arabic volume
 	if (!is_numeric($referent->volume))
 	{
-		if (preg_match('/^[ivxicl]+$/', $referent->volume))
+		if (preg_match('/^[ivxicl]+$/i', $referent->volume))
 		{
 			$referent->volume = arabic($referent->volume);
 		}

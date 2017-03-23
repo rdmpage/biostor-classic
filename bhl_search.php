@@ -166,12 +166,28 @@ function bhl_title_lookup($str, $threshold = 70)
 	
 	$locs = array();
 	
+	
+	
+	// special cases
+	//echo $str . '<br/>';
+	switch ($str)
+	{
+		case 'Berlin. ent. Z.':
+			$str = 'Berliner entomologische Zeitschrift';
+			break;
+			
+		default:
+			break;
+	}
+	
+	
+	
 	$str = clean_string ($str);
 	$str_length = strlen($str);
 	
 	$sql = 'SELECT TitleID, ShortTitle, MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ')
 AS score FROM bhl_title
-WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 10';
+WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
 
 //echo $sql;
 	
@@ -643,6 +659,35 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	
 	
 	// hack
+	
+	/*
+	if ($title == 'Biologia Centrali-Americana')
+	{
+		$title = 'The entomologist\'s record and journal of variation';
+	}
+	*/
+	
+	if ($title == 'Annals of the Cape Provincial Museums Natural History')
+	{
+		$title = 'Annals of the Cape Provincial Museums';
+	}
+	if ($title == 'Annals of The Cape Provincial Museums Natural History')
+	{
+		$title = 'Annals of the Cape Provincial Museums';
+	}
+	
+	if ($title == 'J Lepid Soc')
+	{
+		$title = 'Journal of the Lepidopterists\' Society';
+	}
+	
+	
+	if ($title == 'Entomologist\'s Record Bishop\'s Stortford')
+	{
+		$title = 'The entomologist\'s record and journal of variation';
+	}
+	
+	
 	if ($title == 'Transactions of the Geological Society of London')
 	{
 		$title = 'Transactions of the Geological Society';
@@ -666,6 +711,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	if ($title == 'Memoirs of Nanjing Institute of Geology and Palaeontology')
 	{
 		$title = 'Zhongguo ke xue yuan Nanjing di zhi gu sheng wu yan jiu suo ji kan';
+	}
+	
+	if ($title == 'Horae Societatis Entomologicae Rossicae')
+	{
+		$title = 'Horae Societatis Entomologicae Rossicae, variis sermonibus in Rossia usitatis editae';
 	}
 	
 	// Step one
@@ -698,6 +748,10 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	{
 		case '0016-5301':
 			$obj->TitleID = 40896;
+			break;
+			
+		case '1000-3215':
+			$obj->TitleID = 53832;
 			break;
 			
 		// Annotationes Zoologicae Japonenses
@@ -749,6 +803,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		// Bulletin of the Southern California Academy of Sciences
 		case '0038-3872':
 			$obj->TitleID = 4949;
+			break;
+			
+		// Contributions in science 
+		case '0459-8113':
+			$obj->TitleID = 122696;
 			break;
 
 		// Gayana
@@ -877,8 +936,20 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$obj->TitleID = 13855;
 				break;
 				
+			case 'Journal and Proceedings of the Royal Society of Western Australia':
+				$obj->TitleID = 77508;
+				break;
+				
 			case 'Notulae Systematicae. Herbier Du Museum De Paris':
 				$obj->TitleID = 314;
+				break;
+				
+			case 'Zoologica; scientific contributions of the New York Zoological Society':
+			case 'Zoologica New York':
+			case 'Zoologica New York N Y':
+			case 'Zoologica N Y':
+			case 'Zoologica':
+				$obj->TitleID = 42858;
 				break;
 				
 			default:
@@ -985,6 +1056,109 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 96150:
 				$title_list = array(49442, 96150);
 				break;
+				
+			// Acta Botánica Mexicana
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 114584:
+case 119348:
+case 119595:
+case 119604:
+case 119605:
+case 119611:
+case 119612:
+case 119614:
+case 119685:
+case 119760:
+case 119766:
+case 119767:
+case 119773:
+case 119902:
+case 119913:
+case 119935:
+case 119972:
+case 119977:
+case 120104:
+case 120167:
+case 120170:
+case 120416:
+case 120417:
+case 120453:
+case 120454:
+case 120461:
+case 120462:
+case 120537:
+case 120538:
+case 120539:
+case 120543:
+case 120544:
+case 120545:
+case 120547:
+case 120550:
+case 120560:
+case 120561:
+case 120565:
+case 120672:
+case 120673:
+case 120674:
+case 120752:
+case 120761:
+case 120763:
+case 120764:
+case 120766:
+case 120767:
+case 120768:
+case 120769:
+case 114584:
+
+case 122954:
+case 122957:
+case 122958:
+case 122959:
+				$title_list = array(114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,119348,119595,119604,119605,119611,119612,119614,119685,119760,119766,119767,119773,119902,119913,119935,119972,119977,120104,120167,120170,120416,120417,120453,120454,120461,120462,120537,120538,120539,120543,120544,120545,120547,120550,120560,120561,120565,120672,120673,120674,120752,120761,120763,120764,120766,120767,120768,120769,114584,
+				122954,
+122957,
+122958,
+122959
+);
+				break;
 		
 			// Acta Societatis pro Fauna et Flora Fennica
 			case 5558:
@@ -1030,6 +1204,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 6205:
 			case 7031:
 				$title_list = array(6301,6205,7031);
+				break;
+				
+			// Archives néerlandaises des sciences exactes et naturelles
+			case 7407:
+			case 82374:
+				$title_list = array(7407, 82374);
 				break;
 				
 			// Atti del Reale Istituto Veneto di Scienze, Lettere ed Arti
@@ -1095,6 +1275,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 4219 :
 			case 15987:
 				$title_list = array(4219, 15987);
+				break;
+				
+			// Annals of the Missouri Botanical Garden
+			case 125530 :
+			case 702:
+				$title_list = array(125530, 702);
 				break;
 				
 			// Annals of the New York Academy of Sciences
@@ -1195,6 +1381,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list = array(98946,82295);
 				break;
 			
+			// Botanical gazette
+			case 6040:
+			case 9540:
+				$title_list = array(6040,9540);
+				break;
 				
 			// Botanical Magazine Tokyo
 			case 6214:
@@ -1375,6 +1566,22 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				break;
 				
 				
+				
+			// Gardens' bulletin Singapore
+			case 77306:
+			case 127427:
+			case 127489:
+				$title_list = array(77306,127427, 127489);
+				break;
+
+
+			// Insektenbörse
+			case 13337:
+			case 68618:
+				$title_list=array(13337,68618);
+				break;
+
+				
 			case 51724:
 			case 49986:
 				$title_list=array(51724,49986);
@@ -1408,6 +1615,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list=array(47024 ,51678);
 				break;
 				
+			// The journal of the Bombay Natural History Society.
+			case 7414:
+			case 122995:
+				$title_list=array(122995,7414);
+				break;
+				
 			// Journal of the Botanical Research Institute of Texas
 			case 50590 :
 			case 63883:
@@ -1427,11 +1640,25 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				
 			// Journal of East Africa Natural History
 			// The Journal of the East Africa and Uganda Natural History Society
-			case 53426 :
+			case 53426:
 			case 14163:
-				$title_list=array(53426,14163);
+			case 119018:
+			case 119012:
+				$title_list=array(53426,14163,119018,119012);
 				break;
+				
+			// Journal of the New York Entomological Society.
+			case 8089 :
+			case 122978:
+				$title_list=array(8089,122978);
+				break;
+				
 			
+			// Journal of the Royal Society of Western Australia
+			case 77508 :
+			case 122986:
+				$title_list=array(77508,122986);
+				break;
 				
 			// Journal of the Washington Academy of Sciences
 			case 2087:
@@ -1600,6 +1827,13 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list = array(8609, 46941);
 				break;	
 				
+			// Nature
+			case 21368:
+			case 40302:
+				$title_list = array(21368, 40302);
+				break;	
+			
+				
 				
 			// Nota lepidopterologica.
 			case 79076:
@@ -1757,6 +1991,13 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list=array(64405,99906);
 				break;
 				
+			// The Scottish Naturalist
+			case 6920:
+			case 6924:
+				$title_list = array(6920, 6924);
+				break;
+				
+				
 			// Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin
 			case 9584:
 			case 7922:
@@ -1779,7 +2020,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list = array(8630, 8641);
 				break;
 			
-			
+			// The South Australian Naturalist
+			case 14015:
+			case 65144:
+				$title_list = array(14015, 65144);
+				break;
 			
 			// Stuttgarter Beiträge zur Naturkunde
 			case 49392:
@@ -1787,6 +2032,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 49174:
 			case 43750:
 				$title_list = array(49392, 51723, 49174, 43750);
+				break;
+				
+			// Természetrajzi füzetek
+			case 11105:
+			case 13503:
+				$title_list = array(11105, 13503);
 				break;
 			
 			
@@ -1808,6 +2059,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list = array(5590, 69278);
 				break;
 				
+			// Transactions of the New York Academy of Sciences
+			case 5609:
+			case 12303:
+				$title_list = array(5609, 12303);
+				break;
 				
 			// Transactions and proceedings and report of the Royal Society of South Australia (Incorporated)
 			case 51476:
@@ -1904,6 +2160,13 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 67217:
 				$title_list = array(66841, 69283, 67217);
 				break;
+				
+			// Verhandelingen der Koninklijke Akademie van Wetenschappen
+			case 2522:
+			case 8938:
+				$title_list = array(2522, 8938);
+				break;
+				
 								
 			// Verhandlungen der Naturforschenden Gesellschaft in Basel.
 			case 8939:
@@ -1945,6 +2208,16 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$title_list = array(2334, 9197);
 				break;
 				
+			// Zoologica
+			// These are two difefrent journals but this kght help us catch some 
+			case 'Zoologica':
+			case 8079 :
+			case 42858:
+			case 122735:
+				$title_list = array(8079, 42858, 122735);
+				unset($obj->ISSN);
+				break;
+				
 			// Zoological results of the fishing experiments carried on by F.I.S. "Endeavour,"
 			case 6512:
 			case 11387:
@@ -1953,8 +2226,9 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			
 			// Zoologische Jahrbücher
 			case 8980:
-			case 13352:
-				$title_list = array(8980, 13352);
+			//case 13352:
+			case 47068:
+				$title_list = array(8980, 13352, 47068);
 				break;
 			
 				

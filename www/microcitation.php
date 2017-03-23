@@ -78,6 +78,11 @@ function best_match($pages, $name, $threshold = 2)
 		$text = bhl_fetch_ocr_text($p);
 		$text = bhl_unescape_newlines ($text);
 		
+		
+		
+		//$text = preg_replace('/,\s+/', ' ', $text);
+		//echo $text;
+		
 		$filename = dirname(__FILE__) . '/tmp/' . $p . '.txt';
 		$file = fopen($filename, "w");
 		fwrite($file, $text);
@@ -88,9 +93,13 @@ function best_match($pages, $name, $threshold = 2)
 	
 		agrep($filename, $name, $lines, $matches);
 		
+		//print_r($matches);
+		
 		foreach ($matches as $m)
 		{
-			$words = explode(" ", $m);
+			$words = preg_split("/\s+/", $m);
+			
+			//print_r($words);
 			foreach ($words as $word)
 			{
 				$w = preg_replace('/[^a-zA-Z0-9-\s]/', '', $word);
@@ -237,7 +246,6 @@ function matching_pages($publication, $year)
 	//print_r($matches);
 	//echo $publication;
 	
-	
 	if (!$matched)
 	{
 	}
@@ -255,6 +263,13 @@ function matching_pages($publication, $year)
 				$reference->issn = $issn;
 			}
 			else
+			{
+				// special cases
+				
+			
+			}
+			
+			if (!isset($reference->issn))
 			{
 				// No luck with ISSN, look for OCLC
 				if (!isset($reference->oclc))
@@ -586,7 +601,7 @@ function main()
 			echo '">';
 			echo '<div style="width:100%;text-align:center;">';
 			echo '<a href="http://www.biodiversitylibrary.org/page/' . $PageID . '" target="_new">';
-			echo '<img style="-webkit-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);-moz-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);border:1px solid rgb(192,192,192);"  height="180" src="bhl_image.php?PageID=' . $PageID . '&amp;thumbnail" />';
+			echo '<img style="-webkit-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);-moz-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);border:1px solid rgb(192,192,192);"  height="180" src="http://biostor.org/page/image/' . $PageID . '-small.jpg" />';
 			echo '</a>';
 			echo '</div>';
 			echo '<div>';

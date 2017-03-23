@@ -50,7 +50,8 @@ function find_reference($journal, $volume, $page, $year = '')
 		$oclc = oclc_for_title($journal);
 	}
 	
-	if (!is_numeric($volume))
+	if (preg_match('/^[ixvlcm]+$/', $volume))
+	//if (!is_numeric($volume))
 	{
 		$volume = arabic($volume);
 	}
@@ -155,6 +156,8 @@ if (isset($_GET['year']))
 {
 	$year = $_GET['year'];
 }
+
+//print_r($_GET);
 
 $search = new stdclass;
 $search->results = find_reference($journal, $volume, $page, $year);

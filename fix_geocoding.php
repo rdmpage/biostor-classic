@@ -34,8 +34,8 @@ $ids=array(4298);
 
 $ids=array(164556);
 
-$start 	= 166655;
-$end 	= 166655;
+$start 	= 3323;
+$end 	= 3323;
 
 for ($reference_id = $start; $reference_id <= $end; $reference_id++)
 //foreach ($ids as $reference_id)
