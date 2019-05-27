@@ -109,7 +109,7 @@ function find_reference($journal, $volume, $page, $year = '')
 	
 	foreach ($references as $reference_id)
 	{
-		$hits[] = reference_to_bibjson(db_retrieve_reference($reference_id));
+		$hits[] = reference_to_bibjson(db_retrieve_reference($reference_id), false);
 	}
 	
 	return $hits;

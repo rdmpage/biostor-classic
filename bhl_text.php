@@ -55,8 +55,11 @@ function bhl_fetch_ocr_text($PageID)
 {
 	global $db;
 	
+	// tmp if API is buggered
+	//return '';
+	
 	$refresh = true;
-	$refresh = false;
+	//$refresh = false;
 	
 	$text = '';
 	
@@ -89,6 +92,8 @@ function bhl_fetch_ocr_text($PageID)
 			$text = $j->Result;
 			
 			$text = bhl_clean_ocr_text($text);
+			
+			//$text = '';
 			
 			bhl_store_ocr_text ($PageID, $text);
 			

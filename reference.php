@@ -806,7 +806,7 @@ function reference_to_wikispecies($reference)
 }
 
 //--------------------------------------------------------------------------------------------------
-function reference_to_bibjson($reference)
+function reference_to_bibjson($reference, $include_text = true)
 {
 	global $config;
 	
@@ -834,6 +834,7 @@ function reference_to_bibjson($reference)
 		case 'article':
 		case 'book':
 		case 'chapter':
+		case 'letter':
 			$obj->type = $reference->genre;
 			break;
 
@@ -964,7 +965,7 @@ function reference_to_bibjson($reference)
 	}
 	
 
-	if ($reference->genre == 'article')
+	if (($reference->genre == 'article') || ($reference->genre == 'letter'))
 	{
 		$obj->journal = new stdclass;
 		$obj->journal->name = $reference->secondary_title;
@@ -1008,6 +1009,32 @@ function reference_to_bibjson($reference)
 		}
 	}
 	
+	/*
+	if ($reference->genre == 'letter')
+	{
+	
+		if (isset($reference->oclc))
+		{
+			if ($reference->oclc != 0)
+			{
+				$identifier = new stdclass;
+				$identifier->type = 'oclc';
+				$identifier->id = (Integer)$reference->oclc; 
+				$obj->identifier[] = $identifier;
+			}
+		}	
+	
+		if (isset($reference->spage))
+		{
+			$obj->pages = $reference->spage;
+		}
+		if (isset($reference->epage))
+		{
+			$obj->pages .= '--' . $reference->epage;
+		}
+	}
+	*/
+	
 	if (isset($reference->year))
 	{
 		$obj->year = $reference->year;
@@ -1016,6 +1043,7 @@ function reference_to_bibjson($reference)
 	$link = new stdclass;
 	$link->anchor = 'LINK';
 	$link->url = $config['web_root'] . 'reference/' . $reference->reference_id;
+	$link->url = 'https://biostor.org/' . 'reference/' . $reference->reference_id;
 	$obj->link[] = $link;
 	
 	if (isset($reference->PageID))
@@ -1029,7 +1057,10 @@ function reference_to_bibjson($reference)
 	
 	
 	// Identifiers
-	$obj->identifier = array();
+	if (!isset($obj->identifier))
+	{
+		$obj->identifier = array();
+	}
 
 	$identifier = new stdclass;
 	$identifier->type = 'biostor';
@@ -1131,44 +1162,56 @@ function reference_to_bibjson($reference)
 	}
 	
 	// BHL pages...
-	$obj->bhl_pages = array();
-	$pages = bhl_retrieve_reference_pages($reference->reference_id);
-	foreach ($pages as $page)
-	{		
-		if ($page->PagePrefix != '')
-		{
-			$label = $page->PagePrefix;
-			
-			if ($page->PageTypeName != '')
+	
+	// if 0 we don't upload text
+	if (1)
+	{
+	
+	
+		$obj->bhl_pages = array();
+		$pages = bhl_retrieve_reference_pages($reference->reference_id);
+		foreach ($pages as $page)
+		{		
+			if ($page->PagePrefix != '')
 			{
-				if ($page->PageTypeName != 'Text')
+				$label = $page->PagePrefix;
+			
+				if ($page->PageTypeName != '')
 				{
-					$label .= ' (' . $page->PageTypeName . ')';
+					if ($page->PageTypeName != 'Text')
+					{
+						$label .= ' (' . $page->PageTypeName . ')';
+					}
 				}
-			}
 						
 			
-			$label .= ' ' . $page->PageNumber;
-		}
-		else
+				$label .= ' ' . $page->PageNumber;
+			}
+			else
+			{
+				$label = $page->page_order ;
+			}
+			$obj->bhl_pages[$label] = (Integer)$page->PageID;
+		}	
+		
+		// text
+		if ($include_text)
 		{
-			$label = $page->page_order ;
+		
+			$obj->text = array();
+	
+			if (db_reference_from_bhl($reference->reference_id))
+			{
+				$pages = bhl_retrieve_reference_pages($reference->reference_id);
+				foreach ($pages as $p)
+				{
+					$obj->text[] = bhl_fetch_ocr_text($p->PageID);
+				}
+			}
 		}
-		$obj->bhl_pages[$label] = (Integer)$page->PageID;
+		
+		
 	}	
-	
-	// text
-	$obj->text = array();
-	
-	if (db_reference_from_bhl($reference->reference_id))
-	{
-		$pages = bhl_retrieve_reference_pages($reference->reference_id);
-		foreach ($pages as $p)
-		{
-			$obj->text[] = bhl_fetch_ocr_text($p->PageID);
-		}
-	}	
-	
 	
 	
 	return $obj;

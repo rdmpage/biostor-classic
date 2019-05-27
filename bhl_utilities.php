@@ -40,6 +40,9 @@ function bhl_item_from_reference_id($reference_id)
 	$sql = 'SELECT ItemID FROM bhl_page 
 	INNER JOIN rdmp_reference USING(PageID)
 	WHERE (reference_id=' . $reference_id . ') LIMIT 1';
+	
+	//echo $sql;
+	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 

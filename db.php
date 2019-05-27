@@ -1246,12 +1246,12 @@ function db_find_author($author)
 		AND (forename=' . $db->qstr($author->forename) . ') 
 		LIMIT 1';
 		
-	file_put_contents('/tmp/logs.txt', $sql.PHP_EOL , FILE_APPEND);		
+//	file_put_contents('/tmp/logs.txt', $sql.PHP_EOL , FILE_APPEND);		
 			
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 	
-	file_put_contents('/tmp/logs.txt', $result->RecordCount().PHP_EOL , FILE_APPEND);	
+	//file_put_contents('/tmp/logs.txt', $result->RecordCount().PHP_EOL , FILE_APPEND);	
 
 	if ($result->RecordCount() == 0)
 	{
@@ -1274,7 +1274,7 @@ function db_find_author($author)
 			
 		$sql .= ');';
 		
-		file_put_contents('/tmp/logs.txt', $sql.PHP_EOL , FILE_APPEND);
+//		file_put_contents('/tmp/logs.txt', $sql.PHP_EOL , FILE_APPEND);
 		
 
 		$result = $db->Execute($sql);
@@ -1291,7 +1291,7 @@ function db_find_author($author)
 	else
 	{
 		$id = $result->fields['author_id'];
-		file_put_contents('/tmp/logs.txt', "author_id=$id".PHP_EOL , FILE_APPEND);	
+//		file_put_contents('/tmp/logs.txt', "author_id=$id".PHP_EOL , FILE_APPEND);	
 
 	}
 
@@ -1740,6 +1740,8 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	global $db;
 	global $config;
 	
+	//echo "<b>db_store_article</b><br/>";
+	
 	$update = false;
 	
 	//print_r($article);
@@ -1767,6 +1769,10 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		}
 	}
 	
+	//echo "<b>db_store_article</b><br/>";
+	
+	//print_r($article);
+	
 	// Try and trap empty references
 	if ($id == 0)
 	{
@@ -1785,6 +1791,8 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	{
 		$article->genre = 'article';
 	}
+	
+	//echo "<b>db_store_article</b><br/>";
 	
 	$keys = array();
 	$values = array();
@@ -1940,7 +1948,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		*/
 		
 		//$o = print_r($author);
-		file_put_contents('/tmp/logs.txt', $sql .PHP_EOL , FILE_APPEND);
+//		file_put_contents('/tmp/logs.txt', $sql .PHP_EOL , FILE_APPEND);
 		
 
 		$result = $db->Execute($sql);
@@ -1956,6 +1964,8 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		$values[] = 'NOW()';
 	
 		$sql = 'INSERT INTO rdmp_reference (' . implode (",", $keys) . ') VALUES (' . implode (",", $values) . ')';
+		
+		echo $sql;
 	
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);

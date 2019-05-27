@@ -6,35 +6,18 @@ require_once (dirname(__FILE__) . '/lib.php');
 require_once (dirname(__FILE__) . '/bhl_names.php');
 require_once (dirname(__FILE__) . '/gnrd.php');
 
-
-$start   = 189713;
-$end     = 190686;
-
-$start   = 190695;
-$end     = 191434;
-$start   = 191437;
-$end     = 192055;
-$start   = 192056;
-$end     = 192083;
-
-$start   = 208749;
-$end     = 208809;
-
-
-
-
-
-
+$start   = 243336;
+$end     = 243351;
 
 
 $ids=array();
 
 $ids=array(
-114877
+250833
 );
 
-for ($reference_id = $start; $reference_id <= $end; $reference_id++)
-//foreach($ids as $reference_id )
+//for ($reference_id = $start; $reference_id <= $end; $reference_id++)
+foreach($ids as $reference_id )
 {
 	
 	echo "\n===BioStor reference $reference_id===\n";

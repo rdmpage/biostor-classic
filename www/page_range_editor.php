@@ -18,6 +18,7 @@ if (isset($_GET['reference_id']))
 
 $ItemID = bhl_item_from_reference_id($reference_id);
 
+//echo $ItemID;
 
 if ($ItemID != 0)
 {
@@ -121,7 +122,10 @@ EOT;
 		
 		//echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="bhl_image.php?PageID=' . $page->PageID . '&thumbnail" />';
 		
-		echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="http://biostor.org/page/image/' . $page->PageID . '-small.jpg" />';
+
+		
+		//echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="http://biostor.org/page/image/' . $page->PageID . '-small.jpg" />';
+		echo 'style="margin:2px;float:left;width:auto;height:auto;border:1px solid red;"><img height="130" src="http://exeg5le.cloudimg.io/s/height/100/https://www.biodiversitylibrary.org/pagethumb/' . $page->PageID . ',60,60" />';
 		
 		if (isset($page->PageNumber))
 		{

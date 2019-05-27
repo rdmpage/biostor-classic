@@ -132,6 +132,14 @@ function parse_openurl($params, &$referent)
 					{
 						$referent->lsid = $v;
 					}
+					
+					// PMID
+					if (preg_match('/^pmid:/', $v, $match))
+					{
+						$referent->pmid = $v;
+						$referent->pmid = str_replace('pmid:', '', $referent->pmid);
+					}
+					
 				}
 				break;
 
@@ -205,6 +213,13 @@ function parse_openurl($params, &$referent)
 	{
 		$referent->epage = preg_replace('/^\-/', '', $referent->epage);
 	}
+
+	// WoS Endnote may have p. 	
+	if (isset($referent->spage))
+	{
+		$referent->spage = preg_replace('/^p.\s*/', '', $referent->spage);
+	}
+	
 	
 	// Single page
 	if (isset($referent->pages))
@@ -670,8 +685,8 @@ Event.observe(\'recaptcha_response_field\', \'keypress\', onMyTextKeypress);
 			
 			// Thumbnail of page
 			echo '<td valign="top">';
-			echo '<a href="bhl_image.php?PageID=' . $hit->PageID . '" rel="lightbox">';
-			echo '<img style="border:1px solid rgb(128,128,128);" src="bhl_image.php?PageID=' . $hit->PageID . '&amp;thumbnail" alt="page thumbnail"/>';
+			echo '<a href="http://biostor.org/page/image/' . $hit->PageID . '-large.jpg" rel="lightbox">';
+			echo '<img style="border:1px solid rgb(128,128,128);" src="http://biostor.org/page/image/' . $hit->PageID . '-small.jpg" alt="page thumbnail"/>';
 			echo '</a>';
 			echo '</td>';
 			
@@ -867,21 +882,28 @@ function main()
 	{
 		// BHL URL, for example if we have already mapped article to BHL
 		// in Zotero, 
-		if (preg_match('/^http:\/\/(www\.)?biodiversitylibrary.org\/page\/(?<pageid>[0-9]+)/', $referent->url, $matches))
+		if (preg_match('/^http[s]?:\/\/(www\.)?biodiversitylibrary.org\/page\/(?<pageid>[0-9]+)/', $referent->url, $matches))
 		{
-			//print_r($matches);
+			echo "<h2>Matches</h2>";
+			echo '<pre>';
+			print_r($matches);
+			echo '</pre>';
 			
 			$PageID = $matches['pageid'];
 			$references = bhl_reference_from_pageid($PageID);
 			
-			//print_r($references);
+			echo "<h2>References</h2>";
+			print_r($references);
 			
 			if (count($references) == 0)
 			{
 				// We don't have an article for this PageID
 				$search_hit = bhl_score_page($PageID, $referent->title);
 				
-				//print_r($search_hit);
+				echo "<h2>search_hit</h2>";
+				echo '<pre>';
+				print_r($search_hit);
+				echo '</pre>';
 				
 				//if ($search_hit->score > 0.5)
 				{

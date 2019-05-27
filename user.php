@@ -17,6 +17,7 @@ function user_is_logged_in()
 	if (1)
 	{
 		return true;
+		//return false;
 	}
 	else
 	{

@@ -158,9 +158,10 @@ function oclc_for_title($title)
  *
  * @return Array of matching titles, together with scores
  */
-function bhl_title_lookup($str, $threshold = 70)
+function bhl_title_lookup($str, $threshold = 69)
 {
 	global $db;
+	global $debug;
 	
 	$matches = array();
 	
@@ -176,6 +177,15 @@ function bhl_title_lookup($str, $threshold = 70)
 			$str = 'Berliner entomologische Zeitschrift';
 			break;
 			
+		case 'Revue russe d\'entomologie':
+		case 'Revue Russe d\'Entomologie':
+			$str = 'Russkoe entomologicheskoe obozrenie';
+			break;
+
+		case 'Utafiti : occasional papers of the National Museums of Kenya':
+			$str = 'Utafiti';
+			break;
+			
 		default:
 			break;
 	}
@@ -189,7 +199,10 @@ function bhl_title_lookup($str, $threshold = 70)
 AS score FROM bhl_title
 WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
 
-//echo $sql;
+	if ($debug)
+	{
+		echo $sql . '<br />';
+	}
 	
 	$lcs = array();
 	$count = 0;
@@ -199,6 +212,7 @@ WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
 
 	while (!$result->EOF) 
 	{
+		
 		// Get subsequence length
 		$cleaned_hit = clean_string ($result->fields['ShortTitle']);
 		$cleaned_hit_length = strlen($cleaned_hit);
@@ -211,9 +225,12 @@ WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
 		// length of subsequence as percentage of hit
 		$hit_subsequence_length = round((100.0 * $C[$cleaned_hit_length][$str_length])/$cleaned_hit_length);
 		
-		//echo $cleaned_hit . ' ' . $subsequence_length . ' ' . $hit_subsequence_length . '<br/>';
+		if ($debug)
+		{
+			echo $cleaned_hit . ' ' . $subsequence_length . ' ' . $hit_subsequence_length . '<br/>';
+		}
 		
-		if ($subsequence_length >= $threshold && $hit_subsequence_length >= 33) // added this stop v. bad matches in reverse direction
+		if ($subsequence_length >= $threshold && $hit_subsequence_length >= 30) // added this stop v. bad matches in reverse direction
 		{	
 			array_push($matches, array(
 				'TitleID' => $result->fields['TitleID'],
@@ -502,6 +519,66 @@ function bhl_itemid_from_volume($TitleID, $volume, $series = '')
 		$result->MoveNext();
 	}
 	
+	//echo "Count=" . count($items)  . '<br/>';
+	
+	if (count($items) == 0)
+	{
+		// No info in items, maybe in title (e.g., PartNumber field)
+		
+		// Find ItemID of item that contains relevant volume
+		$sql = 'SELECT * FROM bhl_title INNER JOIN bhl_item USING(TitleID) WHERE TitleID=' . $TitleID . ' LIMIT 1';
+	
+		//echo $sql;
+	
+		$result = $db->Execute($sql);
+		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+		
+		if ($result->NumRows() == 1)
+		{
+			$info = new stdclass;			
+			$VolumeInfo = $result->fields['PartNumber'];
+			$matched = parse_bhl_date($VolumeInfo, $info);
+		}
+		
+		if ($matched)
+		{
+			// asume Volume is single number
+			if ($info->volume == $volume)
+			{
+				$found = true;
+				
+				//echo "<b>found</b><br/>";
+				
+				$item = new stdclass;
+				$item->ItemID = $result->fields['ItemID'];
+				if (isset($info->series))
+				{
+					$item->series = $info->series;
+					if ($series != '')
+					{
+						if ($info->series == $series)
+						{
+							$found = true;
+						}
+						else
+						{
+							$found = false;
+						}
+					}
+				}
+				
+				//print_r($item);
+				
+				$item->volume_offset = 0;
+				if ($found)
+				{
+					array_push($items, $item);
+				}
+			}
+		}
+	}	
+	
+	
 	if ($debug)
 	{
 			echo '<b>Items</b><br/>';
@@ -604,6 +681,35 @@ function bhl_itemid_from_pattern($search_pattern, $mask_pattern, $volume)
 	return $items;
 }
 
+//----------------------------------------------------------------------------------------
+// get details for one item
+function bhl_itemid_from_itemid($ItemID)
+{
+	global $db;
+	
+	// Find ItemID of item that contains relevant volume
+	$sql = 'SELECT * FROM bhl_item WHERE ItemID=' . $ItemID;
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+	$items = array();
+	
+	if ($result->NumRows() == 1)
+	{
+		$item = new stdclass;
+		$item->ItemID = $result->fields['ItemID'];
+		if (isset($info->series))
+		{
+			$item->series = $info->series;
+		}		
+		$item->volume_offset = 0;
+		array_push($items, $item);
+
+	}
+	
+	return $items;
+}
+
 
 /*
 The Bulletin of the British Museum (Natural History) has several series, all with the same FullTitle,
@@ -657,6 +763,7 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	$obj->ItemIDs = array();
 	$obj->hits = array();
 	
+	//$debug=true;
 	
 	// hack
 	
@@ -667,6 +774,20 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	}
 	*/
 	
+	
+	if ($title == 'J Res Lepid')
+	{
+		$title = 'Journal of Research on the Lepidoptera';
+	}
+	
+	
+	
+	if ($title == 'Memoirs on the Coleoptera Lancaster Pa')
+	{
+		$title = 'Memoirs on the Coleoptera';
+	}
+
+	
 	if ($title == 'Annals of the Cape Provincial Museums Natural History')
 	{
 		$title = 'Annals of the Cape Provincial Museums';
@@ -675,6 +796,22 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	{
 		$title = 'Annals of the Cape Provincial Museums';
 	}
+	
+	if ($title == 'Gen. Insect.')
+	{
+		$title = 'Genera insectorum';
+	}
+
+
+	if ($title == 'Gayana Botánica')
+	{
+		$title = 'Gayana';
+	}
+	if ($title == 'Gayana Botanica')
+	{
+		$title = 'Gayana';
+	}
+	
 	
 	if ($title == 'J Lepid Soc')
 	{
@@ -685,6 +822,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	if ($title == 'Entomologist\'s Record Bishop\'s Stortford')
 	{
 		$title = 'The entomologist\'s record and journal of variation';
+	}
+	
+	
+	if ($title == 'Revue Mycologique Toulouse')
+	{
+		$title = 'Revue Mycologique';
 	}
 	
 	
@@ -718,6 +861,21 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		$title = 'Horae Societatis Entomologicae Rossicae, variis sermonibus in Rossia usitatis editae';
 	}
 	
+	if ($title == 'Muelleria')
+	{
+		$title = 'Muelleria : An Australian Journal of Botany';
+	}
+	if ($title == 'MUELLERIA')
+	{
+		$title = 'Muelleria : An Australian Journal of Botany';
+	}
+	
+	if ($title == 'Entomologische Zeitschrift, Frankfurt a. M.')
+	{
+		$title = 'Entomologische Zeitschrift';
+	}	
+	
+	
 	// Step one
 	// --------
 	// Map journal title to BHL titles. We try to achieve this by first finding ISSN for title,
@@ -740,7 +898,7 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 
 	if ($debug)
 	{
-		echo __FILE__ . ' line ' . __LINE__ . ' ISSN = ' . $obj->ISSN . "\n";
+		echo __FILE__ . ' line ' . __LINE__ . ' ISSN = ' . $obj->ISSN . "<br />\n";
 	}
 	
 	// Special cases where mapping is tricky
@@ -819,11 +977,28 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		case '0031-7683':
 			$obj->TitleID = 50545;
 			break;
+
+		// Muelleria
+		case '0077-1813':
+			$obj->TitleID = 112965;
+			break;
 			
 		// Novon
 		case '1055-3177':
 			$obj->TitleID = 744;
 			break;
+
+		// Occasional Papers Museum of Texas Tech University
+		case '0149-175X':
+			$obj->TitleID = 156995;
+			break;
+
+
+		// Smithiana
+		case '1684-4130':
+			$obj->TitleID = 141859;
+			break;
+
 	
 		// Stuttgarter Beiträge zur Naturkunde
 		case '0341-0145':
@@ -908,7 +1083,7 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	
 	if ($debug)
 	{
-		echo __FILE__ . ' line ' . __LINE__ . ' TitleID = ' . $obj->TitleID . "\n";
+		echo __FILE__ . ' line ' . __LINE__ . ' TitleID = ' . $obj->TitleID . "<br />\n";
 	}
 	
 	/*$obj->ISSN = '0150-9322';
@@ -940,10 +1115,19 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$obj->TitleID = 77508;
 				break;
 				
+			case 'Journal of Ornithology':
+				$obj->TitleID = 47027;
+				break;
+				
 			case 'Notulae Systematicae. Herbier Du Museum De Paris':
 				$obj->TitleID = 314;
 				break;
 				
+			case 'Russkoe entomologicheskoe obozrenie':
+			case 'Revue russe d\'entomologie';
+				$obj->TitleID = 11807;
+				break;
+
 			case 'Zoologica; scientific contributions of the New York Zoological Society':
 			case 'Zoologica New York':
 			case 'Zoologica New York N Y':
@@ -959,7 +1143,7 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	
 	if ($debug)
 	{
-		echo __FILE__ . ' line ' . __LINE__ . ' TitleID = ' . $obj->TitleID . "\n";
+		echo __FILE__ . ' line ' . __LINE__ . ' TitleID = ' . $obj->TitleID . "<br />\n";
 	}
 	
 	
@@ -971,7 +1155,7 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		
 		if ($debug)
 		{
-			echo __FILE__ . ' line ' . __LINE__ . "\n";
+			echo __FILE__ . ' line ' . __LINE__ . "<br />\n";
 			echo '<pre>';
 			print_r($hits);
 			echo '</pre>';
@@ -1152,11 +1336,74 @@ case 122954:
 case 122957:
 case 122958:
 case 122959:
+
+case 144945:
+case 146228:
+
+case 147072:
+case 147039:
+
+case 147027:
+
+case 147371:
+case 147339:
+case 147338:
+case 147324:
+case 147299:
+
+case 147599:
+case 147623:
+case 147630:
+case 147632:
+case 147650:
+
+case 147939:
+case 147893:
+
+case 148608:
+
+case 148896:
+
+case 153862:
+case 155143:
 				$title_list = array(114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,114584,119348,119595,119604,119605,119611,119612,119614,119685,119760,119766,119767,119773,119902,119913,119935,119972,119977,120104,120167,120170,120416,120417,120453,120454,120461,120462,120537,120538,120539,120543,120544,120545,120547,120550,120560,120561,120565,120672,120673,120674,120752,120761,120763,120764,120766,120767,120768,120769,114584,
 				122954,
 122957,
 122958,
-122959
+122959,
+
+144945,
+146228,
+
+147072,
+147039,
+
+147027,
+
+147371,
+147339,
+147338,
+147324,
+147299,
+
+147599,
+147623,
+147630,
+147632,
+147650,
+
+147939,
+147893,
+
+148608,
+
+148896,
+
+153862,
+
+155143
+
+
 );
 				break;
 		
@@ -1184,8 +1431,12 @@ case 122959:
 				$title_list = array(14965, 60982);
 				break;
 				
+			// American malacological bulletin
+			case 94759:
+			case 120078:
+				$title_list = array(94759, 120078);
+				break;
 				
-		
 			// Annali del Museo civico di storia naturale di Genova
 			case 7929:
 			case 9576:
@@ -1193,10 +1444,24 @@ case 122959:
 				$title_list = array(7929, 9576, 43408);
 				break;
 				
+			// Annales du Jardin botanique de Buitenzorg
+			case 3659:
+			case 39889:
+				$title_list = array(3659, 39889);
+				break;
+				
 			// Annales de la Société entomologique de Belgique
 			case 11933:
 			case 11938:
 				$title_list = array(11933, 11938);
+				break;
+				
+			// Annales des sciences naturelles
+			case 2205:
+			case 6343:
+			case 5010:
+			case 13266:
+				$title_list = array(2205, 6343, 5010, 13266);
 				break;
 				
 			// Annales de la Société royale malacologique de Belgique
@@ -1313,8 +1578,6 @@ case 122959:
 				$title_list = array(118453,116226);
 				break;
 			
-
-		
 			// Archiv für Naturgeschichte
 			case 6638:
 			case 7051:
@@ -1332,10 +1595,24 @@ case 122959:
 				$title_list = array(5559,7065, 79165);
 				break;
 				
+			// Archivos do Museu Nacional do Rio de Janeiro.
+			// Arquivos do Museu Nacional
+			case 6524:
+			case 152597:
+				$title_list = array(6524,152597);
+				break;
+			
+				
 			// Atti della Società italiana di scienze naturali
 			case 9582:
 			case 60455:
 				$title_list = array(9582,60455);
+				break;
+				
+			// [The] Beagle
+			case 144396:
+			case 145927:
+				$title_list = array(144396,145927);
 				break;
 
 			// Beiträge zur Kenntnis der Meeresfauna Westafrikas
@@ -1357,6 +1634,14 @@ case 122959:
 				$title_list = array(8267,46202,46204);
 				break;
 				
+			// Boletim do Museu Paraense Emílio Goeldi
+			case 127815:
+			case 129215:
+			case 129346:
+			case 64575:
+				$title_list = array(127815,129215,64575,129346);
+				break;			
+						
 			// Boletin de la Sociedad de Biología de Concepción
 			case 45409:
 			case 51419:
@@ -1379,6 +1664,12 @@ case 122959:
 			case 98946:
 			case 82295:
 				$title_list = array(98946,82295);
+				break;
+			
+			// Boston journal of natural history
+			case 5927:
+			case 46530:
+				$title_list = array(5927,46530);
 				break;
 			
 			// Botanical gazette
@@ -1475,7 +1766,14 @@ case 122959:
 			case 46639:
 			case 62378:
 			case 102724:
-				$title_list = array(8260,46639, 62378, 102724);
+			case 8261:
+				$title_list = array(8260,46639, 62378, 102724,8261);
+				break;
+				
+			// Bulletin of the Brooklyn Entomological Society
+			case 142219:
+			case 16211:
+				$title_list = array(142219,16211);
 				break;
 				
 			// Bulletin of the Illinois State Laboratory of Natural History
@@ -1505,6 +1803,12 @@ case 122959:
 			case 11541:
 			case 51603:
 				$title_list = array(11541, 51603);
+				break;
+				
+			// Bulletin of the New York State Museum
+			case 8290:
+			case 135505:
+				$title_list = array(8290, 135505);
 				break;
 				
 			// The Canadian field-naturalist
@@ -1562,18 +1866,62 @@ case 122959:
 			// Gayana
 			case 39684:
 			case 39988:
-				$title_list=array(39988,39684);
+			case 40896:
+				$title_list=array(39988,39684, 40896);
 				break;
 				
+				
+			// The Gardens' bulletin; Straits Settlements
+			case 77367:
+			case 7056:
+				$title_list=array(77367,7056);
+				break;
 				
 				
 			// Gardens' bulletin Singapore
+			//case 77367:
 			case 77306:
 			case 127427:
 			case 127489:
-				$title_list = array(77306,127427, 127489);
+			
+			case 128832:
+			case 128797:
+			case 128809:
+			case 128832:
+			case 128790:
+			case 127427:
+			case 127489:
+			case 128777:
+			case 130872:
+			
+			case 141270:
+			
+			case 152647:
+			case 152577:
+			
+				$title_list = array(
+				//77367,
+				77306,127427, 127489,128832,
+				128797,
+				128809,
+				128832,
+				128790,
+				127427,
+				127489,
+				128777,
+				130872,
+				141270,
+				152647,
+				152577
+				);
 				break;
-
+				
+			// Goeldiana zoologia
+			case 125545:
+			case 131446:
+			case 134508:
+				$title_list=array(125545,131446, 134508);
+				break;
 
 			// Insektenbörse
 			case 13337:
@@ -1600,11 +1948,14 @@ case 122959:
 			case 47027:
 				$title_list=array(11280 ,14025, 47027);
 				break;
-				
+			
+			// Journal of botany	
 			// Journal of botany, British and foreign
+			case 234: // not same journal but to help discovery
+			case 235: // not same journal but to help discovery
 			case 8066 :
 			case 15787:
-				$title_list=array(8066 ,15787);
+				$title_list=array(8066 ,15787, 234, 235);
 				break;
 				
 				
@@ -1629,7 +1980,13 @@ case 122959:
 			case 109289:
 			case 107602:
 			case 106809:
-				$title_list=array(50590,63883,109678,109775,109289,107602,106809);
+			case 139274:
+			case 156612:
+			case 156608:
+				$title_list=array(50590,63883,109678,109775,109289,107602,106809,139274,
+				156612,
+				156608,
+				);
 				break;
 			
 			// The journal of the College of Agriculture, Tohoku Imperial University, Sapporo, Japan
@@ -1645,6 +2002,14 @@ case 122959:
 			case 119018:
 			case 119012:
 				$title_list=array(53426,14163,119018,119012);
+				break;
+				
+				
+			// Journal of the Linnean Society
+			case 45411:
+			case 350:
+			case 349:
+				$title_list=array(45411, 350, 349);
 				break;
 				
 			// Journal of the New York Entomological Society.
@@ -1711,15 +2076,29 @@ case 122959:
 			case 5551:
 				$title_list = array(2743,2732,5551);
 				break;
-			
-			
+				
+			// Memórias do Instituto Butantan
+			case 97055:
+			case 122512:
+			case 146497:
+				$title_list=array(97055,122512,146497);
+				break;
+								
+			// Memoirs on the coleoptera
+			case 1159:
+			case 48776:
+			case 15993:
+				$title_list = array(1159,48776,15993);
+				break;
+						
 			// Memoirs of the Queensland Museum
 			case 12912 :
 			case 60751:
 			case 61449:
 			case 101455:
 			case 107966:
-				$title_list = array(12912,60751,61449,101455, 107966);
+			case 137899:
+				$title_list = array(12912,60751,61449,101455, 107966, 137899);
 				break;
 					
 			// Misc Pub Kansas (some of these are treated as individual titles)
@@ -1767,9 +2146,19 @@ case 122959:
 			case 58640:
 			case 13041:
 			case 57949:
+			case 65479:
 			case 59883:
-				$title_list = array(58640, 13041, 57949, 59883);
+				$title_list = array(58640, 13041, 57949,65479,59883);
 				break;	
+				
+			/*
+			// Memoirs of Museum Victoria
+			case 109981:
+			case 65479:
+			case 59883:		
+				$title_list = array(109981, 65479, 59883);
+				break;	
+			*/
 				
 			// Monatsberichte der Königlichen Preussische Akademie des Wissenschaften zu Berlin
 			case 48522:
@@ -1808,6 +2197,370 @@ case 122959:
 				$title_list = array(7410, 15798);
 				break;	
 				
+			// Occasional papers / the Museum, Texas Tech University
+			case 147045:
+			case 147060:
+			case 147024:
+			case 147002:
+			case 146997:
+			case 146994:
+			case 140981:
+			case 156843:
+			case 156835:
+			case 156831:
+			case 156825:
+			case 156821:
+			case 156816:
+			case 156822:
+			
+case 157011:
+case 157007:
+case 157005:
+case 157004:
+case 157003:
+case 156999:
+case 156995:
+case 156994:
+case 156993:
+case 156992:
+case 156988:
+case 156987:
+case 156983:
+case 156982:
+case 156981:
+case 156980:
+case 156979:
+case 156978:
+case 156977:
+case 156976:
+case 156974:
+case 156973:
+case 156972:
+case 156969:
+case 156967:
+case 156966:
+case 156965:
+case 156963:
+case 156960:
+case 156958:
+case 156953:
+case 156952:
+case 156951:
+case 156948:
+case 156947:
+case 156939:
+case 156938:
+case 156937:
+case 156936:
+case 156933:
+case 156931:
+case 156930:
+case 156929:
+case 156924:
+case 156923:
+case 156921:
+case 156920:
+case 156918:
+case 156917:
+case 156915:
+case 156913:
+case 156912:
+case 156909:
+case 156906:
+case 156905:
+case 156904:
+case 156903:
+case 156902:
+case 156899:
+case 156898:
+case 156897:
+case 156896:
+case 156891:
+case 156890:
+case 156889:
+case 156888:
+case 156886:
+case 156872:
+case 140981:
+case 140981:
+case 140981:
+case 140981:
+case 156825:
+case 140981:
+case 140981:
+case 140981:
+case 140981:
+
+case 156823:	
+
+case 156969:
+case 156972:
+case 156973:
+case 156974:
+case 156976:
+case 156977:
+case 156978:
+case 156979:
+case 156980:
+case 156981:
+case 156982:
+case 156983:
+case 156987:
+case 156988:
+case 156992:
+case 156993:
+case 156994:
+case 156995:
+
+case 156999:
+case 157003:
+case 157004:
+case 157005:
+case 157007:
+case 157011:
+case 157268:
+case 157269:
+case 157270:
+case 157382:
+case 157383:
+case 157395:
+case 157431:
+case 157489:
+case 157532:
+case 157562:	
+
+case 157622:
+case 157623:
+case 157624:
+case 157625:
+case 157626:
+case 157627:
+case 157629:
+case 157630:
+case 157631:
+case 157632:
+case 157633:
+case 157634:
+case 157635:
+case 157651:
+case 157652:
+case 157662:
+case 157663:
+case 157664:
+case 157665:
+case 157666:
+case 157667:
+case 157668:
+case 157668:
+case 157671:
+case 157672:
+case 157675:
+case 157676:
+case 157677:
+case 157678:
+case 157697:
+case 157698:
+case 157711:
+case 157712:
+case 157713:
+case 157727:
+case 157728:
+case 157729:
+case 157738:
+case 157739:
+case 157744:
+case 157745:
+case 157746:
+case 157747:
+case 157752:
+case 157753:
+case 157756:	
+						
+				$title_list = array(			
+				147045,
+				147060,
+				147024,
+				147002,
+				146997,
+				146994,
+				140981,
+				
+				
+				156843,
+				156835,
+				156831,
+				156825,
+				156821,
+				156816,	
+				
+				156822,	
+				
+157011,
+157007,
+157005,
+157004,
+157003,
+156999,
+156995,
+156994,
+156993,
+156992,
+156988,
+156987,
+156983,
+156982,
+156981,
+156980,
+156979,
+156978,
+156977,
+156976,
+156974,
+156973,
+156972,
+156969,
+156967,
+156966,
+156965,
+156963,
+156960,
+156958,
+156953,
+156952,
+156951,
+156948,
+156947,
+156939,
+156938,
+156937,
+156936,
+156933,
+156931,
+156930,
+156929,
+156924,
+156923,
+156921,
+156920,
+156918,
+156917,
+156915,
+156913,
+156912,
+156909,
+156906,
+156905,
+156904,
+156903,
+156902,
+156899,
+156898,
+156897,
+156896,
+156891,
+156890,
+156889,
+156888,
+156886,
+156872,
+140981,
+140981,
+140981,
+140981,
+156825,
+140981,
+140981,
+140981,
+140981,		
+
+156823,		
+
+156969,
+156972,
+156973,
+156974,
+156976,
+156977,
+156978,
+156979,
+156980,
+156981,
+156982,
+156983,
+156987,
+156988,
+156992,
+156993,
+156994,
+156995,
+
+156999,
+157003,
+157004,
+157005,
+157007,
+157011,
+157268,
+157269,
+157270,
+157382,
+157383,
+157395,
+157431,
+157489,
+157532,
+157562,		
+
+157622,
+157623,
+157624,
+157625,
+157626,
+157627,
+157629,
+157630,
+157631,
+157632,
+157633,
+157634,
+157635,
+157651,
+157652,
+157662,
+157663,
+157664,
+157665,
+157666,
+157667,
+157668,
+157668,
+157671,
+157672,
+157675,
+157676,
+157677,
+157678,
+157697,
+157698,
+157711,
+157712,
+157713,
+157727,
+157728,
+157729,
+157738,
+157739,
+157744,
+157745,
+157746,
+157747,
+157752,
+157753,
+157756,
+				
+				);
+				break;
+				
 			// Öfversigt af Kongl. Vetenskaps-akademiens forhandlingar
 			case 2515:
 			case 15534:
@@ -1833,7 +2586,14 @@ case 122959:
 				$title_list = array(21368, 40302);
 				break;	
 			
-				
+					
+			// Neues Jahrbuch für Mineralogie, Geognosie, Geologie und Petrefaktenkunde.
+
+			case 51831:
+			case 51830:
+				$title_list = array(51831, 51830);
+				break;	
+			
 				
 			// Nota lepidopterologica.
 			case 79076:
@@ -1845,6 +2605,13 @@ case 122959:
 			case 8740:
 			case 12935:
 				$title_list = array(8740, 12935);
+				break;	
+				
+			// Palaeontographica
+			case 11490:
+			case 48672:
+			case 51557:
+				$title_list = array(11490, 48672, 51557);
 				break;	
 				
 			// The Philippine journal of science
@@ -1890,13 +2657,15 @@ case 122959:
 			case 3943:
 			case 12931:
 			case 45400:
-				$title_list = array(3952, 7411, 15816, 3966, 4274, 3943, 12931, 45400);
+			case 150741:
+			case 154994:
+				$title_list = array(3952, 7411, 15816, 3966, 4274, 3943, 12931, 45400, 150741, 154994);
 				break;
 				
 			// Proceedings of The Linnean Society of New South Wales
-			case 2375:
-			case 50818:
-				$title_list = array(2375,50818);
+			case 8096:
+			case 138908:
+				$title_list = array(8096,138908);
 				break;
 				
 			// Proceedings of the Royal Irish Academy
@@ -1905,6 +2674,11 @@ case 122959:
 				$title_list = array(2375,60468);
 				break;
 				
+			// Proceedings of the Royal Society of Victoria. New series.
+			case 2375:
+			case 60468:
+				$title_list = array(2375,60468);
+				break;
 				
 			// Proceedings of the Zoological Society of London
 			case 1594:
@@ -1925,11 +2699,24 @@ case 122959:
 				$title_list=array(53477,10294);
 				break;
 				
+			// Records of the Queen Victoria Museum Launceston
+			case 143263:
+			case 144635:
+			case 145701:
+				$title_list=array(143263,144635,145701);
+				break;
+				
 			// Records of the South Australian Museum
 			case 14053:
 			case 42375:
 			case 61893:
 				$title_list=array(14053,42375,61893);
+				break;
+				
+			// Records of the Western Australian Museum	
+			case 125400:
+			case 141878:
+				$title_list=array(125400,141878);
 				break;
 				
 			// Reise der oesterreichischen Fregatte Novara
@@ -2013,6 +2800,22 @@ case 122959:
 			case 7337:
 				$title_list = array(6884, 8219, 6888, 6776, 8100,7337);
 				break;
+				
+				
+			// Special publications - The Museum, Texas Tech University
+			case 142707:
+			case 156869:
+			case 156873:
+			case 156875:
+			case 156869:
+				$title_list = array(
+					142707,
+					156869,
+					156873,
+					156875,
+					156869,
+				);
+			break;
 				
 			// Stettiner Entomologische Zeitung
 			case 8630:
@@ -2249,6 +3052,36 @@ case 122959:
 	
 	//echo __LINE__;
 	
+	// FORCE
+	// hack
+	// specify
+	// If we set an ItemID here we restrict searches to that item,
+	// handy if the same volume numbering is reused, 
+	// e.g. Bulletin du Muséum National d'Histoire Naturelle
+	//$obj->ItemIDs = bhl_itemid_from_itemid(254261);
+	//$obj->ItemIDs = bhl_itemid_from_itemid(266029);
+	
+	/*
+	$obj->ItemIDs = array();
+	
+	$a = array(
+266029,
+266101,
+266106,
+266124,
+266154,
+);
+	foreach ($a as $itemid)
+	{
+		$it = bhl_itemid_from_itemid($itemid);	
+		$obj->ItemIDs[] = $it[0];
+	}
+	*/
+	
+	
+	
+	
+	
 	if ($debug)
 	{
 		echo "Line " . __LINE__ . "<br/>";
@@ -2289,6 +3122,8 @@ case 122959:
 			ORDER BY SequenceOrder';
 			
 			//echo $sql;
+			
+			//exit();
 			
 			$result = $db->Execute($sql);
 			if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);

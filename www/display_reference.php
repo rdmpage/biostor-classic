@@ -1149,8 +1149,10 @@ Event.observe(window, \'load\', function() {
 	// JSON format
 	function DisplayBibJson()
 	{
-		
-		$j = reference_to_bibjson($this->object);
+		// true means we return text
+		// false means we don't return text (perhaps because it's too slow to retrieve it from BHL)
+		$j = reference_to_bibjson($this->object, false);
+		//$j = reference_to_bibjson($this->object, true);
 	
 		header("Content-type: text/plain; charset=utf-8\n\n");
 		if ($this->callback != '')
@@ -1374,7 +1376,7 @@ Event.observe(window, \'load\', function() {
 			}
 			$this->localities = bhl_localities_for_reference($this->id);
 		}
-		
+		/*
 		
 		
 		// Specimens?
@@ -1386,7 +1388,7 @@ Event.observe(window, \'load\', function() {
 			}
 			$this->specimens = specimens_from_db($this->id);
 		}
-		
+		*/
 		
 		
 		return $this->object;
