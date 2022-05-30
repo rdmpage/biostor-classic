@@ -1,11 +1,12 @@
 RewriteEngine on
-#RewriteBase /~rpage/bhl/www/
-RewriteBase /
-
+RewriteBase /~rpage/biostor-classic/www/
+#RewriteBase /
+		
 # If URL has "www" prefix strip and redirect to biostor.org
 # We also need to disable default hostname (uncheck checkbox in Server Admin/Web/Sites)
-RewriteCond %{HTTP_HOST} ^www.biostor.org$ 														[NC]
-RewriteRule ^(.*)$ 								http://130.209.46.234/$1 						[R=301,L]
+#RewriteCond %{HTTP_HOST} ^www.biostor.org$ 														[NC]
+#RewriteRule ^(.*)$ 								http://130.209.46.234/$1 						[R=301,L]
+
 
 # from http://php.net/manual/en/security.hiding.php
 # Rewrite /foo/bar to /foo/bar.php
