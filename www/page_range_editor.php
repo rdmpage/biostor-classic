@@ -44,7 +44,7 @@ if ($ItemID != 0)
 	<meta charset="utf-8" />
 	<title>Page Range Editor</title>
 	
-	<base href="http://direct.biostor.org/" />
+	<base href="." />
 	
 	<link rel="stylesheet" href="css/jquery-ui.css" />
 	
