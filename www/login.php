@@ -1,6 +1,7 @@
 <?php
 
-error_reporting(E_ALL);
+error_reporting(E_ALL ^ E_DEPRECATED);
+
 
 // very crude login
 
@@ -14,7 +15,7 @@ if (isset($_GET['username']))
 	$username = trim($_GET['username']);
 }
 
-print_r($_GET);
+//print_r($_GET);
 
 
 $ok = false;
@@ -38,8 +39,10 @@ if ($username != "")
 
 if ($ok)
 {
-	session_start();
-
+	if(!isset($_SESSION)) 
+     { 
+         session_start(); 
+     }
 	setcookie("openid", $username, time()+3600);
 	
 	/* Redirect to home page */

@@ -36,7 +36,10 @@ $sql = "SET character_set_results = 'utf8', character_set_client = 'utf8', chara
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 
-
+// https://stackoverflow.com/a/68632361/9684
+$sql = "SET sql_mode = 'ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';";
+$result = $db->Execute($sql);
+if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 
 //--------------------------------------------------------------------------------------------------
 function db_reference_from_bhl($reference_id)

@@ -44,7 +44,8 @@ class DisplayAuthor extends DisplayObject
 
 		// From email from Ted Benson Ted Benson <eob@csail.mit.edu>
 		echo html_include_script('http://trunk.simile-widgets.org/ajax/api/simile-ajax-api.js');
-		echo html_include_script('http://trunk.simile-widgets.org/exhibit/api/exhibit-api.js?log=true');
+		//echo html_include_script('http://trunk.simile-widgets.org/exhibit/api/exhibit-api.js?log=true');
+		echo html_include_script('js/simile/exhibit-api.js');
 	}
 
 	//----------------------------------------------------------------------------------------------
@@ -80,7 +81,7 @@ class DisplayAuthor extends DisplayObject
 			echo ')</p>';
 		}
 		
-		echo '<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="rdmpage" data-related="biostor_org">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>';
+		//echo '<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="rdmpage" data-related="biostor_org">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>';
 
 		
 		echo '<div>';

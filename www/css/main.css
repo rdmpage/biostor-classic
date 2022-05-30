@@ -39,7 +39,7 @@ img
 #search
 {
 	font-size:18px; 
-	background-image:url(../images/search.png);
+	background-image:url(..../images/search.png);
 	background-position-x: 0%;
 	background-position-y: 50%;
 	background-repeat: no-repeat;
@@ -82,77 +82,77 @@ li.guid-list
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/gbif.png") no-repeat 0 50%;
+  background: url("../images/gbif.png") no-repeat 0 50%;
 }
 
 .permalink 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/link.png") no-repeat 0 50%;
+  background: url("../images/link.png") no-repeat 0 50%;
 }
 
 .mendeley 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/icon_mendeley_16x16.gif") no-repeat 0 50%;
+  background: url("../images/icon_mendeley_16x16.gif") no-repeat 0 50%;
 }
 
 .bhl 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/bhl.png") no-repeat 0 50%;
+  background: url("../images/bhl.png") no-repeat 0 50%;
 }
 
 .doi 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/doi.png") no-repeat 0 50%;
+  background: url("../images/doi.png") no-repeat 0 50%;
 }
 
 .pmid 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/ncbi.png") no-repeat 0 50%;
+  background: url("../images/ncbi.png") no-repeat 0 50%;
 }
 
 .handle 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/handle.png") no-repeat 0 50%;
+  background: url("../images/handle.png") no-repeat 0 50%;
 }
 
 .lsid 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/lsid.png") no-repeat 0 50%;
+  background: url("../images/lsid.png") no-repeat 0 50%;
 }
 
 .pdf 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/page_white_acrobat.png") no-repeat 0 50%;
+  background: url("../images/page_white_acrobat.png") no-repeat 0 50%;
 }
 
 .url 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/world_go.png") no-repeat 0 50%;
+  background: url("../images/world_go.png") no-repeat 0 50%;
 }
 
 .worldcat 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/Worldcat16x16.png") no-repeat 0 50%;
+  background: url("../images/Worldcat16x16.png") no-repeat 0 50%;
 }
 
 /* Export */
@@ -170,42 +170,42 @@ li.export-list
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/page_white_code.png") no-repeat 0 50%;
+  background: url("../images/page_white_code.png") no-repeat 0 50%;
 }
 
 .ris 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/page_white.png") no-repeat 0 50%;
+  background: url("../images/page_white.png") no-repeat 0 50%;
 }
 
 .bibtex 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/page_white.png") no-repeat 0 50%;
+  background: url("../images/page_white.png") no-repeat 0 50%;
 }
 
 .text 
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/page_white_text.png") no-repeat 0 50%;
+  background: url("../images/page_white_text.png") no-repeat 0 50%;
 }
 
 .bibjson
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/json.png") no-repeat 0 50%;
+  background: url("../images/json.png") no-repeat 0 50%;
 }
 
 .wikipedia
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/page_white_text.png") no-repeat 0 50%;
+  background: url("../images/page_white_text.png") no-repeat 0 50%;
 }
 
 
@@ -225,7 +225,7 @@ li.reference-list
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/star.png") no-repeat 0 50%;
+  background: url("../images/star.png") no-repeat 0 50%;
   border-bottom:1px dotted rgb(228,228,228);
 }
 
@@ -233,7 +233,7 @@ li.reference-list
 {
   margin-left: 3px;
   padding: 2px 2px 2px 19px;
-  background: url("/images/page_white.png") no-repeat 0 50%;
+  background: url("../images/page_white.png") no-repeat 0 50%;
   border-bottom:1px dotted rgb(228,228,228);
 }
 
