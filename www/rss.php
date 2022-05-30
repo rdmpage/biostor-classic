@@ -12,12 +12,14 @@ require_once('../db.php');
 require_once('../reference.php');
 
 // Conditional get
-$sql = 'SELECT `created` FROM rdmp_reference ORDER BY `created` DESC LIMIT 1';
+//$sql = 'SELECT `created` FROM rdmp_reference ORDER BY `created` DESC LIMIT 1';
+$sql = 'SELECT `updated` FROM rdmp_reference ORDER BY `updated` DESC LIMIT 1';
+
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 
-$last_modified = date(DATE_RFC822, strtotime($result->fields['created']));
-$etag = '"' . md5($result->fields['created']) . '"';
+$last_modified = date(DATE_RFC822, strtotime($result->fields['updated']));
+$etag = '"' . md5($result->fields['updated']) . '"';
 
 $send = true;
 $headers = getallheaders();
@@ -73,7 +75,7 @@ if (isset($_GET['format']))
 
 // Get last 50 references added to database
 $sql = 'SELECT * FROM rdmp_reference
-ORDER BY `created` DESC
+ORDER BY `updated` DESC
 LIMIT 50';
 
 $reference_ids = array();

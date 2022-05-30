@@ -1,5 +1,7 @@
 <?php
 
+
+
 /**
  * @file reference.php
  *
@@ -512,7 +514,8 @@ function reference_to_atom($reference, &$feed, &$rss)
 	$pages = bhl_retrieve_reference_pages($reference->reference_id);
 	if (count($pages) > 0)
 	{
-		$description .= '<div><img src="http://biostor.org/bhl_image.php?PageID=' . $pages[0]->PageID . '&thumbnail" /></div>';
+		//$description .= '<div><img src="http://biostor.org/bhl_image.php?PageID=' . $pages[0]->PageID . '&thumbnail" /></div>';
+		$description .= '<div><img src="http://exeg5le.cloudimg.io/s/height/500/https://www.biodiversitylibrary.org/pagethumb/' . $pages[0]->PageID . ',1000,1000" /></div>';
 	}
 	$description .= '</div>';
 	
@@ -1164,6 +1167,8 @@ function reference_to_bibjson($reference, $include_text = true)
 	// BHL pages...
 	
 	// if 0 we don't upload text
+	$include_text = true;
+	$include_text = false;
 	if (1)
 	{
 	
@@ -1551,6 +1556,55 @@ function reference_to_jats($reference)
 }
 
 
+//--------------------------------------------------------------------------------------------------
+// export as tab-delimited text
+function reference_to_tsv($reference, $keys = array('reference_id', 'title', 'authors', 'secondary_title', 'issn', 'volume', 'issue', 'spage', 'epage', 'year', 'date', 'doi', 'jstor', 'PageID'))
+{
+	global $config;
+	
+	$tsv = '';
+	
+	$row = array();
+	
+	switch ($reference->genre)
+	{
+		case 'article':
+			foreach ($keys as $k)
+			{
+				if (isset($reference->{$k}))
+				{
+					switch ($k)
+					{
+						case 'authors':
+							$authors = array();
+							foreach ($reference->authors as $author)
+							{
+								$authors[] = $author->lastname . ", " . $author->forename;
+							}
+							$row[] = join(';', $authors);
+						
+							break;
+						
+						default:
+							$row[] = str_replace("\n", "", $reference->{$k});
+							break;
+					}
+				}
+				else
+				{
+					$row[] = '';
+				}
+			}
+			break;
+			
+		default:
+			break;
+	}
+	
+	$tsv = join("\t", $row);
+	
+	return $tsv;
+}
 
 
 ?>

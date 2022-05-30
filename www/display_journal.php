@@ -59,6 +59,11 @@ class DisplayJournal extends DisplayObject
 				case 'text':
 					$this->format = 'text';
 					break;
+					
+				case 'tsv':
+					$this->format = 'tsv';
+					break;
+					
 		
 				default:
 					parent::GetFormat();
@@ -87,6 +92,10 @@ class DisplayJournal extends DisplayObject
 				
 			case 'text':
 				$this->DisplayText();
+				break;
+				
+			case 'tsv':
+				$this->DisplayTsv();
 				break;
 				
 
@@ -175,6 +184,35 @@ class DisplayJournal extends DisplayObject
 		header("Content-type: text/xml; charset=utf-8\n\n");
 		echo $doc->saveXML();
 	}	
+	
+	//----------------------------------------------------------------------------------------------
+	// TSV export format
+	function DisplayTsv()
+	{
+		$keys = array('reference_id', 'title', 'authors', 'secondary_title', 'issn', 
+		'volume', 'issue', 'spage', 'epage', 'year', 'date', 'doi', 'jstor', 'PageID');
+		
+		$tsv = '';
+		
+		$tsv .= join("\t", $keys) . "\n";
+		
+		$articles = db_retrieve_articles_from_journal($this->issn, $this->oclc);
+		foreach ($articles as $k => $v)
+		{
+			foreach ($v as $ref)
+			{
+				$reference = db_retrieve_reference ($ref->id);
+				$tsv .= reference_to_tsv($reference, $keys) . "\n";
+			}
+		}
+		
+		
+		// Dump TSV
+		header("Content-type: text/plain; charset=utf-8\n\n");
+		header('Content-Disposition: attachment; filename=' . $this->issn . '.tsv');
+		echo $tsv;
+	}		
+	
 
 
 	//----------------------------------------------------------------------------------------------
@@ -199,6 +237,7 @@ class DisplayJournal extends DisplayObject
 			echo '<li class="ris"><a href="' . $config['web_root'] . 'issn/' . $this->issn . '.ris" title="RIS">Reference manager</a></li>';		
 			echo '<li class="bibtex"><a href="' . $config['web_root'] . 'issn/' . $this->issn . '.bib" title="BibTex">BibTex</a></li>';	
 			echo '<li class="text"><a href="' . $config['web_root'] . 'issn/' . $this->issn . '.text" title="text">Text</a></li>';	
+			echo '<li class="text"><a href="' . $config['web_root'] . 'issn/' . $this->issn . '.tsv" title="tsv">TSV</a></li>';	
 			echo '</ul>' . "\n";
 		}
 		if ($this->oclc != '')

@@ -904,6 +904,10 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	// Special cases where mapping is tricky
 	switch ($obj->ISSN)
 	{
+		case '0027-4070':
+			$obj->TitleID = 68686;
+			break;
+	
 		case '0016-5301':
 			$obj->TitleID = 40896;
 			break;
@@ -911,6 +915,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		case '1000-3215':
 			$obj->TitleID = 53832;
 			break;
+			
+		// Adansonia new series
+		case '0001-804X':
+			$obj->TitleID = 169110;
+			break;		
 			
 		// Annotationes Zoologicae Japonenses
 		case '0003-5092':
@@ -922,6 +931,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			$obj->TitleID = 61808;
 			break;
 			
+		// Australian Entomological Magazine
+		case '0311-1881':
+			$obj->TitleID = 181031;
+			break;
+
+			
 	
 		case '0373-6660':
 			$obj->TitleID = 13345;
@@ -932,6 +947,12 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			$obj->TitleID = 63880;
 			break;
 			
+		// Beagle
+		case '0811-3653':
+			$obj->TitleID = 144396;
+			break;
+			
+		
 		// Bonn zoological bulletin
 		case '2190-7307':
 			$obj->TitleID = 82521;
@@ -948,6 +969,10 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			$obj->TitleID = 5943;
 			break;
 			
+		case '0181-0626':
+			$obj->TitleID = 158834;
+			break;
+		
 		// Bulletin of the Brooklyn Entomological Society.
 		case '1051-8932':
 			$obj->TitleID = 16211;
@@ -956,6 +981,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		// Bulletin of the Natural History Museum. Zoology series
 		case '0968-0470':
 			$obj->TitleID = 62642;
+			break;
+			
+		// Bulletin of the Natural History Museum. Botany series.
+		case '0968-0446':
+			$obj->TitleID = 53883;
 			break;
 			
 		// Bulletin of the Southern California Academy of Sciences
@@ -1192,7 +1222,7 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			}
 		}
 	}
-	
+		
 	// At this point if we have a title we then want to find items for this title
 	if($obj->TitleID != 0)
 	{		
@@ -1483,12 +1513,6 @@ case 155143:
 				$title_list = array(7926, 8237);
 				break;
 				
-			// Atti della Società italiana di scienze
-			case 9586:
-			case 16255:
-			case 16213:
-				$title_list = array(9586,16255,16213);
-				break;
 				
 			// Annales de la Société entomologique de Belgique.
 			case 51679:
@@ -1608,6 +1632,14 @@ case 155143:
 			case 60455:
 				$title_list = array(9582,60455);
 				break;
+
+			case 9586:
+			case 16255:
+			case 16213:
+			case 157691:
+				$title_list = array(9586, 16255,16213, 157691);
+				break;
+				
 				
 			// [The] Beagle
 			case 144396:
@@ -2662,7 +2694,7 @@ case 157756:
 				$title_list = array(3952, 7411, 15816, 3966, 4274, 3943, 12931, 45400, 150741, 154994);
 				break;
 				
-			// Proceedings of The Linnean Society of New South Wales
+			// Proceedings of the Royal Society of Victoria. New series.
 			case 8096:
 			case 138908:
 				$title_list = array(8096,138908);
@@ -2674,10 +2706,15 @@ case 157756:
 				$title_list = array(2375,60468);
 				break;
 				
-			// Proceedings of the Royal Society of Victoria. New series.
+			
+			
+			// Proceedings of the Linnean Society of New South Wales
 			case 2375:
 			case 60468:
-				$title_list = array(2375,60468);
+			case 169620:
+			case 6525:
+			
+				$title_list = array(2375,60468, 169620, 6525);
 				break;
 				
 			// Proceedings of the Zoological Society of London
@@ -3061,22 +3098,122 @@ case 157756:
 	//$obj->ItemIDs = bhl_itemid_from_itemid(254261);
 	//$obj->ItemIDs = bhl_itemid_from_itemid(266029);
 	
-	/*
-	$obj->ItemIDs = array();
-	
-	$a = array(
-266029,
-266101,
-266106,
-266124,
-266154,
-);
-	foreach ($a as $itemid)
+	if (0)
 	{
-		$it = bhl_itemid_from_itemid($itemid);	
-		$obj->ItemIDs[] = $it[0];
-	}
-	*/
+		$obj->ItemIDs = array();
+	
+		$a = array(
+		266029,
+		266101,
+		266106,
+		266124,
+		266154,
+		);
+
+		$a = array(
+		267059,
+		267049
+		);
+		
+		$a = array(
+		//27191,
+		//27174
+		//27212
+		//244612,
+		
+//214042,
+//244728,
+//213700,
+//213983,
+
+//213935,
+//214800,
+//214591,
+//216333,
+//216867,
+// 216893, // 10
+//217367,
+
+//237816,
+
+//252663, // 13
+//219074, // 14
+//220796,
+//233774, // 16
+//230738,
+//229446,
+//232285, // 19
+//235567,
+//235813, // 21
+//237339, // 22
+
+//237300,
+//237712, // 24
+//238386, // 25
+//239914, // 26
+//239535, // 27
+//239950, // 28
+//240164, // 29
+//240169, // 30
+//240445, // 31
+//240473, //32
+//240925,
+//241023,
+//241901, // 35
+//241902,
+//242455,
+//242583,
+//242405,
+//244736,
+//247209,
+//251385,
+
+//259961
+//259987
+//260069
+
+
+// missed
+//241023,
+
+		);
+		
+		
+		$a = array(
+//27194, // 14 series 1
+//27198, // 15
+//27184, // 16
+//106649, // 17
+//106493, // 18
+//27226,
+//106496, // 20
+//27185, // 21
+//137435,
+//27188, // 22
+//27203, // 23
+//27205, // 24
+//27186, // 25
+//27200, // 26
+//137428,
+//27554, // 27
+106546, // 28
+//213221, // 29
+//213222, // 30
+//212974, // 31
+//212975, // 32
+//213956, // 33
+//213840,// 34
+
+		
+		
+		);
+		
+		foreach ($a as $itemid)
+		{
+			$it = bhl_itemid_from_itemid($itemid);	
+			$obj->ItemIDs[] = $it[0];
+		}
+	}	
 	
 	
 	
@@ -3118,10 +3255,16 @@ case 157756:
 			AND (
 			 (PageNumber = ' . $db->qstr($page) . ')
 			 OR (PageNumber = ' . $db->qstr('[' . $page . ']') . ')
+			 OR (PageNumber = ' . $db->qstr('Page%' . $page) . ')
+			 OR (PageNumber = ' . $db->qstr('p.%' . $page) . ')
+			 
 			)
 			ORDER BY SequenceOrder';
 			
-			//echo $sql;
+			if ($debug)
+			{
+				echo $sql;
+			}
 			
 			//exit();
 			

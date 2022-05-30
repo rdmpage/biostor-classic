@@ -135,7 +135,7 @@ function html_page_header($has_search = false, $query = '', $category = 'all')
 		if ($config['use_mendeley_oauth'])
 		{
 			$html .= '<td>';
-			/* Disable sign-in for now
+			
 			if (user_is_logged_in())
 			{
 				$html .= '<a href="./clearsessions.php">Sign out</a>';
@@ -145,28 +145,33 @@ function html_page_header($has_search = false, $query = '', $category = 'all')
 				$html .= '<a href="./redirect.php?url=' . urlencode($_SERVER["REQUEST_URI"]) . '
 ">Sign in using Mendeley</a>';
 			}
-			*/
 			$html .= '</td>';
 		}	
-	
-/*		// Login/out
-		if (user_is_logged_in())
-		{
-			$user = user_with_openid($_COOKIE['openid']);
-			if ($user != NULL)
+		
+		if ($config['use_simple_login'])
+		{	
+			// Login/out
+			if (user_is_logged_in())
 			{
-				$html .= '<td><img src="http://www.gravatar.com/avatar/' . md5($user->email) . '" width="32" /></td>';
+				// $user = user_with_openid($_COOKIE['openid']);
+				$user = user_with_email($_COOKIE['openid']);
+				if ($user != NULL)
+				{
+					$html .= '<td><img src="http://www.gravatar.com/avatar/' . md5($user->email) . '" width="32" /></td>';
 			
-				$html .= '<td>   '. $user->username . '   </td>';			
+					$html .= '<td>   '. $user->username . '   </td>';			
+				}
+				$html .= '<td>   <a href="logout.php">Logout</a>   </td>';
 			}
-			$html .= '<td>   <a href="logout.php">Logout</a>   </td>';
+			else
+			{
+				// $html .=  '<td>   <a href="login.php">Login</a>   </td>';
+			
+				$html .= '<td><form action="login.php"><input type="email" name="username" "placeholder="email address" required="required"><input type="submit" name="login" value="Login"></form></td>';
+			}	
 		}
-		else
-		{
-			$html .=  '<td>   <a href="login.php">Login</a>   </td>';
-		}	
-*/		
-		$html .= html_search_box($query, $category);
+		
+		//$html .= html_search_box($query, $category);
 
 		$html .='</tr>' . "\n";
 		$html .='</table>' . "\n";

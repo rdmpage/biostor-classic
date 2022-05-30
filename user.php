@@ -14,10 +14,10 @@ function user_is_logged_in()
 {
 	global $config;
 	
-	if (1)
+	if (0)
 	{
-		return true;
-		//return false;
+		//return true;
+		return false;
 	}
 	else
 	{
@@ -62,6 +62,30 @@ function user_with_openid($openid)
 		
 		$user->user_id  = $result->fields['user_id'];
 		$user->openid  = $result->fields['openid'];
+		$user->username  = $result->fields['username'];
+		$user->email  = $result->fields['email'];
+	}
+	
+	return $user;
+}
+
+//--------------------------------------------------------------------------------------------------
+function user_with_email($email)
+{
+	global $db;
+	
+	$user = NULL;
+	
+	$sql = 'SELECT * FROM rdmp_user WHERE email=' . $db->qstr($email) . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$user = new stdclass;
+		
+		$user->user_id  = $result->fields['user_id'];
 		$user->username  = $result->fields['username'];
 		$user->email  = $result->fields['email'];
 	}

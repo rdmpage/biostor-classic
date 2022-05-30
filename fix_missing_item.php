@@ -118,6 +118,18 @@ $replace_list = array(
 41412 => 18609
 );
 
+// Transactions of The Linnean Society of London volume 9
+$replace_list = array(
+46581 => 13719
+);
+
+// Bulletin of the Museum of Comparative Zoology at Harvard College v1
+// old_item => new_item
+
+$replace_list = array(
+96183 => 30465
+);
+
 /*
 DELETE FROM bhl_item WHERE ItemID=120129;
 DELETE FROM bhl_item WHERE ItemID=120027;
@@ -131,6 +143,19 @@ DELETE FROM bhl_item WHERE ItemID=120130;
 DELETE FROM bhl_item WHERE ItemID=46987;
 DELETE FROM bhl_item WHERE ItemID=119076;
 */
+
+$replace_list = array(
+23920 => 259461
+);
+
+$replace_list = array(
+43773 => 105347
+);
+
+$replace_list = array(
+44628 => 105674
+);
+
 
 $done = array();
 $manual = array();

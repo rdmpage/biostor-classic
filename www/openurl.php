@@ -48,10 +48,15 @@ function parse_openurl($params, &$referent)
 						$referent->genre = 'book';
 						break;
 						
+					case 'info:ofi/fmt:kev:mtx:unknown':
+						$referent->genre = 'article';
+						break;
+						
 					default:
 						if (!isset($referent->genre))
 						{
 							$referent->genre = 'unknown';
+							$referent->genre = 'article';
 						}
 						break;
 				}
@@ -685,8 +690,11 @@ Event.observe(\'recaptcha_response_field\', \'keypress\', onMyTextKeypress);
 			
 			// Thumbnail of page
 			echo '<td valign="top">';
-			echo '<a href="http://biostor.org/page/image/' . $hit->PageID . '-large.jpg" rel="lightbox">';
-			echo '<img style="border:1px solid rgb(128,128,128);" src="http://biostor.org/page/image/' . $hit->PageID . '-small.jpg" alt="page thumbnail"/>';
+			// echo '<a href="http://biostor.org/page/image/' . $hit->PageID . '-large.jpg" rel="lightbox">';
+			//echo '<img style="border:1px solid rgb(128,128,128);" src="http://biostor.org/page/image/' . $hit->PageID . '-small.jpg" alt="page thumbnail"/>';
+			
+			echo '<a href="http://exeg5le.cloudimg.io/s/height/800/https://www.biodiversitylibrary.org/pagethumb/' . $hit->PageID . ',800,800" rel="lightbox">';
+			echo '<img style="border:1px solid rgb(128,128,128);" src="http://exeg5le.cloudimg.io/s/height/100/https://www.biodiversitylibrary.org/pagethumb/' . $hit->PageID . ',60,60" alt="page thumbnail"/>';
 			echo '</a>';
 			echo '</td>';
 			
@@ -841,6 +849,11 @@ function main()
 	// This is what we got from user
 	$referent = new stdclass;
 	parse_openurl($params, $referent);
+	
+	if ($referent->genre == 'unknown')
+	{
+		$referent->genre = 'article';
+	}
 
 	
 	// Flesh it out 
@@ -884,31 +897,60 @@ function main()
 		// in Zotero, 
 		if (preg_match('/^http[s]?:\/\/(www\.)?biodiversitylibrary.org\/page\/(?<pageid>[0-9]+)/', $referent->url, $matches))
 		{
+			if (0)
+			{
 			echo "<h2>Matches</h2>";
 			echo '<pre>';
 			print_r($matches);
 			echo '</pre>';
+			exit();
+			}
 			
 			$PageID = $matches['pageid'];
 			$references = bhl_reference_from_pageid($PageID);
 			
-			echo "<h2>References</h2>";
-			print_r($references);
+			// 2021-03-26
+			// experiments with allowing multiple articles on same PageID but it's hard 
+			// because all the way down code checks for matching pages, etc.
+			//$references = bhl_reference_from_pageid($PageID, $referent->title);
+			
+			
+			if (0)
+			{
+				echo "<h2>References</h2>";
+				print_r($references);
+				exit();
+			}
 			
 			if (count($references) == 0)
 			{
 				// We don't have an article for this PageID
 				$search_hit = bhl_score_page($PageID, $referent->title);
 				
-				echo "<h2>search_hit</h2>";
-				echo '<pre>';
-				print_r($search_hit);
-				echo '</pre>';
+				if (0)
+				{
+					echo "<h2>search_hit</h2>";
+					echo '<pre>';
+					print_r($search_hit);
+					echo '</pre>';
+					exit();
+				}
 				
 				//if ($search_hit->score > 0.5)
 				{
 					// Store
 					$id = db_store_article($referent, $PageID);
+				}
+				
+				if (0)
+				{
+					echo "<h2>db_store_article</h2>";
+					echo '<pre>';
+					echo $id;
+					echo '</pre>';
+					exit();
+					
+					
 				}
 			}
 			else
@@ -966,6 +1008,7 @@ function main()
 			case 'json':
 				// Display object
 				$reference = db_retrieve_reference($id);
+				//$reference->hello = 'x';
 				header("Content-type: text/plain; charset=utf-8\n\n");
 				if ($callback != '')
 				{
@@ -1079,31 +1122,69 @@ function main()
 			
 			if (count($references) != 0)
 			{
-				// We have this reference in our database
-				switch ($format)
+				$go = true;
+				
+				$reference = db_retrieve_reference($references[0]);
+				
+				if ($go)
 				{
-					case 'json':
-						// Display object
-						$reference = db_retrieve_reference($references[0]);
-						header("Content-type: text/plain; charset=utf-8\n\n");
-						if ($callback != '')
-						{
-							echo $callback . '(';
-						}
-						echo json_format(json_encode($reference));
-						if ($callback != '')
-						{
-							echo ')';
-						}
-						break;
-						
-					case 'html':
-					default:
-						// Redirect to reference display
-						header('Location: reference/' . $references[0] . "\n\n");
-						break;
+					if (isset($reference->issue)  && ($reference->issue != '') && isset($referent->issue) && ($referent->issue != ''))
+					{
+						$go = ($reference->issue == $referent->issue);
+					}
 				}
-				exit();
+				
+				if ($go)
+				{
+					if (isset($reference->volume)  && ($reference->volume != '') && isset($referent->volume) && ($referent->volume != ''))
+					{
+						$go = ($reference->volume == $referent->volume);
+					}
+				}
+				
+				if (1)
+				{
+					// for strict matching when we have multiple examples of the same volume in
+					// different years
+					if ($go)
+					{
+						if (isset($reference->year)  && ($reference->year != '') && isset($referent->year) && ($referent->year != ''))
+						{
+							$go = ($reference->year == $referent->year);
+						}
+					}
+				}
+				
+								
+				if ($go)
+				{
+					// We have this reference in our database
+					switch ($format)
+					{
+						case 'json':
+							// Display object
+							$reference = db_retrieve_reference($references[0]);
+							//$reference->hello = 'y';
+							header("Content-type: text/plain; charset=utf-8\n\n");
+							if ($callback != '')
+							{
+								echo $callback . '(';
+							}
+							echo json_format(json_encode($reference));
+							if ($callback != '')
+							{
+								echo ')';
+							}
+							break;
+						
+						case 'html':
+						default:
+							// Redirect to reference display
+							header('Location: reference/' . $references[0] . "\n\n");
+							break;
+					}
+					exit();
+				}
 			
 			}
 		}

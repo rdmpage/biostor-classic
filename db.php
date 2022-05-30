@@ -62,7 +62,7 @@ function db_reference_from_bhl($reference_id)
 
 //--------------------------------------------------------------------------------------------------
 // references with a given PageID
-function bhl_reference_from_pageid($PageID)
+function bhl_reference_from_pageid($PageID, $title = '')
 {
 	global $db;
 	global $ADODB_FETCH_MODE;
@@ -71,7 +71,15 @@ function bhl_reference_from_pageid($PageID)
 		
 	$sql = 'SELECT reference_id FROM rdmp_reference
 		WHERE (PageID=' . $PageID . ')';
-				
+		
+	// check it matches the title as well if we include that
+	if ($title != '')
+	{
+		$sql .= ' AND title="' . addcslashes($title, '"') . '"';	
+	}
+	
+	// echo $sql . "\n";
+					
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 
@@ -200,6 +208,64 @@ function bhl_page_range ($start_page_id, $num_pages)
 	return $PageID;
 }
 
+//--------------------------------------------------------------------------------------------------
+/**
+ * @brief Find range of pages spanned two BHL PageIDs
+ *
+ * @param start_page_id PageID of first page in article
+ * @param end_page_id PageID of last page in article
+ *
+ * @return Array of PageIDs in order 
+ *
+ */
+function bhl_page_range_from_pageids ($start_page_id, $end_page_id)
+{
+	global $db;
+	$PageID = array();	
+	
+	// Get ItemID and SequenceOrder for this page
+	$sql = 'SELECT ItemID FROM page
+		WHERE (PageID=' . $start_page_id . ') LIMIT 1';
+		
+	//echo $sql . "\n";
+				
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$ItemID = $result->fields['ItemID'];
+		
+		$sql = 'SELECT PageID FROM page 
+				WHERE (ItemID=' . $ItemID . ')
+				ORDER By SequenceOrder';
+				
+		$result = $db->Execute($sql);
+		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+						
+		// Get continuous span of pages. Assume SequenceOrder is linear, but we
+		// don't assume SequenceOrder is continuous
+		$pages = array();
+		$store = false;
+		$count = 0;
+		while (!$result->EOF) 
+		{
+			if (!$store)
+			{
+				$store = ($start_page_id == $result->fields['PageID']);
+			}
+			if ($store)
+			{
+				$PageID[] = $result->fields['PageID'];		
+				$store = ($end_page_id != $result->fields['PageID']);
+			}
+			$result->MoveNext();
+		}
+	}
+
+
+	return $PageID;
+}
 
 //--------------------------------------------------------------------------------------------------
 // If we've geocoded this reference then we will have locality ids for each page, even if they
@@ -1491,6 +1557,10 @@ function db_find_article($article, $allow_non_bhl = false)
 				{
 					$matched++;
 				}
+				else
+				{
+					$matched = 0;
+				}
 			}
 			
 			switch ($matched)
@@ -1818,7 +1888,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 				
 			// Don't store BHL URL here
 			case 'url':
-				if (preg_match('/^http:\/\/(www\.)?biodiversitylibrary.org\/page\/(?<pageid>[0-9]+)/', $v))
+				if (preg_match('/^https?:\/\/(www\.)?biodiversitylibrary.org\/page\/(?<pageid>[0-9]+)/', $v))
 				{
 				}
 				else
@@ -1965,7 +2035,7 @@ function db_store_article($article, $PageID = 0, $updating = false)
 	
 		$sql = 'INSERT INTO rdmp_reference (' . implode (",", $keys) . ') VALUES (' . implode (",", $values) . ')';
 		
-		echo $sql;
+		//echo $sql;
 	
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -2161,8 +2231,51 @@ function db_store_article($article, $PageID = 0, $updating = false)
 		$page_range = array();
 		if (isset($article->spage) && isset($article->epage))
 		{
-			$page_range = 
-				bhl_page_range($PageID, $article->epage - $article->spage + 1);
+			// are we using spage and epage to store BHL PageIDs?
+			// assume pages are contiguous
+			if ($article->spage > 100000)
+			{
+				$page_range = 
+					bhl_page_range_from_pageids($article->spage, $article->epage);
+				/*
+				$article->spage = (int)$article->spage;
+				$article->epage = (int)$article->epage;
+			
+				$page_range = array();
+				
+				$delta = $article->epage - $article->spage;
+
+				// one page
+				if ($delta == 0)
+				{
+					$page_range[] = $article->spage;									
+				}
+				
+				// epage is bigger than spage
+				if ($delta > 0)
+				{
+					for ($k = $article->spage; $k <= $article->epage; $k++)
+					{
+						$page_range[] = $k;	
+					}								
+				}
+				if ($delta < 0)
+				{
+					for ($k = $article->spage; $k >= $article->epage; $k--)
+					{
+						$page_range[] = $k;	
+					}								
+				}
+				*/
+				
+			}
+			else
+			{		
+				// page range is set of integers, match to PageIDs
+			
+				$page_range = 
+					bhl_page_range($PageID, $article->epage - $article->spage + 1);
+			}
 		}
 		else
 		{
@@ -2441,6 +2554,35 @@ function log_access($reference_id, $doctype='html')
 	//$result = $db->Execute($sql);
 	//if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 	
+}
+
+if (0)
+{
+/*
+TY  - JOUR
+JO  - Western Australian Naturalist
+SN  - 0726-9609
+PY  - 1991/03/00/
+Y1  - 1991
+VL  - 18
+IS  - 6
+TI  - From Field and Study: Another Brolga sighting
+SP  - 169
+EP  - 169
+AU  - Edinger, Daphne Choules
+UR  - http://www.biodiversitylibrary.org/page/59184385
+ER  - 
+*/
+
+
+	$PageId = 59184385;
+	$title = "From Field and Study: Another Brolga sighting";
+	//$title = "";
+	
+	$r = bhl_reference_from_pageid($PageId, $title);
+	
+	print_r($r);
+
 }
 
 

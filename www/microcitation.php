@@ -253,6 +253,8 @@ function matching_pages($publication, $year)
 	{
 		$reference = reference_from_matches($matches);
 		
+		//print_r($reference);
+		
 		
 		if (!isset($reference->issn))
 		{
@@ -601,7 +603,7 @@ function main()
 			echo '">';
 			echo '<div style="width:100%;text-align:center;">';
 			echo '<a href="http://www.biodiversitylibrary.org/page/' . $PageID . '" target="_new">';
-			echo '<img style="-webkit-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);-moz-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);border:1px solid rgb(192,192,192);"  height="180" src="http://biostor.org/page/image/' . $PageID . '-small.jpg" />';
+			echo '<img style="-webkit-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);-moz-box-shadow: 4px 4px 10px rgba(64,64,64,0.6);border:1px solid rgb(192,192,192);"  height="180" src="http://exeg5le.cloudimg.io/s/height/100/https://www.biodiversitylibrary.org/pagethumb/' . $PageID . ',100,100" />';
 			echo '</a>';
 			echo '</div>';
 			echo '<div>';

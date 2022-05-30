@@ -21,7 +21,7 @@ require_once ('../nameparse.php');
 require_once ('../recaptcha-php-1.10/recaptchalib.php');
 require_once ('../user.php');
 
-if (0)
+if (1)
 {
 	$o = print_r($_POST, true);
 	file_put_contents('/tmp/' . uniqid() . '.json', $o);

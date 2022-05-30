@@ -220,7 +220,10 @@ function reference_form($reference, $recaptcha = true)
 		$html .= '</td></tr>';
 	}
 
-	$html .= '<tr><td></td><td><span style="padding:2px;cursor:pointer;background-color:#2D7BB2;color:white;font-size:18px;font-family:Arial;text-align:center;" onclick="store(\'metadata_form\', ' . $reference->PageID . ');">&nbsp;Update&nbsp;</span></td></tr>' . "\n";
+	if (user_is_logged_in())
+	{
+		$html .= '<tr><td></td><td><span style="padding:2px;cursor:pointer;background-color:#2D7BB2;color:white;font-size:18px;font-family:Arial;text-align:center;" onclick="store(\'metadata_form\', ' . $reference->PageID . ');">&nbsp;Update&nbsp;</span></td></tr>' . "\n";
+	}
 
 	$html .= '</table>
 </form>';

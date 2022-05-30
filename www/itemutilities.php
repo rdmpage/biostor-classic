@@ -64,7 +64,23 @@ function articles_for_item($ItemID)
 			if (isset($reference->reference_cluster_id))
 			{
 				unset($reference->reference_cluster_id);
-			}		
+			}
+			
+			// Make date acceptable to BHL
+			if (isset($reference->date))
+			{
+				if (preg_match('/-00-00$/', $reference->date))
+				{
+					$reference->date = str_replace('-00-00', '', $reference->date);
+				}
+
+				if (preg_match('/-00$/', $reference->date))
+				{
+					$reference->date = str_replace('-00', '', $reference->date);
+				}
+			
+			}
+				
 			
 			// get pages
 			$pages = bhl_retrieve_reference_pages($reference_id);

@@ -595,6 +595,11 @@ Event.observe(window, \'load\', function() {
 			echo '<li class="text"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.text" title="Text" >Text</a></li>';
 		}
 		echo '</ul>' . "\n";
+		
+		echo '<h2>Page range</h2>' . "\n";
+		echo '<ul class="export-list">' . "\n";
+		echo '<li class="bibtex"><a href="' . $config['web_root'] . 'page_range_editor.php?reference_id=' . $this->id . '" title="Page range" >View</a></li>';
+		echo '</ul>' . "\n";
 
 
 		echo '</div>' . "\n";
@@ -698,9 +703,12 @@ Event.observe(window, \'load\', function() {
 		//------------------------------------------------------------------------------------------
 		// Social bookmarking
 //		echo '<g:plusone size="tall"></g:plusone>';
-		echo '<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="rdmpage" data-related="biostor_org">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>';
+//		echo '<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="rdmpage" data-related="biostor_org">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>';
+
+/*
 		echo '&nbsp';
 		echo '<a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>';
+*/
 
 		//------------------------------------------------------------------------------------------
 		// Export options
@@ -1151,8 +1159,9 @@ Event.observe(window, \'load\', function() {
 	{
 		// true means we return text
 		// false means we don't return text (perhaps because it's too slow to retrieve it from BHL)
-		$j = reference_to_bibjson($this->object, false);
-		//$j = reference_to_bibjson($this->object, true);
+		
+		//$j = reference_to_bibjson($this->object, false);
+		$j = reference_to_bibjson($this->object, true);
 	
 		header("Content-type: text/plain; charset=utf-8\n\n");
 		if ($this->callback != '')
