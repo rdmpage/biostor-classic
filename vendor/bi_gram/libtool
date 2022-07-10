@@ -44,7 +44,7 @@ available_tags=" CXX"
 
 # ### BEGIN LIBTOOL CONFIG
 
-# Libtool was configured on host pc46-59.ibls.gla.ac.uk:
+# Libtool was configured on host Rodericks-MacBook-Pro.local:
 
 # Shell to use when invoking shell scripts.
 SHELL="/bin/sh"
@@ -66,13 +66,13 @@ fast_install=needless
 
 # The host system.
 host_alias=
-host=i386-apple-darwin14.3.0
-host_os=darwin14.3.0
+host=arm-apple-darwin21.5.0
+host_os=darwin21.5.0
 
 # The build system.
 build_alias=
-build=i386-apple-darwin14.3.0
-build_os=darwin14.3.0
+build=arm-apple-darwin21.5.0
+build_os=darwin21.5.0
 
 # An echo program that does not interpret backslashes.
 echo="/bin/echo"
@@ -103,7 +103,7 @@ LD="/Library/Developer/CommandLineTools/usr/bin/ld"
 LN_S="ln -s"
 
 # A BSD-compatible nm program.
-NM="/usr/bin/nm"
+NM="/usr/bin/nm -B"
 
 # A symbol stripping program
 STRIP="strip"
@@ -147,7 +147,7 @@ pic_flag=" -fno-common -DPIC"
 pic_mode=default
 
 # What is the maximum length of a command?
-max_cmd_len=196608
+max_cmd_len=786432
 
 # Does compiler simultaneously support -c and -o options?
 compiler_c_o="yes"
@@ -263,7 +263,7 @@ finish_cmds=""
 finish_eval=""
 
 # Take the output of nm and produce a listing of raw symbols and C names.
-global_symbol_pipe="sed -n -e 's/^.*[ 	]\\([BCDEGRST][BCDEGRST]*\\)[ 	][ 	]*_\\([_A-Za-z][_A-Za-z0-9]*\\)\$/\\1 _\\2 \\2/p'"
+global_symbol_pipe="sed -n -e 's/^.*[ 	]\\([ABCDGIRSTW][ABCDGIRSTW]*\\)[ 	][ 	]*_\\([_A-Za-z][_A-Za-z0-9]*\\)\$/\\1 _\\2 \\2/p'"
 
 # Transform the output of nm in a proper C declaration
 global_symbol_to_cdecl="sed -n -e 's/^. .* \\(.*\\)\$/extern int \\1;/p'"
@@ -322,7 +322,7 @@ variables_saved_for_relink="PATH DYLD_LIBRARY_PATH  GCC_EXEC_PREFIX COMPILER_PAT
 link_all_deplibs=yes
 
 # Compile-time system search path for libraries
-sys_lib_search_path_spec=" /Library/Developer/CommandLineTools/usr/bin/../lib/clang/6.1.0  /lib /usr/lib /usr/local/lib"
+sys_lib_search_path_spec=" /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6  /lib /usr/lib /usr/local/lib"
 
 # Run-time system search path for libraries
 sys_lib_dlsearch_path_spec="/usr/local/lib /lib /usr/lib"
@@ -7220,7 +7220,7 @@ disable_libs=static
 # End:
 # ### BEGIN LIBTOOL TAG CONFIG: CXX
 
-# Libtool was configured on host pc46-59.ibls.gla.ac.uk:
+# Libtool was configured on host Rodericks-MacBook-Pro.local:
 
 # Shell to use when invoking shell scripts.
 SHELL="/bin/sh"
@@ -7242,13 +7242,13 @@ fast_install=needless
 
 # The host system.
 host_alias=
-host=i386-apple-darwin14.3.0
-host_os=darwin14.3.0
+host=arm-apple-darwin21.5.0
+host_os=darwin21.5.0
 
 # The build system.
 build_alias=
-build=i386-apple-darwin14.3.0
-build_os=darwin14.3.0
+build=arm-apple-darwin21.5.0
+build_os=darwin21.5.0
 
 # An echo program that does not interpret backslashes.
 echo="/bin/echo"
@@ -7279,7 +7279,7 @@ LD="/Library/Developer/CommandLineTools/usr/bin/ld"
 LN_S="ln -s"
 
 # A BSD-compatible nm program.
-NM="/usr/bin/nm"
+NM="/usr/bin/nm -B"
 
 # A symbol stripping program
 STRIP="strip"
@@ -7323,7 +7323,7 @@ pic_flag=" -fno-common -DPIC"
 pic_mode=default
 
 # What is the maximum length of a command?
-max_cmd_len=196608
+max_cmd_len=786432
 
 # Does compiler simultaneously support -c and -o options?
 compiler_c_o="yes"
@@ -7439,7 +7439,7 @@ finish_cmds=""
 finish_eval=""
 
 # Take the output of nm and produce a listing of raw symbols and C names.
-global_symbol_pipe="sed -n -e 's/^.*[ 	]\\([BCDEGRST][BCDEGRST]*\\)[ 	][ 	]*_\\([_A-Za-z][_A-Za-z0-9]*\\)\$/\\1 _\\2 \\2/p'"
+global_symbol_pipe="sed -n -e 's/^.*[ 	]\\([ABCDGIRSTW][ABCDGIRSTW]*\\)[ 	][ 	]*_\\([_A-Za-z][_A-Za-z0-9]*\\)\$/\\1 _\\2 \\2/p'"
 
 # Transform the output of nm in a proper C declaration
 global_symbol_to_cdecl="sed -n -e 's/^. .* \\(.*\\)\$/extern int \\1;/p'"
@@ -7498,7 +7498,7 @@ variables_saved_for_relink="PATH DYLD_LIBRARY_PATH  GCC_EXEC_PREFIX COMPILER_PAT
 link_all_deplibs=yes
 
 # Compile-time system search path for libraries
-sys_lib_search_path_spec=" /Library/Developer/CommandLineTools/usr/bin/../lib/clang/6.1.0  /lib /usr/lib /usr/local/lib"
+sys_lib_search_path_spec=" /Library/Developer/CommandLineTools/usr/lib/clang/13.1.6  /lib /usr/lib /usr/local/lib"
 
 # Run-time system search path for libraries
 sys_lib_dlsearch_path_spec="/usr/local/lib /lib /usr/lib"
