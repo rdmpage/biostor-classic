@@ -20,9 +20,13 @@ Bugs:	If one of the words in the middle name is Ben (or St., for that matter),
 
 */
 
+
+
 function	norm_str($string) {
 	return	trim(strtolower(
 		str_replace('.','',$string)));
+		
+		
 	}
 
 function	in_array_norm($needle,$haystack) {
@@ -36,8 +40,13 @@ function	parse_name($fullname) {
 							'la','le','san','st','ste','van','vel','von');
 	$suffices		=	array('esq','esquire','jr','sr','2','ii','iii','iv');
 
-	$pieces			=	explode(',',preg_replace('/\s+/',' ',trim($fullname)));
+	$pieces			=	explode(',',preg_replace('/\s+/u',' ',trim($fullname)));
 	$n_pieces		=	count($pieces);
+	
+	//print_r($pieces);
+	//echo $fullname . "\n";
+	
+	$out = array();
 
 	switch($n_pieces) {
 		case	1:	// array(title first middles last suffix)
@@ -45,14 +54,22 @@ function	parse_name($fullname) {
 			$n_subp	=	count($subp);
 			for($i = 0; $i < $n_subp; $i++) {
 				$curr				=	trim($subp[$i]);
-				$next				=	trim($subp[$i+1]);
+				//$next				=	trim($subp[$i+1]);
+				if ($i < $n_subp - 1)
+				{
+					$next				=	trim($subp[$i+1]);
+				}
+				else
+				{
+					$next = '';
+				}
 
 				if($i == 0 && in_array_norm($curr,$titles)) {
 					$out['title']	=	$curr;
 					continue;
 					}
 
-				if(!$out['first']) {
+				if(!isset($out['first'])) {
 					$out['first']	=	$curr;
 					continue;
 					}
@@ -69,7 +86,7 @@ function	parse_name($fullname) {
 					}
 
 				if($i == $n_subp-1) {
-					if($out['last']) {
+					if(isset($out['last'])) {
 						$out['last']	.=	" $curr";
 						}
 					else {
@@ -179,21 +196,30 @@ function	parse_name($fullname) {
 						$n_subp	=	count($subp);
 						for($i = 0; $i < $n_subp; $i++) {
 							$curr				=	trim($subp[$i]);
-							$next				=	trim($subp[$i+1]);
+							//$next				=	trim($subp[$i+1]);							
+							if ($i < $n_subp - 1)
+							{
+								$next				=	trim($subp[$i+1]);
+							}
+							else
+							{
+								$next = '';
+							}
+							
 
 							if($i == 0 && in_array_norm($curr,$titles)) {
 								$out['title']	=	$curr;
 								continue;
 								}
 
-							if(!$out['first']) {
+							if(!isset($out['first'])) {
 								$out['first']	=	$curr;
 								continue;
 								}
 
 						if($i == $n_subp-2 && $next &&
 							in_array_norm($next,$suffices)) {
-							if($out['middle']) {
+							if(isset($out['middle'])) {
 								$out['middle']	.=	" $curr";
 								}
 							else {
@@ -208,7 +234,7 @@ function	parse_name($fullname) {
 							continue;
 							}
 
-						if($out['middle']) {
+						if(isset($out['middle'])) {
 							$out['middle']		.=	" $curr";
 							}
 						else {
