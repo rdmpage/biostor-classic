@@ -3568,8 +3568,8 @@ function parse_bhl_date($str, &$info)
 		if (preg_match("/^v\.\s*(?<volume>\d+)(:(pt|no)\.(\d+-\d+))?\s+\((?<yearstart>[0-9]{4})\-(?<yearend>[0-9]{4})\)$/Uiu", $str, $m))
 		{
 			$info->volume = $m['volume'];
-			$info->start = $m['year_from'];
-			$info->end = $m['year_to'];
+			$info->start = $m['yearstart'];
+			$info->end = $m['yearend'];
 			$matched = true;
 		}	
 	}	

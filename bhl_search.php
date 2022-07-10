@@ -525,6 +525,8 @@ function bhl_itemid_from_volume($TitleID, $volume, $series = '')
 	{
 		// No info in items, maybe in title (e.g., PartNumber field)
 		
+		$matched = false;
+		
 		// Find ItemID of item that contains relevant volume
 		$sql = 'SELECT * FROM bhl_title INNER JOIN bhl_item USING(TitleID) WHERE TitleID=' . $TitleID . ' LIMIT 1';
 	
