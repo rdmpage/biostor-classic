@@ -75,6 +75,10 @@ class DisplayReference extends DisplayObject
 					$this->format = 'citeproc';
 					break;	
 					
+				case 'elastic':
+					$this->format = 'elastic';
+					break;						
+					
 				case 'jats':
 					$this->format = 'jats';
 					break;						
@@ -171,6 +175,9 @@ class DisplayReference extends DisplayObject
 				$this->DisplayJats();
 				break;
 				
+			case 'elastic':
+				$this->DisplayElastic();
+				break;
 
 			default:
 				parent::DisplayFormattedObject();
@@ -1224,7 +1231,7 @@ Event.observe(window, \'load\', function() {
 
 
 	//----------------------------------------------------------------------------------------------
-	// Wikipedia reference
+	// CiteProc
 	function DisplayCiteproc()
 	{
 		header("Content-type: text/plain; charset=utf-8\n\n");
@@ -1247,6 +1254,19 @@ Event.observe(window, \'load\', function() {
 		echo $xml;
 	}
 	
+	//----------------------------------------------------------------------------------------------
+	// Elastic
+	function DisplayElastic()
+	{
+		header("Content-type: text/plain; charset=utf-8\n\n");
+		
+		$elastic = reference_to_elastic($this->object);	
+		
+		// for some reason we need to convert to JSON and back for this to work!
+		$json = json_encode($elastic);
+		
+		echo $json;
+	}
 	
 	
 	

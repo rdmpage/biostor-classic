@@ -1366,7 +1366,11 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 	if (isset($reference->secondary_title))
 	{
 		$citeproc_obj['container-title'] = $reference->secondary_title;
-		$citeproc_obj['volume'] = $reference->volume;
+		
+		if (isset($reference->volume))
+		{		
+			$citeproc_obj['volume'] = $reference->volume;
+		}
 		if (isset($reference->issue))
 		{
 			$citeproc_obj['issue'] = $reference->issue;
@@ -1604,6 +1608,153 @@ function reference_to_tsv($reference, $keys = array('reference_id', 'title', 'au
 	$tsv = join("\t", $row);
 	
 	return $tsv;
+}
+
+//--------------------------------------------------------------------------------------------------
+function reference_to_elastic($reference)
+{
+	global $config;
+	
+	$elastic = new stdclass;
+	$elastic->id = $reference->reference_id;
+	$elastic->type = $reference->genre;
+	
+	$elastic->search_result_data = new stdclass;
+	
+	// search_data
+	$elastic->search_data = new stdclass;
+		
+	$elastic->search_data->classification = array();
+	$elastic->search_data->type = $elastic->type;
+
+	$elastic->search_data->fulltext_terms = array();
+	$elastic->search_data->fulltext_terms_boosted = array();
+
+	// simple text description -----------------------------------------------------------
+	$description = array();
+	
+	// title
+	$elastic->search_result_data->name = $reference->title;
+	$elastic->search_data->fulltext_terms[] = $reference->title;
+	$elastic->search_data->fulltext_terms_boosted[] = $reference->title;
+	
+	$elastic->search_data->author = array();	
+	
+	if (isset($reference->secondary_title))
+	{
+		$elastic->search_data->fulltext_terms[] = $reference->secondary_title;
+		$elastic->search_data->fulltext_terms_boosted[] = $reference->secondary_title;
+		
+		$description[] = "Published in " . $reference->secondary_title;
+		
+		$elastic->search_data->container[]  = $reference->secondary_title;
+	}	
+	
+	foreach ($reference->authors as $author)
+	{
+		$parts = array();
+		if (isset($author->forename))
+		{
+			$parts[] = $author->forename;
+		}
+		if (isset($author->lastname))
+		{
+			$parts[] = $author->lastname;
+		}
+		$elastic->search_data->author[] = join(' ', $parts);
+		
+		$elastic->search_data->fulltext_boosted[] = join(' ', $parts);
+		$elastic->search_data->fulltext_terms_boosted[] = join(' ', $parts);
+ 	}	
+		
+	// year
+	if (isset($reference->year))
+	{
+		$elastic->search_data->fulltext_terms[] = $reference->year;
+		
+		$description[] = "in " . $reference->year;
+		
+		$elastic->search_data->year  = $reference->year;
+	}	
+
+	// volume
+	if (isset($reference->volume))
+	{
+		$elastic->search_data->fulltext_terms[] = $reference->volume;		
+		$description[] = "in volume " . $reference->volume;
+	}	
+
+	if (isset($reference->issue))
+	{
+		$elastic->search_data->fulltext_terms[] = $reference->issue;		
+		$description[] = "issue " . $reference->issue;
+	}	
+
+	if (isset($reference->spage))
+	{
+		$elastic->search_data->fulltext_terms[] = $reference->spage;
+		
+		if (isset($reference->epage) && ($reference->spage != $reference->epage))
+		{
+			$description[] = "pages " . $reference->spage . '-' . $reference->epage;
+			
+			$elastic->search_data->fulltext_terms[] = $reference->epage;
+		}
+		else
+		{
+			$description[] = "pages " . $reference->spage;
+		}
+	}		
+		
+	$elastic->search_result_data->description = join(', ', $description);
+	
+	// BHL pages--------------------------------------------------------------------------		
+	$pages = bhl_retrieve_reference_pages($reference->reference_id);	
+	
+	$elastic->search_result_data->thumbnailUrl 	= 'https://www.biodiversitylibrary.org/pagethumb/' . $pages[0]->PageID . ',60,60';
+	$elastic->search_result_data->url 			= 'https://www.biodiversitylibrary.org/page/' . $pages[0]->PageID;
+	$elastic->search_result_data->bhl_pages 	= array();
+	
+	foreach ($pages as $page)
+	{
+		$elastic->search_result_data->bhl_pages[] = $page->PageID;
+	}
+	
+	// geometry---------------------------------------------------------------------------
+	$reference->localities = bhl_localities_for_reference($reference->reference_id);
+	
+	if (count($reference->localities) > 0)
+	{
+		$elastic->search_data->geometry = new stdclass;
+		$elastic->search_data->geometry->type = "MultiPoint";
+		$elastic->search_data->geometry->coordinates = array();
+		foreach ($reference->localities as $loc)
+		{
+			$elastic->search_data->geometry->coordinates[] = array((Double)$loc->longitude, (Double)$loc->latitude);
+		}
+	}
+	
+	// CSL--------------------------------------------------------------------------------
+	$elastic->search_result_data->csl = reference_to_citeprocjs($reference);
+	$elastic->search_result_data->csl['URL'] = 'https://biostor.org/reference/' . $reference->reference_id;
+
+	
+	// Stuff to support BHL harvest of new or modified articles---------------------------
+	$elastic->search_data->item = (Integer)bhl_retrieve_ItemID_from_PageID($pages[0]->PageID);
+	$elastic->search_data->created = strtotime($reference->created);
+	$elastic->search_data->modified = strtotime($reference->updated);
+
+	
+	// Full text fields that we will search on--------------------------------------------
+	$elastic->search_data->fulltext = join(' ', $elastic->search_data->fulltext_terms);
+	unset($elastic->search_data->fulltext_terms);
+
+	$elastic->search_data->fulltext_boosted = join(' ', $elastic->search_data->fulltext_terms_boosted);
+	unset($elastic->search_data->fulltext_terms_boosted);
+	
+	
+	return $elastic;
+	
 }
 
 
