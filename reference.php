@@ -1326,9 +1326,31 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 		default:
 			break;
 	}
-		
 	
-	$citeproc_obj['issued']['date-parts'][] = array($reference->year);
+	if (isset($reference->date))
+	{
+		$citeproc_obj['issued'] = new stdclass;
+		$citeproc_obj['issued']->{'date-parts'} = array();
+		$citeproc_obj['issued']->{'date-parts'}[0] = array();
+		$parts = explode('-', $reference->date);
+		
+		$citeproc_obj['issued']->{'date-parts'}[0][] = (Integer)$parts[0];
+
+		if ($parts[1] != '00')
+		{		
+			$citeproc_obj['issued']->{'date-parts'}[0][] = (Integer)$parts[1];
+		}
+
+		if ($parts[2] != '00')
+		{		
+			$citeproc_obj['issued']->{'date-parts'}[0][] = (Integer)$parts[2];
+		}	
+	}
+	else
+	{
+		$citeproc_obj['issued']['date-parts'][] = array($reference->year);	
+	}
+	
 	
 	if (isset($reference->authors))
 	{

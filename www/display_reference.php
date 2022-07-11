@@ -602,6 +602,12 @@ Event.observe(window, \'load\', function() {
 			echo '<li class="text"><a href="' . $config['web_root'] . 'reference/' . $this->id . '.text" title="Text" >Text</a></li>';
 		}
 		echo '</ul>' . "\n";
+		
+		echo '<h2>Page range</h2>' . "\n";
+		echo '<ul class="export-list">' . "\n";
+		echo '<li class="bibtex"><a href="' . $config['web_root'] . 'page_range_editor.php?reference_id=' . $this->id . '" title="Page range" >View</a></li>';
+		echo '</ul>' . "\n";
+		
 
 
 		echo '</div>' . "\n";
@@ -1023,7 +1029,7 @@ Event.observe(window, \'load\', function() {
 		}		
 		
 		// don't do names..
-		if (1)
+		if (0)
 		{
 			// Names
 			$nm = bhl_names_in_reference_by_page($this->id);

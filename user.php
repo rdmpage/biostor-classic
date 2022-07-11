@@ -5,7 +5,10 @@
  *
  */
  
-session_start(); // vital! Without this user_is_logged_in will fail
+if (!isset($_SESSION)) 
+{ 
+	session_start(); 
+} 
 
 require_once (dirname(__FILE__) . '/db.php');
 
