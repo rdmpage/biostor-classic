@@ -1616,7 +1616,7 @@ function reference_to_elastic($reference)
 	global $config;
 	
 	$elastic = new stdclass;
-	$elastic->id = $reference->reference_id;
+	$elastic->id = 'biostor-' . $reference->reference_id;
 	$elastic->type = $reference->genre;
 	
 	$elastic->search_result_data = new stdclass;
@@ -1730,7 +1730,23 @@ function reference_to_elastic($reference)
 		$elastic->search_data->geometry->coordinates = array();
 		foreach ($reference->localities as $loc)
 		{
-			$elastic->search_data->geometry->coordinates[] = array((Double)$loc->longitude, (Double)$loc->latitude);
+			// sanity check on coordinates
+			$ok = true;
+			
+			if ($ok)
+			{
+				$ok = ((Double)$loc->longitude <= 180.0) && ((Double)$loc->longitude >= -180.0);
+			}
+
+			if ($ok)
+			{
+				$ok = ((Double)$loc->latitude <= 90.0) && ((Double)$loc->latitude >= -90.0);
+			}
+		
+			if ($ok)
+			{
+				$elastic->search_data->geometry->coordinates[] = array((Double)$loc->longitude, (Double)$loc->latitude);
+			}
 		}
 	}
 	
@@ -1743,7 +1759,10 @@ function reference_to_elastic($reference)
 	$elastic->search_data->item = (Integer)bhl_retrieve_ItemID_from_PageID($pages[0]->PageID);
 	$elastic->search_data->created = strtotime($reference->created);
 	$elastic->search_data->modified = strtotime($reference->updated);
-
+	
+	// add dates to data we display
+	$elastic->search_result_data->created = strtotime($reference->created);
+	$elastic->search_result_data->modified = strtotime($reference->updated);
 	
 	// Full text fields that we will search on--------------------------------------------
 	$elastic->search_data->fulltext = join(' ', $elastic->search_data->fulltext_terms);
