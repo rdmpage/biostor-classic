@@ -208,7 +208,10 @@ function reference_to_meta_tags($reference)
 			$html .= '<meta name="citation_issue" content="' . $reference->issue . '" />' . "\n";
 		}
 		$html .= '<meta name="citation_firstpage" content="' . $reference->spage . '" />' . "\n";
-		$html .= '<meta name="citation_lastpage" content="' . $reference->epage . '" />' . "\n";
+		if (isset($reference->epage))
+		{
+			$html .= '<meta name="citation_lastpage" content="' . $reference->epage . '" />' . "\n";
+		}
 	}
 	$html .= '<meta name="citation_abstract_html_url" content="' . $config['web_root'] . 'reference/' . $reference->reference_id . '" />' . "\n";
 	$html .= '<meta name="citation_fulltext_html_url" content="' . $config['web_root'] . 'reference/' . $reference->reference_id . '" />' . "\n";
@@ -1397,8 +1400,17 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 		{
 			$citeproc_obj['issue'] = $reference->issue;
 		}
-		$citeproc_obj['page'] = $reference->spage . '-' . $reference->epage;
+		$citeproc_obj['page'] = $reference->spage;
+		if (isset($reference->epage))
+		{
+			$citeproc_obj['page'] .= '-' . $reference->epage;
+		}
 	}
+	
+	if (isset($reference->issn))
+	{
+		$citeproc_obj['ISSN'] = array($reference->issn);
+	}	
 	
 	if (isset($reference->doi))
 	{
@@ -1741,6 +1753,28 @@ function reference_to_elastic($reference)
 	{
 		$elastic->search_result_data->bhl_pages[] = $page->PageID;
 	}
+	
+	// page names (ordered list of page numbers or other labels)
+	$elastic->search_result_data->page_numbers 	= array();
+	$page_counter = 0;
+	foreach ($pages as $page)
+	{
+		if (isset($page->PageNumber) && ($page->PageNumber != ''))
+		{
+			$PageNumber = $page->PageNumber;
+			$PageNumber = preg_replace('/Page%/', '', $PageNumber);
+			$PageNumber = preg_replace('/Pl%/', 'Pl ', $PageNumber);
+			
+			$elastic->search_result_data->page_numbers[$page_counter] = $PageNumber;		
+		}
+		else
+		{
+			$elastic->search_result_data->page_numbers[$page_counter] = "";
+		}
+		$page_counter++;
+	}
+	
+	
 	
 	// geometry---------------------------------------------------------------------------
 	$reference->localities = bhl_localities_for_reference($reference->reference_id);

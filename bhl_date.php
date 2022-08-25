@@ -2394,7 +2394,7 @@ function parse_bhl_date($str, &$info)
 			$info->volume_from = $m['volume_from'];
 			$info->volume_to = $m['volume_to'];
 			$info->start = $m['year_from'];		
-			$info->end = $m['yearend'];	
+			$info->end = $m['year_to'];	
 			$matched = true;
 		}	
 	}	
@@ -3048,6 +3048,19 @@ function parse_bhl_date($str, &$info)
 		}	
 	}	
 	
+	// v.3(1923-1930)
+	if (!$matched)
+	{
+		if ($debug) echo "Trying " . __LINE__ . "\n";
+		if (preg_match("/^v.(?<volume>\d+)\s*\((?<year_from>[0-9]{4})-(?<year_to>[0-9]{4})\)$/Uu", $str, $m))
+		{
+			$info->volume = $m['volume'];
+			$info->start = $m['year_from'];		
+			$info->end = $m['year_to'];		
+			$matched = true;
+		}	
+	}	
+
 	
 	// Nr.1-50 (1957-1960)
 	if (!$matched)

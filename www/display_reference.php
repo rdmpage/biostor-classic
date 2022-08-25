@@ -668,7 +668,7 @@ Event.observe(window, \'load\', function() {
 			echo $this->object->secondary_title;
 			echo '</a>';
 		}
-		else		
+		elseif (isset($this->object->secondary_title))	
 		{
 			echo $this->object->secondary_title;
 		}
@@ -678,7 +678,12 @@ Event.observe(window, \'load\', function() {
 		{
 			echo ' <span class="volume">(' . $this->object->series . ') </span>';
 		}
-		echo '<span class="volume">' . $this->object->volume . '</span>';
+
+		if (isset($this->object->volume))
+		{
+			echo '<span class="volume">' . $this->object->volume . '</span>';		
+		}
+
 		if (isset($this->object->issue))
 		{
 			echo '<span class="issue">' . '(' . $this->object->issue . ')' . '</span>';

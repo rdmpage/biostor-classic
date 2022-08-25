@@ -395,6 +395,14 @@ function db_store_locality($loc)
 			. ',' . $loc->longitude
 			. ", GeomFromText('POINT(" . $loc->longitude . " " . $loc->latitude . ")')"
 			.  ')';
+			
+			// ignore GeomFromText
+			$sql = 'INSERT rdmp_locality(name, latitude, longitude) VALUES (' 
+			. $db->qstr($loc->name) 
+			. ',' . $loc->latitude
+			. ',' . $loc->longitude
+			.  ')';
+			
 		}		
 
 		$result = $db->Execute($sql);
@@ -690,7 +698,7 @@ function bhl_image_source_is_ia($PageID)
 	{
 		//echo $FileNamePrefix;
 		$FileNamePrefix = $result->fields['FileNamePrefix'];
-		$is_ia = !is_numeric($FileNamePrefix{0});
+		$is_ia = !is_numeric($FileNamePrefix[0]);
 	}
 	
 	return $is_ia;
@@ -1282,7 +1290,7 @@ function db_find_author($author)
 		$forename =  $author->forename;
 		for($i=0;$i<strlen($author->forename);$i++)
 		{
-			$spaced .= $forename{$i} . ' ';
+			$spaced .= $forename[$i] . ' ';
 		}
 		$author->forename = trim($spaced);
 	}
@@ -1446,7 +1454,7 @@ function db_find_article($article, $allow_non_bhl = false)
 	{
 		if ($v == '') 
 		{
-			unset($article->${k});
+			unset($article->{$k});
 		}
 	}
 	
@@ -1776,7 +1784,7 @@ function db_retrieve_reference_from_sici($sici)
 			$n = strlen($parts['title']);
 			for($i = 0; $i < $n; $i++)
 			{
-				$title .= $parts['title']{$i} . '% ';
+				$title .= $parts['title'][$i] . '% ';
 			}
 			$title = trim($title);
 		}

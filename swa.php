@@ -189,9 +189,15 @@ function smith_waterman ($str1, $str2, &$html)
 	//echo $X[$i] . '-' . $Y[$j] . "\n";
 	
 	// Store last token in alignment
+	
+	if ($i == -1 || $j == -1)
+	{
+		return 0;	
+	}
+	
 	$s1 = clean_token($X[$i]);
 	$s2 = clean_token($Y[$j]);
-		
+	
 	array_unshift($alignment, 
 		array(
 			'pos' => $i, 
@@ -199,7 +205,7 @@ function smith_waterman ($str1, $str2, &$html)
 			'token' => $X[$i]
 			)
 		);
-
+	
 	// HTML snippet showing alignment
 	
 	// Local alignment

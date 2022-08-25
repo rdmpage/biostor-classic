@@ -153,15 +153,19 @@ function html_page_header($has_search = false, $query = '', $category = 'all')
 			// Login/out
 			if (user_is_logged_in())
 			{
-				// $user = user_with_openid($_COOKIE['openid']);
-				$user = user_with_email($_COOKIE['openid']);
-				if ($user != NULL)
+				if (isset($_COOKIE['openid']))
 				{
-					$html .= '<td><img src="http://www.gravatar.com/avatar/' . md5($user->email) . '" width="32" /></td>';
 			
-					$html .= '<td>   '. $user->username . '   </td>';			
+					// $user = user_with_openid($_COOKIE['openid']);
+					$user = user_with_email($_COOKIE['openid']);
+					if ($user != NULL)
+					{
+						$html .= '<td><img src="http://www.gravatar.com/avatar/' . md5($user->email) . '" width="32" /></td>';
+			
+						$html .= '<td>   '. $user->username . '   </td>';			
+					}
+					$html .= '<td>   <a href="logout.php">Logout</a>   </td>';
 				}
-				$html .= '<td>   <a href="logout.php">Logout</a>   </td>';
 			}
 			else
 			{

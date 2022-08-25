@@ -88,7 +88,9 @@ $config['bhl_api_key']  				= '';
 $config['use_mendeley_oauth'] 	= true;
 $config['use_disqus'] 			= true;
 $config['use_uservoice'] 		= true;
-$config['use_gbif'] 			= true;
+$config['use_gbif'] 			= false;
+
+$config['use_simple_login']		= true;
 
 $config['fetch_images'] 		= true; // false to suppress fetching of images, useful when adding lots of references
 

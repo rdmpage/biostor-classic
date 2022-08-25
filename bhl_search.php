@@ -457,7 +457,7 @@ function bhl_itemid_from_volume($TitleID, $volume, $series = '')
 			else
 			{
 				// Volume is single number
-				if ($info->volume == $volume)
+				if (isset($info->volume) && $info->volume == $volume)
 				{
 					$found = true;
 					
@@ -1142,6 +1142,10 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 'Bulletin Du Museum National D\'histoire Naturelle Section B Adansonia Botanique Phytochimie':
 				$obj->TitleID = 13855;
 				break;
+				
+			case 'Exot. Microlep.':
+				$obj->TitleID = 9241;
+				break;			
 				
 			case 'Journal and Proceedings of the Royal Society of Western Australia':
 				$obj->TitleID = 77508;
@@ -3205,10 +3209,10 @@ case 157756:
 //212975, // 32
 //213956, // 33
 //213840,// 34
-
+);
+		$a=array(35036);
 		
 		
-		);
 		
 		foreach ($a as $itemid)
 		{

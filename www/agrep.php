@@ -12,6 +12,7 @@
 function agrep($agrep_file, $agrep_pattern, &$agrep_line, &$agrep_matches, $agrep_mismatch = 3)
 {
 	$agrep_path = "/usr/local/bin/agrep";	// path to agrep
+	$agrep_path = "/opt/homebrew/bin/agrep";	// path to agrep
 	$agrep_options = "-n -w -i"; //"-x -n"; 				// whole words, output line number
 	$agrep_command = "$agrep_path -$agrep_mismatch $agrep_options '$agrep_pattern' $agrep_file";
 	

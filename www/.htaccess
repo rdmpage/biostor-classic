@@ -1,5 +1,6 @@
 RewriteEngine on
-RewriteBase /~rpage/biostor-classic/www/
+#RewriteBase /~rpage/biostor-classic/www/
+RewriteBase /biostor-classic/www/
 #RewriteBase /
 		
 # If URL has "www" prefix strip and redirect to biostor.org

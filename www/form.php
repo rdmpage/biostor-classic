@@ -180,7 +180,12 @@ function reference_form($reference, $recaptcha = true)
 		switch ($k)
 		{
 			case 'secondary_title':
-				$html .= '<tr><td class="field_name">' . 'Journal' . '</td><td><textarea name="' . $k . '" rows="2" cols="40">' . $reference->{$k} . '</textarea></td></tr>' . "\n";
+				$html .= '<tr><td class="field_name">' . 'Journal' . '</td><td><textarea name="' . $k . '" rows="2" cols="40">';
+				if (isset($reference->{$k}))
+				{
+					$html .= $reference->{$k};
+				}
+				$html .= '</textarea></td></tr>' . "\n";
 				break;
 		
 			default:
