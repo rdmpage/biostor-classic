@@ -76,7 +76,10 @@ function degrees2decimal($degrees, $minutes=0, $seconds=0, $hemisphere='N')
 {
 	$result = $degrees;
 	$result += $minutes/60.0;
-	$result += $seconds/3600.0;
+	if (is_numeric($seconds))
+	{
+		$result += $seconds/3600.0;
+	}
 	
 	if ($hemisphere == 'S')
 	{

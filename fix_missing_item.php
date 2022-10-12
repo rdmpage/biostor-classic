@@ -156,6 +156,11 @@ $replace_list = array(
 44628 => 105674
 );
 
+// The journal of the Bombay Natural History Society
+$replace_list = array(
+95721 => 214677
+);
+
 
 $done = array();
 $manual = array();
@@ -182,6 +187,8 @@ foreach ($replace_list as $old_item => $new_item)
 		$page .= ' ' . $result->fields['PageNumber'];
 		$page = str_replace('[', '', $page);
 		$page = str_replace(']', '', $page);
+		
+		$page = trim($page);
 	
 		if (!isset($new_pages[$page]))
 		{
@@ -251,12 +258,20 @@ foreach ($replace_list as $old_item => $new_item)
 				$page .= ' ' . $result->fields['PageNumber'];
 				$page = str_replace('[', '', $page);
 				$page = str_replace(']', '', $page);
+				$page = trim($page);
+				
+				$page = $result->fields['PageNumber'];
+				
+				//echo $page . "\n";
+				//exit();
 	
 				if (isset($new_pages[$page]))
 				{
 	
 					//echo $page . "\n";
 					//print_r($new_pages[$page]);
+					
+					
 	
 					foreach ($new_pages[$page] as $PageID)
 					//$PageID = $new_pages[$page][0];

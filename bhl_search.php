@@ -777,6 +777,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 	*/
 	
 	
+	if ($title == 'Annuaire du Musée zoologique de l\'Academie des Sciences')
+	{
+		$title = 'Ezhegodnik.';
+	}	
+	
 	if ($title == 'J Res Lepid')
 	{
 		$title = 'Journal of Research on the Lepidoptera';
