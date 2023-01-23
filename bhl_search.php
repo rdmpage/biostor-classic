@@ -177,6 +177,12 @@ function bhl_title_lookup($str, $threshold = 69)
 			$str = 'Berliner entomologische Zeitschrift';
 			break;
 			
+			
+		case 'Ent. Rec. J. Var':
+		case 'Ent. Rec. J. Var.':
+			$str = 'The entomologist\'s record and journal of variation';
+			break;
+			
 		case 'Revue russe d\'entomologie':
 		case 'Revue Russe d\'Entomologie':
 			$str = 'Russkoe entomologicheskoe obozrenie';
@@ -198,6 +204,22 @@ function bhl_title_lookup($str, $threshold = 69)
 	$sql = 'SELECT TitleID, ShortTitle, MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ')
 AS score FROM bhl_title
 WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
+
+	
+	$like_title = $str;
+	$like_title = preg_replace('/\s+&\s+/', ' ', $like_title);
+	
+	$like_title = preg_replace('/\./', '% ', $like_title);
+	$like_title = preg_replace('/(\s+)/', '% ', $like_title);
+	$like_title .= '%';
+	$like_title = '%' . $like_title;
+		
+	// echo $title;
+		
+	$sql = 'SELECT TitleID, ShortTitle FROM bhl_title WHERE ShortTitle LIKE "' . addcslashes($like_title, '"') . '";';
+	//$sql = 'SELECT TitleID, FullTitle FROM bhl_title WHERE FullTitle LIKE "' . addcslashes($like_title, '"') . '";';
+
+
 
 	if ($debug)
 	{
@@ -235,7 +257,8 @@ WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
 			array_push($matches, array(
 				'TitleID' => $result->fields['TitleID'],
 				'ShortTitle' => $result->fields['ShortTitle'],			
-				'score' => $result->fields['score'],
+				//'score' => $result->fields['score'],
+				'score' => 1,
 				'sl' => $subsequence_length,
 				'subsequence' => $C[$cleaned_hit_length][$str_length],
 				'x' => $str,
@@ -250,7 +273,7 @@ WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
 		$count++;
 		$result->MoveNext();
 	}
-	//print_r($lcs);
+	
 	$scores = array();
 	$index = array();
 	foreach ($lcs as $key => $row) 
@@ -1004,6 +1027,18 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		case '0459-8113':
 			$obj->TitleID = 122696;
 			break;
+			
+		case '0046-192X':
+		case '0158-4197':
+			$obj->TitleID = 16355;
+			break;
+			
+			// Fieldiana, Bot
+		case '0015-0746':
+			$obj->TitleID = 42247;
+			break;
+		
+		
 
 		// Gayana
 		case '0016-531X':
@@ -1113,6 +1148,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 		case '0028-0836':
 			$obj->TitleID = 21368;
 			break;
+			
+		// Proceedings of the Zoological Society of London
+		case '0370-2774':
+			$obj->TitleID = 44963;
+			break;
 
 		default:
 			break;
@@ -1146,6 +1186,10 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 'Bulletin du Museum National d\'Histoire Naturelle Section B Adansonia':
 			case 'Bulletin Du Museum National D\'histoire Naturelle Section B Adansonia Botanique Phytochimie':
 				$obj->TitleID = 13855;
+				break;
+				
+			case 'Bulletin de la Société portugaise des sciences naturelles':
+				$obj->TitleID = 169522;
 				break;
 				
 			case 'Exot. Microlep.':
@@ -3216,6 +3260,8 @@ case 157756:
 //213840,// 34
 );
 		$a=array(35036);
+		
+		$a=array(311640);
 		
 		
 		

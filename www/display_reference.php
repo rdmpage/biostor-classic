@@ -690,7 +690,12 @@ Event.observe(window, \'load\', function() {
 		}		
 		echo ':';
 		echo ' ';
-		echo '<span class="pages">' . $this->object->spage . '</span>';
+		
+		if (isset($this->object->spage))
+		{
+			echo '<span class="pages">' . $this->object->spage . '</span>';
+		}
+		
 		if (isset($this->object->epage))
 		{
 			echo '<span class="pages">' . '-' . $this->object->epage . '</span>';
@@ -975,7 +980,7 @@ Event.observe(window, \'load\', function() {
 			{
 				$j->bhl_pages[] = (Integer)$page->PageID;
 			
-				if (1)
+				if (0)
 				{
 					// Store thumbnails of pages (just page 1 for now)
 					if ($count == 0)
@@ -1017,6 +1022,42 @@ Event.observe(window, \'load\', function() {
 			}
 		}
 		
+/*
+//--------------------------------------------------------------------------------------------------
+function bhl_retrieve_item_pages($ItemID)
+{
+	global $db;
+	global $ADODB_FETCH_MODE;
+	
+	$pages = array();
+	
+	$sql = 'SELECT DISTINCT(PageID), PagePrefix, PageNumber, SequenceOrder, FileNamePrefix 
+	FROM bhl_page
+	INNER JOIN page USING(PageID)
+	WHERE (bhl_page.ItemID = ' . $ItemID . ')
+	ORDER BY SequenceOrder';
+	
+	//echo $sql . "\n";
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+	while (!$result->EOF) 
+	{
+		$page = new stdclass;
+		$page->PageID 			= $result->fields['PageID'];
+		$page->page_order 		= $result->fields['SequenceOrder'];
+		$page->PagePrefix 		= $result->fields['PagePrefix'];
+		$page->PageNumber 		= $result->fields['PageNumber'];
+		$page->FileNamePrefix 	= $result->fields['FileNamePrefix'];
+		
+		$pages[] = $page;
+		$result->MoveNext();
+	}
+	
+	return $pages;
+}
+*/		
 		
 				
 		if (1)
@@ -1025,12 +1066,21 @@ Event.observe(window, \'load\', function() {
 			$j->ia->pages = array();
 		
 			$ia_pages = bhl_retrieve_item_pages_for_reference($this->id);
+			
+			foreach ($pages as $page)
+			{
+				$j->ia->pages[] = (Integer)$ia_pages[$page->PageID]->SequenceOrder;
+				$j->ia->FileNamePrefix = preg_replace('/_\d+$/', '', $ia_pages[$page->PageID]->FileNamePrefix);
+			}
+			
+			/*
 			foreach ($ia_pages as $page)
 			{
 				$j->ia->pages[] = (Integer)$page->SequenceOrder;
 			}
 			//$j->ia_pages = $ia_pages;
 			$j->ia->FileNamePrefix = preg_replace('/_\d+$/', '', $ia_pages[0]->FileNamePrefix);
+			*/
 		}		
 		
 		// don't do names..

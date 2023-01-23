@@ -140,6 +140,7 @@ if ($ItemID != 0)
 		});
 		
 		if (logged_in) {
+		//if (0) {
 		
 			var url = 'savepages.php?json=' + encodeURIComponent(JSON.stringify(data)) + '&callback=?';
 			
@@ -157,8 +158,7 @@ if ($ItemID != 0)
 			 });
 
 		
-			//$('#sql').val(JSON.stringify(data, null, 2));		
-			//$( "#dialog" ).dialog( { minWidth: 400 } );			
+				
 		} else {			
 			$('#sql').val(sql);		
 			$( "#dialog" ).dialog( { minWidth: 400 } );

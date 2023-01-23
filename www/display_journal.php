@@ -275,7 +275,7 @@ class DisplayJournal extends DisplayObject
 		echo '<img src="' . sparkline_articles_added_for_issn($this->issn) . '" alt="sparkline" />';
 		echo '</div>';*/
 		
-		echo '<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="rdmpage" data-related="biostor_org">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>';
+		//echo '<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="rdmpage" data-related="biostor_org">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>';
 		
 		
 		echo '<h2>Coverage</h2>' . "\n";

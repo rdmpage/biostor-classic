@@ -108,8 +108,12 @@ if ($can_update)
 				
 				
 			case 'PageID':
-				$PageID = $value;
+				if (!$updating)
+				{
+					$PageID = $value;
+				}
 				break;
+				
 
 			case 'authors':
 				//$value = $value;

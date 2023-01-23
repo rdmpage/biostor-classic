@@ -127,6 +127,20 @@ function parse_bhl_date($str, &$info)
 		echo "|str=$str|" . '<br/>';
 	}
 	
+	// v.3=pt.9-12 (1905-1906)
+	if (!$matched)
+	{
+		if ($debug) echo "Trying " . __LINE__ . "\n";
+		if (preg_match("/v\.(?<volume>\d+)=pt\.\d+-\d+\s+\((?<year_from>[0-9]{4})-(?<year_to>[0-9]{4})\)/iu", $str, $m))
+		{
+			$info->volume = $m['volume'];
+			$info->start = $m['year_from'];		
+			$info->end = $m['year_to'];	
+			$matched = true;
+		}	
+	}	
+	
+	
 	// 11th-14th (1905-1908)
 	if (!$matched)
 	{

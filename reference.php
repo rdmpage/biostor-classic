@@ -79,7 +79,10 @@ function reference_to_citation_text_string($reference)
 			}		
 			$text .= ':';
 			$text .= ' ';
-			$text .= $reference->spage;
+			if (isset($reference->spage))
+			{
+				$text .= $reference->spage;
+			}
 			if (isset($reference->epage))
 			{
 				$text .= '-' . $reference->epage;
@@ -182,7 +185,11 @@ function reference_to_meta_tags($reference)
 	{
 		$html .= '<meta name="dc.creator" content="' . htmlentities($author->forename . ' ' . $author->lastname, ENT_COMPAT, "UTF-8"). '" />' . "\n";
 	}
-	$html .= '<meta name="dc.date" content="' . $reference->date . '" />' . "\n";
+	
+	if (isset($reference->date))
+	{
+		$html .= '<meta name="dc.date" content="' . $reference->date . '" />' . "\n";
+	}
 	$html .= '<meta name="dc.identifier" content="' . $config['web_root'] . 'reference/' . $reference->reference_id . '" />' . "\n";
 	
 
@@ -190,7 +197,10 @@ function reference_to_meta_tags($reference)
 	$html .= "\n<!-- Google Scholar metadata -->\n";
 	$html .= '<meta name="citation_publisher" content="BioStor" />' . "\n";
 	$html .= '<meta name="citation_title" content="' . htmlentities($reference->title, ENT_COMPAT, "UTF-8") . '" />' . "\n";
-	$html .= '<meta name="citation_date" content="' . $reference->date . '" />' . "\n";
+	if (isset($reference->date))
+	{
+		$html .= '<meta name="citation_date" content="' . $reference->date . '" />' . "\n";
+	}
 	
 	$author_names = array();
 	foreach ($reference->authors as $author)
@@ -202,12 +212,18 @@ function reference_to_meta_tags($reference)
 	if ($reference->genre == 'article')
 	{
 		$html .= '<meta name="citation_journal_title" content="' . htmlentities($reference->secondary_title, ENT_COMPAT, "UTF-8") . '" />' . "\n";
-		$html .= '<meta name="citation_volume" content="' . $reference->volume . '" />' . "\n";
+		if (isset($reference->volume))
+		{
+			$html .= '<meta name="citation_volume" content="' . $reference->volume . '" />' . "\n";
+		}
 		if (isset($reference->issue))
 		{
 			$html .= '<meta name="citation_issue" content="' . $reference->issue . '" />' . "\n";
 		}
-		$html .= '<meta name="citation_firstpage" content="' . $reference->spage . '" />' . "\n";
+		if (isset($reference->spage))
+		{
+			$html .= '<meta name="citation_firstpage" content="' . $reference->spage . '" />' . "\n";
+		}
 		if (isset($reference->epage))
 		{
 			$html .= '<meta name="citation_lastpage" content="' . $reference->epage . '" />' . "\n";
@@ -307,8 +323,17 @@ function reference_to_openurl($reference)
 			{
 				$openurl .= '&amp;rft.issn=' . $reference->issn;
 			}
-			$openurl .= '&amp;rft.volume=' . $reference->volume;
-			$openurl .= '&amp;rft.spage=' . $reference->spage;
+
+			if (isset($reference->volume))
+			{
+				$openurl .= '&amp;rft.volume=' . $reference->volume;
+			}
+
+			if (isset($reference->spage))
+			{
+				$openurl .= '&amp;rft.spage=' . $reference->spage;
+			}
+			
 			if (isset($reference->epage))
 			{
 				$openurl .= '&amp;rft.epage=' . $reference->epage;
@@ -1351,7 +1376,10 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 	}
 	else
 	{
-		$citeproc_obj['issued']['date-parts'][] = array($reference->year);	
+		if (isset($reference->date))
+		{
+			$citeproc_obj['issued']['date-parts'][] = array($reference->year);	
+		}
 	}
 	
 	
@@ -1366,6 +1394,9 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 				$a = new stdclass;
 				$a->literal = $author->forename . ' ' . $author->lastname;
 				$a->literal = str_replace(' On ', ' on ', $a->literal);
+				
+				$a->id = (Integer)$author->id;
+				
 				$citeproc_obj['author'][] = $a;
 			}
 			else
@@ -1382,6 +1413,9 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 					{
 						$a->literal = $author->name;
 					}
+					
+					$a->id = (Integer)$author->id;
+					
 					$citeproc_obj['author'][] = $a;
 				}
 			}
@@ -1400,7 +1434,12 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 		{
 			$citeproc_obj['issue'] = $reference->issue;
 		}
-		$citeproc_obj['page'] = $reference->spage;
+		
+		if (isset($reference->spage))
+		{
+			$citeproc_obj['page'] = $reference->spage;
+		}
+		
 		if (isset($reference->epage))
 		{
 			$citeproc_obj['page'] .= '-' . $reference->epage;
@@ -1411,10 +1450,41 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 	{
 		$citeproc_obj['ISSN'] = array($reference->issn);
 	}	
+	else
+	{
+		// hack to add oclc as we will need this if we don't have ISSN
+		if (isset($reference->oclc))
+		{
+			$citeproc_obj['OCLC'] = (Integer)$reference->oclc;
+		}			
+	}
+	
+	// ISBNs
+	if (isset($reference->isbn))
+	{
+		if (!isset($citeproc_obj['ISBN']))
+		{
+			$citeproc_obj['ISBN'] = array();
+		}
+		$citeproc_obj['ISBN'][] = $reference->issn;
+	}	
+	if (isset($reference->isbn13))
+	{
+		if (!isset($citeproc_obj['ISBN']))
+		{
+			$citeproc_obj['ISBN'] = array();
+		}
+		$citeproc_obj['ISBN'][] = $reference->isbn13;
+	}	
 	
 	if (isset($reference->doi))
 	{
 		$citeproc_obj['DOI'] = $reference->doi;
+	}
+
+	if (isset($reference->wikidata))
+	{
+		$citeproc_obj['WIKIDATA'] = $reference->wikidata;
 	}
 	
 	$citeproc_obj['URL'] = $config['web_root'] . 'reference/' . $reference->reference_id;
@@ -1648,6 +1718,8 @@ function reference_to_tsv($reference, $keys = array('reference_id', 'title', 'au
 function reference_to_elastic($reference)
 {
 	global $config;
+	
+	//print_r($reference);
 	
 	$elastic = new stdclass;
 	$elastic->id = 'biostor-' . $reference->reference_id;

@@ -5,6 +5,9 @@
 	<key>HierarchyData</key>
 	<array>
 		<string>E43848CA-94AC-4E6D-84DE-D5BC0D2F9346</string>
+		<string>120E14BC-8AD2-4F4F-8860-1AD3E5688891</string>
+		<string>23AADF56-800D-4564-9878-28A61635D5C7</string>
+		<string>CEA51DDB-85D1-4681-B137-B301CA2F32E7</string>
 		<string>42DB4BFC-5034-48AD-87E1-C2856ECB32C6</string>
 		<string>6AFD74F6-DFF9-4EA0-B927-1598F1CC267B</string>
 		<string>CCD0CD82-CABB-424C-9DC8-2B9757AD76FE</string>
@@ -29,6 +32,7 @@
 				<string>F33812FE-16E6-41CF-8A52-BD16954B15F9</string>
 				<string>88C40EB3-61FE-4CE4-B168-CB6554EFB695</string>
 				<string>F9575923-4478-48E8-85C9-3003A484AEC2</string>
+				<string>E2246A91-A93A-4C9D-A09E-F00C697E756C</string>
 				<string>C0784D2E-E672-4FCF-A8E3-3DAFFFEDD419</string>
 				<string>44271894-021A-49D1-A7CC-0E4393E22943</string>
 			</array>
@@ -53,6 +57,54 @@
 	</array>
 	<key>ProjectItems</key>
 	<dict>
+		<key>120E14BC-8AD2-4F4F-8860-1AD3E5688891</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+QCAAAAAAQQMAAAAOzwkwZ9BNwJ7cl2Ct60U9Za
+				GppRqqUl5CDYS4FJ5qwh4AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAA8AAAABAQAAYmlvc3Rvci1jbGFz
+				c2ljAAUAAAABAQAAYWJvdXQAAAAUAAAAAQYAABAAAAAg
+				AAAAMAAAAEAAAABYAAAACAAAAAQDAACEXAAAAAAAAAgA
+				AAAEAwAAlsYDAAAAAAAIAAAABAMAAEDoHgAAAAAACAAA
+				AAQDAADTd3gAAAAAAAgAAAAEAwAAKkI5AgAAAAAUAAAA
+				AQYAAIQAAACUAAAApAAAALQAAADEAAAACAAAAAAEAABB
+				xJyg39kA5hgAAAABAgAAAgAAAAAAAAAPAAAAAAAAAAAA
+				AAAAAAAACAAAAAQDAAADAAAAAAAAAAQAAAADAwAA9QEA
+				AAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9z
+				aCBIRAgAAAAEAwAAAJCClucAAAAIAAAAAAQAAEHEf2qi
+				gAAAJAAAAAEBAABFRURCQzQ5NS1ERjUyLTQ1NkEtQjQz
+				MS1GQjYwN0JGMDRBRDEYAAAAAQIAAIEAAAABAAAA7xMA
+				AAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAA
+				zAAAAP7///8BAAAAAAAAABAAAAAEEAAAaAAAAAAAAAAF
+				EAAA1AAAAAAAAAAQEAAAAAEAAAAAAABAEAAA8AAAAAAA
+				AAACIAAAzAEAAAAAAAAFIAAAPAEAAAAAAAAQIAAATAEA
+				AAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAAAAATIAAA
+				cAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
+				wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAA
+				AAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biostor-classic/about/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>../biostor-classic/about</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>about</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>162DFB72-1DE4-4573-9DE0-9DED8EAFBE50</key>
 		<dict>
 			<key>ItemData</key>
@@ -157,6 +209,56 @@
 			<string>fixes</string>
 			<key>ItemType</key>
 			<string>StaticCollection</string>
+		</dict>
+		<key>23AADF56-800D-4564-9878-28A61635D5C7</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaygDAAAAAAQQMAAAAKU2hffLOSs4aZdQ1JWbyUik
+				5vgVy0fjQXMn4Tr068mcGAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAA8AAAABAQAAYmlvc3Rvci1jbGFz
+				c2ljAA0AAAABAQAAaXNzbi1saXN0LnBocAAAABQAAAAB
+				BgAAEAAAACAAAAAwAAAAQAAAAFgAAAAIAAAABAMAAIRc
+				AAAAAAAACAAAAAQDAACWxgMAAAAAAAgAAAAEAwAAQOge
+				AAAAAAAIAAAABAMAANN3eAAAAAAACAAAAAQDAACbRjkC
+				AAAAABQAAAABBgAAjAAAAJwAAACsAAAAvAAAAMwAAAAI
+				AAAAAAQAAEHEnKGXCVwmGAAAAAECAAABAAAAAAAAAA8A
+				AAAAAAAAAAAAAAAAAAAIAAAABAMAAAMAAAAAAAAABAAA
+				AAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAA
+				TWFjaW50b3NoIEhECAAAAAQDAAAAkIKW5wAAAAgAAAAA
+				BAAAQcR/aqKAAAAkAAAAAQEAAEVFREJDNDk1LURGNTIt
+				NDU2QS1CNDMxLUZCNjA3QkYwNEFEMRgAAAABAgAAgQAA
+				AAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAA
+				AAAAAAEFAAAaAAAAAQEAAE5TVVJMRG9jdW1lbnRJZGVu
+				dGlmaWVyS2V5AAAEAAAAAwMAAOeKAADYAAAA/v///wEA
+				AAAAAAAAEQAAAAQQAABwAAAAAAAAAAUQAADcAAAAAAAA
+				ABAQAAAIAQAAAAAAAEAQAAD4AAAAAAAAAAIgAADUAQAA
+				AAAAAAUgAABEAQAAAAAAABAgAABUAQAAAAAAABEgAACI
+				AQAAAAAAABIgAABoAQAAAAAAABMgAAB4AQAAAAAAACAg
+				AAC0AQAAAAAAADAgAADgAQAAAAAAAAHAAAAoAQAAAAAA
+				ABHAAAAgAAAAAAAAABLAAAA4AQAAAAAAABDQAAAEAAAA
+				AAAAAOgBAIAMAgAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biostor-classic/issn-list.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./issn-list.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>issn-list.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
 		</dict>
 		<key>2B8C5CF9-0E04-489D-ABFC-E14A68FB8341</key>
 		<dict>
@@ -1459,6 +1561,56 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
+		<key>CEA51DDB-85D1-4681-B137-B301CA2F32E7</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaygDAAAAAAQQMAAAAIdmNSyqKU9yfGJZjcoxeSg6
+				3WSBqOao1XsVKjWreh7BGAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAA8AAAABAQAAYmlvc3Rvci1jbGFz
+				c2ljAA0AAAABAQAAb2NsYy1saXN0LnBocAAAABQAAAAB
+				BgAAEAAAACAAAAAwAAAAQAAAAFgAAAAIAAAABAMAAIRc
+				AAAAAAAACAAAAAQDAACWxgMAAAAAAAgAAAAEAwAAQOge
+				AAAAAAAIAAAABAMAANN3eAAAAAAACAAAAAQDAADXbjoC
+				AAAAABQAAAABBgAAjAAAAJwAAACsAAAAvAAAAMwAAAAI
+				AAAAAAQAAEHEnKGXCVwmGAAAAAECAAABAAAAAAAAAA8A
+				AAAAAAAAAAAAAAAAAAAIAAAABAMAAAMAAAAAAAAABAAA
+				AAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAA
+				TWFjaW50b3NoIEhECAAAAAQDAAAAkIKW5wAAAAgAAAAA
+				BAAAQcR/aqKAAAAkAAAAAQEAAEVFREJDNDk1LURGNTIt
+				NDU2QS1CNDMxLUZCNjA3QkYwNEFEMRgAAAABAgAAgQAA
+				AAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAA
+				AAAAAAEFAAAaAAAAAQEAAE5TVVJMRG9jdW1lbnRJZGVu
+				dGlmaWVyS2V5AAAEAAAAAwMAAOqKAADYAAAA/v///wEA
+				AAAAAAAAEQAAAAQQAABwAAAAAAAAAAUQAADcAAAAAAAA
+				ABAQAAAIAQAAAAAAAEAQAAD4AAAAAAAAAAIgAADUAQAA
+				AAAAAAUgAABEAQAAAAAAABAgAABUAQAAAAAAABEgAACI
+				AQAAAAAAABIgAABoAQAAAAAAABMgAAB4AQAAAAAAACAg
+				AAC0AQAAAAAAADAgAADgAQAAAAAAAAHAAAAoAQAAAAAA
+				ABHAAAAgAAAAAAAAABLAAAA4AQAAAAAAABDQAAAEAAAA
+				AAAAAOgBAIAMAgAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biostor-classic/oclc-list.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./oclc-list.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>oclc-list.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>D05A72D0-9529-449D-A4A6-B209242478AA</key>
 		<dict>
 			<key>ItemData</key>
@@ -1649,6 +1801,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>nameparse.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>E2246A91-A93A-4C9D-A09E-F00C697E756C</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/ACAAAAAAQQMAAAAHVH4oJv2jBoOQr4IKJ7hwqK
+				tlozQGIKilSXz1S5ZxzA7AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAA8AAAABAQAAYmlvc3Rvci1jbGFz
+				c2ljABMAAAABAQAAZml4X3BhZ2VzX29yZGVyLnBocAAU
+				AAAAAQYAABAAAAAgAAAAMAAAAEAAAABYAAAACAAAAAQD
+				AACEXAAAAAAAAAgAAAAEAwAAlsYDAAAAAAAIAAAABAMA
+				AEDoHgAAAAAACAAAAAQDAADTd3gAAAAAAAgAAAAEAwAA
+				Ug6iAgAAAAAUAAAAAQYAAJAAAACgAAAAsAAAAMAAAADQ
+				AAAACAAAAAAEAABBxDzLI4L1khgAAAABAgAAAQAAAAAA
+				AAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
+				AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAA
+				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAI
+				AAAAAAQAAEHEf2qigAAAJAAAAAEBAABFRURCQzQ5NS1E
+				RjUyLTQ1NkEtQjQzMS1GQjYwN0JGMDRBRDEYAAAAAQIA
+				AIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAA
+				LwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAE
+				EAAAdAAAAAAAAAAFEAAA4AAAAAAAAAAQEAAADAEAAAAA
+				AABAEAAA/AAAAAAAAAACIAAA2AEAAAAAAAAFIAAASAEA
+				AAAAAAAQIAAAWAEAAAAAAAARIAAAjAEAAAAAAAASIAAA
+				bAEAAAAAAAATIAAAfAEAAAAAAAAgIAAAuAEAAAAAAAAw
+				IAAA5AEAAAAAAAABwAAALAEAAAAAAAARwAAAIAAAAAAA
+				AAASwAAAPAEAAAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/biostor-classic/fix_pages_order.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./fix_pages_order.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>fix_pages_order.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>

@@ -1,6 +1,6 @@
 <?php
 
-error_log(E_ALL);
+error_reporting(E_ALL ^ E_DEPRECATED);
 
 /**
  * @file db.php Database
@@ -867,7 +867,7 @@ function bhl_retrieve_item_pages_for_reference($reference_id)
 		$page->PageNumber 		= $result->fields['PageNumber'];
 		$page->FileNamePrefix 	= $result->fields['FileNamePrefix'];
 		
-		$pages[] = $page;
+		$pages[$page->PageID] = $page;
 		$result->MoveNext();
 	}
 	
@@ -1280,7 +1280,15 @@ function db_find_author($author)
 		
 	// Clean name
 	$author->forename = html_entity_decode($author->forename, ENT_QUOTES, "utf-8" ); 
-	$author->lastname = html_entity_decode($author->lastname, ENT_QUOTES, "utf-8" ); 
+	
+	if (isset($author->lastname))
+	{
+		$author->lastname = html_entity_decode($author->lastname, ENT_QUOTES, "utf-8" ); 
+	}
+	else
+	{
+		$author->lastname = "";
+	}
 	
 	
 	// Handle forename as initials without spaces

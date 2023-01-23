@@ -96,7 +96,7 @@ function	parse_name($fullname) {
 					}
 
 				if(in_array_norm($curr,$prefices)) {
-					if($out['last']) {
+					if(isset($out['last'])) {
 						$out['last']	.=	" $curr";
 						}
 					else {

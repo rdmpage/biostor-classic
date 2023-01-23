@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ALL ^ E_DEPRECATED);
+
 /**
  * @file lcs.php
  *
@@ -30,7 +32,7 @@ function LCSLength($X, $Y)
 	{
 		for ($j = 1; $j <= $n; $j++)
 		{
-			if ($X{$i-1} == $Y{$j-1})
+			if ($X[$i-1] == $Y[$j-1])
 			{
 				$C[$i][$j] = $C[$i-1][$j-1]+1;
 			}
