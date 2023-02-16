@@ -177,6 +177,9 @@ function bhl_title_lookup($str, $threshold = 69)
 			$str = 'Berliner entomologische Zeitschrift';
 			break;
 			
+		case 'Bollettino della Società Entomologica Italiana':
+			$str = 'Bollettino della Società entomologica italiana';
+			break;
 			
 		case 'Ent. Rec. J. Var':
 		case 'Ent. Rec. J. Var.':
@@ -208,6 +211,9 @@ WHERE MATCH(ShortTitle) AGAINST(' . $db->qstr($str) . ') LIMIT 5';
 	
 	$like_title = $str;
 	$like_title = preg_replace('/\s+&\s+/', ' ', $like_title);
+	
+	$like_title = preg_replace('/’s /u', ' ', $like_title);
+	$like_title = preg_replace('/\'s /u', ' ', $like_title);
 	
 	$like_title = preg_replace('/\./', '% ', $like_title);
 	$like_title = preg_replace('/(\s+)/', '% ', $like_title);
@@ -1183,6 +1189,11 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 				$obj->TitleID = 600;
 				break;
 				
+			case 'Bollettino della Società entomologica italiana':
+			case 'Bollettino della Società Entomologica Italiana':
+				$obj->TitleID = 9612;
+				break;
+				
 			case 'Bulletin du Museum National d\'Histoire Naturelle Section B Adansonia':
 			case 'Bulletin Du Museum National D\'histoire Naturelle Section B Adansonia Botanique Phytochimie':
 				$obj->TitleID = 13855;
@@ -1191,9 +1202,9 @@ function bhl_find_article($atitle, $title, $volume, $page, $series = '', $date =
 			case 'Bulletin de la Société portugaise des sciences naturelles':
 				$obj->TitleID = 169522;
 				break;
-				
+								
 			case 'Exot. Microlep.':
-				$obj->TitleID = 9241;
+				$obj->TitleID = 8646;
 				break;			
 				
 			case 'Journal and Proceedings of the Royal Society of Western Australia':
